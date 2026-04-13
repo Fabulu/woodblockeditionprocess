@@ -1,0 +1,21 @@
+# Blue Cliff Record / NLC Commons
+
+- Work: `佛果園悟禪師碧巖錄`
+- Priority: backup witness
+- Source pages:
+  - https://commons.wikimedia.org/wiki/File:NLC892-007438303-117938_%E4%BD%9B%E6%9E%9C%E5%9C%92%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84_%E7%AC%AC1%E5%86%8A.pdf
+  - https://commons.wikimedia.org/wiki/File:NLC892-007438303-117939_%E4%BD%9B%E6%9E%9C%E5%9C%92%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84_%E7%AC%AC2%E5%86%8A.pdf
+  - https://commons.wikimedia.org/wiki/File:NLC892-007438303-117940_%E4%BD%9B%E6%9E%9C%E5%9C%92%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84_%E7%AC%AC3%E5%86%8A.pdf
+  - https://commons.wikimedia.org/wiki/File:NLC892-007438303-117991_%E4%BD%9B%E6%9E%9C%E5%9C%92%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84_%E7%AC%AC4%E5%86%8A.pdf
+  - https://commons.wikimedia.org/wiki/File:NLC892-007438303-117988_%E4%BD%9B%E6%9E%9C%E5%9C%92%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84_%E7%AC%AC5%E5%86%8A.pdf
+- Rights basis: Commons file page for volume 1 is tagged `CC-PD-Mark`, `PD-old-100-expired`, and `PD-scan (PD-old-100-expired)`. The page also displays the standard mechanical-scan public-domain notice.
+- Local evidence:
+  - `source_page.html`
+  - retry snapshots were pruned; keep only the canonical `source_page.html`
+- Status: all five volumes acquired and validated locally with `fitz` page counts. Canonical files are the underscore-named PDFs:
+  - `NLC892-007438303-117938_佛果園悟禪師碧巖錄_第1冊.pdf` (85 pages)
+  - `NLC892-007438303-117939_佛果園悟禪師碧巖錄_第2冊.pdf` (63 pages)
+  - `NLC892-007438303-117940_佛果園悟禪師碧巖錄_第3冊.pdf` (56 pages)
+  - `NLC892-007438303-117991_佛果園悟禪師碧巖錄_第4冊.pdf` (54 pages)
+  - `NLC892-007438303-117988_佛果園悟禪師碧巖錄_第5冊.pdf` (70 pages)
+- Notes: earlier retry artifacts for volume 1 failed PDF stream validation and were removed after the canonical five-volume set was revalidated. The extra `source_page_v0*` HTML snapshots were also pruned after confirming they were retry clutter rather than needed provenance anchors.

@@ -1,0 +1,37 @@
+# Tianan Sheng Sayings / NCL Commons
+
+- Work: `天岸昇禪師語錄`
+- Priority: high
+- Source category: https://commons.wikimedia.org/wiki/Category:%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84
+- Source pages:
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_01_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_02_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_03_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_04_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_05_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_06_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_07_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_08_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_09_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_10_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_11_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_12_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_13_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+  - https://commons.wikimedia.org/wiki/File:NCL-08950_14_%E5%A4%A9%E5%B2%B8%E6%98%87%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
+- Rights basis: Commons-hosted National Central Library scans of a premodern work. Exact Commons file-page license text is the controlling rights statement.
+- Local files:
+  - `NCL-08950_01_tianan_sheng_sayings.pdf`
+  - `NCL-08950_02_tianan_sheng_sayings.pdf`
+  - `NCL-08950_03_tianan_sheng_sayings.pdf`
+  - `NCL-08950_04_tianan_sheng_sayings.pdf`
+  - `NCL-08950_05_tianan_sheng_sayings.pdf`
+  - `NCL-08950_06_tianan_sheng_sayings.pdf`
+  - `NCL-08950_07_tianan_sheng_sayings.pdf`
+  - `NCL-08950_08_tianan_sheng_sayings.pdf`
+  - `NCL-08950_09_tianan_sheng_sayings.pdf`
+  - `NCL-08950_10_tianan_sheng_sayings.pdf`
+  - `NCL-08950_11_tianan_sheng_sayings.pdf`
+  - `NCL-08950_12_tianan_sheng_sayings.pdf`
+  - `NCL-08950_13_tianan_sheng_sayings.pdf`
+  - `NCL-08950_14_tianan_sheng_sayings.pdf`
+- Status: full 14-part set downloaded and validated with `pypdf`.

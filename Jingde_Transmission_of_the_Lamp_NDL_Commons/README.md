@@ -1,0 +1,29 @@
+# Jingde Transmission of the Lamp / NDL Commons
+
+- Work: `景德傳燈錄`
+- Priority: core
+- Source category: https://commons.wikimedia.org/wiki/Category:%E6%99%AF%E5%BE%B7%E5%82%B3%E7%87%88%E9%8C%84
+- Source pages:
+  - https://commons.wikimedia.org/wiki/File:NDL2569893_%E6%99%AF%E5%BE%B3%E5%82%B3%E7%87%88%E9%8C%B230%E5%8D%B7.(1).pdf
+  - https://commons.wikimedia.org/wiki/File:NDL2569894_%E6%99%AF%E5%BE%B3%E5%82%B3%E7%87%88%E9%8C%B230%E5%8D%B7.(2).pdf
+  - https://commons.wikimedia.org/wiki/File:NDL2569895_%E6%99%AF%E5%BE%B3%E5%82%B3%E7%87%88%E9%8C%B230%E5%8D%B7.(3).pdf
+  - https://commons.wikimedia.org/wiki/File:NDL2569896_%E6%99%AF%E5%BE%B3%E5%82%B3%E7%87%88%E9%8C%B230%E5%8D%B7.(4).pdf
+  - https://commons.wikimedia.org/wiki/File:NDL2569897_%E6%99%AF%E5%BE%B3%E5%82%B3%E7%87%88%E9%8C%B230%E5%8D%B7.(5).pdf
+  - https://commons.wikimedia.org/wiki/File:NDL2569898_%E6%99%AF%E5%BE%B3%E5%82%B3%E7%87%88%E9%8C%B230%E5%8D%B7.(6).pdf
+  - https://commons.wikimedia.org/wiki/File:NDL2569790_%E6%99%AF%E5%BE%B3%E5%82%B3%E7%87%88%E9%8C%B230%E5%8D%B7.(7).pdf
+  - https://commons.wikimedia.org/wiki/File:NDL2569813_%E6%99%AF%E5%BE%B3%E5%82%B3%E7%87%88%E9%8C%B230%E5%8D%B7.(8).pdf
+  - https://commons.wikimedia.org/wiki/File:NDL2569899_%E6%99%AF%E5%BE%B3%E5%82%B3%E7%87%88%E9%8C%B230%E5%8D%B7.(9).pdf
+  - https://commons.wikimedia.org/wiki/File:NDL2569900_%E6%99%AF%E5%BE%B3%E5%82%B3%E7%87%88%E9%8C%B230%E5%8D%B7.(10).pdf
+- Rights basis: Commons-hosted National Diet Library scans with public-domain scan posture (`PD-Japan` plus `PD-scan` on file pages).
+- Local files:
+  - `NDL2569893_jingde_part1.pdf`
+  - `NDL2569894_jingde_part2.pdf`
+  - `NDL2569895_jingde_part3.pdf`
+  - `NDL2569896_jingde_part4.pdf`
+  - `NDL2569897_jingde_part5.pdf`
+  - `NDL2569898_jingde_part6.pdf`
+  - `NDL2569790_jingde_part7.pdf`
+  - `NDL2569813_jingde_part8.pdf`
+  - `NDL2569899_jingde_part9.pdf`
+  - `NDL2569900_jingde_part10.pdf`
+- Status: full ten-part NDL set downloaded and validated with `pypdf`.

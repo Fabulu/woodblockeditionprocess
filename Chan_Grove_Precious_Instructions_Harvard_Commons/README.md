@@ -1,0 +1,18 @@
+# Chan Grove Precious Instructions / Harvard Commons
+
+- Work: `禪林寶訓`
+- Priority: high
+- Source category: https://commons.wikimedia.org/wiki/Category:%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93
+- Primary source pages:
+  - https://commons.wikimedia.org/wiki/File:Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E4%B8%80.pdf
+  - https://commons.wikimedia.org/wiki/File:Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E4%BA%8C.pdf
+  - https://commons.wikimedia.org/wiki/File:Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E4%B8%89.pdf
+  - https://commons.wikimedia.org/wiki/File:Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E5%9B%9B.pdf
+- Rights basis: Harvard Commons file pages are marked `Public domain`, `PD Old`, and `CC-PD-Mark`. Commons file-page license text is the controlling rights statement.
+- Planned local files:
+- Local files:
+  - `Harvard_drs_9013583_zenlin_baoxun_vol1.pdf`
+  - `Harvard_drs_9013583_zenlin_baoxun_vol2.pdf`
+  - `Harvard_drs_9013583_zenlin_baoxun_vol3.pdf`
+  - `Harvard_drs_9013583_zenlin_baoxun_vol4.pdf`
+- Status: full four-volume set downloaded and validated with `pypdf` (`33`, `33`, `32`, `35` pages).

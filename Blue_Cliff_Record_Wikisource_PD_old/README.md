@@ -1,0 +1,25 @@
+# Blue Cliff Record / Wikisource Text
+
+- Work: `佛果圜悟禪師碧巖錄`
+- Priority: high
+- Source page: https://zh.wikisource.org/wiki/%E4%BD%9B%E6%9E%9C%E5%9C%9C%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84
+- Stable revision checked: https://zh.wikisource.org/w/index.php?title=%E4%BD%9B%E6%9E%9C%E5%9C%9C%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84&oldid=2082713
+- Rights basis: Wikisource page footer is CC BY-SA 4.0; the page revision is pinned and the local package carries the book-level page revisions.
+- Provenance check: no CBETA marker found in the captured package so far.
+- Completeness: local package now includes 序 and 卷001 through 卷010.
+- Local files:
+  - `佛果圜悟禪師碧巖錄.wikitext`
+  - `佛果圜悟禪師碧巖錄_序.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷001.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷002.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷003.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷004.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷005.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷006.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷007.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷008.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷009.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷010.wikitext`
+  - `page_revisions.json`
+  - `root_oldid.html`
+- Status: acquired and complete as a text witness package.

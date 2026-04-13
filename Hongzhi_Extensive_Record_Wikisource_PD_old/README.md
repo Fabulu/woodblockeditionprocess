@@ -1,0 +1,24 @@
+# Hongzhi Extensive Record / Wikisource PD-old Text
+
+- Work: `宏智禪師廣錄`
+- Priority: high
+- Source page: https://zh.wikisource.org/wiki/%E5%AE%8F%E6%99%BA%E7%A6%AA%E5%B8%AB%E5%BB%A3%E9%8C%84
+- Stable revision: https://zh.wikisource.org/w/index.php?title=%E5%AE%8F%E6%99%BA%E7%A6%AA%E5%B8%AB%E5%BB%A3%E9%8C%84&oldid=2601369
+- Rights basis: the captured `root_oldid.html` shows page-level `PD-old` / public-domain language for the work and the Wikisource site footer states that site text is available under `CC BY-SA 4.0`.
+- Provenance check: captured source package shows no `CBETA` marker.
+- Local files:
+  - `宏智禪師廣錄.wikitext`
+  - `宏智禪師廣錄_序.wikitext`
+  - `宏智禪師廣錄_卷001.wikitext`
+  - `宏智禪師廣錄_卷002.wikitext`
+  - `宏智禪師廣錄_卷003.wikitext`
+  - `宏智禪師廣錄_卷004.wikitext`
+  - `宏智禪師廣錄_卷005.wikitext`
+  - `宏智禪師廣錄_卷006.wikitext`
+  - `宏智禪師廣錄_卷007.wikitext`
+  - `宏智禪師廣錄_卷008.wikitext`
+  - `宏智禪師廣錄_卷009.wikitext`
+  - `page_revisions.json`
+  - `root_oldid.html`
+- Status: downloaded and vetted as a complete exact text witness (`9` scroll pages plus root and preface pages).
+- Notes: exact text witness for `T48n2001`.

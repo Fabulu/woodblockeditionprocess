@@ -1,0 +1,11 @@
+*.pdf
+*.djvu
+*.zip
+*.html
+*.json
+*.txt
+*.wikitext
+*.ps1
+*.js
+.venv*/
+*/.venv*/
