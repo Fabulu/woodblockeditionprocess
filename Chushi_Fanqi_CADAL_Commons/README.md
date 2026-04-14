@@ -3,6 +3,9 @@ Work: 佛日普照慧辨楚石禪師語錄
 Source page:
 https://commons.wikimedia.org/wiki/File:CADAL02019673_%E4%BD%9B%E6%97%A5%E6%99%AE%E7%85%A7%E6%85%A7%E8%BE%A8%E6%A5%9A%E7%9F%B3%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84%EF%BC%88%E4%B8%80%EF%BC%89.djvu
 
+Direct file URL:
+https://commons.wikimedia.org/wiki/Special:Redirect/file/CADAL02019673_%E4%BD%9B%E6%97%A5%E6%99%AE%E7%85%A7%E6%85%A7%E8%BE%A8%E6%A5%9A%E7%9F%B3%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84%EF%BC%88%E4%B8%80%EF%BC%89.djvu
+
 Rights basis:
 - Commons file page categories include `CC-PD-Mark` and `PD Old`.
 - Commons file page category includes `Scans from the China Academic Digital Associative Library`.

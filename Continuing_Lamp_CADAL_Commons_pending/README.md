@@ -3,6 +3,9 @@ Work: 續傳燈錄
 Source page:
 https://commons.wikimedia.org/wiki/File:CADAL02019615_%E7%BA%8C%E5%82%B3%E7%87%88%E9%8C%84%EF%BC%88%E4%B8%80%EF%BC%89.djvu
 
+Direct file URL:
+https://commons.wikimedia.org/wiki/Special:Redirect/file/CADAL02019615_%E7%BA%8C%E5%82%B3%E7%87%88%E9%8C%84%EF%BC%88%E4%B8%80%EF%BC%89.djvu
+
 Rights basis:
 - Commons file page categories include `CC-PD-Mark` and `PD Old`.
 - Commons file page category includes `Scans from the China Academic Digital Associative Library`.
