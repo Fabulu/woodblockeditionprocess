@@ -1,0 +1,18 @@
+# Faith in Mind / NDL / More Commentaries
+
+- Work family: `信心銘`
+- Witnesses:
+  - `通俗信心銘講話` part 1
+  - `通俗信心銘講話` part 2
+- Source pages:
+  - https://commons.wikimedia.org/wiki/File:NDL823371_%E9%80%9A%E4%BF%97%E4%BF%A1%E5%BF%83%E9%8A%98%E8%AC%9B%E8%A9%B1_part1.pdf
+  - https://commons.wikimedia.org/wiki/File:NDL823371_%E9%80%9A%E4%BF%97%E4%BF%A1%E5%BF%83%E9%8A%98%E8%AC%9B%E8%A9%B1_part2.pdf
+- DOI: `10.11501/823371`
+- Rights basis: both Commons file pages are categorized `PD-Japan` and `PD-scan (PD-Japan)`.
+- Local files:
+  - `NDL823371_tsuuzoku_xinxinming_kouwa_part1.pdf`
+  - `NDL823371_tsuuzoku_xinxinming_kouwa_part2.pdf`
+- Local file facts:
+  - `part1`: `52,720,160` bytes; SHA-256 `5D91380E93C8B3D7F9893B9E0AB7BED4EBBFEBB4215B2B84C67CE30E2CD8DE26`
+  - `part2`: `25,096,531` bytes; SHA-256 `DD12C5AB8ECAA5EBB1479AC1724EF1BAFBF9D210B8C119295D3A914BD38D90DD`
+- Notes: exact Commons-backed NDL commentary witness set; Commons file-page metadata shows `100` pages for part 1 and `15` pages for part 2.
