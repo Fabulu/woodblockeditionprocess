@@ -111,6 +111,7 @@ xml-open/{prefix}/{slug}/
   {slug}.xml
   manifest.json
   process.json
+  witnesses.json
   apparatus.json
   stats.json
   README.md
@@ -156,6 +157,14 @@ The programmer should treat these as distinct product surfaces, not interchangea
   - `apparatus.json`
   - TEI note and apparatus anchors where appropriate
 
+### Mode 3A. Witness delivery mode
+
+- purpose: definitive delivered witness texts plus programmatic witness lookup
+- primary artifacts:
+  - `witnesses.json`
+  - definitive witness text files
+  - per-witness locus or page-line maps where available
+
 ### Mode 4. Stats mode
 
 - purpose: compact machine-readable quantitative summary
@@ -179,6 +188,7 @@ The UI and pipeline must preserve mode separation:
 - sidebar provenance mode stays concise
 - process/apparatus/stats/documents open in a dedicated edition dialog or browser
 - edition text mode remains the reading surface
+- witness delivery mode must support direct witness browsing and locus comparison
 - timeline mode must be able to replay how the reading surface and editorial state changed over time
 
 ### `manifest.json`
@@ -305,6 +315,34 @@ Each entry should include:
 - `decision`
 - `decision_basis`
 - `status`
+
+### `witnesses.json`
+
+This is the machine-readable witness delivery registry for the viewer.
+
+It is not optional for a published critical edition that intends to expose witness comparison.
+
+Each witness entry should include at minimum:
+
+- `witness_id`
+- `siglum`
+- `label`
+- `family_id`
+- `role`
+- `definitive_text_file`
+- `text_format`
+- `text_status`
+- `completeness`
+- `confidence`
+- `has_locus_map`
+- `locus_map_file`
+- `source_readme`
+
+The viewer must be able to answer from this file:
+
+- what witnesses exist
+- which text artifact is the definitive delivered text for each witness
+- how to open that witness at a relevant locus
 
 ### `stats.json`
 
@@ -624,6 +662,17 @@ If a decision changes the current edition state, it must also generate a timelin
 
 If it changes visible text, it must generate a `text_changed` event with exact `locus_id`, cause, evidence, and before/after reading state captured at the moment of change.
 
+Visible text work must be recorded by bounded slices.
+
+For each substantial correction, collation adoption, or other text-editing batch:
+
+1. define the slice boundary before edits begin
+2. update the active pass log as the slice closes
+3. update `current-state.md` so `last_completed_phase` names that slice
+4. create a fresh `text_changed` timeline event for that slice
+
+Do not merely revise the details of an older stage-start event after later text changes occur.
+
 ### Stage 8. Unresolved loci
 
 Do not bury uncertainty in prose notes.
@@ -819,6 +868,13 @@ Preferred UI:
 
 It should show the same locus across selected witnesses.
 
+When witness count is large, the default comparison view should:
+
+- show differing witnesses first
+- collapse identical witnesses unless expanded
+- allow plain-text copy of witness readings
+- allow opening the full delivered witness text for a selected siglum
+
 It is not:
 
 - the final critical text itself
@@ -850,6 +906,8 @@ The system must preserve all three:
 3. timeline surface
 
 Witness comparison is necessary, but witness comparison alone is not the critical-edition model.
+
+It must also preserve definitive delivered witness texts as first-class artifacts rather than leaving witness access buried in OCR working directories.
 
 ### Converter requirement
 
@@ -885,6 +943,7 @@ Add to `MANIFEST_SCHEMA.md`:
   - `review`
   - `publication-candidate`
   - `published`
+- `witnesses_file`
 
 For each witness add:
 
@@ -930,10 +989,13 @@ Tabs:
 4. `Apparatus`
    Locus-by-locus variants and decisions
 
-5. `Stats`
+5. `Witnesses`
+   Open definitive witness texts, compare at locus, copy readings, and expand from differing-only to all witnesses
+
+6. `Stats`
    coverage, unresolved counts, machine/human ratios
 
-6. `Documents`
+7. `Documents`
    markdown logs and notes
 
 The timeline surface must let the reader:
@@ -943,6 +1005,14 @@ The timeline surface must let the reader:
 - filter by actor, witness, or event type
 - see what changed at the selected step
 - open linked evidence and documents
+
+The witness surface must let the reader:
+
+- open a locus-driven popup or panel from the critical text
+- show differing witnesses by default when witness counts are high
+- expand to all witnesses
+- copy witness readings as plain text
+- open the full definitive text for a selected witness
 
 The visible reading text should be able to reflect the selected timeline state when feasible.
 
@@ -1042,15 +1112,16 @@ Use `信心銘` as the first text to fully adopt this system because:
 1. Patch `MANIFEST_SCHEMA.md` to add process/apparatus/stat hooks.
 2. Define JSON schemas for `process.json`, `apparatus.json`, `stats.json`.
 3. Define the JSON schema for `timeline.json` and the state model it depends on.
-4. Extend `ManifestInfo.cs` and add new typed models.
-5. Add new services to load those JSON files.
-6. Extend `TeiRenderer.cs` note-kind inference to support OpenZen critical-note families while keeping CBETA compatibility.
-7. Keep the current provenance sidebar focused on license/source facts.
-8. Build a dedicated edition-process dialog with tabs for sources, process, timeline, apparatus, stats, documents, and notes.
-9. Add curated document-discovery rules instead of free-for-all markdown scanning.
-10. Add validators so a critical edition cannot be published with missing required process artifacts.
-11. Migrate `wumenguan-1632` into the new structure as the first exemplar.
-12. Then start `信心銘` under the new pipeline instead of the old ad hoc one.
+4. Define the JSON schema for `witnesses.json` and the definitive witness text delivery contract.
+5. Extend `ManifestInfo.cs` and add new typed models.
+6. Add new services to load those JSON files.
+7. Extend `TeiRenderer.cs` note-kind inference to support OpenZen critical-note families while keeping CBETA compatibility.
+8. Keep the current provenance sidebar focused on license/source facts.
+9. Build a dedicated edition-process dialog with tabs for sources, process, timeline, apparatus, witnesses, stats, documents, and notes.
+10. Add curated document-discovery rules instead of free-for-all markdown scanning.
+11. Add validators so a critical edition cannot be published with missing required process artifacts or missing definitive witness delivery artifacts.
+12. Migrate `wumenguan-1632` into the new structure as the first exemplar.
+13. Then start `信心銘` under the new pipeline instead of the old ad hoc one.
 
 ## Immediate cleanup required before migration
 

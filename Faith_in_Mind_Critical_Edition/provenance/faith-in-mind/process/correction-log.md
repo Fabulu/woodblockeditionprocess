@@ -9,7 +9,7 @@ Witness: `T1`
 - Working file: `provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt`
 - Source OCR basis: normalized RapidOCR full-pass output
 - Comparator basis available: `RapidOCR`, `tesseract`, `EasyOCR`, `PaddleOCR`
-- Current correction slice: opening title matter and opening lemma lines on `T1-p001` to `T1-p019`
+- Current correction slice: OCR-supported early prefatory and commentary prose on `T1-p005` to `T1-p010`
 
 ## Entries
 
@@ -36,9 +36,48 @@ Witness: `T1`
 | 2026-04-14 | `T1-p033.l01` | OCR certainty fix | `無智無法不生尔心` | `無咎無法不生不心` | standard later lemma; OCR corruption obvious | fixed |
 | 2026-04-14 | `T1-p034.l01` | OCR certainty fix | `嵌随境减境逐能沉` | `能隨境滅境逐能沉` | standard later lemma; OCR corruption obvious | fixed |
 | 2026-04-14 | `T1-p035.l01` | OCR certainty fix | `敬知两股元是一空` | `欲知兩段元是一空` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p036.l01` | OCR certainty fix | `大地甚废得来求次划火洞然工宅击畵青山` | `一空同兩齊含萬象` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p037.l01` | OCR certainty fix | `不見精麗客有偏黑` | `不見精粗寧有偏黨` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p038.l01` | OCR certainty fix | `大道体無易無雄` | `大道體寬無易無難` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p039.l01` | OCR certainty fix | `前劳形苦神急要成殊不知搏急搏暹用` | `小見狐疑轉急轉遲` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p040.l01` | OCR certainty fix | `魏之失度农入邪路` | `執之失度必入邪路` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p041.l01` | OCR certainty fix | `任性合道道运临` | `任性合道逍遙絕惱` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p042.l01` | OCR certainty fix | `繁念乖真即沉不好` | `繫念乖真昏沉不好` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p043.l01` | OCR certainty fix | `不好劳神何用陈親` | `不好勞神何用疏親` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p044.l01` | OCR certainty fix | `欲趣一秉勿恶六度` | `欲趣一乘勿惡六塵` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p045.l01` | OCR certainty fix | `六不恶逐同正` | `六塵不惡還同正覺` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p046.l01` | OCR certainty fix | `智者舞莺悬人创傳` | `智者無爲愚人自縛` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p048.l01` | OCR certainty fix | `将心用心豆非大蜡` | `將心用心豈非大錯` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p049.l01` | OCR certainty fix | `迷生舜乱悟無好恶` | `迷生寂亂悟無好惡` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p050.l01` | OCR certainty fix | `一切二遍每自韵` | `一切二邊妄自斟酌` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p051.l01` | OCR certainty fix | `贾受约空花何劳把报` | `夢幻空華何勞把捉` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p052.l01` | OCR certainty fix | `得失是非一時放割` | `得失是非一時放卻` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p053.l01` | OCR certainty fix | `眼岩不腾昔要自除` | `眼若不睡諸夢自除` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p054.l01` | OCR certainty fix | `费無境若心不迷不起则垂死無生六翰` | `心若不異萬法一如` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p055.l01` | OCR certainty fix | `心君不具万法` | `一如體玄兀爾忘緣` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p056.l01` | OCR certainty fix | `万法齊觀爵復自然` | `萬法齊觀歸復自然` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p057.l01` | OCR certainty fix | `氓其所以不可方证` | `泯其所以不可方比` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p058.l01` | OCR certainty fix | `上動無子止無止` | `止動無動動止無止` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p059.l01` | OCR certainty fix | `两既石成一何有介` | `兩既不成一何有爾` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p062.l01` | OCR certainty fix | `松疑净壶正信调直` | `狐疑盡淨正信調直` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p064.l01` | OCR certainty fix | `要会鹰` | `虛明自照不勞心力` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p066.l01` | OCR certainty fix | `真如法界无自无他` | `真如法界無他無自` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p067.l01` | OCR certainty fix | `要息相應难言二` | `要急相應唯言不二` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p068.l01` | OCR certainty fix | `不二皆同無不包客送` | `不二皆同無不包容` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p069.l01` | OCR certainty fix | `十方` | `十方智者皆入此宗` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p070.l01` | OCR certainty fix | `宗非侵延一念萬年` | `宗非促延一念萬年` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p071.l01` | OCR certainty fix | `舞不在十方目前` | `無在不在十方目前` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p072.l01` | OCR certainty fix | `趣小同大忘境果` | `極小同大忘絕境界` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p073.l01` | OCR certainty fix | `極大同小不见表` | `極大同小不見邊表` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p074.l01` | OCR certainty fix | `有即是無才即是有“` | `有即是無無即是有` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p075.l01` | OCR certainty fix | `祖大師超州廣携取封在日隐野花帝鸟` | `若不如此必不須守` | standard later lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p078.l01` | OCR certainty fix | `信心不二名二信心` | `信心不二不二信心` | standard closing lemma; OCR corruption obvious | fixed |
+| 2026-04-14 | `T1-p079.l01` | OCR certainty fix | `言语道断兆去来今` | `言語道斷非去來今` | standard closing lemma; OCR corruption obvious | fixed |
 
 ## Open cautions
 
-- This pass corrects only high-confidence opening title and lemma lines.
+- This pass corrects only high-confidence title and lemma lines.
 - Commentary prose on `T1-p005` onward remains largely uncorrected.
+- `T1-p005` to `T1-p010` now have additional OCR support from extracted Paddle JSON text plus focused and full-pass Tesseract outputs.
+- `T1-p005` to `T1-p010` also now have Paddle column-ordered support text derived from JSON geometry to help separate recognition errors from reading-order errors.
 - No comparison witnesses beyond `T1` have entered the transcription pass yet.

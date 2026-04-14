@@ -36,6 +36,8 @@ If visible edition text changes, also create:
 
 Maintain `current-state.md` alongside this log so a future agent can resume from the recorded next step instead of restarting the workflow.
 
+When a bounded text-work slice completes, update `current-state.md` so `last_completed_phase` names that exact slice.
+
 ---
 
 ## Policy constraints
@@ -119,6 +121,12 @@ Notes:
 - fallback only:
   - `previous_reading`
   - `new_reading`
+
+**Slice declaration required before editing:**
+- slice label
+- start locus
+- end locus if known
+- target file(s)
 
 **Rejected or failed paths:**
 - [location] [OCR failure / unusable crop / false positive / abandoned approach]
@@ -210,6 +218,7 @@ If any visible reading changed here, confirm:
 - corresponding `text_changed` events created
 - `timeline.json` updated
 - `human-log.md` updated if reader-facing significance exists
+- `current-state.md` updated so `last_completed_phase` matches the completed slice
 
 **Status:** [draft | corroborated | review-ready | final]
 
@@ -226,6 +235,7 @@ If any visible reading changed here, confirm:
 | YYYY-MM-DD | Rough readings table updated | [yes / no] |
 | YYYY-MM-DD | Open-policy compliance check | [no licensed witness used] |
 | YYYY-MM-DD | Build script rerun | [ok / failed / output path] |
+| YYYY-MM-DD | Active pass log, `current-state.md`, and newest timeline event agree on last completed slice | [yes / no] |
 
 ---
 

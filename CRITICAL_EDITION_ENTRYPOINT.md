@@ -27,6 +27,7 @@ The end state is a full OpenZen critical-edition package that ReadZen can displa
 - process history
 - OCR and segmentation evidence
 - apparatus / editorial decisions
+- definitive delivered witness texts
 - reader-facing notes / footnotes
 - machine-readable stats
 - reverse-patching-compatible timeline history
@@ -217,6 +218,7 @@ Produce:
 - `manifest.json`
 - `process.json`
 - `timeline.json`
+- `witnesses.json`
 - `apparatus.json`
 - `stats.json`
 - `documents.json`
@@ -254,6 +256,7 @@ Minimum edition files:
 
 - `manifest.json`
 - `process.json`
+- `witnesses.json`
 - `apparatus.json`
 - `stats.json`
 - `{slug}.xml`
@@ -323,6 +326,8 @@ The implementation must preserve separate surfaces for:
 
 Witness comparison should be locus-driven and should open individual witness readings directly.
 
+The final package must therefore include definitive delivered witness texts and machine-readable witness lookup, not only the critical text and apparatus.
+
 Timeline replay should remain about edition-state history, not raw witness browsing.
 
 ## Publication standard
@@ -349,6 +354,7 @@ Check:
 - `manifest.json`
 - `process.json`
 - `timeline.json`
+- `witnesses.json`
 - `apparatus.json`
 - `stats.json`
 - `documents.json`
@@ -359,6 +365,7 @@ Confirm:
 - JSON integrity
 - schema validation where available
 - existing file paths for all registered documents and manifest targets
+- definitive delivered witness texts exist for all witnesses declared in viewer comparison data
 - coherent separation between notes, apparatus, decision log, and human-log surfaces
 
 ## Faith in Mind instructions

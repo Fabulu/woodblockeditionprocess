@@ -26,3 +26,10 @@ Transcriptions/*/scripts/
 !*/xml-open/ce/*/timeline.json
 !*/provenance/*/transcription/normalized/*.txt
 !*/provenance/*/transcription/corrected/*.txt
+!**/ocr/*/ocr/paddleocr-ppocrv4/extracted-text/*.txt
+!**/ocr/*/ocr/paddleocr-ppocrv4/extracted-text/README.md
+!**/ocr/*/ocr/paddleocr-ppocrv4/column-ordered-text/*.txt
+!**/ocr/*/ocr/paddleocr-ppocrv4/column-ordered-text/run-summary.json
+!**/ocr/*/ocr/tesseract-early-support/*.txt
+!**/ocr/*/ocr/tesseract-full-pass/*.txt
+!**/ocr/*/ocr/tesseract-full-pass/run-summary.json

@@ -25,6 +25,12 @@ RapidOCR pass 1 then ran across all `83` pages of `T1`. It produced text on `80`
 
 The page-role pass is now also complete. `T1` is not a bare poem witness spread across `83` body pages; it currently reads as title or imprint matter on `p001-p004`, prefatory prose on `p005-p006`, commentary-dominant pages with embedded poem lemmata on `p007-p080`, and blank tail pages on `p081-p083`.
 
-Stage 2D has now started. A corrected working file and correction log exist, and the first bounded correction slice repaired the opening title lines plus a run of recoverable `信心銘` lemmata through `T1-p035.l01`. That is enough to move the package out of planning and into real correction work without pretending the commentary prose is already secure.
+Stage 2D has now started. A corrected working file and correction log exist, and the first bounded correction slice repaired the opening title lines plus a broad recoverable `信心銘` lemma spine through `T1-p079.l01`. That is enough to move the package out of planning and into real correction work without pretending the commentary prose is already secure.
 
 Most of `T1` is still uncorrected. The prefatory prose remains unstable, the commentary-heavy body still needs line-by-line work, and the three blank tail pages should be re-confirmed visually during later review.
+
+To keep the next correction step OCR-first rather than speculative, the package now also carries extracted Paddle text companions plus a focused Tesseract support batch for `T1-p005` to `T1-p010`. That does not yet make the prose secure, but it gives the early noisy pages more than one OCR witness on disk.
+
+The OCR support layer is now stronger again. A first full Tesseract attempt failed because the Windows install could not find `chi_tra.traineddata`, so the pass was rerun against the witness-local `ocr/T1/tessdata/` directory instead of treating the environment as healthy by assumption. The corrected rerun completed across all `83` `T1` pages and now gives the package three full OCR witnesses on disk: RapidOCR, PaddleOCR `PP-OCRv4`, and Tesseract.
+
+The active early-prose slice also gained a more targeted support derivative. Because the Paddle plain-text extraction on vertical pages may scramble reading order, a geometry-sorted Paddle support view was generated for `T1-p005` to `T1-p010`. This does not replace the raw extraction, but it gives the correction pass another OCR-only way to judge whether a bad line is an ordering problem rather than a recognition problem.

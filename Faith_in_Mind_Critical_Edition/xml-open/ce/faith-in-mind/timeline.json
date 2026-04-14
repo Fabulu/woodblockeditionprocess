@@ -363,7 +363,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Started Stage 2D manual correction and opened the corrected T1 working spine.",
-      "details": "The package now includes a corrected working text, correction log, unresolved-loci register, and a first bounded set of title and lemma-line OCR certainty fixes through T1-p035.l01.",
+      "details": "The package now includes a corrected working text, correction log, unresolved-loci register, and a first bounded set of title and lemma-line OCR certainty fixes through T1-p079.l01.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -385,6 +385,133 @@
       "status": "completed",
       "state_effect": {
         "manual_correction_started": true,
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-014",
+      "sequence": 14,
+      "timestamp": "2026-04-14",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Recovered a broad high-confidence lemma-line spine in the corrected T1 working text.",
+      "details": "The corrected working file now carries OCR-first recovery of title lines and poem lemma lines through T1-p079.l01, while commentary prose remains largely unresolved.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/transcription/normalized/T1-normalized-pass1.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "lemma_spine_recovered_through": "T1-p079.l01",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-015",
+      "sequence": 15,
+      "timestamp": "2026-04-14",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_support_extended",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Extended OCR support for the early noisy pages before prose correction.",
+      "details": "Derived Paddle text companions from saved PP-OCRv4 JSON outputs and added a focused Tesseract support batch on T1-p005 to T1-p010 so early prefatory and commentary prose can be judged against multiple OCR witnesses.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/T1/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/T1/ocr/tesseract-early-support/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "early_prose_ocr_support": [
+          "rapidocr",
+          "paddleocr_extracted",
+          "tesseract_early_support"
+        ],
+        "early_prose_support_range": "T1-p005 to T1-p010"
+      }
+    },
+    {
+      "event_id": "FIM-016",
+      "sequence": 16,
+      "timestamp": "2026-04-14",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_support_extended",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Added a full Tesseract support pass across all T1 pages.",
+      "details": "A first full-pass attempt failed because the system Tesseract install did not resolve chi_tra traineddata. The rerun pointed TESSDATA_PREFIX at the witness-local tessdata directory and completed a saved full pass across all 83 T1 pages.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/",
+        "provenance/faith-in-mind/ocr/T1/tessdata/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/tesseract-full-pass/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "tesseract_full_pass_complete": true,
+        "tesseract_full_pass_tessdata_prefix": "provenance/faith-in-mind/ocr/T1/tessdata/",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-017",
+      "sequence": 17,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_support_extended",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Added geometry-sorted Paddle support text for the active early-prose slice.",
+      "details": "Saved Paddle PP-OCRv4 JSON detections were re-ordered by x-center descending and y-center ascending to create a vertical-page support view for T1-p005 to T1-p010. This derivative is support-only and exists to reduce reading-order noise before prose correction.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "paddle_column_ordered_support_range": "T1-p005 to T1-p010",
         "current_phase": "manual_correction_pass_1_started"
       }
     }

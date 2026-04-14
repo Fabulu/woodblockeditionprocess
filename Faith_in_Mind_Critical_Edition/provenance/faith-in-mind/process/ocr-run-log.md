@@ -63,6 +63,12 @@ This lets the edition run `tesseract` with local traineddata even if the system 
 
 These were installed after Stage 2A page preparation and before the full OCR pass.
 
+Additional probe note:
+
+- `chi_tra_vert` was re-tested on commentary pages `T1-p007` and `T1-p008` with `--psm 5` and `--psm 6`
+- the vertical model performed materially worse than the witness-local `chi_tra` path on this witness
+- no full vertical Tesseract pass was saved
+
 ## Page preparation inputs
 
 - Witness: `T1`
@@ -141,6 +147,10 @@ These were installed after Stage 2A page preparation and before the full OCR pas
   - the same `PP-OCRv4` configuration has now completed a saved full pass across all `83` `T1` pages
   - resumable output summary:
     - `ocr/T1/ocr/paddleocr-ppocrv4/run-summary-full.json`
+  - extraction note:
+    - the saved Paddle `.txt` companions were empty on this machine even when the JSON contained OCR text
+    - extracted text companions have now been derived from `res.rec_texts` into:
+      - `ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/`
 
 ## Full OCR pass 1
 
@@ -169,10 +179,22 @@ These were installed after Stage 2A page preparation and before the full OCR pas
 - The intended four-engine loop is not yet fully healthy on this machine.
 - Current practical loop status is:
   - `RapidOCR`: full-pass usable
-  - `tesseract`: calibration output saved on `T1-p001`
+  - `tesseract`: full-pass usable once pointed at witness-local `chi_tra` traineddata
   - `EasyOCR`: calibration output saved on `T1-p001`
   - `PaddleOCR`: full-pass usable with `PP-OCRv4`; default `PP-OCRv5` still crashes on this machine
 - The same-page calibration set now exists across all four engines on `T1-p001`.
+- A focused Tesseract support batch now also exists for `T1-p005` to `T1-p010` under:
+  - `ocr/T1/ocr/tesseract-early-support/`
+- A full Tesseract pass now also exists for all `83` `T1` pages under:
+  - `ocr/T1/ocr/tesseract-full-pass/`
+- Tesseract environment note:
+  - a first full-pass attempt failed because the system install did not resolve `chi_tra.traineddata`
+  - the successful rerun used `TESSDATA_PREFIX=ocr/T1/tessdata/`
+- A Paddle reading-order support derivative now also exists for `T1-p005` to `T1-p010` under:
+  - `ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/`
+- Column-order heuristic:
+  - sort detection boxes by x-center descending, then y-center ascending
+  - use as support only on vertical pages where raw extraction order appears unstable
 - The no-text tail pages likely represent non-body or blank/end material, but that has not yet been classified.
 - No editorial correction has happened yet.
 - No copy-text challenge is triggered by this run alone.

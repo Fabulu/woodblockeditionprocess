@@ -1,0 +1,11 @@
+﻿{
+    "engine":  "tesseract",
+    "language":  "chi_tra",
+    "psm":  6,
+    "tessdata_prefix":  "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\T1\\tessdata",
+    "source_dir":  "provenance/faith-in-mind/ocr/T1/page-images/",
+    "output_dir":  "provenance/faith-in-mind/ocr/T1/ocr/tesseract-full-pass/",
+    "page_count":  83,
+    "started_at":  "2026-04-14T23:18:58",
+    "completed_at":  "2026-04-14T23:52:12"
+}

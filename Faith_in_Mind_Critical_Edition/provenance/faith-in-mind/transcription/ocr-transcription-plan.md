@@ -148,6 +148,7 @@ Do the first manual correction pass on `T1`.
 Rules:
 
 - every meaningful correction must be attributable
+- every substantial correction batch must declare a bounded work slice before edits begin
 - correction entries must distinguish:
   - OCR certainty fix
   - ambiguous reading
@@ -155,6 +156,7 @@ Rules:
   - supplied punctuation
   - unresolved locus
 - if a reading cannot be secured from `T1`, mark unresolved instead of smoothing it over
+- if visible text changes in a later batch, create a fresh `text_changed` timeline event for that batch rather than expanding the details of an older correction-start event
 
 Required outputs:
 
@@ -205,6 +207,12 @@ Minimum required records:
 - timeline events
 - document registry entries for all new artifacts
 
+For each bounded text-work slice, close out all of:
+
+- active correction-log coverage
+- `current-state.md`
+- `timeline.json`
+
 If the state changes, the change must be visible chronologically.
 
 That includes:
@@ -218,6 +226,7 @@ That includes:
 - apparatus-seed creation
 
 Nothing in this stage may happen silently.
+Nothing in this stage may remain chronologically ambiguous.
 
 ## Artifact law for this stage
 

@@ -56,6 +56,12 @@
     "corrected_text": "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
     "correction_log": "../../../provenance/faith-in-mind/process/correction-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
+    "support_ocr_dirs": [
+      "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
+      "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/",
+      "../../../provenance/faith-in-mind/ocr/T1/ocr/tesseract-early-support/",
+      "../../../provenance/faith-in-mind/ocr/T1/ocr/tesseract-full-pass/"
+    ],
     "normalization_rule_log": "../../../provenance/faith-in-mind/transcription/normalized/normalization-rule-log.md",
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",

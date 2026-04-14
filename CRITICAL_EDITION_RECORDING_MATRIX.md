@@ -29,6 +29,8 @@ Do not collapse:
 
 They are separate layers of use.
 
+Every edition must also deliver definitive witness text outputs for the witnesses it actually produces, so the viewer can expose direct witness comparison without scraping working files.
+
 ## File responsibilities
 
 ### `process-log.md`
@@ -95,6 +97,8 @@ Record here:
 
 This file exists so a future agent does not restart the workflow from the top when the package already has state.
 
+It must name the actual last bounded work slice that was completed, not only a broad stage label.
+
 ### `timeline.json`
 
 Use for ordered machine-readable events and state reconstruction.
@@ -117,6 +121,10 @@ Fallback only if needed:
 
 - `previous_reading`
 - `new_reading`
+
+Do not absorb later text work into an older stage-start event.
+
+If visible text changes again in a new bounded work slice, create a fresh `text_changed` event for that slice.
 
 ### `apparatus.json`
 
@@ -167,6 +175,26 @@ This is not the same thing as:
 - TEI footnotes
 - `human-log.md`
 
+The comparison layer must be backed by definitive delivered witness texts and machine-readable witness lookup, not by ad hoc OCR-folder browsing.
+
+### `witnesses.json`
+
+Use for machine-readable witness delivery and viewer lookup.
+
+Register here:
+
+- witness id / siglum
+- witness label
+- witness family
+- witness role
+- definitive witness text file
+- text status
+- completeness
+- confidence
+- locus-map or page-line map path
+
+This file exists so the app can open witness texts programmatically and present locus comparison without guessing from filenames.
+
 ### `documents.json`
 
 Use for curated document registration.
@@ -214,6 +242,21 @@ Record here:
 - validation status
 
 ## Recording triggers
+
+### Before any substantial text-work slice begins
+
+Declare the bounded work slice first.
+
+At minimum record:
+
+- slice label or short scope name
+- starting locus
+- ending locus if known
+- target file or files expected to change
+
+Record this in the active pass log and keep `current-state.md` aligned with it.
+
+Do not begin a substantial correction or collation batch without a declared slice boundary.
 
 ### When a search or recon happens
 
@@ -282,6 +325,12 @@ Also write to:
 - `apparatus.json` if it affects the structured apparatus
 - TEI note layer if a visible footnote is warranted
 
+Also require:
+
+- the active pass log to declare the bounded work slice that produced the change
+- `current-state.md` updated so `last_completed_phase` names the completed slice
+- a fresh `text_changed` event for the slice rather than silently expanding an older start event
+
 If a TEI note is added:
 
 - keep it short and locus-specific
@@ -322,6 +371,7 @@ Run a final coherence and integrity pass over:
 - `process.json`
 - `timeline.json`
 - `apparatus.json`
+- `witnesses.json`
 - `stats.json`
 - `documents.json`
 - TEI note anchors and note targets
@@ -332,6 +382,7 @@ Confirm:
 - schema validation passes where supported
 - referenced files exist
 - cross-file ids resolve
+- every witness declared for viewer comparison has a definitive delivered text artifact
 - note, apparatus, and journaling layers are not being misused or duplicated
 
 ## Text-change law
@@ -360,6 +411,20 @@ Capture the earlier state at the moment of change, before overwrite.
 One changed locus at one moment equals one `text_changed` event.
 
 If the same locus changes twice, record two events.
+
+A later correction batch in a new bounded slice is not the same moment.
+
+Do not revise an older event instead of creating a new one.
+
+## Slice close-out law
+
+Before a bounded text-work slice is treated as complete, verify that these agree:
+
+- the latest coverage named in the active pass log
+- `last_completed_phase` in `current-state.md`
+- the newest relevant `timeline.json` event
+
+If those three do not point to the same completed slice, the slice is not closed out correctly.
 
 ## Reverse-patching law
 
