@@ -21,6 +21,8 @@ Stage 2 began with page preparation for `T1`. The canonical PDF was re-verified,
 
 The local environment did not have `tesseract` or ImageMagick, so a Python OCR stack was installed instead. A RapidOCR probe on the first two pages extracted usable text, even though the console briefly failed to print Chinese safely. That console failure was logging noise, not OCR failure.
 
-RapidOCR pass 1 then ran across all `83` pages of `T1`. It produced text on `80` pages and no text on the final `3` pages: `T1-p081`, `T1-p082`, and `T1-p083`. Those tail pages are not yet classified, but the run is strong enough to move forward into normalization without pretending the OCR is already clean.
+RapidOCR pass 1 then ran across all `83` pages of `T1`. It produced text on `80` pages and no text on the final `3` pages: `T1-p081`, `T1-p082`, and `T1-p083`. The run was strong enough to move forward into normalization without pretending the OCR was already clean.
 
-At this point, the edition has not yet entered manual correction. The current state is: witness set locked, copy-text locked as starting spine, page preparation complete, first OCR pass complete, normalization next.
+The page-role pass is now also complete. `T1` is not a bare poem witness spread across `83` body pages; it currently reads as title or imprint matter on `p001-p004`, prefatory prose on `p005-p006`, commentary-dominant pages with embedded poem lemmata on `p007-p080`, and blank tail pages on `p081-p083`.
+
+At this point, the edition has not yet entered manual correction. The current state is: witness set locked, copy-text locked as starting spine, page preparation complete, OCR passes complete, normalization complete, page roles classified, and Stage 2D correction next.

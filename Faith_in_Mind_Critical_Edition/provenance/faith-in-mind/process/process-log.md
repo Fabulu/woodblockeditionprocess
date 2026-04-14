@@ -88,6 +88,7 @@ None yet.
 | 2026-04-14 | OCR probe | Saved `tesseract` and `EasyOCR` calibration outputs for `T1-p001` | The same-page four-engine comparison slice now exists for `RapidOCR`, `tesseract`, `EasyOCR`, and `PaddleOCR` |
 | 2026-04-14 | OCR pass 1 | Completed resumable PaddleOCR `PP-OCRv4` full pass across `T1` and preserved page-level outputs | `83` pages saved successfully under `ocr/T1/ocr/paddleocr-ppocrv4/`; default `PP-OCRv5` remains unusable on this machine |
 | 2026-04-14 | Normalization | Built the first normalized `T1` working spine from page-level RapidOCR outputs | `transcription/normalized/T1-normalized-pass1.txt` created with page markers and stable line IDs; `transcription/normalized/normalization-rule-log.md` records the applied structural rules |
+| 2026-04-14 | Page-role classification | Classified `T1` pages in `ocr/T1/page-map.csv` by dominant role before manual correction | `p001-p004` title or imprint matter, `p005-p006` prefatory prose, `p007-p080` commentary-dominant with embedded poem lemmata, `p081-p083` blank tail pages |
 
 ---
 
@@ -117,7 +118,7 @@ None yet.
 |------|-------|--------|
 | 2026-04-14 | Premature OpenZen scaffold removed | ok |
 | 2026-04-14 | Fresh local-only package created | ok |
-| 2026-04-14 | OCR started | no |
+| 2026-04-14 | OCR started | yes |
 | 2026-04-14 | Witness set locked | yes |
 | 2026-04-14 | Consecutive no-new-free recon waves | `2/2` |
 | 2026-04-14 | Core witness metadata normalization | `T1-T5` and `A1-A3` normalized into `witnesses/acquisition-metadata.md` |
@@ -127,3 +128,4 @@ None yet.
 | 2026-04-14 | Re-downloaded suspect commentary PDFs and compared hashes | `C11` and `C13` changed hash, size, and validation behavior after redownload, confirming earlier local copies were bad |
 | 2026-04-14 | Browser-downloaded `A3` replacement validated | User-provided browser download for `NDL2537799 四部録抄` replaced the bad local copy; `pypdf`, `fitz`, and `pikepdf` now all validate `57` pages |
 | 2026-04-14 | Copy-text ranking completed | Added `collation/copy-text-ranking.md`; current recommendation is `T1` as copy-text with `T4`, `T5`, and `T2` as first comparison controls |
+| 2026-04-14 | `T1` page-role classification completed | `page-map.csv` no longer leaves all `83` pages unclassified; manual correction can now proceed with page-role awareness |

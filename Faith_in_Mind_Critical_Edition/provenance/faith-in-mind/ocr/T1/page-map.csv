@@ -1,84 +1,84 @@
 page_id,leaf_id,page_number_display,side,image_path,crop_path,content_role,notes
-T1-p001,,1,,ocr/T1/page-images/T1-p001.png,,unclassified,
-T1-p002,,2,,ocr/T1/page-images/T1-p002.png,,unclassified,
-T1-p003,,3,,ocr/T1/page-images/T1-p003.png,,unclassified,
-T1-p004,,4,,ocr/T1/page-images/T1-p004.png,,unclassified,
-T1-p005,,5,,ocr/T1/page-images/T1-p005.png,,unclassified,
-T1-p006,,6,,ocr/T1/page-images/T1-p006.png,,unclassified,
-T1-p007,,7,,ocr/T1/page-images/T1-p007.png,,unclassified,
-T1-p008,,8,,ocr/T1/page-images/T1-p008.png,,unclassified,
-T1-p009,,9,,ocr/T1/page-images/T1-p009.png,,unclassified,
-T1-p010,,10,,ocr/T1/page-images/T1-p010.png,,unclassified,
-T1-p011,,11,,ocr/T1/page-images/T1-p011.png,,unclassified,
-T1-p012,,12,,ocr/T1/page-images/T1-p012.png,,unclassified,
-T1-p013,,13,,ocr/T1/page-images/T1-p013.png,,unclassified,
-T1-p014,,14,,ocr/T1/page-images/T1-p014.png,,unclassified,
-T1-p015,,15,,ocr/T1/page-images/T1-p015.png,,unclassified,
-T1-p016,,16,,ocr/T1/page-images/T1-p016.png,,unclassified,
-T1-p017,,17,,ocr/T1/page-images/T1-p017.png,,unclassified,
-T1-p018,,18,,ocr/T1/page-images/T1-p018.png,,unclassified,
-T1-p019,,19,,ocr/T1/page-images/T1-p019.png,,unclassified,
-T1-p020,,20,,ocr/T1/page-images/T1-p020.png,,unclassified,
-T1-p021,,21,,ocr/T1/page-images/T1-p021.png,,unclassified,
-T1-p022,,22,,ocr/T1/page-images/T1-p022.png,,unclassified,
-T1-p023,,23,,ocr/T1/page-images/T1-p023.png,,unclassified,
-T1-p024,,24,,ocr/T1/page-images/T1-p024.png,,unclassified,
-T1-p025,,25,,ocr/T1/page-images/T1-p025.png,,unclassified,
-T1-p026,,26,,ocr/T1/page-images/T1-p026.png,,unclassified,
-T1-p027,,27,,ocr/T1/page-images/T1-p027.png,,unclassified,
-T1-p028,,28,,ocr/T1/page-images/T1-p028.png,,unclassified,
-T1-p029,,29,,ocr/T1/page-images/T1-p029.png,,unclassified,
-T1-p030,,30,,ocr/T1/page-images/T1-p030.png,,unclassified,
-T1-p031,,31,,ocr/T1/page-images/T1-p031.png,,unclassified,
-T1-p032,,32,,ocr/T1/page-images/T1-p032.png,,unclassified,
-T1-p033,,33,,ocr/T1/page-images/T1-p033.png,,unclassified,
-T1-p034,,34,,ocr/T1/page-images/T1-p034.png,,unclassified,
-T1-p035,,35,,ocr/T1/page-images/T1-p035.png,,unclassified,
-T1-p036,,36,,ocr/T1/page-images/T1-p036.png,,unclassified,
-T1-p037,,37,,ocr/T1/page-images/T1-p037.png,,unclassified,
-T1-p038,,38,,ocr/T1/page-images/T1-p038.png,,unclassified,
-T1-p039,,39,,ocr/T1/page-images/T1-p039.png,,unclassified,
-T1-p040,,40,,ocr/T1/page-images/T1-p040.png,,unclassified,
-T1-p041,,41,,ocr/T1/page-images/T1-p041.png,,unclassified,
-T1-p042,,42,,ocr/T1/page-images/T1-p042.png,,unclassified,
-T1-p043,,43,,ocr/T1/page-images/T1-p043.png,,unclassified,
-T1-p044,,44,,ocr/T1/page-images/T1-p044.png,,unclassified,
-T1-p045,,45,,ocr/T1/page-images/T1-p045.png,,unclassified,
-T1-p046,,46,,ocr/T1/page-images/T1-p046.png,,unclassified,
-T1-p047,,47,,ocr/T1/page-images/T1-p047.png,,unclassified,
-T1-p048,,48,,ocr/T1/page-images/T1-p048.png,,unclassified,
-T1-p049,,49,,ocr/T1/page-images/T1-p049.png,,unclassified,
-T1-p050,,50,,ocr/T1/page-images/T1-p050.png,,unclassified,
-T1-p051,,51,,ocr/T1/page-images/T1-p051.png,,unclassified,
-T1-p052,,52,,ocr/T1/page-images/T1-p052.png,,unclassified,
-T1-p053,,53,,ocr/T1/page-images/T1-p053.png,,unclassified,
-T1-p054,,54,,ocr/T1/page-images/T1-p054.png,,unclassified,
-T1-p055,,55,,ocr/T1/page-images/T1-p055.png,,unclassified,
-T1-p056,,56,,ocr/T1/page-images/T1-p056.png,,unclassified,
-T1-p057,,57,,ocr/T1/page-images/T1-p057.png,,unclassified,
-T1-p058,,58,,ocr/T1/page-images/T1-p058.png,,unclassified,
-T1-p059,,59,,ocr/T1/page-images/T1-p059.png,,unclassified,
-T1-p060,,60,,ocr/T1/page-images/T1-p060.png,,unclassified,
-T1-p061,,61,,ocr/T1/page-images/T1-p061.png,,unclassified,
-T1-p062,,62,,ocr/T1/page-images/T1-p062.png,,unclassified,
-T1-p063,,63,,ocr/T1/page-images/T1-p063.png,,unclassified,
-T1-p064,,64,,ocr/T1/page-images/T1-p064.png,,unclassified,
-T1-p065,,65,,ocr/T1/page-images/T1-p065.png,,unclassified,
-T1-p066,,66,,ocr/T1/page-images/T1-p066.png,,unclassified,
-T1-p067,,67,,ocr/T1/page-images/T1-p067.png,,unclassified,
-T1-p068,,68,,ocr/T1/page-images/T1-p068.png,,unclassified,
-T1-p069,,69,,ocr/T1/page-images/T1-p069.png,,unclassified,
-T1-p070,,70,,ocr/T1/page-images/T1-p070.png,,unclassified,
-T1-p071,,71,,ocr/T1/page-images/T1-p071.png,,unclassified,
-T1-p072,,72,,ocr/T1/page-images/T1-p072.png,,unclassified,
-T1-p073,,73,,ocr/T1/page-images/T1-p073.png,,unclassified,
-T1-p074,,74,,ocr/T1/page-images/T1-p074.png,,unclassified,
-T1-p075,,75,,ocr/T1/page-images/T1-p075.png,,unclassified,
-T1-p076,,76,,ocr/T1/page-images/T1-p076.png,,unclassified,
-T1-p077,,77,,ocr/T1/page-images/T1-p077.png,,unclassified,
-T1-p078,,78,,ocr/T1/page-images/T1-p078.png,,unclassified,
-T1-p079,,79,,ocr/T1/page-images/T1-p079.png,,unclassified,
-T1-p080,,80,,ocr/T1/page-images/T1-p080.png,,unclassified,
-T1-p081,,81,,ocr/T1/page-images/T1-p081.png,,unclassified,
-T1-p082,,82,,ocr/T1/page-images/T1-p082.png,,unclassified,
-T1-p083,,83,,ocr/T1/page-images/T1-p083.png,,unclassified,
+T1-p001,,1,,ocr/T1/page-images/T1-p001.png,,title,cover or title page
+T1-p002,,2,,ocr/T1/page-images/T1-p002.png,,title,main title page
+T1-p003,,3,,ocr/T1/page-images/T1-p003.png,,title,flyleaf or sparse title matter
+T1-p004,,4,,ocr/T1/page-images/T1-p004.png,,title,bibliographic or imprint matter
+T1-p005,,5,,ocr/T1/page-images/T1-p005.png,,preface,opening prose before poem incipit
+T1-p006,,6,,ocr/T1/page-images/T1-p006.png,,preface,opening prose before poem incipit
+T1-p007,,7,,ocr/T1/page-images/T1-p007.png,,commentary,commentary-dominant page with poem lemma or incipit material
+T1-p008,,8,,ocr/T1/page-images/T1-p008.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p009,,9,,ocr/T1/page-images/T1-p009.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p010,,10,,ocr/T1/page-images/T1-p010.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p011,,11,,ocr/T1/page-images/T1-p011.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p012,,12,,ocr/T1/page-images/T1-p012.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p013,,13,,ocr/T1/page-images/T1-p013.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p014,,14,,ocr/T1/page-images/T1-p014.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p015,,15,,ocr/T1/page-images/T1-p015.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p016,,16,,ocr/T1/page-images/T1-p016.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p017,,17,,ocr/T1/page-images/T1-p017.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p018,,18,,ocr/T1/page-images/T1-p018.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p019,,19,,ocr/T1/page-images/T1-p019.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p020,,20,,ocr/T1/page-images/T1-p020.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p021,,21,,ocr/T1/page-images/T1-p021.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p022,,22,,ocr/T1/page-images/T1-p022.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p023,,23,,ocr/T1/page-images/T1-p023.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p024,,24,,ocr/T1/page-images/T1-p024.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p025,,25,,ocr/T1/page-images/T1-p025.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p026,,26,,ocr/T1/page-images/T1-p026.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p027,,27,,ocr/T1/page-images/T1-p027.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p028,,28,,ocr/T1/page-images/T1-p028.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p029,,29,,ocr/T1/page-images/T1-p029.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p030,,30,,ocr/T1/page-images/T1-p030.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p031,,31,,ocr/T1/page-images/T1-p031.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p032,,32,,ocr/T1/page-images/T1-p032.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p033,,33,,ocr/T1/page-images/T1-p033.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p034,,34,,ocr/T1/page-images/T1-p034.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p035,,35,,ocr/T1/page-images/T1-p035.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p036,,36,,ocr/T1/page-images/T1-p036.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p037,,37,,ocr/T1/page-images/T1-p037.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p038,,38,,ocr/T1/page-images/T1-p038.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p039,,39,,ocr/T1/page-images/T1-p039.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p040,,40,,ocr/T1/page-images/T1-p040.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p041,,41,,ocr/T1/page-images/T1-p041.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p042,,42,,ocr/T1/page-images/T1-p042.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p043,,43,,ocr/T1/page-images/T1-p043.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p044,,44,,ocr/T1/page-images/T1-p044.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p045,,45,,ocr/T1/page-images/T1-p045.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p046,,46,,ocr/T1/page-images/T1-p046.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p047,,47,,ocr/T1/page-images/T1-p047.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p048,,48,,ocr/T1/page-images/T1-p048.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p049,,49,,ocr/T1/page-images/T1-p049.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p050,,50,,ocr/T1/page-images/T1-p050.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p051,,51,,ocr/T1/page-images/T1-p051.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p052,,52,,ocr/T1/page-images/T1-p052.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p053,,53,,ocr/T1/page-images/T1-p053.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p054,,54,,ocr/T1/page-images/T1-p054.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p055,,55,,ocr/T1/page-images/T1-p055.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p056,,56,,ocr/T1/page-images/T1-p056.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p057,,57,,ocr/T1/page-images/T1-p057.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p058,,58,,ocr/T1/page-images/T1-p058.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p059,,59,,ocr/T1/page-images/T1-p059.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p060,,60,,ocr/T1/page-images/T1-p060.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p061,,61,,ocr/T1/page-images/T1-p061.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p062,,62,,ocr/T1/page-images/T1-p062.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p063,,63,,ocr/T1/page-images/T1-p063.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p064,,64,,ocr/T1/page-images/T1-p064.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p065,,65,,ocr/T1/page-images/T1-p065.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p066,,66,,ocr/T1/page-images/T1-p066.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p067,,67,,ocr/T1/page-images/T1-p067.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p068,,68,,ocr/T1/page-images/T1-p068.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p069,,69,,ocr/T1/page-images/T1-p069.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p070,,70,,ocr/T1/page-images/T1-p070.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p071,,71,,ocr/T1/page-images/T1-p071.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p072,,72,,ocr/T1/page-images/T1-p072.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p073,,73,,ocr/T1/page-images/T1-p073.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p074,,74,,ocr/T1/page-images/T1-p074.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p075,,75,,ocr/T1/page-images/T1-p075.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p076,,76,,ocr/T1/page-images/T1-p076.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p077,,77,,ocr/T1/page-images/T1-p077.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p078,,78,,ocr/T1/page-images/T1-p078.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p079,,79,,ocr/T1/page-images/T1-p079.png,,commentary,commentary-dominant page with embedded poem lemma lines
+T1-p080,,80,,ocr/T1/page-images/T1-p080.png,,commentary,closing commentary or wrap-up material
+T1-p081,,81,,ocr/T1/page-images/T1-p081.png,,blank,no OCR text in RapidOCR or PaddleOCR full-pass outputs
+T1-p082,,82,,ocr/T1/page-images/T1-p082.png,,blank,no OCR text in RapidOCR or PaddleOCR full-pass outputs
+T1-p083,,83,,ocr/T1/page-images/T1-p083.png,,blank,no OCR text in RapidOCR or PaddleOCR full-pass outputs

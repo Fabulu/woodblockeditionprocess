@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pending`
-- Last completed phase: `normalization_pass_1`
+- Last completed phase: `page_role_classification`
 
 ## What is already done
 
@@ -22,10 +22,11 @@ Edition slug: `faith-in-mind`
 - `T1` page images and page map generated
 - RapidOCR pass 1 completed across all `83` `T1` pages
 - PaddleOCR `PP-OCRv4` full pass completed across all `83` `T1` pages
+- `T1` page roles classified at the dominant-page level in `page-map.csv`
 
 ## Next action
 
-Before Stage 2D manual correction, classify `T1` page roles in `page-map.csv`, then correct the normalized working spine.
+Start Stage 2D manual correction against the normalized working spine, using the completed `T1` page-role map so commentary pages are not mistaken for pure poem-body pages.
 
 Use:
 
@@ -38,7 +39,6 @@ Use:
 
 Produce next:
 
-- page-role classification for `T1`
 - corrected working text under `provenance/faith-in-mind/transcription/corrected/`
 - correction log
 - unresolved loci opened where `T1` cannot be secured
@@ -49,10 +49,10 @@ Do not bring in `T4`, `T5`, or `T2` until a first corrected `T1` working text ex
 
 ## Known blockers and cautions
 
-- `T1-p081`, `T1-p082`, and `T1-p083` returned no text in RapidOCR pass 1 and need classification during normalization or correction
+- `T1-p081`, `T1-p082`, and `T1-p083` returned no text in RapidOCR pass 1 and are now provisionally classified as `blank`
 - the four-engine same-page comparison requirement is now satisfied on `T1-p001`, but only RapidOCR has a full-pass run across all `83` pages
 - `PaddleOCR` now also has a full pass with `PP-OCRv4` under Python `3.12`, but the default `PP-OCRv5` path still crashes on this machine
-- `T1` page roles are still unclassified, so the current `83` pages must not yet be treated as if they were all poem body
+- `T1` is not a pure poem-only object: `p001-p004` title or imprint matter, `p005-p006` prefatory prose, `p007-p080` commentary-dominant pages with embedded poem lemmata, `p081-p083` blank tail pages
 - on this machine, prefer Python `3.12` for OCR and related tooling instead of the default Python `3.14`
 - the local OCR tool stack is uneven; machine health must be logged honestly rather than assumed
 - no manual correction pass has started yet; the normalized spine is still uncorrected OCR
