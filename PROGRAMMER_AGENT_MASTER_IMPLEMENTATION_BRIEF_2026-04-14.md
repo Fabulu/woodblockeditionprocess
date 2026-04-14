@@ -17,6 +17,31 @@ Build the next OpenZen edition system so that:
 - provenance sidebar stays concise
 - full process/apparatus/stats get their own structured browser
 
+## Required output modes
+
+The implementation must preserve six distinct output modes:
+
+1. `Sidebar provenance mode`
+   - source, rights, witness summary
+   - powered by `manifest.json`
+2. `Process mode`
+   - workflow history, decision trail, unresolved state
+   - powered by `process.json` plus process markdown docs
+3. `Apparatus mode`
+   - structured variants and editorial reasoning
+   - powered by `apparatus.json` plus TEI note/app anchors
+4. `Stats mode`
+   - compact quantitative summary
+   - powered by `stats.json`
+5. `Document registry mode`
+   - curated supporting docs
+   - powered by `documents.json`
+6. `Edition text mode`
+   - the reading text with notes/anchors
+   - powered by `{slug}.xml`
+
+Do not collapse these modes into one sidebar, one markdown blob, or one oversized manifest.
+
 This brief authorizes changes in:
 
 - `C:\Programmieren\OpenZenTexts`

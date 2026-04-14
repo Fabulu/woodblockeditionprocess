@@ -45,6 +45,8 @@ Ask one decision at a time, not all at once.
 - exact source pages before secondary references
 - every intervention logged
 - agent decisions logged too, not just human decisions
+- every meaningful step logged while it happens, not reconstructed later
+- failed searches, rejected leads, failed downloads, OCR failures, and abandoned options logged too
 
 ## Required Actor Logging
 
@@ -56,6 +58,34 @@ Every intervention must record:
 - confidence
 - actor type: `agent`, `human`, or `hybrid`
 - actor id or person name when known
+
+## Required Step Logging
+
+Do not log only final decisions.
+
+Log every meaningful step during the run, including:
+
+- recon searches
+- source pages checked
+- witness acceptance
+- witness rejection
+- failed or partial downloads
+- rights checks
+- OCR runs
+- OCR failures
+- manual adjudication passes
+- apparatus-affecting choices
+
+Each step log entry should record:
+
+- date
+- step type
+- object worked on
+- action taken
+- outcome
+- evidence or URLs
+- next step if unresolved
+- actor type: `agent`, `human`, or `hybrid`
 
 ## Required Output
 

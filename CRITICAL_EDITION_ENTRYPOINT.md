@@ -133,6 +133,20 @@ Every pass must land in:
 - apparatus
 - stats
 
+Do not wait and summarize later.
+
+Record every meaningful step while it happens:
+
+- searches and recons
+- source checks
+- download attempts
+- validation attempts
+- OCR runs
+- OCR evaluation passes
+- editorial passes
+- rejected paths
+- stalled or failed attempts
+
 Every editorial action must also record who made it:
 
 - agent

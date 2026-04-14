@@ -23,6 +23,8 @@ Acquire commercially reusable source witnesses for Chinese Chan/Zen texts, inclu
 - Multiple open witnesses of the same work are desirable and should be tracked explicitly. A text being "acquired" means at least one validated witness exists; it does not mean witness collection is complete.
 - If a text witness has a mixed or unclear provenance chain, keep it pending even if the host page advertises a permissive site license.
 - Treat `CBETA` in the provenance chain as disqualifying for commercial reuse unless the underlying text itself is explicitly relicensed for commercial use.
+- Log every meaningful acquisition step during the work, not later from memory.
+- This includes recon searches, dead ends, failed downloads, duplicate detections, rights rejections, partial acquisitions, and successful validations.
 
 ## Standard Loop
 
@@ -40,6 +42,7 @@ Acquire commercially reusable source witnesses for Chinese Chan/Zen texts, inclu
    - create or update that folder's `README.md`
    - write the download link into the witness `README.md` before or during acquisition, not later as cleanup
    - add or update the source entry in `SOURCES.md`
+   - record the attempt in the working log even if the download later fails
 5. Download sequentially, not in parallel, to avoid interference and rate-limit damage.
 6. Download into a temp filename first.
 7. Validate integrity before promotion.
@@ -115,3 +118,17 @@ Mark a text acquired only when:
 - the worklist row has been updated
 
 If only one fascicle / one volume / one witness is present for a multi-part text, record it as partial and do not cross off the full text.
+
+## Logging Minimum
+
+For each acquisition attempt, record:
+
+- date
+- work title
+- witness or lead identifier
+- source checked
+- action taken
+- outcome
+- rights result
+- local file result if any
+- next action

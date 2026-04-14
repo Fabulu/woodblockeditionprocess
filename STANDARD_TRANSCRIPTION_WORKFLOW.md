@@ -48,9 +48,15 @@ Use:
 
 The log must be written during the work, not reconstructed at the end.
 
+It must include failures and abandoned attempts, not just successful progress.
+
 At minimum, record:
 - witness acquisition
+- recon and source-search passes
 - transcription sessions
+- failed OCR runs
+- rejected witness leads
+- unresolved pages and abandoned readings
 - corroboration sessions
 - editorial decisions
 - rough readings retained

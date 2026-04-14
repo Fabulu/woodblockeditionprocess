@@ -12,6 +12,7 @@ Build a system where:
 - OCR is pushed as far as possible before editorial intervention
 - every editorial intervention is logged, whether by agent or human
 - every decision is traceable
+- every meaningful workflow step is traceable, including failed and abandoned steps
 - every published edition has a coherent artifact tree
 - the app can display:
   - quick licensing and source facts in the sidebar
@@ -96,6 +97,60 @@ xml-open/{prefix}/{slug}/
 ```
 
 ## Canonical roles of the files
+
+## Output modes
+
+Every critical edition must emit outputs in clearly separated modes.
+
+The programmer should treat these as distinct product surfaces, not interchangeable blobs.
+
+### Mode 1. Sidebar provenance mode
+
+- purpose: concise source and license facts
+- primary artifact: `manifest.json`
+- must stay short and reader-facing
+
+### Mode 2. Process mode
+
+- purpose: reproducible editorial workflow history
+- primary artifacts:
+  - `process.json`
+  - `process/edition-plan.md`
+  - `process/process-log.md`
+  - `process/decision-log.md`
+  - `process/unresolved-loci.md`
+  - `process/publication-checklist.md`
+
+### Mode 3. Apparatus mode
+
+- purpose: structured variant and editorial-decision display
+- primary artifacts:
+  - `apparatus.json`
+  - TEI note and apparatus anchors where appropriate
+
+### Mode 4. Stats mode
+
+- purpose: compact machine-readable quantitative summary
+- primary artifact: `stats.json`
+
+### Mode 5. Document registry mode
+
+- purpose: curated list of human-readable supporting documents
+- primary artifact: `documents.json`
+- must not rely on arbitrary markdown autodiscovery
+
+### Mode 6. Edition text mode
+
+- purpose: the actual reading text with notes and anchors
+- primary artifact: `{slug}.xml`
+
+### Separation rule
+
+The UI and pipeline must preserve mode separation:
+
+- sidebar provenance mode stays concise
+- process/apparatus/stats/documents open in a dedicated edition dialog or browser
+- edition text mode remains the reading surface
 
 ### `manifest.json`
 
@@ -189,6 +244,38 @@ Each physical witness needs:
 
 ## Required process stages
 
+## Global logging rule
+
+Do not rely on retrospective summaries.
+
+The system must log work as it happens.
+
+At minimum, the process layer must preserve:
+
+- search and recon actions
+- source pages checked
+- download attempts
+- validation attempts
+- rights evaluations
+- OCR runs
+- OCR evaluation results
+- manual adjudication passes
+- witness acceptance and rejection
+- deferred or abandoned options
+- every editorial decision
+
+Each loggable step should record:
+
+- timestamp or date
+- step category
+- target object
+- action
+- outcome
+- evidence path or URL
+- actor type: `agent`, `human`, or `hybrid`
+- actor identifier when known
+- follow-up state if unresolved
+
 ### Stage 0. Edition charter
 
 Create:
@@ -215,6 +302,14 @@ For every witness:
 - verify file structure
 - assign rights confidence
 - assign completeness status
+
+Also log:
+
+- searches that failed to produce a usable witness
+- witnesses rejected as duplicates
+- witnesses rejected on rights grounds
+- witnesses rejected on completeness grounds
+- failed or corrupted downloads
 
 No witness enters OCR before this stage is complete.
 
@@ -255,6 +350,13 @@ Required recording:
 - run date
 - input images
 - output files
+
+Also record:
+
+- failed runs
+- unusable outputs
+- pages skipped
+- reruns and why they were rerun
 
 Do not allow silent OCR replacement. All engine outputs stay on disk.
 
@@ -298,6 +400,10 @@ Every editor pass must record:
   - OCR-reject
   - image-only recovery
   - cross-witness decision
+
+No silent interventions are allowed.
+
+If the agent inspects a page, rejects an OCR reading, chooses one witness over another, or leaves a locus unresolved, that step must be logged even if no final text is emitted yet.
 
 Required file:
 

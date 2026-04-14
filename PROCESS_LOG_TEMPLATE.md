@@ -22,6 +22,10 @@ A future reviewer should be able to answer:
 - Which rough readings were retained and why
 - Which limits came from policy rather than evidence
 
+Every meaningful step belongs here or in a linked per-stage log.
+
+That includes failed attempts, rejected leads, and abandoned approaches, not just successes.
+
 ---
 
 ## Policy constraints
@@ -62,6 +66,16 @@ Notes:
 | YYYY-MM-DD | Identified [witness] at [source URL] | [rights basis, confidence] |
 | YYYY-MM-DD | Downloaded PDF/scan to local | [filename, bytes, sha256 if available] |
 | YYYY-MM-DD | Verified rights basis | [PD-old because..., Commons because..., local notes updated] |
+| YYYY-MM-DD | Rejected [witness] | [duplicate / rights unclear / incomplete / bad download / other] |
+| YYYY-MM-DD | Download failed for [witness] | [timeout / HTML / checksum mismatch / truncated / other] |
+
+---
+
+## Recon and search steps
+
+| Date | Query or source | Action | Outcome | Next step | Actor |
+|------|------------------|--------|---------|-----------|-------|
+| YYYY-MM-DD | [search query / site / catalog] | [searched / checked / compared] | [new lead / duplicate / no result / unresolved] | [follow-up] | [agent / human / hybrid] |
 
 ---
 
@@ -81,6 +95,9 @@ Notes:
 **Decisions made:**
 - [leaf / case / line] [decision]
 - [leaf / case / line] [decision]
+
+**Rejected or failed paths:**
+- [location] [OCR failure / unusable crop / false positive / abandoned approach]
 
 **Open questions:**
 - [location] [issue]
@@ -105,6 +122,9 @@ Notes:
 
 **Unresolved:**
 - [location]: [disagreement or ambiguity]
+
+**Rejected leads or witnesses in this pass:**
+- [witness / source] [why rejected]
 
 **Policy note:**
 - [confirm that only open witnesses were used]
