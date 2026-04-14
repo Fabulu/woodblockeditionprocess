@@ -3,6 +3,7 @@
 - Work: `大慧普覺禪師語錄`
 - Priority: high
 - Source page: https://commons.wikimedia.org/wiki/Category:%E5%A4%A7%E6%85%A7%E6%99%AE%E8%A6%BA%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84
+- Download note: no single direct file URL is pinned here because this folder is anchored to a Commons category page covering multiple fascicles. Each fascicle should eventually get its own exact file-page and direct download URL.
 - Rights basis: Commons-hosted NDL scans of a premodern work. The controlling rights statement is the Commons file-page license block for each fascicle; this family is treated as `PD-Japan` plus mechanical scan on Commons.
 - Local files:
   - `NDL2559970_dahui_pujue_01.pdf`

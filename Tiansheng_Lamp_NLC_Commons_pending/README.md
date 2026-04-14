@@ -7,6 +7,9 @@ Priority: pending scan lead only
 Source page:
 - https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/NLC/%E8%B6%99%E5%9F%8E%E9%87%91%E8%97%8F
 
+Download note:
+- No exact direct file URL is pinned yet in this folder. This is still a family-level lead from the Commons backup list rather than a locked exact file-page acquisition.
+
 Witness evidence visible on the Commons file-list page:
 - `NLC892-ZHCH1067-200884 天聖廣燈錄 第1冊.pdf`
 - `NLC892-ZHCH1067-200924 天聖廣燈錄 第2冊.pdf`

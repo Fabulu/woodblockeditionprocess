@@ -3,6 +3,7 @@
 - Work: `佛果圜悟禪師碧巖錄`
 - Priority: high
 - Source page: https://zh.wikisource.org/wiki/%E4%BD%9B%E6%9E%9C%E5%9C%9C%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84
+- Download note: this witness is captured via revision-pinned wikitext pages rather than a single direct file URL. Use the stable revision and local captured package together.
 - Stable revision checked: https://zh.wikisource.org/w/index.php?title=%E4%BD%9B%E6%9E%9C%E5%9C%9C%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84&oldid=2082713
 - Rights basis: Wikisource page footer is CC BY-SA 4.0; the page revision is pinned and the local package carries the book-level page revisions.
 - Provenance check: no CBETA marker found in the captured package so far.

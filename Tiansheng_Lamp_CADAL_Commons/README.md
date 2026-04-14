@@ -3,6 +3,9 @@ Work: 天聖廣燈錄
 Source page:
 https://commons.wikimedia.org/wiki/File:CADAL02019595_%E5%A4%A9%E8%81%96%E5%BB%A3%E7%87%88%E9%8C%84%EF%BC%88%E4%B8%80%EF%BC%89.djvu
 
+Direct file URL:
+https://commons.wikimedia.org/wiki/Special:Redirect/file/CADAL02019595_%E5%A4%A9%E8%81%96%E5%BB%A3%E7%87%88%E9%8C%84%EF%BC%88%E4%B8%80%EF%BC%89.djvu
+
 Rights basis:
 - Commons file page categories include `CC-PD-Mark` and `PD Old`.
 - Commons file page category includes `Scans from the China Academic Digital Associative Library`.
