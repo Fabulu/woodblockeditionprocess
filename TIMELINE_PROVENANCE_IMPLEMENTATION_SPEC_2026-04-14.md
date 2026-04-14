@@ -143,6 +143,12 @@ At minimum, the renderer must support:
 - `process`
   build-stage notes when a visible edition location is directly affected
 
+`process` notes are the exception, not the default.
+
+Do not use `nkr_note_proc_*` for general chronology or workflow journaling.
+
+Use them only when a process fact directly affects a visible text locus and the reader needs that note from the text itself.
+
 ### Visibility rule
 
 When a visible reading in the text was changed, normalized, selected, or rejected:
@@ -150,6 +156,10 @@ When a visible reading in the text was changed, normalized, selected, or rejecte
 - the change must be visible in the timeline system
 - the reason must be visible in the log system
 - if relevant to a locus, the note must be visible from the text itself
+
+The note layer does not replace the log layer.
+The timeline does not replace the apparatus layer.
+These surfaces must remain distinct.
 
 ## Timeline model
 

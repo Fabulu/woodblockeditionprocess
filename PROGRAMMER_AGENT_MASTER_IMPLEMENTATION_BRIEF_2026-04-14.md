@@ -33,7 +33,7 @@ Use instead:
 
 ## Required output modes
 
-The implementation must preserve seven distinct output modes:
+The implementation must preserve eight distinct output modes:
 
 1. `Sidebar provenance mode`
    - source, rights, witness summary
@@ -56,8 +56,22 @@ The implementation must preserve seven distinct output modes:
 7. `Timeline mode`
    - chronological replay of what changed and why
    - powered by `timeline.json` plus `human-log.md`
+8. `Witness comparison mode`
+   - direct source-witness inspection at a selected locus
+   - powered by witness-text data plus locus/page mapping
 
 Do not collapse these modes into one sidebar, one markdown blob, or one oversized manifest.
+
+Do not collapse reader-facing notes into process history either.
+
+The implementation must preserve this boundary:
+
+- TEI notes are short reader-facing locus notes
+- `human-log.md` is chronological narrative
+- `decision-log.md` is full reasoning
+- `apparatus.json` is structured textual evidence
+- `timeline.json` is state-change history
+- witness comparison is source inspection, not timeline replay
 
 ## Core timeline contract
 
@@ -385,6 +399,8 @@ Tasks:
    - witness hash fields
    - note-kind validity
    - document registry validity
+   - JSON parse and schema integrity
+   - cross-file reference integrity
 
 2. Define "publication-candidate" checks.
 
@@ -393,6 +409,7 @@ Tasks:
 Deliverables:
 
 - validator scripts or docs-backed validation flow
+- explicit final release-pass checklist for coherence and machine usability
 
 ## Wave 5. Wumenguan migration and cleanup wave
 

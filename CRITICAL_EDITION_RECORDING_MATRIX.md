@@ -21,6 +21,14 @@ If a fact matters to the reader-facing timeline, it must not live only in markdo
 
 If a fact matters to a human reviewer, it must not live only in JSON.
 
+Do not collapse:
+
+- critical text surface
+- witness comparison surface
+- timeline surface
+
+They are separate layers of use.
+
 ## File responsibilities
 
 ### `process-log.md`
@@ -70,6 +78,23 @@ Record here:
 
 This is the reader-facing prose log, not the machine contract.
 
+### `current-state.md`
+
+Use for the one-screen resumability summary.
+
+Record here:
+
+- current phase
+- last completed phase
+- exact next action
+- locked witness-set status
+- locked copy-text status
+- first comparison witnesses if already chosen
+- active blockers
+- key files to open next
+
+This file exists so a future agent does not restart the workflow from the top when the package already has state.
+
 ### `timeline.json`
 
 Use for ordered machine-readable events and state reconstruction.
@@ -107,6 +132,41 @@ Record here:
 
 Do not use this as the only place that a visible text change is recorded.
 
+### TEI note layer
+
+Use for reader-facing locus-linked notes only.
+
+Record here:
+
+- short critical notes tied to a visible locus
+- short provenance clarifications tied to a visible locus
+- short unresolved warnings tied to a visible locus
+
+Do not record here:
+
+- step-by-step workflow chronology
+- full editorial reasoning chains
+- OCR troubleshooting history
+- general methodology explanation
+
+Those belong in logs, timeline, and apparatus instead.
+
+### Witness comparison layer
+
+Use for direct source-witness inspection at a locus.
+
+This should expose:
+
+- witness id / siglum
+- witness text slice or mapped reading
+- source witness support at the selected locus
+
+This is not the same thing as:
+
+- `timeline.json`
+- TEI footnotes
+- `human-log.md`
+
 ### `documents.json`
 
 Use for curated document registration.
@@ -116,6 +176,7 @@ Register here:
 - `process-log.md`
 - `decision-log.md`
 - `human-log.md`
+- `current-state.md`
 - `edition-plan.md`
 - `copy-text-ranking.md`
 - `family-stemma.md`
@@ -192,6 +253,22 @@ Write to:
 - OCR-specific run log
 - `timeline.json`
 
+For East Asian scan witnesses, also record the mandatory four-engine comparator status:
+
+- `tesseract`
+- `RapidOCR`
+- `PaddleOCR`
+- `EasyOCR`
+
+For each engine, record:
+
+- run status: full pass, calibration-only, blocked, or failed
+- environment and model details
+- output location if successful
+- exact runtime failure if blocked or failed
+
+Also update `page-map.csv` with page-role classification before treating the witness as if every page were body text.
+
 ### When a visible reading changes
 
 Always write to:
@@ -204,6 +281,12 @@ Also write to:
 - `human-log.md` if the change matters to reader-facing explanation
 - `apparatus.json` if it affects the structured apparatus
 - TEI note layer if a visible footnote is warranted
+
+If a TEI note is added:
+
+- keep it short and locus-specific
+- do not use it as a duplicate process journal entry
+- keep the full reasoning in `decision-log.md` when needed
 
 ### When a locus remains unresolved
 
@@ -218,7 +301,38 @@ Write to:
 
 - `timeline.json` revision metadata
 - `human-log.md`
+
+### When the package phase changes or work is paused
+
+Write to:
+
+- `current-state.md`
+- `documents.json` if the file is newly introduced
+
+If the phase change is machine-relevant:
+
+- also `timeline.json`
 - `process.json`
+
+### When preparing to publish or hand off
+
+Run a final coherence and integrity pass over:
+
+- `manifest.json`
+- `process.json`
+- `timeline.json`
+- `apparatus.json`
+- `stats.json`
+- `documents.json`
+- TEI note anchors and note targets
+
+Confirm:
+
+- JSON parses
+- schema validation passes where supported
+- referenced files exist
+- cross-file ids resolve
+- note, apparatus, and journaling layers are not being misused or duplicated
 
 ## Text-change law
 

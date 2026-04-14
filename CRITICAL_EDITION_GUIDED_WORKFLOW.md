@@ -11,6 +11,36 @@ Use this file when the user gives you:
 - one work title
 - or one simple request like `Make a critical edition of Faith in Mind`
 
+## Resume Before Restart
+
+Before asking the generic opening question, first check whether this work already has an edition package or process tree.
+
+Look for:
+
+- `*/provenance/{slug}/process/current-state.md`
+- `*/xml-open/*/{slug}/process.json`
+- `*/xml-open/*/{slug}/timeline.json`
+- existing `process-log.md`
+- existing `decision-log.md`
+- existing `human-log.md`
+- existing `witness-register.md`
+- existing `ocr-transcription-plan.md`
+
+If those exist, do not restart at witness discovery by default.
+
+Read them first and answer these questions:
+
+1. Is the witness set already locked?
+2. Is the copy-text already chosen or locked?
+3. What phase is complete?
+4. What phase is next?
+5. What exact artifact should be produced next?
+6. What blockers are already known?
+
+If the answers are already in the package, surface that state to the user and resume from the recorded next step.
+
+Only ask `How many witnesses should I try to find before I lock the witness set?` if no credible edition state already exists, or if the user explicitly wants to reopen that earlier decision.
+
 ## Shared Path Rule
 
 In shared markdown, do not use:
@@ -20,7 +50,7 @@ In shared markdown, do not use:
 
 Use repo-relative paths or repo-name-relative paths instead.
 
-## First Question
+## First Question For A Fresh Start
 
 Ask this first:
 
@@ -52,6 +82,8 @@ Ask one decision at a time, not all at once.
 - free first
 - scans before plain text
 - OCR first
+- for East Asian scan witnesses, the four-engine OCR loop is mandatory: `tesseract`, `RapidOCR`, `PaddleOCR`, `EasyOCR`
+- keep critical text, witness comparison, and timeline as separate surfaces
 - exact source pages before secondary references
 - every intervention logged
 - agent decisions logged too, not just human decisions
@@ -95,6 +127,8 @@ Use for:
 
 - readable narrative explanation of what happened and why
 - the prose log a reader can understand without parsing tables or JSON
+
+This is chronological narrative, not TEI footnote content.
 
 ### `timeline.json`
 
@@ -176,6 +210,7 @@ Log every meaningful step during the run, including:
 - OCR failures
 - manual adjudication passes
 - apparatus-affecting choices
+- page-role classification decisions
 
 Each step log entry should record:
 
@@ -191,6 +226,22 @@ Each step log entry should record:
 - state delta if it did
 
 If the step changed text, also create the matching `text_changed` event in `timeline.json`.
+
+## Page-Role Rule
+
+Do not assume the whole scanned witness is the target text body.
+
+Before deep correction, classify witness pages into roles such as:
+
+- title
+- preface
+- body
+- commentary
+- colophon
+- blank
+- other
+
+The physical page count of a witness is not the same thing as the length of the edited text.
 
 ## Required Output
 
@@ -211,6 +262,61 @@ It ends in a full documented edition package:
 - decision log
 - human-readable log
 - unresolved loci log
+
+## Footnote boundary rule
+
+Reader-facing TEI notes are allowed, but they must not absorb the jobs of the process logs.
+
+Use a TEI footnote only when it is:
+
+- tied to a visible locus
+- useful to a reader from the text itself
+- short enough to function as a note
+
+Do not use TEI footnotes for:
+
+- run chronology
+- OCR troubleshooting stories
+- full editorial decision essays
+- duplicate prose already present in `human-log.md`
+
+Keep the surfaces distinct:
+
+- `human-log.md` = readable chronological narrative
+- `decision-log.md` = full reasoning trail
+- `timeline.json` = machine state history
+- `apparatus.json` = structured textual evidence
+- TEI notes = short reader-facing locus notes
+
+## Surface separation rule
+
+Do not treat these as the same thing:
+
+- critical reading text
+- witness comparison
+- timeline replay
+
+The critical text is the reader-default surface.
+
+Witness comparison is where a user inspects what individual witnesses read at a locus.
+
+Timeline replay is where a user inspects how the edition changed over time.
+
+Do not substitute one for another.
+
+## Final Validation Pass
+
+Before calling the package done, run one last integrity pass.
+
+At minimum confirm:
+
+- all required JSON files parse
+- schema validation passes where available
+- `documents.json` points only to existing files
+- manifest-declared files exist
+- TEI note anchors and note targets resolve
+- timeline references and apparatus references resolve
+- footnotes are not carrying process-log or human-log content by mistake
 
 ## Files To Read
 

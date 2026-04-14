@@ -19,6 +19,12 @@ Build a system where:
   - quick licensing and source facts in the sidebar
   - full process, apparatus, and stats in a dedicated browser
 
+These surfaces must remain distinct:
+
+- critical reading text
+- witness comparison
+- timeline / editorial history
+
 ## Shared path policy
 
 Shared markdown and JSON examples intended for repo use must not depend on:
@@ -451,6 +457,17 @@ Default required OCR comparison loop for East Asian scan witnesses:
 - `PaddleOCR`
 - `EasyOCR`
 
+This loop is mandatory, not optional.
+
+An edition may proceed with the healthiest available engine for normalization, but it must not silently reduce the comparison basis.
+
+Before manual correction is accepted as methodologically valid, each of the four engines must be:
+
+1. run on the same calibration slice and logged with preserved output
+2. or explicitly logged as blocked with exact runtime failure details
+
+If an engine remains blocked, the blocker must remain visible in the package state and OCR logs.
+
 If any engine in that loop is missing, unavailable, or fails on the witness, that absence or failure must be logged explicitly.
 
 The loop exists to:
@@ -503,6 +520,38 @@ This stage decides:
 - which engine becomes default
 - which engine is comparator only
 - which pages or loci require multi-engine rescue before manual review
+
+### Physical-page classification law
+
+Do not assume that every scanned page in a witness belongs to the edited text body.
+
+A short poem may survive inside a much longer physical witness that also contains:
+
+- title or cover matter
+- prefatory material
+- commentary or exposition
+- appended notes
+- colophon or publication matter
+- blank or near-blank leaves
+
+Before deep correction or collation, classify the page set.
+
+Required output:
+
+- `page-map.csv`
+
+Minimum page-role categories:
+
+- `body`
+- `title`
+- `preface`
+- `commentary`
+- `appendix`
+- `colophon`
+- `blank`
+- `other`
+
+Do not treat the physical page count as the poem or text-body length until this classification pass is done.
 
 ### Stage 5. Editorial adjudication
 
@@ -699,6 +748,109 @@ Use `apparatus.json` for:
 The footnote is the reader surface.
 The JSON apparatus is the data backbone.
 
+### What footnotes are not for
+
+Do not use TEI footnotes as a second process log.
+
+Do not put into reader-facing notes:
+
+- chronological work history
+- download or OCR troubleshooting narrative
+- full decision-log argument chains
+- generalized methodology explanation not tied to a visible locus
+- duplicate prose already carried adequately by `human-log.md`
+
+Those belong instead in:
+
+- `process-log.md` for chronology
+- `decision-log.md` for the full reasoning trail
+- `human-log.md` for readable narrative history
+- `timeline.json` for machine-readable state change history
+
+### Footnote scope rule
+
+A TEI footnote should exist only when all of the following are true:
+
+1. it is tied to a visible text locus or visible note anchor
+2. a reader benefits from seeing it from the text itself
+3. it is short enough to function as a note rather than a mini-essay
+
+If the content is primarily for editors, auditors, or programmatic processing, keep it out of the footnote layer and in apparatus or logs instead.
+
+### Duplication rule
+
+If a note corresponds to a logged editorial decision:
+
+- the footnote may summarize the reason briefly
+- the full reasoning still belongs in `decision-log.md`
+- the event still belongs in `timeline.json`
+- the structured evidence still belongs in `apparatus.json` when variant-bearing
+
+Do not copy the full argument verbatim across all four surfaces.
+
+## Critical text vs witness comparison vs timeline
+
+Do not collapse these into one feature.
+
+### Critical text
+
+This is the main edited reading text.
+
+It is:
+
+- the primary reader surface
+- the place where footnote anchors live
+- the place where apparatus-linked loci are highlighted
+
+It is not:
+
+- a raw witness browser
+- a timeline replay view
+
+### Witness comparison
+
+This is the place where the reader or editor inspects source witnesses directly.
+
+Preferred UI:
+
+- popup
+- side panel
+- comparison dialog
+
+It should show the same locus across selected witnesses.
+
+It is not:
+
+- the final critical text itself
+- the process log
+- the timeline slider
+
+### Timeline
+
+This is the chronological replay of edition construction.
+
+It shows:
+
+- editorial state changes
+- `text_changed` events
+- witness-set and copy-text state transitions
+- unresolved opening/closing
+
+It is not:
+
+- a raw witness comparison surface
+- a replacement for apparatus
+
+### Required separation
+
+The system must preserve all three:
+
+1. critical text surface
+2. witness comparison surface
+3. timeline surface
+
+Witness comparison is necessary, but witness comparison alone is not the critical-edition model.
+
 ### Converter requirement
 
 The next-generation OpenZen converter should not only emit body TEI.
@@ -853,6 +1005,24 @@ A critical edition is not publishable unless:
 8. unresolved loci are classified
 9. TEI validates
 10. manifest/process/apparatus/stats files all validate
+
+## Final coherence and integrity pass
+
+Before calling any package complete, run one last coherence pass over the whole edition.
+
+This pass must confirm:
+
+- every required JSON file parses cleanly
+- every required JSON file validates against its schema where a schema exists
+- `documents.json` paths resolve to real files
+- manifest-declared files actually exist
+- witness ids, sigla, and file references are internally consistent
+- TEI note anchors and note targets resolve
+- TEI notes, apparatus entries, and timeline events do not contradict one another
+- reader-facing footnotes are not being used as a duplicate process journal
+- `human-log.md`, `decision-log.md`, and TEI notes each stay in their proper role
+
+This is a mandatory release gate, not a nice-to-have cleanup pass.
 
 ## Faith in Mind rollout recommendation
 

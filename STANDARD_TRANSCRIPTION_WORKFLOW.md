@@ -90,6 +90,12 @@ The apparatus should explain why the text looks the way it does.
 
 Do not leave workbench notes, excuses, or process commentary inside the reading text.
 
+Do not assume every scanned page belongs to the main text body.
+
+A short work may be transmitted inside a much longer physical witness with commentary, prefatory matter, or end matter.
+
+Classify page roles before deep correction.
+
 ---
 
 ## 5. Record every substantive editorial decision

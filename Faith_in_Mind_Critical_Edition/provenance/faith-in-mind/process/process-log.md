@@ -81,6 +81,13 @@ None yet.
 | 2026-04-14 | OCR probe | Ran RapidOCR probe on `T1-p001` and `T1-p002` | Text extracted on both pages; OCR quality noisy but usable enough for full pass |
 | 2026-04-14 | OCR probe | Ran comparator probes on `T1-p001` for `tesseract`, `EasyOCR`, and `PaddleOCR` | `tesseract` and `EasyOCR` ran; `PaddleOCR` still fails with a Paddle runtime `NotImplementedError` |
 | 2026-04-14 | OCR pass 1 | Ran full RapidOCR pass across `T1` page images and preserved page-level `.json` and `.txt` outputs | `83` pages processed, `80` with extracted text, `3` no-text pages (`T1-p081`-`T1-p083`); normalization is next |
+| 2026-04-14 | OCR environment | Researched Paddle runtime failure against official Paddle/PaddleOCR sources and tested local backend switches | Evidence pointed to a stack/backend issue rather than a simple OCR model setting; local MKL-DNN flag toggles did not fix the original failure |
+| 2026-04-14 | OCR environment | Downgraded Python `3.12` Paddle stack to `paddleocr 3.2.0`, `paddlepaddle 3.1.1`, and `paddlex 3.2.1` | The documented compatibility pair installed successfully |
+| 2026-04-14 | OCR probe | Re-tested `PaddleOCR(lang='ch')` after downgrade | Default `PP-OCRv5` no longer raised the old Python exception, but still crashed with a Windows access violation during prediction |
+| 2026-04-14 | OCR probe | Ran Paddle calibration probe on `T1-p001` using `PP-OCRv4` with CPU / no-HPI / no-MKL-DNN settings and saved outputs | Paddle became calibration-usable on this machine; outputs saved under `ocr/T1/ocr/paddleocr-ppocrv4/` |
+| 2026-04-14 | OCR probe | Saved `tesseract` and `EasyOCR` calibration outputs for `T1-p001` | The same-page four-engine comparison slice now exists for `RapidOCR`, `tesseract`, `EasyOCR`, and `PaddleOCR` |
+| 2026-04-14 | OCR pass 1 | Completed resumable PaddleOCR `PP-OCRv4` full pass across `T1` and preserved page-level outputs | `83` pages saved successfully under `ocr/T1/ocr/paddleocr-ppocrv4/`; default `PP-OCRv5` remains unusable on this machine |
+| 2026-04-14 | Normalization | Built the first normalized `T1` working spine from page-level RapidOCR outputs | `transcription/normalized/T1-normalized-pass1.txt` created with page markers and stable line IDs; `transcription/normalized/normalization-rule-log.md` records the applied structural rules |
 
 ---
 

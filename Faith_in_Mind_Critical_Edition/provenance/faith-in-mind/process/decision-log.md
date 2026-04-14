@@ -126,3 +126,21 @@
 - Confidence: high
 - Actor type: `hybrid`
 - Actor id: user + agent
+
+## D-015 2026-04-14 - Pin the Python 3.12 Paddle stack to the documented compatibility pair
+
+- Decision: replace the newer failing Paddle stack with `paddleocr 3.2.0`, `paddlepaddle 3.1.1`, and `paddlex 3.2.1` in Python `3.12`
+- Why: official release information documented PaddleOCR `3.2.0` as fully supporting PaddlePaddle `3.1.0` / `3.1.1`, while the newer local stack was failing during prediction
+- Evidence: official release notes plus local reproduction of the `NotImplementedError` under the newer stack
+- Confidence: medium-high
+- Actor type: `hybrid`
+- Actor id: user + agent
+
+## D-016 2026-04-14 - Use PP-OCRv4 as the working Paddle calibration path on this machine
+
+- Decision: use `PP-OCRv4` rather than the default `PP-OCRv5` path for the current Paddle calibration slice on this machine
+- Why: after the stack downgrade, the default `PP-OCRv5` path still crashed with a Windows access violation, while `PP-OCRv4` successfully completed a saved calibration run on `T1-p001`
+- Evidence: local calibration probes and saved outputs under `ocr/T1/ocr/paddleocr-ppocrv4/`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant

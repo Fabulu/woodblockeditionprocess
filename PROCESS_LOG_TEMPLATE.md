@@ -34,6 +34,8 @@ If visible edition text changes, also create:
 - a decision record in `decision-log.md` if the change is non-trivial
 - a readable explanation in `human-log.md` if the change matters to the reader
 
+Maintain `current-state.md` alongside this log so a future agent can resume from the recorded next step instead of restarting the workflow.
+
 ---
 
 ## Policy constraints

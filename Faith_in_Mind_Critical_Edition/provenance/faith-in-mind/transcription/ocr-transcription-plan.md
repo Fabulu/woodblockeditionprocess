@@ -79,20 +79,29 @@ Required outputs:
 
 Run the first OCR pass against the full `T1` witness.
 
-For this edition, the intended default comparator loop is:
+For this edition, the required comparator loop is:
 
 - `tesseract`
 - `RapidOCR`
 - `PaddleOCR`
 - `EasyOCR`
 
-If any engine is missing or fails, log that explicitly instead of silently shrinking the OCR basis.
+This four-engine loop is mandatory for East Asian scan witnesses in this edition workflow.
+
+At minimum, before manual correction begins, all four engines must be handled in one of these two ways:
+
+1. run on the same calibration slice and preserve the outputs for comparison
+2. if an engine is blocked, record the exact runtime failure and keep the blocker open explicitly
+
+Do not silently shrink the OCR basis.
+Do not describe the OCR stage as complete if the four-engine comparison requirement has not been satisfied or formally blocked.
 
 Requirements:
 
 - record OCR engine, model, version, language data, and settings
 - preserve raw OCR output
 - preserve page-level OCR outputs if the tool supports them
+- preserve a same-page comparison set across all four engines where possible
 - log failed pages separately from successful pages
 - log cross-engine disagreement and cross-engine recovery where one engine fills a gap another missed
 
@@ -105,6 +114,13 @@ Required outputs:
 ### Stage 2C. Normalization pass
 
 Normalize OCR output only for structural handling, not silent editorial cleanup.
+
+Normalization may begin from the healthiest available full-pass engine, but this does not waive the mandatory four-engine comparison requirement.
+
+Before Stage 2D manual correction is treated as valid, the edition must have either:
+
+- four-engine calibration comparisons in hand
+- or an explicit logged blocker for each missing engine result
 
 Allowed normalization:
 
@@ -223,6 +239,7 @@ If the implementation uses JSON companions, they must be registered in `document
 This stage is successful when:
 
 - the edition has a usable `T1` working text spine derived from OCR
+- the four-engine OCR comparison requirement has been satisfied or formally blocked with explicit machine/runtime records
 - the first-pass control witnesses have been consulted
 - unresolved places are explicit
 - every change is attributable to an actor and a stage
@@ -233,6 +250,7 @@ This stage is successful when:
 This stage is not complete if:
 
 - OCR output exists but is not preserved
+- the four-engine OCR loop was silently reduced
 - manual fixes were made without logging
 - comparison witnesses were used before a `T1` spine existed
 - unresolved readings were silently normalized away

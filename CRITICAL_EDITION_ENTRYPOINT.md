@@ -31,6 +31,8 @@ The end state is a full OpenZen critical-edition package that ReadZen can displa
 - machine-readable stats
 - reverse-patching-compatible timeline history
 
+ReadZen should also be able to expose witness comparison without collapsing that into the timeline or replacing the critical text surface.
+
 If any of those are missing, the work is not done.
 
 ## Starting assumptions
@@ -46,6 +48,30 @@ From that folder, the agent must:
 3. find sibling folders for the same work if they already exist
 4. collect the current source and witness documentation
 5. follow the OpenZen critical-edition system documented below
+
+## Resume rule
+
+If the repo already contains a package or process tree for the same work, do not start from the generic witness-hunt opening.
+
+Before doing anything else, inspect:
+
+- `provenance/{slug}/process/current-state.md` if present
+- `xml-open/*/{slug}/process.json`
+- `xml-open/*/{slug}/timeline.json`
+- `provenance/{slug}/process/process-log.md`
+- `provenance/{slug}/process/decision-log.md`
+- `provenance/{slug}/process/human-log.md`
+- `provenance/{slug}/witnesses/witness-register.md`
+- `provenance/{slug}/transcription/ocr-transcription-plan.md`
+
+Then summarize:
+
+1. what is already decided
+2. what phase is already complete
+3. what the recorded next step is
+4. whether the user is asking to resume or to deliberately reopen an earlier stage
+
+If those records exist, resume from the recorded next step unless the user explicitly says to reopen the witness hunt, scope, or copy-text decision.
 
 ## First files to read
 
@@ -95,6 +121,8 @@ Read the folder `README.md` and determine:
 - source type
 - rights status
 
+Before moving on, check whether this work already has an edition package in progress and switch to resume mode if it does.
+
 ### Step 2. Find sibling witnesses
 
 Search this repo for sibling folders for the same work family.
@@ -124,6 +152,19 @@ Before transcription or editing, create the edition charter and process tree und
 Do OCR-first, not editor-first.
 
 Only after OCR outputs exist should editorial adjudication begin.
+
+Before full correction, classify the scanned pages by role.
+
+Do not assume all pages in a witness belong to the target text body.
+
+At minimum distinguish:
+
+- title / cover matter
+- prefatory matter
+- text body
+- commentary / exposition
+- colophon / end matter
+- blank or non-body pages
 
 ### Step 6. Record everything
 
@@ -262,6 +303,28 @@ The current parser already supports note extraction. Preferred OpenZen note fami
 
 If parser support is missing, the programmer agent must extend `TeiRenderer.cs` before relying on those note families.
 
+Use notes only for short reader-facing locus-linked content.
+
+Do not use TEI notes as a duplicate:
+
+- `process-log.md`
+- `decision-log.md`
+- `human-log.md`
+
+If the content is primarily chronology, workflow explanation, or full editorial reasoning, keep it out of the note layer.
+
+## Surface separation policy
+
+The implementation must preserve separate surfaces for:
+
+- the critical reading text
+- witness comparison
+- editorial timeline replay
+
+Witness comparison should be locus-driven and should open individual witness readings directly.
+
+Timeline replay should remain about edition-state history, not raw witness browsing.
+
 ## Publication standard
 
 Do not call the work a critical edition unless:
@@ -274,6 +337,29 @@ Do not call the work a critical edition unless:
 6. unresolved loci are classified
 7. TEI validates
 8. ReadZen can display the result coherently
+9. required JSON files parse and validate where supported
+10. cross-file references resolve cleanly
+
+## Final release pass
+
+Before release or handoff, perform one explicit final pass for coherence and machine usability.
+
+Check:
+
+- `manifest.json`
+- `process.json`
+- `timeline.json`
+- `apparatus.json`
+- `stats.json`
+- `documents.json`
+- TEI note anchors and targets
+
+Confirm:
+
+- JSON integrity
+- schema validation where available
+- existing file paths for all registered documents and manifest targets
+- coherent separation between notes, apparatus, decision log, and human-log surfaces
 
 ## Faith in Mind instructions
 
