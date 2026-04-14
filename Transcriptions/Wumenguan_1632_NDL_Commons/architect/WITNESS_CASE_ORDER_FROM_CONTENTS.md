@@ -11,50 +11,50 @@ It is a witness-derived working order, not an imported text spine.
 
 ## Order
 
-1. 趙州狗子
-2. 百丈野狐
-3. 俱胝豎指
-4. 胡子無鬚
+1. è¶™å·žç‹—å­
+2. ç™¾ä¸ˆé‡Žç‹
+3. ä¿±èƒè±ŽæŒ‡
+4. èƒ¡å­ç„¡é¬š
 5. 香嚴上樹
 6. 世尊拈花
 7. 趙州洗鉢
 8. 奚仲造車
-9. 大通智勝
+9. å¤§é€šæ™ºå‹
 10. 清稅孤貧
 11. 州勘庵主
 12. 巖喚主人
 13. 德山托鉢
-14. 南泉斬猫
+14. å—æ³‰æ–¬çŒ«
 15. 洞山三頓
-16. 鐘聲七條
+16. é˜è²ä¸ƒæ¢
 17. 國師三喚
 18. 洞山三斤
-19. 平常是道
-20. 大力量人
+19. å¹³å¸¸æ˜¯é“
+20. å¤§åŠ›é‡äºº
 21. 雲門屎橛
 22. 迦葉刹竿
-23. 不思善惡
-24. 非風非幡
+23. ä¸æ€å–„æƒ¡
+24. éžé¢¨éžå¹¡
 25. 趙州勘婆
-26. 非心非佛
+26. éžå¿ƒéžä½›
 27. 倩女離魂
-28. 庭前柏樹
-29. 牛過窗櫺
-30. 離却語言
+28. åº­å‰æŸæ¨¹
+29. ç‰›éŽçª—æ«º
+30. é›¢å´èªžè¨€
 31. 三座說法
-32. 不是心佛
-33. 外道問佛
-34. 智不是道
-35. 路逢達道
-36. 久響龍潭
-37. 二僧卷簾
-38. 即心即佛
+32. ä¸æ˜¯å¿ƒä½›
+33. å¤–é“å•ä½›
+34. æ™ºä¸æ˜¯é“
+35. è·¯é€¢é”é“
+36. ä¹…éŸ¿é¾æ½­
+37. äºŒåƒ§å·ç°¾
+38. å³å¿ƒå³ä½›
 39. 雲門話墮
 40. 趯倒淨瓶
-41. 達磨安心
-42. 女子出定
+41. é”ç£¨å®‰å¿ƒ
+42. å¥³å­å‡ºå®š
 43. 首山竹篦
-44. 芭蕉拄杖
+44. èŠ­è•‰æ‹„æ–
 45. 他是阿誰
 46. 竿頭進步
 47. 兜率三關
@@ -62,5 +62,5 @@ It is a witness-derived working order, not an imported text spine.
 
 ## Notes
 
-- `俱胝豎指` is supported by a clear body leaf even though the contents graph is visually a bit less clean.
+- `ä¿±èƒè±ŽæŒ‡` is supported by a clear body leaf even though the contents graph is visually a bit less clean.
 - Some contents characters are faint, but the sequence across the four witness leaves is stable enough to use as the ordering backbone for scan-only work.

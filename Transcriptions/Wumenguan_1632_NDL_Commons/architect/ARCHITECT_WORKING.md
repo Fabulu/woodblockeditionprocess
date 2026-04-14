@@ -2,7 +2,7 @@
 
 ## Current Witness
 
-- Folder: `C:\woodblocks\Wumenguan_1632_NDL_Commons`
+- Folder: `Wumenguan_1632_NDL_Commons`
 - Canonical PDF: `NDL12865429_wumenguan_1juan.pdf`
 - Page count: 57
 
@@ -59,11 +59,11 @@
 - Notes: cross-checked by OCR and independent readers; still contains unresolved graphs
 
 ### PDF p.011 left leaf
-- Visual role: commentary and verse on `百丈野狐`
+- Visual role: commentary and verse on `ç™¾ä¸ˆé‡Žç‹`
 - Notes: one of the clearest early body leaves
 
 ### PDF p.012 right leaf
-- Visual role: prose on `俱胝豎指`
+- Visual role: prose on `ä¿±èƒè±ŽæŒ‡`
 - Notes: one of the clearest prose leaves in the early sequence
 
 ### PDF p.015 right leaf
@@ -76,7 +76,7 @@
 
 ### PDF p.016 right leaf
 - Visual role: case-boundary leaf
-- Notes: spans into `大通智勝`
+- Notes: spans into `å¤§é€šæ™ºå‹`
 
 ### PDF p.035 right leaf
 - Visual role: body-text leaf

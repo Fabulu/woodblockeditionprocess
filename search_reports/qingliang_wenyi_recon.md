@@ -26,7 +26,7 @@ I searched for:
 
 ### Text witness candidates
 
-- `zh.wikisource.org/wiki/大藏新纂卍續藏經` contains an index entry for the work:
+- `zh.wikisource.org/wiki/å¤§è—æ–°çº‚åçºŒè—ç¶“` contains an index entry for the work:
   - `大法眼文益禪師語錄（五家語錄法眼宗）` at the table of contents
   - the linked page is a redlink / missing page, not a live text witness
 - `zh.wikisource.org` search did not surface a live free-text page for the full work
@@ -55,5 +55,5 @@ I searched for:
 
 ## Notes
 
-- The closest open evidence found was the Wikisource index entry in `大藏新纂卍續藏經`, but it is not a usable text witness because the work page itself is not present
+- The closest open evidence found was the Wikisource index entry in `å¤§è—æ–°çº‚åçºŒè—ç¶“`, but it is not a usable text witness because the work page itself is not present
 - If a future pass finds a Commons file page, Kyoto scan, or a Wikisource text page with clear rights evidence, create a local source folder and capture the rights basis immediately

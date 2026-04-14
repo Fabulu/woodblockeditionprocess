@@ -1,16 +1,16 @@
 # Woodblock Acquisition Workflow
 
-Use this workflow for future agents working in `C:\woodblocks`.
+Use this workflow for future agents working in this repo.
 
 ## Goal
 
-Acquire commercially reusable source witnesses for Chinese Chan/Zen texts, including both reusable text witnesses and reusable scans, store them under `C:\woodblocks`, and only mark texts as acquired after the files are actually downloaded and validated.
+Acquire commercially reusable source witnesses for Chinese Chan/Zen texts, including both reusable text witnesses and reusable scans, store them in this repo, and only mark texts as acquired after the files are actually downloaded and validated.
 
 ## Rules
 
 - Use `C:\temp\CbetaFreshpull\CbetaZenTranslations\titles.jsonl` as the title index / source-of-truth list for candidate texts.
-- Use `C:\woodblocks\ZEN_TEXT_WORKLIST.md` as the working queue.
-- Use `C:\woodblocks\SOURCES.md` as the attribution ledger.
+- Use `ZEN_TEXT_WORKLIST.md` as the working queue.
+- Use `SOURCES.md` as the attribution ledger.
 - Every source folder must have a local `README.md` with source URL, rights basis, and current status.
 - Every source folder must also record the best known download path in the correct spot inside its `README.md`: direct file URL, redirect URL, direct PDF, or manifest, depending on source type.
 - Every source folder must preserve license and attribution evidence locally at all costs. Do not separate the scan files from their source `README.md`, rights notes, revision snapshots, or other provenance evidence.

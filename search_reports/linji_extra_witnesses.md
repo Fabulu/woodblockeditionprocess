@@ -29,10 +29,10 @@ Scope:
 
 ## Files changed
 
-- `C:\woodblocks\Linji_Record_NDL_2532184_Commons\README.md`
-- `C:\woodblocks\Linji_Record_NDL_2532184_Commons\NDL2532184_linji_record.pdf`
-- `C:\woodblocks\Linji_Record_NDL_2532184_Commons\source_page.html`
-- `C:\woodblocks\Linji_Record_CNTS_00115843434_Commons\README.md`
-- `C:\woodblocks\Linji_Record_CNTS_00115843434_Commons\CNTS-00115843434_linji_record.pdf`
-- `C:\woodblocks\Linji_Record_CNTS_00115843434_Commons\source_page.html`
-- `C:\woodblocks\Linji_Record_CNTS_00047695407_Commons\README.md`
+- `Linji_Record_NDL_2532184_Commons\README.md`
+- `Linji_Record_NDL_2532184_Commons\NDL2532184_linji_record.pdf`
+- `Linji_Record_NDL_2532184_Commons\source_page.html`
+- `Linji_Record_CNTS_00115843434_Commons\README.md`
+- `Linji_Record_CNTS_00115843434_Commons\CNTS-00115843434_linji_record.pdf`
+- `Linji_Record_CNTS_00115843434_Commons\source_page.html`
+- `Linji_Record_CNTS_00047695407_Commons\README.md`

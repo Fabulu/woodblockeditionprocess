@@ -18,6 +18,19 @@ Build a system where:
   - quick licensing and source facts in the sidebar
   - full process, apparatus, and stats in a dedicated browser
 
+## Shared path policy
+
+Shared markdown and JSON examples intended for repo use must not depend on:
+
+- local absolute filesystem paths like `C:\...`
+- renderer-only absolute links
+
+Use instead:
+
+- repo-relative paths
+- repo-name-relative paths when referring to another repository
+- normal web URLs for online sources
+
 ## Non-goals
 
 - no OCR or edition production in this planning pass
@@ -487,7 +500,7 @@ Preferred rule:
 
 ## Footnote and apparatus policy
 
-The app already supports note extraction through [Text/TeiRenderer.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Text/TeiRenderer.cs:1), and CBETA demonstrates the existing anchored-footnote pattern in `xml-p5`.
+The app already supports note extraction through `CBETA-Translator/Text/TeiRenderer.cs`, and CBETA demonstrates the existing anchored-footnote pattern in `CbetaZenTexts/xml-p5`.
 
 Current supported shapes:
 
@@ -512,7 +525,7 @@ Support these note families in OpenZen output:
 
 Parser change required:
 
-- extend `InferNoteKindFromId(...)` in [Text/TeiRenderer.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Text/TeiRenderer.cs:1)
+- extend `InferNoteKindFromId(...)` in `CBETA-Translator/Text/TeiRenderer.cs`
   to recognize those OpenZen note kinds
 - preserve backward compatibility with:
   - `nkr_note_mod_`
@@ -660,7 +673,7 @@ Tabs:
 
 Extend:
 
-- [Models/ManifestInfo.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Models/ManifestInfo.cs:1)
+- `CBETA-Translator/Models/ManifestInfo.cs`
 
 Add models for:
 
@@ -683,7 +696,7 @@ Add loaders parallel to `ManifestService`:
 
 Keep:
 
-- [Views/ProvenancePanel.axaml](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml:1)
+- `CBETA-Translator/Views/ProvenancePanel.axaml`
 
 But simplify its mission to source and license facts, and add:
 
@@ -692,7 +705,7 @@ But simplify its mission to source and license facts, and add:
 
 ### Discovery rules
 
-Current markdown autodiscovery in [Views/ProvenancePanel.axaml.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml.cs:1) is useful but too loose.
+Current markdown autodiscovery in `CBETA-Translator/Views/ProvenancePanel.axaml.cs` is useful but too loose.
 
 Replace "scan all `.md` files" with:
 
@@ -745,7 +758,7 @@ Use `信心銘` as the first text to fully adopt this system because:
 
 Fix stale Wumenguan provenance statements first:
 
-- [provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md](/abs/path/C:/Programmieren/OpenZenTexts/provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md:1)
-- [xml-open/pd/wumenguan-1632/README.md](/abs/path/C:/Programmieren/OpenZenTexts/xml-open/pd/wumenguan-1632/README.md:1)
+- `OpenZenTexts/provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md`
+- `OpenZenTexts/xml-open/pd/wumenguan-1632/README.md`
 
 Those contradictions should not survive into the new system.

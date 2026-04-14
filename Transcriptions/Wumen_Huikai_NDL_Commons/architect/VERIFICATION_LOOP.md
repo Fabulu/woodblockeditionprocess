@@ -2,8 +2,8 @@
 
 ## Scope
 
-- Base witness: `C:\woodblocks\Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`
-- Corroborating witness: `C:\woodblocks\Transcriptions\Wumen_Huikai_NDL_Commons`
+- Base witness: `Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`
+- Corroborating witness: `Transcriptions\Wumen_Huikai_NDL_Commons`
 - Goal: use the second witness to test weak readings, not to overwrite the 1632 witness by habit.
 
 ## Loop

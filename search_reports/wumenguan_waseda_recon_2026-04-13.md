@@ -17,7 +17,7 @@ Local count: `5`.
    Waseda PDF: https://archive.wul.waseda.ac.jp/kosho/bunko31/bunko31_e1102/bunko31_e1102.pdf
    Waseda page: https://www.wul.waseda.ac.jp/kotenseki/html/bunko31/bunko31_e1102/index.html
    ID/date: `文庫31 E1102`; `寳暦2[1752]`.
-   Notes: `無門関 / 慧開 [撰] ; 弥衍宗紹 編`; 56 pages on Commons.
+   Notes: `ç„¡é–€é–¢ / æ…§é–‹ [æ’°] ; å¼¥è¡å®—ç´¹ ç·¨`; 56 pages on Commons.
 
 4. `無門關` via Waseda on Commons, `bunko31_e1101`.
    Commons: https://commons.wikimedia.org/wiki/File:WUL-bunko31_e1101_%E7%84%A1%E9%96%80%E9%96%A2.pdf
@@ -35,8 +35,8 @@ Local count: `5`.
 
 6. `無門關` at Waseda, `bunko31_e1103`.
    Waseda page: https://www.wul.waseda.ac.jp/kotenseki/html/bunko31/bunko31_e1103/index.html
-   ID/date: `文庫31 E1103`; `[出版年不明]`.
-   Visible notes: `広園禅寺応永12年刊(幹縁比丘常牧)の重刊`, `題簽を欠く`, `和装`, `1冊 ; 15.4×10.9cm`.
+   ID/date: `æ–‡åº«31 E1103`; `[å‡ºç‰ˆå¹´ä¸æ˜Ž]`.
+   Visible notes: `åºƒåœ’ç¦…å¯ºå¿œæ°¸12å¹´åˆŠ(å¹¹ç¸æ¯”ä¸˜å¸¸ç‰§)ã®é‡åˆŠ`, `é¡Œç°½ã‚’æ¬ ã`, `å’Œè£…`, `1å†Š ; 15.4Ã—10.9cm`.
    Distinctness: distinct from `bunko31_e1102` and `bunko31_e1101` by accession ID, unknown imprint, and much smaller format; also distinct from `bunko17_w0033`.
    Commons mirror: none surfaced in this pass.
 

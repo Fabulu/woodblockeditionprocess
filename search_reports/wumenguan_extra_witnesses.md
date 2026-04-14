@@ -9,7 +9,7 @@ Scope: open/reusable Wumenguan witness leads only. No shared ledgers were edited
 1. `WUL-bunko31_e1101`
 - Source page: https://commons.wikimedia.org/wiki/File:WUL-bunko31_e1101_%E7%84%A1%E9%96%80%E9%96%A2.pdf
 - Source URL: https://archive.wul.waseda.ac.jp/kosho/bunko31/bunko31_e1101/bunko31_e1101.pdf
-- Local folder: `C:\woodblocks\Wumenguan_WUL-bunko31_e1101_Waseda_Commons`
+- Local folder: `Wumenguan_WUL-bunko31_e1101_Waseda_Commons`
 - Local file: `WUL-bunko31_e1101_mumonkan.pdf`
 - Rights basis: Commons says `Image: Public domain`; source is Waseda University Library.
 - Result: downloaded and validated. PDF header checked and file size matched the Commons listing.
@@ -17,7 +17,7 @@ Scope: open/reusable Wumenguan witness leads only. No shared ledgers were edited
 2. `WUL-bunko17_w0033`
 - Source page: https://commons.wikimedia.org/wiki/File:WUL-bunko17_w0033_%E7%A6%85%E5%AE%97%E7%84%A1%E9%96%80%E9%96%A2.pdf
 - Source URL: https://archive.wul.waseda.ac.jp/kosho/bunko17/bunko17_w0033/bunko17_w0033.pdf
-- Local folder: `C:\woodblocks\Wumenguan_WUL-bunko17_w0033_Waseda_Commons`
+- Local folder: `Wumenguan_WUL-bunko17_w0033_Waseda_Commons`
 - Local file: `WUL-bunko17_w0033_zenshu_mumonkan.pdf`
 - Rights basis: Commons says `Image: Public domain`; source is Waseda University Library.
 - Result: downloaded and validated. PDF header checked and file size matched the Commons listing.

@@ -17,6 +17,19 @@ Build the next OpenZen edition system so that:
 - provenance sidebar stays concise
 - full process/apparatus/stats get their own structured browser
 
+## Shared path policy
+
+Shared docs and examples produced under this brief must not use:
+
+- local absolute filesystem paths like `C:\...`
+- renderer-only absolute links
+
+Use instead:
+
+- repo-relative paths
+- repo-name-relative paths such as `OpenZenTexts/xml-open/pd/wumenguan-1632/manifest.json`
+- web URLs for online sources
+
 ## Required output modes
 
 The implementation must preserve six distinct output modes:
@@ -44,13 +57,13 @@ Do not collapse these modes into one sidebar, one markdown blob, or one oversize
 
 This brief authorizes changes in:
 
-- `C:\Programmieren\OpenZenTexts`
-- `C:\programmieren\MergeWorkCbeta\CBETA-Translator`
+- `OpenZenTexts`
+- `CBETA-Translator`
 
 Reference planning docs:
 
-- [OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md](/abs/path/C:/woodblocks/OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md:1)
-- [CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md:1)
+- `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
+- `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
 
 ## Relevant file inventory
 
@@ -58,64 +71,64 @@ The programmer agent should treat these as the primary known file set.
 
 ### Planning and orchestration
 
-- [OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md](/abs/path/C:/woodblocks/OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md:1)
-- [CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md:1)
-- [PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md](/abs/path/C:/woodblocks/PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md:1)
+- `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
+- `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
+- `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
 
 ### OpenZenTexts repo root and schema
 
-- [README.md](/abs/path/C:/Programmieren/OpenZenTexts/README.md:1)
-- [MANIFEST_SCHEMA.md](/abs/path/C:/Programmieren/OpenZenTexts/MANIFEST_SCHEMA.md:1)
+- `OpenZenTexts/README.md`
+- `OpenZenTexts/MANIFEST_SCHEMA.md`
 
 ### OpenZenTexts curation docs
 
-- [docs/curation/README.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/README.md:1)
-- [docs/curation/WORKFLOW.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/WORKFLOW.md:1)
-- [docs/curation/REPO_INTAKE_PIPELINE.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/REPO_INTAKE_PIPELINE.md:1)
-- [docs/curation/TRANSCRIPTION_METHOD.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/TRANSCRIPTION_METHOD.md:1)
-- [docs/curation/TRANSCRIPTION_CHECKLIST.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/TRANSCRIPTION_CHECKLIST.md:1)
-- [docs/curation/PROCESS_LOG_TEMPLATE.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/PROCESS_LOG_TEMPLATE.md:1)
+- `OpenZenTexts/docs/curation/README.md`
+- `OpenZenTexts/docs/curation/WORKFLOW.md`
+- `OpenZenTexts/docs/curation/REPO_INTAKE_PIPELINE.md`
+- `OpenZenTexts/docs/curation/TRANSCRIPTION_METHOD.md`
+- `OpenZenTexts/docs/curation/TRANSCRIPTION_CHECKLIST.md`
+- `OpenZenTexts/docs/curation/PROCESS_LOG_TEMPLATE.md`
 
 ### OpenZenTexts Wumenguan exemplar
 
-- [xml-open/pd/wumenguan-1632/manifest.json](/abs/path/C:/Programmieren/OpenZenTexts/xml-open/pd/wumenguan-1632/manifest.json:1)
-- [xml-open/pd/wumenguan-1632/README.md](/abs/path/C:/Programmieren/OpenZenTexts/xml-open/pd/wumenguan-1632/README.md:1)
-- [xml-open/pd/wumenguan-1632/wumenguan-1632.xml](/abs/path/C:/Programmieren/OpenZenTexts/xml-open/pd/wumenguan-1632/wumenguan-1632.xml:1)
-- [provenance/wumenguan-1632/WUMENGUAN_1632_DIPLOMATIC_DRAFT.md](/abs/path/C:/Programmieren/OpenZenTexts/provenance/wumenguan-1632/WUMENGUAN_1632_DIPLOMATIC_DRAFT.md:1)
-- [provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md](/abs/path/C:/Programmieren/OpenZenTexts/provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md:1)
-- [provenance/wumenguan-1632/witnesses/wumen-huikai-ndl-README.md](/abs/path/C:/Programmieren/OpenZenTexts/provenance/wumenguan-1632/witnesses/wumen-huikai-ndl-README.md:1)
-- [provenance/wumenguan-1632/witnesses/mumonkan-1752-waseda-README.md](/abs/path/C:/Programmieren/OpenZenTexts/provenance/wumenguan-1632/witnesses/mumonkan-1752-waseda-README.md:1)
+- `OpenZenTexts/xml-open/pd/wumenguan-1632/manifest.json`
+- `OpenZenTexts/xml-open/pd/wumenguan-1632/README.md`
+- `OpenZenTexts/xml-open/pd/wumenguan-1632/wumenguan-1632.xml`
+- `OpenZenTexts/provenance/wumenguan-1632/WUMENGUAN_1632_DIPLOMATIC_DRAFT.md`
+- `OpenZenTexts/provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md`
+- `OpenZenTexts/provenance/wumenguan-1632/witnesses/wumen-huikai-ndl-README.md`
+- `OpenZenTexts/provenance/wumenguan-1632/witnesses/mumonkan-1752-waseda-README.md`
 
 ### OpenZenTexts existing converter
 
-- [tools/woodblock-to-tei/convert-wumenguan-1632.mjs](/abs/path/C:/Programmieren/OpenZenTexts/tools/woodblock-to-tei/convert-wumenguan-1632.mjs:1)
+- `OpenZenTexts/tools/woodblock-to-tei/convert-wumenguan-1632.mjs`
 
 ### ReadZen parser, models, services, UI
 
-- [Text/TeiRenderer.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Text/TeiRenderer.cs:1)
-- [Models/RenderedDocument.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Models/RenderedDocument.cs:1)
-- [Models/ManifestInfo.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Models/ManifestInfo.cs:1)
-- [Services/ManifestService.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Services/ManifestService.cs:1)
-- [Views/ProvenancePanel.axaml](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml:1)
-- [Views/ProvenancePanel.axaml.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml.cs:1)
+- `CBETA-Translator/Text/TeiRenderer.cs`
+- `CBETA-Translator/Models/RenderedDocument.cs`
+- `CBETA-Translator/Models/ManifestInfo.cs`
+- `CBETA-Translator/Services/ManifestService.cs`
+- `CBETA-Translator/Views/ProvenancePanel.axaml`
+- `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
 
 ### ReadZen provenance-browser and Wumenguan run notes
 
-- [runs/CLAUDE-RUNS/RUN-20260412-0942-provenance-browser/SPEC_v1.md](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260412-0942-provenance-browser/SPEC_v1.md:1)
-- [runs/CLAUDE-RUNS/RUN-20260412-0110-wumenguan-1632-openzen-import/SPEC_v1.md](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260412-0110-wumenguan-1632-openzen-import/SPEC_v1.md:1)
-- [runs/CLAUDE-RUNS/RUN-20260412-0110-wumenguan-1632-openzen-import/DECISIONS.md](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260412-0110-wumenguan-1632-openzen-import/DECISIONS.md:1)
+- `CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260412-0942-provenance-browser/SPEC_v1.md`
+- `CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260412-0110-wumenguan-1632-openzen-import/SPEC_v1.md`
+- `CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260412-0110-wumenguan-1632-openzen-import/DECISIONS.md`
 
 ### CBETA reference corpus for note patterns
 
-- [xml-p5/README.md](/abs/path/C:/Programmieren/CbetaZenTexts/xml-p5/README.md:1)
-- [xml-p5/B/B06/B06n0007.xml](/abs/path/C:/Programmieren/CbetaZenTexts/xml-p5/B/B06/B06n0007.xml:3277)
-- [xml-p5/B/B26/B26n0147.xml](/abs/path/C:/Programmieren/CbetaZenTexts/xml-p5/B/B26/B26n0147.xml:7711)
+- `CbetaZenTexts/xml-p5/README.md`
+- `CbetaZenTexts/xml-p5/B/B06/B06n0007.xml`
+- `CbetaZenTexts/xml-p5/B/B26/B26n0147.xml`
 
 ### Working woodblocks-side source docs that matter for current truth
 
-- [Wumen_Huikai_NDL_Commons/README.md](/abs/path/C:/woodblocks/Wumen_Huikai_NDL_Commons/README.md:1)
-- [FAITH_IN_MIND_WITNESSES.md](/abs/path/C:/woodblocks/FAITH_IN_MIND_WITNESSES.md:1)
-- [FAITH_IN_MIND_STEMMA.md](/abs/path/C:/woodblocks/FAITH_IN_MIND_STEMMA.md:1)
+- `Wumen_Huikai_NDL_Commons/README.md`
+- `FAITH_IN_MIND_WITNESSES.md`
+- `FAITH_IN_MIND_STEMMA.md`
 
 ## Program structure
 
@@ -221,7 +234,7 @@ Review by: `Review Agent`
 
 Write scope:
 
-- `C:\Programmieren\OpenZenTexts\MANIFEST_SCHEMA.md`
+- `OpenZenTexts/MANIFEST_SCHEMA.md`
 - new schema docs in `OpenZenTexts/docs/curation/`
 
 Tasks:

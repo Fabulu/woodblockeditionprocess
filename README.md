@@ -14,7 +14,7 @@ The goal is not just to collect source files. The goal is to produce a documente
 
 If you want the guided mode, start with:
 
-- [CRITICAL_EDITION_GUIDED_WORKFLOW.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_GUIDED_WORKFLOW.md:1)
+- `CRITICAL_EDITION_GUIDED_WORKFLOW.md`
 
 That is the file to point an agent at when you want to say:
 
@@ -32,16 +32,16 @@ In guided mode, the agent should:
 
 Read these first:
 
-1. [README.md](/abs/path/C:/woodblocks/README.md:1)
-2. [CRITICAL_EDITION_GUIDED_WORKFLOW.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_GUIDED_WORKFLOW.md:1)
-3. [CRITICAL_EDITION_ENTRYPOINT.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_ENTRYPOINT.md:1)
-4. [CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md:1)
-5. [OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md](/abs/path/C:/woodblocks/OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md:1)
-6. [PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md](/abs/path/C:/woodblocks/PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md:1)
-7. [WORKFLOW.md](/abs/path/C:/woodblocks/WORKFLOW.md:1)
-8. [REPO_INTAKE_PIPELINE.md](/abs/path/C:/woodblocks/REPO_INTAKE_PIPELINE.md:1)
-9. [TRANSCRIPTION_METHOD.md](/abs/path/C:/woodblocks/TRANSCRIPTION_METHOD.md:1)
-10. [STANDARD_TRANSCRIPTION_WORKFLOW.md](/abs/path/C:/woodblocks/STANDARD_TRANSCRIPTION_WORKFLOW.md:1)
+1. `README.md`
+2. `CRITICAL_EDITION_GUIDED_WORKFLOW.md`
+3. `CRITICAL_EDITION_ENTRYPOINT.md`
+4. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
+5. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
+6. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
+7. `WORKFLOW.md`
+8. `REPO_INTAKE_PIPELINE.md`
+9. `TRANSCRIPTION_METHOD.md`
+10. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
 
 ## Repo Rule
 
@@ -49,7 +49,20 @@ This repo must be usable on its own.
 
 Critical workflow files should live here, not only in another local checkout.
 
-OpenZenTexts and the reader code are still relevant implementation targets, but this repo should contain the workflow and planning documents needed to run the edition process without depending on `C:\Programmieren\OpenZenTexts\...` paths in the basic instructions.
+OpenZenTexts and the reader code are still relevant implementation targets, but this repo should contain the workflow and planning documents needed to run the edition process without depending on local absolute paths in the basic instructions.
+
+## Shared Path Rule
+
+Shared markdown in this repo must not use:
+
+- local absolute paths like `C:\...`
+- renderer-only absolute links
+
+Use instead:
+
+- repo-relative paths like `FAITH_IN_MIND_WITNESSES.md`
+- repo-name-relative paths when another repo is involved, such as `OpenZenTexts/xml-open/pd/wumenguan-1632/manifest.json`
+- normal web URLs for online sources
 
 ## Attribution Rule
 
@@ -74,10 +87,10 @@ Actor types:
 
 Useful work-family anchors already in this repo:
 
-- [FAITH_IN_MIND_WITNESSES.md](/abs/path/C:/woodblocks/FAITH_IN_MIND_WITNESSES.md:1)
-- [FAITH_IN_MIND_STEMMA.md](/abs/path/C:/woodblocks/FAITH_IN_MIND_STEMMA.md:1)
-- [WUMENGUAN_NOTE.md](/abs/path/C:/woodblocks/WUMENGUAN_NOTE.md:1)
+- `FAITH_IN_MIND_WITNESSES.md`
+- `FAITH_IN_MIND_STEMMA.md`
+- `WUMENGUAN_NOTE.md`
 
 ## Launch Sentence
 
-`Make a critical edition of C:\woodblocks\{FolderName}. Follow C:\woodblocks\CRITICAL_EDITION_GUIDED_WORKFLOW.md and ask me how many witnesses to find before locking the witness set.`
+`Make a critical edition of {FolderName}. Follow CRITICAL_EDITION_GUIDED_WORKFLOW.md and ask me how many witnesses to find before locking the witness set.`

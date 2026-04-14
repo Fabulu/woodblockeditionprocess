@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh-Hant">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Faith in Mind</title>
+        <title xml:lang="zh-Hant">信心銘</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Placeholder scaffold only. No edition text has been produced yet.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Witness search and package setup only. Witness set not locked.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="status" xml:id="status-pre-ocr">
+        <head>Scaffold Status</head>
+        <p>No OCR, transcription, collation, or editorial text has been entered yet.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

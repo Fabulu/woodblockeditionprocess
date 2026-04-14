@@ -16,8 +16,8 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 - Recoverable signature block is stronger than the current draft suggests:
 
 ```text
-解制前五日
-楊〔岐?〕八世孫
+è§£åˆ¶å‰äº”æ—¥
+æ¥Šã€”å²?ã€•å…«ä¸–å­«
 無門比丘
 慧開謹識
 ```
@@ -30,10 +30,10 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 - Recoverable text is:
 
 ```text
-無門關卷終
+ç„¡é–€é—œå·çµ‚
 ```
 
-- This is stronger than the current `無門卷` reading.
+- This is stronger than the current `ç„¡é–€å·` reading.
 - Two seals are present on the leaf, but it is not a seals-only surface.
 
 ### PDF p.051 right
@@ -44,10 +44,10 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 
 ```text
 〔紹定庚寅季春〕
-無量宗壽書〔?〕
+ç„¡é‡å®—å£½æ›¸ã€”?ã€•
 ```
 
-- The exact opening line remains unstable, but `無量宗壽` looks real enough to log provisionally.
+- The exact opening line remains unstable, but `ç„¡é‡å®—å£½` looks real enough to log provisionally.
 
 ### PDF p.051 left
 
@@ -55,8 +55,8 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 - Secure witness items:
 
 ```text
-淳祐乙巳夏重刊
-孟珙跋
+æ·³ç¥ä¹™å·³å¤é‡åˆŠ
+å­Ÿç™è·‹
 ```
 
 - The middle columns are long official titles and should be treated as title-bearing prose, not noise.
@@ -68,8 +68,8 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 - Secure opening cluster:
 
 ```text
-無門老禪作四十八則語，
-判斷古德公案。
+ç„¡é–€è€ç¦ªä½œå››åå…«å‰‡èªžï¼Œ
+åˆ¤æ–·å¤å¾·å…¬æ¡ˆã€‚
 ```
 
 - The prose continues across the leaf and should be revisited for fuller extraction.
@@ -93,10 +93,10 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 - Secure cluster:
 
 ```text
-傍人問云：
-畢竟作如何結斷。
-安晚合掌曰：
-止止不須說我法妙難思。
+å‚äººå•äº‘ï¼š
+ç•¢ç«Ÿä½œå¦‚ä½•çµæ–·ã€‚
+å®‰æ™šåˆæŽŒæ›°ï¼š
+æ­¢æ­¢ä¸é ˆèªªæˆ‘æ³•å¦™é›£æ€ã€‚
 ```
 
 - More prose is visible beyond this opening.
@@ -107,7 +107,7 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 - Secure heading-like phrase:
 
 ```text
-第四十九則語
+ç¬¬å››åä¹å‰‡èªž
 ```
 
 - This should not be treated as an isolated phrase only; the rest of the leaf also carries prose.
@@ -118,9 +118,9 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 - Secure witness text:
 
 ```text
-淳祐丙午季夏初吉
+æ·³ç¥ä¸™åˆå­£å¤åˆå‰
 安晚居士
-書于西湖漁莊
+æ›¸äºŽè¥¿æ¹–æ¼èŽŠ
 ```
 
 - Three seals are present, but the leaf is not seals-only.
@@ -132,9 +132,9 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 - Secure or near-secure items:
 
 ```text
-應永乙酉十月十三日
-舊板磨滅故重命工鐫
-梓〔?〕這板置于武藏〔州?〕
+æ‡‰æ°¸ä¹™é…‰åæœˆåä¸‰æ—¥
+èˆŠæ¿ç£¨æ»…æ•…é‡å‘½å·¥é«
+æ¢“ã€”?ã€•é€™æ¿ç½®äºŽæ­¦è—ã€”å·ž?ã€•
 〔?〕牟山廣圓禪寺也
 幹緣比丘常牧
 ```
@@ -148,7 +148,7 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 - Boxed text is clear:
 
 ```text
-寬永九年壬申九月
+å¯¬æ°¸ä¹å¹´å£¬ç”³ä¹æœˆ
 中野宗左衛門刊行
 ```
 
@@ -190,19 +190,19 @@ Scope: witness-only audit of late end-matter / colophon leaves, with emphasis on
 
 Witness-supported date strata visible in the end matter:
 
-- `解制前五日` on `PDF p.048 left`
+- `è§£åˆ¶å‰äº”æ—¥` on `PDF p.048 left`
 - `〔紹定庚寅季春〕` probable on `PDF p.051 right`
-- `淳祐乙巳夏重刊` on `PDF p.051 left`
-- `淳祐丙午季夏初吉` on `PDF p.054 right`
-- `應永乙酉十月十三日` on `PDF p.054 left`
-- `寬永九年壬申九月` on `PDF p.055 right`
+- `æ·³ç¥ä¹™å·³å¤é‡åˆŠ` on `PDF p.051 left`
+- `æ·³ç¥ä¸™åˆå­£å¤åˆå‰` on `PDF p.054 right`
+- `æ‡‰æ°¸ä¹™é…‰åæœˆåä¸‰æ—¥` on `PDF p.054 left`
+- `å¯¬æ°¸ä¹å¹´å£¬ç”³ä¹æœˆ` on `PDF p.055 right`
 
 Witness-supported names or signatures visible in the end matter:
 
 - `慧開`
-- `孟珙`
+- `å­Ÿç™`
 - `安晚居士`
-- `無量宗壽〔?〕`
+- `ç„¡é‡å®—å£½ã€”?ã€•`
 - `幹緣比丘常牧`
 - `中野宗左衛門`
 

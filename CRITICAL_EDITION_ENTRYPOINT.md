@@ -1,16 +1,16 @@
 # Critical Edition Entrypoint
 
 Date: 2026-04-14
-Purpose: one file a future agent can be pointed at when asked to turn a scan-rich work in `C:\woodblocks` into a rigorous OpenZen critical edition package for ReadZen.
+Purpose: one file a future agent can be pointed at when asked to turn a scan-rich work in this repo into a rigorous OpenZen critical edition package for ReadZen.
 
-If the user wants a guided, decision-by-decision run, start with [CRITICAL_EDITION_GUIDED_WORKFLOW.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_GUIDED_WORKFLOW.md:1) first.
+If the user wants a guided, decision-by-decision run, start with `CRITICAL_EDITION_GUIDED_WORKFLOW.md` first.
 
 ## Use case
 
 If the user says something like:
 
-- "Make a critical edition from `C:\woodblocks\Faith_in_Mind_*`"
-- "Use `C:\woodblocks\Some_Text_Folder` to make a critical edition"
+- "Make a critical edition from `Faith_in_Mind_*`"
+- "Use `Some_Text_Folder` to make a critical edition"
 - "Start the OpenZen critical-edition workflow for this work"
 
 then this file is the first thing to read.
@@ -34,7 +34,7 @@ If any of those are missing, the work is not done.
 
 ## Starting assumptions
 
-The user will usually point at one simply named folder in `C:\woodblocks`.
+The user will usually point at one simply named folder in the repo.
 
 That folder is only the starting point, not the whole project.
 
@@ -50,17 +50,17 @@ From that folder, the agent must:
 
 Read these in this order:
 
-1. [CRITICAL_EDITION_ENTRYPOINT.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_ENTRYPOINT.md:1)
-2. [OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md](/abs/path/C:/woodblocks/OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md:1)
-3. [CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md:1)
-4. [PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md](/abs/path/C:/woodblocks/PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md:1)
-5. [WORKFLOW.md](/abs/path/C:/woodblocks/WORKFLOW.md:1)
-6. [REPO_INTAKE_PIPELINE.md](/abs/path/C:/woodblocks/REPO_INTAKE_PIPELINE.md:1)
-7. [TRANSCRIPTION_METHOD.md](/abs/path/C:/woodblocks/TRANSCRIPTION_METHOD.md:1)
-8. [STANDARD_TRANSCRIPTION_WORKFLOW.md](/abs/path/C:/woodblocks/STANDARD_TRANSCRIPTION_WORKFLOW.md:1)
-9. [C:/Programmieren/OpenZenTexts/MANIFEST_SCHEMA.md](/abs/path/C:/Programmieren/OpenZenTexts/MANIFEST_SCHEMA.md:1)
-10. [C:/programmieren/MergeWorkCbeta/CBETA-Translator/Text/TeiRenderer.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Text/TeiRenderer.cs:1)
-11. [C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml.cs:1)
+1. `CRITICAL_EDITION_ENTRYPOINT.md`
+2. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
+3. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
+4. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
+5. `WORKFLOW.md`
+6. `REPO_INTAKE_PIPELINE.md`
+7. `TRANSCRIPTION_METHOD.md`
+8. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
+9. `OpenZenTexts/MANIFEST_SCHEMA.md`
+10. `CBETA-Translator/Text/TeiRenderer.cs`
+11. `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
 
 ## Main rule
 
@@ -78,9 +78,9 @@ The target architecture is the critical-edition system spec, not the minimal v1 
 
 Given a folder like:
 
-- `C:\woodblocks\Faith_in_Mind_Korea_Commons`
-- `C:\woodblocks\Faith_in_Mind_NDL_Shiburokushou`
-- `C:\woodblocks\Some_Text_Source`
+- `Faith_in_Mind_Korea_Commons`
+- `Faith_in_Mind_NDL_Shiburokushou`
+- `Some_Text_Source`
 
 the agent must run this discovery loop:
 
@@ -95,12 +95,12 @@ Read the folder `README.md` and determine:
 
 ### Step 2. Find sibling witnesses
 
-Search `C:\woodblocks` for sibling folders for the same work family.
+Search this repo for sibling folders for the same work family.
 
 For `信心銘`, examples include:
 
-- [FAITH_IN_MIND_WITNESSES.md](/abs/path/C:/woodblocks/FAITH_IN_MIND_WITNESSES.md:1)
-- [FAITH_IN_MIND_STEMMA.md](/abs/path/C:/woodblocks/FAITH_IN_MIND_STEMMA.md:1)
+- `FAITH_IN_MIND_WITNESSES.md`
+- `FAITH_IN_MIND_STEMMA.md`
 - `Faith_in_Mind_*`
 - `Sengcan_Faith_in_Mind_*`
 
@@ -245,8 +245,8 @@ Do not call the work a critical edition unless:
 
 For `信心銘`, begin with these anchors:
 
-- [FAITH_IN_MIND_WITNESSES.md](/abs/path/C:/woodblocks/FAITH_IN_MIND_WITNESSES.md:1)
-- [FAITH_IN_MIND_STEMMA.md](/abs/path/C:/woodblocks/FAITH_IN_MIND_STEMMA.md:1)
+- `FAITH_IN_MIND_WITNESSES.md`
+- `FAITH_IN_MIND_STEMMA.md`
 
 The agent must not assume one witness equals the whole work.
 
@@ -265,8 +265,8 @@ Use Wumenguan as the migration exemplar, not as the final model.
 
 Before using it as precedent, reconcile these stale files:
 
-- [C:/Programmieren/OpenZenTexts/provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md](/abs/path/C:/Programmieren/OpenZenTexts/provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md:1)
-- [C:/Programmieren/OpenZenTexts/xml-open/pd/wumenguan-1632/README.md](/abs/path/C:/Programmieren/OpenZenTexts/xml-open/pd/wumenguan-1632/README.md:1)
+- `OpenZenTexts/provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md`
+- `OpenZenTexts/xml-open/pd/wumenguan-1632/README.md`
 
 ## If the agent is asked to "just do it"
 
@@ -288,4 +288,4 @@ The goal is the full documented edition system.
 
 If a future user wants to launch this workflow with one sentence, this is the model:
 
-`Use C:\woodblocks\{FolderName} as the starting witness for an OpenZen critical edition. Follow C:\woodblocks\CRITICAL_EDITION_ENTRYPOINT.md and build the full documented package for ReadZen, including provenance, OCR/process logs, apparatus, stats, TEI, and display-compatible notes.`
+`Use {FolderName} in this repo as the starting witness for an OpenZen critical edition. Follow CRITICAL_EDITION_ENTRYPOINT.md and build the full documented package for ReadZen, including provenance, OCR/process logs, apparatus, stats, TEI, and display-compatible notes.`

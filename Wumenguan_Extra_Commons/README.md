@@ -5,9 +5,9 @@
 
 ## Download links
 
-- `CNTS-00047976368_ç„¡é–€é—œ.pdf`: https://commons.wikimedia.org/wiki/Special:Redirect/file/CNTS-00047976368_%E7%84%A1%E9%96%80%E9%97%9C.pdf
-- `NDL2537644_é¼‡é ­è©•è¨»ç„¡é–€é–¢.pdf`: https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL2537644_%E9%BC%87%E9%A0%AD%E8%A9%95%E8%A8%BB%E7%84%A1%E9%96%80%E9%96%A2.pdf
-- `NDL823521_ç„¡é–€é–¢_-_æ ¡æ­£è©•è¨».pdf`: https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL823521_%E7%84%A1%E9%96%80%E9%96%A2_-_%E6%A0%A1%E6%AD%A3%E8%A9%95%E8%A8%BB.pdf
+- `CNTS-00047976368_無門關.pdf`: https://commons.wikimedia.org/wiki/Special:Redirect/file/CNTS-00047976368_%E7%84%A1%E9%96%80%E9%97%9C.pdf
+- `NDL2537644_鼇頭評註無門関.pdf`: https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL2537644_%E9%BC%87%E9%A0%AD%E8%A9%95%E8%A8%BB%E7%84%A1%E9%96%80%E9%96%A2.pdf
+- `NDL823521_無門関_-_校正評註.pdf`: https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL823521_%E7%84%A1%E9%96%80%E9%96%A2_-_%E6%A0%A1%E6%AD%A3%E8%A9%95%E8%A8%BB.pdf
 
 ## Files
 

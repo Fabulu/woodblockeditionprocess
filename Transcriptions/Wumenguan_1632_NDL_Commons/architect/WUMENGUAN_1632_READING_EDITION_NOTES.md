@@ -11,7 +11,7 @@ The reading edition is not a diplomatic transcript and not a full critical editi
 - The main 48-case body is presented as a readable text.
 - Leaf-level witness apparatus is kept out of the reading flow as much as possible.
 - Corroborant witnesses are used where the 1632 base is weak or incomplete.
-- The appended `49. 第四十九則語` remains late witness material outside the core 48-case sequence.
+- The appended `49. ç¬¬å››åä¹å‰‡èªž` remains late witness material outside the core 48-case sequence.
 
 ## Current Caveats
 
@@ -22,20 +22,20 @@ The reading edition is not a diplomatic transcript and not a full critical editi
 
 ## Rough Readings Still Kept
 
-- `說道有門，無阿師分` in the prefatory material looks unusual against the familiar received wording, but it is locally supported and has not been silently normalized away.
-- `請續一向` in case `20` remains a rough witness-backed reading rather than a smoothed received-text substitute.
+- `èªªé“æœ‰é–€ï¼Œç„¡é˜¿å¸«åˆ†` in the prefatory material looks unusual against the familiar received wording, but it is locally supported and has not been silently normalized away.
+- `è«‹çºŒä¸€å‘` in case `20` remains a rough witness-backed reading rather than a smoothed received-text substitute.
 - Case `31` `無門曰` now has the correct case placement, but its wording still reads as a witness-derived form rather than the most familiar received version.
 
 ## What Was Corrected
 
 - The received prefatory opening beginning `佛語心為宗。無門為法門...` is now restored to the reading edition.
-- The duplicated short preface carry-over beginning at `作敲門瓦子...` was removed from the reading flow.
+- The duplicated short preface carry-over beginning at `ä½œæ•²é–€ç“¦å­...` was removed from the reading flow.
 - Case `10` now reads in the standard order `公案 → 無門曰 → 頌`.
 - Case `17` received a coherence pass in `無門曰 / 頌`.
-- Cases `27` and `28` were returned to the received order: `27. 不是心佛`, `28. 久響龍潭`.
-- Case `31` no longer carries imported `龍潭` material.
-- Case `32` now uses the expected `阿難乃佛弟子... / 劍刃上行...` commentary and verse set.
-- Duplicated appended prose in the back matter was reduced so the reader-facing edition no longer repeats the same `傍人問云...總在裏許` block twice.
+- Cases `27` and `28` were returned to the received order: `27. ä¸æ˜¯å¿ƒä½›`, `28. ä¹…éŸ¿é¾æ½­`.
+- Case `31` no longer carries imported `é¾æ½­` material.
+- Case `32` now uses the expected `é˜¿é›£ä¹ƒä½›å¼Ÿå­... / åŠåˆƒä¸Šè¡Œ...` commentary and verse set.
+- Duplicated appended prose in the back matter was reduced so the reader-facing edition no longer repeats the same `å‚äººå•äº‘...ç¸½åœ¨è£è¨±` block twice.
 
 ## Witness and Source Basis
 

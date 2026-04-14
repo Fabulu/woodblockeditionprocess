@@ -2,7 +2,7 @@
 
 ## Current Witness
 
-- Folder: `C:\woodblocks\Wumen_Huikai_NDL_Commons`
+- Folder: `Wumen_Huikai_NDL_Commons`
 - Canonical PDF: `NDL2537788_wumen_kai_record.redownload.pdf`
 - Page count: `70`
 - Commons filename: `NDL2537788_無門開和尚語録.pdf`
@@ -10,7 +10,7 @@
 ## Purpose
 
 - This workspace is a secondary witness for corroboration.
-- The primary base draft remains `C:\woodblocks\Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`.
+- The primary base draft remains `Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`.
 - This witness may clarify weak graphs, case boundaries, and end-matter readings.
 - It must not silently overwrite the 1632 witness where the two differ.
 

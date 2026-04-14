@@ -1,6 +1,6 @@
 # Standard Transcription Workflow
 
-This is the default workflow for transcription and editorial work in `C:\woodblocks`.
+This is the default workflow for transcription and editorial work in this repo.
 
 The goal is to produce the strongest historical-critical edition that can be justified from the open witness set. A project does not become "critical" by sounding polished. It becomes critical when every meaningful editorial decision is accountable to documented evidence.
 
@@ -44,7 +44,7 @@ not:
 Every project should maintain a process log from the beginning.
 
 Use:
-- [PROCESS_LOG_TEMPLATE.md](</abs/path/C:/woodblocks/PROCESS_LOG_TEMPLATE.md:1>)
+- `PROCESS_LOG_TEMPLATE.md`
 
 The log must be written during the work, not reconstructed at the end.
 

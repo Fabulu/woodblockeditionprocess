@@ -4,7 +4,7 @@ Date: 2026-04-12
 
 Scope:
 - `無門慧開禪師語錄`
-- `溈山靈祐禪師語錄`
+- `æºˆå±±éˆç¥ç¦ªå¸«èªžéŒ„`
 - `金陵清涼院文益禪師語錄`
 
 Policy:
@@ -17,7 +17,7 @@ Policy:
 
 ### `無門慧開禪師語錄`
 
-Validated open witnesses now on disk in `C:\woodblocks\Mumonkan_1752_Waseda_Commons`:
+Validated open witnesses now on disk in `Mumonkan_1752_Waseda_Commons`:
 
 1. `WUL-bunko31_e1102_mumonkan.pdf`
 - Commons page: https://commons.wikimedia.org/wiki/File:WUL-bunko31_e1102_%E7%84%A1%E9%96%80%E9%96%A2.pdf
@@ -46,13 +46,13 @@ Local provenance files saved alongside the PDFs:
 
 ### `無門慧開禪師語錄`
 
-- Local lead `NDL2537788_wumen_kai_record.pdf` remains pending in `C:\woodblocks\Wumen_Huikai_NDL_Commons`.
+- Local lead `NDL2537788_wumen_kai_record.pdf` remains pending in `Wumen_Huikai_NDL_Commons`.
 - Reason: the source-page / rights basis is still not fully validated to the standard required for acquisition.
 - Status: not counted as acquired.
 
 ## Exhausted for now
 
-### `溈山靈祐禪師語錄`
+### `æºˆå±±éˆç¥ç¦ªå¸«èªžéŒ„`
 
 - Broad open search across Commons, NDL, Kyoto, Wikisource, and general web produced no clearly reusable scan witness that could be downloaded and validated.
 - Rejected leads encountered were either rights-unclear, CBETA-derived, or unrelated catalog / transcription material rather than a scan witness.
@@ -65,5 +65,5 @@ Local provenance files saved alongside the PDFs:
 ## Notes
 
 - The Wumenguan track now has multiple open Waseda/Commons witnesses, which is useful for the historical-critical workflow.
-- For the two exhausted tracks, the current result is “no valid open scan witness found yet,” not “no witness exists.”
+- For the two exhausted tracks, the current result is â€œno valid open scan witness found yet,â€ not â€œno witness exists.â€
 - Continue breadth-first searching later, but move attention to other titles for now unless new open leads surface.

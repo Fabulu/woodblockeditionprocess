@@ -4,11 +4,11 @@ Witnesses used: `batch_refined/frames/page_033_right_frame.png`, `batch_refined/
 
 ## Findings
 
-- Strengthen `architect/WUMENGUAN_1632.md:1705`: the leaf appears to show `遂問婆子近處有甚麼宗師。` rather than `甚宗師`. The `麼` is faint, but the image supports it better than the draft does.
-- Weaken `architect/WUMENGUAN_1632.md:1709`: the current draft is too clean at `可謂是前言不應後語。`. The image and OCR comparators both suggest a damaged or intervening phrase before `可謂` (OCR variants include `盡敗關` / `書败開`), so this should stay qualified rather than asserted as a smooth clause.
-- Strengthen `architect/WUMENGUAN_1632.md:1707-1708`: `五里外有龍潭和尚。` and `及到龍潭，` are well supported by the image and by both OCR comparators.
-- Leave unresolved `architect/WUMENGUAN_1632.md:1714-1715`: `雖然救得鼻孔，爭奈瞎却眼睛。` is readable, but the final character should remain orthography-cautious if the project is standardizing `却/卻`.
+- Strengthen `architect/WUMENGUAN_1632.md:1705`: the leaf appears to show `é‚å•å©†å­è¿‘è™•æœ‰ç”šéº¼å®—å¸«ã€‚` rather than `ç”šå®—å¸«`. The `éº¼` is faint, but the image supports it better than the draft does.
+- Weaken `architect/WUMENGUAN_1632.md:1709`: the current draft is too clean at `å¯è¬‚æ˜¯å‰è¨€ä¸æ‡‰å¾Œèªžã€‚`. The image and OCR comparators both suggest a damaged or intervening phrase before `å¯è¬‚` (OCR variants include `ç›¡æ•—é—œ` / `æ›¸è´¥é–‹`), so this should stay qualified rather than asserted as a smooth clause.
+- Strengthen `architect/WUMENGUAN_1632.md:1707-1708`: `äº”é‡Œå¤–æœ‰é¾æ½­å’Œå°šã€‚` and `åŠåˆ°é¾æ½­ï¼Œ` are well supported by the image and by both OCR comparators.
+- Leave unresolved `architect/WUMENGUAN_1632.md:1714-1715`: `é›–ç„¶æ•‘å¾—é¼»å­”ï¼Œçˆ­å¥ˆçžŽå´çœ¼ç›ã€‚` is readable, but the final character should remain orthography-cautious if the project is standardizing `å´/å»`.
 
 ## Bottom Line
 
-The draft is broadly aligned with the leaf, but the middle transition into `可謂是前言不應後語` should not be treated as fully settled yet. The verse tail is much safer than the prose bridge.
+The draft is broadly aligned with the leaf, but the middle transition into `å¯è¬‚æ˜¯å‰è¨€ä¸æ‡‰å¾Œèªž` should not be treated as fully settled yet. The verse tail is much safer than the prose bridge.

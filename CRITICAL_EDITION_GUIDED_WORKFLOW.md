@@ -7,9 +7,18 @@ Purpose: a single file to use when the user says "Make a critical edition of XXX
 
 Use this file when the user gives you:
 
-- one starting folder in `C:\woodblocks`
+- one starting folder in the repo
 - one work title
 - or one simple request like `Make a critical edition of Faith in Mind`
+
+## Shared Path Rule
+
+In shared markdown, do not use:
+
+- local absolute paths like `C:\...`
+- renderer-only absolute links
+
+Use repo-relative paths or repo-name-relative paths instead.
 
 ## First Question
 
@@ -106,22 +115,22 @@ It ends in a full documented edition package:
 
 ## Files To Read
 
-1. [README.md](/abs/path/C:/woodblocks/README.md:1)
-2. [CRITICAL_EDITION_GUIDED_WORKFLOW.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_GUIDED_WORKFLOW.md:1)
-3. [CRITICAL_EDITION_ENTRYPOINT.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_ENTRYPOINT.md:1)
-4. [CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md:1)
-5. [WORKFLOW.md](/abs/path/C:/woodblocks/WORKFLOW.md:1)
-6. [REPO_INTAKE_PIPELINE.md](/abs/path/C:/woodblocks/REPO_INTAKE_PIPELINE.md:1)
-7. [TRANSCRIPTION_METHOD.md](/abs/path/C:/woodblocks/TRANSCRIPTION_METHOD.md:1)
-8. [STANDARD_TRANSCRIPTION_WORKFLOW.md](/abs/path/C:/woodblocks/STANDARD_TRANSCRIPTION_WORKFLOW.md:1)
+1. `README.md`
+2. `CRITICAL_EDITION_GUIDED_WORKFLOW.md`
+3. `CRITICAL_EDITION_ENTRYPOINT.md`
+4. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
+5. `WORKFLOW.md`
+6. `REPO_INTAKE_PIPELINE.md`
+7. `TRANSCRIPTION_METHOD.md`
+8. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
 
 If the work has family notes, read them too.
 
 Examples:
 
-- [FAITH_IN_MIND_WITNESSES.md](/abs/path/C:/woodblocks/FAITH_IN_MIND_WITNESSES.md:1)
-- [FAITH_IN_MIND_STEMMA.md](/abs/path/C:/woodblocks/FAITH_IN_MIND_STEMMA.md:1)
-- [WUMENGUAN_NOTE.md](/abs/path/C:/woodblocks/WUMENGUAN_NOTE.md:1)
+- `FAITH_IN_MIND_WITNESSES.md`
+- `FAITH_IN_MIND_STEMMA.md`
+- `WUMENGUAN_NOTE.md`
 
 ## Documentation Rule
 
@@ -134,4 +143,4 @@ Every witness README should include:
 
 ## Launch Sentence
 
-`Make a critical edition of C:\woodblocks\{FolderName}. Follow C:\woodblocks\CRITICAL_EDITION_GUIDED_WORKFLOW.md and ask me how many witnesses to find before locking the witness set.`
+`Make a critical edition of {FolderName}. Follow CRITICAL_EDITION_GUIDED_WORKFLOW.md and ask me how many witnesses to find before locking the witness set.`

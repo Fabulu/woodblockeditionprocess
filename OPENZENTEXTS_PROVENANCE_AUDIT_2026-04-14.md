@@ -1,7 +1,7 @@
 # OpenZenTexts Provenance And Critical-Edition Audit
 
 Date: 2026-04-14
-Scope: `C:\Programmieren\OpenZenTexts` and `C:\programmieren\MergeWorkCbeta\CBETA-Translator`
+Scope: `OpenZenTexts` and `CBETA-Translator`
 Focus: whether the current documentation and provenance model are strong enough for a rigorous scan-first critical edition program, using `信心銘` as the next target and `wumenguan-1632` as the exemplar under review.
 
 ## Main conclusions
@@ -48,11 +48,11 @@ Therefore the process must be tightened around five non-negotiable rules:
 
 Current contradictions:
 
-- [xml-open/pd/wumenguan-1632/manifest.json](/abs/path/C:/Programmieren/OpenZenTexts/xml-open/pd/wumenguan-1632/manifest.json:1)
+- `OpenZenTexts/xml-open/pd/wumenguan-1632/manifest.json`
   says `NDL2537788` is high-vetting, exact Commons-pinned, fully anchored.
-- [provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md](/abs/path/C:/Programmieren/OpenZenTexts/provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md:1)
+- `OpenZenTexts/provenance/wumenguan-1632/witnesses/wumenguan-1632-ndl-README.md`
   still says the base `NDL12865429` local PDF is "not yet re-downloaded after deletion."
-- [xml-open/pd/wumenguan-1632/README.md](/abs/path/C:/Programmieren/OpenZenTexts/xml-open/pd/wumenguan-1632/README.md:1)
+- `OpenZenTexts/xml-open/pd/wumenguan-1632/README.md`
   still says the Huikai-record rights memo is incomplete, which is now stale.
 
 Effect:
@@ -63,7 +63,7 @@ Effect:
 
 ### 2. The current manifest is provenance-capable but not process-capable
 
-[MANIFEST_SCHEMA.md](/abs/path/C:/Programmieren/OpenZenTexts/MANIFEST_SCHEMA.md:1) is good for:
+`OpenZenTexts/MANIFEST_SCHEMA.md` is good for:
 
 - text identity
 - licensing
@@ -91,10 +91,10 @@ Result:
 
 Good documents already exist:
 
-- [docs/curation/WORKFLOW.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/WORKFLOW.md:1)
-- [docs/curation/REPO_INTAKE_PIPELINE.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/REPO_INTAKE_PIPELINE.md:1)
-- [docs/curation/TRANSCRIPTION_METHOD.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/TRANSCRIPTION_METHOD.md:1)
-- [docs/curation/PROCESS_LOG_TEMPLATE.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/PROCESS_LOG_TEMPLATE.md:1)
+- `OpenZenTexts/docs/curation/WORKFLOW.md`
+- `OpenZenTexts/docs/curation/REPO_INTAKE_PIPELINE.md`
+- `OpenZenTexts/docs/curation/TRANSCRIPTION_METHOD.md`
+- `OpenZenTexts/docs/curation/PROCESS_LOG_TEMPLATE.md`
 
 But they still leave major things as conventions rather than enforceable structure:
 
@@ -111,8 +111,8 @@ But they still leave major things as conventions rather than enforceable structu
 
 Current implementation:
 
-- [Views/ProvenancePanel.axaml](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml:1)
-- [Views/ProvenancePanel.axaml.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml.cs:1)
+- `CBETA-Translator/Views/ProvenancePanel.axaml`
+- `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
 
 What it does well:
 
@@ -136,7 +136,7 @@ The `Documents` section currently just expands arbitrary markdown files. That is
 
 ### 5. The data model in ReadZen is underspecified for a critical-edition browser
 
-[Models/ManifestInfo.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Models/ManifestInfo.cs:1) currently loads only a narrow subset of manifest fields.
+`CBETA-Translator/Models/ManifestInfo.cs` currently loads only a narrow subset of manifest fields.
 
 Missing from the typed model:
 
@@ -153,7 +153,7 @@ Even before adding new critical-edition fields, the app is not consuming the ful
 
 ### 5a. The renderer already supports footnotes, but the supported note model is narrower than the edition program needs
 
-Current parser behavior in [Text/TeiRenderer.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Text/TeiRenderer.cs:1):
+Current parser behavior in `CBETA-Translator/Text/TeiRenderer.cs`:
 
 - supports inline notes: `<note place="inline">`
 - supports end notes in `<back>` when they are anchored from the body via:
@@ -166,8 +166,8 @@ Current parser behavior in [Text/TeiRenderer.cs](/abs/path/C:/programmieren/Merg
 
 CBETA examples confirm the pattern:
 
-- [B06n0007.xml](/abs/path/C:/Programmieren/CbetaZenTexts/xml-p5/B/B06/B06n0007.xml:3277)
-- [B26n0147.xml](/abs/path/C:/Programmieren/CbetaZenTexts/xml-p5/B/B26/B26n0147.xml:7711)
+- `CbetaZenTexts/xml-p5/B/B06/B06n0007.xml`
+- `CbetaZenTexts/xml-p5/B/B26/B26n0147.xml`
 
 This is enough to prove that the app can surface footnote-style annotations today.
 

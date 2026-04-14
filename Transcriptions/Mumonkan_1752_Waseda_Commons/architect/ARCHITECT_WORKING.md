@@ -2,15 +2,15 @@
 
 ## Current Witness
 
-- Folder: `C:\woodblocks\Mumonkan_1752_Waseda_Commons`
+- Folder: `Mumonkan_1752_Waseda_Commons`
 - Canonical PDF: `WUL-bunko31_e1102_mumonkan.pdf`
 - Page count: `56`
 
 ## Purpose
 
 - This workspace is a third witness for corroboration.
-- Base draft remains `C:\woodblocks\Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`.
-- Secondary corroborant remains `C:\woodblocks\Transcriptions\Wumen_Huikai_NDL_Commons`.
+- Base draft remains `Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`.
+- Secondary corroborant remains `Transcriptions\Wumen_Huikai_NDL_Commons`.
 - This witness should help test hard graphs, case boundaries, and larger witness divergences.
 
 ## Working Rule
@@ -37,16 +37,16 @@
 
 - Verdict: usable as a corroborating witness, but selectively
 - Front matter:
-  - page `3` shows stable vocabulary including `世尊升座`, `法筵龍象界`, `白椎`, `維那`
+  - page `3` shows stable vocabulary including `ä¸–å°Šå‡åº§`, `æ³•ç­µé¾è±¡ç•Œ`, `ç™½æ¤Ž`, `ç¶­é‚£`
 - Later body anchors:
   - page `13`
   - page `47`
   - stable phrases reported from local inspection include:
     - `百尺竿頭進步`
-    - `不落因果 / 不昧因果`
-    - `南泉已前作生會`
-    - `百尺竿頭坐底人`
-    - `十方世界現全身`
+    - `ä¸è½å› æžœ / ä¸æ˜§å› æžœ`
+    - `å—æ³‰å·²å‰ä½œç”Ÿæœƒ`
+    - `ç™¾å°ºç«¿é ­ååº•äºº`
+    - `åæ–¹ä¸–ç•Œç¾å…¨èº«`
 - Current limitation:
   - this witness is useful for corroborating known cases and front matter
-  - it does not yet solve the `扇子 / 帝釋` holdout
+  - it does not yet solve the `æ‰‡å­ / å¸é‡‹` holdout

@@ -21,7 +21,7 @@ It reflects what actually worked in the `Wumenguan` project:
 
 ## Directory Pattern
 
-For each witness, create a dedicated transcription workspace under `C:\woodblocks\Transcriptions\...` with:
+For each witness, create a dedicated transcription workspace under `Transcriptions/...` with:
 
 - `architect/`
   Consolidated draft, working notes, verification ledger

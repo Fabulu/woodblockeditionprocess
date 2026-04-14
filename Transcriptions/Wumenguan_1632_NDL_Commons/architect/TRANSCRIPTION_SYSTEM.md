@@ -4,7 +4,7 @@
 
 This workspace is for a diplomatic-but-readable transcription of the scan in:
 
-- `C:\woodblocks\Wumenguan_1632_NDL_Commons\NDL12865429_wumenguan_1juan.pdf`
+- `Wumenguan_1632_NDL_Commons\NDL12865429_wumenguan_1juan.pdf`
 
 The immediate goal is to produce a structured Markdown file with:
 
@@ -64,7 +64,7 @@ Each section should use this shape:
 #### Notes
 - seal or library marks omitted from main text
 - uncertain graph: 〔?〕
-- alternative reading: 〔疑:通/道〕
+- alternative reading: ã€”ç–‘:é€š/é“ã€•
 ```
 
 ## Normalization Rules

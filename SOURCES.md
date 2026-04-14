@@ -1,4 +1,4 @@
-﻿# Zen Woodblock Source Inventory
+# Zen Woodblock Source Inventory
 
 Collected on: 2026-04-09
 
@@ -12,7 +12,7 @@ Scope used here:
 ## Vetted free text witnesses
 
 ### Wumenguan / 無門關
-- Local folder: `C:\woodblocks\Wumenguan_Wikisource_PD_old`
+- Local folder: `Wumenguan_Wikisource_PD_old`
 - Local files:
   - `無門關.wikitext`
   - `page_revisions.json`
@@ -23,20 +23,20 @@ Scope used here:
 - Confidence: high.
 - Notes: vetted exact text witness for `T48n2005`. Captured package shows no `CBETA` marker. Keep alongside the existing scan witnesses.
 
-### Hongzhi Extensive Record / 宏智禪師廣錄
-- Local folder: `C:\woodblocks\Hongzhi_Extensive_Record_Wikisource_PD_old`
+### Hongzhi Extensive Record / å®æ™ºç¦ªå¸«å»£éŒ„
+- Local folder: `Hongzhi_Extensive_Record_Wikisource_PD_old`
 - Local files:
-  - `宏智禪師廣錄.wikitext`
-  - `宏智禪師廣錄_序.wikitext`
-  - `宏智禪師廣錄_卷001.wikitext`
-  - `宏智禪師廣錄_卷002.wikitext`
-  - `宏智禪師廣錄_卷003.wikitext`
-  - `宏智禪師廣錄_卷004.wikitext`
-  - `宏智禪師廣錄_卷005.wikitext`
-  - `宏智禪師廣錄_卷006.wikitext`
-  - `宏智禪師廣錄_卷007.wikitext`
-  - `宏智禪師廣錄_卷008.wikitext`
-  - `宏智禪師廣錄_卷009.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„_åº.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·001.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·002.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·003.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·004.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·005.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·006.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·007.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·008.wikitext`
+  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·009.wikitext`
   - `page_revisions.json`
   - `root_oldid.html`
 - Source page: https://zh.wikisource.org/wiki/%E5%AE%8F%E6%99%BA%E7%A6%AA%E5%B8%AB%E5%BB%A3%E9%8C%84
@@ -46,60 +46,60 @@ Scope used here:
 - Notes: vetted exact text witness for `T48n2001`. Captured package shows no `CBETA` marker.
 
 ### Rujing Sayings / 如淨和尚語錄
-- Pending local folder: `C:\woodblocks\Rujing_Sayings_Wikisource_PD_old_pending`
+- Pending local folder: `Rujing_Sayings_Wikisource_PD_old_pending`
 - Local files:
   - `如淨和尚語錄.wikitext`
-  - `如淨和尚語錄_序.wikitext`
-  - `如淨和尚語錄_卷001.wikitext`
-  - `missing_check_卷002.json`
+  - `å¦‚æ·¨å’Œå°šèªžéŒ„_åº.wikitext`
+  - `å¦‚æ·¨å’Œå°šèªžéŒ„_å·001.wikitext`
+  - `missing_check_å·002.json`
   - `page_revisions.json`
   - `root_oldid.html`
 - Source page: https://zh.wikisource.org/wiki/%E5%A6%82%E6%B7%A8%E5%92%8C%E5%B0%9A%E8%AA%9E%E9%8C%84
 - Stable revision: https://zh.wikisource.org/w/index.php?title=%E5%A6%82%E6%B7%A8%E5%92%8C%E5%B0%9A%E8%AA%9E%E9%8C%84&oldid=2611099
 - Rights basis: captured `oldid` HTML shows page-level `PD-old` / public-domain language, and the Wikisource footer states site text is under `CC BY-SA 4.0`.
 - Confidence: medium-high on rights, low on completeness.
-- Notes: exact free text lead, but the root page links to `/卷002/` and that page is missing. Do not mark `T48n2002A` acquired until the witness is complete.
+- Notes: exact free text lead, but the root page links to `/å·002/` and that page is missing. Do not mark `T48n2002A` acquired until the witness is complete.
 
 ### Blue Cliff Record / 佛果圜悟禪師碧巖錄
-- Pending local folder: `C:\woodblocks\Blue_Cliff_Record_Wikisource_PD_old`
+- Pending local folder: `Blue_Cliff_Record_Wikisource_PD_old`
 - Local files:
   - `佛果圜悟禪師碧巖錄.wikitext`
-  - `佛果圜悟禪師碧巖錄_序.wikitext`
-  - `佛果圜悟禪師碧巖錄_卷001.wikitext`
-  - `佛果圜悟禪師碧巖錄_卷002.wikitext`
-  - `佛果圜悟禪師碧巖錄_卷003.wikitext`
-  - `佛果圜悟禪師碧巖錄_卷004.wikitext`
+  - `ä½›æžœåœœæ‚Ÿç¦ªå¸«ç¢§å·–éŒ„_åº.wikitext`
+  - `ä½›æžœåœœæ‚Ÿç¦ªå¸«ç¢§å·–éŒ„_å·001.wikitext`
+  - `ä½›æžœåœœæ‚Ÿç¦ªå¸«ç¢§å·–éŒ„_å·002.wikitext`
+  - `ä½›æžœåœœæ‚Ÿç¦ªå¸«ç¢§å·–éŒ„_å·003.wikitext`
+  - `ä½›æžœåœœæ‚Ÿç¦ªå¸«ç¢§å·–éŒ„_å·004.wikitext`
   - `page_revisions.json`
   - `root_oldid.html`
 - Source page: https://zh.wikisource.org/wiki/%E4%BD%9B%E6%9E%9C%E5%9C%9C%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84
 - Stable revision checked: https://zh.wikisource.org/w/index.php?title=%E4%BD%9B%E6%9E%9C%E5%9C%9C%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84&oldid=2082713
 - Rights basis: not yet sufficient for acquisition. The inspected root page and checked text subpages show the Wikisource site footer, but the required page-level `PD-old` evidence has not yet been pinned for the text pages in this local package.
 - Confidence: low on current vetting completeness.
-- Notes: research lead only; do not treat as an acquired text witness yet. The root page lists `序` and `卷001` through `卷010`, but the current local package only includes `序` and `卷001` through `卷004`.
+- Notes: research lead only; do not treat as an acquired text witness yet. The root page lists `åº` and `å·001` through `å·010`, but the current local package only includes `åº` and `å·001` through `å·004`.
 
-### Book of Serenity / 萬松老人評唱天童覺和尚頌古從容庵錄
-- Pending local folder: `C:\woodblocks\Book_of_Serenity_pending`
+### Book of Serenity / è¬æ¾è€äººè©•å”±å¤©ç«¥è¦ºå’Œå°šé Œå¤å¾žå®¹åºµéŒ„
+- Pending local folder: `Book_of_Serenity_pending`
 - Local files:
   - `README.md`
 - Source page: https://zh.wikisource.org/wiki/%E8%90%AC%E6%9D%BE%E8%80%81%E4%BA%BA%E8%A9%95%E5%94%B1%E5%A4%A9%E7%AB%A5%E8%A6%BA%E5%92%8C%E5%B0%9A%E9%A0%8C%E5%8F%A4%E5%BE%9E%E5%AE%B9%E5%BA%B5%E9%8C%84
 - Stable revision checked: https://zh.wikisource.org/w/index.php?title=%E8%90%AC%E6%9D%BE%E8%80%81%E4%BA%BA%E8%A9%95%E5%94%B1%E5%A4%A9%E7%AB%A5%E8%A6%BA%E5%92%8C%E5%B0%9A%E9%A0%8C%E5%8F%A4%E5%BE%9E%E5%AE%B9%E5%BA%B5%E9%8C%84&oldid=2096086
 - Rights basis: not yet sufficient for acquisition. The checked root page shows the Wikisource site `CC BY-SA 4.0` footer, but the required page-level `PD-old` evidence has not yet been pinned for the actual text pages.
 - Confidence: low on current vetting completeness.
-- Notes: root structure appears complete with `卷001` through `卷006`, but no local free-text package has been captured and vetted yet. `T48n2004` is already acquired in this repo from a validated scan witness.
+- Notes: root structure appears complete with `å·001` through `å·006`, but no local free-text package has been captured and vetted yet. `T48n2004` is already acquired in this repo from a validated scan witness.
 
 ## Pending exact scan-family leads
 
-### Tiansheng Lamp / 天聖廣燈錄
-- Pending local folder: `C:\woodblocks\Tiansheng_Lamp_NLC_Commons_pending`
+### Tiansheng Lamp / å¤©è–å»£ç‡ˆéŒ„
+- Pending local folder: `Tiansheng_Lamp_NLC_Commons_pending`
 - Local files:
   - `README.md`
 - Source page: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/NLC/%E8%B6%99%E5%9F%8E%E9%87%91%E8%97%8F
 - Rights basis: Commons-hosted NLC scan family. The direct Commons file pages should be treated as the controlling rights statements.
 - Confidence: medium-high on the existence of an exact open scan family; low until the direct file pages and local files are captured.
-- Notes: the Commons list exposes `天聖廣燈錄 第1冊` through `第24冊`. This is a real scan-first lead, not an acquisition yet.
+- Notes: the Commons list exposes `å¤©è–å»£ç‡ˆéŒ„ ç¬¬1å†Š` through `ç¬¬24å†Š`. This is a real scan-first lead, not an acquisition yet.
 
-### Jianzhong Jingguo Continued Lamp / 建中靖國續燈錄
-- Pending local folder: `C:\woodblocks\Jianzhong_Jingguo_Continued_Lamp_CADAL_Commons_pending`
+### Jianzhong Jingguo Continued Lamp / å»ºä¸­é–åœ‹çºŒç‡ˆéŒ„
+- Pending local folder: `Jianzhong_Jingguo_Continued_Lamp_CADAL_Commons_pending`
 - Local files:
   - `README.md`
 - Source page: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/CADAL/03
@@ -108,7 +108,7 @@ Scope used here:
 - Notes: the Commons list exposes `CADAL02019612` through `CADAL02019614`.
 
 ### Jiatai Lamp / 嘉泰普燈錄
-- Pending local folder: `C:\woodblocks\Jiatai_Lamp_CADAL_Commons_pending`
+- Pending local folder: `Jiatai_Lamp_CADAL_Commons_pending`
 - Local files:
   - `README.md`
 - Source page: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/CADAL/03
@@ -117,7 +117,7 @@ Scope used here:
 - Notes: the Commons list exposes `CADAL02019619` through `CADAL02019622`.
 
 ### Continuing Lamp / 續傳燈錄
-- Pending local folder: `C:\woodblocks\Continuing_Lamp_CADAL_Commons_pending`
+- Pending local folder: `Continuing_Lamp_CADAL_Commons_pending`
 - Local files:
   - `README.md`
 - Source page: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/CADAL/03
@@ -127,91 +127,91 @@ Scope used here:
 
 ## Immediate priority set
 
-### 1. Wumenguan / ç„¡é–€é—œ
+### 1. Wumenguan / 無門關
 - Work date: Song, 13th century.
-- Local folder target: `C:\woodblocks\Wumenguan_1632_NDL_Commons`
+- Local folder target: `Wumenguan_1632_NDL_Commons`
 - Source page: https://commons.wikimedia.org/wiki/File:NDL12865429_%E7%84%A1%E9%96%80%E9%97%9C_1%E5%8D%B7.pdf
 - Rights basis: Wikimedia Commons states the file is a mechanical scan of a public-domain original and that the original is public domain under Japanese law.
 - Confidence: high.
 - Notes: cleanest public-domain candidate for the core text.
 
-### 2. Wumenguan, Korean/Japanese-held recension / ç¦ªå®—ç„¡é–€é—œ
+### 2. Wumenguan, Korean/Japanese-held recension / 禪宗無門關
 - Work date: Song core text; surviving copy published 1752.
-- Local folder target: `C:\woodblocks\Zenshu_Mumonkan_1882_Korea_Commons`
+- Local folder target: `Zenshu_Mumonkan_1882_Korea_Commons`
 - Source page: https://commons.wikimedia.org/wiki/File:CNTS-00115843217_%E7%A6%AA%E5%AE%97%E7%84%A1%E9%96%80%E9%97%9C.pdf
 - Rights basis: Wikimedia Commons states the file is a mechanical scan of a public-domain original and public domain in South Korea.
 - Confidence: high.
 - Notes: useful alternate witness; table of contents confirms the full koan sequence.
 
-### 3. Wumenguan, Waseda copy via Commons / ç„¡é–€é—œ
+### 3. Wumenguan, Waseda copy via Commons / 無門關
 - Work date: Song core text; surviving copy published 1752.
-- Local folder target: `C:\woodblocks\Mumonkan_1752_Waseda_Commons`
+- Local folder target: `Mumonkan_1752_Waseda_Commons`
 - Source page: https://commons.wikimedia.org/wiki/File:WUL-bunko31_e1102_%E7%84%A1%E9%96%80%E9%96%A2.pdf
 - Rights basis: Commons-hosted public-domain copy; safer to rely on Commons than on Waseda's own site terms.
 - Confidence: medium-high.
 - Notes: keep as a secondary Wumenguan witness. Additional validated witness files now sit in the same folder: `WUL-bunko31_e1101_mumonkan.pdf` and `WUL-bunko17_w0033_mumonkan.pdf`, with saved Commons description pages as local provenance evidence.
 
-### 4. Blue Cliff Record / ç¢§å·–éŒ„
+### 4. Blue Cliff Record / 碧巖錄
 - Work date: Song, 12th century.
-- Local folder target: `C:\woodblocks\Blue_Cliff_Record_Kyoto_RB00012935`
+- Local folder target: `Blue_Cliff_Record_Kyoto_RB00012935`
 - Source page: https://rmda.kulib.kyoto-u.ac.jp/item/rb00012935
-- Rights basis: the item is marked `ç”»åƒäºŒæ¬¡åˆ©ç”¨è‡ªç”±ï¼ˆæ‰€è”µè¡¨ç¤ºï¼‰`, and Kyoto's reuse guide states that Main Library images may be copied, adapted, or redistributed in any medium without application or fee if you give attribution, link back, and indicate changes.
+- Rights basis: the item is marked `Ã§â€Â»Ã¥Æ’ÂÃ¤ÂºÅ’Ã¦Â¬Â¡Ã¥Ë†Â©Ã§â€Â¨Ã¨â€¡ÂªÃ§â€Â±Ã¯Â¼Ë†Ã¦â€°â‚¬Ã¨â€ÂµÃ¨Â¡Â¨Ã§Â¤ÂºÃ¯Â¼â€°`, and Kyoto's reuse guide states that Main Library images may be copied, adapted, or redistributed in any medium without application or fee if you give attribution, link back, and indicate changes.
 - Confidence: high.
 - Notes: commercially usable, but not public domain in the strict Commons sense; you need to comply with Kyoto's reuse conditions.
 
-### 5. Blue Cliff Record, Korean-held copy / æ¨™è¨»ä½›æžœåœ“æ‚Ÿç¦ªå¸«ç¢§å·–éŒ„
+### 5. Blue Cliff Record, Korean-held copy / 標註佛果圓悟禪師碧巖錄
 - Work date: Song core text; surviving copy listed as 1930 in the National Library of Korea backup list.
-- Local folder target: `C:\woodblocks\Blue_Cliff_Record_Korea_Commons`
+- Local folder target: `Blue_Cliff_Record_Korea_Commons`
 - Source page: https://commons.wikimedia.org/wiki/Category:%E6%A8%99%E8%A8%BB%E4%BD%9B%E6%9E%9C%E5%9C%93%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84
-- Rights basis: Commons category confirms a hosted file exists: `CNTS-00047695627 æ¨™è¨»ä½›æžœåœ“æ‚Ÿç¦ªå¸«ç¢§å·–éŒ„.pdf`. I have not yet verified the file page's exact rights text.
+- Rights basis: Commons category confirms a hosted file exists: `CNTS-00047695627 標註佛果圓悟禪師碧巖錄.pdf`. I have not yet verified the file page's exact rights text.
 - Confidence: medium.
 - Notes: worth downloading after the Kyoto copy, but rights text still needs one more pass.
 
-### 6. Book of Serenity / å¾žå®¹éŒ„ / å¾žå®¹åºµéŒ„
+### 6. Book of Serenity / 從容錄 / 從容庵錄
 - Work date: Song/Yuan, 12th-13th century.
-- Local folder target: `C:\woodblocks\Book_of_Serenity_NLC_Commons`
-- Source lead: six-volume Commons-hosted NLC family under `è¬æ¾è€äººè©•å”±å¤©ç«¥è¦ºå’Œå°šé Œå¤å¾žå®¹åºµéŒ„ ç¬¬1å†Š` through `ç¬¬6å†Š`.
+- Local folder target: `Book_of_Serenity_NLC_Commons`
+- Source lead: six-volume Commons-hosted NLC family under `Ã¨ÂÂ¬Ã¦ÂÂ¾Ã¨â‚¬ÂÃ¤ÂºÂºÃ¨Â©â€¢Ã¥â€Â±Ã¥Â¤Â©Ã§Â«Â¥Ã¨Â¦ÂºÃ¥â€™Å’Ã¥Â°Å¡Ã©Â Å’Ã¥ÂÂ¤Ã¥Â¾Å¾Ã¥Â®Â¹Ã¥ÂºÂµÃ©Å’â€ž Ã§Â¬Â¬1Ã¥â€ Å ` through `Ã§Â¬Â¬6Ã¥â€ Å `.
 - Rights basis: Commons-hosted NLC scans of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Notes: full six-volume set downloaded and validated.
 
-### 7. Huangbo, Transmission of Mind / é»ƒæª—å±±æ–·éš›ç¦ªå¸«å‚³å¿ƒæ³•è¦
+### 7. Huangbo, Transmission of Mind / Ã©Â»Æ’Ã¦Âªâ€”Ã¥Â±Â±Ã¦â€“Â·Ã©Å¡â€ºÃ§Â¦ÂªÃ¥Â¸Â«Ã¥â€šÂ³Ã¥Â¿Æ’Ã¦Â³â€¢Ã¨Â¦Â
 - Work date: Tang core text; surviving copy published 1632.
-- Local folder target: `C:\woodblocks\Huangbo_Transmission_of_Mind_NDL_1632`
+- Local folder target: `Huangbo_Transmission_of_Mind_NDL_1632`
 - Source page: https://commons.wikimedia.org/wiki/File:NDL2537819_%E9%BB%84%E6%AA%97%E5%B1%B1%E6%96%B7%E9%9A%9B%E7%A6%AA%E5%B8%AB%E5%82%B3%E5%BF%83%E6%B3%95%E8%A6%811%E5%8D%B7.pdf
 - Rights basis: Wikimedia Commons states the file is a mechanical scan of a public-domain original and that the original is public domain under Japanese law.
 - Confidence: high.
 - Notes: strongest immediate Huangbo source.
 
-### 8. Huangbo, Kyoto copy / ç­ å·žé»„æª—å±±æ–·éš›ç¦ªå¸«å‚³å¿ƒæ³•è¦ äºŒå·
+### 8. Huangbo, Kyoto copy / Ã§Â­Â Ã¥Â·Å¾Ã©Â»â€žÃ¦Âªâ€”Ã¥Â±Â±Ã¦â€“Â·Ã©Å¡â€ºÃ§Â¦ÂªÃ¥Â¸Â«Ã¥â€šÂ³Ã¥Â¿Æ’Ã¦Â³â€¢Ã¨Â¦Â Ã¤ÂºÅ’Ã¥ÂÂ·
 - Work date: Tang core text; Kyoto copy is a later edition.
-- Local folder target: `C:\woodblocks\Huangbo_Transmission_of_Mind_Kyoto_RB00015527`
+- Local folder target: `Huangbo_Transmission_of_Mind_Kyoto_RB00015527`
 - Source page: https://rmda.kulib.kyoto-u.ac.jp/en/item/rb00015527
 - Rights basis: item is marked `FREE LICENSE with Attribution`, and Kyoto's reuse guide allows copying, adaptation, and redistribution for Main Library material under listed conditions.
 - Confidence: high.
 - Notes: strong backup witness and commercially usable with attribution.
 
-### 9. Zhaozhou sayings / è¶™å·žéŒ„ / è¶™å·žçœŸéš›ç¦ªå¸«èªžéŒ„ / è¶™å·žå¾žè«—ç¦ªå¸«èªžéŒ„
+### 9. Zhaozhou sayings / 趙州錄 / 趙州真際禪師語錄 / 趙州從諗禪師語錄
 - Work date: associated with Tang master Zhaozhou; surviving compilations are later.
-- Local folder: `C:\woodblocks\Zhaozhou_Sayings_Guzunsu_NCL_Commons`
+- Local folder: `Zhaozhou_Sayings_Guzunsu_NCL_Commons`
 - Source lead: NDL authority record confirms title variants: https://id.ndl.go.jp/auth/ndlna/00978045
-- Rights basis: resolved via Commons file page for `NCL-08939 å¤å°Šå®¿èªžéŒ„.pdf`, categorized `PD Old`, `CC-PD-Mark`, and `PD-scan (PD-old)`.
+- Rights basis: resolved via Commons file page for `NCL-08939 Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž.pdf`, categorized `PD Old`, `CC-PD-Mark`, and `PD-scan (PD-old)`.
 - Confidence: medium-high.
-- Notes: acquired as a defensible compilation witness within `å¤å°Šå®¿èªžéŒ„`; continue searching for a stronger standalone or more tightly isolated witness if one surfaces.
+- Notes: acquired as a defensible compilation witness within `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž`; continue searching for a stronger standalone or more tightly isolated witness if one surfaces.
 
 ## Secondary set already on radar
 
-### Platform Sutra / å…­ç¥–å¤§å¸«æ³•å¯¶å£‡ç¶“
+### Platform Sutra / 六祖大師法寶壇經
 - Work date: Tang tradition; surviving Commons copy published 1633.
-- Local folder: `C:\woodblocks\Platform_Sutra_Taiwan_NCL_1633`
-- Local file: `NCL-08922_å…­ç¥–å¤§å¸«æ³•å¯¶å£‡ç¶“.pdf`
+- Local folder: `Platform_Sutra_Taiwan_NCL_1633`
+- Local file: `NCL-08922_六祖大師法寶壇經.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08922_%E5%85%AD%E7%A5%96%E5%A4%A7%E5%B8%AB%E6%B3%95%E5%AF%B6%E5%A3%87%E7%B6%93.pdf
 - Rights basis: Commons marks it public domain / PD-scan / Public Domain Mark.
 - Confidence: high.
 
-### Linji record / éŽ®å·žè‡¨æ¿Ÿæ…§ç…§ç¦ªå¸«èªžéŒ„
+### Linji record / 鎮州臨濟慧照禪師語錄
 - Work date: Tang lineage text.
-- Local folder: `C:\woodblocks\Linji_Record_NDL_Commons`
+- Local folder: `Linji_Record_NDL_Commons`
 - Local file: `NDL2532107_linji_record.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NDL2532107_%E9%8E%AD%E5%B7%9E%E8%87%A8%E6%BF%9F%E6%85%A7%E7%85%A7%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%B21%E5%8D%B7.pdf
 - Rights basis: Commons marks it `PD-Japan` plus mechanical scan.
@@ -220,7 +220,7 @@ Scope used here:
 
 ### Linji record, alternate NDL witness / 鎮州臨濟慧照禪師語錄
 - Work date: Tang lineage text.
-- Local folder: `C:\woodblocks\Linji_Record_NDL_2532184_Commons`
+- Local folder: `Linji_Record_NDL_2532184_Commons`
 - Local files:
   - `NDL2532184_linji_record.pdf`
   - `source_page.html`
@@ -231,7 +231,7 @@ Scope used here:
 
 ### Linji record, Korea Commons witness / 鎮州臨濟慧照禪師語錄
 - Work date: Tang lineage text.
-- Local folder: `C:\woodblocks\Linji_Record_CNTS_00115843434_Commons`
+- Local folder: `Linji_Record_CNTS_00115843434_Commons`
 - Local files:
   - `CNTS-00115843434_linji_record.pdf`
   - `source_page.html`
@@ -241,7 +241,7 @@ Scope used here:
 - Acquisition status: downloaded and validated (`189` pages).
 
 ### Linji record, unresolved Korea Commons lead / 鎮州臨濟慧照禪師語錄
-- Local folder: `C:\woodblocks\Linji_Record_CNTS_00047695407_Commons`
+- Local folder: `Linji_Record_CNTS_00047695407_Commons`
 - Local files:
   - `README.md`
 - Source page lead: https://commons.wikimedia.org/wiki/File:CNTS-00047695407_%E9%8E%AD%E5%B7%9E%E8%87%A8%E6%BF%9F%E6%85%A7%E7%85%A7%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
@@ -249,64 +249,64 @@ Scope used here:
 - Confidence: low.
 - Notes: do not count as acquired; metadata exists but the file path / file page resolved to failure during validation.
 
-### Xutang record / è™šå ‚å’Œå°šèªžéŒ„
+### Xutang record / 虚堂和尚語錄
 - Work date: Song/Yuan.
-- Local folder: `C:\woodblocks\Xutang_Record_NDL_Commons`
+- Local folder: `Xutang_Record_NDL_Commons`
 - Local files:
-  - `NAJDA-311-0053 è™šå ‚å’Œå°šèªžéŒ² ä¸Šä¹‹ä¸Š.pdf`
-  - `NAJDA-311-0053 è™šå ‚å’Œå°šèªžéŒ² ä¸Šä¹‹ä¸‹.pdf`
-  - `NAJDA-311-0053 è™šå ‚å’Œå°šèªžéŒ² ä¸­ä¹‹ä¸Š.pdf`
-  - `NAJDA-311-0053 è™šå ‚å’Œå°šèªžéŒ² ä¸­ä¹‹ä¸‹.pdf`
-  - `NAJDA-311-0053 è™šå ‚å’Œå°šèªžéŒ² ä¸‹ä¹‹ä¸Š.pdf`
-  - `NAJDA-311-0053 è™šå ‚å’Œå°šèªžéŒ² ä¸‹ä¹‹ä¸‹ å¾ŒéŒ²å·»1.pdf`
-  - `NAJDA-311-0053 è™šå ‚å’Œå°šèªžéŒ² å¾ŒéŒ²å·»2-5.pdf`
+  - `NAJDA-311-0053 虚堂和尚語録 上之上.pdf`
+  - `NAJDA-311-0053 虚堂和尚語録 上之下.pdf`
+  - `NAJDA-311-0053 虚堂和尚語録 中之上.pdf`
+  - `NAJDA-311-0053 虚堂和尚語録 中之下.pdf`
+  - `NAJDA-311-0053 虚堂和尚語録 下之上.pdf`
+  - `NAJDA-311-0053 虚堂和尚語録 下之下 後録巻1.pdf`
+  - `NAJDA-311-0053 虚堂和尚語録 後録巻2-5.pdf`
 - Source category: https://commons.wikimedia.org/wiki/Category:%E8%99%9B%E5%A0%82%E5%92%8C%E5%B0%9A%E8%AA%9E%E9%8C%84
 - Rights basis: Commons-hosted National Archives of Japan scans marked public domain / free of known restrictions.
 - Confidence: high.
 - Acquisition status: full seven-file set downloaded and validated.
 
-### Ancient Masters' Sayings / å¤å°Šå®¿èªžéŒ„
+### Ancient Masters' Sayings / Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž
 - Work date: Song compilation.
-- Local folder: `C:\woodblocks\Ancient_Masters_Sayings_NCL_Commons`
+- Local folder: `Ancient_Masters_Sayings_NCL_Commons`
 - Local file: `NCL-08939_ancient_masters_sayings.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08939_%E5%8F%A4%E5%B0%8A%E5%AE%BF%E8%AA%9E%E9%8C%84.pdf
 - Rights basis: Commons-hosted National Central Library scan of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`885` pages).
-- Notes: used to satisfy the `å¤å°Šå®¿èªžéŒ„` worklist rows. Also used as a defensible compilation witness for `T47n1992 æ±¾é™½ç„¡å¾·ç¦ªå¸«èªžéŒ„` via the explicit `æ±¾é™½æ˜­èªžéŒ„` inclusion in volume 10 of `å¤å°Šå®¿èªžéŒ„`; this is an alias-equivalent compilation match rather than a standalone scan.
+- Notes: used to satisfy the `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž` worklist rows. Also used as a defensible compilation witness for `T47n1992 Ã¦Â±Â¾Ã©â„¢Â½Ã§â€žÂ¡Ã¥Â¾Â·Ã§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž` via the explicit `Ã¦Â±Â¾Ã©â„¢Â½Ã¦ËœÂ­Ã¨ÂªÅ¾Ã©Å’â€ž` inclusion in volume 10 of `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž`; this is an alias-equivalent compilation match rather than a standalone scan.
 
-### Fenyang Wude / æ±¾é™½ç„¡å¾·ç¦ªå¸«èªžéŒ„
-- Work date: Song Chan sayings text preserved under the alias-equivalent `æ±¾é™½æ˜­ / å–„æ˜­` naming family.
-- Local folder: `C:\woodblocks\Ancient_Masters_Sayings_NCL_Commons`
+### Fenyang Wude / 汾陽無德禪師語錄
+- Work date: Song Chan sayings text preserved under the alias-equivalent `汾陽昭 / 善昭` naming family.
+- Local folder: `Ancient_Masters_Sayings_NCL_Commons`
 - Local file: `NCL-08939_ancient_masters_sayings.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08939_%E5%8F%A4%E5%B0%8A%E5%AE%BF%E8%AA%9E%E9%8C%84.pdf
-- Rights basis: Commons file page for `å¤å°Šå®¿èªžéŒ„` is the controlling rights statement.
+- Rights basis: Commons file page for `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž` is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`885` pages).
-- Notes: defensible compilation witness through `å¤å°Šå®¿èªžéŒ„` vol. 10 `æ±¾é™½æ˜­èªžéŒ„`. This is an alias-equivalent compilation match for `T47n1992`, not a standalone exact-title scan.
+- Notes: defensible compilation witness through `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž` vol. 10 `Ã¦Â±Â¾Ã©â„¢Â½Ã¦ËœÂ­Ã¨ÂªÅ¾Ã©Å’â€ž`. This is an alias-equivalent compilation match for `T47n1992`, not a standalone exact-title scan.
 
-### Zhongfeng Mingben extensive record / å¤©ç›®ä¸­å³°å»£éŒ„
+### Zhongfeng Mingben extensive record / 天目中峰廣錄
 - Work date: Yuan.
-- Local folder: `C:\woodblocks\Zhongfeng_Mingben_Extensive_Record_NCL_Commons`
+- Local folder: `Zhongfeng_Mingben_Extensive_Record_NCL_Commons`
 - Local file: `NCL-08925_zhongfeng_mingben_extensive_record.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08925_%E5%A4%A9%E7%9B%AE%E4%B8%AD%E5%B3%AF%E5%92%8C%E5%B0%9A%E5%BB%A3%E9%8C%84.pdf
 - Rights basis: Commons-hosted National Central Library scan of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`368` pages).
-- Notes: Commons title uses the fuller witness form `å¤©ç›®ä¸­å³°å’Œå°šå»£éŒ„`; this is used to satisfy the `å¤©ç›®ä¸­å³°å»£éŒ„` worklist row.
+- Notes: Commons title uses the fuller witness form `天目中峰和尚廣錄`; this is used to satisfy the `天目中峰廣錄` worklist row.
 
-### Xuefeng Kong outer collection / é›ªå³°ç©ºå’Œå°šå¤–é›†
+### Xuefeng Kong outer collection / 雪峰空和尚外集
 - Work date: late classical Chan compilation.
-- Local folder: `C:\woodblocks\Xuefeng_Kong_Outer_Collection_NCL_Commons`
+- Local folder: `Xuefeng_Kong_Outer_Collection_NCL_Commons`
 - Local file: `NCL-08945_xuefeng_kong_outer_collection.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08945_%E9%9B%AA%E5%B3%AF%E7%A9%BA%E5%92%8C%E5%B0%9A%E5%A4%96%E9%9B%86.pdf
 - Rights basis: Commons-hosted National Central Library scan of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`98` pages).
 
-### Five Lamps meeting at the source / äº”ç‡ˆæœƒå…ƒ
+### Five Lamps meeting at the source / Ã¤Âºâ€Ã§â€¡Ë†Ã¦Å“Æ’Ã¥â€¦Æ’
 - Work date: Song lamp compilation tradition.
-- Local folder: `C:\woodblocks\Five_Lamps_Meeting_Origin_NCL_Commons`
+- Local folder: `Five_Lamps_Meeting_Origin_NCL_Commons`
 - Local files:
   - `NCL-08960_1_five_lamps_meeting_origin.pdf`
   - `NCL-08960_2_five_lamps_meeting_origin.pdf`
@@ -316,21 +316,21 @@ Scope used here:
 - Rights basis: Commons-hosted National Central Library scans of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Acquisition status: both volumes downloaded and validated (`48` and `50` pages).
-- Notes: this satisfies the `äº”ç‡ˆæœƒå…ƒ` row only, not `äº”ç‡ˆæœƒå…ƒçºŒç•¥`.
+- Notes: this satisfies the `Ã¤Âºâ€Ã§â€¡Ë†Ã¦Å“Æ’Ã¥â€¦Æ’` row only, not `Ã¤Âºâ€Ã§â€¡Ë†Ã¦Å“Æ’Ã¥â€¦Æ’Ã§ÂºÅ’Ã§â€¢Â¥`.
 
-### Huqiu Shaolong record / è™Žä¸˜ç´¹éš†ç¦ªå¸«èªžéŒ„
+### Huqiu Shaolong record / 虎丘紹隆禪師語錄
 - Work date: Song Chan record.
-- Local folder: `C:\woodblocks\Huqiu_Shaolong_Record_NCL_Commons`
+- Local folder: `Huqiu_Shaolong_Record_NCL_Commons`
 - Local file: `NCL-08947_huqiu_shaolong_record.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08947_%E8%99%8E%E4%B8%98%E9%9A%86%E5%92%8C%E5%B0%9A%E8%AA%9E%E9%8C%84.pdf
 - Rights basis: Commons-hosted National Central Library scan of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`31` pages).
-- Notes: Commons title uses the witness form `è™Žä¸˜éš†å’Œå°šèªžéŒ„`; this is used to satisfy the `è™Žä¸˜ç´¹éš†ç¦ªå¸«èªžéŒ„` worklist row.
+- Notes: Commons title uses the witness form `虎丘隆和尚語錄`; this is used to satisfy the `虎丘紹隆禪師語錄` worklist row.
 
-### Tianan Sheng sayings / å¤©å²¸æ˜‡ç¦ªå¸«èªžéŒ„
+### Tianan Sheng sayings / 天岸昇禪師語錄
 - Work date: late Chan record.
-- Local folder: `C:\woodblocks\Tianan_Sheng_Sayings_NCL_Commons`
+- Local folder: `Tianan_Sheng_Sayings_NCL_Commons`
 - Local files:
   - `NCL-08950_01_tianan_sheng_sayings.pdf`
   - `NCL-08950_02_tianan_sheng_sayings.pdf`
@@ -351,9 +351,9 @@ Scope used here:
 - Confidence: medium-high.
 - Acquisition status: full 14-part set downloaded and validated.
 
-### Rujing continued sayings / å¤©ç«¥å±±æ™¯å¾·å¯ºå¦‚æ·¨ç¦ªå¸«çºŒèªžéŒ„
+### Rujing continued sayings / 天童山景德寺如淨禪師續語錄
 - Work date: Song Chan record.
-- Local folder: `C:\woodblocks\Rujing_Continued_Sayings_Kyoto_RB00015543`
+- Local folder: `Rujing_Continued_Sayings_Kyoto_RB00015543`
 - Local manifest: `manifest.json`
 - Local image set: `images\RB00015543_00001.jpg` through `images\RB00015543_00032.jpg`
 - Source page: https://rmda.kulib.kyoto-u.ac.jp/item/rb00015543
@@ -363,29 +363,29 @@ Scope used here:
 - Acquisition status: manifest and full 32-image set downloaded.
 - Notes: this satisfies the `T48n2002B` worklist row.
 
-### Huangbo Wanling record / é»ƒæª—æ–·éš›ç¦ªå¸«å®›é™µéŒ„
+### Huangbo Wanling record / 黃檗斷際禪師宛陵錄
 - Work date: Tang Chan record.
-- Local folder: `C:\woodblocks\Huangbo_Wanling_Record_NLC_Commons`
+- Local folder: `Huangbo_Wanling_Record_NLC_Commons`
 - Local file: `NLC892_huangbo_wanling_record.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NLC892-412000001083-165252_%E9%BB%83%E6%AA%97%E5%B1%B1%E6%96%B7%E9%9A%9B%E7%A6%AA%E5%B8%AB%E5%82%B3%E5%BF%83%E6%B3%95%E8%A6%81_%E5%AE%9B%E9%99%B5%E9%8C%84.pdf
 - Rights basis: Commons-hosted NLC scan of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: high.
 - Acquisition status: downloaded and validated (`44` pages).
-- Notes: the source is a combined witness titled `é»ƒæª—å±±æ–·éš›ç¦ªå¸«å‚³å¿ƒæ³•è¦ å®›é™µéŒ„`; this is used to satisfy the `T48n2012B` worklist rows for `å®›é™µéŒ„`.
+- Notes: the source is a combined witness titled `Ã©Â»Æ’Ã¦Âªâ€”Ã¥Â±Â±Ã¦â€“Â·Ã©Å¡â€ºÃ§Â¦ÂªÃ¥Â¸Â«Ã¥â€šÂ³Ã¥Â¿Æ’Ã¦Â³â€¢Ã¨Â¦Â Ã¥Â®â€ºÃ©â„¢ÂµÃ©Å’â€ž`; this is used to satisfy the `T48n2012B` worklist rows for `Ã¥Â®â€ºÃ©â„¢ÂµÃ©Å’â€ž`.
 
-### Sijia lu / å››å®¶éŒ„
+### Sijia lu / 四家錄
 - Work date: Chan sayings compilation.
-- Local folder: `C:\woodblocks\Sijia_Lu_NCL_Commons`
+- Local folder: `Sijia_Lu_NCL_Commons`
 - Local file: `NCL-08942_sijia_lu.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08942_%E5%9B%9B%E5%AE%B6%E9%8C%84.pdf
 - Rights basis: Commons-hosted National Central Library scan of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`251` pages).
-- Notes: used as a defensible compilation witness for the `é»ƒé¾å››å®¶éŒ„` family, including `T47n1993 é»ƒé¾æ…§å—ç¦ªå¸«èªžéŒ„` and the `X69n1343`-`X69n1345` rows whose titles explicitly identify them as parts two through four of `é»ƒé¾å››å®¶éŒ„`.
+- Notes: used as a defensible compilation witness for the `Ã©Â»Æ’Ã©Â¾ÂÃ¥â€ºâ€ºÃ¥Â®Â¶Ã©Å’â€ž` family, including `T47n1993 Ã©Â»Æ’Ã©Â¾ÂÃ¦â€¦Â§Ã¥Ââ€”Ã§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž` and the `X69n1343`-`X69n1345` rows whose titles explicitly identify them as parts two through four of `Ã©Â»Æ’Ã©Â¾ÂÃ¥â€ºâ€ºÃ¥Â®Â¶Ã©Å’â€ž`.
 
-### Dongshan Wuben and Caoshan Benji / å›½è¨³ç¦…å®—å¢æ›¸ ç¬¬8å·»
+### Dongshan Wuben and Caoshan Benji / Ã¥â€ºÂ½Ã¨Â¨Â³Ã§Â¦â€¦Ã¥Â®â€”Ã¥ÂÂ¢Ã¦â€ºÂ¸ Ã§Â¬Â¬8Ã¥Â·Â»
 - Work date: later Japanese compilation/translation witness for Chan sayings texts.
-- Local folder: `C:\woodblocks\Dongshan_Wuben_and_Caoshan_Benji_NDL_Commons`
+- Local folder: `Dongshan_Wuben_and_Caoshan_Benji_NDL_Commons`
 - Local files:
   - `NDL959986_kokuyaku_zen_vol8_part1.pdf`
   - `NDL959986_kokuyaku_zen_vol8_part2.pdf`
@@ -395,33 +395,33 @@ Scope used here:
 - Rights basis: Commons file pages are marked `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: two-part set downloaded and validated with PyMuPDF (`100`, `100` pages).
-- Notes: defensible compilation witness for `T47n1986A ç­ å·žæ´žå±±æ‚Ÿæœ¬ç¦ªå¸«èªžéŒ„` and `T47n1987B æ’«å·žæ›¹å±±æœ¬å¯‚ç¦ªå¸«èªžéŒ„`. The Commons summary metadata for `å›½è¨³ç¦…å®—å¢æ›¸ ç¬¬8å·»` explicitly lists `æ´žå±±æ‚Ÿæœ¬å¤§å¸«èªžéŒ²` and `æ’«å·žæ›¹å±±æœ¬å¯‚ç¦…å¸«èªžéŒ²` in the volume contents.
+- Notes: defensible compilation witness for `T47n1986A Ã§Â­Â Ã¥Â·Å¾Ã¦Â´Å¾Ã¥Â±Â±Ã¦â€šÅ¸Ã¦Å“Â¬Ã§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž` and `T47n1987B Ã¦â€™Â«Ã¥Â·Å¾Ã¦â€ºÂ¹Ã¥Â±Â±Ã¦Å“Â¬Ã¥Â¯â€šÃ§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž`. The Commons summary metadata for `Ã¥â€ºÂ½Ã¨Â¨Â³Ã§Â¦â€¦Ã¥Â®â€”Ã¥ÂÂ¢Ã¦â€ºÂ¸ Ã§Â¬Â¬8Ã¥Â·Â»` explicitly lists `Ã¦Â´Å¾Ã¥Â±Â±Ã¦â€šÅ¸Ã¦Å“Â¬Ã¥Â¤Â§Ã¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’Â²` and `Ã¦â€™Â«Ã¥Â·Å¾Ã¦â€ºÂ¹Ã¥Â±Â±Ã¦Å“Â¬Ã¥Â¯â€šÃ§Â¦â€¦Ã¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’Â²` in the volume contents.
 
-### Caoshan Yuanzheng / æ’«å·žæ›¹å±±å…ƒè­‰ç¦ªå¸«èªžéŒ„
+### Caoshan Yuanzheng / 撫州曹山元證禪師語錄
 - Work date: Chan sayings text preserved in a Kyoto-held printed witness.
-- Local folder: `C:\woodblocks\Caoshan_Yuanzheng_Kyoto_RB00009516`
+- Local folder: `Caoshan_Yuanzheng_Kyoto_RB00009516`
 - Local manifest: `manifest.json`
 - Local image set: `images\RB00009516_00001.jpg` through `images\RB00009516_00029.jpg`
 - Source page: https://rmda.kulib.kyoto-u.ac.jp/item/rb00009516
 - Manifest: https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00009516/manifest.json
-- Rights basis: Kyoto Main Library item marked `ç”»åƒäºŒæ¬¡åˆ©ç”¨è‡ªç”±ï¼ˆæ‰€è”µè¡¨ç¤ºï¼‰` / free-license with attribution. Kyoto reuse policy allows commercial redistribution with attribution, link-back, and change marking.
+- Rights basis: Kyoto Main Library item marked `Ã§â€Â»Ã¥Æ’ÂÃ¤ÂºÅ’Ã¦Â¬Â¡Ã¥Ë†Â©Ã§â€Â¨Ã¨â€¡ÂªÃ§â€Â±Ã¯Â¼Ë†Ã¦â€°â‚¬Ã¨â€ÂµÃ¨Â¡Â¨Ã§Â¤ÂºÃ¯Â¼â€°` / free-license with attribution. Kyoto reuse policy allows commercial redistribution with attribution, link-back, and change marking.
 - Confidence: high.
 - Acquisition status: manifest plus full 29-image set downloaded and verified on disk.
-- Notes: exact Kyoto witness for the `T47n1987A` worklist row. Item title and internal title both identify `æ’«å·žæ›¹å±±å…ƒè­‰å¤§å¸«èªžéŒ„`.
+- Notes: exact Kyoto witness for the `T47n1987A` worklist row. Item title and internal title both identify `撫州曹山元證大師語錄`.
 
-### Dongshan Liangjie / ç‘žå·žæ´žå±±è‰¯ä»·ç¦ªå¸«èªžéŒ„
+### Dongshan Liangjie / 瑞州洞山良价禪師語錄
 - Work date: Chan sayings text represented in a later Japanese anthology witness.
-- Local folder: `C:\woodblocks\Dongshan_Liangjie_NDL_Commons`
+- Local folder: `Dongshan_Liangjie_NDL_Commons`
 - Local file: `NDL961952_zenmon_soto_part2.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NDL961952_%E7%A6%85%E9%96%80%E6%9B%B9%E6%B4%9E%E5%AE%97%E5%85%B8_part2.pdf
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated with PyMuPDF (`100` pages).
-- Notes: defensible anthology/title-variant witness for `T47n1986B`. The Commons summary metadata for `ç¦…é–€æ›¹æ´žå®—å…¸ part2` identifies `æ´žå±±æ‚Ÿæœ¬ç¦…å¸«èªžéŒ²ï¼ˆç•¥åæ´žå±±éŒ²ï¼‰` with the master `è‰¯ä»·`.
+- Notes: defensible anthology/title-variant witness for `T47n1986B`. The Commons summary metadata for `Ã§Â¦â€¦Ã©â€“â‚¬Ã¦â€ºÂ¹Ã¦Â´Å¾Ã¥Â®â€”Ã¥â€¦Â¸ part2` identifies `Ã¦Â´Å¾Ã¥Â±Â±Ã¦â€šÅ¸Ã¦Å“Â¬Ã§Â¦â€¦Ã¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’Â²Ã¯Â¼Ë†Ã§â€¢Â¥Ã¥ÂÂÃ¦Â´Å¾Ã¥Â±Â±Ã©Å’Â²Ã¯Â¼â€°` with the master `Ã¨â€°Â¯Ã¤Â»Â·`.
 
-### Wuzu Fayan / æ³•æ¼”ç¦ªå¸«èªžéŒ„
+### Wuzu Fayan / Ã¦Â³â€¢Ã¦Â¼â€Ã§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž
 - Work date: Song Chan sayings text.
-- Local folder: `C:\woodblocks\Wuzu_Fayan_Korea_Commons`
+- Local folder: `Wuzu_Fayan_Korea_Commons`
 - Local file: `CNTS-00047693506_wuzu_fayan.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:CNTS-00047693506_%E4%BA%94%E7%A5%96%E6%B3%95%E6%BC%94%E7%A6%AA%E5%B8%AB%E8%AA%9E%E9%8C%84.pdf
 - Rights basis: Commons file page is categorized `PD-South Korea` and `PD-scan (PD-South Korea)`. Commons file-page license text is the controlling rights statement.
@@ -429,37 +429,37 @@ Scope used here:
 - Acquisition status: downloaded and validated (`166` pages).
 - Notes: exact Korean Commons witness for the `T47n1995` worklist row.
 
-### Faith in mind / ä¿¡å¿ƒéŠ˜
+### Faith in mind / 信心銘
 - Work date: early Chan verse text.
-- Preferred local folder: `C:\woodblocks\Sengcan_Faith_in_Mind_NDL_Shibulu`
+- Preferred local folder: `Sengcan_Faith_in_Mind_NDL_Shibulu`
 - Preferred local file: `NDL2537640_shiburoku.pdf`
 - Preferred source page: https://commons.wikimedia.org/wiki/File:NDL2537640_%E5%9B%9B%E9%83%A8%E9%8C%B2.pdf
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Confidence: high.
 - Acquisition status: downloaded and validated (`28` pages).
-- Notes: `å››éƒ¨éŒ²` is a four-text compilation, not a standalone `ä¿¡å¿ƒéŠ˜` edition, but the Commons file description explicitly lists `ä¸‰ç¥–é‘‘æ™ºç¦ªå¸«ä¿¡å¿ƒéŠ˜1å·`, making it a strong rights-safe witness for the short Sengcan poem the user wanted.
-- Secondary local folder: `C:\woodblocks\Faith_in_Mind_Sengcan_Kyoto_RB00016909`
+- Notes: `Ã¥â€ºâ€ºÃ©Æ’Â¨Ã©Å’Â²` is a four-text compilation, not a standalone `Ã¤Â¿Â¡Ã¥Â¿Æ’Ã©Å Ëœ` edition, but the Commons file description explicitly lists `Ã¤Â¸â€°Ã§Â¥â€“Ã©â€˜â€˜Ã¦â„¢ÂºÃ§Â¦ÂªÃ¥Â¸Â«Ã¤Â¿Â¡Ã¥Â¿Æ’Ã©Å Ëœ1Ã¥ÂÂ·`, making it a strong rights-safe witness for the short Sengcan poem the user wanted.
+- Secondary local folder: `Faith_in_Mind_Sengcan_Kyoto_RB00016909`
 - Secondary source page: https://rmda.kulib.kyoto-u.ac.jp/item/rb00016909
 - Secondary rights basis: Kyoto Main Library item marked `FREE LICENSE with Attribution`; Kyoto reuse terms allow commercial redistribution with attribution, link-back, and change marking.
-- Secondary notes: `å…¥è¡†æ—¥ç”¨` is a one-book anthology whose metadata includes `ä¿¡å¿ƒéŠ˜ / (éš‹åƒ§)åƒ§ç’¨æ’°`; manifest and all `41` images are on disk.
-- Additional local folder: `C:\woodblocks\Faith_in_Mind_Korea_Commons`
+- Secondary notes: `Ã¥â€¦Â¥Ã¨Â¡â€ Ã¦â€”Â¥Ã§â€Â¨` is a one-book anthology whose metadata includes `Ã¤Â¿Â¡Ã¥Â¿Æ’Ã©Å Ëœ / (Ã©Å¡â€¹Ã¥Æ’Â§)Ã¥Æ’Â§Ã§â€™Â¨Ã¦â€™Â°`; manifest and all `41` images are on disk.
+- Additional local folder: `Faith_in_Mind_Korea_Commons`
 - Additional local file: `CNTS-00047968260_faith_in_mind.pdf`
 - Additional source page: https://commons.wikimedia.org/wiki/File:CNTS-00047968260_%E4%B8%89%E7%A5%96%E5%A4%A7%E5%B8%AB%E4%BF%A1%E5%BF%83%E9%8A%98.pdf
 - Additional notes: retained as a secondary standalone witness, but it was a poor fit for the user's request because the acquired volume is much longer than the short Sengcan poem target.
 
-### Song of Enlightenment / æ°¸å˜‰è­‰é“æ­Œ
+### Song of Enlightenment / Ã¦Â°Â¸Ã¥Ëœâ€°Ã¨Â­â€°Ã©Ââ€œÃ¦Â­Å’
 - Work date: Tang Chan verse text.
-- Local folder: `C:\woodblocks\Sengcan_Faith_in_Mind_NDL_Shibulu`
+- Local folder: `Sengcan_Faith_in_Mind_NDL_Shibulu`
 - Local file: `NDL2537640_shiburoku.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NDL2537640_%E5%9B%9B%E9%83%A8%E9%8C%B2.pdf
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Confidence: high.
 - Acquisition status: downloaded and validated (`28` pages).
-- Notes: `å››éƒ¨éŒ²` is a four-text compilation, not a standalone `æ°¸å˜‰è­‰é“æ­Œ` edition, but the Commons file description explicitly lists `æ°¸å˜‰çœžè¦ºå¤§å¸«è­‰é“æ­Œ1å·`, making it a strong rights-safe witness for the `T48n2014` worklist row.
+- Notes: `Ã¥â€ºâ€ºÃ©Æ’Â¨Ã©Å’Â²` is a four-text compilation, not a standalone `Ã¦Â°Â¸Ã¥Ëœâ€°Ã¨Â­â€°Ã©Ââ€œÃ¦Â­Å’` edition, but the Commons file description explicitly lists `Ã¦Â°Â¸Ã¥Ëœâ€°Ã§Å“Å¾Ã¨Â¦ÂºÃ¥Â¤Â§Ã¥Â¸Â«Ã¨Â­â€°Ã©Ââ€œÃ¦Â­Å’1Ã¥ÂÂ·`, making it a strong rights-safe witness for the `T48n2014` worklist row.
 
-### Shaoshi Six Gates / å°‘å®¤å…­é–€
+### Shaoshi Six Gates / 少室六門
 - Work date: early Chan text attributed in the Bodhidharma orbit; surviving witness is a later Japanese printed edition.
-- Local folder: `C:\woodblocks\Shaoshi_Six_Gates_NDL_Commons`
+- Local folder: `Shaoshi_Six_Gates_NDL_Commons`
 - Local file: `NDL2537705_shaoshi_six_gates.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NDL2537705_%E5%B0%91%E5%AE%A4%E5%85%AD%E9%96%80_3%E5%8D%B7.pdf
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
@@ -467,19 +467,19 @@ Scope used here:
 - Acquisition status: downloaded and validated (`93` pages).
 - Notes: exact-match Commons/NDL witness for the `T48n2009` worklist row.
 
-### Preface to the Sources of Chan / ç¦ªæºè«¸è©®é›†éƒ½åº
+### Preface to the Sources of Chan / Ã§Â¦ÂªÃ¦ÂºÂÃ¨Â«Â¸Ã¨Â©Â®Ã©â€ºâ€ Ã©Æ’Â½Ã¥ÂºÂ
 - Work date: Tang Chan scholastic preface by Zongmi.
-- Local folder: `C:\woodblocks\Chan_Sources_Preface_Korea_Commons`
+- Local folder: `Chan_Sources_Preface_Korea_Commons`
 - Local file: `CNTS-00047992848_chan_sources_preface.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:CNTS-00047992848_%E7%A6%AA%E6%BA%90%E8%AB%B8%E8%A9%AE%E9%9B%86%E9%83%BD%E5%BA%8F.pdf
 - Rights basis: Commons file page is categorized `PD-South Korea` and `PD-scan (PD-South Korea)`. Commons file-page license text is the controlling rights statement.
 - Confidence: high.
 - Acquisition status: downloaded and validated (`152` pages).
-- Notes: exact-match Korean Commons witness for the `T48n2015` worklist row. A first alternate exact witness, `CNTS-00068033153 ç¦ªæºè«¸è©®é›†éƒ½åº. å·1-2- å®—å¯†(å”) è‘—.pdf`, was downloaded but failed `pypdf` integrity validation and was rejected.
+- Notes: exact-match Korean Commons witness for the `T48n2015` worklist row. A first alternate exact witness, `CNTS-00068033153 Ã§Â¦ÂªÃ¦ÂºÂÃ¨Â«Â¸Ã¨Â©Â®Ã©â€ºâ€ Ã©Æ’Â½Ã¥ÂºÂ. Ã¥ÂÂ·1-2- Ã¥Â®â€”Ã¥Â¯â€ (Ã¥â€Â) Ã¨â€˜â€”.pdf`, was downloaded but failed `pypdf` integrity validation and was rejected.
 
-### Supreme Vehicle Treatise / æœ€ä¸Šä¹˜è«–
+### Supreme Vehicle Treatise / 最上乘論
 - Work date: early Chan treatise in the Bodhidharma orbit.
-- Local folder: `C:\woodblocks\Supreme_Vehicle_Treatise_Korea_Commons`
+- Local folder: `Supreme_Vehicle_Treatise_Korea_Commons`
 - Local file: `CNTS-00047967996_supreme_vehicle_treatise.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:CNTS-00047967996_%E6%9C%80%E4%B8%8A%E4%B9%98%E8%AB%96.pdf
 - Rights basis: Commons file page is categorized `PD-South Korea` and `PD-scan (PD-South Korea)`. Commons file-page license text is the controlling rights statement.
@@ -487,9 +487,9 @@ Scope used here:
 - Acquisition status: downloaded and validated (`20` pages).
 - Notes: exact-match Korean Commons witness for the `T48n2011` worklist row.
 
-### Eyes of Humans and Devas / äººå¤©çœ¼ç›®
+### Eyes of Humans and Devas / 人天眼目
 - Work date: Song Chan classification text.
-- Local folder: `C:\woodblocks\Eyes_of_Humans_and_Devas_Korea_Commons`
+- Local folder: `Eyes_of_Humans_and_Devas_Korea_Commons`
 - Local file: `CNTS-00048004490_eyes_of_humans_and_devas.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:CNTS-00048004490_%E4%BA%BA%E5%A4%A9%E7%9C%BC%E7%9B%AE.pdf
 - Rights basis: Commons file page is categorized `PD-South Korea` and `PD-scan (PD-South Korea)`. Commons file-page license text is the controlling rights statement.
@@ -497,9 +497,9 @@ Scope used here:
 - Acquisition status: downloaded and validated (`314` pages).
 - Notes: exact-match Korean Commons witness for the `T48n2006` worklist row.
 
-### Chan Grove Precious Instructions / ç¦ªæž—å¯¶è¨“
+### Chan Grove Precious Instructions / 禪林寶訓
 - Work date: Song Chan instructional anthology.
-- Local folder: `C:\woodblocks\Chan_Grove_Precious_Instructions_Harvard_Commons`
+- Local folder: `Chan_Grove_Precious_Instructions_Harvard_Commons`
 - Local files:
   - `Harvard_drs_9013583_zenlin_baoxun_vol1.pdf`
   - `Harvard_drs_9013583_zenlin_baoxun_vol2.pdf`
@@ -515,9 +515,9 @@ Scope used here:
 - Acquisition status: full four-volume set downloaded and validated (`33`, `33`, `32`, `35` pages).
 - Notes: Harvard is the preferred witness over the Korean and NLC alternatives because its Commons rights posture is the clearest and the category shows a complete four-volume set.
 
-### Chan Barrier: Encouragement / ç¦ªé—œç­–é€²
+### Chan Barrier: Encouragement / 禪關策進
 - Work date: late imperial Chan encouragement text.
-- Local folder: `C:\woodblocks\Chan_Barrier_Encouragement_NDL_Commons`
+- Local folder: `Chan_Barrier_Encouragement_NDL_Commons`
 - Local file: `NDL2537672_chan_barrier_encouragement.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NDL2537672_%E7%A6%AA%E9%97%9C%E7%AD%96%E9%80%B2.pdf
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
@@ -525,9 +525,9 @@ Scope used here:
 - Acquisition status: downloaded and validated (`56` pages).
 - Notes: exact-match NDL Commons witness for the `T48n2024` worklist row.
 
-### Zimen Monastic Admonitions / ç·‡é–€è­¦è¨“
+### Zimen Monastic Admonitions / 緇門警訓
 - Work date: late imperial Chan monastic admonitions anthology.
-- Local folder: `C:\woodblocks\Zimen_Monastic_Admonitions_Korea_Commons`
+- Local folder: `Zimen_Monastic_Admonitions_Korea_Commons`
 - Local files:
   - `CNTS-00047983640_1_zimen_monastic_admonitions.pdf`
   - `CNTS-00047983640_2_zimen_monastic_admonitions.pdf`
@@ -541,42 +541,42 @@ Scope used here:
 - Acquisition status: downloaded and validated (`163`, `165`, `171` pages).
 - Notes: exact three-volume Korean Commons witness for the `T48n2023` worklist row.
 
-### True Mind Straight Talk / çœŸå¿ƒç›´èªª
+### True Mind Straight Talk / 真心直說
 - Work date: Jinul-related Chan/Seon text transmitted in later compilation form.
-- Local folder: `C:\woodblocks\True_Mind_Straight_Talk_SSID_Commons`
+- Local folder: `True_Mind_Straight_Talk_SSID_Commons`
 - Local file: `SSID-13634244_true_mind_straight_talk_compilation.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:SSID-13634244_%E5%94%AF%E5%BF%83%E8%A8%A3_%E4%BF%AE%E5%BF%83%E8%A8%A3_%E7%9C%9F%E5%BF%83%E7%9B%B4%E8%AA%AA_%E6%B4%97%E5%BF%83%E5%AF%B6%E6%87%BA.pdf
 - Supporting list page: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/SSID/1926-1928
 - Rights basis: Commons-hosted SSID library-backup file page. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`126` pages).
-- Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `çœŸå¿ƒç›´èªª` alongside `å”¯å¿ƒè¨£`, `ä¿®å¿ƒè¨£`, and `æ´—å¿ƒå¯¶æ‡º`.
+- Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `Ã§Å“Å¸Ã¥Â¿Æ’Ã§â€ºÂ´Ã¨ÂªÂª` alongside `Ã¥â€Â¯Ã¥Â¿Æ’Ã¨Â¨Â£`, `Ã¤Â¿Â®Ã¥Â¿Æ’Ã¨Â¨Â£`, and `Ã¦Â´â€”Ã¥Â¿Æ’Ã¥Â¯Â¶Ã¦â€¡Âº`.
 
-### Cultivate Mind / é«˜éº—åœ‹æ™®ç…§ç¦ªå¸«ä¿®å¿ƒè¨£
+### Cultivate Mind / 高麗國普照禪師修心訣
 - Work date: Jinul / Goryeo Seon text transmitted in later compilation form.
-- Local folder: `C:\woodblocks\True_Mind_Straight_Talk_SSID_Commons`
+- Local folder: `True_Mind_Straight_Talk_SSID_Commons`
 - Local file: `SSID-13634244_true_mind_straight_talk_compilation.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:SSID-13634244_%E5%94%AF%E5%BF%83%E8%A8%A3_%E4%BF%AE%E5%BF%83%E8%A8%A3_%E7%9C%9F%E5%BF%83%E7%9B%B4%E8%AA%AA_%E6%B4%97%E5%BF%83%E5%AF%B6%E6%87%BA.pdf
 - Supporting list page: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/SSID/1926-1928
 - Rights basis: Commons-hosted SSID library-backup file page. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`126` pages).
-- Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `ä¿®å¿ƒè¨£`, which matches the `T48n2020` worklist row.
+- Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `修心訣`, which matches the `T48n2020` worklist row.
 
-### Mind-Only Verses / æ°¸æ˜Žæ™ºè¦ºç¦ªå¸«å”¯å¿ƒè¨£
+### Mind-Only Verses / Ã¦Â°Â¸Ã¦ËœÅ½Ã¦â„¢ÂºÃ¨Â¦ÂºÃ§Â¦ÂªÃ¥Â¸Â«Ã¥â€Â¯Ã¥Â¿Æ’Ã¨Â¨Â£
 - Work date: Yongming-related text transmitted in later compilation form.
-- Local folder: `C:\woodblocks\True_Mind_Straight_Talk_SSID_Commons`
+- Local folder: `True_Mind_Straight_Talk_SSID_Commons`
 - Local file: `SSID-13634244_true_mind_straight_talk_compilation.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:SSID-13634244_%E5%94%AF%E5%BF%83%E8%A8%A3_%E4%BF%AE%E5%BF%83%E8%A8%A3_%E7%9C%9F%E5%BF%83%E7%9B%B4%E8%AA%AA_%E6%B4%97%E5%BF%83%E5%AF%B6%E6%87%BA.pdf
 - Supporting list page: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/SSID/1926-1928
 - Rights basis: Commons-hosted SSID library-backup file page. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`126` pages).
-- Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `å”¯å¿ƒè¨£`, which matches the `T48n2018` worklist row.
+- Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `Ã¥â€Â¯Ã¥Â¿Æ’Ã¨Â¨Â£`, which matches the `T48n2018` worklist row.
 
-### Admonitions for Beginners / èª¡åˆå¿ƒå­¸äººæ–‡
+### Admonitions for Beginners / Ã¨ÂªÂ¡Ã¥Ë†ÂÃ¥Â¿Æ’Ã¥Â­Â¸Ã¤ÂºÂºÃ¦â€“â€¡
 - Work date: Jinul / Goryeo Seon admonition text.
-- Local folder: `C:\woodblocks\Admonitions_for_Beginners_Korea_Commons`
+- Local folder: `Admonitions_for_Beginners_Korea_Commons`
 - Local file: `CNTS-00047967966_admonitions_for_beginners.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:CNTS-00047967966_%E8%AA%A1%E5%88%9D%E5%BF%83%E5%AD%B8%E4%BA%BA%E6%96%87.pdf
 - Rights basis: Commons file page is categorized `PD-South Korea` and `PD-scan (PD-South Korea)`. Commons file-page license text is the controlling rights statement.
@@ -584,9 +584,9 @@ Scope used here:
 - Acquisition status: downloaded and validated (`70` pages).
 - Notes: exact Korean Commons witness for the `T48n2019B` worklist row.
 
-### Baizhang Monastic Rules / å‹…ä¿®ç™¾ä¸ˆæ¸…è¦
+### Baizhang Monastic Rules / Ã¥â€¹â€¦Ã¤Â¿Â®Ã§â„¢Â¾Ã¤Â¸Ë†Ã¦Â¸â€¦Ã¨Â¦Â
 - Work date: Yuan monastic regulations text.
-- Local folder: `C:\woodblocks\Baizhang_Monastic_Rules_NLC_Commons`
+- Local folder: `Baizhang_Monastic_Rules_NLC_Commons`
 - Local files:
   - `NLC892-411999013994-120808_baizhang_monastic_rules_vol1.pdf`
   - `NLC892-411999013994-120848_baizhang_monastic_rules_vol2.pdf`
@@ -600,19 +600,19 @@ Scope used here:
 - Acquisition status: full six-volume set downloaded and validated (`41`, `27`, `27`, `28`, `35`, `31` pages).
 - Notes: exact six-volume National Library of China Commons witness for the `T48n2025` worklist row.
 
-### Zhaozhou Sayings / è¶™å·žå’Œå°šèªžéŒ„
-- Work date: Song/Yuan transmission preserved in later `å¤å°Šå®¿èªžéŒ„` compilation witness.
-- Local folder: `C:\woodblocks\Zhaozhou_Sayings_Guzunsu_NCL_Commons`
+### Zhaozhou Sayings / 趙州和尚語錄
+- Work date: Song/Yuan transmission preserved in later `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž` compilation witness.
+- Local folder: `Zhaozhou_Sayings_Guzunsu_NCL_Commons`
 - Local file: `NCL-08939_guzunsu_yulu_compilation.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08939_%E5%8F%A4%E5%B0%8A%E5%AE%BF%E8%AA%9E%E9%8C%84.pdf
 - Rights basis: Commons file page is categorized `PD Old`, `CC-PD-Mark`, and `PD-scan (PD-old)`. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`885` pages).
-- Notes: defensible compilation witness rather than a standalone scan. `è¶™å·žå’Œå°šèªžéŒ„` is included within `å¤å°Šå®¿èªžéŒ„`.
+- Notes: defensible compilation witness rather than a standalone scan. `Ã¨Â¶â„¢Ã¥Â·Å¾Ã¥â€™Å’Ã¥Â°Å¡Ã¨ÂªÅ¾Ã©Å’â€ž` is included within `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž`.
 
-### Yunmen record / é›²é–€åŒ¡çœŸç¦ªå¸«å»£éŒ„
+### Yunmen record / 雲門匡真禪師廣錄
 - Work date: Tang lineage text; the acquired witness is a later NAJ-held printed set.
-- Local folder: `C:\woodblocks\Yunmen_Record_NDL_Commons`
+- Local folder: `Yunmen_Record_NDL_Commons`
 - Local files:
   - `NAJDA-311-0018_yunmen_1.pdf`
   - `NAJDA-311-0018_yunmen_2.pdf`
@@ -624,11 +624,11 @@ Scope used here:
 - Rights basis: Commons-hosted National Archives of Japan scans marked public domain / free of known restrictions.
 - Confidence: medium-high.
 - Acquisition status: full three-file set downloaded and validated.
-- Notes: exact witness for `T47n1988 é›²é–€åŒ¡çœŸç¦ªå¸«å»£éŒ„`. Also used as an alternate-title witness for `J/J24/J24nB138 é›²é–€åŒ¡çœŸç¦ªå¸«èªžéŒ„`, but that Jiaxing row should be treated as satisfied by text-family equivalence rather than strict edition identity.
+- Notes: exact witness for `T47n1988 雲門匡真禪師廣錄`. Also used as an alternate-title witness for `J/J24/J24nB138 雲門匡真禪師語錄`, but that Jiaxing row should be treated as satisfied by text-family equivalence rather than strict edition identity.
 
-### Chanlin Leiju / ç¦ªæž—é¡žèš
+### Chanlin Leiju / Ã§Â¦ÂªÃ¦Å¾â€”Ã©Â¡Å¾Ã¨ÂÅ¡
 - Work date: Song/Yuan compilation.
-- Local folder: `C:\woodblocks\Chanlin_Leiju_NDL_Commons`
+- Local folder: `Chanlin_Leiju_NDL_Commons`
 - Local files:
   - `NDL2543650_chanlin_leiju.pdf`
   - `source_page.html`
@@ -639,7 +639,7 @@ Scope used here:
 
 ### Wumen Huikai Record / 無門慧開禪師語錄
 - Work date: Song Chan sayings record preserved in a later NDL-held printed witness.
-- Local folder: `C:\woodblocks\Wumen_Huikai_NDL_Commons`
+- Local folder: `Wumen_Huikai_NDL_Commons`
 - Local files:
   - `NDL2537788_wumen_kai_record.redownload.pdf`
   - `NDL2537788_wumen_kai_record.redownload2.pdf`
@@ -654,7 +654,7 @@ Scope used here:
 
 ### Gaofeng Yuanmiao Record / 高峰原妙禪師語錄
 - Work date: Yuan Chan sayings text.
-- Local folder: `C:\woodblocks\Gaofeng_Yuanmiao_NLC_Commons`
+- Local folder: `Gaofeng_Yuanmiao_NLC_Commons`
 - Local file: `NLC892_gaofeng_yuanmiao_record.pdf`
 - Source lead: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/NLC/%E6%95%B8%E5%AD%97%E5%8F%A4%E7%B1%8D/06
 - Exact file page exposed on the Commons list: `File:NLC892-411999015045-34310 高峰原妙禪師語錄.pdf`
@@ -662,9 +662,9 @@ Scope used here:
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated with `pypdf` (`50` pages).
 
-### Lianzhu Tongji / 禪宗頌古聯珠通集
+### Lianzhu Tongji / ç¦ªå®—é Œå¤è¯ç é€šé›†
 - Work date: Song/Yuan koan-verse commentary collection.
-- Local folder: `C:\woodblocks\Lianzhu_Tongji_NCL_Commons_pending`
+- Local folder: `Lianzhu_Tongji_NCL_Commons_pending`
 - Local files:
   - `NCL-08920_lianzhu_tongji.pdf`
   - `source_page.html`
@@ -673,13 +673,13 @@ Scope used here:
 - Confidence: high.
 - Acquisition status: downloaded and validated with `pypdf` (`61` pages).
 
-### Jingde Transmission of the Lamp / æ™¯å¾·å‚³ç‡ˆéŒ„
+### Jingde Transmission of the Lamp / 景德傳燈錄
 - Work date: Song, 11th century.
 - Local folders:
-  - `C:\woodblocks\Jingde_Transmission_of_the_Lamp_NDL_Commons`
-  - `C:\woodblocks\Jingde_Transmission_of_the_Lamp_NDL_part7`
-  - `C:\woodblocks\Jingde_Transmission_of_the_Lamp_NDL_part8`
-  - `C:\woodblocks\Jingde_Transmission_of_the_Lamp_Korea_Commons`
+  - `Jingde_Transmission_of_the_Lamp_NDL_Commons`
+  - `Jingde_Transmission_of_the_Lamp_NDL_part7`
+  - `Jingde_Transmission_of_the_Lamp_NDL_part8`
+  - `Jingde_Transmission_of_the_Lamp_Korea_Commons`
 - Local files:
   - `NDL2569893_jingde_part1.pdf`
   - `NDL2569894_jingde_part2.pdf`
@@ -708,11 +708,11 @@ Scope used here:
   - https://commons.wikimedia.org/wiki/File:CNTS-00047967993_4_%E6%99%AF%E5%BE%B7%E5%82%B3%E7%87%88%E9%8C%84.pdf
 - Rights basis: Commons-hosted National Diet Library scans with `PD-Japan` plus `PD-scan` posture on file pages.
 - Confidence: high.
-- Notes: full ten-part NDL set downloaded into `C:\woodblocks\Jingde_Transmission_of_the_Lamp_NDL_Commons` and validated with `pypdf`. The older `part7` and `part8` folders remain as earlier partial acquisition artifacts. A Korean Commons set is also confirmed, but NDL is now the canonical validated holding.
+- Notes: full ten-part NDL set downloaded into `Jingde_Transmission_of_the_Lamp_NDL_Commons` and validated with `pypdf`. The older `part7` and `part8` folders remain as earlier partial acquisition artifacts. A Korean Commons set is also confirmed, but NDL is now the canonical validated holding.
 
-### Dahui Pujue / å¤§æ…§æ™®è¦ºç¦ªå¸«èªžéŒ„
+### Dahui Pujue / 大慧普覺禪師語錄
 - Work date: Song Chan sayings text.
-- Local folder: `C:\woodblocks\Dahui_Pujue_NDL_Commons`
+- Local folder: `Dahui_Pujue_NDL_Commons`
 - Local files:
   - `NDL2559970_dahui_pujue_01.pdf`
   - `NDL2559971_dahui_pujue_02.pdf`
@@ -723,29 +723,29 @@ Scope used here:
 - Acquisition status: full three-file set downloaded and validated with `pypdf` (`69`, `58`, `68` pages).
 - Notes: exact witness for the `T47n1998A` worklist row.
 
-### Gaofeng Chan Essentials / é«˜å³°åŽŸå¦™ç¦ªå¸«ç¦ªè¦
+### Gaofeng Chan Essentials / Ã©Â«ËœÃ¥Â³Â°Ã¥Å½Å¸Ã¥Â¦â„¢Ã§Â¦ÂªÃ¥Â¸Â«Ã§Â¦ÂªÃ¨Â¦Â
 - Work date: Yuan Chan instructional text.
-- Local folder: `C:\woodblocks\Gaofeng_Chan_Essentials_Korea_Commons`
+- Local folder: `Gaofeng_Chan_Essentials_Korea_Commons`
 - Local file: `CNTS-00047967911_gaofeng_chan_essentials.pdf`
 - Source lead: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/24
 - Rights basis: Commons-hosted Korean library-backup scan. The controlling rights statement is the Commons file-page license block; this family is treated as `PD-South Korea` plus mechanical scan on Commons.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated with `pypdf` (`93` pages).
-- Notes: exact witness for the `X70n1401` worklist row. A second Commons-listed Korea witness also exists in the library-backup list under `CNTS-00061062163 é«˜å³°å’Œå°™ç¦ªè¦.pdf`.
+- Notes: exact witness for the `X70n1401` worklist row. A second Commons-listed Korea witness also exists in the library-backup list under `CNTS-00061062163 Ã©Â«ËœÃ¥Â³Â°Ã¥â€™Å’Ã¥Â°â„¢Ã§Â¦ÂªÃ¨Â¦Â.pdf`.
 
-### Dahui Chan Armory / å¤§æ…§æ™®è¦ºç¦ªå¸«å®—é–€æ­¦åº«
+### Dahui Chan Armory / 大慧普覺禪師宗門武庫
 - Work date: Song Chan record/anthology compiled around Dahui.
-- Local folder: `C:\woodblocks\Dahui_Chan_Armory_NDL_Commons`
+- Local folder: `Dahui_Chan_Armory_NDL_Commons`
 - Local file: `NDL2532113_dahui_chan_armory.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NDL2532113_%E5%A4%A7%E6%85%A7%E6%99%AE%E8%A6%BA%E7%A6%AA%E5%B8%AB%E5%AE%97%E9%96%80%E6%AD%A6%E5%BA%AB1%E5%8D%B7%E9%99%84%E9%9B%AA%E5%A0%82%E8%A1%8C%E5%92%8C%E5%B0%9A%E6%8B%BE%E9%81%BA%E9%8C%B21%E5%8D%B7.pdf
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Confidence: high.
 - Acquisition status: downloaded and validated with `pypdf` (`76` pages).
-- Notes: exact witness for the `T47n1998B` worklist row. The Commons witness is a combined volume that includes `é›ªå ‚è¡Œå’Œå°šæ‹¾éºéŒ„` in addition to `å®—é–€æ­¦åº«`.
+- Notes: exact witness for the `T47n1998B` worklist row. The Commons witness is a combined volume that includes `Ã©â€ºÂªÃ¥Â â€šÃ¨Â¡Å’Ã¥â€™Å’Ã¥Â°Å¡Ã¦â€¹Â¾Ã©ÂÂºÃ©Å’â€ž` in addition to `Ã¥Â®â€”Ã©â€“â‚¬Ã¦Â­Â¦Ã¥ÂºÂ«`.
 
-### Zongjing Record / å®—é¡éŒ„
+### Zongjing Record / Ã¥Â®â€”Ã©ÂÂ¡Ã©Å’â€ž
 - Work date: Song Buddhist/Chan compendium by Yongming Yanshou.
-- Local folder: `C:\woodblocks\Zongjing_Record_NLC_Commons`
+- Local folder: `Zongjing_Record_NLC_Commons`
 - Local files:
   - `NLC416-01jh000191-10060_zongjing_record_vol1.pdf`
   - `NLC416-01jh000191-10061_zongjing_record_vol2.pdf`
@@ -760,19 +760,19 @@ Scope used here:
 - Acquisition status: full three-volume set downloaded and validated with `pypdf` (`502`, `523`, `526` pages).
 - Notes: complete Commons-hosted NLC witness used as the canonical local holding for the `T48n2016` worklist row.
 
-### Chan School Yongjia Collection / ç¦ªå®—æ°¸å˜‰é›†
+### Chan School Yongjia Collection / 禪宗永嘉集
 - Work date: Tang Chan text transmitted in later printed editions.
-- Local folder: `C:\woodblocks\Chan_School_Yongjia_Collection_Korea_Commons`
+- Local folder: `Chan_School_Yongjia_Collection_Korea_Commons`
 - Local file: `CNTS-00048004451_chan_school_yongjia_collection.pdf`
 - Source lead: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/53
 - Rights basis: Commons-hosted Korean library-backup scan. The controlling rights statement is the Commons file-page license block; this family is treated as `PD-South Korea` plus mechanical scan on Commons.
 - Confidence: high.
 - Acquisition status: downloaded and validated with `pypdf` (`196` pages).
-- Notes: exact witness for the `T48n2013` worklist row. A second exact Korea Commons witness also appears in the library-backup list as `CNTS-00068033154 ç¦ªå®—æ°¸å˜‰é›†. å·1-2.pdf`.
+- Notes: exact witness for the `T48n2013` worklist row. A second exact Korea Commons witness also appears in the library-backup list as `CNTS-00068033154 Ã§Â¦ÂªÃ¥Â®â€”Ã¦Â°Â¸Ã¥Ëœâ€°Ã©â€ºâ€ . Ã¥ÂÂ·1-2.pdf`.
 
-### Yuanwu Foguo Sayings / åœ“æ‚Ÿä½›æžœç¦ªå¸«èªžéŒ„
+### Yuanwu Foguo Sayings / 圓悟佛果禪師語錄
 - Work date: Song Chan sayings text.
-- Local folder: `C:\woodblocks\Yuanwu_Foguo_Sayings_CADAL_Commons`
+- Local folder: `Yuanwu_Foguo_Sayings_CADAL_Commons`
 - Local files:
   - `CADAL02019645_yuanwu_foguo_sayings_vol1.djvu`
   - `CADAL02019646_yuanwu_foguo_sayings_vol2.djvu`
@@ -785,24 +785,24 @@ Scope used here:
 - Acquisition status: two-volume set downloaded and validated with `djvused`/`ddjvu` (`67`, `80` pages).
 - Notes: exact witness for the `T47n1997` worklist row. DjVu validation is performed by reading the document structure with `djvused` and decoding the first page with `ddjvu`.
 
-### Chan Resolving Doubts / ç¦ªå®—æ±ºç–‘é›†
-- Work date: Yuan Chan text by æ™ºå¾¹.
-- Pending local folder: `C:\woodblocks\Chan_Resolving_Doubts_KORCIS_pending`
-- Exact lead: KORCIS search results for `ç¦ªå®—æ±ºç–‘é›† / ì„ ì¢…ê²°ì˜ì§‘` expose four exact records:
-  - `101712358` â€” `æ™ºå¾¹(å…ƒ) è¿°`, `ï¤Šé™µåˆ»ç¶“è™•`, `æ°‘åœ‹ 9(1920)åˆŠ`
-  - `101454226` â€” `é‡Žè¡²æ™ºå¾¹ è¿°`, `[åˆŠå¯«è€…æœªè©³]`, `æ°‘åœ‹ 9[1920]`
-  - `301543913` â€” `æ™ºå¾¹ è¿°`, `ï¤Šé™µåˆ»ç¶“è™•`, `1920`
-  - `139805537` â€” `æ™ºå¾¹ è¿°`, `é‡‘é™µåˆ»ç¶“è™•`, `1920`
+### Chan Resolving Doubts / 禪宗決疑集
+- Work date: Yuan Chan text by 智徹.
+- Pending local folder: `Chan_Resolving_Doubts_KORCIS_pending`
+- Exact lead: KORCIS search results for `Ã§Â¦ÂªÃ¥Â®â€”Ã¦Â±ÂºÃ§â€“â€˜Ã©â€ºâ€  / Ã¬â€žÂ Ã¬Â¢â€¦ÃªÂ²Â°Ã¬ÂËœÃ¬Â§â€˜` expose four exact records:
+  - `101712358` Ã¢â‚¬â€ `Ã¦â„¢ÂºÃ¥Â¾Â¹(Ã¥â€¦Æ’) Ã¨Â¿Â°`, `Ã¯Â¤Å Ã©â„¢ÂµÃ¥Ë†Â»Ã§Â¶â€œÃ¨â„¢â€¢`, `Ã¦Â°â€˜Ã¥Å“â€¹ 9(1920)Ã¥Ë†Å `
+  - `101454226` Ã¢â‚¬â€ `Ã©â€¡Å½Ã¨Â¡Â²Ã¦â„¢ÂºÃ¥Â¾Â¹ Ã¨Â¿Â°`, `[Ã¥Ë†Å Ã¥Â¯Â«Ã¨â‚¬â€¦Ã¦Å“ÂªÃ¨Â©Â³]`, `Ã¦Â°â€˜Ã¥Å“â€¹ 9[1920]`
+  - `301543913` Ã¢â‚¬â€ `Ã¦â„¢ÂºÃ¥Â¾Â¹ Ã¨Â¿Â°`, `Ã¯Â¤Å Ã©â„¢ÂµÃ¥Ë†Â»Ã§Â¶â€œÃ¨â„¢â€¢`, `1920`
+  - `139805537` Ã¢â‚¬â€ `Ã¦â„¢ÂºÃ¥Â¾Â¹ Ã¨Â¿Â°`, `Ã©â€¡â€˜Ã©â„¢ÂµÃ¥Ë†Â»Ã§Â¶â€œÃ¨â„¢â€¢`, `1920`
 - Lead page: https://www.nl.go.kr/korcis/search/simpleResultList.do?searchCondition=all&searchKeyword=%EC%84%A0%EC%A2%85%EA%B2%B0%EC%9D%98%EC%A7%91
-- Evidence: the KORCIS search results show `ì›ë¬¸`, `PDF`, and `í…ìŠ¤íŠ¸` availability for this exact title at `ë™êµ­ëŒ€í•™êµ ì¤‘ì•™ë„ì„œê´€`, and the strongest detail page resolves at `https://www.nl.go.kr/korcis/search/searchResultDetail.do?searchMenuId=SIMPLE&vdkvgwkey=101712358`.
+- Evidence: the KORCIS search results show `Ã¬â€ºÂÃ«Â¬Â¸`, `PDF`, and `Ã­â€¦ÂÃ¬Å Â¤Ã­Å Â¸` availability for this exact title at `Ã«Ââ„¢ÃªÂµÂ­Ã«Å’â‚¬Ã­â€¢â„¢ÃªÂµÂ Ã¬Â¤â€˜Ã¬â€¢â„¢Ã«Ââ€žÃ¬â€žÅ“ÃªÂ´â‚¬`, and the strongest detail page resolves at `https://www.nl.go.kr/korcis/search/searchResultDetail.do?searchMenuId=SIMPLE&vdkvgwkey=101712358`.
 - Additional host check: Google Books API exposes exact 1920 matches including volume id `jQtEAQAAMAAJ`, but flags them `viewability=NO_PAGES`, `publicDomain=false`, and `pdfAvailable=false`, so they do not provide a reusable public-domain scan.
-- Rights concern: unresolved. National Library of Korea policy says free reuse applies only where the library holds rights or an open-use marker is provided. The currently accessible KORCIS detail/viewer pages do not expose a KOGL/open-use label, and KORCIS pages carry a blanket `CopyrightÂ© National Library of Korea. All Rights Reserved.` footer.
+- Rights concern: unresolved. National Library of Korea policy says free reuse applies only where the library holds rights or an open-use marker is provided. The currently accessible KORCIS detail/viewer pages do not expose a KOGL/open-use label, and KORCIS pages carry a blanket `CopyrightÃ‚Â© National Library of Korea. All Rights Reserved.` footer.
 - Confidence: medium on exact-text identification; low on commercial-reuse clearance until the item-level rights label is verified.
 - Notes: do not download or mark acquired until the KORCIS item page or PDF page shows a commercial-use-safe license marker.
 
-### Myriad Virtues Converge / è¬å–„åŒæ­¸é›†
+### Myriad Virtues Converge / Ã¨ÂÂ¬Ã¥â€“â€žÃ¥ÂÅ’Ã¦Â­Â¸Ã©â€ºâ€ 
 - Work date: Song Buddhist/Chan compendium by Yongming Yanshou.
-- Local folder: `C:\woodblocks\Myriad_Virtues_Converge_NLC_Commons`
+- Local folder: `Myriad_Virtues_Converge_NLC_Commons`
 - Local files:
   - `NLC892-412000001088-224779_myriad_virtues_converge_vol1.pdf`
   - `NLC892-412000001088-224830_myriad_virtues_converge_vol2.pdf`
@@ -817,9 +817,9 @@ Scope used here:
 - Acquisition status: full three-volume set downloaded and validated with `pypdf` (`48`, `54`, `42` pages).
 - Notes: exact Commons-hosted NLC witness used as the canonical local holding for the `T48n2017` worklist row.
 
-### Zutang Ji / ç¥–å ‚é›†
+### Zutang Ji / 祖堂集
 - Work date: Five Dynasties / Song Chan anthology transmitted in later printed editions.
-- Local folder: `C:\woodblocks\Zutang_Ji_Korea_Commons`
+- Local folder: `Zutang_Ji_Korea_Commons`
 - Local files:
   - `CNTS-00047969258_zutang_ji_vol1.pdf`
   - `CNTS-00047969258_zutang_ji_vol2.pdf`
@@ -832,9 +832,9 @@ Scope used here:
 - Acquisition status: full two-volume set downloaded and validated with `pypdf` (`417`, `354` pages).
 - Notes: exact witness for the `B25n0144` worklist row.
 
-### Mingjue Sayings / æ˜Žè¦ºç¦ªå¸«èªžéŒ„
+### Mingjue Sayings / 明覺禪師語錄
 - Work date: Song Chan sayings text.
-- Local folder: `C:\woodblocks\Mingjue_Sayings_CADAL_Commons`
+- Local folder: `Mingjue_Sayings_CADAL_Commons`
 - Local files:
   - `CADAL02019698_mingjue_cong_sayings_vol1.djvu`
   - `CADAL02019699_mingjue_cong_sayings_vol2.djvu`
@@ -845,33 +845,33 @@ Scope used here:
 - Rights basis: Commons-hosted CADAL scans of a public-domain work. The controlling rights statement is the Commons file-page license block for each volume.
 - Confidence: medium-high.
 - Acquisition status: two-volume set downloaded and validated with `djvused`/`ddjvu` (`83`, `88` pages).
-- Notes: title-variant witness for the `T47n1996` worklist row. The Commons files are titled `æ˜Žè¦ºè°ç¦ªå¸«èªžéŒ„`.
+- Notes: title-variant witness for the `T47n1996` worklist row. The Commons files are titled `Ã¦ËœÅ½Ã¨Â¦ÂºÃ¨ÂÂ°Ã§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž`.
 
-### Yangqi Fanghui Sayings / æ¥Šå²æ–¹æœƒå’Œå°šèªžéŒ„
+### Yangqi Fanghui Sayings / Ã¦Â¥Å Ã¥Â²ÂÃ¦â€“Â¹Ã¦Å“Æ’Ã¥â€™Å’Ã¥Â°Å¡Ã¨ÂªÅ¾Ã©Å’â€ž
 - Work date: Song Chan sayings text.
-- Local folder: `C:\woodblocks\Yangqi_Fanghui_Guzunsu_NCL_Commons`
+- Local folder: `Yangqi_Fanghui_Guzunsu_NCL_Commons`
 - Local file: `NCL-08939_guzunsu_yulu.pdf`
 - Source lead: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Rare_Books_%26_Special_Collections%2C_National_Central_Library/%E5%8F%A4%E7%B1%8D%E8%88%87%E7%89%B9%E8%97%8F%E6%96%87%E7%8D%BB2
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08939_%E5%8F%A4%E5%B0%8A%E5%AE%BF%E8%AA%9E%E9%8C%84.pdf
 - Rights basis: Commons-hosted NCL scan of a premodern work. The controlling rights statement is the Commons file-page license block.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated with `pypdf` (`885` pages).
-- Notes: compilation witness for the `T47n1994A` worklist row. CBETA ties the target text to `å¤å°Šå®¿èªžéŒ„å·åä¹`.
+- Notes: compilation witness for the `T47n1994A` worklist row. CBETA ties the target text to `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€žÃ¥ÂÂ·Ã¥ÂÂÃ¤Â¹Â`.
 
-### Yangshan Huiji Sayings / è¢å·žä»°å±±æ…§å¯‚ç¦ªå¸«èªžéŒ„
+### Yangshan Huiji Sayings / Ã¨Â¢ÂÃ¥Â·Å¾Ã¤Â»Â°Ã¥Â±Â±Ã¦â€¦Â§Ã¥Â¯â€šÃ§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž
 - Work date: Tang / Five Dynasties Chan sayings text transmitted in Taisho.
-- Local folder: `C:\woodblocks\Yangshan_Huiji_Taisho47_SSID_Commons`
+- Local folder: `Yangshan_Huiji_Taisho47_SSID_Commons`
 - Local file: `SSID-10511035_taisho47_zhuzongbu4.pdf`
 - Source lead: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/SSID/undated/02
 - Source page: https://commons.wikimedia.org/wiki/File:SSID-10511035_%E5%A4%A7%E6%AD%A3%E6%96%B0%E4%BF%AE_%E5%A4%A7%E8%97%8F%E7%B6%93_%E7%AC%AC47%E5%8D%B7%C2%B7%E8%AB%B8%E5%AE%97%E9%83%A8_4.pdf
-- Rights basis: Commons-hosted Taisho volume scan in the `å¤§æ­£æ–°ä¿®` family. The controlling rights statement is the Commons file-page license block.
+- Rights basis: Commons-hosted Taisho volume scan in the `大正新修` family. The controlling rights statement is the Commons file-page license block.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated with `pypdf` (`1071` pages).
 - Notes: compilation witness for the `T47n1990` worklist row. The target text is present inside the larger Taisho vol. 47 scan rather than as a standalone title scan.
 
 ### Guang Qingliang Tradition / 廣清涼傳
 - Work date: pilgrimage / sacred-site Buddhist record transmitted in the received canon.
-- Local folder: `C:\woodblocks\Guang_Qingliang_Tradition_NCL_Commons`
+- Local folder: `Guang_Qingliang_Tradition_NCL_Commons`
 - Local files:
   - `NCL-08957_guang_qingliang_zhuan.pdf`
   - `source_page.html`
@@ -884,7 +884,7 @@ Scope used here:
 
 ### Buddhas & Patriarchs Chronicle / 佛祖統紀
 - Work date: Song Buddhist historical chronicle.
-- Local folder: `C:\woodblocks\Buddhas_Patriarchs_Chronicle_NCL_Commons`
+- Local folder: `Buddhas_Patriarchs_Chronicle_NCL_Commons`
 - Local files:
   - `NCL-08964_1_buddhas_patriarchs_chronicle.pdf`
   - `source_page.html`
@@ -897,7 +897,7 @@ Scope used here:
 
 ### Heshan Broom Collection / 鶴山禪師執帚集
 - Work date: later imperial-period Chan sayings / collected writings text.
-- Local folder: `C:\woodblocks\Heshan_Broom_Collection_NCL_Commons`
+- Local folder: `Heshan_Broom_Collection_NCL_Commons`
 - Local files:
   - `NCL-13273_heshan_broom_collection.pdf`
   - `source_page.html`
@@ -910,7 +910,7 @@ Scope used here:
 
 ### Chan Family Tortoise Mirror / 禪家龜鑑
 - Work date: later East Asian Chan instructional text.
-- Local folder: `C:\woodblocks\Chan_Family_Tortoise_Mirror_Korea_Commons`
+- Local folder: `Chan_Family_Tortoise_Mirror_Korea_Commons`
 - Local files:
   - `CNTS-00047976328_chan_family_tortoise_mirror.pdf`
   - `source_page.html`
@@ -923,7 +923,7 @@ Scope used here:
 
 ### Oxherding Pictures / 牧牛圖頌
 - Work date: later Chan illustrated-verses text.
-- Local folder: `C:\woodblocks\Oxherding_Pictures_NCL_Commons`
+- Local folder: `Oxherding_Pictures_NCL_Commons`
 - Local files:
   - `NCL-09033-1761_oxherding_pictures.pdf`
   - `source_page.html`
@@ -936,7 +936,7 @@ Scope used here:
 
 ### Supplement Continued Eminent Monks / 補續高僧傳
 - Work date: later Buddhist biographical continuation / supplement.
-- Local folder: `C:\woodblocks\Supplement_Continued_Eminent_Monks_NCL_Commons`
+- Local folder: `Supplement_Continued_Eminent_Monks_NCL_Commons`
 - Local files:
   - `NCL-08969_01_supplement_continued_eminent_monks.pdf`
   - `source_page.html`
@@ -947,9 +947,9 @@ Scope used here:
 - Acquisition status: volume 1 downloaded and validated with `pypdf` (`28` pages).
 - Notes: exact Commons-hosted NCL scan family for the `X77n1524` worklist row; additional volumes remain desirable.
 
-### Tiansheng Lamp / 天聖廣燈錄
+### Tiansheng Lamp / å¤©è–å»£ç‡ˆéŒ„
 - Work date: Song lamp record.
-- Local folder: `C:\woodblocks\Tiansheng_Lamp_CADAL_Commons`
+- Local folder: `Tiansheng_Lamp_CADAL_Commons`
 - Local files:
   - `CADAL02019595_tiansheng_lamp_1.djvu`
   - `source_page_1.html`
@@ -960,9 +960,9 @@ Scope used here:
 - Acquisition status: volume 1 downloaded; local SHA-1 matches the Commons checksum exactly; Commons structured data reports `67` pages.
 - Notes: exact Commons-hosted CADAL scan witness for the `X78n1553` worklist row.
 
-### Jianzhong Jingguo Continued Lamp / 建中靖國續燈錄
+### Jianzhong Jingguo Continued Lamp / å»ºä¸­é–åœ‹çºŒç‡ˆéŒ„
 - Work date: Song lamp record.
-- Local folder: `C:\woodblocks\Jianzhong_Jingguo_Continued_Lamp_CADAL_Commons_pending`
+- Local folder: `Jianzhong_Jingguo_Continued_Lamp_CADAL_Commons_pending`
 - Local files:
   - `CADAL02019612_jzjg_lamp_1.djvu`
   - `source_page_1.html`
@@ -975,7 +975,7 @@ Scope used here:
 
 ### Continuing Lamp / 續傳燈錄
 - Work date: Song lamp record.
-- Local folder: `C:\woodblocks\Continuing_Lamp_CADAL_Commons_pending`
+- Local folder: `Continuing_Lamp_CADAL_Commons_pending`
 - Local files:
   - `CADAL02019615_continuing_lamp_1.djvu`
   - `source_page_1.html`
@@ -988,7 +988,7 @@ Scope used here:
 
 ### Jiatai Lamp / 嘉泰普燈錄
 - Work date: Song lamp record.
-- Local folder: `C:\woodblocks\Jiatai_Lamp_CADAL_Commons_pending`
+- Local folder: `Jiatai_Lamp_CADAL_Commons_pending`
 - Local files:
   - `CADAL02019619_jiatai_lamp_1.djvu`
   - `source_page_1.html`
@@ -1001,7 +1001,7 @@ Scope used here:
 
 ### Lushan Lotus School Mirror / 廬山蓮宗寶鑑
 - Work date: Pure Land / Buddhist doctrinal compendium.
-- Local folder: `C:\woodblocks\Lushan_Lotus_School_Mirror_CADAL_Commons`
+- Local folder: `Lushan_Lotus_School_Mirror_CADAL_Commons`
 - Local files:
   - `CADAL02019685_lushan_lotus_school_mirror.djvu`
   - `source_page.html`
@@ -1014,7 +1014,7 @@ Scope used here:
 
 ### Tianyin Sayings / 天隱禪師語錄
 - Work date: later imperial-period Chan sayings text.
-- Local folder: `C:\woodblocks\Tianyin_Sayings_CADAL_Commons`
+- Local folder: `Tianyin_Sayings_CADAL_Commons`
 - Local files:
   - `CADAL02019688_tianyin_sayings_1.djvu`
   - `source_page_1.html`
@@ -1025,9 +1025,9 @@ Scope used here:
 - Acquisition status: volume 1 downloaded; local SHA-1 matches the Commons checksum exactly; Commons structured data reports `67` pages.
 - Notes: exact Commons-hosted CADAL scan witness for the `J25nB171` worklist row.
 
-### Yuansou Xingduan / 元叟行端
+### Yuansou Xingduan / å…ƒåŸè¡Œç«¯
 - Work date: later Yuan-period Chan sayings text.
-- Local folder: `C:\woodblocks\Yuansou_Xingduan_CADAL_Commons`
+- Local folder: `Yuansou_Xingduan_CADAL_Commons`
 - Local files:
   - `CADAL02019672_yuansou_xingduan.djvu`
   - `source_page.html`
@@ -1038,9 +1038,9 @@ Scope used here:
 - Acquisition status: downloaded; local SHA-1 matches the Commons checksum exactly; Commons structured data reports `52` pages.
 - Notes: exact Commons-hosted CADAL scan witness for the `X71n1419` worklist row.
 
-### Chushi Fanqi / 楚石梵琦
+### Chushi Fanqi / æ¥šçŸ³æ¢µç¦
 - Work date: later Yuan-period Chan sayings text.
-- Local folder: `C:\woodblocks\Chushi_Fanqi_CADAL_Commons`
+- Local folder: `Chushi_Fanqi_CADAL_Commons`
 - Local files:
   - `CADAL02019673_chushi_fanqi_1.djvu`
   - `source_page_1.html`
@@ -1053,7 +1053,7 @@ Scope used here:
 
 ### Miyun Sayings / 密雲禪師語錄
 - Work date: late Ming Chan sayings text.
-- Local folder: `C:\woodblocks\Miyun_Sayings_CADAL_Commons`
+- Local folder: `Miyun_Sayings_CADAL_Commons`
 - Local files:
   - `CADAL02019691_miyun_sayings.djvu`
   - `source_page.html`
@@ -1064,9 +1064,9 @@ Scope used here:
 - Acquisition status: downloaded; local SHA-1 matches the Commons checksum exactly; Commons structured data reports `110` pages.
 - Notes: exact Commons-hosted CADAL scan witness for the `J10nA158` worklist row.
 
-### Yulin Guoshi / 玉琳琇國師
+### Yulin Guoshi / çŽ‰ç³ç‡åœ‹å¸«
 - Work date: Qing Buddhist/Chan recorded sayings text.
-- Local folder: `C:\woodblocks\Yulin_Guoshi_CADAL_Commons`
+- Local folder: `Yulin_Guoshi_CADAL_Commons`
 - Local files:
   - `CADAL02019694_yulin_guoshi.djvu`
   - `source_page.html`
@@ -1079,7 +1079,7 @@ Scope used here:
 
 ### Buddhas & Patriarchs Record / 佛祖歷代通載
 - Work date: Yuan Buddhist historical chronicle.
-- Local folder: `C:\woodblocks\Buddhas_Patriarchs_Record_NLC_Commons`
+- Local folder: `Buddhas_Patriarchs_Record_NLC_Commons`
 - Local files:
   - `NLC892-411999013212-103451_buddhas_patriarchs_record_vol1.pdf`
   - `source_page_1.html`
@@ -1092,7 +1092,7 @@ Scope used here:
 
 ### Continued Eminent Monks / 續高僧傳
 - Work date: Tang Buddhist biographical collection.
-- Local folder: `C:\woodblocks\Continued_Eminent_Monks_CADAL_Commons`
+- Local folder: `Continued_Eminent_Monks_CADAL_Commons`
 - Local files:
   - `CADAL02019445_continued_eminent_monks_vol1.djvu`
   - `source_page_1.html`
@@ -1105,7 +1105,7 @@ Scope used here:
 
 ### Chan Orthodox Line / 禪宗正脉
 - Work date: later imperial Chan lineage compilation.
-- Local folder: `C:\woodblocks\Chan_Orthodox_Line_CADAL_Commons`
+- Local folder: `Chan_Orthodox_Line_CADAL_Commons`
 - Local files:
   - `CADAL02019676_chan_orthodox_line_vol1.djvu`
   - `source_page_1.html`
@@ -1118,7 +1118,7 @@ Scope used here:
 
 ### Sutra Glossary Continued / 續一切經音義
 - Work date: Buddhist lexicographic / glossary compilation.
-- Local folder: `C:\woodblocks\Sutra_Glossary_Continued_CADAL_Commons`
+- Local folder: `Sutra_Glossary_Continued_CADAL_Commons`
 - Local files:
   - `CADAL02019418_sutra_glossary_continued.djvu`
   - `source_page.html`

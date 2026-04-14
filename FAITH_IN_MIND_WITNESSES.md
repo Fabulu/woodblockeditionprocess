@@ -2,7 +2,7 @@
 
 Date: 2026-04-14
 
-Free witnesses now in hand for a `信心銘` critical edition: `23`.
+Free witnesses now in hand for a `信心銘` critical edition: `27`.
 
 ## Direct or near-direct text witnesses
 
@@ -15,7 +15,7 @@ Free witnesses now in hand for a `信心銘` critical edition: `23`.
    - Folder: `Sengcan_Faith_in_Mind_NDL_Shibulu`
    - Type: anthology scan
    - Source: https://commons.wikimedia.org/wiki/File:NDL2537640_%E5%9B%9B%E9%83%A8%E9%8C%B2.pdf
-   - Note: Commons file description explicitly lists `三祖鑑智禪師信心銘1卷`.
+   - Note: Commons file description explicitly lists `三祖鑑智禪師信心銘 1卷`.
 
 3. `入衆日用`
    - Folder: `Faith_in_Mind_Sengcan_Kyoto_RB00016909`
@@ -48,13 +48,15 @@ Free witnesses now in hand for a `信心銘` critical edition: `23`.
    - Folder: `Faith_in_Mind_NDL_Shiburokushou`
    - Type: derivative anthology scan
    - Source: https://commons.wikimedia.org/wiki/File:NDL2537799_%E5%9B%9B%E9%83%A8%E9%8C%B2%E6%8A%84.pdf
-   - Note: new free NDL/Commons physical witness of the `四部録抄` branch.
+   - Note: free NDL/Commons physical witness of the `四部録抄` branch.
+
+## Translation / reception witnesses
 
 9. `在家曹洞宗聖典`
    - Folder: `Faith_in_Mind_Translations_NDL`
    - Type: Japanese translation anthology scan
    - Source: https://commons.wikimedia.org/wiki/File:NDL906534_%E5%9C%A8%E5%AE%B6%E6%9B%B9%E6%B4%9E%E5%AE%97%E8%81%96%E5%85%B8.pdf
-   - Note: Commons contents explicitly list `信心銘和譯/90`.
+   - Note: Commons contents explicitly list `信心銘和訳/90`.
 
 10. `禅門曹洞宗典` part 3
    - Folder: `Faith_in_Mind_Translations_NDL`
@@ -115,7 +117,50 @@ Free witnesses now in hand for a `信心銘` critical edition: `23`.
 23. `行の宗教 : 現代思想より見たる` part 1
    - Folder: `Faith_in_Mind_Studies_NDL`
    - Source: https://commons.wikimedia.org/wiki/File:NDL1885755_%E8%A1%8C%E3%81%AE%E5%AE%97%E6%95%99_-_%E7%8F%BE%E4%BB%A3%E6%80%9D%E6%83%B3%E3%82%88%E3%82%8A%E8%A6%8B%E3%81%9F%E3%82%8B_part1.pdf
-   - Note: dedicated modern study whose Commons metadata is explicitly keyed to `僧粲, -606 信心銘`.
+   - Note: dedicated modern study keyed directly to `僧璨, -606 信心銘`.
+
+## Additional reusable controls now in hand
+
+24. `五味禪`
+   - Folder: `Five_Tastes_Zen_NDL_Commons`
+   - Type: anthology control witness
+   - Source: https://commons.wikimedia.org/wiki/File:NDL8929982_%E4%BA%94%E5%91%B3%E7%A6%AA.pdf
+   - Note: Commons metadata says this anthology contains `三祖鑑智禪師信心銘`.
+
+25. `諸經合部`
+   - Folder: `Combined_Sutras_CNTS_Commons`
+   - Type: anthology control witness
+   - Source: https://commons.wikimedia.org/wiki/File:CNTS-00047993099_%E8%AB%B8%E7%B6%93%E5%90%88%E9%83%A8.pdf
+   - Note: Commons metadata says the table of contents includes `僧燦祖師信心銘`.
+
+26. `信心獲得章百席談 前`
+   - Folder: `Faith_Gained_Hundred_Talks_NDL_Commons`
+   - Type: commentary / related control witness
+   - Source: https://commons.wikimedia.org/wiki/File:NDL914437_%E4%BF%A1%E5%BF%83%E7%8D%B2%E5%BE%97%E7%AB%A0%E7%99%BE%E5%B8%AD%E8%AB%87_%E5%89%8D_part1.pdf
+   - Note: reusable NDL Commons commentary witness, not a base witness.
+
+27. `国訳禅学大成 第二卷`
+   - Folder: `Guoyi_Zen_Studies_Vol2_NDL_Commons`
+   - Type: commentary / translation control witness
+   - Source: https://commons.wikimedia.org/wiki/File:NDL1920690_%E5%9B%BD%E8%A8%B3%E7%A6%85%E5%AD%A6%E5%A4%A7%E6%88%90_%E7%AC%AC%E4%BA%8C%E5%8D%B7_part1.pdf
+   - Note: contains `中峰和尚信心銘義解`; control material, not a base witness.
+
+## Supporting source-anthology leads not yet in hand
+
+28. `景徳伝燈録 巻第1-18,27-30(巻第19-26欠)`
+   - Folder: `Faith_in_Mind_Kyoto_Jingde_RB00009451`
+   - Type: supporting source anthology lead
+   - Source: https://rmda.kulib.kyoto-u.ac.jp/item/RB00009451
+
+29. `景徳伝燈録 30巻`
+   - Folder: `Faith_in_Mind_Kyoto_Jingde_RB00009453`
+   - Type: supporting source anthology lead
+   - Source: https://rmda.kulib.kyoto-u.ac.jp/item/RB00009453
+
+30. `景徳伝燈録 巻第14,29`
+   - Folder: `Faith_in_Mind_Kyoto_Jingde_RB00009455`
+   - Type: supporting source anthology lead
+   - Source: https://rmda.kulib.kyoto-u.ac.jp/item/RB00009455
 
 ## Best base-text stack
 
@@ -136,26 +181,4 @@ Free witnesses now in hand for a `信心銘` critical edition: `23`.
 
 ## Next practical step
 
-Collate the eight base/anthology witnesses first, then use the two translation anthologies and thirteen commentary/study witnesses only to flag variant readings, interpretation history, and segmentation decisions.
-
-## Supporting source-anthology leads not yet in hand
-
-These are not counted in the `23` free witnesses now in hand.
-
-24. `景徳伝燈録 巻第1-18,27-30(巻第19-26欠)`
-   - Folder: `Faith_in_Mind_Kyoto_Jingde_RB00009451`
-   - Type: supporting source anthology lead
-   - Source: https://rmda.kulib.kyoto-u.ac.jp/item/RB00009451
-   - Note: Kyoto IIIF witness; not yet downloaded into this folder.
-
-25. `景徳伝燈録 30巻`
-   - Folder: `Faith_in_Mind_Kyoto_Jingde_RB00009453`
-   - Type: supporting source anthology lead
-   - Source: https://rmda.kulib.kyoto-u.ac.jp/item/RB00009453
-   - Note: strongest of the new Kyoto `景徳伝燈録` leads; not yet downloaded into this folder.
-
-26. `景徳伝燈録 巻第14,29`
-   - Folder: `Faith_in_Mind_Kyoto_Jingde_RB00009455`
-   - Type: supporting source anthology lead
-   - Source: https://rmda.kulib.kyoto-u.ac.jp/item/RB00009455
-   - Note: partial Kyoto `景徳伝燈録` lead; not yet downloaded into this folder.
+Collate the eight base/anthology witnesses first, then use the translation, commentary, study, and new control witnesses to flag variant readings, interpretation history, and segmentation decisions.

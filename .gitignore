@@ -18,5 +18,6 @@
 */batch_refined/
 */tessdata/
 Transcriptions/*/tessdata/
+Transcriptions/*/scripts/
 .venv*/
 */.venv*/

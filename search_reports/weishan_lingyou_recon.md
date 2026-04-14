@@ -3,7 +3,7 @@
 Date: 2026-04-12
 
 Target:
-- `T47n1989 潭州溈山靈祐禪師語錄`
+- `T47n1989 æ½­å·žæºˆå±±éˆç¥ç¦ªå¸«èªžéŒ„`
 
 Policy:
 - Open / commercially reusable sources only.
@@ -19,22 +19,22 @@ Scope of this pass:
 ## Cleanup
 
 - Removed the obvious root-level temp PDFs from the prior Blue Cliff / Book of Serenity recon work:
-  - `C:\woodblocks\_tmp_bluecliff_test.pdf`
-  - `C:\woodblocks\_tmp_bookserenity_test.pdf`
+  - `_tmp_bluecliff_test.pdf`
+  - `_tmp_bookserenity_test.pdf`
 - Left validated source folders and their provenance snapshots in place.
 
 ## Weishan Lingyou
 
 ### Exact open witness search
 
-No defensible exact open text witness or reusable scan witness was found for `潭州溈山靈祐禪師語錄`.
+No defensible exact open text witness or reusable scan witness was found for `æ½­å·žæºˆå±±éˆç¥ç¦ªå¸«èªžéŒ„`.
 
 What was found instead:
-- `祖堂集/卷十六` on Wikisource, which contains a substantial `溈山` biographical section and sayings material, but it is not the target title and does not qualify as an exact witness:
+- `ç¥–å ‚é›†/å·åå…­` on Wikisource, which contains a substantial `æºˆå±±` biographical section and sayings material, but it is not the target title and does not qualify as an exact witness:
   - https://zh.wikisource.org/wiki/%E7%A5%96%E5%A0%82%E9%9B%86/%E5%8D%B7%E5%8D%81%E5%85%AD
-- `五燈會元` on Wikisource, which is open and reusable as a text source, but this pass did not surface an exact `溈山靈祐禪師語錄` witness page:
+- `äº”ç‡ˆæœƒå…ƒ` on Wikisource, which is open and reusable as a text source, but this pass did not surface an exact `æºˆå±±éˆç¥ç¦ªå¸«èªžéŒ„` witness page:
   - https://zh.wikisource.org/wiki/%E4%BA%94%E7%87%88%E6%9C%83%E5%85%83
-- The existing Wikisource `作者:靈祐` trail is only the `警策文` family, not the target sayings record:
+- The existing Wikisource `ä½œè€…:éˆç¥` trail is only the `è­¦ç­–æ–‡` family, not the target sayings record:
   - this is adjacent contextual material, not a target acquisition lead.
 
 ### Result
@@ -57,12 +57,12 @@ I also checked the existing open text lead for `如淨和尚語錄`.
 
 Current state:
 - Local pending folder already exists:
-  - `C:\woodblocks\Rujing_Sayings_Wikisource_PD_old_pending`
+  - `Rujing_Sayings_Wikisource_PD_old_pending`
 - Rights evidence is strong:
   - `root_oldid.html` shows `PD-old`
   - Wikisource footer states the site text is under `CC BY-SA 4.0`
 - Completeness is still not sufficient:
-  - the root page links to `/卷002/`, and that page is still missing
+  - the root page links to `/å·002/`, and that page is still missing
 
 Reference:
 - https://zh.wikisource.org/wiki/%E5%A6%82%E6%B7%A8%E5%92%8C%E5%B0%9A%E8%AA%9E%E9%8C%84

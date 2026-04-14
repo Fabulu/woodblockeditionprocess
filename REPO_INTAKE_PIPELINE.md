@@ -1,15 +1,15 @@
 # Repo Intake Pipeline
 
-How to take a text witness from `C:\woodblocks\` and turn it into a properly-vetted TEI file in the [`OpenZenTexts`](https://github.com/Fabulu/OpenZenTexts) collection. This doc captures the end-to-end procedure that was used to ship the first text (Wumenguan, Wikisource transcription) so the same workflow is reproducible for every subsequent text.
+How to take a text witness from this repo and turn it into a properly-vetted TEI file in the [`OpenZenTexts`](https://github.com/Fabulu/OpenZenTexts) collection. This doc captures the end-to-end procedure that was used to ship the first text (Wumenguan, Wikisource transcription) so the same workflow is reproducible for every subsequent text.
 
-This is the **post-vetting** half of the pipeline. The pre-vetting half (find sources, validate licensing, capture into `C:\woodblocks\{Folder}\`) is documented separately in [`WORKFLOW.md`](WORKFLOW.md). Don't enter this pipeline until the source has cleared `WORKFLOW.md`.
+This is the **post-vetting** half of the pipeline. The pre-vetting half (find sources, validate licensing, capture into `{Folder}` in this repo) is documented separately in [`WORKFLOW.md`](WORKFLOW.md). Don't enter this pipeline until the source has cleared `WORKFLOW.md`.
 
 ---
 
 ## Mental model
 
 ```
-   C:\woodblocks\{Source_Folder}\        ← captured + vetted, never touched after intake
+   {Source_Folder}/                      ← captured + vetted, never touched after intake
             ↓
    tools/wikitext-to-tei/converter       ← deterministic conversion script (or new one)
             ↓
@@ -35,10 +35,10 @@ If any of those three is false, the intake is incomplete and the file should not
 
 Before you start an intake, you must already have:
 
-- A folder under `C:\woodblocks\{Source}_{License}\` with the captured source files. The folder name follows `WORKFLOW.md`'s convention: descriptive, ASCII, with the source host and license category in the name. Example: `Wumenguan_Wikisource_PD_old`
+- A folder under `{Source}_{License}/` with the captured source files. The folder name follows `WORKFLOW.md`'s convention: descriptive, ASCII, with the source host and license category in the name. Example: `Wumenguan_Wikisource_PD_old`
 - A `README.md` inside that folder with source URL, stable revision URL (or oldid), rights basis, vetting confidence, the best known download link or manifest, and a `provenance check` line confirming no CBETA contamination
-- An entry in `C:\woodblocks\SOURCES.md` mirroring the same metadata
-- The text marked vetted in `C:\woodblocks\ZEN_TEXT_WORKLIST.md` (`[x]` only after the full set is acquired and validated)
+- An entry in `SOURCES.md` mirroring the same metadata
+- The text marked vetted in `ZEN_TEXT_WORKLIST.md` (`[x]` only after the full set is acquired and validated)
 
 If any of these are missing, go back to `WORKFLOW.md` and finish the pre-vetting steps first.
 
@@ -109,7 +109,7 @@ For a new work, choose a short prefix (`bcr` for blue-cliff-record, `ll` for lin
 
 ## Step 3 — Build or extend a converter
 
-The current converter (`OpenZenTexts/tools/wikitext-to-tei/convert-gateless-barrier.mjs`) is a one-off for Wumenguan. It will be generalized once a second wikitext-source text comes through (the next obvious candidate is Hongzhi Extensive Record at `C:\woodblocks\Hongzhi_Extensive_Record_Wikisource_PD_old\`).
+The current converter (`OpenZenTexts/tools/wikitext-to-tei/convert-gateless-barrier.mjs`) is a one-off for Wumenguan. It will be generalized once a second wikitext-source text comes through (the next obvious candidate is `Hongzhi_Extensive_Record_Wikisource_PD_old/`).
 
 ### If your source is wikitext
 
@@ -145,7 +145,7 @@ mkdir -p xml-open/{prefix}/{slug}
 mkdir -p provenance/{slug}
 ```
 
-Copy the captured source files from `C:\woodblocks\{Source_Folder}\` into `provenance/{slug}/` BEFORE running the converter. This is the reproducibility anchor — anyone with the same source files in `provenance/` should be able to re-run the converter and get the same TEI byte-for-byte.
+Copy the captured source files from `{Source_Folder}/` into `provenance/{slug}/` BEFORE running the converter. This is the reproducibility anchor — anyone with the same source files in `provenance/` should be able to re-run the converter and get the same TEI byte-for-byte.
 
 ---
 
@@ -182,10 +182,10 @@ sha256sum provenance/{slug}/page_revisions.json
 
 Record the full hex hash. You'll paste these into the manifest in the next step.
 
-Verify the hash matches the **original** in `C:\woodblocks\{Source_Folder}\`:
+Verify the hash matches the **original** in `{Source_Folder}/`:
 
 ```bash
-sha256sum "C:/woodblocks/{Source_Folder}/{filename}"
+sha256sum "{Source_Folder}/{filename}"
 ```
 
 If they don't match, you have line-ending normalization or some other byte-level corruption between the woodblocks copy and the provenance copy. Fix it before continuing — the manifest's integrity guarantee depends on the bytes being identical.
@@ -337,7 +337,7 @@ Commit and push to `OpenZenTranslations`. The web preview's title-lookup feature
 
 ## Step 12 — Update the worklist
 
-Mark the text done in `C:\woodblocks\ZEN_TEXT_WORKLIST.md` and update `C:\woodblocks\SOURCES.md` with the resulting file ID and link to the GitHub commit. This closes the loop between the curation tracker and the published artifact.
+Mark the text done in `ZEN_TEXT_WORKLIST.md` and update `SOURCES.md` with the resulting file ID and link to the GitHub commit. This closes the loop between the curation tracker and the published artifact.
 
 ---
 
@@ -355,9 +355,9 @@ Mark the text done in `C:\woodblocks\ZEN_TEXT_WORKLIST.md` and update `C:\woodbl
 
 ## Authoritative references
 
-- [`C:\woodblocks\WORKFLOW.md`](WORKFLOW.md) — pre-vetting curation discipline (acquire, validate, license-check)
-- [`C:\woodblocks\SOURCES.md`](SOURCES.md) — the attribution ledger / inventory
-- [`C:\woodblocks\ZEN_TEXT_WORKLIST.md`](ZEN_TEXT_WORKLIST.md) — the working queue
+- [`WORKFLOW.md`](WORKFLOW.md) — pre-vetting curation discipline (acquire, validate, license-check)
+- [`SOURCES.md`](SOURCES.md) — the attribution ledger / inventory
+- [`ZEN_TEXT_WORKLIST.md`](ZEN_TEXT_WORKLIST.md) — the working queue
 - [`OpenZenTexts/MANIFEST_SCHEMA.md`](../programmieren/OpenZenTexts/MANIFEST_SCHEMA.md) — manifest field reference
 - [`OpenZenTexts/xml-open/ws/gateless-barrier/`](../programmieren/OpenZenTexts/xml-open/ws/gateless-barrier/) — the canonical first-text example
 - [`OpenZenTexts/tools/wikitext-to-tei/convert-gateless-barrier.mjs`](../programmieren/OpenZenTexts/tools/wikitext-to-tei/convert-gateless-barrier.mjs) — the canonical converter pattern
