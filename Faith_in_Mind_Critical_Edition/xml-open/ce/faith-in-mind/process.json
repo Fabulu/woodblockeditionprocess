@@ -1,0 +1,64 @@
+{
+  "edition": {
+    "slug": "faith-in-mind",
+    "label": "Faith in Mind Critical Edition",
+    "status": "active",
+    "phase": "manual_correction_pass_1_started",
+    "witness_set_locked": true,
+    "copy_text_locked": true
+  },
+  "scope": {
+    "mode": "broader",
+    "tiers": [
+      "primary_text_witness",
+      "anthology_or_derivative_witness",
+      "translation_commentary_reception_control",
+      "source_tradition_control"
+    ]
+  },
+  "decision_policy": {
+    "actor_types": [
+      "agent",
+      "human",
+      "hybrid"
+    ],
+    "decision_logging_required": true
+  },
+  "current_state": {
+    "ocr_started": true,
+    "transcription_started": true,
+    "collation_started": false,
+    "publication_candidate": false
+  },
+  "next_stage": {
+    "slug": "manual_correction_pass_1",
+    "status": "in_progress",
+    "copy_text": "T1",
+    "copy_text_policy": {
+      "status": "locked_starting_spine",
+      "switch_allowed": true,
+      "switch_requires": [
+        "specific locus evidence",
+        "direct competing witness comparison",
+        "decision log entry",
+        "timeline event",
+        "state reconstruction"
+      ]
+    },
+    "first_comparison_controls": [
+      "T4",
+      "T5",
+      "T2"
+    ],
+    "plan_document": "provenance/faith-in-mind/transcription/ocr-transcription-plan.md",
+    "current_state_document": "../../../provenance/faith-in-mind/process/current-state.md",
+    "normalized_text": "../../../provenance/faith-in-mind/transcription/normalized/T1-normalized-pass1.txt",
+    "corrected_text": "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+    "correction_log": "../../../provenance/faith-in-mind/process/correction-log.md",
+    "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
+    "normalization_rule_log": "../../../provenance/faith-in-mind/transcription/normalized/normalization-rule-log.md",
+    "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
+    "timeline_file": "timeline.json",
+    "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md"
+  }
+}

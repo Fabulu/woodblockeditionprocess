@@ -89,6 +89,7 @@ None yet.
 | 2026-04-14 | OCR pass 1 | Completed resumable PaddleOCR `PP-OCRv4` full pass across `T1` and preserved page-level outputs | `83` pages saved successfully under `ocr/T1/ocr/paddleocr-ppocrv4/`; default `PP-OCRv5` remains unusable on this machine |
 | 2026-04-14 | Normalization | Built the first normalized `T1` working spine from page-level RapidOCR outputs | `transcription/normalized/T1-normalized-pass1.txt` created with page markers and stable line IDs; `transcription/normalized/normalization-rule-log.md` records the applied structural rules |
 | 2026-04-14 | Page-role classification | Classified `T1` pages in `ocr/T1/page-map.csv` by dominant role before manual correction | `p001-p004` title or imprint matter, `p005-p006` prefatory prose, `p007-p080` commentary-dominant with embedded poem lemmata, `p081-p083` blank tail pages |
+| 2026-04-14 | Manual correction pass 1 | Opened Stage 2D artifacts and corrected the first title-and-lemma slice in the `T1` working spine | Created `transcription/corrected/T1-corrected-pass1-working.txt`, `process/correction-log.md`, updated `process/unresolved-loci.md`, and recovered high-confidence title and lemma lines through `T1-p035.l01` |
 
 ---
 

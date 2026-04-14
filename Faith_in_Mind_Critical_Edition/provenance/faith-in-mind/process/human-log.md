@@ -25,4 +25,6 @@ RapidOCR pass 1 then ran across all `83` pages of `T1`. It produced text on `80`
 
 The page-role pass is now also complete. `T1` is not a bare poem witness spread across `83` body pages; it currently reads as title or imprint matter on `p001-p004`, prefatory prose on `p005-p006`, commentary-dominant pages with embedded poem lemmata on `p007-p080`, and blank tail pages on `p081-p083`.
 
-At this point, the edition has not yet entered manual correction. The current state is: witness set locked, copy-text locked as starting spine, page preparation complete, OCR passes complete, normalization complete, page roles classified, and Stage 2D correction next.
+Stage 2D has now started. A corrected working file and correction log exist, and the first bounded correction slice repaired the opening title lines plus a run of recoverable `信心銘` lemmata through `T1-p035.l01`. That is enough to move the package out of planning and into real correction work without pretending the commentary prose is already secure.
+
+Most of `T1` is still uncorrected. The prefatory prose remains unstable, the commentary-heavy body still needs line-by-line work, and the three blank tail pages should be re-confirmed visually during later review.

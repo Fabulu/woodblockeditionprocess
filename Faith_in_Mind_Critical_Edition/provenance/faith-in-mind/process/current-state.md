@@ -9,8 +9,8 @@ Edition slug: `faith-in-mind`
 - Witness set: locked
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
-- Current phase: `manual_correction_pending`
-- Last completed phase: `page_role_classification`
+- Current phase: `manual_correction_pass_1_started`
+- Last completed phase: `manual_correction_slice_opening_lemmas`
 
 ## What is already done
 
@@ -23,10 +23,11 @@ Edition slug: `faith-in-mind`
 - RapidOCR pass 1 completed across all `83` `T1` pages
 - PaddleOCR `PP-OCRv4` full pass completed across all `83` `T1` pages
 - `T1` page roles classified at the dominant-page level in `page-map.csv`
+- Stage 2D started with a corrected working file, correction log, and first lemma-line fixes through the early commentary run
 
 ## Next action
 
-Start Stage 2D manual correction against the normalized working spine, using the completed `T1` page-role map so commentary pages are not mistaken for pure poem-body pages.
+Continue Stage 2D manual correction against the corrected working spine, expanding from the opening title and lemma slice into prefatory and commentary prose.
 
 Use:
 
@@ -39,9 +40,9 @@ Use:
 
 Produce next:
 
-- corrected working text under `provenance/faith-in-mind/transcription/corrected/`
-- correction log
-- unresolved loci opened where `T1` cannot be secured
+- continue correcting `T1-corrected-pass1-working.txt`
+- expand `correction-log.md`
+- resolve or refine entries in `unresolved-loci.md`
 
 Do not start a fresh witness hunt.
 Do not reopen copy-text selection unless new locus-specific evidence appears.
@@ -55,7 +56,7 @@ Do not bring in `T4`, `T5`, or `T2` until a first corrected `T1` working text ex
 - `T1` is not a pure poem-only object: `p001-p004` title or imprint matter, `p005-p006` prefatory prose, `p007-p080` commentary-dominant pages with embedded poem lemmata, `p081-p083` blank tail pages
 - on this machine, prefer Python `3.12` for OCR and related tooling instead of the default Python `3.14`
 - the local OCR tool stack is uneven; machine health must be logged honestly rather than assumed
-- no manual correction pass has started yet; the normalized spine is still uncorrected OCR
+- only the title lines and a first set of recovered lemma lines through `T1-p035.l01` have been corrected so far; most prose remains uncorrected
 
 ## Open these first when resuming
 

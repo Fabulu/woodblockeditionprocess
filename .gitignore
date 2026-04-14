@@ -21,3 +21,8 @@ Transcriptions/*/tessdata/
 Transcriptions/*/scripts/
 .venv*/
 */.venv*/
+!*/xml-open/ce/*/documents.json
+!*/xml-open/ce/*/process.json
+!*/xml-open/ce/*/timeline.json
+!*/provenance/*/transcription/normalized/*.txt
+!*/provenance/*/transcription/corrected/*.txt

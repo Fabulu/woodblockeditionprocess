@@ -1,0 +1,392 @@
+{
+  "edition_slug": "faith-in-mind",
+  "timeline_version": 1,
+  "events": [
+    {
+      "event_id": "FIM-001",
+      "sequence": 1,
+      "timestamp": "2026-04-14",
+      "stage": "restart",
+      "event_type": "edition_reset",
+      "object_type": "edition",
+      "object_id": "ce.faith-in-mind",
+      "summary": "Restarted Faith in Mind as a fresh local-only edition package.",
+      "details": "The earlier premature OpenZen Faith in Mind scaffold was removed before production work continued.",
+      "actor_type": "hybrid",
+      "actor_id": "user+assistant",
+      "inputs": [],
+      "outputs": [
+        "provenance/faith-in-mind/process/edition-plan.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/decision-log.md"
+      ],
+      "decision_ref": "D-001",
+      "status": "completed",
+      "state_effect": {
+        "edition_state": "fresh_local_package"
+      }
+    },
+    {
+      "event_id": "FIM-002",
+      "sequence": 2,
+      "timestamp": "2026-04-14",
+      "stage": "witness_hunt",
+      "event_type": "witness_hunt_locked",
+      "object_type": "witness_set",
+      "object_id": "free_witness_set",
+      "summary": "Locked the free witness hunt after two consecutive no-new-free recon waves.",
+      "details": "The broader free witness search remained open until the lock rule was satisfied, then the candidate set was frozen for production work.",
+      "actor_type": "hybrid",
+      "actor_id": "user+assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/witnesses/witness-register.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/decision-log.md"
+      ],
+      "decision_ref": "D-006",
+      "status": "completed",
+      "state_effect": {
+        "witness_set_locked": true
+      }
+    },
+    {
+      "event_id": "FIM-003",
+      "sequence": 3,
+      "timestamp": "2026-04-14",
+      "stage": "witness_hunt",
+      "event_type": "sigla_frozen",
+      "object_type": "witness_register",
+      "object_id": "sigla",
+      "summary": "Assigned and froze stable witness sigla.",
+      "details": "Sigla T1-T5, A1-A3, C1-C17, and S1-S5 became the canonical short witness identifiers for the edition package.",
+      "actor_type": "hybrid",
+      "actor_id": "user+assistant",
+      "inputs": [
+        "provenance/faith-in-mind/witnesses/witness-register.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/witnesses/witness-register.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/decision-log.md"
+      ],
+      "decision_ref": "D-009",
+      "status": "completed",
+      "state_effect": {
+        "sigla_locked": true
+      }
+    },
+    {
+      "event_id": "FIM-004",
+      "sequence": 4,
+      "timestamp": "2026-04-14",
+      "stage": "copy_text",
+      "event_type": "copy_text_locked",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Locked T1 as the starting copy-text spine.",
+      "details": "T1 is the starting copy-text for the critical edition, but the lock is reversible only through explicit evidence, a decision record, and a timeline event.",
+      "actor_type": "hybrid",
+      "actor_id": "user+assistant",
+      "inputs": [
+        "provenance/faith-in-mind/collation/copy-text-ranking.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/ocr-transcription-plan.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/decision-log.md"
+      ],
+      "decision_ref": "D-012",
+      "status": "completed",
+      "state_effect": {
+        "copy_text": "T1",
+        "copy_text_locked": true
+      }
+    },
+    {
+      "event_id": "FIM-005",
+      "sequence": 5,
+      "timestamp": "2026-04-14",
+      "stage": "page_preparation",
+      "event_type": "derivatives_generated",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Generated stable page images and page map for T1.",
+      "details": "The canonical T1 PDF was re-verified and rendered to 83 PNG page images at 200 DPI. A page map and OCR metadata record were created.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Korea_Commons/CNTS-00047968260_faith_in_mind.pdf"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/",
+        "provenance/faith-in-mind/ocr/T1/page-map.csv",
+        "provenance/faith-in-mind/ocr/T1/metadata.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "page_preparation_complete": true
+      }
+    },
+    {
+      "event_id": "FIM-006",
+      "sequence": 6,
+      "timestamp": "2026-04-14",
+      "stage": "ocr_setup",
+      "event_type": "ocr_environment_changed",
+      "object_type": "ocr_pipeline",
+      "object_id": "python_ocr_stack",
+      "summary": "Installed the first OCR engine stack for the edition package.",
+      "details": "RapidOCR, ONNX Runtime, and OpenCV were installed because the machine did not have system Tesseract or ImageMagick available.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [],
+      "outputs": [
+        "rapidocr_onnxruntime",
+        "onnxruntime",
+        "opencv-python-headless"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "ocr_engine_available": [
+          "rapidocr_onnxruntime"
+        ]
+      }
+    },
+    {
+      "event_id": "FIM-007",
+      "sequence": 7,
+      "timestamp": "2026-04-14",
+      "stage": "ocr_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Completed RapidOCR pass 1 across all T1 page images.",
+      "details": "RapidOCR processed all 83 pages, extracted text from 80, and returned no text on the final 3 pages.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/run-summary.json"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "ocr_started": true,
+        "ocr_pass_1_complete": true,
+        "current_phase": "normalization_pending"
+      }
+    },
+    {
+      "event_id": "FIM-008",
+      "sequence": 8,
+      "timestamp": "2026-04-14",
+      "stage": "ocr_setup",
+      "event_type": "ocr_environment_changed",
+      "object_type": "ocr_pipeline",
+      "object_id": "paddle_python_312_stack",
+      "summary": "Pinned the Python 3.12 Paddle stack to a documented compatibility pair.",
+      "details": "The package switched to paddleocr 3.2.0, paddlepaddle 3.1.1, and paddlex 3.2.1 after the newer stack failed during prediction.",
+      "actor_type": "hybrid",
+      "actor_id": "user+assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/ocr-environment.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/ocr-environment.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/decision-log.md"
+      ],
+      "decision_ref": "D-015",
+      "status": "completed",
+      "state_effect": {
+        "python_312_paddle_stack": {
+          "paddleocr": "3.2.0",
+          "paddlepaddle": "3.1.1",
+          "paddlex": "3.2.1"
+        }
+      }
+    },
+    {
+      "event_id": "FIM-009",
+      "sequence": 9,
+      "timestamp": "2026-04-14",
+      "stage": "ocr_probe",
+      "event_type": "ocr_engine_calibrated",
+      "object_type": "ocr_pipeline",
+      "object_id": "paddleocr_ppocrv4",
+      "summary": "Made PaddleOCR calibration-usable on T1-p001 with PP-OCRv4.",
+      "details": "The default PP-OCRv5 path still crashed on this machine, but PP-OCRv4 succeeded on the calibration page with CPU, no-HPI, and no-MKL-DNN settings.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p001.png"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/T1-p001.json",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/T1-p001.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/ocr-environment.md"
+      ],
+      "decision_ref": "D-016",
+      "status": "completed",
+      "state_effect": {
+        "paddleocr_calibration_status": "ppocrv4_success",
+        "paddleocr_default_ppocrv5_status": "windows_access_violation"
+      }
+    },
+    {
+      "event_id": "FIM-010",
+      "sequence": 10,
+      "timestamp": "2026-04-14",
+      "stage": "ocr_probe",
+      "event_type": "ocr_engine_calibrated",
+      "object_type": "ocr_pipeline",
+      "object_id": "four_engine_calibration_slice_T1_p001",
+      "summary": "Completed the four-engine same-page calibration slice on T1-p001.",
+      "details": "Saved comparison outputs now exist for RapidOCR, Tesseract, EasyOCR, and PaddleOCR on the same calibration page.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p001.png"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p001.json",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p001.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/tesseract/T1-p001.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/easyocr/T1-p001.json",
+        "provenance/faith-in-mind/ocr/T1/ocr/easyocr/T1-p001.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/easyocr/run-summary.json",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/T1-p001.json",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/T1-p001.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-016",
+      "status": "completed",
+      "state_effect": {
+        "four_engine_calibration_slice_T1_p001": "completed",
+        "current_phase": "normalization_pending"
+      }
+    },
+    {
+      "event_id": "FIM-011",
+      "sequence": 11,
+      "timestamp": "2026-04-14",
+      "stage": "normalization_pass_1",
+      "event_type": "transcription_state_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Built the first normalized T1 working spine from RapidOCR outputs.",
+      "details": "The normalized file preserves page markers and stable line identifiers without applying editorial correction.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/normalized/T1-normalized-pass1.txt",
+        "provenance/faith-in-mind/transcription/normalized/normalization-rule-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "normalization_pass_1_complete": true,
+        "current_phase": "manual_correction_pending"
+      }
+    },
+    {
+      "event_id": "FIM-012",
+      "sequence": 12,
+      "timestamp": "2026-04-14",
+      "stage": "ocr_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Completed PaddleOCR PP-OCRv4 full pass across all T1 page images.",
+      "details": "A resumable Python 3.12 PaddleOCR PP-OCRv4 run finished successfully across all 83 T1 pages and preserved page-level outputs.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/run-summary-full.json"
+      ],
+      "decision_ref": "D-016",
+      "status": "completed",
+      "state_effect": {
+        "paddleocr_ppocrv4_full_pass_complete": true
+      }
+    },
+    {
+      "event_id": "FIM-013",
+      "sequence": 13,
+      "timestamp": "2026-04-14",
+      "stage": "manual_correction_pass_1",
+      "event_type": "transcription_state_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Started Stage 2D manual correction and opened the corrected T1 working spine.",
+      "details": "The package now includes a corrected working text, correction log, unresolved-loci register, and a first bounded set of title and lemma-line OCR certainty fixes through T1-p035.l01.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/transcription/normalized/T1-normalized-pass1.txt",
+        "provenance/faith-in-mind/ocr/T1/page-map.csv",
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/edition/working-critical-text.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "manual_correction_started": true,
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    }
+  ]
+}
