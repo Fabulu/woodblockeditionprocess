@@ -31,6 +31,38 @@ It means:
 - with stable locus or page-line addressing
 - with enough metadata that the program can expose it without guessing
 
+## New hard rule: witness texts must line up by machine-readable locus
+
+At handoff, the viewer must be able to tell which witness passage belongs to which edition locus.
+
+Do not assume this means every witness can be forced into the same visual line breaks as the critical text.
+
+That is often false.
+
+What is required is machine-readable alignment.
+
+Preferred contract:
+
+- shared edition `locus_id`
+- each witness can answer "what is your reading at this locus?"
+
+Acceptable fallback when exact line-for-line alignment is impossible:
+
+- stable witness-local anchors such as page-line ids or segment ids
+- a companion locus map that maps edition `locus_id` to witness-local `start_anchor` / `end_anchor`
+- explicit statuses such as:
+  - `present`
+  - `omitted`
+  - `lacuna`
+  - `unreadable`
+  - `uncertain_span`
+
+Not acceptable:
+
+- raw witness text with no locus contract
+- viewer-side guessing from filenames
+- asking the UI to infer alignment from OCR folders
+
 ## What the pipeline will produce
 
 For every witness used in the edition package, the pipeline should produce:
@@ -94,6 +126,8 @@ Each witness entry should include:
 - `has_locus_map`
 - `locus_map_file`
 - `source_readme`
+- `alignment_mode`
+- `alignment_statuses_supported`
 
 ### 2. definitive witness text files
 
@@ -107,9 +141,22 @@ For example:
 - `witness-texts/T1.txt`
 - `witness-texts/T1.loci.json`
 
+Recommended companion structure:
+
+- one record per shared `locus_id`, or
+- one span map from `locus_id` to witness-local start / end anchor
+
 The text file should stay easy for a human to read and copy.
 
 The JSON companion should let the app jump to a locus without parsing ad hoc text formats.
+
+It should also let the app distinguish:
+
+- exact aligned reading
+- multi-locus span
+- omission
+- lacuna
+- unreadable or uncertain witness coverage
 
 ### 3. comparison-ready locus payload
 
@@ -126,6 +173,8 @@ This can come from:
 But the contract must be explicit.
 
 The viewer should not scrape markdown or improvise from OCR folders.
+
+If a witness cannot yet be aligned confidently, mark that witness or locus as unresolved rather than pretending there is no problem.
 
 ## Viewer behavior expected from these outputs
 

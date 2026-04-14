@@ -190,7 +190,7 @@ Additional probe note:
 - Tesseract environment note:
   - a first full-pass attempt failed because the system install did not resolve `chi_tra.traineddata`
   - the successful rerun used `TESSDATA_PREFIX=ocr/T1/tessdata/`
-- A Paddle reading-order support derivative now also exists for `T1-p005` to `T1-p010` under:
+- A Paddle reading-order support derivative now also exists for all `83` `T1` pages under:
   - `ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/`
 - Column-order heuristic:
   - sort detection boxes by x-center descending, then y-center ascending

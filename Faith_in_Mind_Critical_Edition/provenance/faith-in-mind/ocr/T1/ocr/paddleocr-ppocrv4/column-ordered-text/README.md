@@ -20,6 +20,6 @@ Purpose:
 
 Current coverage:
 
-- `T1-p005` to `T1-p010`
+- `T1-p001` to `T1-p083`
 
 Use these as support only, not as silent replacement text.

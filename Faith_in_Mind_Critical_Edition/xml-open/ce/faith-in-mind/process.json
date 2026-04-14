@@ -56,6 +56,13 @@
     "corrected_text": "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
     "correction_log": "../../../provenance/faith-in-mind/process/correction-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
+    "current_slice": {
+      "slug": "manual_correction_slice_secure_poem_line_T1_p077_l01",
+      "loci": [
+        "T1-p077.l01"
+      ],
+      "last_text_changed_event": "FIM-025"
+    },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/",

@@ -165,6 +165,36 @@ The programmer should treat these as distinct product surfaces, not interchangea
   - definitive witness text files
   - per-witness locus or page-line maps where available
 
+### Witness alignment handoff rule
+
+Published witness delivery is not complete unless the program can tell which witness passage belongs to which editable locus.
+
+At handoff, witness texts must line up against shared edition loci by machine-readable contract.
+
+Preferred contract:
+
+- one shared `locus_id` space across the critical text, apparatus, and delivered witnesses
+- each delivered witness can answer "what is your text at locus X?"
+- one witness reading may map to:
+  - one locus
+  - multiple contiguous loci
+  - a lacuna / omission / unreadable state at that locus
+
+Do not require exact one-line-equals-one-line visual formatting across all witnesses.
+
+That will often fail in commentary witnesses, prose witnesses, damaged witnesses, or witnesses whose page layout cuts across the edition lineation.
+
+What is mandatory is machine-readable alignment.
+
+If exact line alignment is not possible, fallback is:
+
+- stable witness text file
+- stable witness-local anchors such as page-line or segment ids
+- a locus map that maps edition `locus_id` to witness span start / end
+- explicit statuses such as `present`, `omitted`, `lacuna`, `unreadable`, `uncertain_span`
+
+Unmapped free text is not an acceptable final delivery format for witness comparison.
+
 ### Mode 4. Stats mode
 
 - purpose: compact machine-readable quantitative summary

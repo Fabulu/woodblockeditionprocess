@@ -195,6 +195,24 @@ Register here:
 
 This file exists so the app can open witness texts programmatically and present locus comparison without guessing from filenames.
 
+It must also make witness alignment explicit at delivery time.
+
+Required alignment rule:
+
+- every delivered witness used for viewer comparison must expose machine-readable mapping from shared edition `locus_id` to witness-local text address
+
+Preferred:
+
+- direct per-locus reading access
+
+Fallback when one-line alignment is not possible:
+
+- witness-local page-line or segment anchors
+- span mapping from edition locus to witness-local start / end anchor
+- explicit gap status such as omission, lacuna, unreadable, or uncertain span
+
+Do not hand the program only a witness text dump and expect it to infer alignment later.
+
 ### `documents.json`
 
 Use for curated document registration.

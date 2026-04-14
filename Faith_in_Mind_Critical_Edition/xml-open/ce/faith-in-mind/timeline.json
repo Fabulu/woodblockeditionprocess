@@ -494,8 +494,8 @@
       "event_type": "ocr_support_extended",
       "object_type": "witness",
       "object_id": "T1",
-      "summary": "Added geometry-sorted Paddle support text for the active early-prose slice.",
-      "details": "Saved Paddle PP-OCRv4 JSON detections were re-ordered by x-center descending and y-center ascending to create a vertical-page support view for T1-p005 to T1-p010. This derivative is support-only and exists to reduce reading-order noise before prose correction.",
+      "summary": "Added geometry-sorted Paddle support text for the full T1 witness.",
+      "details": "Saved Paddle PP-OCRv4 JSON detections were re-ordered by x-center descending and y-center ascending to create a vertical-page support view across all 83 T1 pages. This derivative is support-only and exists to reduce reading-order noise before prose correction.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -511,7 +511,279 @@
       "decision_ref": null,
       "status": "completed",
       "state_effect": {
-        "paddle_column_ordered_support_range": "T1-p005 to T1-p010",
+        "paddle_column_ordered_support_range": "T1-p001 to T1-p083",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-018",
+      "sequence": 18,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Recovered one more secure late-band poem line in the corrected T1 working text.",
+      "details": "T1-p060.l01 was corrected to `究竟窮極不存軌則` after the broader OCR support stack made the line recoverable. The change was accepted from a strong Paddle near-match plus immediate poem-sequence context, while surrounding commentary prose remained unresolved.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p060.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p060.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p060.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "locus_id": "T1-p060.l01",
+        "change_kind": "ocr_certainty_fix",
+        "reading_before": "有什腐朝剧棉地煎茶把针树随台著衣",
+        "reading_after": "究竟窮極不存軌則",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-019",
+      "sequence": 19,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Recovered one more secure poem line in the corrected T1 working text.",
+      "details": "T1-p030.l01 was corrected to `二見不住慎勿追尋` after the broader OCR support stack made the line recoverable. The change was accepted from a strong Paddle near-match plus RapidOCR shape support and poem-sequence placement.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p030.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "locus_id": "T1-p030.l01",
+        "change_kind": "ocr_certainty_fix",
+        "reading_before": "不见特何不见吾石见之度又作康生銀子",
+        "reading_after": "二見不住慎勿追尋",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-020",
+      "sequence": 20,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Recovered another secure poem line in the corrected T1 working text.",
+      "details": "T1-p022.l01 was corrected to `遣有沒有從空背空` after RapidOCR and extracted Paddle preserved the line's core shape strongly enough for recovery within the already secured poem sequence.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p022.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p022.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "locus_id": "T1-p022.l01",
+        "change_kind": "ocr_certainty_fix",
+        "reading_before": "遣有滚有空骨空",
+        "reading_after": "遣有沒有從空背空",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-021",
+      "sequence": 21,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Recovered another secure poem line in the corrected T1 working text.",
+      "details": "T1-p025.l01 was corrected to `絕言絕慮無處不通` after RapidOCR preserved the line's skeleton clearly enough and the already secured poem sequence fixed the remaining graphs.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p025.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "locus_id": "T1-p025.l01",
+        "change_kind": "ocr_certainty_fix",
+        "reading_before": "施言施愿無慶不通",
+        "reading_after": "絕言絕慮無處不通",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-022",
+      "sequence": 22,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Recovered another secure poem line in the corrected T1 working text.",
+      "details": "T1-p028.l01 was corrected to `前空轉變皆由妄見` after extracted Paddle preserved a near-match and the broader poem sequence fixed the remaining OCR damage.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p028.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p028.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "locus_id": "T1-p028.l01",
+        "change_kind": "ocr_certainty_fix",
+        "reading_before": "前空藤曾由安现",
+        "reading_after": "前空轉變皆由妄見",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-023",
+      "sequence": 23,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Recovered another secure poem line in the corrected T1 working text.",
+      "details": "T1-p027.l01 was corrected to `須臾返照勝卻前空` after RapidOCR and extracted Paddle both preserved the core `...照...卻前空` shape strongly enough for the already secured poem sequence to fix the damaged opening graphs.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p027.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p027.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "locus_id": "T1-p027.l01",
+        "change_kind": "ocr_certainty_fix",
+        "reading_before": "源史送照腾却前空",
+        "reading_after": "須臾返照勝卻前空",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-024",
+      "sequence": 24,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Recovered another secure poem line in the corrected T1 working text.",
+      "details": "T1-p063.l01 was corrected to `一切不留無可記憶` after the Paddle column-ordered support preserved `切不留...可記憶` clearly enough and the already secured sequence between `T1-p062.l01` and `T1-p064.l01` identified the full lemma.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p063.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p063.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "locus_id": "T1-p063.l01",
+        "change_kind": "ocr_certainty_fix",
+        "reading_before": "下命根药去然日维在勤用之中自然常止",
+        "reading_after": "一切不留無可記憶",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-025",
+      "sequence": 25,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Recovered another secure poem line in the corrected T1 working text.",
+      "details": "T1-p077.l01 was corrected to `但能如是何慮不畢` after RapidOCR and extracted Paddle both preserved the core `但能如是何...不...` shape strongly enough for the already secured closing sequence before `T1-p078.l01` to fix the damaged graphs.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p077.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p077.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "locus_id": "T1-p077.l01",
+        "change_kind": "ocr_certainty_fix",
+        "reading_before": "但能如是何愿不果",
+        "reading_after": "但能如是何慮不畢",
         "current_phase": "manual_correction_pass_1_started"
       }
     }

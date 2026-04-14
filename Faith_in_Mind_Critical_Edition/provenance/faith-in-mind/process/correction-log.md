@@ -9,7 +9,7 @@ Witness: `T1`
 - Working file: `provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt`
 - Source OCR basis: normalized RapidOCR full-pass output
 - Comparator basis available: `RapidOCR`, `tesseract`, `EasyOCR`, `PaddleOCR`
-- Current correction slice: OCR-supported early prefatory and commentary prose on `T1-p005` to `T1-p010`
+- Current correction slice: secure poem-line recovery on `T1-p077.l01`
 
 ## Entries
 
@@ -74,10 +74,20 @@ Witness: `T1`
 | 2026-04-14 | `T1-p078.l01` | OCR certainty fix | `信心不二名二信心` | `信心不二不二信心` | standard closing lemma; OCR corruption obvious | fixed |
 | 2026-04-14 | `T1-p079.l01` | OCR certainty fix | `言语道断兆去来今` | `言語道斷非去來今` | standard closing lemma; OCR corruption obvious | fixed |
 
+| 2026-04-15 | `T1-p060.l01` | OCR certainty fix | `有什腐朝剧棉地煎茶把针树随台著衣` | `究竟窮極不存軌則` | extracted Paddle near-match `究竟穹極不存耽则`, late-band poem sequence between `T1-p059.l01` and `T1-p061.l01`, and script-form normalization to witness context | fixed |
+| 2026-04-15 | `T1-p030.l01` | OCR certainty fix | `不见特何不见吾石见之度又作康生銀子` | `二見不住慎勿追尋` | extracted Paddle near-match `二見不住慎勿追寻`, rapidOCR shape support, and placement in the already recovered poem sequence | fixed |
+| 2026-04-15 | `T1-p022.l01` | OCR certainty fix | `遣有滚有空骨空` | `遣有沒有從空背空` | rapidOCR and extracted Paddle both preserve the core `遣有沒有...空...空` shape, with the established poem sequence supporting `從空背空` | fixed |
+| 2026-04-15 | `T1-p025.l01` | OCR certainty fix | `施言施愿無慶不通` | `絕言絕慮無處不通` | rapidOCR preserves the `...言絕...無...不通` skeleton clearly, and the line fits the already recovered sequence between `T1-p024.l01` and `T1-p026.l01` | fixed |
+| 2026-04-15 | `T1-p028.l01` | OCR certainty fix | `前空藤曾由安现` | `前空轉變皆由妄見` | extracted Paddle near-match `前空轉變皆由妄现` plus rapid shape support and poem-sequence placement | fixed |
+
+| 2026-04-15 | `T1-p027.l01` | OCR certainty fix | `源史送照腾却前空` | `須臾返照勝卻前空` | rapidOCR and extracted Paddle both preserve the core `...照...卻前空` shape, and the already secured poem sequence between `T1-p026.l01` and `T1-p028.l01` fixes the damaged opening graphs as `須臾返照勝` | fixed |
+| 2026-04-15 | `T1-p063.l01` | OCR certainty fix | `下命根药去然日维在勤用之中自然常止` | `一切不留無可記憶` | the Paddle column-ordered support preserves `切不留...可記憶`, and the already secured sequence between `T1-p062.l01` and `T1-p064.l01` identifies the full lemma as `一切不留無可記憶` | fixed |
+| 2026-04-15 | `T1-p077.l01` | OCR certainty fix | `但能如是何愿不果` | `但能如是何慮不畢` | RapidOCR and extracted Paddle both preserve the core `但能如是何...不...` shape, and the closing sequence before `T1-p078.l01` fixes the line as `但能如是何慮不畢` | fixed |
+
 ## Open cautions
 
 - This pass corrects only high-confidence title and lemma lines.
 - Commentary prose on `T1-p005` onward remains largely uncorrected.
 - `T1-p005` to `T1-p010` now have additional OCR support from extracted Paddle JSON text plus focused and full-pass Tesseract outputs.
-- `T1-p005` to `T1-p010` also now have Paddle column-ordered support text derived from JSON geometry to help separate recognition errors from reading-order errors.
+- the full `T1` witness now also has Paddle column-ordered support text derived from JSON geometry to help separate recognition errors from reading-order errors.
 - No comparison witnesses beyond `T1` have entered the transcription pass yet.

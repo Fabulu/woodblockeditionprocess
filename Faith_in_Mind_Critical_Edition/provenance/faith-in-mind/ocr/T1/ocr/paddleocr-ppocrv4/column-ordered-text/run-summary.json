@@ -4,6 +4,6 @@
   "heuristic": "sort detections by x-center descending, then y-center ascending",
   "source_json_dir": "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/",
   "output_dir": "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/",
-  "page_range": "T1-p005 to T1-p010",
-  "page_count": 6
+  "page_range": "T1-p001 to T1-p083",
+  "page_count": 83
 }

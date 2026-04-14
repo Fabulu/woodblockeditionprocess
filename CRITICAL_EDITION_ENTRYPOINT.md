@@ -328,6 +328,20 @@ Witness comparison should be locus-driven and should open individual witness rea
 
 The final package must therefore include definitive delivered witness texts and machine-readable witness lookup, not only the critical text and apparatus.
 
+Those delivered witness texts must also be machine-alignable to shared edition loci at handoff.
+
+Preferred:
+
+- the app can ask any delivered witness for its reading at `locus_id X`
+
+Fallback when exact line-for-line matching is impossible:
+
+- witness-local anchors such as page-line or segment ids
+- a locus map from edition `locus_id` to witness-local span start / end
+- explicit gap statuses for omitted, lacunose, unreadable, or uncertain text
+
+Do not leave witness alignment to viewer heuristics.
+
 Timeline replay should remain about edition-state history, not raw witness browsing.
 
 ## Publication standard
