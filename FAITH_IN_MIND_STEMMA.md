@@ -85,3 +85,19 @@ Date: 2026-04-14
   - `四部録抄`
   - `入衆日用`
 - Current likely distinct physical base witnesses/copies in hand: `8`.
+
+## Supporting source-anthology leads
+
+These are supporting source-tradition leads, not counted in the current in-hand base witness count.
+
+1. `景徳伝燈録 巻第1-18,27-30(巻第19-26欠)`
+   - [Faith_in_Mind_Kyoto_Jingde_RB00009451](/abs/path/C:/woodblocks/Faith_in_Mind_Kyoto_Jingde_RB00009451/README.md:1)
+   - Supporting Kyoto source-anthology lead, not yet downloaded into this folder.
+
+2. `景徳伝燈録 30巻`
+   - [Faith_in_Mind_Kyoto_Jingde_RB00009453](/abs/path/C:/woodblocks/Faith_in_Mind_Kyoto_Jingde_RB00009453/README.md:1)
+   - Best of the new Kyoto `景徳伝燈録` leads as a possible source-tradition control witness.
+
+3. `景徳伝燈録 巻第14,29`
+   - [Faith_in_Mind_Kyoto_Jingde_RB00009455](/abs/path/C:/woodblocks/Faith_in_Mind_Kyoto_Jingde_RB00009455/README.md:1)
+   - Partial Kyoto witness; only useful if the relevant `信心銘` passage survives in the extant fascicles.

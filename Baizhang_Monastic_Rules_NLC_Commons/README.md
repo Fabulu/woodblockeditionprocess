@@ -10,6 +10,13 @@
   - https://commons.wikimedia.org/wiki/File:NLC892-411999013994-120850_%E5%8B%85%E4%BF%AE%E7%99%BE%E4%B8%88%E6%B8%85%E8%A6%8F_%E7%AC%AC4%E5%86%8A.pdf
   - https://commons.wikimedia.org/wiki/File:NLC892-411999013994-120851_%E5%8B%85%E4%BF%AE%E7%99%BE%E4%B8%88%E6%B8%85%E8%A6%8F_%E7%AC%AC5%E5%86%8A.pdf
   - https://commons.wikimedia.org/wiki/File:NLC892-411999013994-120897_%E5%8B%85%E4%BF%AE%E7%99%BE%E4%B8%88%E6%B8%85%E8%A6%8F_%E7%AC%AC6%E5%86%8A.pdf
+- ## Download links
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/NLC892-411999013994-120808_%E5%8B%85%E4%BF%AE%E7%99%BE%E4%B8%88%E6%B8%85%E8%A6%8F_%E7%AC%AC1%E5%86%8A.pdf
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/NLC892-411999013994-120848_%E5%8B%85%E4%BF%AE%E7%99%BE%E4%B8%88%E6%B8%85%E8%A6%8F_%E7%AC%AC2%E5%86%8A.pdf
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/NLC892-411999013994-120849_%E5%8B%85%E4%BF%AE%E7%99%BE%E4%B8%88%E6%B8%85%E8%A6%8F_%E7%AC%AC3%E5%86%8A.pdf
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/NLC892-411999013994-120850_%E5%8B%85%E4%BF%AE%E7%99%BE%E4%B8%88%E6%B8%85%E8%A6%8F_%E7%AC%AC4%E5%86%8A.pdf
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/NLC892-411999013994-120851_%E5%8B%85%E4%BF%AE%E7%99%BE%E4%B8%88%E6%B8%85%E8%A6%8F_%E7%AC%AC5%E5%86%8A.pdf
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/NLC892-411999013994-120897_%E5%8B%85%E4%BF%AE%E7%99%BE%E4%B8%88%E6%B8%85%E8%A6%8F_%E7%AC%AC6%E5%86%8A.pdf
 - Rights basis: Commons file pages in this set are marked `CC-PD-Mark`, `PD-old-100-expired`, and `PD-scan (PD-old-100-expired)`. Commons file-page license text is the controlling rights statement.
 - Local files:
   - `NLC892-411999013994-120808_baizhang_monastic_rules_vol1.pdf`

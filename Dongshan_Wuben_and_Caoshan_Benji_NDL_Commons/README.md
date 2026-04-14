@@ -7,6 +7,9 @@
 - Source pages:
   - https://commons.wikimedia.org/wiki/File:NDL959986_%E5%9B%BD%E8%A8%B3%E7%A6%85%E5%AE%97%E5%8F%A2%E6%9B%B8_%E7%AC%AC%EF%BC%98%E5%B7%BB_part1.pdf
   - https://commons.wikimedia.org/wiki/File:NDL959986_%E5%9B%BD%E8%A8%B3%E7%A6%85%E5%AE%97%E5%8F%A2%E6%9B%B8_%E7%AC%AC%EF%BC%98%E5%B7%BB_part2.pdf
+- ## Download links
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL959986_%E5%9B%BD%E8%A8%B3%E7%A6%85%E5%AE%97%E5%8F%A2%E6%9B%B8_%E7%AC%AC%EF%BC%98%E5%B7%BB_part1.pdf
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL959986_%E5%9B%BD%E8%A8%B3%E7%A6%85%E5%AE%97%E5%8F%A2%E6%9B%B8_%E7%AC%AC%EF%BC%98%E5%B7%BB_part2.pdf
 - Rights basis: Commons file pages are marked `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Local files:
   - `NDL959986_kokuyaku_zen_vol8_part1.pdf`

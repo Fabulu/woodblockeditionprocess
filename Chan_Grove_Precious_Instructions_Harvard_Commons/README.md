@@ -8,6 +8,11 @@
   - https://commons.wikimedia.org/wiki/File:Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E4%BA%8C.pdf
   - https://commons.wikimedia.org/wiki/File:Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E4%B8%89.pdf
   - https://commons.wikimedia.org/wiki/File:Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E5%9B%9B.pdf
+- ## Download links
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E4%B8%80.pdf
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E4%BA%8C.pdf
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E4%B8%89.pdf
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/Harvard_drs_9013583_%E7%A6%AA%E6%9E%97%E5%AF%B6%E8%A8%93_%E5%8D%B7%E7%AC%AC%E5%9B%9B.pdf
 - Rights basis: Harvard Commons file pages are marked `Public domain`, `PD Old`, and `CC-PD-Mark`. Commons file-page license text is the controlling rights statement.
 - Planned local files:
 - Local files:

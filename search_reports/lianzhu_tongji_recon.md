@@ -16,6 +16,7 @@ One defensible open scan lead was found.
 
 - `C:\woodblocks\Lianzhu_Tongji_NCL_Commons_pending`
   - Source page: `https://commons.wikimedia.org/wiki/File:NCL-08920_%E7%A6%AA%E5%AE%97%E9%A0%8C%E5%8F%A4%E8%81%AF%E7%8F%A0%E9%80%9A%E9%9B%86.pdf`
+  - Direct file URL: `https://commons.wikimedia.org/wiki/Special:Redirect/file/NCL-08920_%E7%A6%AA%E5%AE%97%E9%A0%8C%E5%8F%A4%E8%81%AF%E7%8F%A0%E9%80%9A%E9%9B%86.pdf`
   - Rights basis: Commons indicates a public-domain mechanical scan with `CC-PD-Mark`, `PD-old`, and `PD-scan (PD-old)`.
   - Status: lead only; the local PDF has not been downloaded into the folder yet.
   - Coverage note: the Commons file list identifies this as `NCL-08920 禪宗頌古聯珠通集.pdf`, which appears to be a single-volume lead rather than a proven full 40-volume set.

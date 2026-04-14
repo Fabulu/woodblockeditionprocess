@@ -137,3 +137,25 @@ Free witnesses now in hand for a `信心銘` critical edition: `23`.
 ## Next practical step
 
 Collate the eight base/anthology witnesses first, then use the two translation anthologies and thirteen commentary/study witnesses only to flag variant readings, interpretation history, and segmentation decisions.
+
+## Supporting source-anthology leads not yet in hand
+
+These are not counted in the `23` free witnesses now in hand.
+
+24. `景徳伝燈録 巻第1-18,27-30(巻第19-26欠)`
+   - Folder: `Faith_in_Mind_Kyoto_Jingde_RB00009451`
+   - Type: supporting source anthology lead
+   - Source: https://rmda.kulib.kyoto-u.ac.jp/item/RB00009451
+   - Note: Kyoto IIIF witness; not yet downloaded into this folder.
+
+25. `景徳伝燈録 30巻`
+   - Folder: `Faith_in_Mind_Kyoto_Jingde_RB00009453`
+   - Type: supporting source anthology lead
+   - Source: https://rmda.kulib.kyoto-u.ac.jp/item/RB00009453
+   - Note: strongest of the new Kyoto `景徳伝燈録` leads; not yet downloaded into this folder.
+
+26. `景徳伝燈録 巻第14,29`
+   - Folder: `Faith_in_Mind_Kyoto_Jingde_RB00009455`
+   - Type: supporting source anthology lead
+   - Source: https://rmda.kulib.kyoto-u.ac.jp/item/RB00009455
+   - Note: partial Kyoto `景徳伝燈録` lead; not yet downloaded into this folder.
