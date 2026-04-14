@@ -7,6 +7,9 @@
 - Source pages:
   - https://commons.wikimedia.org/wiki/File:NDL823371_%E9%80%9A%E4%BF%97%E4%BF%A1%E5%BF%83%E9%8A%98%E8%AC%9B%E8%A9%B1_part1.pdf
   - https://commons.wikimedia.org/wiki/File:NDL823371_%E9%80%9A%E4%BF%97%E4%BF%A1%E5%BF%83%E9%8A%98%E8%AC%9B%E8%A9%B1_part2.pdf
+- Direct download links:
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL823371_%E9%80%9A%E4%BF%97%E4%BF%A1%E5%BF%83%E9%8A%98%E8%AC%9B%E8%A9%B1_part1.pdf
+  - https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL823371_%E9%80%9A%E4%BF%97%E4%BF%A1%E5%BF%83%E9%8A%98%E8%AC%9B%E8%A9%B1_part2.pdf
 - DOI: `10.11501/823371`
 - Rights basis: both Commons file pages are categorized `PD-Japan` and `PD-scan (PD-Japan)`.
 - Local files:

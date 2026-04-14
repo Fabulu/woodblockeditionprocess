@@ -3,6 +3,10 @@
 - Work family: `信心銘`
 - Status: downloaded and pinned to exact Commons file page
 
+## Download links
+
+- `NDL1885755_gyou_no_shuukyou_part1.pdf`: https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL1885755_%E8%A1%8C%E3%81%AE%E5%AE%97%E6%95%99_-_%E7%8F%BE%E4%BB%A3%E6%80%9D%E6%83%B3%E3%82%88%E3%82%8A%E8%A6%8B%E3%81%9F%E3%82%8B_part1.pdf
+
 ## File
 
 | File | Witness type | Source page | Notes |

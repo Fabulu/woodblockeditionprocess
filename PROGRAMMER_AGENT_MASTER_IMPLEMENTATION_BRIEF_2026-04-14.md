@@ -12,6 +12,7 @@ Build the next OpenZen edition system so that:
 - source attribution is authoritative
 - OCR-first workflow is enforced
 - editorial decisions are machine-readable and human-readable
+- every editorial action records whether it was taken by an agent, a human, or a hybrid pass
 - English critical notes are supported in TEI and the app
 - provenance sidebar stays concise
 - full process/apparatus/stats get their own structured browser
@@ -456,6 +457,7 @@ Required tests:
 5. manifest/process/apparatus/stats loading works.
 6. missing files produce graceful UI fallbacks.
 7. validator rejects incomplete critical-edition packages.
+8. editor-pass records require actor type and actor identifier.
 
 ## Deliverables checklist
 

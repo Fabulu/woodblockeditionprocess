@@ -4,7 +4,7 @@
 - Witness title: `四部録`
 - Priority: high
 - Source page: https://commons.wikimedia.org/wiki/File:NDL2537640_%E5%9B%9B%E9%83%A8%E9%8C%B2.pdf
-- Direct file URL: https://upload.wikimedia.org/wikipedia/commons/6/68/NDL2537640_%E5%9B%9B%E9%83%A8%E9%8C%B2.pdf
+- Direct file URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL2537640_%E5%9B%9B%E9%83%A8%E9%8C%B2.pdf
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Included `信心銘` evidence: Commons file description lists `三祖鑑智禪師信心銘1卷` as one of the four component texts in this volume.
 - Local file: `NDL2537640_shiburoku.pdf`

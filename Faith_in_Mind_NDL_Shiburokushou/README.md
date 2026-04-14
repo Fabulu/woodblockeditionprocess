@@ -3,6 +3,7 @@
 - Work family: `信心銘`
 - Witness: `四部録抄`
 - Source page: https://commons.wikimedia.org/wiki/File:NDL2537799_%E5%9B%9B%E9%83%A8%E9%8C%B2%E6%8A%84.pdf
+- Direct file URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL2537799_%E5%9B%9B%E9%83%A8%E9%8C%B2%E6%8A%84.pdf
 - DOI: `10.11501/2537799`
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`.
 - Local file:

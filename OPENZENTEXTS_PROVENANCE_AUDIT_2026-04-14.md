@@ -10,8 +10,9 @@ No. The current documentation is a strong start, but it is not yet rigorous enou
 
 The target standard is:
 
-- OCR should be used as far as possible before human intervention
+- OCR should be used as far as possible before editorial intervention
 - every editorial decision must be auditable
+- every editorial intervention must be attributable to an agent, a human, or a hybrid pass
 - provenance must be split cleanly into:
   - licensing / source facts for downstream reuse
   - process / method / apparatus for scholarly inspection
@@ -37,7 +38,7 @@ Therefore the process must be tightened around five non-negotiable rules:
 
 1. One edition, one authoritative process bundle.
 2. One source of truth for witness rights and validation state.
-3. OCR-first, human-pass-second, with both recorded.
+3. OCR-first, editor-pass-second, with actor identity recorded.
 4. Reader-facing source/licensing separate from scholarly process/apparatus.
 5. No publication without structured evidence for coverage, decisions, unresolved loci, and validation.
 
@@ -80,7 +81,7 @@ It is not enough for a critical-edition pipeline because it has no first-class f
 - decision log references
 - apparatus linkage
 - confidence metrics by stage
-- human-intervention accounting
+- editor-intervention accounting
 
 Result:
 
@@ -104,6 +105,7 @@ But they still leave major things as conventions rather than enforceable structu
 - no required unresolved-locus register
 - no required OCR benchmark report
 - no required publication checklist for apparatus completeness
+- no required actor-attribution field for agent vs human decisions
 
 ### 4. The current provenance UI is too flat
 

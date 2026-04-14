@@ -3,6 +3,7 @@
 - Work: `無門慧開禪師語錄`
 - Priority: medium
 - Source page: https://commons.wikimedia.org/wiki/File:NDL2537788_%E7%84%A1%E9%96%80%E9%96%8B%E5%92%8C%E5%B0%9A%E8%AA%9E%E9%8C%B2.pdf
+- Direct file URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL2537788_%E7%84%A1%E9%96%80%E9%96%8B%E5%92%8C%E5%B0%9A%E8%AA%9E%E9%8C%B2.pdf
 - DOI: `10.11501/2537788`
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Local files:

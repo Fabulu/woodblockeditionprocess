@@ -9,8 +9,8 @@ Purpose: define a repeatable, scan-first, OCR-maximal workflow for rigorous Open
 Build a system where:
 
 - source rights and witness provenance are locked down
-- OCR is pushed as far as possible before human reading
-- every human intervention is logged
+- OCR is pushed as far as possible before editorial intervention
+- every editorial intervention is logged, whether by agent or human
 - every decision is traceable
 - every published edition has a coherent artifact tree
 - the app can display:
@@ -31,7 +31,7 @@ Separate the edition into four layers:
    Raw witness capture, rights evidence, hashes, file validation
 
 2. `transcription`
-   OCR outputs, page segmentation, human adjudication work products
+   OCR outputs, page segmentation, editorial adjudication work products
 
 3. `edition`
    The editorial text, apparatus, decisions, and TEI output
@@ -123,7 +123,7 @@ Required top-level sections:
 - `witness_families`
 - `ocr_pipeline`
 - `segmentation_pipeline`
-- `human_passes`
+- `editor_passes`
 - `decision_records`
 - `coverage`
 - `unresolved_loci`
@@ -155,7 +155,7 @@ Required fields:
 - page / leaf counts
 - OCR engine counts
 - percent of loci machine-resolved
-- percent requiring human intervention
+- percent requiring editor intervention
 - unresolved count
 - apparatus count
 - base-text confidence distribution
@@ -279,12 +279,17 @@ This stage decides:
 - which engine becomes default
 - which engine is comparator only
 
-### Stage 5. Human adjudication
+### Stage 5. Editorial adjudication
 
-Humans only step in after OCR outputs exist.
+Editorial intervention begins only after OCR outputs exist.
 
-Every human pass must record:
+Every editor pass must record:
 
+- actor_type
+  - `agent`
+  - `human`
+  - `hybrid`
+- actor_id
 - witness
 - pages or loci touched
 - reason for intervention
@@ -488,8 +493,8 @@ Add to `MANIFEST_SCHEMA.md`:
 - `witness_family_count`
 - `physical_witness_count`
 - `ocr_maximal` boolean
-- `human_intervention_required` boolean
-- `human_intervention_note`
+- `editor_intervention_required` boolean
+- `editor_intervention_note`
 - `edition_maturity`
   - `draft`
   - `review`
@@ -532,7 +537,7 @@ Tabs:
    Full witness cards, rights evidence, hashes, completeness
 
 2. `Process`
-   Pipeline stages, OCR engines, human passes, publication checks
+   Pipeline stages, OCR engines, editor passes, publication checks
 
 3. `Apparatus`
    Locus-by-locus variants and decisions
@@ -597,7 +602,7 @@ A critical edition is not publishable unless:
 3. segmentation is complete
 4. OCR runs are recorded
 5. OCR benchmark exists
-6. human passes are logged
+6. editor passes are logged with actor identity
 7. apparatus exists
 8. unresolved loci are classified
 9. TEI validates

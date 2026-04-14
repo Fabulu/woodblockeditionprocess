@@ -6,6 +6,7 @@
 - Source page: https://rmda.kulib.kyoto-u.ac.jp/item/rb00016909
 - Reuse guide: https://rmda.kulib.kyoto-u.ac.jp/en/reuse
 - Manifest: https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00016909/manifest.json
+- Structured download: use the IIIF manifest above to fetch the full image set; Kyoto does not expose a single PDF here.
 - Rights basis: Kyoto Main Library item marked `FREE LICENSE with Attribution`; Kyoto reuse terms allow commercial redistribution with attribution, link-back, and change marking.
 - Included `信心銘` evidence: Kyoto metadata for the item states that `信心銘 / (隋僧)僧璨撰` is included within this one-book composite manuscript.
 - Local manifest: `manifest.json`

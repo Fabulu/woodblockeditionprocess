@@ -3,6 +3,8 @@
 Date: 2026-04-14
 Purpose: one file a future agent can be pointed at when asked to turn a scan-rich work in `C:\woodblocks` into a rigorous OpenZen critical edition package for ReadZen.
 
+If the user wants a guided, decision-by-decision run, start with [CRITICAL_EDITION_GUIDED_WORKFLOW.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_GUIDED_WORKFLOW.md:1) first.
+
 ## Use case
 
 If the user says something like:
@@ -52,12 +54,13 @@ Read these in this order:
 2. [OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md](/abs/path/C:/woodblocks/OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md:1)
 3. [CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md](/abs/path/C:/woodblocks/CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md:1)
 4. [PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md](/abs/path/C:/woodblocks/PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md:1)
-5. [C:/Programmieren/OpenZenTexts/docs/curation/WORKFLOW.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/WORKFLOW.md:1)
-6. [C:/Programmieren/OpenZenTexts/docs/curation/REPO_INTAKE_PIPELINE.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/REPO_INTAKE_PIPELINE.md:1)
-7. [C:/Programmieren/OpenZenTexts/docs/curation/TRANSCRIPTION_METHOD.md](/abs/path/C:/Programmieren/OpenZenTexts/docs/curation/TRANSCRIPTION_METHOD.md:1)
-8. [C:/Programmieren/OpenZenTexts/MANIFEST_SCHEMA.md](/abs/path/C:/Programmieren/OpenZenTexts/MANIFEST_SCHEMA.md:1)
-9. [C:/programmieren/MergeWorkCbeta/CBETA-Translator/Text/TeiRenderer.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Text/TeiRenderer.cs:1)
-10. [C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml.cs:1)
+5. [WORKFLOW.md](/abs/path/C:/woodblocks/WORKFLOW.md:1)
+6. [REPO_INTAKE_PIPELINE.md](/abs/path/C:/woodblocks/REPO_INTAKE_PIPELINE.md:1)
+7. [TRANSCRIPTION_METHOD.md](/abs/path/C:/woodblocks/TRANSCRIPTION_METHOD.md:1)
+8. [STANDARD_TRANSCRIPTION_WORKFLOW.md](/abs/path/C:/woodblocks/STANDARD_TRANSCRIPTION_WORKFLOW.md:1)
+9. [C:/Programmieren/OpenZenTexts/MANIFEST_SCHEMA.md](/abs/path/C:/Programmieren/OpenZenTexts/MANIFEST_SCHEMA.md:1)
+10. [C:/programmieren/MergeWorkCbeta/CBETA-Translator/Text/TeiRenderer.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Text/TeiRenderer.cs:1)
+11. [C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml.cs](/abs/path/C:/programmieren/MergeWorkCbeta/CBETA-Translator/Views/ProvenancePanel.axaml.cs:1)
 
 ## Main rule
 
@@ -116,9 +119,9 @@ Before transcription or editing, create the edition charter and process tree und
 
 ### Step 5. Push OCR as far as possible
 
-Do OCR-first, not human-first.
+Do OCR-first, not editor-first.
 
-Only after OCR outputs exist should human adjudication begin.
+Only after OCR outputs exist should editorial adjudication begin.
 
 ### Step 6. Record everything
 
@@ -129,6 +132,12 @@ Every pass must land in:
 - unresolved loci
 - apparatus
 - stats
+
+Every editorial action must also record who made it:
+
+- agent
+- human
+- hybrid
 
 ### Step 7. Generate the OpenZen package
 
@@ -212,7 +221,7 @@ Do not call the work a critical edition unless:
 1. witness rights are locked
 2. witness hashes are locked
 3. OCR runs are recorded
-4. human interventions are recorded
+4. editor interventions are recorded with actor identity
 5. apparatus exists
 6. unresolved loci are classified
 7. TEI validates

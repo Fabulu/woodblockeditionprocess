@@ -3,6 +3,11 @@
 - Work family: `信心銘`
 - Status: downloaded and pinned to exact Commons file pages
 
+## Download links
+
+- `NDL906534_zaike_sotoshu_seiten.pdf`: https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL906534_%E5%9C%A8%E5%AE%B6%E6%9B%B9%E6%B4%9E%E5%AE%97%E8%81%96%E5%85%B8.pdf
+- `NDL961952_zenmon_sotoshuten_part3.pdf`: https://commons.wikimedia.org/wiki/Special:Redirect/file/NDL961952_%E7%A6%85%E9%96%80%E6%9B%B9%E6%B4%9E%E5%AE%97%E5%85%B8_part3.pdf
+
 ## Files
 
 | File | Witness type | Source page | Notes |

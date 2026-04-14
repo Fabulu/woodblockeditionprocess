@@ -4,6 +4,7 @@
 - Witness title: `四部録`
 - Source page: https://rmda.kulib.kyoto-u.ac.jp/item/rb00012929
 - Manifest: https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00012929/manifest.json
+- Structured download: use the IIIF manifest above to fetch the full image set; Kyoto does not expose a single PDF here.
 - Rights basis: Kyoto Main Library item marked `FREE LICENSE with Attribution`.
 - Included `信心銘` evidence: Kyoto item is another `四部録` witness in the same free-license regime.
 - Status: manifest and full `29`-image set downloaded.
