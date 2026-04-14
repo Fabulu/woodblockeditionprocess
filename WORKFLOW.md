@@ -12,6 +12,7 @@ Acquire commercially reusable source witnesses for Chinese Chan/Zen texts, inclu
 - Use `C:\woodblocks\ZEN_TEXT_WORKLIST.md` as the working queue.
 - Use `C:\woodblocks\SOURCES.md` as the attribution ledger.
 - Every source folder must have a local `README.md` with source URL, rights basis, and current status.
+- Every source folder must also record the best known download path in the correct spot inside its `README.md`: direct file URL, redirect URL, direct PDF, or manifest, depending on source type.
 - Every source folder must preserve license and attribution evidence locally at all costs. Do not separate the scan files from their source `README.md`, rights notes, revision snapshots, or other provenance evidence.
 - Never cross a text off the worklist just because a source page exists.
 - Only mark `[x]` after the file or full set is downloaded and integrity-checked.
@@ -37,6 +38,7 @@ Acquire commercially reusable source witnesses for Chinese Chan/Zen texts, inclu
 4. Before downloading:
    - create or update the target folder
    - create or update that folder's `README.md`
+   - write the download link into the witness `README.md` before or during acquisition, not later as cleanup
    - add or update the source entry in `SOURCES.md`
 5. Download sequentially, not in parallel, to avoid interference and rate-limit damage.
 6. Download into a temp filename first.
@@ -73,9 +75,18 @@ Each source-folder `README.md` should include:
 - Source page URL
 - Stable revision URL / `oldid` if the source is editable
 - Direct file URL or manifest if known
+- If the source has a standard direct-download pattern, record that exact download URL, not just the landing page
 - Local revision map / manifest filename if used
 - Rights basis
 - Status
+
+Download-link placement rules:
+
+- Commons witness: put `Direct file URL:` immediately after `Source page:`
+- Kyoto / IIIF witness: put `Manifest:` immediately after `Source page:` and note that the manifest is the structured download path
+- Waseda witness: record both the landing page and the direct PDF
+- Multi-file witness sets: add a `## Download links` section above the file table
+- If no direct downloadable object exists, explicitly say so rather than leaving the slot blank
 
 `SOURCES.md` should include:
 

@@ -36,7 +36,7 @@ If any of those three is false, the intake is incomplete and the file should not
 Before you start an intake, you must already have:
 
 - A folder under `C:\woodblocks\{Source}_{License}\` with the captured source files. The folder name follows `WORKFLOW.md`'s convention: descriptive, ASCII, with the source host and license category in the name. Example: `Wumenguan_Wikisource_PD_old`
-- A `README.md` inside that folder with source URL, stable revision URL (or oldid), rights basis, vetting confidence, and a `provenance check` line confirming no CBETA contamination
+- A `README.md` inside that folder with source URL, stable revision URL (or oldid), rights basis, vetting confidence, the best known download link or manifest, and a `provenance check` line confirming no CBETA contamination
 - An entry in `C:\woodblocks\SOURCES.md` mirroring the same metadata
 - The text marked vetted in `C:\woodblocks\ZEN_TEXT_WORKLIST.md` (`[x]` only after the full set is acquired and validated)
 
