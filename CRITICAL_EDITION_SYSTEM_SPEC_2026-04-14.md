@@ -13,6 +13,7 @@ Build a system where:
 - every editorial intervention is logged, whether by agent or human
 - every decision is traceable
 - every meaningful workflow step is traceable, including failed and abandoned steps
+- every meaningful workflow step is chronologically reconstructable as state changes over time
 - every published edition has a coherent artifact tree
 - the app can display:
   - quick licensing and source facts in the sidebar
@@ -134,6 +135,14 @@ The programmer should treat these as distinct product surfaces, not interchangea
   - `process/unresolved-loci.md`
   - `process/publication-checklist.md`
 
+### Mode 2A. Timeline mode
+
+- purpose: replayable chronological reconstruction of how the edition was built
+- primary artifacts:
+  - `timeline.json`
+  - `human-log.md`
+- must support visible state changes, not only static summaries
+
 ### Mode 3. Apparatus mode
 
 - purpose: structured variant and editorial-decision display
@@ -164,6 +173,7 @@ The UI and pipeline must preserve mode separation:
 - sidebar provenance mode stays concise
 - process/apparatus/stats/documents open in a dedicated edition dialog or browser
 - edition text mode remains the reading surface
+- timeline mode must be able to replay how the reading surface and editorial state changed over time
 
 ### `manifest.json`
 
@@ -197,6 +207,83 @@ Required top-level sections:
 - `unresolved_loci`
 - `publication_checks`
 - `derived_artifacts`
+- `timeline`
+- `state_model`
+
+### `timeline.json`
+
+This is the canonical ordered event stream for the edition.
+
+It is not optional.
+
+Every meaningful action that changes knowledge, text state, witness state, or editorial state must appear here.
+
+The preferred reconstruction model is reverse-patching from the final reading text.
+
+For visible text changes, the preferred storage contract is:
+
+- top-level per-locus `readings` table
+- `reading_before` and `reading_after` indices in each `text_changed` event
+
+Fallback only if necessary:
+
+- `previous_reading`
+- `new_reading`
+
+Minimum event fields:
+
+- `event_id`
+- `sequence`
+- `timestamp`
+- `stage`
+- `event_type`
+- `object_type`
+- `object_id`
+- `summary`
+- `details`
+- `actor_type`
+- `actor_id`
+- `inputs`
+- `outputs`
+- `evidence_links`
+- `decision_ref`
+- `status`
+- `state_effect`
+
+Required event classes include:
+
+- witness found
+- witness rejected
+- download attempted
+- download replaced
+- hash changed
+- validation passed
+- validation failed
+- copy-text locked
+- copy-text challenged
+- copy-text switched
+- OCR run started
+- OCR run completed
+- OCR run failed
+- correction applied
+- unresolved locus opened
+- unresolved locus resolved
+- apparatus seed added
+- decision recorded
+- text changed
+
+### `human-log.md`
+
+This is the human-readable narrative counterpart to `timeline.json`.
+
+It must explain, in readable prose:
+
+- what happened
+- why it happened
+- what changed
+- what remains unresolved
+
+It is the text shown in the log dialog for readers who do not want raw JSON.
 
 ### `apparatus.json`
 
@@ -276,6 +363,7 @@ At minimum, the process layer must preserve:
 - witness acceptance and rejection
 - deferred or abandoned options
 - every editorial decision
+- every state-changing event that affects what the edition currently is
 
 Each loggable step should record:
 
@@ -288,6 +376,8 @@ Each loggable step should record:
 - actor type: `agent`, `human`, or `hybrid`
 - actor identifier when known
 - follow-up state if unresolved
+- whether current edition state changed
+- resulting state if it did
 
 ### Stage 0. Edition charter
 
@@ -354,6 +444,23 @@ Columns:
 
 Run all available OCR engines first.
 
+Default required OCR comparison loop for East Asian scan witnesses:
+
+- `tesseract`
+- `RapidOCR`
+- `PaddleOCR`
+- `EasyOCR`
+
+If any engine in that loop is missing, unavailable, or fails on the witness, that absence or failure must be logged explicitly.
+
+The loop exists to:
+
+- compare OCR disagreement directly
+- recover text one engine misses
+- identify likely false positives
+- surface damaged or unstable loci before manual intervention
+- fill partial omissions from cross-engine evidence before image adjudication
+
 Required recording:
 
 - engine name
@@ -388,11 +495,14 @@ At minimum compare:
 - reading-order stability
 - punctuation behavior
 - vertical text handling
+- omission and no-text behavior
+- whether one engine recovers text another misses
 
 This stage decides:
 
 - which engine becomes default
 - which engine is comparator only
+- which pages or loci require multi-engine rescue before manual review
 
 ### Stage 5. Editorial adjudication
 
@@ -460,6 +570,10 @@ Every decision must include:
 - chosen reading
 - reversibility
 - affected loci
+
+If a decision changes the current edition state, it must also generate a timeline event.
+
+If it changes visible text, it must generate a `text_changed` event with exact `locus_id`, cause, evidence, and before/after reading state captured at the moment of change.
 
 ### Stage 8. Unresolved loci
 
@@ -658,14 +772,27 @@ Tabs:
 2. `Process`
    Pipeline stages, OCR engines, editor passes, publication checks
 
-3. `Apparatus`
+3. `Timeline`
+   Slider-based chronological replay of edition construction with visible state changes and human-readable explanations
+
+4. `Apparatus`
    Locus-by-locus variants and decisions
 
-4. `Stats`
+5. `Stats`
    coverage, unresolved counts, machine/human ratios
 
-5. `Documents`
+6. `Documents`
    markdown logs and notes
+
+The timeline surface must let the reader:
+
+- move event by event
+- jump by stage
+- filter by actor, witness, or event type
+- see what changed at the selected step
+- open linked evidence and documents
+
+The visible reading text should be able to reflect the selected timeline state when feasible.
 
 ## ReadZen implementation requirements
 
@@ -744,15 +871,16 @@ Use `信心銘` as the first text to fully adopt this system because:
 
 1. Patch `MANIFEST_SCHEMA.md` to add process/apparatus/stat hooks.
 2. Define JSON schemas for `process.json`, `apparatus.json`, `stats.json`.
-3. Extend `ManifestInfo.cs` and add new typed models.
-4. Add new services to load those JSON files.
-5. Extend `TeiRenderer.cs` note-kind inference to support OpenZen critical-note families while keeping CBETA compatibility.
-6. Keep the current provenance sidebar focused on license/source facts.
-7. Build a dedicated edition-process dialog with tabs for sources, process, apparatus, stats, documents, and notes.
-8. Add curated document-discovery rules instead of free-for-all markdown scanning.
-9. Add validators so a critical edition cannot be published with missing required process artifacts.
-10. Migrate `wumenguan-1632` into the new structure as the first exemplar.
-11. Then start `信心銘` under the new pipeline instead of the old ad hoc one.
+3. Define the JSON schema for `timeline.json` and the state model it depends on.
+4. Extend `ManifestInfo.cs` and add new typed models.
+5. Add new services to load those JSON files.
+6. Extend `TeiRenderer.cs` note-kind inference to support OpenZen critical-note families while keeping CBETA compatibility.
+7. Keep the current provenance sidebar focused on license/source facts.
+8. Build a dedicated edition-process dialog with tabs for sources, process, timeline, apparatus, stats, documents, and notes.
+9. Add curated document-discovery rules instead of free-for-all markdown scanning.
+10. Add validators so a critical edition cannot be published with missing required process artifacts.
+11. Migrate `wumenguan-1632` into the new structure as the first exemplar.
+12. Then start `信心銘` under the new pipeline instead of the old ad hoc one.
 
 ## Immediate cleanup required before migration
 

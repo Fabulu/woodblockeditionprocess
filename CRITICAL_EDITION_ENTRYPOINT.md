@@ -29,6 +29,7 @@ The end state is a full OpenZen critical-edition package that ReadZen can displa
 - apparatus / editorial decisions
 - reader-facing notes / footnotes
 - machine-readable stats
+- reverse-patching-compatible timeline history
 
 If any of those are missing, the work is not done.
 
@@ -51,16 +52,17 @@ From that folder, the agent must:
 Read these in this order:
 
 1. `CRITICAL_EDITION_ENTRYPOINT.md`
-2. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
-3. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
-4. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
-5. `WORKFLOW.md`
-6. `REPO_INTAKE_PIPELINE.md`
-7. `TRANSCRIPTION_METHOD.md`
-8. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
-9. `OpenZenTexts/MANIFEST_SCHEMA.md`
-10. `CBETA-Translator/Text/TeiRenderer.cs`
-11. `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
+2. `CRITICAL_EDITION_RECORDING_MATRIX.md`
+3. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
+4. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
+5. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
+6. `WORKFLOW.md`
+7. `REPO_INTAKE_PIPELINE.md`
+8. `TRANSCRIPTION_METHOD.md`
+9. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
+10. `OpenZenTexts/MANIFEST_SCHEMA.md`
+11. `CBETA-Translator/Text/TeiRenderer.cs`
+12. `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
 
 ## Main rule
 
@@ -153,6 +155,19 @@ Every editorial action must also record who made it:
 - human
 - hybrid
 
+Visible text changes must also record:
+
+- exact TEI `locus_id`
+- change kind
+- reason
+- witness support
+- before/after reading state captured at the moment of change
+
+Preferred storage model:
+
+- top-level readings table
+- `reading_before` / `reading_after` indices in `timeline.json`
+
 ### Step 7. Generate the OpenZen package
 
 Produce:
@@ -160,8 +175,11 @@ Produce:
 - TEI
 - `manifest.json`
 - `process.json`
+- `timeline.json`
 - `apparatus.json`
 - `stats.json`
+- `documents.json`
+- `human-log.md`
 - per-text `README.md`
 
 ### Step 8. Confirm ReadZen compatibility
@@ -214,6 +232,22 @@ Minimum witness docs:
 - source-page evidence
 - rights evidence
 - file hash and size data
+
+## Download integrity rule
+
+For large PDFs and other fragile witness files:
+
+- do not trust one command-line download
+- compare hashes across repeated downloads when a file fails structural validation
+- treat differing hashes as evidence of unstable delivery or local download corruption
+
+Escalation path:
+
+1. validate current download
+2. if structurally bad, re-download and compare hashes
+3. if command-line delivery remains unstable, switch to exact browser download using the pinned direct file URL
+4. swap the browser-downloaded file into the canonical witness folder
+5. hash and validate again before clearing the witness
 
 ## TEI note policy
 

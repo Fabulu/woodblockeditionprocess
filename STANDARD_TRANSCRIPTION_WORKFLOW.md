@@ -66,6 +66,13 @@ At minimum, record:
 
 If a future reviewer cannot tell what was done, in what order, and why, the edition is under-documented.
 
+Chronological recording is now split across layers:
+
+- `process-log.md` for operational steps
+- `decision-log.md` for judgments
+- `human-log.md` for readable narrative
+- `timeline.json` for app-facing ordered state changes
+
 ---
 
 ## 4. Separate transcription from edition
@@ -110,6 +117,24 @@ For each such decision, the record should make clear:
 - why that choice was made
 
 If the answer is only "it reads better," that is not enough.
+
+If the decision changes visible text, it must also create a `text_changed` timeline event.
+
+That event must record:
+
+- exact `locus_id`
+- `change_kind`
+- `reason`
+- `witness_support`
+- preferred:
+  - `reading_before`
+  - `reading_after`
+  - via a per-locus readings table
+- fallback only:
+  - `previous_reading`
+  - `new_reading`
+
+Capture the earlier reading state at the moment of change, before overwrite.
 
 ---
 
@@ -185,6 +210,12 @@ This can live in logs, witness notes, or structured markup, but it must exist so
 
 Without that trail, later XML or TEI work becomes guesswork.
 
+The same applies to timeline replay:
+
+- if the visible reading text changed
+- but the before/after state was not recorded at the moment of change
+- the slider history is no longer trustworthy
+
 ---
 
 ## 10. Define what kind of edition the project is
@@ -235,6 +266,8 @@ When handing off to XML, TEI, or publication work, include:
 - witness-facing draft
 - corroboration notes
 - process log
+- human-readable log
+- timeline data
 - rights / provenance files
 - scan witness paths
 

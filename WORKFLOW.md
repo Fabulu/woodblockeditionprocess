@@ -51,6 +51,12 @@ Acquire commercially reusable source witnesses for Chinese Chan/Zen texts, inclu
    - update `SOURCES.md`
    - update `ZEN_TEXT_WORKLIST.md`
    - mark `[x]` only if the whole text is acquired, not just fragments
+9. For East Asian scan OCR work, use the four-engine comparison loop when available:
+   - `tesseract`
+   - `RapidOCR`
+   - `PaddleOCR`
+   - `EasyOCR`
+10. If any engine in that loop is missing or fails, record that explicitly in the OCR log before moving on.
 
 ## Validation
 
@@ -68,6 +74,8 @@ Acquire commercially reusable source witnesses for Chinese Chan/Zen texts, inclu
 - Keep ASCII-named canonical local filenames when practical.
 - If you duplicate a validated file into a Chinese-named filename for convenience, the validated ASCII-named file is still the canonical integrity anchor.
 - Mixed-rights pages are not valid acquisitions. A permissive site footer does not override a conflicting upstream text license.
+- If a file fails structural validation, compare hashes across repeated downloads before concluding the witness is bad.
+- If command-line downloads of a large file keep producing inconsistent hashes or malformed PDFs, escalate to a browser download using the exact direct file URL, then swap that browser-downloaded file into the canonical witness folder and validate it there.
 
 ## Attribution Minimum
 

@@ -26,6 +26,14 @@ Every meaningful step belongs here or in a linked per-stage log.
 
 That includes failed attempts, rejected leads, and abandoned approaches, not just successes.
 
+This log is not enough by itself for visible text changes.
+
+If visible edition text changes, also create:
+
+- a `text_changed` event in `timeline.json`
+- a decision record in `decision-log.md` if the change is non-trivial
+- a readable explanation in `human-log.md` if the change matters to the reader
+
 ---
 
 ## Policy constraints
@@ -96,6 +104,20 @@ Notes:
 - [leaf / case / line] [decision]
 - [leaf / case / line] [decision]
 
+**Timeline obligations for text changes:**
+- `locus_id`
+- `change_kind`
+- `reason`
+- `witness_support`
+- `note_anchor_id` if any
+- preferred:
+  - `reading_before`
+  - `reading_after`
+  - backed by a per-locus readings table
+- fallback only:
+  - `previous_reading`
+  - `new_reading`
+
 **Rejected or failed paths:**
 - [location] [OCR failure / unusable crop / false positive / abandoned approach]
 
@@ -146,6 +168,12 @@ Notes:
 **Policy impact:** [allowed under open policy? yes / no]  
 **Reversibility:** [easy / medium / hard]
 
+**Timeline event required:** [yes / no]
+
+If yes:
+- event id: [evt_...]
+- locus id(s): [...]
+
 ---
 
 ## Rough readings retained
@@ -175,6 +203,11 @@ Notes:
 - [lineation / punctuation / section ordering / deduplication]
 - [witness-backed correction]
 - [formatting-only change]
+
+If any visible reading changed here, confirm:
+- corresponding `text_changed` events created
+- `timeline.json` updated
+- `human-log.md` updated if reader-facing significance exists
 
 **Status:** [draft | corroborated | review-ready | final]
 

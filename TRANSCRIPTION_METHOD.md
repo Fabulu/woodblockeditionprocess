@@ -64,11 +64,23 @@ For each witness, create a dedicated transcription workspace under `Transcriptio
 
 - Generate OCR for every leaf.
 - Use more than one OCR engine when possible:
+  This is the standard critical-edition path when the tools are available.
+  The default East Asian comparator loop is:
   - `tesseract`
   - `RapidOCR`
   - `PaddleOCR`
+  - `EasyOCR`
   - other comparators if helpful
 - Treat OCR as the first-pass evidence inventory.
+
+If one engine misses a line, title, or glyph cluster, compare the other engines before escalating to manual adjudication.
+
+Log explicitly:
+
+- which engines were run
+- which engines failed
+- which engine recovered missing text another engine missed
+- which loci still remained unresolved after cross-engine comparison
 
 Practical use of OCR:
 

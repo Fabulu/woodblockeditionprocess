@@ -34,14 +34,15 @@ Read these first:
 
 1. `README.md`
 2. `CRITICAL_EDITION_GUIDED_WORKFLOW.md`
-3. `CRITICAL_EDITION_ENTRYPOINT.md`
-4. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
-5. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
-6. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
-7. `WORKFLOW.md`
-8. `REPO_INTAKE_PIPELINE.md`
-9. `TRANSCRIPTION_METHOD.md`
-10. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
+3. `CRITICAL_EDITION_RECORDING_MATRIX.md`
+4. `CRITICAL_EDITION_ENTRYPOINT.md`
+5. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
+6. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
+7. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
+8. `WORKFLOW.md`
+9. `REPO_INTAKE_PIPELINE.md`
+10. `TRANSCRIPTION_METHOD.md`
+11. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
 
 ## Repo Rule
 
@@ -72,6 +73,14 @@ Each witness README should record:
 - the best direct download path we know
 - the rights basis
 - enough metadata to relocate the witness if a direct link dies
+
+## Large-File Rule
+
+When a large witness PDF fails validation:
+
+- compare hashes across repeated downloads
+- do not assume the witness itself is bad until you know whether the bytes are stable
+- if command-line download keeps producing bad or inconsistent files, use the exact direct URL in a browser, then hash and validate the browser-downloaded copy
 
 ## Edition Rule
 

@@ -16,6 +16,7 @@ Build the next OpenZen edition system so that:
 - English critical notes are supported in TEI and the app
 - provenance sidebar stays concise
 - full process/apparatus/stats get their own structured browser
+- visible text history uses reverse-patching from final text
 
 ## Shared path policy
 
@@ -32,7 +33,7 @@ Use instead:
 
 ## Required output modes
 
-The implementation must preserve six distinct output modes:
+The implementation must preserve seven distinct output modes:
 
 1. `Sidebar provenance mode`
    - source, rights, witness summary
@@ -52,8 +53,31 @@ The implementation must preserve six distinct output modes:
 6. `Edition text mode`
    - the reading text with notes/anchors
    - powered by `{slug}.xml`
+7. `Timeline mode`
+   - chronological replay of what changed and why
+   - powered by `timeline.json` plus `human-log.md`
 
 Do not collapse these modes into one sidebar, one markdown blob, or one oversized manifest.
+
+## Core timeline contract
+
+Implement timeline reconstruction with reverse-patching from the final text.
+
+Expected behavior:
+
+- the final reading text renders normally
+- when the slider moves backward, later `text_changed` events are reversed
+- each `text_changed` event identifies one TEI locus exactly
+- the affected locus highlights and should auto-scroll when feasible
+- non-text events update metadata without mutating the visible text
+
+Preferred `timeline.json` storage model:
+
+- top-level `readings` table keyed by `locus_id`
+- `reading_before` / `reading_after` indices in events
+- append-only `revisions` array
+
+This is the contract future transcription and collation agents must target.
 
 This brief authorizes changes in:
 
