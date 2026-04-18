@@ -73,6 +73,11 @@ Chronological recording is now split across layers:
 - `human-log.md` for readable narrative
 - `timeline.json` for app-facing ordered state changes
 
+For resumability:
+
+- `current-state.md` is the authoritative one-screen source of truth for the exact next step
+- if another file disagrees with it, reconcile the drift before continuing
+
 ---
 
 ## 4. Separate transcription from edition
@@ -95,6 +100,17 @@ Do not assume every scanned page belongs to the main text body.
 A short work may be transmitted inside a much longer physical witness with commentary, prefatory matter, or end matter.
 
 Classify page roles before deep correction.
+
+Hard stage separation also applies across the whole project:
+
+- recon finds and classifies witnesses
+- transcription builds and corrects witness-facing text
+- collation compares witnesses and surfaces variant structure
+- edition publishes stabilized editorial output
+
+Do not silently slide from one stage into another.
+
+If a work slice crosses a stage boundary, declare that crossing in the logs and state files before substantive changes begin.
 
 ---
 
@@ -121,8 +137,24 @@ For each such decision, the record should make clear:
 - what options existed
 - which choice was made
 - why that choice was made
+- what the evidence basis was
+- how strong that evidence was
 
 If the answer is only "it reads better," that is not enough.
+
+Evidence basis should name the actual support type, for example:
+
+- direct image review
+- OCR agreement across engines
+- comparison witness support
+- structural sequence restoration
+
+Evidence strength should be explicit, using a bounded vocabulary such as:
+
+- strong
+- moderate
+- weak
+- provisional
 
 If the decision changes visible text, it must also create a `text_changed` timeline event.
 
@@ -152,6 +184,12 @@ If a line is rough:
 - keep it if the witness support is strong
 - smooth it only if witness support is weak enough to justify intervention
 - record the intervention
+
+If the evidence remains weak or provisional:
+
+- preserve the uncertainty
+- keep the locus open
+- do not hide the weakness behind a polished normalization
 
 Unfamiliar is not the same as wrong.
 Polished is not the same as historical.
@@ -211,6 +249,8 @@ For every important locus, make it possible to recover:
 - omitted reading(s)
 - uncertainty
 - final editorial choice
+- evidence basis
+- evidence strength
 
 This can live in logs, witness notes, or structured markup, but it must exist somewhere.
 
@@ -254,6 +294,8 @@ At minimum verify:
 - witness set frozen
 - rights basis recorded
 - structure counts correct
+- witness leaf coverage audited against rendered frame images
+- no frame-bearing leaf inside the active witness range is missing from the witness draft
 - major rough readings reviewed
 - known ordering mismatches either resolved or documented
 - reading edition free of workbench notes

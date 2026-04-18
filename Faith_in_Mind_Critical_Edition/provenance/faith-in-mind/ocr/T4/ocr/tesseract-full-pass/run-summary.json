@@ -1,0 +1,41 @@
+﻿{
+    "engine":  "tesseract",
+    "model":  "chi_tra",
+    "psm":  6,
+    "total_pages":  28,
+    "pages_with_text":  28,
+    "no_text_pages":  [
+
+                      ],
+    "error_count":  6,
+    "errors":  [
+                   {
+                       "page":  "T4-p020",
+                       "error":  "Image too small to scale!! (1x36 vs min width of 3)"
+                   },
+                   {
+                       "page":  "T4-p021",
+                       "error":  "Image too small to scale!! (2x36 vs min width of 3)"
+                   },
+                   {
+                       "page":  "T4-p022",
+                       "error":  "Image too small to scale!! (2x36 vs min width of 3)"
+                   },
+                   {
+                       "page":  "T4-p023",
+                       "error":  "Image too small to scale!! (2x36 vs min width of 3)"
+                   },
+                   {
+                       "page":  "T4-p024",
+                       "error":  "Image too small to scale!! (2x36 vs min width of 3)"
+                   },
+                   {
+                       "page":  "T4-p026",
+                       "error":  "Image too small to scale!! (2x36 vs min width of 3)"
+                   }
+               ],
+    "output_dir":  "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\T4\\ocr\\tesseract-full-pass",
+    "tessdata_prefix":  "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\T1\\tessdata",
+    "resumed":  true,
+    "elapsed_seconds":  741.846
+}

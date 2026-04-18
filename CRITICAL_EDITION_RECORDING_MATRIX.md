@@ -31,6 +31,33 @@ They are separate layers of use.
 
 Every edition must also deliver definitive witness text outputs for the witnesses it actually produces, so the viewer can expose direct witness comparison without scraping working files.
 
+## Authority hierarchy
+
+The system has multiple recording layers, but not all layers answer the same question.
+
+Operational authority:
+
+- `current-state.md` is the authoritative resumability surface
+- it decides:
+  - current phase
+  - last completed bounded slice
+  - exact next action
+
+Machine-history authority:
+
+- `timeline.json` is the authoritative machine-readable event history
+
+Narrative and rationale support:
+
+- `process-log.md`
+- `decision-log.md`
+- `human-log.md`
+
+Drift rule:
+
+- if `current-state.md` disagrees with another file about what happens next, reconcile the drift before doing more substantive work
+- do not let a stale prose paragraph or old checklist silently overrule `current-state.md`
+
 ## File responsibilities
 
 ### `process-log.md`
@@ -66,6 +93,22 @@ Record here:
 - reversibility and rationale
 
 If a judgment changes visible text, it also requires a `text_changed` event in `timeline.json`.
+
+Evidence minimum for any non-trivial judgment:
+
+- evidence basis
+  - scan image
+  - OCR engine set
+  - comparison witness
+  - structural observation
+  - human visual review
+- evidence strength
+  - strong
+  - moderate
+  - weak
+  - provisional
+
+Do not record a non-trivial editorial judgment without both basis and strength.
 
 ### `human-log.md`
 
@@ -276,6 +319,23 @@ Record this in the active pass log and keep `current-state.md` aligned with it.
 
 Do not begin a substantial correction or collation batch without a declared slice boundary.
 
+### At every stage boundary
+
+When work moves between:
+
+- recon
+- transcription
+- collation
+- edition
+
+update together:
+
+- `current-state.md`
+- `process.json`
+- `timeline.json` if the phase change is machine-relevant
+
+Do not blur stage boundaries by treating collation notes as if they were already edition output, or by treating recon discoveries as if they were already transcription authority.
+
 ### When a search or recon happens
 
 Write to:
@@ -328,6 +388,8 @@ For each engine, record:
 - output location if successful
 - exact runtime failure if blocked or failed
 
+Do not treat a witness as editorially active until that status block exists. If provisional comparison starts from fewer than four engines, record the comparison as provisional and log the missing engines before using the witness for stronger correction claims.
+
 Also update `page-map.csv` with page-role classification before treating the witness as if every page were body text.
 
 ### When a visible reading changes
@@ -343,11 +405,17 @@ Also write to:
 - `apparatus.json` if it affects the structured apparatus
 - TEI note layer if a visible footnote is warranted
 
+Every such change must also record:
+
+- `evidence_basis`
+- `evidence_strength`
+
 Also require:
 
 - the active pass log to declare the bounded work slice that produced the change
 - `current-state.md` updated so `last_completed_phase` names the completed slice
 - a fresh `text_changed` event for the slice rather than silently expanding an older start event
+- unresolved or weak states preserved rather than silently collapsed if the evidence strength is less than strong
 
 If a TEI note is added:
 
@@ -361,6 +429,17 @@ Write to:
 
 - `unresolved-loci.md`
 - `timeline.json`
+
+Also record:
+
+- evidence basis
+- evidence strength
+- whether the uncertainty is:
+  - OCR noise
+  - witness damage
+  - structural ambiguity
+  - branch conflict
+  - insufficient comparison
 
 ### When a revision is published or extended
 

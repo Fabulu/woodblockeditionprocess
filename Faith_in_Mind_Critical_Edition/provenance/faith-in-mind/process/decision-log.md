@@ -144,3 +144,22 @@
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-017 2026-04-15 - Enforce strict four-engine compliance before editorial use of new scan witnesses
+
+- Decision: from this point forward, no new East Asian scan witness may influence correction, collation, or apparatus claims in any critical edition package until its four-engine status is recorded, and any sub-four-engine use must be marked provisional until the missing engine runs are logged
+- Why: the user explicitly required strict protocol compliance across all critical editions, and `T4` had already begun provisional comparison from only a RapidOCR pass
+- Evidence: `WORKFLOW.md`, `CRITICAL_EDITION_RECORDING_MATRIX.md`, and the recorded `T4` state in this package
+- Confidence: high
+- Actor type: `human`
+- Actor id: user
+- Execution actor: `agent`
+
+## D-018 2026-04-15 - Tighten authority, evidence-strength, and stage-separation rules from the evaluation pass
+
+- Decision: treat `current-state.md` as the authoritative resumability surface for this package, require explicit evidence basis plus evidence strength on non-trivial editorial actions, and forbid casual mixing of recon, transcription, collation, and edition stages
+- Why: the evaluation pass correctly identified that documentation drift, hidden certainty, and blurred stage boundaries are the fastest way for a process-rich edition to collapse back into AI slop
+- Evidence: `critical_edition_evaluation.md`, existing package drift at the live `T1-p032.l01` working-text locus, and the need to keep `T2` in OCR-compliance work rather than silently treating it as already comparison-ready
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + agent

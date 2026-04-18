@@ -79,6 +79,6 @@ T1-p077,,77,,ocr/T1/page-images/T1-p077.png,,commentary,commentary-dominant page
 T1-p078,,78,,ocr/T1/page-images/T1-p078.png,,commentary,commentary-dominant page with embedded poem lemma lines
 T1-p079,,79,,ocr/T1/page-images/T1-p079.png,,commentary,commentary-dominant page with embedded poem lemma lines
 T1-p080,,80,,ocr/T1/page-images/T1-p080.png,,commentary,closing commentary or wrap-up material
-T1-p081,,81,,ocr/T1/page-images/T1-p081.png,,blank,no OCR text in RapidOCR or PaddleOCR full-pass outputs
-T1-p082,,82,,ocr/T1/page-images/T1-p082.png,,blank,no OCR text in RapidOCR or PaddleOCR full-pass outputs
-T1-p083,,83,,ocr/T1/page-images/T1-p083.png,,blank,no OCR text in RapidOCR or PaddleOCR full-pass outputs
+T1-p081,,81,,ocr/T1/page-images/T1-p081.png,,other,handwritten non-Chinese tail material; not blank on visual inspection
+T1-p082,,82,,ocr/T1/page-images/T1-p082.png,,other,faint written tail matter visible; not blank on visual inspection
+T1-p083,,83,,ocr/T1/page-images/T1-p083.png,,blank,visually blank tail page

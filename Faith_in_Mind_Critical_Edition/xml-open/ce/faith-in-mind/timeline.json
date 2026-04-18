@@ -786,6 +786,2399 @@
         "reading_after": "但能如是何慮不畢",
         "current_phase": "manual_correction_pass_1_started"
       }
+    },
+    {
+      "event_id": "FIM-026",
+      "sequence": 26,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_probe",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Ran focused alternate-Tesseract closing probes on the unresolved `p076/p077` band.",
+      "details": "Additional `chi_tra` Tesseract probes with alternate page-segmentation settings were saved under `ocr/T1/ocr/tesseract-closing-probes/`, but they remained too noisy to resolve `T1-p076.l01` honestly, so no visible text change was made from this probe.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p076.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p077.png"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T1/ocr/tesseract-closing-probes/T1-p076-chi_tra-psm5.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/tesseract-closing-probes/T1-p076-chi_tra-psm11.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/tesseract-closing-probes/T1-p077-chi_tra-psm5.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/tesseract-closing-probes/T1-p077-chi_tra-psm11.txt"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "decision_ref": null,
+      "status": "completed"
+    },
+    {
+      "event_id": "FIM-027",
+      "sequence": 27,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Corrected the visually inspected `T1-p076.l01` closing-band lemma.",
+      "details": "Direct inspection of `page-images/T1-p076.png` showed the visible lemma as `若如是必不須守`, correcting OCR damage in the current working text.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p076.png"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "locus_id": "T1-p076.l01",
+        "change_kind": "visual_certainty_fix",
+        "reading_before": "若石如是必不酒守",
+        "reading_after": "若如是必不須守",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-028",
+      "sequence": 28,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Corrected the visually inspected `T1-p077.l01` after reversing an earlier OCR-only misassignment.",
+      "details": "Direct inspection of `page-images/T1-p077.png` showed the opening lemma as `一即一切一切即一`, so the earlier OCR-only correction to `但能如是何慮不畢` was replaced with the visibly correct reading.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p077.png"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "locus_id": "T1-p077.l01",
+        "change_kind": "visual_certainty_fix",
+        "reading_before": "但能如是何慮不畢",
+        "reading_after": "一即一切一切即一",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-029",
+      "sequence": 29,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_witness_entry",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Opened `T4` as the first comparison-control OCR package.",
+      "details": "The Kyoto `四部録` witness `T4` was opened in-package with initial OCR metadata and page-map scaffolding so the next pass can begin page-role review and OCR without staying blocked inside `T1` commentary prose.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00009461_Shiburoku/manifest.json",
+        "Faith_in_Mind_Kyoto_RB00009461_Shiburoku/images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T4/metadata.json",
+        "provenance/faith-in-mind/ocr/T4/page-map.csv"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed"
+    },
+    {
+      "event_id": "FIM-030",
+      "sequence": 30,
+      "timestamp": "2026-04-15",
+      "stage": "comparison_witness_prep",
+      "event_type": "transcription_state_changed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Declared the bounded `T4` comparison-control preparation slice.",
+      "details": "Before new `T4` work began, the package declared the bounded slice `comparison_control_slice_T4_page_roles_rapidocr_pass1` to cover `T4` page-role classification, a first RapidOCR pass, and synchronized updates to the process-state files.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/transcription/ocr-transcription-plan.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "current_slice": "comparison_control_slice_T4_page_roles_rapidocr_pass1",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-031",
+      "sequence": 31,
+      "timestamp": "2026-04-15",
+      "stage": "comparison_witness_prep",
+      "event_type": "transcription_state_changed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Completed the `T4` page-role classification pass.",
+      "details": "The page-role pass isolates `T4-p002` to `T4-p004` as the target `Faith in Mind` body, marks `T4-p001` and `T4-p028` as wrapper/title matter, treats `T4-p027` as colophon-like tail matter, and marks `T4-p005` to `T4-p026` as non-target anthology material.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00009461_Shiburoku/images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T4/page-map.csv"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "T4_target_body_span": "T4-p002 to T4-p004"
+      }
+    },
+    {
+      "event_id": "FIM-032",
+      "sequence": 32,
+      "timestamp": "2026-04-15",
+      "stage": "comparison_witness_prep",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Completed RapidOCR pass 1 across all `T4` page images.",
+      "details": "RapidOCR processed all 28 Kyoto image pages, extracted text on 25, and returned no text on `T4-p008`, `T4-p027`, and `T4-p028`. The first comparison-control witness now has a saved OCR corpus on disk.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00009461_Shiburoku/images/",
+        "provenance/faith-in-mind/ocr/T4/page-map.csv"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/run-summary.json"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "T4_rapidocr_pass_1_complete": true,
+        "last_completed_phase": "comparison_control_slice_T4_page_roles_rapidocr_pass1",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-033",
+      "sequence": 33,
+      "timestamp": "2026-04-15",
+      "stage": "comparison_pass_1",
+      "event_type": "transcription_state_changed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Declared the bounded `T4` vs `T1` comparison slice.",
+      "details": "Before locus-level comparison began, the package declared the bounded slice `comparison_slice_T4_body_vs_T1_lemma_spine` to compare the isolated `T4-p002` to `T4-p004` body span against the current `T1` recovered lemma spine, build the first comparison table, and refine unresolved loci only where `T4` gives clear support.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/ocr/T4/page-map.csv",
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/transcription/ocr-transcription-plan.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "current_slice": "comparison_slice_T4_body_vs_T1_lemma_spine",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-034",
+      "sequence": 34,
+      "timestamp": "2026-04-15",
+      "stage": "comparison_pass_1",
+      "event_type": "transcription_state_changed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Built the first `T4` vs `T1` comparison table.",
+      "details": "The first comparison table records broad `T4` support for the recovered `T1` lemma spine while making the comparison-supported open problems explicit instead of silently rewriting `T1`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T4/page-map.csv",
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/",
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "first_comparison_table_started": true,
+        "last_completed_phase": "comparison_slice_T4_body_vs_T1_lemma_spine",
+        "current_phase": "manual_correction_pass_1_started"
+      }
+    },
+    {
+      "event_id": "FIM-035",
+      "sequence": 35,
+      "timestamp": "2026-04-15",
+      "stage": "comparison_pass_1",
+      "event_type": "unresolved_locus_opened",
+      "object_type": "edition",
+      "object_id": "comparison_supported_T1_problem_loci",
+      "summary": "Opened the first `T4`-supported comparison problem loci explicitly.",
+      "details": "The unresolved register now explicitly names the `T1-p021/p022` gap, the `T1-p032` sequence problem, `T1-p047.l01`, `T1-p065.l01`, and the closing-sequence issue around `T1-p075` to `T1-p079` as comparison-supported open problems.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": null,
+      "status": "completed",
+      "state_effect": {
+        "comparison_supported_unresolved_loci": [
+          "gap_after_T1-p021.l01",
+          "T1-p032_sequence",
+          "T1-p047.l01",
+          "T1-p065.l01",
+          "closing_sequence_T1-p075_to_T1-p079"
+        ]
+      }
+    },
+    {
+      "event_id": "FIM-036",
+      "sequence": 36,
+      "timestamp": "2026-04-15",
+      "stage": "protocol_enforcement",
+      "event_type": "transcription_state_changed",
+      "object_type": "edition",
+      "object_id": "faith-in-mind",
+      "summary": "Applied strict four-engine compliance before stronger scan-witness editorial use.",
+      "details": "The active workflow now treats a new East Asian scan witness as editorially provisional until its four-engine status block is recorded. Existing `T4` comparison notes remain provisional until the missing engine statuses are logged.",
+      "actor_type": "human",
+      "actor_id": "user",
+      "inputs": [
+        "WORKFLOW.md",
+        "CRITICAL_EDITION_RECORDING_MATRIX.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/decision-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "strict_four_engine_compliance": true
+      }
+    },
+    {
+      "event_id": "FIM-037",
+      "sequence": 37,
+      "timestamp": "2026-04-15",
+      "stage": "ocr_compliance",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Completed full `tesseract` pass on `T4` with warnings logged.",
+      "details": "A full `T4` Tesseract pass is now saved under `ocr/T4/ocr/tesseract-full-pass/`. The run produced `.txt` outputs for all 28 pages and also emitted six scale warnings on very small fragments, which were preserved in the run summary instead of being hidden.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00009461_Shiburoku/images/",
+        "provenance/faith-in-mind/ocr/T1/tessdata/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T4/ocr/tesseract-full-pass/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/ocr/T4/ocr/tesseract-full-pass/run-summary.json"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "T4_tesseract_status": "full_pass_with_warnings"
+      }
+    },
+    {
+      "event_id": "FIM-038",
+      "sequence": 38,
+      "timestamp": "2026-04-15",
+      "stage": "ocr_compliance",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Completed `EasyOCR` calibration on `T4-p002`.",
+      "details": "The engine itself ran on `T4-p002`, but the first save attempt failed because the raw result payload included NumPy scalar values that were not JSON-serializable. The normalized rerun completed and saved a calibration slice under `ocr/T4/ocr/easyocr-calibration/`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00009461_Shiburoku/images/RB00009461_00002.jpg"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-calibration/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-calibration/run-summary.json"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "T4_easyocr_status": "calibration_only"
+      }
+    },
+    {
+      "event_id": "FIM-039",
+      "sequence": 39,
+      "timestamp": "2026-04-15",
+      "stage": "ocr_compliance",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Completed full `PaddleOCR PP-OCRv4` pass on `T4` and derived usable text support.",
+      "details": "The saved `T4` Paddle pass now covers all 28 pages under `ocr/T4/ocr/paddleocr-ppocrv4/`. As on `T1`, the raw Paddle `.txt` companions are not the reliable text layer on this machine, so recoverable text was derived from `res.rec_texts` into `extracted-text/`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00009461_Shiburoku/images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T4/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/T4/ocr/paddleocr-ppocrv4/extracted-text/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/ocr/T4/ocr/paddleocr-ppocrv4/run-summary-full.json"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "T4_paddle_status": "full_pass"
+      }
+    },
+    {
+      "event_id": "FIM-040",
+      "sequence": 40,
+      "timestamp": "2026-04-15",
+      "stage": "ocr_compliance",
+      "event_type": "transcription_state_changed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Recorded the full `T4` four-engine status block.",
+      "details": "The package now records `T4` as `RapidOCR` full pass, `tesseract` full pass with warnings, `PaddleOCR PP-OCRv4` full pass, and `EasyOCR` calibration-only. This satisfies the requirement to record all four engine statuses, while still keeping stronger editorial reliance provisional until `EasyOCR` is extended.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/run-summary.json",
+        "provenance/faith-in-mind/ocr/T4/ocr/tesseract-full-pass/run-summary.json",
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-calibration/run-summary.json",
+        "provenance/faith-in-mind/ocr/T4/ocr/paddleocr-ppocrv4/run-summary-full.json"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "T4_four_engine_status_recorded": true,
+        "T4_editorial_status": "provisional_pending_easyocr_extension"
+      }
+    },
+    {
+      "event_id": "FIM-041",
+      "sequence": 41,
+      "timestamp": "2026-04-15",
+      "stage": "ocr_compliance",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Completed full `EasyOCR` pass on `T4`.",
+      "details": "The full `EasyOCR` pass was resumed after an earlier timeout and now covers all 28 `T4` pages under `ocr/T4/ocr/easyocr-full-pass/`. `27` pages contain extracted text and only `T4-p028` is empty.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00009461_Shiburoku/images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-full-pass/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "T4_easyocr_status": "full_pass"
+      }
+    },
+    {
+      "event_id": "FIM-042",
+      "sequence": 42,
+      "timestamp": "2026-04-15",
+      "stage": "ocr_compliance",
+      "event_type": "transcription_state_changed",
+      "object_type": "witness",
+      "object_id": "T4",
+      "summary": "Cleared `T4` out of provisional engine-status state.",
+      "details": "With the `EasyOCR` full pass saved, `T4` now has full-pass OCR coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`. The witness is no longer provisional merely because of missing engine-status work.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/run-summary.json",
+        "provenance/faith-in-mind/ocr/T4/ocr/tesseract-full-pass/run-summary.json",
+        "provenance/faith-in-mind/ocr/T4/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "T4_editorial_status": "four_engine_full_pass_recorded"
+      }
+    },
+    {
+      "event_id": "FIM-043",
+      "sequence": 43,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Corrected `T1-p047.l01` and `T1-p065.l01` from the fully recorded `T4` comparison witness.",
+      "details": "The first post-compliance comparison-informed correction slice changed `T1-p047.l01` to `法無異法妄自愛著` and `T1-p065.l01` to `非思量處識情難測`. Both loci had already been logged as strong `T4` repair candidates and were accepted only after `T4` reached full-pass four-engine OCR status.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T4/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/T4/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-full-pass/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "resolved_loci": [
+          "T1-p047.l01",
+          "T1-p065.l01"
+        ],
+        "last_completed_phase": "comparison_informed_correction_slice_T1_p047_p065"
+      }
+    },
+    {
+      "event_id": "FIM-044",
+      "sequence": 44,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Supplied the missing line between `T1-p021.l01` and `T1-p022.l01` as stable inserted locus `T1-p021.l01a`.",
+      "details": "After `T4` reached full-pass four-engine OCR status, the previously open comparison-supported gap between `唯滯兩邊寧知一種` and `遣有沒有從空背空` was supplied in the working text as `T1-p021.l01a` with reading `一種不通兩處失功`. The insertion was recorded explicitly rather than by silently renumbering downstream loci.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/T4-p002.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/tesseract-full-pass/T4-p002.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/paddleocr-ppocrv4/extracted-text/T4-p002.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-full-pass/T4-p002.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "resolved_loci": [
+          "gap_between_T1-p021.l01_and_T1-p022.l01"
+        ],
+        "inserted_locus": "T1-p021.l01a",
+        "last_completed_phase": "comparison_informed_correction_slice_T1_p021_gap"
+      }
+    },
+    {
+      "event_id": "FIM-045",
+      "sequence": 45,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Repaired the `T1-p031/T1-p032` poem sequence from the fully recorded `T4` comparison witness.",
+      "details": "The mid-band sequence issue was resolved by correcting `T1-p031.l03` to `二由一有一亦莫守` and `T1-p032.l01` to `一心不生萬法無咎`, restoring the sequence immediately before the already corrected `無咎無法不生不心`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/T4-p003.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/tesseract-full-pass/T4-p003.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/paddleocr-ppocrv4/extracted-text/T4-p003.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-full-pass/T4-p003.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "resolved_loci": [
+          "T1-p031.l03",
+          "T1-p032.l01"
+        ],
+        "last_completed_phase": "comparison_informed_correction_slice_T1_p031_p032"
+      }
+    },
+    {
+      "event_id": "FIM-046",
+      "sequence": 46,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Supplied the missing closing locus after `T1-p077.l01` as `T1-p077.l01a`.",
+      "details": "The current `T1` close lacked a separate corresponding locus for `但能如是何慮不畢`, which `T4-p004` preserves between `一即一切一切即一` and `信心不二不二信心`. The working text now records that line as stable inserted locus `T1-p077.l01a` while leaving the earlier `T1-p075/T1-p076` branch tension open.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/T4-p004.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/tesseract-full-pass/T4-p004.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/paddleocr-ppocrv4/extracted-text/T4-p004.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-full-pass/T4-p004.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "inserted_locus": "T1-p077.l01a",
+        "closing_gap_supplied": true,
+        "last_completed_phase": "comparison_informed_correction_slice_T1_p077_closing_gap"
+      }
+    },
+    {
+      "event_id": "FIM-047",
+      "sequence": 47,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_changed",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Rolled back the false poem certainty at `T1-p075.l01` after direct image review.",
+      "details": "The earlier correction of `T1-p075.l01` to `若不如此必不須守` was removed after direct review of `page-images/T1-p075.png` and the saved `T1` OCR support showed commentary material at that locus instead of a secure closing lemma. The closing-band problem is now framed as omission-versus-substitution before `T1-p076.l01 = 若如是必不須守`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p075.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p075.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p075.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p075.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "rolled_back_locus": "T1-p075.l01",
+        "last_completed_phase": "visual_decertainty_slice_T1_p075"
+      }
+    },
+    {
+      "event_id": "FIM-048",
+      "sequence": 48,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "state_refined",
+      "object_type": "witness",
+      "object_id": "T1",
+      "summary": "Closed the remaining `T1-p075/T1-p076` closing-band issue as omission rather than substitution.",
+      "details": "The package now records that `T1-p075` remains commentary material while `T1-p076.l01 = è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ` is visually secure. `T4` supports the broader transmitted close, but there is no positive `T1` evidence for restoring `è‹¥ä¸å¦‚æ­¤å¿…ä¸é ˆå®ˆ` on the previous page, so the branch question is resolved as omission in this witness.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p075.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p076.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p075.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p075.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p075.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/T4-p004.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/tesseract-full-pass/T4-p004.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/paddleocr-ppocrv4/extracted-text/T4-p004.txt",
+        "provenance/faith-in-mind/ocr/T4/ocr/easyocr-full-pass/T4-p004.txt"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "resolved_loci": [
+          "closing_sequence_T1-p075_to_T1-p079"
+        ],
+        "last_completed_phase": "closing_omission_judgment_slice_T1_p075_p079",
+        "last_text_changed_event": "FIM-047"
+      }
+    },
+    {
+      "event_id": "FIM-049",
+      "sequence": 49,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "T5",
+      "summary": "Opened `T5` as the second comparison-control OCR package and classified its page roles.",
+      "details": "Created in-package `ocr/T5/metadata.json` and `ocr/T5/page-map.csv` from the Kyoto `RB00012929` image set. The target `Faith in Mind` span is confined to `T5-p004` through `T5-p006`, with wrapper material on `T5-p001` through `T5-p003`, non-target anthology material on `T5-p007` through `T5-p028`, and rear wrapper matter on `T5-p029`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/manifest.json",
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/RB00012929_00001.jpg",
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/RB00012929_00004.jpg",
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/RB00012929_00006.jpg",
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/RB00012929_00029.jpg"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T5/metadata.json",
+        "provenance/faith-in-mind/ocr/T5/page-map.csv"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "witness_opened": "T5",
+        "last_completed_phase": "comparison_control_slice_T5_page_roles"
+      }
+    },
+    {
+      "event_id": "FIM-050",
+      "sequence": 50,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "T5",
+      "summary": "Completed the full `RapidOCR` pass on `T5`.",
+      "details": "Ran `RapidOCR` across all 29 `T5` source images and saved page-level `.json` and `.txt` outputs under `ocr/T5/ocr/rapidocr/`. `25` pages contained text and `4` pages returned no text: `T5-p014`, `T5-p015`, `T5-p027`, and `T5-p029`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T5/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T5/ocr/rapidocr/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "T5_rapidocr_pass_complete": true,
+        "last_completed_phase": "comparison_control_slice_T5_rapidocr"
+      }
+    },
+    {
+      "event_id": "FIM-051",
+      "sequence": 51,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "T5",
+      "summary": "Completed the full `tesseract` pass on `T5` with warnings logged.",
+      "details": "Ran `tesseract` with witness-local `chi_tra` traineddata across all 29 `T5` images and saved `.txt` outputs under `ocr/T5/ocr/tesseract-full-pass/`. The run completed without page failures, but `28` pages emitted scale warnings on very small fragments.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/",
+        "provenance/faith-in-mind/ocr/T1/tessdata/chi_tra.traineddata"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T5/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/T5/ocr/tesseract-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "T5_tesseract_pass_complete": true,
+        "last_completed_phase": "comparison_control_slice_T5_tesseract"
+      }
+    },
+    {
+      "event_id": "FIM-052",
+      "sequence": 52,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "T5",
+      "summary": "Completed the full `PaddleOCR PP-OCRv4` pass on `T5` and derived usable text support.",
+      "details": "Ran the established machine-local `PP-OCRv4` path across all 29 `T5` images and saved page-level JSON outputs under `ocr/T5/ocr/paddleocr-ppocrv4/`. As on `T1` and `T4`, the recoverable text layer was derived from `res.rec_texts` into `ocr/T5/ocr/paddleocr-ppocrv4/extracted-text/` because the raw saved Paddle `.txt` companions are not the trustworthy text layer on this machine.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/",
+        "provenance/faith-in-mind/ocr/T5/ocr/paddleocr-ppocrv4/run_full_pass.py"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T5/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/T5/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/T5/ocr/paddleocr-ppocrv4/extracted-text/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "T5_paddle_pass_complete": true,
+        "last_completed_phase": "comparison_control_slice_T5_paddle"
+      }
+    },
+    {
+      "event_id": "FIM-053",
+      "sequence": 53,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "T5",
+      "summary": "Completed the full `EasyOCR` pass on `T5` after normalizing the serializer path.",
+      "details": "The first `EasyOCR` save attempt failed on NumPy `int32` serialization before any page outputs landed. The normalized serializer was then used for a successful full pass across all 29 `T5` images under `ocr/T5/ocr/easyocr-full-pass/`. `28` pages contained text and only `T5-p029` was empty.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T5/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/T5/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "T5_easyocr_pass_complete": true,
+        "last_completed_phase": "comparison_control_slice_T5_easyocr"
+      }
+    },
+    {
+      "event_id": "FIM-054",
+      "sequence": 54,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "state_refined",
+      "object_type": "witness",
+      "object_id": "T5",
+      "summary": "Recorded `T5` as full-pass compliant across all four OCR engines.",
+      "details": "The package now records `T5` as having full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` coverage on disk, with the target body span isolated to `T5-p004` through `T5-p006`. `T5` is no longer a queued comparison control; it is ready for bounded comparison use.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T5/ocr/rapidocr/run-summary.json",
+        "provenance/faith-in-mind/ocr/T5/ocr/tesseract-full-pass/run-summary.json",
+        "provenance/faith-in-mind/ocr/T5/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/T5/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/ocr/T5/metadata.json",
+        "provenance/faith-in-mind/ocr/T5/page-map.csv"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "resolved_loci": [],
+        "last_completed_phase": "comparison_control_slice_T5_four_engine_opening",
+        "last_text_changed_event": "FIM-047"
+      }
+    },
+    {
+      "event_id": "FIM-055",
+      "sequence": 55,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "text_corrected",
+      "object_type": "transcription",
+      "object_id": "T1-p032.l01",
+      "summary": "Restored the corrupted live `T1-p032.l01` line to the already logged accepted reading.",
+      "details": "The correction log, unresolved register, and comparison table already agreed on `ä¸€å¿ƒä¸ç”Ÿè¬æ³•ç„¡å’Ž` at `T1-p032.l01`, but the working file had drifted into eight literal question marks. The live transcription was repaired to match the already accepted package state before further comparison conclusions were recorded.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "resolved_loci": [],
+        "last_completed_phase": "comparison_slice_T5_body_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-056",
+      "sequence": 56,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "T5",
+      "summary": "Completed the first bounded `T5` confirmation slice against the recovered `T1` lemma spine.",
+      "details": "Direct image review of `T5-p004` through `T5-p006`, checked against the saved four-engine OCR stack, broadly confirms the recovered `T1` poem spine from opening through close, including the already resolved `T4`-supported repairs. This slice exposed no new high-confidence repair locus and leaves `T5` as corroborative comparison support rather than a source of fresh forced changes.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T5/page-map.csv",
+        "provenance/faith-in-mind/ocr/T5/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T5/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/T5/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/T5/ocr/easyocr-full-pass/",
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/RB00012929_00004.jpg",
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/RB00012929_00005.jpg",
+        "Faith_in_Mind_Kyoto_RB00012929_Shiburoku/images/RB00012929_00006.jpg"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "resolved_loci": [],
+        "last_completed_phase": "comparison_slice_T5_body_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-057",
+      "sequence": 57,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "T2",
+      "summary": "Opened `T2` from the locked NDL PDF package and completed its page-role pass.",
+      "details": "Rendered the `28`-page `Sengcan_Faith_in_Mind_NDL_Shibulu/NDL2537640_shiburoku.pdf` witness into in-package `ocr/T2/page-images/`, created `ocr/T2/metadata.json`, and classified `T2-p003` through `T2-p005` as the target `Faith in Mind` body span. `T2-p001` and `T2-p002` are wrapper or title matter, `T2-p006` is immediate post-text colophon or imprint matter, `T2-p007` through `T2-p027` are non-target anthology material, and `T2-p028` is rear wrapper matter.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Sengcan_Faith_in_Mind_NDL_Shibulu/NDL2537640_shiburoku.pdf"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T2/metadata.json",
+        "provenance/faith-in-mind/ocr/T2/page-map.csv",
+        "provenance/faith-in-mind/ocr/T2/page-images/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_T2_page_roles"
+      }
+    },
+    {
+      "event_id": "FIM-058",
+      "sequence": 58,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "T2",
+      "summary": "Completed the first full `RapidOCR` pass on `T2` using explicitly logged OCR-input derivatives.",
+      "details": "The full-resolution rendered `T2` PNG pages exceeded PIL decompression-bomb limits on this workstation before `RapidOCR` could begin, so a separate `ocr/T2/ocr-input-120dpi/` JPEG derivative set was created and logged as the engine input basis. `RapidOCR` then processed all `28` pages successfully, returned text on all `28`, and recorded no errors.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T2/ocr-input-120dpi/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T2/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T2/ocr/rapidocr/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_T2_page_roles_rapidocr_pass1",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-059",
+      "sequence": 59,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "T2",
+      "summary": "Completed the full `tesseract` pass on `T2` using the same logged OCR-input derivatives.",
+      "details": "The `T2` `tesseract` pass used the same `ocr/T2/ocr-input-120dpi/` derivative basis already logged for `RapidOCR`, together with the witness-local `chi_tra` model path under `ocr/T1/tessdata/`. The run exceeded shell timeouts during the first long attempt and had to be resumed, but the saved outputs now cover all `28` pages. All `28` pages returned text and only `T2-p027` emitted the familiar tiny-fragment scale warnings.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T2/ocr-input-120dpi/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T2/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/T2/ocr/tesseract-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-017",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_T2_tesseract_full_pass",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-060",
+      "sequence": 60,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "state_refined",
+      "object_type": "process",
+      "object_id": "faith-in-mind",
+      "summary": "Adopted evaluation-driven authority, evidence-strength, and stage-separation safeguards for the package.",
+      "details": "After reading `critical_edition_evaluation.md`, the package explicitly adopted three tightening rules: `current-state.md` is the authoritative resumability surface when package logs disagree, non-trivial editorial actions must carry explicit evidence basis plus evidence strength, and recon / transcription / collation / edition stages must not be mixed casually. The governing repo docs and this package decision layer were updated before further `T2` OCR-compliance work continued.",
+      "actor_type": "hybrid",
+      "actor_id": "user + assistant",
+      "inputs": [
+        "critical_edition_evaluation.md",
+        "provenance/faith-in-mind/process/decision-log.md"
+      ],
+      "outputs": [
+        "CRITICAL_EDITION_ENTRYPOINT.md",
+        "CRITICAL_EDITION_RECORDING_MATRIX.md",
+        "STANDARD_TRANSCRIPTION_WORKFLOW.md",
+        "provenance/faith-in-mind/process/decision-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "governance_tightening_from_evaluation",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-061",
+      "sequence": 61,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "T2",
+      "summary": "Completed the full `PaddleOCR PP-OCRv4` pass on `T2` and derived the usable text layer.",
+      "details": "The `T2` Paddle pass used the same logged `ocr/T2/ocr-input-120dpi/` derivative basis already established for the other OCR engines. All `28` pages completed successfully under `ocr/T2/ocr/paddleocr-ppocrv4/`. As on earlier witnesses, the raw saved Paddle `.txt` companions were not the stable text surface on this machine, so the recoverable text was derived from saved JSON into `ocr/T2/ocr/paddleocr-ppocrv4/extracted-text/`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T2/ocr-input-120dpi/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T2/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/T2/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/T2/ocr/paddleocr-ppocrv4/extracted-text/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_T2_paddle",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-062",
+      "sequence": 62,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "T2",
+      "summary": "Completed the full `EasyOCR` pass on `T2` using the same logged OCR-input derivatives.",
+      "details": "The `T2` EasyOCR pass used the same `ocr/T2/ocr-input-120dpi/` derivative basis already logged for the other engines. The first long run exceeded the shell timeout and had to be resumed, but the saved outputs now cover all `28` pages under `ocr/T2/ocr/easyocr-full-pass/`. All `28` pages returned text and no saved engine errors remain.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T2/ocr-input-120dpi/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T2/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/T2/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_T2_four_engine_compliance",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-063",
+      "sequence": 63,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "T2",
+      "summary": "Completed the first bounded `T2` confirmation slice against the recovered `T1` lemma spine.",
+      "details": "Direct image review of `T2-p003` through `T2-p005`, checked against the saved four-engine OCR stack on the explicitly logged `ocr-input-120dpi/` derivative basis, broadly confirms the recovered `T1` poem spine from opening through close, including the already resolved `T4`-supported repairs. This slice exposed no new high-confidence repair locus and leaves `T2` as corroborative comparison support rather than a source of fresh forced changes.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T2/page-map.csv",
+        "provenance/faith-in-mind/ocr/T2/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T2/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/T2/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/T2/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/T2/page-images/_jpg_preview/T2-p003.jpg",
+        "provenance/faith-in-mind/ocr/T2/page-images/_jpg_preview/T2-p004.jpg",
+        "provenance/faith-in-mind/ocr/T2/page-images/_jpg_preview/T2-p005.jpg"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_slice_T2_body_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-064",
+      "sequence": 64,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "T3",
+      "summary": "Opened `T3` as the next comparison-control witness and classified its late anthology body span.",
+      "details": "The locked Kyoto `入衆日用` witness under `Faith_in_Mind_Sengcan_Kyoto_RB00016909` has now been opened in-package with `ocr/T3/metadata.json` and `ocr/T3/page-map.csv`. Visual review showed that the actual `Faith in Mind` body is delayed inside the anthology and occupies only `T3-p034` through `T3-p036`, with wrapper or title matter on `T3-p001` to `T3-p003` and `T3-p040` to `T3-p041`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Sengcan_Kyoto_RB00016909/manifest.json",
+        "Faith_in_Mind_Sengcan_Kyoto_RB00016909/images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T3/metadata.json",
+        "provenance/faith-in-mind/ocr/T3/page-map.csv"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_T3_opening",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-065",
+      "sequence": 65,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "T3",
+      "summary": "Completed full four-engine OCR coverage on `T3` and derived the usable Paddle support layer.",
+      "details": "The `T3` witness now has full-pass saved outputs from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`. `RapidOCR` returned text on `39` of `41` pages, `EasyOCR` on `40` of `41`, and `tesseract` on all `41` while still emitting the familiar small-fragment scale warnings. The usable Paddle support was derived from saved JSON into `ocr/T3/ocr/paddleocr-ppocrv4/extracted-text/` because the recoverable text was stored under nested `res.rec_texts` and the raw saved `.txt` companions were not the stable text surface on this machine.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Sengcan_Kyoto_RB00016909/images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/T3/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T3/ocr/rapidocr/run-summary.json",
+        "provenance/faith-in-mind/ocr/T3/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/T3/ocr/tesseract-full-pass/run-summary.json",
+        "provenance/faith-in-mind/ocr/T3/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/T3/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/T3/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/T3/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/T3/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_T3_four_engine_compliance",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-066",
+      "sequence": 66,
+      "timestamp": "2026-04-15",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "T3",
+      "summary": "Completed the first bounded `T3` confirmation slice against the recovered `T1` lemma spine.",
+      "details": "Direct image review of `T3-p034` through `T3-p036`, checked against the saved four-engine OCR stack on the source-image basis, broadly confirms the recovered `T1` poem spine from opening through close and especially strengthens the already logged omission judgment at `T1-p075` because `T3` clearly preserves the standard `若不如此必不須守` line before `若如是必不須守`. This slice exposed no new high-confidence repair locus beyond what `T4` had already justified.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/T3/page-map.csv",
+        "provenance/faith-in-mind/ocr/T3/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T3/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/T3/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/T3/ocr/easyocr-full-pass/",
+        "Faith_in_Mind_Sengcan_Kyoto_RB00016909/images/RB00016909_00034.jpg",
+        "Faith_in_Mind_Sengcan_Kyoto_RB00016909/images/RB00016909_00035.jpg",
+        "Faith_in_Mind_Sengcan_Kyoto_RB00016909/images/RB00016909_00036.jpg"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_slice_T3_body_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-067",
+      "sequence": 67,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "A1",
+      "summary": "Opened `A1` from the locked Waseda PDF package and classified its early anthology body span.",
+      "details": "The locked Waseda `Shiburoku` witness under `Faith_in_Mind_Waseda_Commons/WUL-bunko31_e1087_shiburoku.pdf` has now been rendered in-package with `ocr/A1/page-images/`, `ocr/A1/metadata.json`, and `ocr/A1/page-map.csv`. Visual review showed that the actual `Faith in Mind` body occupies only `A1-p003` through `A1-p008`, with wrapper or title matter on `A1-p001` to `A1-p002`, later anthology material on `A1-p009` to `A1-p041`, and rear wrapper or closing tail matter on `A1-p042`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Waseda_Commons/WUL-bunko31_e1087_shiburoku.pdf"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/A1/metadata.json",
+        "provenance/faith-in-mind/ocr/A1/page-map.csv",
+        "provenance/faith-in-mind/ocr/A1/page-images/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_A1_opening",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-068",
+      "sequence": 68,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "A1",
+      "summary": "Completed full four-engine OCR coverage on `A1` and derived the usable Paddle support layer.",
+      "details": "The `A1` witness now has full-pass saved outputs from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`. `RapidOCR` returned text on `37` of `42` pages and left `A1-p022`, `A1-p025`, `A1-p028`, `A1-p036`, and `A1-p042` empty, while `EasyOCR` returned text on `41` of `42` pages and left only `A1-p042` empty. `tesseract` returned text on all `42` pages while still emitting the familiar small-fragment scale warnings. The usable Paddle support was derived from saved JSON into `ocr/A1/ocr/paddleocr-ppocrv4/extracted-text/` because the raw saved `.txt` companions were not the stable text surface on this machine.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Waseda_Commons/WUL-bunko31_e1087_shiburoku.pdf",
+        "provenance/faith-in-mind/ocr/A1/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/A1/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/A1/ocr/rapidocr/run-summary.json",
+        "provenance/faith-in-mind/ocr/A1/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/A1/ocr/tesseract-full-pass/run-summary.json",
+        "provenance/faith-in-mind/ocr/A1/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/A1/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/A1/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/A1/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/A1/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_A1_four_engine_compliance",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-069",
+      "sequence": 69,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "A1",
+      "summary": "Completed the first bounded `A1` confirmation slice against the recovered `T1` lemma spine.",
+      "details": "Direct image review of `A1-p003` through `A1-p006`, with `A1-p007` through `A1-p008` treated as immediate post-close or appended explanatory matter on the same target leaves, broadly confirms the recovered `T1` poem spine from opening through close. `A1` especially strengthens the already logged omission judgment at `T1-p075` because `A1-p006` clearly preserves the standard closing line `若不如是必不須守` before visible `若如是必不須守`. This slice exposed no new high-confidence repair locus beyond what `T4` had already justified.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/A1/page-map.csv",
+        "provenance/faith-in-mind/ocr/A1/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/A1/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/A1/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/A1/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/A1/page-images/A1-p003.png",
+        "provenance/faith-in-mind/ocr/A1/page-images/A1-p004.png",
+        "provenance/faith-in-mind/ocr/A1/page-images/A1-p005.png",
+        "provenance/faith-in-mind/ocr/A1/page-images/A1-p006.png"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_slice_A1_body_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-070",
+      "sequence": 70,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "A2",
+      "summary": "Opened `A2` from the locked Waseda derivative PDF package and classified its long body span.",
+      "details": "The locked Waseda `四部録抄` witness under `Faith_in_Mind_Waseda_Commons/WUL-bunko31_e1089_shiburokushou.pdf` has now been rendered in-package with `ocr/A2/page-images/`, `ocr/A2/metadata.json`, and `ocr/A2/page-map.csv`. Visual review showed that the derivative body begins immediately on `A2-p002` and continues through `A2-p044`, with front wrapper matter on `A2-p001`, colophon-like tail matter on `A2-p045`, and rear wrapper matter on `A2-p046`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Waseda_Commons/WUL-bunko31_e1089_shiburokushou.pdf"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/A2/metadata.json",
+        "provenance/faith-in-mind/ocr/A2/page-map.csv",
+        "provenance/faith-in-mind/ocr/A2/page-images/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_A2_opening",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-071",
+      "sequence": 71,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "A2",
+      "summary": "Completed full four-engine OCR coverage on `A2` and derived the usable Paddle support layer.",
+      "details": "The `A2` witness now has full-pass saved outputs from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`. The final clean `RapidOCR` rerun returned text on `44` of `46` pages and left only `A2-p045` and `A2-p046` empty after an earlier timed-out summary write was superseded. `tesseract` returned text on all `46` pages while still emitting the familiar small-fragment scale warnings. `PaddleOCR PP-OCRv4` completed across all `46` pages, and the usable Paddle support was derived from saved JSON into `ocr/A2/ocr/paddleocr-ppocrv4/extracted-text/` because the raw saved `.txt` companions were not the stable text surface on this machine. `EasyOCR` completed after a resumable two-pass closeout and returned text on `45` of `46` pages, with only `A2-p046` recorded as no-text in the saved summary.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Waseda_Commons/WUL-bunko31_e1089_shiburokushou.pdf",
+        "provenance/faith-in-mind/ocr/A2/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/A2/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/A2/ocr/rapidocr/run-summary.json",
+        "provenance/faith-in-mind/ocr/A2/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/A2/ocr/tesseract-full-pass/run-summary.json",
+        "provenance/faith-in-mind/ocr/A2/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/A2/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/A2/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/A2/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/A2/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_A2_four_engine_compliance",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-072",
+      "sequence": 72,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "A2",
+      "summary": "Completed the first bounded representative `A2` confirmation slice against the recovered `T1` lemma spine.",
+      "details": "Direct image review of representative `A2` leaves including `A2-p002`, `A2-p003`, `A2-p010`, `A2-p020`, `A2-p030`, and `A2-p038`, checked against the saved four-engine OCR stack, shows that `A2` broadly preserves the recovered `T1` opening, early-band, and later representative lemma spine inside a long derivative commentary run. `A2` supports the already supplied `T1-p021.l01a` and aligns with the established recovered sequence at the inspected loci, but it exposes no new high-confidence repair locus beyond what `T4` had already justified. Because `A2` is commentary-heavy and its poem evidence is distributed through embedded lemmata, this first slice is representative rather than an exhaustive leaf-by-leaf closure of the full `A2` body span.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/A2/page-map.csv",
+        "provenance/faith-in-mind/ocr/A2/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/A2/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/A2/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/A2/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/A2/page-images/A2-p002.png",
+        "provenance/faith-in-mind/ocr/A2/page-images/A2-p003.png",
+        "provenance/faith-in-mind/ocr/A2/page-images/A2-p010.png",
+        "provenance/faith-in-mind/ocr/A2/page-images/A2-p020.png",
+        "provenance/faith-in-mind/ocr/A2/page-images/A2-p030.png",
+        "provenance/faith-in-mind/ocr/A2/page-images/A2-p038.png"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_slice_A2_representative_body_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-073",
+      "sequence": 73,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "A3",
+      "summary": "Opened `A3` from the locked browser-fixed NDL derivative PDF package and classified its target body span.",
+      "details": "The locked browser-fixed NDL `四部録抄` witness under `Faith_in_Mind_NDL_Shiburokushou/NDL2537799_shiburokushou.pdf` has now been rendered in-package with `ocr/A3/page-images/`, `ocr/A3/metadata.json`, and `ocr/A3/page-map.csv`. Direct page review showed that the target Faith in Mind derivative body begins on `A3-p003`, closes visibly on `A3-p011`, and is followed by later anthology material from `A3-p012` onward, with wrapper matter on `A3-p001` to `A3-p002`, colophon-like tail matter on `A3-p055`, and rear wrapper matter on `A3-p056` to `A3-p057`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_NDL_Shiburokushou/NDL2537799_shiburokushou.pdf"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/A3/metadata.json",
+        "provenance/faith-in-mind/ocr/A3/page-map.csv",
+        "provenance/faith-in-mind/ocr/A3/page-images/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_A3_opening",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-074",
+      "sequence": 74,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "A3",
+      "summary": "Completed full four-engine OCR coverage on `A3` and derived the usable Paddle support layer.",
+      "details": "Because the rendered `A3` `200` DPI PNG pages were too large for practical full-res OCR on this workstation (`13471x12300`), the saved `A3` OCR passes use explicitly logged `ocr/A3/ocr-input-120dpi/` JPEG derivatives as input. `RapidOCR` completed on all `57` pages with text on every page. `tesseract` completed on all `57` derivative pages and returned text on every page while still emitting the familiar dense small-fragment scale warnings. `PaddleOCR PP-OCRv4` completed across all `57` pages, and the usable Paddle support was derived from saved JSON into `ocr/A3/ocr/paddleocr-ppocrv4/extracted-text/` because the raw saved `.txt` companions were not the stable text surface on this machine. `EasyOCR` completed after a resumable two-pass closeout and returned text on all `57` pages.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_NDL_Shiburokushou/NDL2537799_shiburokushou.pdf",
+        "provenance/faith-in-mind/ocr/A3/ocr-input-120dpi/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/A3/ocr-input-120dpi/",
+        "provenance/faith-in-mind/ocr/A3/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/A3/ocr/rapidocr/run-summary.json",
+        "provenance/faith-in-mind/ocr/A3/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/A3/ocr/tesseract-full-pass/run-summary.json",
+        "provenance/faith-in-mind/ocr/A3/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/A3/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/A3/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/A3/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/A3/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_A3_four_engine_compliance",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-075",
+      "sequence": 75,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "A3",
+      "summary": "Completed the first bounded representative `A3` confirmation slice against the recovered `T1` lemma spine.",
+      "details": "Direct page review of representative `A3` leaves across the isolated `A3-p003` to `A3-p011` target span, checked against the saved four-engine OCR stack on the explicitly logged `ocr-input-120dpi/` derivative basis, shows that `A3` broadly preserves the recovered `T1` lemma spine as a derivative corroborative witness rather than a decisive repair witness. Its strongest immediate value is additional support for the already logged omission judgment at `T1-p075`, because the visible close on `A3-p011` aligns with the standard transmitted ending before the volume turns to later anthology material on `A3-p012`. This slice exposed no new high-confidence repair locus beyond what `T4` had already justified.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/A3/page-map.csv",
+        "provenance/faith-in-mind/ocr/A3/ocr-input-120dpi/",
+        "provenance/faith-in-mind/ocr/A3/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/A3/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/A3/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/A3/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/A3/page-images/A3-p003.png",
+        "provenance/faith-in-mind/ocr/A3/page-images/A3-p011.png"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_slice_A3_representative_body_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-076",
+      "sequence": 76,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "C1",
+      "summary": "Opened `C1` from the locked translation anthology PDF package and classified the `信心銘和譯` target span.",
+      "details": "The locked `在家曹洞宗聖典` witness under `Faith_in_Mind_Translations_NDL/NDL906534_zaike_sotoshu_seiten.pdf` has now been rendered in-package with `ocr/C1/page-images/`, `ocr/C1/metadata.json`, and `ocr/C1/page-map.csv`. Direct page review of the contents page showed that `信心銘和譯` begins at internal page `90`, and because internal pagination begins at PDF page `6`, the actual target span lands on PDF pages `51-52`. `C1-p051` to `C1-p052` are therefore the isolated Faith in Mind translation-control span, while `C1-p053` has already moved into `證道歌和譯`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Translations_NDL/NDL906534_zaike_sotoshu_seiten.pdf"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C1/metadata.json",
+        "provenance/faith-in-mind/ocr/C1/page-map.csv",
+        "provenance/faith-in-mind/ocr/C1/page-images/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C1_opening",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-077",
+      "sequence": 77,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_completed",
+      "object_type": "witness",
+      "object_id": "C1",
+      "summary": "Completed full four-engine OCR coverage on `C1` and derived the usable Paddle support layer.",
+      "details": "The `C1` translation or reception control witness now has full-pass saved outputs from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` on the direct rendered `page-images/` basis. `RapidOCR` returned text on `71` of `76` pages and left `C1-p002`, `C1-p074`, `C1-p075`, and `C1-p076` empty. `tesseract` returned text on `75` of `76` pages while still emitting the familiar small-fragment scale warnings. `PaddleOCR PP-OCRv4` completed across all `76` pages, and the usable Paddle support was derived from saved JSON into `ocr/C1/ocr/paddleocr-ppocrv4/extracted-text/` because the raw saved `.txt` companions were not the stable text surface on this machine. `EasyOCR` completed after a resumable targeted closeout and returned text on `73` of `76` pages, with `C1-p002`, `C1-p074`, and `C1-p075` recorded as no-text in the saved summary.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Translations_NDL/NDL906534_zaike_sotoshu_seiten.pdf",
+        "provenance/faith-in-mind/ocr/C1/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C1/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C1/ocr/rapidocr/run-summary.json",
+        "provenance/faith-in-mind/ocr/C1/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C1/ocr/tesseract-full-pass/run-summary.json",
+        "provenance/faith-in-mind/ocr/C1/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/C1/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/C1/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C1/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/C1/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C1_four_engine_compliance",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-078",
+      "sequence": 78,
+      "timestamp": "2026-04-16",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "C1",
+      "summary": "Completed the first bounded `C1` translation-control confirmation slice against the recovered `T1` lemma spine.",
+      "details": "Direct image review of `C1-p051` to `C1-p052`, checked against the saved four-engine OCR stack, shows that `C1` preserves the broad transmitted poem order and the standard close inside a Japanese `信心銘和譯` reception frame. The witness clearly carries the familiar ending with `信心不二`, `不二信心`, `言語道斷`, and `非去來今`, but because it is a translation or reception control rather than a clean standalone Chinese text, it does not expose a new high-confidence repair locus beyond the already resolved `T4`-supported set.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C1/page-map.csv",
+        "provenance/faith-in-mind/ocr/C1/page-images/C1-p051.png",
+        "provenance/faith-in-mind/ocr/C1/page-images/C1-p052.png",
+        "provenance/faith-in-mind/ocr/C1/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C1/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C1/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C1/ocr/easyocr-full-pass/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_slice_C1_translation_control_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-079",
+      "sequence": 79,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "C2",
+      "summary": "Opened `C2` from the locked translation anthology PDF package and classified the `三祖大師信心銘` target span.",
+      "details": "The locked `禪門曹洞宗典 part3` witness under `Faith_in_Mind_Translations_NDL/NDL961952_zenmon_sotoshuten_part3.pdf` has now been rendered in-package with `ocr/C2/page-images/`, `ocr/C2/metadata.json`, and `ocr/C2/page-map.csv`. Because the local PDF begins mid-volume and exposes no searchable text layer, the target span was isolated by direct page review of the rendered images rather than by text extraction. `C2-p020` is the divider for `第七 支那諷詠部`, `C2-p021` opens `三祖大師信心銘` on the left page while the facing right page still carries section explanation, `C2-p022` is a full continuation spread of the target text, and `C2-p023` carries `三祖信心銘終` on the right page while the facing left page has already moved into `洞山大師玄中銘`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_Translations_NDL/NDL961952_zenmon_sotoshuten_part3.pdf"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C2/metadata.json",
+        "provenance/faith-in-mind/ocr/C2/page-map.csv",
+        "provenance/faith-in-mind/ocr/C2/page-images/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C2_opening",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-080",
+      "sequence": 80,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C2",
+      "summary": "Completed the first full RapidOCR pass across the rendered C2 page images.",
+      "details": "RapidOCR outputs are now saved under `ocr/C2/ocr/rapidocr/` for all `100` rendered `C2` pages. The first long run hit shell timeout before witness closeout, a resumed witness-local runner completed the remaining pages, and the saved summary was then repaired to include already written `C2-p018` so the accepted run state matches the files actually present on disk.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C2/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C2/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C2/ocr/rapidocr/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C2_rapidocr_pass1",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-081",
+      "sequence": 81,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C2",
+      "summary": "Completed the full Tesseract pass across the rendered C2 page images.",
+      "details": "Tesseract outputs are now saved under `ocr/C2/ocr/tesseract-full-pass/` for all `100` rendered `C2` pages using the witness-local `chi_tra` model path under `ocr/T1/tessdata/`. The first long run exceeded the one-hour shell timeout at `97/100` saved page outputs, but the resumed closeout completed the remaining pages without restart. All `100` pages now return text, no error pages remain, and the run carries the familiar tiny-fragment scale warnings on many pages.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C2/page-images/",
+        "provenance/faith-in-mind/ocr/T1/tessdata/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C2/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C2/ocr/tesseract-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C2_tesseract_full_pass",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-082",
+      "sequence": 82,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C2",
+      "summary": "Completed the full PaddleOCR PP-OCRv4 pass on C2 and derived the usable text layer.",
+      "details": "PaddleOCR PP-OCRv4 outputs are now saved under `ocr/C2/ocr/paddleocr-ppocrv4/` for all `100` rendered `C2` pages on the direct page-image basis. The first long run exceeded the one-hour shell timeout at `27/100` saved page outputs, but a resumed closeout completed the remaining pages with `100` success pages and `0` error pages. The usable derived text support is now also present under `ocr/C2/ocr/paddleocr-ppocrv4/extracted-text/`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C2/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C2/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/C2/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/C2/ocr/paddleocr-ppocrv4/extracted-text/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C2_paddle",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-083",
+      "sequence": 83,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C2",
+      "summary": "Completed the full EasyOCR pass across C2 and closed four-engine OCR compliance.",
+      "details": "EasyOCR outputs are now saved under `ocr/C2/ocr/easyocr-full-pass/` for all `100` rendered `C2` pages on the direct page-image basis. The first long run exceeded the two-hour shell timeout at `30/100` saved page outputs, but the resumed closeout completed the remaining pages. The saved summary was then repaired to recompute the resumed witness counts from the full file set. `C2` now has full recorded four-engine OCR compliance as a translation or reception control witness.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C2/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C2/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/C2/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C2_four_engine_compliance",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-084",
+      "sequence": 84,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "C2",
+      "summary": "Completed the first bounded C2 translation-control confirmation slice against the recovered T1 lemma spine.",
+      "details": "Direct image review of `C2-p021` to `C2-p023`, checked against the saved four-engine OCR stack, shows that `C2` preserves the broad transmitted sequence and standard close inside a Japanese reception frame. Because `C2-p021` and `C2-p023` are mixed-content boundary spreads and the witness is not a clean standalone Chinese text, it does not expose a new high-confidence repair locus beyond the already resolved `T4`-supported set.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C2/page-map.csv",
+        "provenance/faith-in-mind/ocr/C2/page-images/C2-p021.png",
+        "provenance/faith-in-mind/ocr/C2/page-images/C2-p022.png",
+        "provenance/faith-in-mind/ocr/C2/page-images/C2-p023.png",
+        "provenance/faith-in-mind/ocr/C2/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C2/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C2/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C2/ocr/easyocr-full-pass/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_slice_C2_translation_control_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-085",
+      "sequence": 85,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "C3",
+      "summary": "Opened `C3` from the locked NDL commentary PDF package and classified the `信心銘講話` body span.",
+      "details": "The locked commentary witness under `Faith_in_Mind_NDL_Commentaries/NDL823155_xinxinming_kowa.pdf` has now been rendered in-package with `ocr/C3/page-images/`, `ocr/C3/metadata.json`, and `ocr/C3/page-map.csv`. Because the local PDF does not expose a usable searchable text layer for span isolation, the target commentary body was isolated by direct page review of the rendered images. `C3-p001` to `C3-p003` are wrapper or title matter, `C3-p004` begins the main `信心銘講話` commentary body, `C3-p056` is the last clear commentary body spread, `C3-p057` is publisher catalogue matter, `C3-p058` to `C3-p059` are terminal colophon matter, and `C3-p060` to `C3-p063` are rear wrapper or library-tail images.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_NDL_Commentaries/NDL823155_xinxinming_kowa.pdf"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C3/metadata.json",
+        "provenance/faith-in-mind/ocr/C3/page-map.csv",
+        "provenance/faith-in-mind/ocr/C3/page-images/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C3_opening",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-086",
+      "sequence": 86,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C3",
+      "summary": "Completed the first full RapidOCR pass across the rendered C3 page images.",
+      "details": "RapidOCR outputs are now saved under `ocr/C3/ocr/rapidocr/` for all `63` rendered `C3` pages. `60` pages returned text outputs, `C3-p060` to `C3-p062` returned no text, and `0` errors were recorded. The no-text pages align with the current page-role judgment that the tail of the witness is wrapper or library matter rather than commentary body.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C3/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C3/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C3/ocr/rapidocr/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C3_rapidocr_pass1",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-087",
+      "sequence": 87,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C3",
+      "summary": "Completed the full Tesseract pass across the rendered C3 page images.",
+      "details": "Tesseract outputs are now saved under `ocr/C3/ocr/tesseract-full-pass/` for all `63` rendered `C3` pages using the witness-local `chi_tra` model path under `ocr/T1/tessdata/`. The first long run exceeded the one-hour shell timeout before process exit, but the saved file set and summary had already closed the witness at `63/63` pages. The run carries only the familiar tiny-fragment scale warnings.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C3/page-images/",
+        "provenance/faith-in-mind/ocr/T1/tessdata/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C3/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C3/ocr/tesseract-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C3_tesseract_full_pass",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-088",
+      "sequence": 88,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C3",
+      "summary": "Completed the full PaddleOCR PP-OCRv4 pass across the rendered C3 page images and derived the usable text layer.",
+      "details": "Paddle outputs are now saved under `ocr/C3/ocr/paddleocr-ppocrv4/` for all `63` rendered `C3` pages. The run closed with `63` success pages and `0` errors under Python `3.12`, and the usable derivative text layer has been written to `ocr/C3/ocr/paddleocr-ppocrv4/extracted-text/`. Local resized-image warnings were treated as non-fatal machine notes rather than witness failures.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C3/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C3/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/C3/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/C3/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C3/ocr/paddleocr-ppocrv4/extracted-text/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C3_paddle",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-089",
+      "sequence": 89,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C3",
+      "summary": "Completed the full EasyOCR pass across the rendered C3 page images and closed four-engine witness compliance.",
+      "details": "EasyOCR outputs are now saved under `ocr/C3/ocr/easyocr-full-pass/` for all `63` rendered `C3` pages. The saved summary closes at `61` pages with text, `2` no-text tail pages (`C3-p061` and `C3-p062`), and `0` errors. With this run, `C3` now has recorded full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C3/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C3/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/C3/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C3_easyocr_full_pass",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-090",
+      "sequence": 90,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "C3",
+      "summary": "Completed the first bounded C3 commentary-control comparison slice against the recovered T1 lemma spine.",
+      "details": "Direct image review of `C3-p004`, `C3-p005`, representative mid-body commentary leaves such as `C3-p020` and `C3-p040`, and the closing page `C3-p056`, checked against the saved four-engine OCR stack, shows that `C3` broadly confirms the recovered `T1` lemma spine and standard close as a commentary-control witness. No new high-confidence `T1` repair locus emerged from this slice.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C3/page-images/C3-p004.png",
+        "provenance/faith-in-mind/ocr/C3/page-images/C3-p005.png",
+        "provenance/faith-in-mind/ocr/C3/page-images/C3-p020.png",
+        "provenance/faith-in-mind/ocr/C3/page-images/C3-p040.png",
+        "provenance/faith-in-mind/ocr/C3/page-images/C3-p056.png",
+        "provenance/faith-in-mind/ocr/C3/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C3/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C3/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C3/ocr/easyocr-full-pass/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_slice_C3_commentary_control_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-091",
+      "sequence": 91,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "C4",
+      "summary": "Opened `C4` from the locked NDL commentary PDF package and classified the `信心銘拈提` body span.",
+      "details": "The locked commentary witness under `Faith_in_Mind_NDL_Commentaries/NDL823156_xinxinming_nentei.pdf` has now been rendered in-package with `ocr/C4/page-images/`, `ocr/C4/metadata.json`, and `ocr/C4/page-map.csv`. Direct page review shows wrapper, cover, and title or presentation matter on `C4-p001` to `C4-p004`, the main `信心銘拈提` commentary body beginning on `C4-p005` and continuing clearly through `C4-p022`, a mixed terminal spread on `C4-p023` with body still visible on the right page and imprint or colophon matter on the left page, and tail or wrapper material on `C4-p024` to `C4-p026`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_NDL_Commentaries/NDL823156_xinxinming_nentei.pdf"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C4/metadata.json",
+        "provenance/faith-in-mind/ocr/C4/page-map.csv",
+        "provenance/faith-in-mind/ocr/C4/page-images/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C4_opening",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-092",
+      "sequence": 92,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C4",
+      "summary": "Completed the first full RapidOCR pass across the rendered C4 page images.",
+      "details": "RapidOCR outputs are now saved under `ocr/C4/ocr/rapidocr/` for all `26` rendered `C4` pages. `24` pages returned text outputs, `C4-p003` and `C4-p025` returned no text, and `0` errors were recorded.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C4/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C4/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C4/ocr/rapidocr/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C4_rapidocr_pass1",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-093",
+      "sequence": 93,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C4",
+      "summary": "Completed the full Tesseract pass across the rendered C4 page images.",
+      "details": "Tesseract outputs are now saved under `ocr/C4/ocr/tesseract-full-pass/` for all `26` rendered `C4` pages using the witness-local `chi_tra` model path under `ocr/T1/tessdata/`. All `26` pages returned text and the run carries only the familiar tiny-fragment scale warnings.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C4/page-images/",
+        "provenance/faith-in-mind/ocr/T1/tessdata/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C4/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C4/ocr/tesseract-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C4_tesseract_full_pass",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-094",
+      "sequence": 94,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C4",
+      "summary": "Completed the full PaddleOCR PP-OCRv4 pass across the rendered C4 page images and derived the usable text layer.",
+      "details": "Paddle outputs are now saved under `ocr/C4/ocr/paddleocr-ppocrv4/` for all `26` rendered `C4` pages. The run closed with `26` success pages and `0` errors under Python `3.12`, and the usable derivative text layer has been written to `ocr/C4/ocr/paddleocr-ppocrv4/extracted-text/`. Local resized-image warnings were treated as non-fatal machine notes rather than witness failures.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C4/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C4/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/C4/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/C4/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C4/ocr/paddleocr-ppocrv4/extracted-text/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C4_paddle",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-095",
+      "sequence": 95,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C4",
+      "summary": "Completed the full EasyOCR pass across the rendered C4 page images and closed four-engine witness compliance.",
+      "details": "EasyOCR outputs are now saved under `ocr/C4/ocr/easyocr-full-pass/` for all `26` rendered `C4` pages. The saved summary closes at `26` pages with text, `0` no-text pages, and `0` errors. With this run, `C4` now has recorded full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C4/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C4/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/C4/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C4_easyocr_full_pass",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-096",
+      "sequence": 96,
+      "timestamp": "2026-04-17",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "C4",
+      "summary": "Completed the first bounded C4 commentary-control comparison slice against the recovered T1 lemma spine.",
+      "details": "Direct image review of `C4-p005`, representative mid-body commentary leaves such as `C4-p015`, and the closing surfaces `C4-p022` to `C4-p023`, checked against the saved four-engine OCR stack, shows that `C4` broadly confirms the recovered `T1` lemma spine and standard close as a commentary-control witness. No new high-confidence `T1` repair locus emerged from this slice.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C4/page-images/C4-p005.png",
+        "provenance/faith-in-mind/ocr/C4/page-images/C4-p015.png",
+        "provenance/faith-in-mind/ocr/C4/page-images/C4-p022.png",
+        "provenance/faith-in-mind/ocr/C4/page-images/C4-p023.png",
+        "provenance/faith-in-mind/ocr/C4/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C4/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C4/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C4/ocr/easyocr-full-pass/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_slice_C4_commentary_control_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-097",
+      "sequence": 97,
+      "timestamp": "2026-04-18",
+      "stage": "manual_correction_pass_1",
+      "event_type": "witness_prepared",
+      "object_type": "witness",
+      "object_id": "C5",
+      "summary": "Opened `C5` from the locked NDL commentary PDF package and classified the `冠註信心銘夜塘水` body span.",
+      "details": "The locked commentary witness under `Faith_in_Mind_NDL_Commentaries/NDL823160_yetangshui_guanzhu_part1.pdf` has now been rendered in-package with `ocr/C5/page-images/`, `ocr/C5/metadata.json`, and `ocr/C5/page-map.csv`. Direct page review shows seal, title, publication, and prefatory matter on `C5-p001` to `C5-p003`, the main `冠註信心銘夜塘水` commentary body beginning on `C5-p004` and continuing through `C5-p072`, an explicit terminal page on `C5-p073` marking the end of `巻上`, and rear wrapper or library-tail matter on `C5-p074`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_NDL_Commentaries/NDL823160_yetangshui_guanzhu_part1.pdf"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C5/metadata.json",
+        "provenance/faith-in-mind/ocr/C5/page-map.csv",
+        "provenance/faith-in-mind/ocr/C5/page-images/"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C5_opening",
+        "last_text_changed_event": "FIM-055"
+      }
     }
   ]
 }

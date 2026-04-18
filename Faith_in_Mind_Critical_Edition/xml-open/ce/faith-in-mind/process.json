@@ -27,7 +27,7 @@
   "current_state": {
     "ocr_started": true,
     "transcription_started": true,
-    "collation_started": false,
+    "collation_started": true,
     "publication_candidate": false
   },
   "next_stage": {
@@ -57,11 +57,29 @@
     "correction_log": "../../../provenance/faith-in-mind/process/correction-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_secure_poem_line_T1_p077_l01",
-      "loci": [
-        "T1-p077.l01"
+      "slug": "comparison_control_slice_C5_opening",
+      "witnesses": [
+        "T1",
+        "T4",
+        "T5",
+        "T2",
+        "T3",
+        "A1",
+        "A2",
+        "A3",
+        "C1",
+        "C2",
+        "C3"
       ],
-      "last_text_changed_event": "FIM-025"
+      "targets": [
+        "../../../provenance/faith-in-mind/ocr/C5/",
+        "../../../provenance/faith-in-mind/process/current-state.md",
+        "../../../provenance/faith-in-mind/process/human-log.md",
+        "../../../provenance/faith-in-mind/process/ocr-run-log.md"
+      ],
+      "status": "completed",
+      "last_completed_slice": "comparison_control_slice_C5_opening",
+      "last_text_changed_event": "FIM-055"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",

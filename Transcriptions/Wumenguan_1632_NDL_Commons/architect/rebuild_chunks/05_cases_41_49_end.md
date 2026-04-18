@@ -12,65 +12,65 @@ Source basis:
 - `Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`
 - `Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632_READING_EDITION_NOTES.md`
 
-### 41. é”ç£¨å®‰å¿ƒ
+### 41. 達磨安心
 
 > Three-witness complete assembly. `公案` remains base-witness-led; `無門曰` and `頌` are supplied from corroborant witness text.
 
 #### 公案
 
-é”ç£¨é¢å£ã€‚  
+達磨面壁。  
 二祖立雪斷臂云：  
-å¼Ÿå­å¿ƒæœªå®‰ï¼Œ  
+弟子心未安，  
 乞師安心。  
 祖云：  
-å°‡å¿ƒä¾†èˆ‡æ±å®‰ã€‚  
+將心來與汝安。  
 
 #### 無門曰
 
-ç¼ºé½’è€èƒ¡ï¼Œ
-åè¬é‡Œèˆªæµ·ç‰¹ç‰¹è€Œä¾†ï¼Œ
-å¯è¬‚æ˜¯ç„¡é¢¨èµ·æµªã€‚
+缺齒老胡，
+十萬里航海特特而來，
+可謂是無風起浪。
 末後接得一箇門人，
-åˆå»å…­æ ¹ä¸å…·ã€‚
+又卻六根不具。
 咦，
-è¬ä¸‰éƒŽï¼Œ
-ä¸è­˜å››å­—ã€‚
+謝三郎，
+不識四字。
 
 #### 頌
 
 西來直指，
 事因囑起。
-æ’“è’å¢æž—ï¼Œ
+撓聒叢林，
 元來是爾。
 
-### 42. å¥³å­å‡ºå®š
+### 42. 女子出定
 
 > Three-witness complete assembly. The long `公案` and `無門曰` remain base-witness-led; `頌` is supplied from corroborant witness text.
 
 #### 公案
 
-ä¸–å°Šæ˜”å› æ–‡æ®Šè‡³è«¸ä½›é›†è™•ï¼Œå€¼è«¸ä½›å„é‚„æœ¬è™•ï¼Œ  
-æƒŸæœ‰ä¸€å¥³äººè¿‘å½¼ä½›åå…¥å®šã€‚  
+世尊昔因文殊至諸佛集處，值諸佛各還本處，  
+惟有一女人近彼佛坐入定。  
 
 文殊乃白佛：  
-äº‘ä½•å¥³äººå¾—è¿‘ä½›åï¼Œæˆ‘ä¸å¾—ã€‚  
+云何女人得近佛坐，我不得。  
 
 佛告文殊：  
-ä½†æ­¤å¥³äººä»¤å¾žä¸‰æ˜§èµ·ï¼Œæ±è‡ªè¿‘å‰å•ä¹‹ã€‚  
+但此女人令從三昧起，汝自近前問之。  
 若出得定，便知所以。  
 
 #### 無門曰
 
-ç¨½é¦–è€é‡‹è¿¦ï¼Œåªä½œä¸€å ´é›œåŠ‡ã€‚  
-ä¸”é“æ–‡æ®Šæ˜¯ä¸ƒä½›ä¹‹å¸«ï¼Œå› ç”šå‡ºå¥³å­å®šä¸å¾—ã€‚  
-ç½”æ˜Žåˆåœ°è©è–©ï¼Œç‚ºç”šå´å‡ºå¾—ã€‚  
+稽首老釋迦，只作一場雜劇。  
+且道文殊是七佛之師，因甚出女子定不得。  
+罔明初地菩薩，為甚却出得。  
 
 #### 頌
 
-å‡ºå¾—å‡ºä¸å¾—ï¼Œ
+出得出不得，
 渠儂得自由。
-ç¥žé ­å¹¶é¬¼é¢ï¼Œ
-æ•—é—•ç•¶é¢¨æµã€‚
+神頭并鬼面，
+敗闕當風流。
 
 ### 43. 首山竹篦
 
@@ -79,17 +79,17 @@ Source basis:
 #### 公案
 
 首山和尚拈竹篦示眾云：  
-æ±ç­‰è«¸äººï¼Œè‹¥å–šä½œç«¹ç¯¦å‰‡è§¸ï¼Œ  
-ä¸å–šä½œç«¹ç¯¦å‰‡èƒŒã€‚  
-ä¸å¾—æœ‰èªžï¼Œä¸å¾—ç„¡èªžã€‚é€Ÿé“ã€‚  
+汝等諸人，若喚作竹篦則觸，  
+不喚作竹篦則背。  
+不得有語，不得無語。速道。  
 
 #### 無門曰
 
 喚作竹篦則觸。
-ä¸å–šä½œç«¹ç¯¦å‰‡èƒŒã€‚
-ä¸å¾—æœ‰èªžï¼Œ
-ä¸å¾—ç„¡èªžã€‚
-é€Ÿé“é€Ÿé“ã€‚
+不喚作竹篦則背。
+不得有語，
+不得無語。
+速道速道。
 
 #### 頌
 
@@ -98,28 +98,28 @@ Source basis:
 背觸交馳，
 佛祖乞命。
 
-### 44. èŠ­è•‰æ‹„æ–
+### 44. 芭蕉拄杖
 
 > Three-witness complete assembly. `無門曰` and `頌` are supplied from corroborant witness text.
 
 #### 公案
 
 芭蕉和尚示眾云：  
-æœ‰æ‹„æ–å­ï¼Œæˆ‘èˆ‡ä½ æ‹„æ–å­ã€‚  
-ç„¡æ‹„æ–å­ï¼Œæˆ‘å¥ªä½ æ‹„æ–å­ã€‚  
+有拄杖子，我與你拄杖子。  
+無拄杖子，我奪你拄杖子。  
 
 #### 無門曰
 
-æ‰¶éŽæ–·æ©‹æ°´ï¼Œ
-ä¼´æ­¸ç„¡æœˆæ‘ã€‚
-è‹¥å–šä½œæ‹„æ–ï¼Œ
-å…¥åœ°ç„å¦‚ç®­ã€‚
+扶過斷橋水，
+伴歸無月村。
+若喚作拄杖，
+入地獄如箭。
 
 #### 頌
 
 諸方深與淺，
-éƒ½åœ¨æŽŒæ¡ä¸­ã€‚
-æ’å¤©å¹¶æ‹„åœ°ï¼Œ
+都在掌握中。
+撐天并拄地，
 隨處振宗風。
 
 ### 45. 他是阿誰
@@ -128,22 +128,22 @@ Source basis:
 
 #### 公案
 
-æ±å±±æ¼”å¸«ç¥–æ›°ï¼š  
+東山演師祖曰：  
 釋迦彌勒猶是他奴。  
-ä¸”é“ä»–æ˜¯é˜¿èª°ã€‚  
+且道他是阿誰。  
 
 #### 無門曰
 
 若也見得他分曉，
-è­¬å¦‚åå­—è¡—é ­æ’žè¦‹è¦ªçˆºç›¸ä¼¼ã€‚
-æ›´ä¸é ˆå•åˆ¥äººï¼Œ
-é“æ˜¯èˆ‡ä¸æ˜¯ã€‚
+譬如十字街頭撞見親爺相似。
+更不須問別人，
+道是與不是。
 
 #### 頌
 
 他弓莫挽，
 他馬莫騎。
-ä»–éžèŽ«è¾¨ï¼Œ
+他非莫辨，
 他事莫知。
 
 ### 46. 竿頭進步
@@ -155,24 +155,24 @@ Source basis:
 石霜和尚云：  
 百尺竿頭，如何進步。  
 
-åˆå¤å¾·äº‘ï¼š  
-ç™¾å°ºç«¿é ­ååº•äººï¼Œé›–ç„¶å¾—å…¥æœªç‚ºçœŸã€‚  
-ç™¾å°ºç«¿é ­é ˆé€²æ­¥ï¼Œåæ–¹ä¸–ç•Œç¾å…¨èº«ã€‚  
+又古德云：  
+百尺竿頭坐底人，雖然得入未為真。  
+百尺竿頭須進步，十方世界現全身。  
 
 #### 無門曰
 
 進得步，
 翻得身。
-æ›´å«Œä½•è™•ä¸ç¨±å°Šã€‚
+更嫌何處不稱尊。
 然雖如是，
-ä¸”é“ç™¾å°ºç«¿é ­å¦‚ä½•é€²æ­¥ã€‚
+且道百尺竿頭如何進步。
 嗄。
 
 #### 頌
 
-çžŽå´é ‚é–€çœ¼ï¼Œ
-éŒ¯èªå®šç›¤æ˜Ÿã€‚
-æ‹šèº«èƒ½æ¨å‘½ï¼Œ
+瞎却頂門眼，
+錯認定盤星。
+拚身能捨命，
 一盲引眾盲。
 
 ### 47. 兜率三關
@@ -181,27 +181,27 @@ Source basis:
 
 #### 公案
 
-å…œçŽ‡æ‚…å’Œå°šè¨­ä¸‰é—œå•å­¸è€…ï¼š  
-æ’¥è‰åƒçŽ„åªåœ–è¦‹æ€§ã€‚  
-å³ä»Šä¸Šäººæ€§åœ¨ç”šè™•ã€‚  
+兜率悅和尚設三關問學者：  
+撥草參玄只圖見性。  
+即今上人性在甚處。  
 識得自性，方脫生死。  
-çœ¼å…‰è½æ™‚ï¼Œä½œéº¼ç”Ÿè„«ã€‚  
+眼光落時，作麼生脫。  
 脫得生死，便知去處。  
-å››å¤§åˆ†é›¢ï¼Œå‘ç”šè™•åŽ»ã€‚  
+四大分離，向甚處去。  
 
 #### 無門曰
 
 若能下得此三轉語，
-ä¾¿å¯ä»¥éš¨è™•ä½œä¸»ï¼Œ
-é‡ç·£å³å®—ã€‚
+便可以隨處作主，
+遇緣即宗。
 其或未然，
-éº¤é¤æ˜“é£½ï¼Œ
+麤餐易飽，
 細嚼難飢。
 
 #### 頌
 
-ä¸€å¿µæ™®è§€ç„¡é‡åŠ«ï¼Œ
-ç„¡é‡åŠ«äº‹å³å¦‚ä»Šã€‚
+一念普觀無量劫，
+無量劫事即如今。
 如今覷破箇一念，
 覷破如今覷底人。
 
@@ -211,182 +211,182 @@ Source basis:
 
 #### 公案
 
-ä¹¾å³°å’Œå°šå› åƒ§å•ï¼š  
-åæ–¹è–„ä¼½æ¢µï¼Œä¸€è·¯æ¶…æ§ƒé–€ã€‚  
+乾峰和尚因僧問：  
+十方薄伽梵，一路涅槃門。  
 未審路頭在甚麼處。  
-å³°æ‹ˆèµ·æ‹„æ–ï¼ŒåŠƒä¸€åŠƒäº‘ï¼š  
-åœ¨è€…è£ã€‚  
+峰拈起拄杖，劃一劃云：  
+在者裏。  
 後僧請益雲門。  
-é–€æ‹ˆèµ·æ‰‡å­äº‘ï¼š  
-æ‰‡å­å‹ƒè·³ï¼Œä¸Šä¸‰åä¸‰å¤©ï¼Œç¯‰è‘—å¸é‡‹é¼»å­”ã€‚  
-æ±æµ·é¯‰é­šæ‰“ä¸€æ£’ï¼Œé›¨ä¼¼ç›†å‚¾ã€‚  
+門拈起扇子云：  
+扇子勃跳，上三十三天，築著帝釋鼻孔。  
+東海鯉魚打一棒，雨似盆傾。  
 
 #### 無門曰
 
-ä¸€äººå‘æ·±æ·±æµ·åº•ï¼Œ
-è¡Œç°¸åœŸæšå¡µã€‚
+一人向深深海底，
+行簸土揚塵。
 一人於高高山頂，
 立白浪滔天。
 把定放行，
-å„å‡ºä¸€éš»æ‰‹ï¼Œ
+各出一隻手，
 扶豎宗乘。
-å¤§ä¼¼å…©ç®‡é¦³å­ç›¸æ’žè‘—ã€‚
+大似兩箇馳子相撞著。
 世上應無直底人。
 正眼觀來，
-äºŒå¤§è€ç¸½æœªè­˜è·¯é ­åœ¨ã€‚
+二大老總未識路頭在。
 
 #### 頌
 
 未舉步時先已到，
 未動舌時先說了。
 直饒著著在機先，
-æ›´é ˆçŸ¥æœ‰å‘ä¸Šç«…ã€‚
+更須知有向上竅。
 
-### 49. ç¬¬å››åä¹å‰‡èªž
+### 49. 第四十九則語
 
-> Appendix case status: late appended witness material. This is not part of the 48-case core of the *Wumenguan*. The 1632 witness preserves a distinct `ç¬¬å››åä¹å‰‡èªž` marker in the late end matter, and the later 1752 Waseda witness also reflects a `å››åä¹å‰‡èªž` marker. Only the verse block is securely assembled here. The adjacent prose on the facing leaf is kept in the end matter below rather than silently folded into this appendix case.
+> Appendix case status: late appended witness material. This is not part of the 48-case core of the *Wumenguan*. The 1632 witness preserves a distinct `第四十九則語` marker in the late end matter, and the later 1752 Waseda witness also reflects a `四十九則語` marker. Only the verse block is securely assembled here. The adjacent prose on the facing leaf is kept in the end matter below rather than silently folded into this appendix case.
 
 #### 頌
 
-æ­¢æ­¢ä¸é ˆèªªæˆ‘æ³•å¦™é›£æ€ã€‚  
-æ³•å¾žä½•ä¾†ï¼Œå¦™å¾žä½•èªªæ™‚ï¼Œåˆä½œéº¼ç”Ÿã€‚  
-ç”Ÿè±ˆä½†è±å¹²é¥’èˆŒï¼Œå…ƒæ˜¯é‡‹è¿¦å¤šå£ã€‚  
-è€å­é€ ä½œå¥½æ€ªï¼Œä»¤åƒç™¾ä»£å…’å­«è¢«è‘—ã€‚  
-è—¤çºå€’ï¼Œæœªå¾—é ­å‡ºï¼Œæ°ä¼¼é€™èˆ¬å¥‡ç‰¹è©±é ­ã€‚  
-èµ·è·³ä¸æ­¢ï¼Œé£¯è’¸ä¸ç†Ÿï¼Œæœ‰å¤šå°‘éŒ¯èªè™•ã€‚  
+止止不須說我法妙難思。  
+法從何來，妙從何說時，又作麼生。  
+生豈但豐干饒舌，元是釋迦多口。  
+老子造作好怪，令千百代兒孫被著。  
+藤纏倒，未得頭出，恰似這般奇特話頭。  
+起跳不止，飯蒸不熟，有多少錯認處。  
 
 ## 跋尾
 
-### çµå°¾ç¤ºçœ¾
+### 結尾示眾
 
-é–€äº‘æ‹ˆèµ·æ‰‡å­äº‘ã€‚  
-æ‰‡å­è¸è·³ä¸Šä¸‰åä¸‰å¤©ã€‚  
-ç¯‰è‘—å¸é‡‹é¼»å­”ã€‚  
-æ±æµ·é¯‰é­šæ‰“ä¸€æ£’ï¼Œé›¨ä¼¼ç›†å‚¾ã€‚  
+門云拈起扇子云。  
+扇子踍跳上三十三天。  
+築著帝釋鼻孔。  
+東海鯉魚打一棒，雨似盆傾。  
 
 未舉步時先已到，  
 未動舌時先說了。  
 直饒著著在機先，  
-æ›´é ˆçŸ¥æœ‰å‘ä¸Šç«…ã€‚  
+更須知有向上竅。  
 
-> Witness note: the two quatrains are secure. Additional surrounding prose on the second leaf remains too compressed for line-by-line normalization, though visible phrase families include `éžå¤§ä¼¼å…©ç®‡çžŽæ¼¢å­ç›¸æ’žè‘—`, `ç„¡ç›´åº•äººæ­£çœ¼è§€ä¾†äºŒå¤§è€`, and `è­˜è·¯é ­åœ¨ / åœ¨æ©Ÿå…ˆ`.
+> Witness note: the two quatrains are secure. Additional surrounding prose on the second leaf remains too compressed for line-by-line normalization, though visible phrase families include `非大似兩箇瞎漢子相撞著`, `無直底人正眼觀來二大老`, and `識路頭在 / 在機先`.
 
 ### 識語
 
 從上佛祖垂示機緣，  
-æ’®çµæ¡ˆåˆã€‚  
+撮結案初。  
 請人直下承當，  
-ä¸è½è™•äº†ç„¡ã€‚  
-æ–¹ä¸Šå£«çµ•èžèˆˆå­¸è€…ï¼Œ  
-ä¾¿çŸ¥è½è™•äº†ç„¡ã€‚  
-é“æ˜ŽçŸ¥é“åªæ˜¯é€™ç®‡ï¼Œ  
-çˆ²ç”šé€ä¸å¾—ç„¡é–€é—œã€‚  
+不落處了無。  
+方上士絕聞興學者，  
+便知落處了無。  
+道明知道只是這箇，  
+爲甚透不得無門關。  
 
-ä¸éŽæ·¨åŽ èªªè©±ï¼Œ  
-ä¹Ÿæ˜¯èµ¤åœŸæ½ç‰›å¥¶ã€‚  
-è‹¥é€å¾—ç„¡é–€é—œï¼Œ  
-æ—©æ˜¯éˆç½®ç„¡é–€é—œã€‚  
-é€ä¸å¾—ç„¡é–€é—œï¼Œ  
+不過淨厠說話，  
+也是赤土搽牛奶。  
+若透得無門關，  
+早是鈍置無門關。  
+透不得無門關，  
 亦乃辜負自己。  
 所謂涅槃心易曉，  
 差別智難明。  
 明得差別智，  
 家國自安寧。  
 
-ç´¹å®šæ”¹å…ƒè§£åˆ¶å‰äº”æ—¥ï¼Œ  
-æ¥Šå²å…«ä¸–å­«ç„¡é–€æ¯”ä¸˜æ…§é–‹è¬¹è­˜ã€‚  
+紹定改元解制前五日，  
+楊岐八世孫無門比丘慧開謹識。  
 
-### ç„¡é–€é—œå·çµ‚
+### 無門關卷終
 
-ç„¡é–€é—œå·çµ‚
+無門關卷終
 
-å„±ä¾—å®ˆç¦ªå¨å„€ï¼Œ  
+儱侗守禪威儀，  
 無繩自縛，  
-ç¸±æ©«ç„¡ç¢ã€‚  
-å¤–é“é­”è»å­˜å¿ƒï¼Œ  
+縱橫無碍。  
+外道魔軍存心，  
 澄寂黑照邪禪。  
-èžè½æ·±å‘ï¼Œ  
-æ‡žç„¶ä¸æ˜§ã€‚  
+融落深坑，  
+懞然不昧。  
 帶鎖擔枷，  
-æ€å–„æ€æƒ¡ã€‚  
-åœ°ç„å¤©å ‚ï¼Œ  
+思善思惡。  
+地獄天堂，  
 佛見法見，  
-äºŒéµåœå±±ã€‚  
-å¿µèµ·å³è¦ºï¼Œ  
-é€²å‰‡è¿·ç†ï¼Œ  
+二鐵圍山。  
+念起即覺，  
+進則迷理，  
 退則乖宗，  
-ä¸é€²ä¸é€€ã€‚  
+不進不退。  
 有氣死人，  
-ä¸”é“å¦‚ä½•å±¥è¸ã€‚  
+且道如何履踐。  
 努力今生。  
 
-### é»ƒé¾ä¸‰é—œæ‘˜å¥
+### 黃龍三關摘句
 
-é Œäº†å´èŽ«æ•™æ°¸åŠ«å—é¤˜æ®ƒã€‚  
+頌了却莫教永劫受餘殃。  
 
 我手何似佛手。  
 我脚何似驢脚。  
 人人有箇生緣處。  
 元來通身是手。  
-å››æµ·æ©«è¡Œå€’è·¨æ¥Šå²ä¸‰è„šã€‚  
+四海橫行倒跨楊岐三脚。  
 
 人以有箇生緣，  
-å„å„é€å¾®æ©Ÿã€‚  
-å…ˆé‚£å’æŠ˜éª¨é‚„çˆ¶ã€‚  
+各各透微機。  
+先那吒折骨還父。  
 五祖豈鑒爺娘。  
-å‡¡è–è·¯é ­ä¿±æˆªæ–·ï¼Œ  
+凡聖路頭俱截斷，  
 幾多蜂蟻起雷音。  
 
 > Witness note: the stronger lines are stable. The inner explanatory prose between them remains compressed and is not yet stable enough to normalize further.
 
-### é¡Œè´Šèˆ‡éŠœå
+### 題贊與銜名
 
-æˆä½›ç›´æŒ‡å·²æ˜¯è¿‚æ›²æ›´è¨€æˆä½›ã€‚
+成佛直指已是迂曲更言成佛。
 
-ç„¡é–€é¦–åº§ç«‹åƒ§å±±å€Ÿå¥‰è¬ç´¹å®šåºšå¯…å­£æ˜¥ç„¡é‡å®—å£½æ›¸è´Š
+無門首座立僧山借奉謝紹定庚寅季春無量宗壽書贊
 
-å› ç”šæœ‰è€å©†
+因甚有老婆
 
-å››åä¹å‰‡å…¶é–“äº›å­ï¼Œ  
-è«‹èªåˆ¥èµ·çœ‰æ¯›ã€‚  
-æª¢æ ¡ä¿å¯§è»ç¯€åº¦ä½¿äº¬æ¹–å®‰æ’«åˆ¶ç½®å¤§ä½¿å…¼çŸ¥æ±Ÿé™µåºœæ¼¢æ±éƒ¡é–‹åœ‹å…¬é£Ÿé‚‘  
-äºŒåƒä¸€ç™¾æˆ¶é£Ÿå¯¦å°é™¸ä¼¯æˆ¶  
-å­Ÿç™  
+四十九則其間些子，  
+請認別起眉毛。  
+檢校保寧軍節度使京湖安撫制置大使兼知江陵府漢東郡開國公食邑  
+二千一百戶食實封陸伯戶  
+孟珙  
 
-> Witness note: the dedicatory line remains stable, and the opening doctrinal line on the same leaf is now clear enough to include; surrounding prose on the facing leaf remains only partly recoverable. Visible phrase families include `é”ç£¨è¥¿ä¾†ä¸åŸ·æ–‡å­—ç›´æŒ‡äººå¿ƒè¦‹æ€§æˆä½›`, `ç„¡é–€å› ç”šæœ‰é—œ`, `å› ç”šæœ‰è€å©†`, and `æƒ¡è²æµå¸ƒ`.
+> Witness note: the dedicatory line remains stable, and the opening doctrinal line on the same leaf is now clear enough to include; surrounding prose on the facing leaf remains only partly recoverable. Visible phrase families include `達磨西來不執文字直指人心見性成佛`, `無門因甚有關`, `因甚有老婆`, and `惡聲流布`.
 
 ### 附錄相連散文
 
-ç„¡é–€è€ç¦ªä½œå››åå…«å‰‡èªžï¼Œ  
-åˆ¤æ–·å¤å¾·å…¬æ¡ˆã€‚  
+無門老禪作四十八則語，  
+判斷古德公案。  
 大似黃油餅人，  
-ä»¤è²·å®¶é–‹å£æŽ¥ã€‚  
-å®‰æ™šæ¬²å°±æ¸ ç†±çˆä¸Šå†æ‰“ä¸€æ’¥ï¼Œ  
-è¶³æˆå¤§è¡ä¹‹æ•¸ã€‚  
+令買家開口接。  
+安晚欲就渠熱爐上再打一撥，  
+足成大衍之數。  
 
-å‚äººå•äº‘ï¼š  
-ç•¢ç«Ÿä½œå¦‚ä½•çµæ–·ã€‚  
-å®‰æ™šåˆåæŒ‡çˆªæ›°ï¼š  
-æ­¢æ­¢ä¸é ˆèªªæˆ‘æ³•å¦™é›£æ€ã€‚  
-å´æ€¥åŽ»é›£æ‚£å…©å­—ä¸Šæ‰“ç®‡å°åœ“ç›¸å­ï¼Œ  
+傍人問云：  
+畢竟作如何結斷。  
+安晚合十指爪曰：  
+止止不須說我法妙難思。  
+却急去難患兩字上打箇小圓相子，  
 指示衆人云：  
-ç¸½åœ¨è£è¨±ã€‚  
+總在裏許。  
 
-> Witness note: these prose leaves are adjacent to the appended `ç¬¬å››åä¹å‰‡èªž` block and clearly belong to the late end-matter sequence, but the witness does not justify silently collapsing them into the numbered appendix case.
+> Witness note: these prose leaves are adjacent to the appended `第四十九則語` block and clearly belong to the late end-matter sequence, but the witness does not justify silently collapsing them into the numbered appendix case.
 
 ### 刊記
 
-æ›¸æ–¼è¥¿æ¹–æ¼èŽŠã€‚  
-æ·³ç¥ä¸™åˆå­£å¤åˆå‰ï¼Œ  
+書於西湖漁莊。  
+淳祐丙午季夏初吉，  
 安晚居士。  
 
-èˆŠæ¿ç£¨æ»…æ•…é‡å‘½å·¥ã€‚  
-æ¢“é€™æ¿ç½®æ–¼æ­¦è—å·žï¼Œ  
+舊板磨滅故重命工。  
+梓這板置於武藏州，  
 駒牟山廣圓禪寺也。  
-æ‡‰æ°¸ä¹™é…‰åæœˆåä¸‰æ—¥ï¼Œ  
+應永乙酉十月十三日，  
 幹緣比丘常牧。  
 
-å¯¬æ°¸ä¹å¹´å£¬ç”³ä¹æœˆï¼Œ  
+寬永九年壬申九月，  
 中野宗左衛門刊行。  
 
 ## Remaining Uncertainties
@@ -394,7 +394,7 @@ Source basis:
 - Cases 41-48 are now completed by cross-witness collation; the remaining uncertainty is no longer structural completeness but local wording preference against the 1632 leaf sequence.
 - The appended case 49 remains verse-only in this chunk; the adjoining prose is kept separately in end matter rather than folded back into the appendix case.
 - In the closing instructional material, the two quatrains are secure, but surrounding prose on `PDF p.047 left` remains only phrase-family level.
-- In `é»ƒé¾ä¸‰é—œæ‘˜å¥`, the stronger lines are stable but the inner explanatory prose between them remains compressed.
-- The dedicatory line `ç„¡é–€é¦–åº§ç«‹åƒ§å±±å€Ÿå¥‰è¬ç´¹å®šåºšå¯…å­£æ˜¥ç„¡é‡å®—å£½æ›¸è´Š` is kept as a coherent working reading, but the surrounding prose on that leaf is still only partly stabilized.
-- The office-title block on the å­Ÿç™ leaf is readable in substance, but one or two title graphs may still admit later tightening.
+- In `黃龍三關摘句`, the stronger lines are stable but the inner explanatory prose between them remains compressed.
+- The dedicatory line `無門首座立僧山借奉謝紹定庚寅季春無量宗壽書贊` is kept as a coherent working reading, but the surrounding prose on that leaf is still only partly stabilized.
+- The office-title block on the 孟珙 leaf is readable in substance, but one or two title graphs may still admit later tightening.
 - PDF p.052 right and PDF p.055 left do not carry stable running text and are therefore omitted from the reading edition rather than marked inline as lost leaves.

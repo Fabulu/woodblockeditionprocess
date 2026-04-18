@@ -31,26 +31,26 @@
 ```text
 目錄
 
-å¤§é“ç„¡é–€
-åƒå·®æœ‰è·¯
-é€å¾—æ­¤é—œ
-ä¹¾å¤ç¨æ­¥
+大道無門
+千差有路
+透得此關
+乾坤獨步
 
 佛祖機緣
-å››åå…«å‰‡
+四十八則
 
-è¶™å·žç‹—å­
-å€¶èƒè±ŽæŒ‡
+趙州狗子
+倶胝豎指
 香嚴上樹
-ç™¾ä¸ˆé‡Žç‹
-èƒ¡å­ç„¡é¬š
+百丈野狐
+胡子無鬚
 世尊拈花
 ```
 
 #### Notes
 
 - This is only a partial recovery of the visible contents entries.
-- `å€¶èƒè±ŽæŒ‡` is now the working reading.
+- `倶胝豎指` is now the working reading.
 - More contents entries are visible on the leaf and should be recovered in a dedicated pass.
 
 ### PDF p.007 left leaf
@@ -61,30 +61,63 @@
 #### Consolidated Readable Text
 
 ```text
-ä¸æ€å–„æƒ¡
+不思善惡
 三座說法
-ä¸æ˜¯å¿ƒä½›
-éžé¢¨éžå¹¡
+不是心佛
+非風非幡
 趙州勘婆
-éžå¿ƒéžä½›
+非心非佛
 倩女離魂
-åº­å‰æŸæ¨¹
+庭前柏樹
 
-é›¢å´èªžè¨€
-äºŒåƒ§å·ç°¾
-ä¹…éŸ¿é¾æ½­
-å³å¿ƒå³ä½›
-å¤–é“å•ä½›
-æ™ºä¸æ˜¯é“
-è·¯é€¢é”é“
-ç‰›éŽçª“æ«º
+離却語言
+二僧卷簾
+久響龍潭
+即心即佛
+外道問佛
+智不是道
+路逢達道
+牛過窓櫺
 ```
 
 #### Notes
 
 - This leaf is a clean enough witness continuation of the contents list.
 - `倩女離魂` is now adopted as the working reading.
-- `ä¹…éŸ¿é¾æ½­` and `ç‰›éŽçª“æ«º` are supported by both the image and the stronger OCR comparators.
+- `久響龍潭` and `牛過窓櫺` are supported by both the image and the stronger OCR comparators.
+
+### PDF p.007 right leaf
+
+- Role: contents continuation
+- Confidence: medium-low
+
+#### Consolidated Readable Text
+
+```text
+趙州洗鉢
+大通智勝
+州勘庵主
+德山托鉢
+洞山三頓
+國師三喚
+平常是道
+雲門屎橛
+
+奚仲造車
+清稅孤貧
+巖喚主人
+南泉斬猫
+鐘聲七條
+洞山三斤
+大力量人
+迦葉刹竿
+```
+
+#### Notes
+
+- This text-bearing contents leaf was previously omitted from the witness draft.
+- The entries are readable from the image, though several graphs remain lighter than the surrounding contents leaves.
+- The reconstructed reading-edition contents already reflected this middle contents zone; this repair restores the missing witness-layer leaf entry.
 
 ### PDF p.008 right leaf
 
@@ -97,14 +130,14 @@
 目錄終
 
 雲門話墮
-é”ç£¨å®‰å¿ƒ
+達磨安心
 首山竹篦
 他是阿誰
 兜率三關
 
 趯倒淨瓶
-å¥³å­å‡ºå®š
-èŠ­è•‰æ‹„æ–
+女子出定
+芭蕉拄杖
 竿頭進步
 乾峰一路
 ```
@@ -115,6 +148,36 @@
 - `趯倒淨瓶` and `乾峰一路` are supported by the image, though the first graph of `趯倒` is not especially dark.
 - `PaddleOCR` helped on this leaf by segmenting the vertical lines more cleanly than `tesseract`.
 
+### PDF p.008 left leaf
+
+- Role: opening of `趙州狗子` and start of `無門曰`
+- Confidence: medium
+
+#### Consolidated Readable Text
+
+```text
+〔趙州狗子〕
+
+趙州和尚因僧問：
+狗子還有佛性也無。
+州云：無。
+
+無門曰：
+參禪須透祖師關，
+妙悟要窮心路絕。
+祖關不透，
+心路不絕，
+盡是依草附木精靈。
+且道：
+如何是祖
+```
+
+#### Notes
+
+- This leaf was previously omitted from the witness draft even though the frame image clearly begins case `1`.
+- The final phrase continues directly onto the following `PDF p.009 right leaf`, which opens `師關只者一箇無字`.
+- `RapidOCR` and the image both support the opening `參禪須透祖師關 / 妙悟要窮心路絕` cluster.
+
 ### PDF p.006 right leaf
 
 - Role: opening prose / prefatory explanation
@@ -123,92 +186,92 @@
 #### Consolidated Readable Text
 
 ```text
-ä½œæ•²é–€ç“¦å­ï¼Œéš¨æ©Ÿå¼•å°Žå­¸è€…ï¼Œç«Ÿçˆ¾æŠ„éŒ„ï¼Œä¸è¦ºæˆé›†ã€‚
-åˆä¸ä»¥å‰å¾Œæ•˜åˆ—ï¼Œå…±æˆå››åå…«å‰‡ï¼Œé€šæ›°ç„¡é–€é—œã€‚
-è‹¥æ˜¯ç®‡æ¼¢ï¼Œå–®åˆ€ç›´å…¥ï¼Œå…«è‡‚é‚£å’ï¼Œæ“±ä»–ä¸ä½ã€‚
-ç¸±ä½¿è¥¿å¤©å››ä¸ƒï¼Œæ±åœŸäºŒä¸‰ï¼Œåªå¾—æœ›é¢¨ä¹žå‘½ã€‚
-è¨­æˆ–èºŠèº‡ï¼Œä¹Ÿä¼¼éš”çª—çœ‹é¦¬é¨Žï¼Œè²¶å¾—çœ¼ä¾†ï¼Œæ—©å·²è¹‰éŽã€‚
+作敲門瓦子，隨機引導學者，竟爾抄錄，不覺成集。
+初不以前後敘列，共成四十八則，通曰無門關。
+若是箇漢，單刀直入，八臂那吒，擱他不住。
+縱使西天四七，東土二三，只得望風乞命。
+設或躊躇，也似隔窗看馬騎，貶得眼來，早已蹉過。
 ```
 
 #### Notes
 
 - `學者` is a consolidation choice from image-based comparison only.
-- The opening phrase `ä½œæ•²é–€ç“¦å­` is supported by direct image reading.
+- The opening phrase `作敲門瓦子` is supported by direct image reading.
 - `單刀直入` is now resolved from the witness.
 - OCR output was substantially weaker than the image-reading agents, so OCR is comparator-only here.
 
 ### PDF p.011 left leaf
 
-- Role: commentary and verse on `ç™¾ä¸ˆé‡Žç‹`
+- Role: commentary and verse on `百丈野狐`
 - Confidence: high
 
 #### Consolidated Readable Text
 
 ```text
 無門曰：
-ä¸è½å› æžœï¼Œç‚ºç”šå¢®é‡Žç‹ï¼Ÿ
-ä¸æ˜§å› æžœï¼Œç‚ºç”šè„«é‡Žç‹ï¼Ÿ
-è‹¥å‘è€…è£è‘—å¾—ä¸€éš»çœ¼ï¼Œ
-ä¾¿çŸ¥å¾—å‰ç™¾ä¸ˆè´å¾—é¢¨æµäº”ç™¾ç”Ÿã€‚
+不落因果，為甚墮野狐？
+不昧因果，為甚脫野狐？
+若向者裏著得一隻眼，
+便知得前百丈贏得風流五百生。
 
 頌曰
-ä¸è½ä¸æ˜§ï¼Œ
+不落不昧，
 兩采一賽。
-ä¸æ˜§ä¸è½ï¼Œ
-åƒéŒ¯è¬éŒ¯ã€‚
+不昧不落，
+千錯萬錯。
 ```
 
 #### Notes
 
-- The key doctrinal pair `ä¸è½å› æžœ / ä¸æ˜§å› æžœ` is very clear in the witness.
+- The key doctrinal pair `不落因果 / 不昧因果` is very clear in the witness.
 - The verse is stable and visually well supported.
 
 ### PDF p.009 left leaf
 
-- Role: continuation of `è¶™å·žç‹—å­`
+- Role: continuation of `趙州狗子`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-å¦‚åžäº†ç®‡ç†±éµä¸¸ï¼Œç›¸ä¼¼ååˆåä¸å‡ºã€‚
-è•©ç›¡å¾žå‰æƒ¡çŸ¥æƒ¡è¦ºï¼Œä¹…ä¹…ç´”ç†Ÿã€‚
-è‡ªç„¶å…§å¤–æ‰“æˆä¸€ç‰‡ï¼Œå¦‚å•žå­å¾—å¤¢ï¼Œåªè¨±è‡ªçŸ¥ã€‚
+如吞了箇熱鐵丸，相似吐又吐不出。
+蕩盡從前惡知惡覺，久久純熟。
+自然內外打成一片，如啞子得夢，只許自知。
 驀然打發，驚天動地。
-å¦‚å¥ªå¾—é—œå°‡è»å¤§åˆ€å…¥æ‰‹ï¼Œ
+如奪得關將軍大刀入手，
 逢佛殺佛，逢祖殺祖。
 於生死岸頭得大自在，
-å‘å…­é“å››ç”Ÿä¸­éŠæˆ²ä¸‰æ˜§ã€‚
-ä¸”ä½œéº¼ç”Ÿææ’•ã€‚
+向六道四生中遊戲三昧。
+且作麼生提撕。
 盡平生氣力，舉箇無字。
-è‹¥ä¸é–“æ–·ï¼Œ
+若不間斷，
 好似法燭一點便著。
 ```
 
 #### Notes
 
-- This leaf is readable enough to continue the opening `è¶™å·žç‹—å­` instructions in a coherent block.
-- `PaddleOCR` was especially helpful on the lines beginning `è•©ç›¡å¾žå‰` and `è‡ªç„¶å…§å¤–`.
+- This leaf is readable enough to continue the opening `趙州狗子` instructions in a coherent block.
+- `PaddleOCR` was especially helpful on the lines beginning `蕩盡從前` and `自然內外`.
 - A few punctuation choices remain editorial, but the underlying witness text is stable enough for this draft.
 
 ### PDF p.009 right leaf
 
-- Role: opening prose on `è¶™å·žç‹—å­`
+- Role: continuation of `趙州狗子` `無門曰`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-å¸«é—œåªè€…ä¸€ç®‡ç„¡å­—ï¼Œä¹ƒå®—é–€ä¸€é—œä¹Ÿã€‚
-é‚ç›®ä¹‹æ›°ç¦ªå®—ç„¡é–€é—œã€‚
-é€å¾—éŽè€…ï¼Œéžä½†è¦ªè¦‹è¶™å·žï¼Œ
-ä¾¿å¯èˆ‡æ­·ä»£ç¥–å¸«æŠŠæ‰‹å…±è¡Œï¼Œ
-çœ‰æ¯›å»çµï¼ŒåŒä¸€çœ¼è¦‹ï¼ŒåŒä¸€è€³èžã€‚
-è±ˆä¸æ…¶å¿«ã€‚
-èŽ«æœ‰è¦é€é—œåº•éº¼ã€‚
-å°‡ä¸‰ç™¾å…­åéª¨ç¯€ã€å…«è¬å››åƒæ¯«ç«…ï¼Œ
-é€šèº«èµ·ç®‡ç–‘åœ˜ï¼Œåƒç®‡ç„¡å­—ã€‚
-æ™å¤œææ’•ï¼ŒèŽ«ä½œè™›ç„¡æœƒï¼Œ
+師關只者一箇無字，乃宗門一關也。
+遂目之曰禪宗無門關。
+透得過者，非但親見趙州，
+便可與歷代祖師把手共行，
+眉毛廝結，同一眼見，同一耳聞。
+豈不慶快。
+莫有要透關底麼。
+將三百六十骨節、八萬四千毫竅，
+通身起箇疑團，參箇無字。
+晝夜提撕，莫作虛無會，
 莫作有無會。
 ```
 
@@ -219,181 +282,181 @@
 
 ### PDF p.010 right leaf
 
-- Role: end of `è¶™å·žç‹—å­` verse and opening of `ç™¾ä¸ˆé‡Žç‹`
+- Role: end of `趙州狗子` verse and opening of `百丈野狐`
 - Confidence: medium-high
 
 #### Consolidated Readable Text
 
 ```text
-ç‹—å­ä½›æ€§
-å…¨ææ­£ä»¤
+狗子佛性
+全提正令
 纔涉有無
 喪身失命
 
-ã€”ç™¾ä¸ˆé‡Žç‹ã€•
+〔百丈野狐〕
 
-ç™¾ä¸ˆå’Œå°šï¼Œå‡¡åƒæ¬¡ï¼Œ
-æœ‰ä¸€è€äººå¸¸éš¨çœ¾è½æ³•ã€‚
-çœ¾äººé€€ï¼Œè€äººäº¦é€€ã€‚
-å¿½ä¸€æ—¥ä¸é€€ã€‚
-å¸«é‚å•ï¼š
-é¢å‰ç«‹è€…å¾©æ˜¯ä½•äººã€‚
-è€äººäº‘ï¼šè«¾ï¼ŒæŸç”²éžäººä¹Ÿã€‚
+百丈和尚，凡參次，
+有一老人常隨眾聽法。
+眾人退，老人亦退。
+忽一日不退。
+師遂問：
+面前立者復是何人。
+老人云：諾，某甲非人也。
 ```
 
 #### Notes
 
-- The case boundary is clear: the verse ending `è¶™å·žç‹—å­` is followed by the opening of `ç™¾ä¸ˆé‡Žç‹`.
-- The prose opening of `ç™¾ä¸ˆé‡Žç‹` is strong through `é¢å‰ç«‹è€…å¾©æ˜¯ä½•äºº`; the old manâ€™s reply begins on the leaf but is not fully secure from this page alone.
+- The case boundary is clear: the verse ending `趙州狗子` is followed by the opening of `百丈野狐`.
+- The prose opening of `百丈野狐` is strong through `面前立者復是何人`; the old man’s reply begins on the leaf but is not fully secure from this page alone.
 - `PaddleOCR` gave the cleanest support on the verse and opening prose lines here.
 - Third-witness corroboration:
   - `Transcriptions\Mumonkan_1752_Waseda_Commons\batch_refined\frames\page_013_left_frame.png`
   - `Transcriptions\Mumonkan_1752_Waseda_Commons\batch_refined\frames\page_013_right_frame.png`
-  - independently support the same `ä¸è½å› æžœ / ä¸æ˜§å› æžœ / äº”ç™¾ç”Ÿ / é‡Žç‹` cluster in the surrounding `ç™¾ä¸ˆé‡Žç‹` material
+  - independently support the same `不落因果 / 不昧因果 / 五百生 / 野狐` cluster in the surrounding `百丈野狐` material
 
 ### PDF p.010 left leaf
 
-- Role: continuation of `ç™¾ä¸ˆé‡Žç‹`
+- Role: continuation of `百丈野狐`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-è€äººäº‘ï¼š
-è«¾ï¼ŒæŸç”²éžäººä¹Ÿã€‚
-æ–¼éŽåŽ»è¿¦è‘‰ä½›æ™‚ï¼Œæ›¾ä½æ­¤å±±ã€‚
-å› å­¸äººå•ï¼š
-å¤§ä¿®è¡Œåº•äººï¼Œé‚„è½å› æžœä¹Ÿç„¡ã€‚
-æŸç”²å°äº‘ï¼šä¸è½å› æžœã€‚
-äº”ç™¾ç”Ÿå¢®é‡Žç‹èº«ã€‚
-ä»Šè«‹å’Œå°šä»£ä¸€è½‰èªžï¼Œè²´è„«é‡Žç‹ã€‚
-é‚å•ï¼š
-å¤§ä¿®è¡Œåº•äººï¼Œé‚„è½å› æžœä¹Ÿç„¡ã€‚
-å¸«äº‘ï¼šä¸æ˜§å› æžœã€‚
-è€äººæ–¼è¨€ä¸‹å¤§æ‚Ÿã€‚
+老人云：
+諾，某甲非人也。
+於過去迦葉佛時，曾住此山。
+因學人問：
+大修行底人，還落因果也無。
+某甲對云：不落因果。
+五百生墮野狐身。
+今請和尚代一轉語，貴脫野狐。
+遂問：
+大修行底人，還落因果也無。
+師云：不昧因果。
+老人於言下大悟。
 作禮云：
-æŸç”²å·²è„«é‡Žç‹èº«ï¼Œä½åœ¨å±±å¾Œã€‚
-æ•¢å‘Šå’Œå°šï¼Œä¹žä¾äº¡åƒ§äº‹ä¾‹ã€‚
+某甲已脫野狐身，住在山後。
+敢告和尚，乞依亡僧事例。
 師令維那白槌告眾。
 ```
 
 #### Notes
 
-- The witness strongly supports the doctrinal pair `ä¸è½å› æžœ / ä¸æ˜§å› æžœ`.
+- The witness strongly supports the doctrinal pair `不落因果 / 不昧因果`.
 - The final action phrase beginning `師令維那...` continues onto the next leaf and remains incomplete here.
 - `RapidOCR` and `PaddleOCR` both materially outperformed `tesseract` on this leaf.
 
 ### PDF p.012 right leaf
 
-- Role: prose on `ä¿±èƒè±ŽæŒ‡`
+- Role: prose on `俱胝豎指`
 - Confidence: high
 
 #### Consolidated Readable Text
 
 ```text
-ã€”ä¿±èƒè±ŽæŒ‡ã€•
+〔俱胝豎指〕
 
-ä¿±èƒå’Œå°šï¼Œå‡¡æœ‰è©°å•ï¼Œå”¯è±Žä¸€æŒ‡ã€‚
-å¾Œæœ‰ç«¥å­ï¼Œå› å¤–äººå•å’Œå°šèªªä½•æ³•è¦ï¼Œ
-ç«¥å­äº¦è±ŽæŒ‡é ­ã€‚
-èƒèžï¼Œé‚ä»¥åˆ€æ–·å…¶æŒ‡ã€‚
-ç«¥å­è² ç—›è™Ÿå“­è€ŒåŽ»ã€‚
-èƒå¾©å¬ä¹‹ã€‚
-ç«¥å­å›žé¦–ã€‚
-èƒå»è±Žèµ·æŒ‡ã€‚
-ç«¥å­å¿½ç„¶é ˜æ‚Ÿã€‚
+俱胝和尚，凡有詰問，唯豎一指。
+後有童子，因外人問和尚說何法要，
+童子亦豎指頭。
+胝聞，遂以刀斷其指。
+童子負痛號哭而去。
+胝復召之。
+童子回首。
+胝卻豎起指。
+童子忽然領悟。
 
-èƒå°‡é †ä¸–ï¼Œè¬‚çœ¾æ›°ï¼š
-å¾å¾—å¤©é¾ä¸€æŒ‡é ­ç¦ªï¼Œ
-ä¸€ç”Ÿå—ç”¨ä¸ç›¡ã€‚
+胝將順世，謂眾曰：
+吾得天龍一指頭禪，
+一生受用不盡。
 言訖示滅。
 ```
 
 #### Notes
 
-- The witness graph on the contents leaf may look like `å …æŒ‡`, but this body leaf supports `ä¿±èƒè±ŽæŒ‡`.
+- The witness graph on the contents leaf may look like `堅指`, but this body leaf supports `俱胝豎指`.
 - This page is one of the clearest prose leaves in the current sample set.
 
 ### PDF p.011 right leaf
 
-- Role: later prose on `ç™¾ä¸ˆé‡Žç‹`
+- Role: later prose on `百丈野狐`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
 〔師令維那白槌告眾：〕
-é£Ÿå¾Œé€äº¡åƒ§ã€‚
+食後送亡僧。
 大眾言議：
-ä¸€çœ¾çš†å®‰æ¶…æ§ƒå ‚ï¼Œåˆç„¡äººç—…ï¼Œä½•æ•…å¦‚æ˜¯ã€‚
-é£Ÿå¾Œåªè¦‹å¸«é ˜çœ¾è‡³å±±å¾Œå·–ä¸‹ï¼Œ
-ä»¥æ–æŒ‘å‡ºä¸€æ­»é‡Žç‹ï¼Œä¹ƒä¾ç«è‘¬ã€‚
-å¸«è‡³æ™šä¸Šå ‚ï¼Œèˆ‰å‰å› ç·£ã€‚
-é»ƒè˜—ä¾¿å•ï¼š
-å¤äººéŒ¯ç¥‡å°ä¸€è½‰èªžï¼Œ
-å¢®äº”ç™¾ç”Ÿé‡Žç‹èº«ã€‚
-è½‰è½‰ä¸éŒ¯ï¼Œåˆä½œç®‡ç”šéº¼ã€‚
-å¸«äº‘ï¼šè¿‘å‰ä¾†èˆ‡ä¼Šé“ã€‚
-é»ƒè˜—é‚è¿‘å‰èˆ‡å¸«ä¸€æŽŒã€‚
-å¸«æ‹æ‰‹ç¬‘äº‘ï¼šå°‡è¬‚èƒ¡é¬šèµ¤ï¼Œæ›´æœ‰èµ¤é¬šèƒ¡ã€‚
+一眾皆安涅槃堂，又無人病，何故如是。
+食後只見師領眾至山後巖下，
+以杖挑出一死野狐，乃依火葬。
+師至晚上堂，舉前因緣。
+黃蘗便問：
+古人錯祇對一轉語，
+墮五百生野狐身。
+轉轉不錯，合作箇甚麼。
+師云：近前來與伊道。
+黃蘗遂近前與師一掌。
+師拍手笑云：將謂胡鬚赤，更有赤鬚胡。
 ```
 
 #### Notes
 
 - `PaddleOCR` failed on this leaf with a runtime exception, but `RapidOCR`, `tesseract`, and the image itself were enough to recover the main prose block.
-- The final line after `å¸«æ‹æ‰‹ç¬‘äº‘` is present but not yet secure enough from this leaf alone for a clean witness-only reading.
+- The final line after `師拍手笑云` is present but not yet secure enough from this leaf alone for a clean witness-only reading.
 
 ### PDF p.012 left leaf
 
-- Role: commentary on `ä¿±èƒè±ŽæŒ‡`, verse, and opening of `èƒ¡å­ç„¡é¬š`
+- Role: commentary on `俱胝豎指`, verse, and opening of `胡子無鬚`
 - Confidence: medium-high
 
 #### Consolidated Readable Text
 
 ```text
 無門曰：
-ä¿±èƒå¹¶ç«¥å­æ‚Ÿè™•ï¼Œä¸åœ¨æŒ‡é ­ä¸Šã€‚
-è‹¥å‘è€…è£è¦‹å¾—ï¼Œ
-å¤©é¾åŒä¿±èƒå¹¶ç«¥å­ï¼Œ
-èˆ‡è‡ªå·±ä¸€ä¸²ç©¿å´ã€‚
+俱胝并童子悟處，不在指頭上。
+若向者裏見得，
+天龍同俱胝并童子，
+與自己一串穿却。
 
 頌曰
-ä¿±èƒéˆç½®è€å¤©é¾ï¼Œ
-åˆ©åˆƒå–®æå‹˜å°ç«¥ã€‚
-å·¨éˆæ“¡æ‰‹ç„¡å¤šå­ï¼Œ
-åˆ†ç ´è¯å±±åƒè¬é‡ã€‚
+俱胝鈍置老天龍，
+利刃單提勘小童。
+巨靈擡手無多子，
+分破華山千萬重。
 
-ã€”èƒ¡å­ç„¡é¬šã€•
+〔胡子無鬚〕
 ```
 
 #### Notes
 
 - The verse is strongly supported by both the image and the stronger OCR comparators.
-- The title `èƒ¡å­ç„¡é¬š` is clear enough to mark the next case boundary confidently.
+- The title `胡子無鬚` is clear enough to mark the next case boundary confidently.
 - `PaddleOCR` was the cleanest OCR comparator on this leaf.
 
 ### PDF p.013 right leaf
 
-- Role: commentary and verse on `èƒ¡å­ç„¡é¬š`, with opening of `é¦™åš´ä¸Šæ¨¹`
+- Role: commentary and verse on `胡子無鬚`, with opening of `香嚴上樹`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”èƒ¡å­ç„¡é¬šã€•
+〔胡子無鬚〕
 
 或庵曰：
-è¥¿å¤©èƒ¡å­ï¼Œå› ç”šç„¡é¬šã€‚
+西天胡子，因甚無鬚。
 
 無門曰：
-åƒé ˆå¯¦åƒï¼Œæ‚Ÿé ˆå¯¦æ‚Ÿã€‚
-è€…ç®‡èƒ¡å­ï¼Œç›´é ˆè¦ªè¦‹ä¸€å›žï¼Œå§‹å¾—ã€‚
-èªªè¦ªè¦‹ï¼Œæ—©æˆå…©ç®‡ã€‚
+參須實參，悟須實悟。
+者箇胡子，直須親見一回，始得。
+說親見，早成兩箇。
 
 頌曰
-ç™¡äººé¢å‰ï¼Œ
-ä¸å¯èªªå¤¢ã€‚
-èƒ¡å­ç„¡é¬šï¼Œ
+癡人面前，
+不可說夢。
+胡子無鬚，
 惺惺添懵。
 
 〔香嚴上樹〕
@@ -414,19 +477,19 @@
 
 ```text
 香嚴和尚云：
-å¦‚äººä¸Šæ¨¹ï¼Œå£éŠœæ¨¹æžï¼Œæ‰‹ä¸æ”€æžï¼Œè„šä¸è¸æ¨¹ã€‚
-æ¨¹ä¸‹æœ‰äººå•è¥¿ä¾†æ„ï¼Œ
-ä¸å°ï¼Œå³é•ä»–æ‰€å•ï¼›
-è‹¥å°ï¼Œåˆå–ªèº«å¤±å‘½ã€‚
-æ­£ç•¶æéº¼æ™‚ï¼Œä½œéº¼ç”Ÿå°ã€‚
+如人上樹，口銜樹枝，手不攀枝，脚不踏樹。
+樹下有人問西來意，
+不對，即違他所問；
+若對，又喪身失命。
+正當恁麼時，作麼生對。
 
 無門曰：
-ç¸±æœ‰æ‡¸æ²³ä¹‹è¾¨ï¼Œç¸½ç”¨ä¸è‘—ã€‚
-èªªå¾—ä¸€å¤§è—æ•™ï¼Œäº¦ç”¨ä¸è‘—ã€‚
-è‹¥å‘è€…è£å°å¾—è‘—ï¼Œ
-æ´»å´å¾žå‰æ­»è·¯é ­ï¼Œ
-æ­»å´å¾žå‰æ´»è·¯é ­ã€‚
-å…¶æˆ–æœªç„¶ï¼Œç›´å¾…ç•¶ä¾†å•å½Œå‹’ã€‚
+縱有懸河之辨，總用不著。
+說得一大藏教，亦用不著。
+若向者裏對得著，
+活却從前死路頭，
+死却從前活路頭。
+其或未然，直待當來問彌勒。
 ```
 
 #### Notes
@@ -443,16 +506,16 @@
 
 ```text
 頌曰
-é¦™åš´çœŸæœæ’°ï¼Œ
-æƒ¡æ¯’ç„¡ç›¡é™ã€‚
-å•žå´ç´åƒ§å£ï¼Œ
+香嚴真杜撰，
+惡毒無盡限。
+啞却納僧口，
 通身迸鬼眼。
 
 〔世尊拈花〕
 
-ä¸–å°Šæ˜”åœ¨éˆå±±æœƒä¸Šï¼Œæ‹ˆèŠ±ç¤ºçœ¾ã€‚
+世尊昔在靈山會上，拈花示眾。
 是時眾皆默然，
-æƒŸè¿¦è‘‰å°Šè€…ç ´é¡å¾®ç¬‘ã€‚
+惟迦葉尊者破顏微笑。
 ```
 
 #### Notes
@@ -469,18 +532,18 @@
 
 ```text
 無門曰：
-é»ƒé¢çž¿æ›‡ï¼Œå‚è‹¥ç„¡äººï¼Œ
+黃面瞿曇，傍若無人，
 壓良為賤，懸羊頭賣狗肉。
 將謂多少奇特。
 
-åªå¦‚ç•¶æ™‚å¤§çœ¾éƒ½ç¬‘ï¼Œ
-æ­£æ³•çœ¼è—ï¼Œä½œéº¼ç”Ÿå‚³ã€‚
-è¨­ä½¿è¿¦è‘‰ä¸ç¬‘ï¼Œ
-æ­£æ³•çœ¼è—åˆä½œéº¼ç”Ÿå‚³ã€‚
-è‹¥é“æ­£æ³•çœ¼è—æœ‰å‚³ï¼Œ
-é»ƒé¢è€å­ï¼Œèª‘è¬¼é–­é–»ã€‚
-è‹¥é“ç„¡å‚³ï¼Œ
-ç‚ºç”šéº¼ç¨è¨±è¿¦è‘‰ã€‚
+只如當時大眾都笑，
+正法眼藏，作麼生傳。
+設使迦葉不笑，
+正法眼藏又作麼生傳。
+若道正法眼藏有傳，
+黃面老子，誑謼閭閻。
+若道無傳，
+為甚麼獨許迦葉。
 ```
 
 #### Notes
@@ -499,29 +562,29 @@
 ```text
 〔世尊拈花〕
 
-å‚³æŽˆç‚ºç”šéº¼ï¼Œç¨è¨±è¿¦è‘‰ã€‚
+傳授為甚麼，獨許迦葉。
 
 頌曰
 拈起花來，
-è¿¦è‘‰ç ´é¡ã€‚
+迦葉破顏。
 尾巴已露，
 人天罔措。
 
 〔趙州洗鉢〕
 
-è¶™å·žå› åƒ§å•ï¼š
-å…¶ç”²ä¹å…¥å¢æž—ï¼Œä¹žå¸«æŒ‡ç¤ºã€‚
+趙州因僧問：
+其甲乍入叢林，乞師指示。
 州云：喫粥了也未？
 僧云：喫粥了也。
 州云：洗鉢盂去。
-å…¶åƒ§æœ‰çœã€‚
+其僧有省。
 ```
 
 #### Notes
 
 - This leaf clearly spans a case boundary: the verse of `世尊拈花` and the prose opening of `趙州洗鉢`.
 - `傳授為甚麼` is better supported than the earlier weaker reading.
-- The phrase `å…¶ç”²ä¹å…¥å¢æž—` remains somewhat odd at the graph level, but the witness image supports it closely enough to retain for now.
+- The phrase `其甲乍入叢林` remains somewhat odd at the graph level, but the witness image supports it closely enough to retain for now.
 
 ### PDF p.015 left leaf
 
@@ -532,20 +595,20 @@
 
 ```text
 無門曰：
-è¶™å·žé–‹å£ï¼Œè¦‹è†½éœ²å¿ƒè‚ã€‚
-é€™åƒ§è½äº‹ä¸çœŸï¼Œå–šé˜ä½œç”•ã€‚
+趙州開口，見膽露心肝。
+這僧聽事不真，喚鐘作甕。
 
 頌曰
-åªçˆ²åˆ†æ˜Žæ¥µï¼Œ
-ç¿»ä»¤æ‰€å¾—é²ã€‚
-æ—©çŸ¥ç‡ˆæ˜¯ç«ï¼Œ
+只爲分明極，
+翻令所得遲。
+早知燈是火，
 飯熟已多時。
 
 〔奚仲造車〕
 
-æœˆåºµå’Œå°šå•åƒ§ï¼š
+月庵和尚問僧：
 奚仲造車，一百輻，
-æ‹ˆå´å…©é ­ï¼ŒåŽ»å´è»¸ï¼Œ
+拈却兩頭，去却軸，
 明甚麼邊事。
 ```
 
@@ -553,12 +616,12 @@
 
 - The page image supports this reading strongly.
 - One or two graphs are faint in the witness, but the line-level reading is stable.
-- `è¦‹è†½éœ²å¿ƒè‚` is better supported than the earlier shorter reading.
+- `見膽露心肝` is better supported than the earlier shorter reading.
 - This leaf also clearly opens the next case `奚仲造車`.
 
 ### PDF p.016 right leaf
 
-- Role: case-boundary leaf; end of one case and opening of `å¤§é€šæ™ºå‹`
+- Role: case-boundary leaf; end of one case and opening of `大通智勝`
 - Confidence: medium-high
 
 #### Consolidated Readable Text
@@ -566,30 +629,30 @@
 ```text
 無門曰：
 若出直下明得，
-çœ¼ä¼¼æµæ˜Ÿï¼Œ
+眼似流星，
 機如掣電。
 
 頌曰
 機輪轉處，
-é”è€…çŒ¶è¿·ã€‚
+達者猶迷。
 四維上下，
-å—åŒ—æ±è¥¿ã€‚
+南北東西。
 
-ã€”å¤§é€šæ™ºå‹ã€•
+〔大通智勝〕
 
-èˆˆé™½è®“å’Œå°šå› åƒ§å•ï¼š
-å¤§é€šæ™ºå‹ä½›ï¼ŒååŠ«åé“å ´ï¼Œ
-ä½›æ³•ä¸ç¾å‰ï¼Œä¸å¾—æˆä½›é“ã€‚
+興陽讓和尚因僧問：
+大通智勝佛，十劫坐道場，
+佛法不現前，不得成佛道。
 ```
 
 #### Notes
 
-- This leaf clearly spans a boundary between a preceding commentary / verse and the opening prose of `å¤§é€šæ™ºå‹`.
-- The opening `å¤§é€šæ™ºå‹ä½›ï¼ŒååŠ«åé“å ´` line is secure from the witness.
+- This leaf clearly spans a boundary between a preceding commentary / verse and the opening prose of `大通智勝`.
+- The opening `大通智勝佛，十劫坐道場` line is secure from the witness.
 
 ### PDF p.016 left leaf
 
-- Role: continuation of `å¤§é€šæ™ºå‹`
+- Role: continuation of `大通智勝`
 - Confidence: medium
 
 #### Consolidated Readable Text
@@ -597,22 +660,22 @@
 ```text
 時如何。
 讓曰：
-å…¶å•ç”šè«¦ã€‚
+其問甚諦。
 當僧云：
-æ—¢æ˜¯åé“å ´ï¼Œ
-çˆ²ç”šéº¼ä¸å¾—æˆä½›é“ã€‚
+既是坐道場，
+爲甚麼不得成佛道。
 
 無門曰：
-åªè¨±è€èƒ¡çŸ¥ï¼Œ
-ä¸è¨±è€èƒ¡æœƒã€‚
-å‡¡å¤«è‹¥çŸ¥ï¼Œå³æ˜¯è–äººã€‚
-è–äººè‹¥æœƒï¼Œå³æ˜¯å‡¡å¤«ã€‚
+只許老胡知，
+不許老胡會。
+凡夫若知，即是聖人。
+聖人若會，即是凡夫。
 
 頌曰
 了身何似了心休，
-äº†å¾—å¿ƒå…®èº«ä¸æ„ã€‚
+了得心兮身不愁。
 若也身心俱了了，
-ç¥žä»™ä½•å¿…æ›´å°ä¾¯ã€‚
+神仙何必更封侯。
 ```
 
 #### Notes
@@ -622,7 +685,7 @@
 
 ### PDF p.017 right leaf
 
-- Role: end of `å¤§é€šæ™ºå‹`, with opening of `æ¸…ç¨…å­¤è²§`
+- Role: end of `大通智勝`, with opening of `清稅孤貧`
 - Confidence: medium
 
 #### Consolidated Readable Text
@@ -630,22 +693,22 @@
 ```text
 〔頌曰〕
 了身何似了心休，
-äº†å¾—å¿ƒå…®èº«ä¸æ„ã€‚
+了得心兮身不愁。
 若也身心俱了了，
-ç¥žä»™ä½•å¿…æ›´å°ä¾¯ã€‚
+神仙何必更封侯。
 
 〔清稅孤貧〕
 
-æ›¹å±±å’Œå°šå› åƒ§å•äº‘ï¼š
+曹山和尚因僧問云：
 清稅孤貧，乞師賑濟。
 山云：
-ç¨…é—æ¢¨ï¼Œé’åŽŸç™½å®¶é…’ï¼Œ
-ä¸‰ç›žå–«äº†ï¼ŒçŒ¶é“æœªæ²¾å”‡ã€‚
+稅闍梨，青原白家酒，
+三盞喫了，猶道未沾唇。
 ```
 
 #### Notes
 
-- The verse ending of `å¤§é€šæ™ºå‹` is clear enough to carry forward from the previous leaf.
+- The verse ending of `大通智勝` is clear enough to carry forward from the previous leaf.
 - The opening of `清稅孤貧` is readable, though a few graphs in the case prose remain slightly soft.
 - `RapidOCR` materially helped on the `清稅孤貧` lines.
 
@@ -659,14 +722,14 @@
 ```text
 〔州勘庵主〕
 
-è¶™å·žåˆ°ä¸€åºµä¸»è™•å•ï¼š
+趙州到一庵主處問：
 有麼有麼。
 主竪起拳頭。
 州云：
-æ°´æ·ºä¸æ˜¯æ³Šèˆ¹è™•ã€‚
+水淺不是泊船處。
 便行。
 
-åˆåˆ°ä¸€åºµä¸»è™•äº‘ï¼š
+又到一庵主處云：
 有麼有麼。
 主亦竪起拳頭。
 州云：
@@ -674,10 +737,10 @@
 便作禮。
 
 頌曰
-çœ¼æµæ˜Ÿï¼Œ
+眼流星，
 機掣電。
 殺人刀，
-æ´»äººåŠã€‚
+活人劍。
 ```
 
 #### Notes
@@ -695,13 +758,13 @@
 ```text
 無門曰：
 一般竪起拳頭，
-çˆ²ç”šéº¼è‚¯ä¸€ç®‡ï¼Œä¸è‚¯ä¸€ç®‡ã€‚
-ä¸”é“ï¼Œç—…åœ¨ç”šè™•ã€‚
-è‹¥å‘è€…è£ä¸‹å¾—ä¸€è½‰èªžï¼Œ
+爲甚麼肯一箇，不肯一箇。
+且道，病在甚處。
+若向者裏下得一轉語，
 便見趙州舌頭無骨，
 扶起放倒，得大自在。
 然雖如是，
-è¶™å·žå´è¢«äºŒåºµä¸»å‹˜ç ´ã€‚
+趙州却被二庵主勘破。
 
 〔巖喚主人〕
 起拳頭，
@@ -722,28 +785,28 @@
 #### Consolidated Readable Text
 
 ```text
-çœ¼è‹¥é“ç„¡å„ªåŠ£ï¼Œäº¦æœªå…·åƒå­¸çœ¼ã€‚
+眼若道無優劣，亦未具參學眼。
 
 頌曰
-çœ¼æµæ˜Ÿï¼Œ
+眼流星，
 機掣電。
 殺人刀，
-æ´»äººåŠã€‚
+活人劍。
 
-ç‘žå·–å’Œå°šæ¯è‡ªå–šä¸»äººå…¬ï¼Œ
+瑞巖和尚每自喚主人公，
 復自應諾。
 乃云：
 惺惺著。
 他時異日，
-èŽ«å—äººçžžã€‚
+莫受人瞞。
 ```
 
 #### Notes
 
 - This leaf is the weakest of the block.
-- The carry-over line `çœ¼è‹¥é“ç„¡å„ªåŠ£ï¼Œäº¦æœªå…·åƒå­¸çœ¼ã€‚` is visible at the top margin and belongs to the preceding commentary.
-- The `çœ¼æµæ˜Ÿ / æ©ŸæŽ£é›» / æ®ºäººåˆ€ / æ´»äººåŠ` lines are clear.
-- The opening `ç‘žå·–å’Œå°šæ¯è‡ªå–šä¸»äººå…¬` lines are readable in substance, but the transition from the preceding verse is still too weak to normalize fully.
+- The carry-over line `眼若道無優劣，亦未具參學眼。` is visible at the top margin and belongs to the preceding commentary.
+- The `眼流星 / 機掣電 / 殺人刀 / 活人劍` lines are clear.
+- The opening `瑞巖和尚每自喚主人公` lines are readable in substance, but the transition from the preceding verse is still too weak to normalize fully.
 
 ### PDF p.019 right leaf
 
@@ -754,18 +817,18 @@
 
 ```text
 無門曰：
-ç‘žå·–è€å­ï¼Œè‡ªè²·è‡ªè³£ï¼Œå¼„å‡ºè¨±å¤šç¥žé ­é¬¼é¢ã€‚
+瑞巖老子，自買自賣，弄出許多神頭鬼面。
 何故。
 一箇喚底，一箇應底；
-ä¸€ç®‡æƒºæƒºåº•ï¼Œä¸€ç®‡ä¸å—äººçžžåº•ã€‚
-èªè‘—ä¾å‰é‚„ä¸æ˜¯ã€‚
+一箇惺惺底，一箇不受人瞞底。
+認著依前還不是。
 若也你擬他，
-ç¸½æ˜¯é‡Žç‹è¦‹è§£ã€‚
+總是野狐見解。
 
 頌曰
-å­¸é“ä¹‹äººä¸è­˜çœŸï¼Œ
-åªç‚ºå¾žå‰èªè­˜ç¥žã€‚
-ç„¡é‡åŠ«ä¾†ç”Ÿæ­»æœ¬ï¼Œ
+學道之人不識真，
+只為從前認識神。
+無量劫來生死本，
 癡人喚作本來人。
 ```
 
@@ -785,16 +848,16 @@
 〔德山托鉢〕
 
 德山一日托鉢下堂。
-è¦‹é›ªå³°å•è€…ï¼Œè€æ¼¢é˜æœªé³´ã€é¼“æœªéŸ¿ï¼Œ
-æ‰˜é‰¢å‘ç”šè™•åŽ»ã€‚
+見雪峰問者，老漢鐘未鳴、鼓未響，
+托鉢向甚處去。
 山便回方丈。
 
 峰舉似巖頭。
 頭云：
-å¤§å°å¾·å±±ï¼Œæœªæœƒæœ«å¾Œå¥ã€‚
+大小德山，未會末後句。
 
-å±±èžï¼Œä»¤ä¾è€…å–šå·–é ­ä¾†å•æ›°ï¼š
-æ±ä¸è‚¯è€åƒ§é‚£ã€‚
+山聞，令侍者喚巖頭來問曰：
+汝不肯老僧那。
 ```
 
 #### Notes
@@ -810,47 +873,47 @@
 #### Consolidated Readable Text
 
 ```text
-å·–é ­å¯†å•“å…¶æ„ã€‚
+巖頭密啓其意。
 山乃休去。
-æ˜Žæ—¥é™žåº§ï¼Œæžœèˆ‡å°‹å¸¸ä¸åŒã€‚
-å·–é ­è‡³åƒ§å ‚å‰ï¼Œæ‹ŠæŽŒå¤§ç¬‘äº‘ï¼š
-ä¸”å–œè€æ¼¢æœƒæœ«å¾Œå¥ã€‚
+明日陞座，果與尋常不同。
+巖頭至僧堂前，拊掌大笑云：
+且喜老漢會末後句。
 
-ä»–å¾Œå¤©ä¸‹äººä¸å¥ˆä¼Šä½•ã€‚
+他後天下人不奈伊何。
 
 無門曰：
-è‹¥æ˜¯æœªå¾Œå¥ï¼Œ
-å·–é ­ã€å¾·å±±ä¿±æœªå¤¢è¦‹åœ¨ã€‚
+若是未後句，
+巖頭、德山俱未夢見在。
 檢點將來，好似一棚傀儡。
 ```
 
 #### Notes
 
 - The `德山托鉢` continuation is readable in substance, though the middle of the commentary remains slightly soft.
-- `æœƒæœ«å¾Œå¥` is secure from the witness and is the key phrase on this leaf.
+- `會末後句` is secure from the witness and is the key phrase on this leaf.
 
 ### PDF p.020 left leaf
 
-- Role: verse on `å¾·å±±æ‰˜é‰¢`, with opening of `å—æ³‰æ–¬çŒ«`
+- Role: verse on `德山托鉢`, with opening of `南泉斬猫`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
 頌曰
-è­˜å¾—æœ€åˆå¥ï¼Œ
-ä¾¿æœƒæœ«å¾Œå¥ã€‚
-æœ«å¾Œèˆ‡æœ€åˆï¼Œ
-ä¸æ˜¯è€…ä¸€å¥ã€‚
+識得最初句，
+便會末後句。
+末後與最初，
+不是者一句。
 
-ã€”å—æ³‰æ–¬çŒ«ã€•
+〔南泉斬猫〕
 
-å—æ³‰å’Œå°šå› æ±è¥¿å…©å ‚çˆ­çŒ«å…’ã€‚
-æ³‰ä¹ƒæèµ·äº‘ï¼š
-å¤§çœ¾é“å¾—å³æ•‘ï¼Œ
-é“ä¸å¾—å³æ–¬å´ä¹Ÿã€‚
-çœ¾ç„¡å°ã€‚
-æ³‰é‚æ–¬ä¹‹ã€‚
+南泉和尚因東西兩堂爭猫兒。
+泉乃提起云：
+大眾道得即救，
+道不得即斬却也。
+眾無對。
+泉遂斬之。
 
 趙州外歸，
 泉舉似州。
@@ -860,34 +923,34 @@
 
 #### Notes
 
-- The verse and the opening of `å—æ³‰æ–¬çŒ«` are both secure enough for the witness draft.
-- The phrase `æ±è¥¿å…©å ‚çˆ­çŒ«å…’` is visually strong and anchors the case identity.
+- The verse and the opening of `南泉斬猫` are both secure enough for the witness draft.
+- The phrase `東西兩堂爭猫兒` is visually strong and anchors the case identity.
 
 ### PDF p.017 right leaf
 
-- Role: end of `å¤§é€šæ™ºå‹` verse and opening of `æ¸…ç¨…å­¤è²§`
+- Role: end of `大通智勝` verse and opening of `清稅孤貧`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
 縱若也身心俱了了，
-ç¥žä»™ä½•å¿…æ›´å°ä¾¯ã€‚
+神仙何必更封侯。
 
 〔清稅孤貧〕
 
-æ›¹å±±å’Œå°šå› åƒ§å•äº‘ï¼š
+曹山和尚因僧問云：
 清稅孤貧，乞師賑濟。
 山云：
-ç¨…é—æ¢¨ï¼Œé’åŽŸç™½å®¶é…’ï¼Œ
-ä¸‰ç›žå–«äº†ï¼ŒçŒ¶é“æœªæ²¾å”‡ã€‚
+稅闍梨，青原白家酒，
+三盞喫了，猶道未沾唇。
 ```
 
 #### Notes
 
 - The case boundary is clear in the witness.
 - The `清稅孤貧` prose block is readable enough to carry into the draft without importing outside text.
-- `RapidOCR` helped confirm `é’åŽŸç™½å®¶é…’ / ä¸‰ç›žå–«äº† / çŒ¶é“æœªæ²¾å”‡`.
+- `RapidOCR` helped confirm `青原白家酒 / 三盞喫了 / 猶道未沾唇`.
 
 ### PDF p.017 left leaf
 
@@ -905,13 +968,13 @@
 
 〔州勘庵主〕
 
-è¶™å·žåˆ°ä¸€åºµä¸»è™•å•ï¼š
+趙州到一庵主處問：
 有麼有麼。
 主豎起拳頭。
 州云：
-æ°´æ·ºä¸æ˜¯æ³ŠèˆŸè™•ã€‚
+水淺不是泊舟處。
 便行。
-åˆåˆ°ä¸€åºµä¸»è™•äº‘ï¼š
+又到一庵主處云：
 有麼有麼。
 主亦豎起拳頭。
 ```
@@ -937,14 +1000,14 @@
 
 無門曰：
 一般豎起拳頭，
-çˆ²ç”šéº¼è‚¯ä¸€ç®‡ï¼Œä¸è‚¯ä¸€ç®‡ã€‚
-ä¸”é“ï¼Œè¨›åœ¨ç”šè™•ã€‚
-è‹¥å‘è€…è£ä¸‹å¾—ä¸€è½‰èªžï¼Œ
+爲甚麼肯一箇，不肯一箇。
+且道，訛在甚處。
+若向者裏下得一轉語，
 便見趙州舌頭無骨，
 扶起放倒，
 得大自在。
 然雖如是，
-çˆ­å¥ˆè¶™å·žå´è¢«äºŒåºµä¸»å‹˜ç ´ã€‚
+爭奈趙州却被二庵主勘破。
 ```
 
 #### Notes
@@ -961,18 +1024,18 @@
 
 ```text
 頌曰
-çœ¼æµæ˜Ÿï¼Œ
+眼流星，
 機掣電。
 殺人刀，
-æ´»äººåŠã€‚
+活人劍。
 
 〔巖喚主人〕
 
-ç‘žå·–å’Œå°šï¼Œæ¯æ—¥è‡ªå–šä¸»äººå…¬ï¼Œ
+瑞巖和尚，每日自喚主人公，
 復自應諾。
 惺惺著。
 他時異日，
-èŽ«å—äººçžžã€‚
+莫受人瞞。
 ```
 
 #### Notes
@@ -990,62 +1053,62 @@
 ```text
 〔趙州勘婆〕
 
-è¶™å·žå› åƒ§å•å©†å­ï¼š
-å°å±±è·¯å‘ç”šè™•åŽ»ï¼Ÿ
+趙州因僧問婆子：
+台山路向甚處去？
 婆云：驀直去。
 僧纔行三五步，
-å©†äº‘ï¼šå¥½ç®‡å¸«åƒ§ï¼Œåˆæéº½åŽ»ã€‚
+婆云：好箇師僧，又恁麽去。
 
 後有僧舉似州。
-å·žäº‘ï¼šå¾…æˆ‘åŽ»èˆ‡ä½ å‹˜éŽé€™å©†å­ã€‚
-æ˜Žæ—¥ä¾¿åŽ»ï¼Œäº¦å¦‚æ˜¯å•ã€‚
+州云：待我去與你勘過這婆子。
+明日便去，亦如是問。
 婆亦如是答。
 州歸謂眾曰：
-å°å±±å©†å­ï¼Œæˆ‘èˆ‡ä½ å‹˜ç ´äº†ä¹Ÿã€‚
+台山婆子，我與你勘破了也。
 ```
 
 #### Notes
 
-- Short fragments near the top margin appear to belong to adjacent title or verse material, including readable pieces such as `æ›´å•å¦‚ä½•` and `æŠ±è³Šå«å±ˆ`.
+- Short fragments near the top margin appear to belong to adjacent title or verse material, including readable pieces such as `更問如何` and `抱賊叫屈`.
 - The body prose itself is clearer than those top fragments.
 - Second-witness corroboration:
   - `Transcriptions\Wumen_Huikai_NDL_Commons\batch_refined\frames\page_046_left_frame.png`
-  - independently supports the same prose cluster, including `å©†äº‘ï¼šé©€ç›´åŽ»`, `åƒ§çº”è¡Œä¸‰äº”æ­¥`, `å©†äº‘ï¼šå¥½ç®‡å¸«åƒ§`, and the later `èµ´è©¦ / é»žå¿ƒ / ç…Žæ²¹ç³` phrase family
+  - independently supports the same prose cluster, including `婆云：驀直去`, `僧纔行三五步`, `婆云：好箇師僧`, and the later `赴試 / 點心 / 煎油糍` phrase family
 - This section should be checked later against its facing leaf to recover the full case unit and verse.
 
 ### PDF p.021 right leaf
 
-- Role: commentary and verse on `å—æ³‰æ–¬çŒ«`, with opening of `æ´žå±±ä¸‰é “`
+- Role: commentary and verse on `南泉斬猫`, with opening of `洞山三頓`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
 無門曰：
-è‹¥å‘è€…è£ä¸‹å¾—ä¸€è½‰èªžï¼Œ
-ä¾¿è¦‹å—æ³‰ä»¤ä¸è™›è¡Œã€‚
+若向者裏下得一轉語，
+便見南泉令不虛行。
 其或未然，
 趙州若在，
-å¥ªå´åˆ€å­ï¼Œ
+奪却刀子，
 倒行此令，
-å—æ³‰ä¹žå‘½ã€‚
+南泉乞命。
 
 〔洞山三頓〕
 
-é›²é–€å•æ´žå±±ï¼š
+雲門問洞山：
 近日離甚處。
 山云：
 查渡。
 門曰：
-å¤åœ¨ç”šè™•ã€‚
+夏在甚處。
 山云：
-æ¹–å—ã€‚
+湖南。
 ```
 
 #### Notes
 
-- The `å—æ³‰æ–¬çŒ«` commentary block is visually strong enough to recover without outside support.
-- The start of `æ´žå±±ä¸‰é “` is clear through `æ¹–å—`.
+- The `南泉斬猫` commentary block is visually strong enough to recover without outside support.
+- The start of `洞山三頓` is clear through `湖南`.
 - `RapidOCR` matched the visible case transition well enough to support this reading.
 
 ### PDF p.021 left leaf
@@ -1059,29 +1122,29 @@
 門曰：
 幾時離彼。
 山云：
-å…«æœˆäºŒåäº”ã€‚
+八月二十五。
 門曰：
-æ”¾æ±ä¸‰é “æ£’ã€‚
+放汝三頓棒。
 
 至明日，
-å±±å´ä¸Šå•è¨Šï¼š
+山却上問訊：
 昨日蒙和尚放三頓棒，
-ä¸çŸ¥éŽåœ¨ç”šéº¼è™•ã€‚
+不知過在甚麼處。
 門曰：
-é£¯è¢‹å­ï¼Œ
-æ±Ÿè¥¿æ¹–å—ä¾¿æéº¼åŽ»ã€‚
+飯袋子，
+江西湖南便恁麼去。
 洞山於此大悟。
 
 無門曰：
-é›²é–€ç•¶æ™‚ä¾¿èˆ‡æœ¬åˆ†è‰æ–™ï¼Œ
+雲門當時便與本分草料，
 使洞山別有生機一路，
-å®¶é–€ä¸è‡´å¯‚å¯¥ã€‚
-ä¸€å¤œåœ¨æ˜¯éžæµ·è£è‘—åˆ°ç›´å¾…å¤©æ˜Žå†ä¾†
+家門不致寂寥。
+一夜在是非海裏著到直待天明再來
 ```
 
 #### Notes
 
-- `PaddleOCR` was useful here for confirming `æ˜¨æ—¥è’™å’Œå°šæ”¾ä¸‰é “æ£’` and `æ±Ÿè¥¿æ¹–å—ä¾¿æéº¼åŽ»`.
+- `PaddleOCR` was useful here for confirming `昨日蒙和尚放三頓棒` and `江西湖南便恁麼去`.
 - The last commentary line continues onto the next leaf, so this section stops before forcing the broken sentence.
 
 ### PDF p.022 right leaf
@@ -1092,80 +1155,80 @@
 #### Consolidated Readable Text
 
 ```text
-å¤©æ˜Žå†ä¾†ï¼Œ
+天明再來，
 別與他注破。
 洞山直下悟去，
 未是性燥。
-ä¸”å•è«¸äººï¼Œ
+且問諸人，
 洞山三頓棒，
-åˆå–«ä¸åˆå–«ã€‚
-è‹¥é“åˆå–«ï¼Œ
-è‰æœ¨å¢æž—çš†åˆå–«æ£’ã€‚
-è‹¥é“ä¸åˆå–«ï¼Œ
-é›²é–€åˆæˆèª‘èªžã€‚
-å‘è€…è£æ˜Žå¾—ï¼Œ
-æ–¹èˆ‡æ´žå±±å‡ºä¸€å£æ°£ã€‚
+合喫不合喫。
+若道合喫，
+草木叢林皆合喫棒。
+若道不合喫，
+雲門又成誑語。
+向者裏明得，
+方與洞山出一口氣。
 
 頌曰
-ç…å­æ•™å…’è¿·å­è¨£ï¼Œ
-æ“¬å‰è·³èº‘æ—©ç¿»èº«ã€‚
+獅子教兒迷子訣，
+擬前跳躑早翻身。
 ```
 
 #### Notes
 
 - The commentary block on this leaf is stronger than the verse opening.
-- `PaddleOCR` helped confirm the sequence `åˆå–«ä¸åˆå–« / è‰æœ¨å¢æž— / é›²é–€åˆæˆèª‘èªž`.
+- `PaddleOCR` helped confirm the sequence `合喫不合喫 / 草木叢林 / 雲門又成誑語`.
 - The second half of the verse clearly continues onto the facing leaf.
 
 ### PDF p.022 left leaf
 
-- Role: end of verse on `æ´žå±±ä¸‰é “`, with opening of `é˜è²ä¸ƒæ¢`
+- Role: end of verse on `洞山三頓`, with opening of `鐘聲七條`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ç„¡ç«¯å†æ•˜ç•¶é ­è‘—ï¼Œ
-å‰ç®­çŒ¶è¼•å¾Œç®­æ·±ã€‚
+無端再敘當頭著，
+前箭猶輕後箭深。
 
-ã€”é˜è²ä¸ƒæ¢ã€•
+〔鐘聲七條〕
 
 雲門曰：
-ä¸–ç•Œæéº¼å»£é—Šï¼Œ
-å› ç”šå‘é˜è²è£æŠ«ä¸ƒæ¢ã€‚
+世界恁麼廣闊，
+因甚向鐘聲裏披七條。
 ```
 
 #### Notes
 
 - The verse ending is readable from the image even though the leaf is stained.
-- The next case title is legible as `é˜è²ä¸ƒæ¢`.
-- `RapidOCR` and the page image agree on the opening `ä¸–ç•Œæéº¼å»£é—Š / å› ç”šå‘é˜è²è£æŠ«ä¸ƒæ¢`.
+- The next case title is legible as `鐘聲七條`.
+- `RapidOCR` and the page image agree on the opening `世界恁麼廣闊 / 因甚向鐘聲裏披七條`.
 
 ### PDF p.023 right leaf
 
-- Role: continuation of `é˜è²ä¸ƒæ¢`
+- Role: continuation of `鐘聲七條`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-é“å¾—è¦ªåˆ‡ï¼Œ
-è±ˆå¯å‘è²ä¸Šè¦“ã€‚
-è‹¥å°‡è€³è½æ‡‰é›£æœƒï¼Œ
-çœ¼è™•èžè²æ–¹å§‹è¦ªã€‚
+道得親切，
+豈可向聲上覓。
+若將耳聽應難會，
+眼處聞聲方始親。
 
 頌曰
-æœƒå‰‡äº‹åŒä¸€å®¶ï¼Œ
-ä¸æœƒè¬åˆ¥åƒå·®ã€‚
-ä¸æœƒäº‹åŒä¸€å®¶ï¼Œ
-æœƒå‰‡è¬åˆ¥åƒå·®ã€‚
+會則事同一家，
+不會萬別千差。
+不會事同一家，
+會則萬別千差。
 ```
 
 #### Notes
 
 - This leaf is stained, but the verse block is visually readable.
 - The opening prose lines are weaker; I kept only the part that remains legible in the image.
-- `æœƒå‰‡äº‹åŒä¸€å®¶ / è¬åˆ¥åƒå·®` is strongly supported by both image and OCR.
+- `會則事同一家 / 萬別千差` is strongly supported by both image and OCR.
 
 ### PDF p.023 left leaf
 
@@ -1177,29 +1240,29 @@
 ```text
 〔國師三喚〕
 
-åœ‹å¸«ä¸‰å–šä¾è€…ï¼Œ
-ä¾è€…ä¸‰æ‡‰ã€‚
+國師三喚侍者，
+侍者三應。
 國師云：
-å°‡è¬‚å¾è¾œè² æ±ï¼Œ
-å…ƒä¾†å´æ˜¯æ±è¾œè² å¾ã€‚
+將謂吾辜負汝，
+元來却是汝辜負吾。
 
 無門曰：
 國師三喚，
-ä¾è€…ä¸‰æ‡‰ã€‚
-å’Œå…‰å‡ºåœ‹å¸«å¹³ç”Ÿè€å©†å¿ƒåˆ‡ã€‚
+侍者三應。
+和光出國師平生老婆心切。
 牛頭未見四祖時如何。
 中飽人飢，
-ä¸”é“é‚£è£æ˜¯ä»–è¾œè² è™•ã€‚
+且道那裏是他辜負處。
 
 頌曰
-åœ‹æ¸…æ‰å­è²´ï¼Œ
-å®¶å¯Œå°å…’å¬Œã€‚
+國清才子貴，
+家富小兒嬌。
 ```
 
 #### Notes
 
 - The opening exchange is clear in the witness.
-- The commentary is readable enough through `ä¸”é“é‚£è£æ˜¯ä»–è¾œè² è™•`.
+- The commentary is readable enough through `且道那裏是他辜負處`.
 - The verse continues onto the next leaf, so only the secure opening couplet is included here.
 - Cross-witness support:
   - the second witness anchors `國師三喚` in its corresponding body sequence
@@ -1215,22 +1278,22 @@
 ```text
 頭角生也，
 未肯承當。
-ç¾©é£Ÿä¸é£½äººï¼Œ
+義食不飽人，
 飢腸先開。
 
 〔洞山三斤〕
 
-æ´žå±±å’Œå°šå› åƒ§å•ï¼š
+洞山和尚因僧問：
 如何是佛。
 山云：
 麻三斤。
 
 無門曰：
-æ´žå±±è€äººåƒå¾—äº›èšŒè›¤ç¦ªï¼Œ
+洞山老人參得些蚌蛤禪，
 纔開兩片，
-éœ²å‡ºè‚è…¸ã€‚
+露出肝腸。
 然雖如是，
-ä¸”é“å‘ç”šè™•è¦‹æ´žå±±ã€‚
+且道向甚處見洞山。
 ```
 
 #### Notes
@@ -1241,81 +1304,81 @@
 
 ### PDF p.024 left leaf
 
-- Role: verse on `æ´žå±±ä¸‰æ–¤`, with opening of `å¹³å¸¸æ˜¯é“`
+- Role: verse on `洞山三斤`, with opening of `平常是道`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
 頌曰
-çªå‡ºéº»ä¸‰æ–¤ï¼Œ
-è¨€è¦ªæ„æ›´è¦ªã€‚
-ä¾†èªªæ˜¯éžè€…ï¼Œ
-ä¾¿æ˜¯æ˜¯éžäººã€‚
+突出麻三斤，
+言親意更親。
+來說是非者，
+便是是非人。
 
-ã€”å¹³å¸¸æ˜¯é“ã€•
+〔平常是道〕
 
-å—æ³‰å› è¶™å·žå•ï¼š
-å¦‚ä½•æ˜¯é“ã€‚
+南泉因趙州問：
+如何是道。
 泉云：
-å¹³å¸¸å¿ƒæ˜¯é“ã€‚
+平常心是道。
 州云：
-é‚„å¯è¶£å‘å¦ã€‚
+還可趣向否。
 泉云：
-æ“¬å‘å³ä¹–ã€‚
+擬向即乖。
 州云：
-ä¸æ“¬çˆ­çŸ¥æ˜¯é“ã€‚
+不擬爭知是道。
 泉云：
-é“ä¸å±¬çŸ¥ï¼Œ
-ä¸å±¬ä¸çŸ¥ã€‚
+道不屬知，
+不屬不知。
 ```
 
 #### Notes
 
 - The `洞山三斤` verse is clear enough to recover as a full quatrain.
-- The opening dialogue of `å¹³å¸¸æ˜¯é“` is strong in the image and consistent with OCR.
-- The rest of `å¹³å¸¸æ˜¯é“` continues beyond this leaf.
+- The opening dialogue of `平常是道` is strong in the image and consistent with OCR.
+- The rest of `平常是道` continues beyond this leaf.
 - Cross-witness support:
-  - both corroborating witnesses preserve the same `å¹³å¸¸æ˜¯é“` phrase family in the corresponding mid-book cluster
+  - both corroborating witnesses preserve the same `平常是道` phrase family in the corresponding mid-book cluster
 
 ### PDF p.025 right leaf
 
-- Role: end of `å¹³å¸¸æ˜¯é“`, with verse
+- Role: end of `平常是道`, with verse
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
 泉云：
-é“ä¸å±¬çŸ¥ï¼Œ
-ä¸å±¬ä¸çŸ¥ã€‚
+道不屬知，
+不屬不知。
 知是妄覺，
-ä¸çŸ¥æ˜¯ç„¡è¨˜ã€‚
-è‹¥çœŸé”ä¸ç–‘ä¹‹é“ï¼Œ
-çŒ¶å¦‚å¤ªè™›å»“ç„¶æ´žè±ï¼Œ
-è±ˆå¯å¼·æ˜¯éžä¹Ÿã€‚
+不知是無記。
+若真達不疑之道，
+猶如太虛廓然洞豁，
+豈可強是非也。
 州於言下頓悟。
 
 無門曰：
-å—æ³‰è¢«è¶™å·žç™¼å•ï¼Œ
+南泉被趙州發問，
 直得瓦解氷消，
-åˆ†è¸ˆä¸ä¸‹ã€‚
+分踈不下。
 趙州縱饒悟去，
-æ›´åƒä¸‰åå¹´å§‹å¾—ã€‚
+更參三十年始得。
 
 頌曰
 春有百花秋有月，
-å¤æœ‰æ¶¼é¢¨å†¬æœ‰é›ªã€‚
+夏有涼風冬有雪。
 ```
 
 #### Notes
 
-- The prose close of `å¹³å¸¸æ˜¯é“` is strong in the image, including `çŸ¥æ˜¯å¦„è¦º / ä¸çŸ¥æ˜¯ç„¡è¨˜`.
+- The prose close of `平常是道` is strong in the image, including `知是妄覺 / 不知是無記`.
 - The verse begins clearly here and continues on the facing leaf.
 
 ### PDF p.025 left leaf
 
-- Role: end of `å¹³å¸¸æ˜¯é“` verse, with opening of `å¤§åŠ›é‡äºº`
+- Role: end of `平常是道` verse, with opening of `大力量人`
 - Confidence: medium
 
 #### Consolidated Readable Text
@@ -1324,17 +1387,17 @@
 若無閑事挂心頭，
 便是人間好時節。
 
-ã€”å¤§åŠ›é‡äººã€•
+〔大力量人〕
 
-æ¾æºå’Œå°šäº‘ï¼š
-å¤§åŠ›é‡äººï¼Œ
-å› ç”šæ“¡è…³ä¸èµ·ã€‚
-åˆäº‘ï¼š
-é–‹å£ä¸åœ¨èˆŒé ­ä¸Šã€‚
+松源和尚云：
+大力量人，
+因甚擡腳不起。
+又云：
+開口不在舌頭上。
 
 無門曰：
-æ¾æºå¯è¬‚å‚¾è…¸å€’è…¹ã€‚
-åªæ˜¯æ¬ äººæ‰¿ç•¶ã€‚
+松源可謂傾腸倒腹。
+只是欠人承當。
 直下承當，
 正好來無門處喫痛棒。
 何故。
@@ -1342,41 +1405,41 @@
 
 #### Notes
 
-- The `å¹³å¸¸æ˜¯é“` verse close is very clear.
-- The `å¤§åŠ›é‡äºº` title and opening exchange are stable from the witness.
+- The `平常是道` verse close is very clear.
+- The `大力量人` title and opening exchange are stable from the witness.
 - The last commentary sentence continues onto the next leaf.
 
 ### PDF p.026 right leaf
 
-- Role: end of `å¤§åŠ›é‡äºº`, with opening of `é›²é–€å±Žæ©›`
+- Role: end of `大力量人`, with opening of `雲門屎橛`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-è¦è­˜çœŸé‡‘ï¼Œ
-ç«è£çœ‹ã€‚
+要識真金，
+火裏看。
 
 〔雲門屎橛〕
 
-åƒ§å•é›²é–€ï¼š
+僧問雲門：
 如何是佛。
 門云：
 乾屎橛。
 
 無門曰：
-é›²é–€å¯è¬‚å®¶è²§é›£è¾¨ç´ é£Ÿï¼Œ
-äº‹å¿™ä¸åŠè‰æ›¸ã€‚
-å‹•ä¾¿å°‡å±Žä¾†æ’é–€æ‹„æˆ¶ã€‚
+雲門可謂家貧難辨素食，
+事忙不及草書。
+動便將屎來撐門拄戶。
 
 頌曰
 閃電光，
-æ“ŠçŸ³ç«ã€‚
+擊石火。
 ```
 
 #### Notes
 
-- The `å¤§åŠ›é‡äºº` close is readable and the `è¦è­˜çœŸé‡‘ï¼Œç«è£çœ‹ã€‚` couplet is clear.
+- The `大力量人` close is readable and the `要識真金，火裏看。` couplet is clear.
 - `如何是佛 / 乾屎橛` is strongly supported by the image and OCR.
 - The verse on `雲門屎橛` continues onto the facing leaf.
 
@@ -1389,15 +1452,15 @@
 
 ```text
 眨得眼，
-å·²è¹‰éŽã€‚
+已蹉過。
 
 〔迦葉刹竿〕
 
-é˜¿é›£å•è¿¦è‘‰äº‘ï¼š
+阿難問迦葉云：
 世尊傳金襴外，
 別傳何物。
 葉云：
-å€’å´é–€å‰åˆ¹ç«¿è‘—ã€‚
+倒却門前刹竿著。
 ```
 
 #### Notes
@@ -1408,24 +1471,24 @@
 
 ### PDF p.027 right leaf
 
-- Role: continuation of `è¿¦è‘‰åˆ¹ç«¿`, with opening of `ä¸æ€å–„æƒ¡`
+- Role: continuation of `迦葉刹竿`, with opening of `不思善惡`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
 無門曰：
-è‹¥å‘è€…è£ä¸‹å¾—ä¸€è½‰èªžè¦ªåˆ‡ï¼Œ
-ä¾¿è¦‹éˆå±±ä¸€æœƒå„¼ç„¶æœªæ•£ã€‚
+若向者裏下得一轉語親切，
+便見靈山一會儼然未散。
 其或未然，
 佛早留心，
-ç›´è‡³è€Œä»Šä¸å¾—å¦™ã€‚
+直至而今不得妙。
 
 頌曰
-å•è™•ä½•å¦‚ç­”è™•è¦ªï¼Œ
+問處何如答處親，
 幾人於此眼生筋。
-å…„å‘¼å¼Ÿæ‡‰æšå®¶é†œï¼Œ
-ä¸å±¬é™°é™½åˆ¥æ˜¯æ˜¥ã€‚
+兄呼弟應揚家醜，
+不屬陰陽別是春。
 ```
 
 #### Notes
@@ -1435,59 +1498,59 @@
 
 ### PDF p.027 left leaf
 
-- Role: opening prose on `ä¸æ€å–„æƒ¡`
+- Role: opening prose on `不思善惡`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”ä¸æ€å–„æƒ¡ã€•
+〔不思善惡〕
 
-å…­ç¥–å› æ˜Žä¸Šåº§è¶è‡³å¤§åº¾å¶ºã€‚
+六祖因明上座趁至大庾嶺。
 祖見明至，
-å³æ“²è¡£é‰¢æ–¼çŸ³ä¸Šäº‘ï¼š
+即擲衣鉢於石上云：
 此衣表信，
-å¯åŠ›çˆ­è€¶ã€‚
-æ˜Žé‚æ“§ä¹‹ï¼Œ
-å¦‚å±±ä¸å‹•ã€‚
+可力爭耶。
+明遂擧之，
+如山不動。
 明白：
 我來求法，
-éžç‚ºè¡£ä¹Ÿã€‚
+非為衣也。
 願行者開示。
 祖云：
-ä¸æ€å–„ï¼Œ
-ä¸æ€æƒ¡ï¼Œ
+不思善，
+不思惡，
 正與麼時，
-é‚£ç®‡æ˜¯æ˜Žä¸Šåº§æœ¬ä¾†é¢ç›®ã€‚
+那箇是明上座本來面目。
 明當下大悟，
-éé«”æ±—æµï¼Œ
-æ³£æ·šä½œç¦®å•ã€‚
+遍體汗流，
+泣淚作禮問。
 ```
 
 #### Notes
 
-- The leaf is clear enough to recover the main `ä¸æ€å–„æƒ¡` exchange as continuous prose.
+- The leaf is clear enough to recover the main `不思善惡` exchange as continuous prose.
 - The closing words continue onto the next leaf.
 
 ### PDF p.028 right leaf
 
-- Role: continuation and commentary on `ä¸æ€å–„æƒ¡`
+- Role: continuation and commentary on `不思善惡`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
 明曰：
-ä¸Šä¾†å¯†èªžå¯†æ„å¤–ï¼Œ
-é‚„æ›´æœ‰æ„æ—¨å¦ã€‚
+上來密語密意外，
+還更有意旨否。
 祖曰：
-æˆ‘ä»Šç‚ºæ±èªªè€…ï¼Œ
-å³éžå¯†ä¹Ÿã€‚
-æ±è‹¥è¿”ç…§è‡ªå·±é¢ç›®ï¼Œ
-å¯†å´åœ¨æ±é‚Šã€‚
+我今為汝說者，
+即非密也。
+汝若返照自己面目，
+密却在汝邊。
 明曰：
-æŸç”²é›–åœ¨é»ƒæ¢…éš¨çœ¾ï¼Œ
-å¯¦æœªçœè‡ªå·±é¢ç›®ã€‚
+某甲雖在黃梅隨眾，
+實未省自己面目。
 今蒙指授入處，
 如人飲水，
 冷暖自知。
@@ -1495,22 +1558,22 @@
 
 #### Notes
 
-- This leaf carries the clearer continuation after the main `æœ¬ä¾†é¢ç›®` exchange.
+- This leaf carries the clearer continuation after the main `本來面目` exchange.
 - The commentary transition is visible but weaker than the prose block.
 
 ### PDF p.028 left leaf
 
-- Role: opening of `é›¢å»èªžè¨€`
+- Role: opening of `離卻語言`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”é›¢å»èªžè¨€ã€•
+〔離卻語言〕
 
-é¢¨ç©´å’Œå°šå› åƒ§å•ï¼š
+風穴和尚因僧問：
 語默涉離微，
-å¦‚ä½•é€šä¸çŠ¯ã€‚
+如何通不犯。
 ```
 
 #### Notes
@@ -1520,7 +1583,7 @@
 
 ### PDF p.029 right leaf
 
-- Role: verse/commentary on `é›¢å»èªžè¨€`
+- Role: verse/commentary on `離卻語言`
 - Confidence: medium
 
 #### Consolidated Readable Text
@@ -1529,22 +1592,22 @@
 無門曰：
 風穴機如掣電，
 得路便行。
-çˆ­å¥ˆåå‰äººèˆŒé ­ä¸æ–·ã€‚
-è‹¥å‘è€…è£è¦‹å¾—è¦ªåˆ‡ï¼Œ
+爭奈坐前人舌頭不斷。
+若向者裏見得親切，
 自有出身之路。
 
 頌曰
-ä¸éœ²é¢¨éª¨å¥ï¼Œ
+不露風骨句，
 未語先分付。
-é€²æ­¥å£å–ƒå–ƒï¼Œ
-çŸ¥å›å¤§ç½¨ç¼¶ã€‚
-é•·æ†¶æ±Ÿå—ä¸‰æœˆè£ï¼Œ
+進步口喃喃，
+知君大罨缶。
+長憶江南三月裏，
 鷓鴣啼處百花香。
 ```
 
 #### Notes
 
-- The verse opening `ä¸éœ²é¢¨éª¨å¥ï¼Œæœªèªžå…ˆåˆ†ä»˜` is strong in both image and OCR.
+- The verse opening `不露風骨句，未語先分付` is strong in both image and OCR.
 - The last two lines are readable in the witness, though not as dark as the opening couplet.
 
 ### PDF p.029 left leaf
@@ -1570,17 +1633,17 @@
 
 ### PDF p.030 right leaf
 
-- Role: opening of `äºŒåƒ§å·ç°¾`
+- Role: opening of `二僧卷簾`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”äºŒåƒ§å·ç°¾ã€•
+〔二僧卷簾〕
 
-æ¸…æ¶¼å¤§æ³•çœ¼å› åƒ§é½‹å‰ä¸Šåƒã€‚
+清涼大法眼因僧齋前上參。
 眼以手指簾。
-æ™‚æœ‰äºŒåƒ§åŒåŽ»å·ç°¾ã€‚
+時有二僧同去卷簾。
 眼曰：
 一得，
 一失。
@@ -1593,18 +1656,18 @@
 
 ### PDF p.030 left leaf
 
-- Role: commentary on `äºŒåƒ§å·ç°¾`
+- Role: commentary on `二僧卷簾`
 - Confidence: low-medium
 
 #### Consolidated Readable Text
 
 ```text
 無門曰：
-ä¸”é“æ˜¯å¾—æ˜¯å¤±ã€‚
-è‹¥å‘è€…è£è‘—å¾—ä¸€éš»çœ¼ï¼Œ
+且道是得是失。
+若向者裏著得一隻眼，
 便知清涼國師敗缺處。
 然雖如是，
-åˆ‡å¿Œå‘å¾—å¤±è£å•†é‡ã€‚
+切忌向得失裏商量。
 ```
 
 #### Notes
@@ -1614,22 +1677,22 @@
 
 ### PDF p.031 right leaf
 
-- Role: opening of `ä¸æ˜¯å¿ƒä½›`
+- Role: opening of `不是心佛`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”ä¸æ˜¯å¿ƒä½›ã€•
+〔不是心佛〕
 
-å—æ³‰å’Œå°šå› åƒ§å•äº‘ï¼š
-é‚„æœ‰ä¸æ˜¯å¿ƒï¼Œ
-ä¸æ˜¯ä½›ï¼Œ
-ä¸æ˜¯ç‰©ã€‚
+南泉和尚因僧問云：
+還有不是心，
+不是佛，
+不是物。
 泉云：
-ä¸æ˜¯å¿ƒï¼Œ
-ä¸æ˜¯ä½›ï¼Œ
-ä¸æ˜¯ç‰©ã€‚
+不是心，
+不是佛，
+不是物。
 ```
 
 #### Notes
@@ -1639,48 +1702,48 @@
 
 ### PDF p.031 left leaf
 
-- Role: opening of `ä¹…éŸ¿é¾æ½­`
+- Role: opening of `久響龍潭`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”ä¹…éŸ¿é¾æ½­ã€•
+〔久響龍潭〕
 
-é¾æ½­å› å¾·å±±è«‹ç›Šã€‚
+龍潭因德山請益。
 夜云：
 夜深。
-å­ä½•ä¸ä¸‹åŽ»ã€‚
-å±±é‚çé‡æ­ç°¾è€Œå‡ºã€‚
-è¦‹å¤–é¢é»‘å´å›žäº‘ï¼š
-å¤–é¢é»‘ã€‚
+子何不下去。
+山遂珍重揭簾而出。
+見外面黑却回云：
+外面黑。
 潭乃點紙燭度與山。
 ```
 
 #### Notes
 
-- This is the strongest opening leaf for `ä¹…éŸ¿é¾æ½­`.
+- This is the strongest opening leaf for `久響龍潭`.
 - The continuation carries onto the next pages.
 - Cross-witness support:
-  - both corroborating witnesses preserve `é¾æ½­å’Œå°š` material in the same later-middle case cluster
+  - both corroborating witnesses preserve `龍潭和尚` material in the same later-middle case cluster
 
 ### PDF p.032 right leaf
 
-- Role: continuation of `ä¹…éŸ¿é¾æ½­`
+- Role: continuation of `久響龍潭`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
 山擬接，
-æ½­å¾©å¹æ»…ã€‚
-å±±æ–¼æ­¤å¿½ç„¶æœ‰çœã€‚
+潭復吹滅。
+山於此忽然有省。
 便作禮。
 潭云：
-å­è¦‹ç®‡ç”šéº¼é“ç†ã€‚
+子見箇甚麼道理。
 山云：
-æŸç”²å¾žä»Šæ—¥åŽ»ï¼Œ
-ä¸ç–‘å¤©ä¸‹è€å’Œå°šèˆŒé ­ä¹Ÿã€‚
+某甲從今日去，
+不疑天下老和尚舌頭也。
 ```
 
 #### Notes
@@ -1690,20 +1753,20 @@
 
 ### PDF p.032 left leaf
 
-- Role: later continuation on `ä¹…éŸ¿é¾æ½­`
+- Role: later continuation on `久響龍潭`
 - Confidence: low-medium
 
 #### Consolidated Readable Text
 
 ```text
 至明日，
-é¾æ½­é™žå ‚äº‘ï¼š
-å¯ä¸­æœ‰ç®‡æ¼¢ï¼Œ
-ç‰™å¦‚åŠæ¨¹ï¼Œ
-å£ä¼¼è¡€ç›†ã€‚
-ä¸€æ£’æ‰“ä¸å›žé ­ã€‚
-ä»–æ™‚å‘å­¤å³°é ‚ä¸Šï¼Œ
-ç«‹å¾é“åŽ»åœ¨ã€‚
+龍潭陞堂云：
+可中有箇漢，
+牙如劍樹，
+口似血盆。
+一棒打不回頭。
+他時向孤峰頂上，
+立吾道去在。
 ```
 
 #### Notes
@@ -1713,57 +1776,57 @@
 
 ### PDF p.033 right leaf
 
-- Role: `è¶™å·žå‹˜å©†` / `å©†å­`-side material
+- Role: `趙州勘婆` / `婆子`-side material
 - Confidence: low-medium
 
 #### Consolidated Readable Text
 
 ```text
-é‚å•å©†å­è¿‘è™•æœ‰ç”šéº¼å®—å¸«ã€‚
+遂問婆子近處有甚麼宗師。
 婆云：
-äº”é‡Œå¤–æœ‰é¾æ½­å’Œå°šã€‚
-åŠåˆ°é¾æ½­ï¼Œ
-å¯è¬‚æ˜¯å‰è¨€ä¸æ‡‰å¾Œèªžã€‚
+五里外有龍潭和尚。
+及到龍潭，
+可謂是前言不應後語。
 
-ç«ç¨®éƒ½å¿™ï¼Œ
+火種都忙，
 將惡水驀頭一澆。
 冷地看來，
 一場好笑。
 
 頌曰
-èžåä¸å¦‚è¦‹é¢ï¼Œ
-è¦‹é¢ä¸å¦‚èžåã€‚
+聞名不如見面，
+見面不如聞名。
 雖然救得鼻孔，
-çˆ­å¥ˆçžŽå´çœ¼ç›ã€‚
+爭奈瞎却眼睛。
 ```
 
 #### Notes
 
-- The visible text is `å©†å­` material, not `ä¹…éŸ¿é¾æ½­`.
+- The visible text is `婆子` material, not `久響龍潭`.
 - Secondary witness corroboration:
   - `Transcriptions\Wumen_Huikai_NDL_Commons\batch_refined\frames\page_047_right_frame.png`
-  - supports the broader `è¶™å·žå‹˜å©†` zone with phrases such as `ä½•æ•…å©†äº‘`, `æˆ‘ç…Žå¾—é€åº•`, and `ç…Žæœªé€è€…åªç®¡ä½œ`
+  - supports the broader `趙州勘婆` zone with phrases such as `何故婆云`, `我煎得透底`, and `煎未透者只管作`
 - The recovery is still partial, but the case-side identification is now materially stronger.
 
 ### PDF p.033 left leaf
 
-- Role: opening of `éžé¢¨éžå¹¡`
+- Role: opening of `非風非幡`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”éžé¢¨éžå¹¡ã€•
+〔非風非幡〕
 
 六祖因風颺刹，
-æœ‰äºŒåƒ§å°è«–ã€‚
+有二僧對論。
 一云風動，
 一云幡動。
-å¾€å¾©æ›¾æœªå¥‘ç†ã€‚
+往復曾未契理。
 祖云：
-ä¸æ˜¯é¢¨å‹•ï¼Œ
-ä¸æ˜¯å¹¡å‹•ï¼Œ
-ä»è€…å¿ƒå‹•ã€‚
+不是風動，
+不是幡動，
+仁者心動。
 ```
 
 #### Notes
@@ -1773,18 +1836,18 @@
 
 ### PDF p.034 right leaf
 
-- Role: opening of `å³å¿ƒå³ä½›`
+- Role: opening of `即心即佛`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”å³å¿ƒå³ä½›ã€•
+〔即心即佛〕
 
-é¦¬ç¥–å› å¤§æ¢…å•ï¼š
+馬祖因大梅問：
 如何是佛。
 祖云：
-å³å¿ƒæ˜¯ä½›ã€‚
+即心是佛。
 ```
 
 #### Notes
@@ -1794,7 +1857,7 @@
 
 ### PDF p.034 left leaf
 
-- Role: commentary on `å³å¿ƒå³ä½›`
+- Role: commentary on `即心即佛`
 - Confidence: low-medium
 
 #### Consolidated Readable Text
@@ -1806,17 +1869,17 @@
 喫佛飯，
 說佛話，
 行佛行，
-å³æ˜¯ä½›ä¹Ÿã€‚
+即是佛也。
 
 頌曰
-é’å¤©ç™½æ—¥ï¼Œ
+青天白日，
 切忌尋覓。
 ```
 
 #### Notes
 
 - The wording is supported by both the page image and OCR comparators, but the leaf is still lighter than the earlier body-text pages.
-- The left-side verse opening `é’å¤©ç™½æ—¥ / åˆ‡å¿Œå°‹è¦“` is also visible enough to include.
+- The left-side verse opening `青天白日 / 切忌尋覓` is also visible enough to include.
 - Remaining lines below that verse opening should be revisited later.
 
 ### PDF p.035 left leaf
@@ -1828,17 +1891,17 @@
 
 ```text
 無門曰：
-å©†å­åªè§£åç±Œå¸·ï¼Œ
-è¦ä¸”ä¸è­˜è¶™å·žã€‚
-è¶™å·žè€äººï¼Œ
-å–„ç”¨å¸ç‡ŸåŠ«å¯¨ã€‚
+婆子只解坐籌帷，
+要且不識趙州。
+趙州老人，
+善用偸營劫寨。
 雖然如是，
-ä¸”é“é‚£è£æ˜¯è¶™å·žå‹˜ç ´å©†å­è™•ã€‚
+且道那裏是趙州勘破婆子處。
 
 頌曰
-å•æ—¢ä¸€èˆ¬ï¼Œ
+問既一般，
 答亦相似。
-é£¯è£æœ‰ç ‚ï¼Œ
+飯裏有砂，
 泥中有刺。
 ```
 
@@ -1849,25 +1912,25 @@
 
 ### PDF p.036 right leaf
 
-- Role: opening of `å¤–é“å•ä½›`
+- Role: opening of `外道問佛`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”å¤–é“å•ä½›ã€•
+〔外道問佛〕
 
-ä¸–å°Šå› å¤–é“å•ï¼š
-ä¸å•æœ‰è¨€ï¼Œ
-ä¸å•ç„¡è¨€ã€‚
+世尊因外道問：
+不問有言，
+不問無言。
 世尊良久。
-å¤–é“è®šæ­Žäº‘ï¼š
+外道讚歎云：
 世尊大慈大悲，
 開我迷雲，
 令我得入。
 乃具禮而去。
-é˜¿é›£å•ä½›ï¼š
-å¤–é“æœ‰ä½•æ‰€è­‰ï¼Œ
+阿難問佛：
+外道有何所證，
 而言讚歎而去。
 ```
 
@@ -1878,18 +1941,18 @@
 
 ### PDF p.036 left leaf
 
-- Role: opening of `éžå¿ƒéžä½›`
+- Role: opening of `非心非佛`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”éžå¿ƒéžä½›ã€•
+〔非心非佛〕
 
-é¦¬ç¥–å› åƒ§å•ï¼š
-å¦‚ä½•æ˜¯ç¥–å¸«è¥¿ä¾†æ„ã€‚
+馬祖因僧問：
+如何是祖師西來意。
 祖云：
-éžå¿ƒéžä½›ã€‚
+非心非佛。
 ```
 
 #### Notes
@@ -1897,21 +1960,21 @@
 - The title and core answer are secure.
 - The lower commentary area is too faint for a stronger claim on this pass.
 - Cross-witness support:
-  - both corroborating witnesses preserve the same `ä¸æ˜¯å¿ƒä¸æ˜¯ä½›ä¸æ˜¯ç‰©` phrase family in this cluster
+  - both corroborating witnesses preserve the same `不是心不是佛不是物` phrase family in this cluster
 
 ### PDF p.037 right leaf
 
-- Role: `æ™ºä¸æ˜¯é“`
+- Role: `智不是道`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”æ™ºä¸æ˜¯é“ã€•
+〔智不是道〕
 
-å—æ³‰äº‘ï¼š
-å¿ƒä¸æ˜¯ä½›ï¼Œ
-æ™ºä¸æ˜¯é“ã€‚
+南泉云：
+心不是佛，
+智不是道。
 ```
 
 #### Notes
@@ -1929,7 +1992,7 @@
 ```text
 〔倩女離魂〕
 
-äº”ç¥–å•åƒ§äº‘ï¼š
+五祖問僧云：
 倩女離魂，
 那箇是正底。
 ```
@@ -1941,18 +2004,18 @@
 
 ### PDF p.038 right leaf
 
-- Role: opening of `è·¯é€¢é”é“`
+- Role: opening of `路逢達道`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”è·¯é€¢é”é“ã€•
+〔路逢達道〕
 
 五祖曰：
-è·¯é€¢é”é“äººï¼Œ
-ä¸å°‡èªžé»˜å°ï¼Œ
-ä¸”é“å°‡ç”šéº¼å°ã€‚
+路逢達道人，
+不將語默對，
+且道將甚麼對。
 ```
 
 #### Notes
@@ -1962,18 +2025,18 @@
 
 ### PDF p.038 left leaf
 
-- Role: opening of `åº­å‰æŸæ¨¹`
+- Role: opening of `庭前柏樹`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”åº­å‰æŸæ¨¹ã€•
+〔庭前柏樹〕
 
-è¶™å·žå› åƒ§å•ï¼š
-å¦‚ä½•æ˜¯ç¥–å¸«è¥¿ä¾†æ„ã€‚
+趙州因僧問：
+如何是祖師西來意。
 州云：
-åº­å‰æŸæ¨¹å­ã€‚
+庭前柏樹子。
 ```
 
 #### Notes
@@ -1983,18 +2046,18 @@
 
 ### PDF p.039 right leaf
 
-- Role: opening of `ç‰›éŽçª—æ«º`
+- Role: opening of `牛過窗櫺`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”ç‰›éŽçª—æ«ºã€•
+〔牛過窗櫺〕
 
 五祖曰：
-è­¬å¦‚æ°´ç‰›éŽçª—æ«ºï¼Œ
-é ­è§’å››è¹„éƒ½éŽäº†ï¼Œ
-å› ç”šå°¾å·´éŽä¸å¾—ã€‚
+譬如水牛過窗櫺，
+頭角四蹄都過了，
+因甚尾巴過不得。
 ```
 
 #### Notes
@@ -2012,13 +2075,15 @@
 ```text
 〔雲門話墮〕
 
-é›²é–€å› åƒ§å•ï¼š
-å…‰æ˜Žå¯‚ç…§éæ²³æ²™ã€‚
+雲門因僧問：
+光明寂照遍河沙。
+一句未絕。
+門遽曰：
 ```
 
 #### Notes
 
-- The opening question is secure.
+- The opening question and interruption are secure.
 - The continuation and response are more legible on the next leaf.
 
 ### PDF p.040 right leaf
@@ -2030,7 +2095,7 @@
 
 ```text
 門云：
-è±ˆä¸æ˜¯å¼µæ‹™ç§€æ‰èªžã€‚
+豈不是張拙秀才語。
 僧云：
 是。
 門云：
@@ -2053,11 +2118,11 @@
 〔趯倒淨瓶〕
 
 溈山和尚始在百丈會中充典座。
-ç™¾ä¸ˆå°‡é¸å¤§æºˆä¸»äººã€‚
-ç™¾ä¸ˆé‚æ‹ˆæ·¨ç“¶ç½®åœ°ï¼Œ
-è¨­å•äº‘ï¼š
-ä¸å¾—å–šä½œæ·¨ç“¶ï¼Œ
-æ±å–šä½œç”šéº¼ã€‚
+百丈將選大溈主人。
+百丈遂拈淨瓶置地，
+設問云：
+不得喚作淨瓶，
+汝喚作甚麼。
 ```
 
 #### Notes
@@ -2073,57 +2138,57 @@
 #### Consolidated Readable Text
 
 ```text
-å±±é‚è¶¯å€’æ·¨ç“¶è€ŒåŽ»ã€‚
+山遂趯倒淨瓶而去。
 百丈云：
-ç¬¬ä¸€åº§è¼¸å´å±±å­ä¹Ÿã€‚
+第一座輸却山子也。
 因命之為開山。
 ```
 
 #### Notes
 
 - The action line is the secure core of this leaf.
-- OCR and image also support the immediate follow-through `ç™¾ä¸ˆäº‘ / ç¬¬ä¸€åº§è¼¸å´å±±å­ä¹Ÿ / å› å‘½ä¹‹ç‚ºé–‹å±±`.
+- OCR and image also support the immediate follow-through `百丈云 / 第一座輸却山子也 / 因命之為開山`.
 - The later commentary/verse material on the leaf remains too weak on this pass for a cleaner diplomatic recovery.
 
 ### PDF p.041 left leaf
 
-- Role: opening of `é”ç£¨å®‰å¿ƒ`
+- Role: opening of `達磨安心`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”é”ç£¨å®‰å¿ƒã€•
+〔達磨安心〕
 
-é”ç£¨é¢å£ã€‚
+達磨面壁。
 二祖立雪斷臂云：
-å¼Ÿå­å¿ƒæœªå®‰ï¼Œ
+弟子心未安，
 乞師安心。
 祖云：
-å°‡å¿ƒä¾†èˆ‡æ±å®‰ã€‚
+將心來與汝安。
 ```
 
 #### Notes
 
-- This leaf cleanly opens `é”ç£¨å®‰å¿ƒ`.
+- This leaf cleanly opens `達磨安心`.
 - The continuation is present below, but the opening exchange is the strongest recoverable block.
 
 ### PDF p.042 right leaf
 
-- Role: opening of `å¥³å­å‡ºå®š`
+- Role: opening of `女子出定`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”å¥³å­å‡ºå®šã€•
+〔女子出定〕
 
 世尊昔因文殊至諸佛集處，
-å€¼è«¸ä½›å„é‚„æœ¬è™•ï¼Œ
-æƒŸæœ‰ä¸€å¥³äººè¿‘å½¼ä½›åå…¥å®šã€‚
+值諸佛各還本處，
+惟有一女人近彼佛坐入定。
 文殊乃白佛：
-äº‘ä½•å¥³äººå¾—è¿‘ä½›åï¼Œ
-æˆ‘ä¸å¾—ã€‚
+云何女人得近佛坐，
+我不得。
 ```
 
 #### Notes
@@ -2133,7 +2198,7 @@
 
 ### PDF p.042 left leaf
 
-- Role: continuation of `å¥³å­å‡ºå®š`
+- Role: continuation of `女子出定`
 - Confidence: low-medium
 
 #### Consolidated Readable Text
@@ -2141,7 +2206,7 @@
 ```text
 佛告文殊：
 但此女人令從三昧起，
-æ±è‡ªè¿‘å‰å•ä¹‹ã€‚
+汝自近前問之。
 若出得定，
 便知所以。
 ```
@@ -2153,19 +2218,19 @@
 
 ### PDF p.043 right leaf
 
-- Role: later continuation on `å¥³å­å‡ºå®š`
+- Role: later continuation on `女子出定`
 - Confidence: low-medium
 
 #### Consolidated Readable Text
 
 ```text
 無門曰：
-ç¨½é¦–è€é‡‹è¿¦ï¼Œ
-åªä½œä¸€å ´é›œåŠ‡ã€‚
-ä¸”é“æ–‡æ®Šæ˜¯ä¸ƒä½›ä¹‹å¸«ï¼Œ
-å› ç”šå‡ºå¥³å­å®šä¸å¾—ã€‚
-ç½”æ˜Žåˆåœ°è©è–©ï¼Œ
-ç‚ºç”šå´å‡ºå¾—ã€‚
+稽首老釋迦，
+只作一場雜劇。
+且道文殊是七佛之師，
+因甚出女子定不得。
+罔明初地菩薩，
+為甚却出得。
 ```
 
 #### Notes
@@ -2184,12 +2249,12 @@
 〔首山竹篦〕
 
 首山和尚拈竹篦示眾云：
-æ±ç­‰è«¸äººï¼Œ
+汝等諸人，
 若喚作竹篦則觸，
-ä¸å–šä½œç«¹ç¯¦å‰‡èƒŒã€‚
-ä¸å¾—æœ‰èªžï¼Œ
-ä¸å¾—ç„¡èªžã€‚
-é€Ÿé“ã€‚
+不喚作竹篦則背。
+不得有語，
+不得無語。
+速道。
 ```
 
 #### Notes
@@ -2199,19 +2264,19 @@
 
 ### PDF p.044 right leaf
 
-- Role: opening of `èŠ­è•‰æ‹„æ–`
+- Role: opening of `芭蕉拄杖`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-ã€”èŠ­è•‰æ‹„æ–ã€•
+〔芭蕉拄杖〕
 
 芭蕉和尚示眾云：
-æœ‰æ‹„æ–å­ï¼Œ
-æˆ‘èˆ‡ä½ æ‹„æ–å­ã€‚
-ç„¡æ‹„æ–å­ï¼Œ
-æˆ‘å¥ªä½ æ‹„æ–å­ã€‚
+有拄杖子，
+我與你拄杖子。
+無拄杖子，
+我奪你拄杖子。
 ```
 
 #### Notes
@@ -2229,9 +2294,9 @@
 ```text
 〔他是阿誰〕
 
-æ±å±±æ¼”å¸«ç¥–æ›°ï¼š
+東山演師祖曰：
 釋迦彌勒猶是他奴。
-ä¸”é“ä»–æ˜¯é˜¿èª°ã€‚
+且道他是阿誰。
 ```
 
 #### Notes
@@ -2267,11 +2332,11 @@
 #### Consolidated Readable Text
 
 ```text
-åˆå¤å¾·äº‘ï¼š
-ç™¾å°ºç«¿é ­ååº•äººï¼Œ
+又古德云：
+百尺竿頭坐底人，
 雖然得入未為真。
 百尺竿頭須進步，
-åæ–¹ä¸–ç•Œç¾å…¨èº«ã€‚
+十方世界現全身。
 ```
 
 #### Notes
@@ -2279,7 +2344,7 @@
 - This is the stronger leaf for the caseâ€™s famous verse-like extension.
 - Third-witness corroboration:
   - `Transcriptions\Mumonkan_1752_Waseda_Commons\batch_refined\frames\page_047_right_frame.png`
-  - independently supports `ç™¾å°ºç«¿é ­ååº•äºº`, `ç™¾å°ºç«¿é ­é ˆé€²æ­¥`, and `åæ–¹ä¸–ç•Œç¾å…¨èº«`
+  - independently supports `百尺竿頭坐底人`, `百尺竿頭須進步`, and `十方世界現全身`
 - Lower commentary remains present but not yet normalized here.
 
 ### PDF p.046 right leaf
@@ -2292,9 +2357,9 @@
 ```text
 〔兜率三關〕
 
-å…œçŽ‡æ‚…å’Œå°šè¨­ä¸‰é—œå•å­¸è€…ï¼š
-æ’¥è‰åƒçŽ„åªåœ–è¦‹æ€§ã€‚
-å³ä»Šä¸Šäººæ€§åœ¨ç”šè™•ã€‚
+兜率悅和尚設三關問學者：
+撥草參玄只圖見性。
+即今上人性在甚處。
 ```
 
 #### Notes
@@ -2312,8 +2377,8 @@
 ```text
 〔乾峰一路〕
 
-ä¹¾å³°å’Œå°šå› åƒ§å•ï¼š
-åæ–¹è–„ä¼½æ¢µï¼Œ
+乾峰和尚因僧問：
+十方薄伽梵，
 一路涅槃門。
 未審路頭在甚麼處。
 ```
@@ -2331,10 +2396,10 @@
 #### Consolidated Readable Text
 
 ```text
-é–€äº‘æ‹ˆèµ·æ‰‡å­äº‘ã€‚
-æ‰‡å­è¸è·³ä¸Šä¸‰åä¸‰å¤©ã€‚
-ç¯‰è‘—å¸é‡‹é¼»å­”ã€‚
-æ±æµ·é¯‰é­šæ‰“ä¸€æ£’ï¼Œ
+門云拈起扇子云。
+扇子踍跳上三十三天。
+築著帝釋鼻孔。
+東海鯉魚打一棒，
 雨似盆傾。
 ```
 
@@ -2354,13 +2419,13 @@
 未舉步時先已到，
 未動舌時先說了。
 直饒著著在機先，
-æ›´é ˆçŸ¥æœ‰å‘ä¸Šç«…ã€‚
+更須知有向上竅。
 ```
 
 #### Notes
 
 - The quatrain is secure.
-- OCR and image both suggest additional surrounding prose, including a clearer evaluative cluster around `éžå¤§ä¼¼å…©ç®‡çžŽæ¼¢å­ç›¸æ’žè‘—` and `ç„¡ç›´åº•äººæ­£çœ¼è§€ä¾†äºŒå¤§è€`.
+- OCR and image both suggest additional surrounding prose, including a clearer evaluative cluster around `非大似兩箇瞎漢子相撞著` and `無直底人正眼觀來二大老`.
 - The adjacent phrase family `識路頭在 / 在機先` is also visible, but the prose remains too tight to normalize line by line with confidence on this pass.
 - The safest reading remains the quatrain, with the surrounding prose logged only at the phrase-family level.
 
@@ -2373,13 +2438,13 @@
 
 ```text
 從上佛祖垂示機緣，
-æ’®çµæ¡ˆåˆã€‚
+撮結案初。
 請人直下承當，
-ä¸è½è™•äº†ç„¡ã€‚
-æ–¹ä¸Šå£«çµ•èžèˆˆå­¸è€…ï¼Œ
-ä¾¿çŸ¥è½è™•äº†ç„¡ã€‚
-é“æ˜ŽçŸ¥é“åªæ˜¯é€™ç®‡ï¼Œ
-çˆ²ç”šé€ä¸å¾—ç„¡é–€é—œã€‚
+不落處了無。
+方上士絕聞興學者，
+便知落處了無。
+道明知道只是這箇，
+爲甚透不得無門關。
 ```
 
 #### Notes
@@ -2395,25 +2460,25 @@
 #### Consolidated Readable Text
 
 ```text
-ä¸éŽæ·¨åŽ èªªè©±ï¼Œ
-ä¹Ÿæ˜¯èµ¤åœŸæ½ç‰›å¥¶ã€‚
-è‹¥é€å¾—ç„¡é–€é—œï¼Œ
-æ—©æ˜¯éˆç½®ç„¡é–€é—œã€‚
-é€ä¸å¾—ç„¡é–€é—œï¼Œ
+不過淨厠說話，
+也是赤土搽牛奶。
+若透得無門關，
+早是鈍置無門關。
+透不得無門關，
 亦乃辜負自己。
 所謂涅槃心易曉，
 差別智難明。
 明得差別智，
 家國自安寧。
-ç´¹å®šæ”¹å…ƒè§£åˆ¶å‰äº”æ—¥ï¼Œ
-æ¥Šå²å…«ä¸–å­«ç„¡é–€æ¯”ä¸˜æ…§é–‹è¬¹è­˜ã€‚
+紹定改元解制前五日，
+楊岐八世孫無門比丘慧開謹識。
 ```
 
 #### Notes
 
 - This leaf is text-bearing and stronger than the earlier placeholder state.
 - The central reflective block is readable in substance, and the lower signature/date block is also now visible enough to include.
-- OCR and image both support the reflective cadence around `çŸ¥é“åªæ˜¯é€™ç®‡ / çˆ²ç”šé€ä¸å¾—ç„¡é–€é—œ` on the facing leaf, and this leaf continues with the clearer `æ¶…æ§ƒå¿ƒ / å·®åˆ¥æ™º / å®¶åœ‹è‡ªå®‰å¯§` cluster plus the dated `æ…§é–‹è¬¹è­˜` sign-off.
+- OCR and image both support the reflective cadence around `知道只是這箇 / 爲甚透不得無門關` on the facing leaf, and this leaf continues with the clearer `涅槃心 / 差別智 / 家國自安寧` cluster plus the dated `慧開謹識` sign-off.
 
 ### PDF p.049 right leaf
 
@@ -2423,7 +2488,7 @@
 #### Consolidated Readable Text
 
 ```text
-ç„¡é–€å·
+無門卷
 ```
 
 #### Notes
@@ -2438,24 +2503,24 @@
 #### Consolidated Readable Text
 
 ```text
-å„±ä¾—å®ˆç¦ªå¨å„€ï¼Œ
+儱侗守禪威儀，
 無繩自縛，
-ç¸±æ©«ç„¡ç¢ã€‚
-å¤–é“é­”è»å­˜å¿ƒï¼Œ
+縱橫無碍。
+外道魔軍存心，
 澄寂黑照邪禪。
-èžè½æ·±å‘ï¼Œ
-æ‡žç„¶ä¸æ˜§ã€‚
+融落深坑，
+懞然不昧。
 帶鎖擔枷，
-æ€å–„æ€æƒ¡ã€‚
-åœ°ç„å¤©å ‚ï¼Œ
+思善思惡。
+地獄天堂，
 佛見法見，
-äºŒéµåœå±±ã€‚
-å¿µèµ·å³è¦ºï¼Œ
-é€²å‰‡è¿·ç†ï¼Œ
+二鐵圍山。
+念起即覺，
+進則迷理，
 退則乖宗，
-ä¸é€²ä¸é€€ã€‚
+不進不退。
 有氣死人，
-ä¸”é“å¦‚ä½•å±¥è¸ã€‚
+且道如何履踐。
 努力今生。
 ```
 
@@ -2463,8 +2528,8 @@
 
 - The leaf is reflective/admonitory prose, not case text.
 - The block above is now readable in substance from the witness image.
-- OCR and image together support the added closing cadence `å¿µèµ·å³è¦º / é€²å‰‡è¿·ç† / é€€å‰‡ä¹–å®— / ä¸é€²ä¸é€€`.
-- OCR and image also support the additional warning cluster `åœ°ç„å¤©å ‚ / ä½›è¦‹æ³•è¦‹ / äºŒéµåœå±±` and the closing push `æœ‰æ°£æ­»äºº / ä¸”é“å¦‚ä½•å±¥è¸ / åŠªåŠ›ä»Šç”Ÿ`.
+- OCR and image together support the added closing cadence `念起即覺 / 進則迷理 / 退則乖宗 / 不進不退`.
+- OCR and image also support the additional warning cluster `地獄天堂 / 佛見法見 / 二鐵圍山` and the closing push `有氣死人 / 且道如何履踐 / 努力今生`.
 - The remaining edge material is now mostly degraded continuation rather than a clearly separable new block.
 
 ### PDF p.050 right leaf
@@ -2475,21 +2540,21 @@
 #### Consolidated Readable Text
 
 ```text
-é Œäº†å´èŽ«æ•™æ°¸åŠ«å—é¤˜æ®ƒã€‚
+頌了却莫教永劫受餘殃。
 
-ã€”é»ƒé¾ä¸‰é—œã€•
+〔黃龍三關〕
 
 我手何似佛手。
 我脚何似驢脚。
 人人有箇生緣處。
 元來通身是手。
-å››æµ·æ©«è¡Œå€’è·¨æ¥Šå²ä¸‰è„šã€‚
+四海橫行倒跨楊岐三脚。
 ```
 
 #### Notes
 
 - `RapidOCR` also supports `元來通身是手`, which is now strong enough to include.
-- OCR and image also support the framing line `é Œäº†å´èŽ«æ•™æ°¸åŠ«å—é¤˜æ®ƒ` and the closing motion line `å››æµ·æ©«è¡Œå€’è·¨æ¥Šå²ä¸‰è„š`.
+- OCR and image also support the framing line `頌了却莫教永劫受餘殃` and the closing motion line `四海橫行倒跨楊岐三脚`.
 - The inner explanatory prose between those lines remains compressed and is not yet stable enough to normalize further.
 
 ### PDF p.050 left leaf
@@ -2501,17 +2566,17 @@
 
 ```text
 人以有箇生緣，
-å„å„é€å¾®æ©Ÿã€‚
-å…ˆé‚£å’æŠ˜éª¨é‚„çˆ¶ã€‚
+各各透微機。
+先那吒折骨還父。
 五祖豈鑒爺娘。
-å‡¡è–è·¯é ­ä¿±æˆªæ–·ï¼Œ
+凡聖路頭俱截斷，
 幾多蜂蟻起雷音。
 ```
 
 #### Notes
 
-- OCR and image support the phrase family `äººä»¥æœ‰ç”Ÿç·£ / å„äººé€å¾®æ©Ÿ / æŠ˜éª¨é‚„çˆ¶ / äº”ç¥–è±ˆé‘’çˆºå¨˜`.
-- The lower verse tail `å‡¡è–è·¯é ­ä¿±æˆªæ–· / å¹¾å¤šèœ‚èŸ»èµ·é›·éŸ³` is also now visible enough to include.
+- OCR and image support the phrase family `人以有生緣 / 各人透微機 / 折骨還父 / 五祖豈鑒爺娘`.
+- The lower verse tail `凡聖路頭俱截斷 / 幾多蜂蟻起雷音` is also now visible enough to include.
 - The middle compressed prose remains weaker than the opening and closing lines.
 
 ### PDF p.051 right leaf
@@ -2522,21 +2587,21 @@
 #### Consolidated Readable Text
 
 ```text
-ç„¡é–€é¦–åº§ç«‹åƒ§å±±å€Ÿå¥‰è¬ç´¹å®šåºšå¯…å­£æ˜¥ç„¡é‡å®—å£½æ›¸è´Š
+無門首座立僧山借奉謝紹定庚寅季春無量宗壽書贊
 ```
 
 #### Notes
 
 - `RapidOCR` also preserves the surrounding phrase family:
-  - `é”ç£¨è¥¿ä¾†ä¸åŸ·æ–‡å­—ç›´æŒ‡äººå¿ƒè¦‹æ€§æˆä½›`
-  - `ç„¡é–€é¦–åº§ç«‹åƒ§å±±å€Ÿå¥‰è¬ç´¹å®šåºšå¯…å­£æ˜¥ç„¡é‡å®—å£½æ›¸è´Š`
+  - `達磨西來不執文字直指人心見性成佛`
+  - `無門首座立僧山借奉謝紹定庚寅季春無量宗壽書贊`
 - The leaf also visibly preserves the surrounding admonitory cadence:
-  - `æˆä½›èªªç®‡ç›´æŒ‡å·²æ˜¯è¿‚æ›²æ›´è¨€æˆä½›`
+  - `成佛說箇直指已是迂曲更言成佛`
   - `無門因甚有關`
-  - `è€å©†å¿ƒåˆ‡`
-  - `æƒ¡è²æµå¸ƒ`
+  - `老婆心切`
+  - `惡聲流布`
 - The line is best treated as compressed but coherent colophon/dedicatory prose.
-- `å€Ÿ` is retained as the working reading in `ç«‹åƒ§å±±å€Ÿå¥‰è¬`, with the phrase understood as a humility/compression marker rather than a literal borrowing verb.
+- `借` is retained as the working reading in `立僧山借奉謝`, with the phrase understood as a humility/compression marker rather than a literal borrowing verb.
 
 ### PDF p.051 left leaf
 
@@ -2546,11 +2611,11 @@
 #### Consolidated Readable Text
 
 ```text
-å››åä¹å‰‡å…¶é–“äº›å­ï¼Œ
-è«‹èªåˆ¥èµ·çœ‰æ¯›ã€‚
-æª¢æ ¡ä¿å¯§è»ç¯€åº¦ä½¿äº¬æ¹–å®‰æ’«åˆ¶ç½®å¤§ä½¿å…¼çŸ¥æ±Ÿé™µåºœæ¼¢æ±éƒ¡é–‹åœ‹å…¬é£Ÿé‚‘
-äºŒåƒä¸€ç™¾æˆ¶é£Ÿå¯¦å°é™¸ä½°æˆ¶
-å­Ÿç™
+四十九則其間些子，
+請認別起眉毛。
+檢校保寧軍節度使京湖安撫制置大使兼知江陵府漢東郡開國公食邑
+二千一百戶食實封陸佰戶
+孟珙
 ```
 
 #### Notes
@@ -2583,18 +2648,18 @@
 #### Consolidated Readable Text
 
 ```text
-ç„¡é–€è€ç¦ªä½œå››åå…«å‰‡èªžï¼Œ
-åˆ¤æ–·å¤å¾·å…¬æ¡ˆã€‚
+無門老禪作四十八則語，
+判斷古德公案。
 大似黃油餅人，
-ä»¤è²·å®¶é–‹å£æŽ¥ã€‚
-å®‰æ™šæ¬²å°±æ¸ ç†±çˆä¸Šå†æ‰“ä¸€æ’¥ï¼Œ
-è¶³æˆå¤§è¡ä¹‹æ•¸ã€‚
+令買家開口接。
+安晚欲就渠熱爐上再打一撥，
+足成大衍之數。
 ```
 
 #### Notes
 
 - The leaf is stronger than a single-phrase stub.
-- OCR and image also support a further continuation around `å®‰æ™šæ¬²å°± / æ¸ ç†±çˆä¸Šå†æ‰“ä¸€æ’¥ / è¶³æˆå¤§è¡ä¹‹æ•¸`.
+- OCR and image also support a further continuation around `安晚欲就 / 渠熱爐上再打一撥 / 足成大衍之數`.
 - The remaining lower lines are still too unstable for a fuller diplomatic recovery.
 
 ### PDF p.053 right leaf
@@ -2605,25 +2670,25 @@
 #### Consolidated Readable Text
 
 ```text
-ç¬¬å››åä¹å‰‡èªž
+第四十九則語
 頌云：
-æ­¢æ­¢ä¸é ˆèªªæˆ‘æ³•å¦™é›£æ€ã€‚
-æ³•å¾žä½•ä¾†ï¼Œå¦™å¾žä½•èªªæ™‚ï¼Œåˆä½œéº¼ç”Ÿã€‚
-ç”Ÿè±ˆä½†è±å¹²é¥’èˆŒï¼Œ
-å…ƒæ˜¯é‡‹è¿¦å¤šå£ã€‚
-è€å­é€ ä½œå¥½æ€ªï¼Œ
-ä»¤åƒç™¾ä»£å…’å­«è¢«è‘—ã€‚
-è—¤çºå€’ï¼Œæœªå¾—é ­å‡ºï¼Œ
-æ°ä¼¼é€™èˆ¬å¥‡ç‰¹è©±é ­ã€‚
-èµ·è·³ä¸æ­¢ï¼Œé£¯è’¸ä¸ç†Ÿï¼Œ
-æœ‰å¤šå°‘éŒ¯èªè™•ã€‚
+止止不須說我法妙難思。
+法從何來，妙從何說時，又作麼生。
+生豈但豐干饒舌，
+元是釋迦多口。
+老子造作好怪，
+令千百代兒孫被著。
+藤纏倒，未得頭出，
+恰似這般奇特話頭。
+起跳不止，飯蒸不熟，
+有多少錯認處。
 ```
 
 #### Notes
 
-- `ç¬¬å››åä¹å‰‡èªž` appears clearly enough in OCR to log.
+- `第四十九則語` appears clearly enough in OCR to log.
 - The upper block is stronger than the earlier one-line stub.
-- OCR and image both support the added lower warning lines around `è±å¹²é¥’èˆŒ / é‡‹è¿¦å¤šå£ / è—¤çºå€’ / æœªå¾—é ­å‡º / å¥‡ç‰¹è©±é ­ / èµ·è·³ä¸æ­¢ / é£¯è’¸ä¸ç†Ÿ / éŒ¯èªè™•`.
+- OCR and image both support the added lower warning lines around `豐干饒舌 / 釋迦多口 / 藤纏倒 / 未得頭出 / 奇特話頭 / 起跳不止 / 飯蒸不熟 / 錯認處`.
 
 ### PDF p.053 left leaf
 
@@ -2633,13 +2698,13 @@
 #### Consolidated Readable Text
 
 ```text
-å‚äººå•äº‘ï¼š
-ç•¢ç«Ÿä½œå¦‚ä½•çµæ–·ã€‚
-å®‰æ™šåˆåæŒ‡çˆªæ›°ï¼š
-æ­¢æ­¢ä¸é ˆèªªæˆ‘æ³•å¦™é›£æ€ã€‚
-å´æ€¥åŽ»é›£æ‚£å…©å­—ä¸Šæ‰“ç®‡å°åœ“ç›¸å­ï¼Œ
+傍人問云：
+畢竟作如何結斷。
+安晚合十指爪曰：
+止止不須說我法妙難思。
+却急去難患兩字上打箇小圓相子，
 指示衆人云：
-ç¸½åœ¨è£è¨±ã€‚
+總在裏許。
 ```
 
 #### Notes
@@ -2656,8 +2721,8 @@
 #### Consolidated Readable Text
 
 ```text
-æ›¸äºŽè¥¿æ¹–æ¼èŽŠã€‚
-æ·³ç¥ä¸™åˆå­£å¤åˆå‰ï¼Œ
+書于西湖漁莊。
+淳祐丙午季夏初吉，
 安晚居士
 ```
 
@@ -2674,10 +2739,10 @@
 #### Consolidated Readable Text
 
 ```text
-èˆŠæ¿ç£¨æ»…æ•…é‡å‘½å·¥ã€‚
-æ¢“é€™æ¿ç½®æ–¼æ­¦è—å·žï¼Œ
+舊板磨滅故重命工。
+梓這板置於武藏州，
 駒牟山廣圓禪寺也。
-æ‡‰æ°¸ä¹™é…‰åæœˆåä¸‰æ—¥ï¼Œ
+應永乙酉十月十三日，
 幹緣比丘常牧。
 ```
 
@@ -2695,14 +2760,14 @@
 #### Consolidated Readable Text
 
 ```text
-å¯¬æ°¸ä¹å¹´å£¬ç”³ä¹æœˆ
+寬永九年壬申九月
 中野宗左衛門刊行
 ```
 
 #### Notes
 
 - The date line is the strongest part of the leaf.
-- The boxed `å¯¬æ°¸ä¹å¹´å£¬ç”³ä¹æœˆ / ä¸­é‡Žå®—å·¦è¡›é–€åˆŠè¡Œ` block is stable.
+- The boxed `寬永九年壬申九月 / 中野宗左衛門刊行` block is stable.
 - The lighter side columns remain too weak for a cleaner reading on this pass.
 
 ### PDF p.055 left leaf

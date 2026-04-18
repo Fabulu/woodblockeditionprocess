@@ -17,6 +17,12 @@ then this file is the first thing to read.
 
 This file is the top-level instruction sheet for the whole program. It points at the other workflow and guide files that govern acquisition, transcription, provenance, process logging, OpenZen packaging, and ReadZen display.
 
+The governing editorial posture is:
+
+> AI proposes, human audits, system records.
+
+AI may drive OCR, collation, triage, and draft editorial argument, but it must not silently finalize uncertain readings or hide ambiguity behind polished output.
+
 ## Contract
 
 The end state is not just a TEI file.
@@ -74,22 +80,32 @@ Then summarize:
 
 If those records exist, resume from the recorded next step unless the user explicitly says to reopen the witness hunt, scope, or copy-text decision.
 
+Operational authority rule when resuming:
+
+- `current-state.md` is the authoritative resumability surface for:
+  - current phase
+  - last completed bounded slice
+  - exact next action
+- `timeline.json` is the authoritative machine-readable event history
+- if another log disagrees with `current-state.md` about what happens next, stop and reconcile the drift before more substantive work
+
 ## First files to read
 
 Read these in this order:
 
 1. `CRITICAL_EDITION_ENTRYPOINT.md`
 2. `CRITICAL_EDITION_RECORDING_MATRIX.md`
-3. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
-4. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
-5. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
-6. `WORKFLOW.md`
-7. `REPO_INTAKE_PIPELINE.md`
-8. `TRANSCRIPTION_METHOD.md`
-9. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
-10. `OpenZenTexts/MANIFEST_SCHEMA.md`
-11. `CBETA-Translator/Text/TeiRenderer.cs`
-12. `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
+3. `critical_edition_evaluation.md`
+4. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
+5. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
+6. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
+7. `WORKFLOW.md`
+8. `REPO_INTAKE_PIPELINE.md`
+9. `TRANSCRIPTION_METHOD.md`
+10. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
+11. `OpenZenTexts/MANIFEST_SCHEMA.md`
+12. `CBETA-Translator/Text/TeiRenderer.cs`
+13. `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
 
 ## Main rule
 
@@ -203,12 +219,41 @@ Visible text changes must also record:
 - change kind
 - reason
 - witness support
+- evidence basis
+- evidence strength
 - before/after reading state captured at the moment of change
 
 Preferred storage model:
 
 - top-level readings table
 - `reading_before` / `reading_after` indices in `timeline.json`
+
+Use explicit evidence-strength labels:
+
+- strong
+- moderate
+- weak
+- provisional
+
+Do not allow a clean-looking reading to stand without an explicit strength label in the supporting record.
+
+### Step 6a. Keep stages hard-separated
+
+Do not mix these stages casually:
+
+- recon
+- transcription
+- collation
+- edition
+
+Rules:
+
+- recon may discover and classify witnesses, but it does not silently enter correction
+- transcription may correct a witness-facing working text, but it does not silently produce edition claims
+- collation may compare witnesses and surface variant structure, but it does not silently publish a reading edition
+- edition may present stabilized results, but it must still preserve uncertainty and traceability back to transcription and collation
+
+If a slice crosses a stage boundary, declare that explicitly before starting it and update `current-state.md` and `process.json` at the same time.
 
 ### Step 7. Generate the OpenZen package
 

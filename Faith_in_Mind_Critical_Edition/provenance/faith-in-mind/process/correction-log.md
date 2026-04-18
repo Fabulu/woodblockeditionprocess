@@ -9,7 +9,7 @@ Witness: `T1`
 - Working file: `provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt`
 - Source OCR basis: normalized RapidOCR full-pass output
 - Comparator basis available: `RapidOCR`, `tesseract`, `EasyOCR`, `PaddleOCR`
-- Current correction slice: secure poem-line recovery on `T1-p077.l01`
+- Current correction slice: `T5` confirmation slice plus working-text integrity restore at `T1-p032.l01`
 
 ## Entries
 
@@ -84,10 +84,25 @@ Witness: `T1`
 | 2026-04-15 | `T1-p063.l01` | OCR certainty fix | `下命根药去然日维在勤用之中自然常止` | `一切不留無可記憶` | the Paddle column-ordered support preserves `切不留...可記憶`, and the already secured sequence between `T1-p062.l01` and `T1-p064.l01` identifies the full lemma as `一切不留無可記憶` | fixed |
 | 2026-04-15 | `T1-p077.l01` | OCR certainty fix | `但能如是何愿不果` | `但能如是何慮不畢` | RapidOCR and extracted Paddle both preserve the core `但能如是何...不...` shape, and the closing sequence before `T1-p078.l01` fixes the line as `但能如是何慮不畢` | fixed |
 
+| 2026-04-15 | `T1-p077.l01` | OCR certainty fix | `但能如是何愿不果` | `但能如是何慮不畢` | RapidOCR and extracted Paddle both preserve the core `但能如是何...不...` shape, and the closing sequence before `T1-p078.l01` fixes the line as `但能如是何慮不畢` | superseded by visual fix |
+| 2026-04-15 | `T1-p076.l01` | visual certainty fix | `若石如是必不酒守` | `若如是必不須守` | direct image inspection of `page-images/T1-p076.png` shows `若如是必不須守` clearly in the visible lemma column; OCR had damaged `如` and `須` | fixed |
+| 2026-04-15 | `T1-p077.l01` | visual certainty fix | `但能如是何慮不畢` | `一即一切一切即一` | direct image inspection of `page-images/T1-p077.png` shows the opening lemma as `一即一切一切即一`; the earlier OCR-only correction was a wrong sequence-based assignment | fixed |
+
+| 2026-04-15 | `T1-p047.l01` | comparison-supported certainty fix | `唯人自闹禅和子你但见几见垩见女是` | `法無異法妄自愛著` | `T4` now has full-pass four-engine OCR coverage on record, and the locus is fixed by the preserved sequence between `T1-p046.l01` `智者無爲愚人自縛` and `T1-p048.l01` `將心用心豈非大錯`; this line had already been logged as a strong `T4-p003` repair candidate | fixed |
+| 2026-04-15 | `T1-p065.l01` | comparison-supported certainty fix | `元衰云穗客全教现成公案高伍普鹰日用` | `非思量處識情難測` | `T4` now has full-pass four-engine OCR coverage on record, and the locus is fixed by the preserved sequence between `T1-p064.l01` `虛明自照不勞心力` and `T1-p066.l01` `真如法界無他無自`; this line had already been logged as a strong `T4-p004` repair candidate | fixed |
+
+| 2026-04-15 | `T1-p021.l01a` | comparison-supported supplied lemma | `(missing between T1-p021.l01 and T1-p022.l01)` | `一種不通兩處失功` | `T4-p002` preserves the missing line cleanly between `唯滯兩邊寧知一種` and `遣有沒有從空背空`; the package records it as a supplied stable insertion id rather than silently renumbering the witness text | fixed |
+| 2026-04-15 | `T1-p031.l03` | comparison-supported certainty fix | `由一有一亦莫守` | `二由一有一亦莫守` | the `T4-p003` sequence shows this line immediately before `一心不生萬法無咎` and before the already corrected `無咎無法不生不心`; `T1` had dropped the opening `二` | fixed |
+| 2026-04-15 | `T1-p032.l01` | comparison-supported certainty fix | `時節禪和子不妨謙就你要會磨滇是向萬` | `一心不生萬法無咎` | the `T4-p003` sequence preserves this exact middle line between `二由一有一亦莫守` and the already corrected `無咎無法不生不心`, making the `T1` commentary-noise reading untenable | fixed |
+| 2026-04-15 | `T1-p077.l01a` | comparison-supported supplied closing line | `(missing after T1-p077.l01)` | `但能如是何慮不畢` | `T4-p004` preserves this line cleanly between `一即一切一切即一` and `信心不二不二信心`; the package records it as a supplied stable insertion id without collapsing the still-open earlier `T1-p075/T1-p076` branch issue | fixed |
+| 2026-04-15 | `T1-p075.l01` | visual de-certainty rollback | `若不如此必不須守` | `祖大師超州廣携取封在日隐野花帝鸟` | direct image inspection of `page-images/T1-p075.png` plus the saved `T1` OCR support show that this locus is commentary material, not a secure poem lemma; the earlier standard-line correction is therefore rolled back instead of being left as false certainty | fixed |
+
+| 2026-04-15 | `T1-p032.l01` | working-text integrity restore | `????????` | `ä¸€å¿ƒä¸ç”Ÿè¬æ³•ç„¡å’Ž` | the correction log, unresolved register, and comparison table already recorded this `T4`-supported repair; the live working file alone had drifted into eight literal question marks and was restored to the already accepted reading before further comparison work | fixed |
+
 ## Open cautions
 
 - This pass corrects only high-confidence title and lemma lines.
 - Commentary prose on `T1-p005` onward remains largely uncorrected.
 - `T1-p005` to `T1-p010` now have additional OCR support from extracted Paddle JSON text plus focused and full-pass Tesseract outputs.
 - the full `T1` witness now also has Paddle column-ordered support text derived from JSON geometry to help separate recognition errors from reading-order errors.
-- No comparison witnesses beyond `T1` have entered the transcription pass yet.
+- `T4` has now entered the comparison layer with full-pass four-engine OCR coverage and may support bounded correction slices where the evidence is explicit.

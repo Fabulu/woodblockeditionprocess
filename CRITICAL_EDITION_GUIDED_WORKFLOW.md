@@ -314,6 +314,7 @@ At minimum confirm:
 - schema validation passes where available
 - `documents.json` points only to existing files
 - manifest-declared files exist
+- rendered witness-frame coverage has been audited against the witness draft, and no active leaf is silently missing
 - TEI note anchors and note targets resolve
 - timeline references and apparatus references resolve
 - footnotes are not carrying process-log or human-log content by mistake

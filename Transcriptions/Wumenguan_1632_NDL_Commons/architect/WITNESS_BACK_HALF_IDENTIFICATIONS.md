@@ -13,23 +13,23 @@ This is a practical completion spine for the remaining witness work, not a final
 
 ## Identified Cases
 
-### ä¸æ€å–„æƒ¡
+### 不思善惡
 
 - Leaves: `page_027_left_frame.png`, `page_027_right_frame.png`, `page_028_right_frame.png`
 - Secure opening:
 
 ```text
-å…­ç¥–å› æ˜Žä¸Šåº§è¶è‡³å¤§åº¾å¶ºã€‚
-ç¥–è¦‹æ˜Žè‡³ï¼Œå³æ“²è¡£é‰¢æ–¼çŸ³ä¸Šäº‘ï¼š
-æ­¤è¡£è¡¨ä¿¡ï¼Œå¯åŠ›çˆ­è€¶ã€‚
-æ˜Žé‚æ“§ä¹‹ï¼Œå¦‚å±±ä¸å‹•ã€‚
+六祖因明上座趁至大庾嶺。
+祖見明至，即擲衣鉢於石上云：
+此衣表信，可力爭耶。
+明遂擧之，如山不動。
 明白：
-æˆ‘ä¾†æ±‚æ³•ï¼Œéžç‚ºè¡£ä¹Ÿã€‚
+我來求法，非為衣也。
 願行者開示。
 祖云：
-ä¸æ€å–„ï¼Œä¸æ€æƒ¡ï¼Œ
+不思善，不思惡，
 正與麼時，
-é‚£ç®‡æ˜¯æ˜Žä¸Šåº§æœ¬ä¾†é¢ç›®ã€‚
+那箇是明上座本來面目。
 明當下大悟。
 ```
 
@@ -37,26 +37,26 @@ This is a practical completion spine for the remaining witness work, not a final
 
 ```text
 無門曰：
-è‹¥å‘è€…è£ä¸‹å¾—ä¸€è½‰èªžè¦ªåˆ‡ï¼Œ
-ä¾¿è¦‹éˆå±±ä¸€æœƒå„¼ç„¶æœªæ•£ã€‚
+若向者裏下得一轉語親切，
+便見靈山一會儼然未散。
 ```
 
-### é›¢å»èªžè¨€
+### 離卻語言
 
 - Leaves: `page_028_left_frame.png`, `page_029_right_frame.png`
 - Secure opening:
 
 ```text
-é¢¨ç©´å’Œå°šå› åƒ§å•ï¼š
+風穴和尚因僧問：
 語默涉離微，
-å¦‚ä½•é€šä¸çŠ¯ã€‚
+如何通不犯。
 ```
 
 - Secure witness line:
 
 ```text
 頌曰：
-ä¸éœ²é¢¨éª¨å¥ï¼Œ
+不露風骨句，
 未語先分付。
 ```
 
@@ -72,77 +72,77 @@ This is a practical completion spine for the remaining witness work, not a final
 今日當第三座說法。
 ```
 
-### äºŒåƒ§å·ç°¾
+### 二僧卷簾
 
 - Leaves: `page_030_right_frame.png`, `page_030_left_frame.png`
 - Secure opening:
 
 ```text
-æ¸…æ¶¼å¤§æ³•çœ¼å› åƒ§é½‹å‰ä¸Šåƒã€‚
+清涼大法眼因僧齋前上參。
 眼以手指簾。
-æ™‚æœ‰äºŒåƒ§åŒåŽ»å·ç°¾ã€‚
+時有二僧同去卷簾。
 眼曰：
 一得，
 一失。
 ```
 
-### ä¹…éŸ¿é¾æ½­
+### 久響龍潭
 
 - Leaves: `page_031_left_frame.png`, `page_032_right_frame.png`, `page_032_left_frame.png`
 - Secure opening:
 
 ```text
-é¾æ½­å› å¾·å±±è«‹ç›Šã€‚
+龍潭因德山請益。
 夜云：
 夜深。
-å­ä½•ä¸ä¸‹åŽ»ã€‚
-å±±é‚çé‡æ­ç°¾è€Œå‡ºã€‚
-è¦‹å¤–é¢é»‘å´å›žäº‘ï¼š
-å¤–é¢é»‘ã€‚
+子何不下去。
+山遂珍重揭簾而出。
+見外面黑却回云：
+外面黑。
 潭乃點紙燭度與山。
 ```
 
-### ä¸æ˜¯å¿ƒä½›
+### 不是心佛
 
 - Leaf: `page_031_right_frame.png`
 - Secure opening:
 
 ```text
-å—æ³‰å’Œå°šå› åƒ§å•ï¼š
-é‚„æœ‰ä¸æ˜¯å¿ƒï¼Œä¸æ˜¯ä½›ï¼Œä¸æ˜¯ç‰©ã€‚
+南泉和尚因僧問：
+還有不是心，不是佛，不是物。
 泉云：
-ä¸æ˜¯å¿ƒï¼Œ
-ä¸æ˜¯ä½›ï¼Œ
-ä¸æ˜¯ç‰©ã€‚
+不是心，
+不是佛，
+不是物。
 ```
 
-### éžé¢¨éžå¹¡
+### 非風非幡
 
 - Leaf: `page_033_left_frame.png`
 - Secure opening:
 
 ```text
 六祖因風颺刹，
-æœ‰äºŒåƒ§å°è«–ã€‚
+有二僧對論。
 一云風動，
 一云幡動。
-å¾€å¾©æ›¾æœªå¥‘ç†ã€‚
+往復曾未契理。
 祖云：
-ä¸æ˜¯é¢¨å‹•ï¼Œ
-ä¸æ˜¯å¹¡å‹•ï¼Œ
-ä»è€…å¿ƒå‹•ã€‚
+不是風動，
+不是幡動，
+仁者心動。
 ```
 
-### å³å¿ƒå³ä½›
+### 即心即佛
 
 - Leaves: `page_034_right_frame.png`, `page_034_left_frame.png`
 - Secure opening:
 
 ```text
-é¦¬ç¥–å› å¤§æ¢…å•ï¼š
+馬祖因大梅問：
 如何是佛。
 祖云：
-å³å¿ƒæ˜¯ä½›ã€‚
+即心是佛。
 ```
 
 ### 趙州勘婆
@@ -151,43 +151,43 @@ This is a practical completion spine for the remaining witness work, not a final
 - Secure opening:
 
 ```text
-è¶™å·žå› åƒ§å•å©†å­ï¼š
-å°å±±è·¯å‘ç”šè™•åŽ»ã€‚
+趙州因僧問婆子：
+台山路向甚處去。
 婆云：
 驀直去。
 僧纔行三五步，
 婆云：
 好箇師僧，
-åˆæéº¼åŽ»ã€‚
+又恁麼去。
 ```
 
-### å¤–é“å•ä½›
+### 外道問佛
 
 - Leaf: `page_036_right_frame.png`
 - Secure opening:
 
 ```text
-ä¸–å°Šå› å¤–é“å•ï¼š
-ä¸å•æœ‰è¨€ï¼Œ
-ä¸å•ç„¡è¨€ã€‚
+世尊因外道問：
+不問有言，
+不問無言。
 世尊良久。
-å¤–é“è®šæ­Žäº‘ï¼š
+外道讚歎云：
 世尊大慈大悲，
 開我迷雲，
 令我得入。
 乃具禮而去。
 ```
 
-### éžå¿ƒéžä½›
+### 非心非佛
 
 - Leaf: `page_036_left_frame.png`
 - Secure opening:
 
 ```text
-é¦¬ç¥–å› åƒ§å•ï¼š
-å¦‚ä½•æ˜¯ç¥–å¸«è¥¿ä¾†æ„ã€‚
+馬祖因僧問：
+如何是祖師西來意。
 祖云：
-éžå¿ƒéžä½›ã€‚
+非心非佛。
 ```
 
 ### 倩女離魂
@@ -196,56 +196,56 @@ This is a practical completion spine for the remaining witness work, not a final
 - Secure opening:
 
 ```text
-äº”ç¥–å•åƒ§äº‘ï¼š
+五祖問僧云：
 倩女離魂，
 那箇是正底。
 ```
 
-### æ™ºä¸æ˜¯é“
+### 智不是道
 
 - Leaf: `page_037_right_frame.png`
 - Secure opening:
 
 ```text
-å—æ³‰äº‘ï¼š
-å¿ƒä¸æ˜¯ä½›ï¼Œ
-æ™ºä¸æ˜¯é“ã€‚
+南泉云：
+心不是佛，
+智不是道。
 ```
 
-### è·¯é€¢é”é“
+### 路逢達道
 
 - Leaf: `page_038_right_frame.png`
 - Secure opening:
 
 ```text
 五祖曰：
-è·¯é€¢é”é“äººï¼Œ
-ä¸å°‡èªžé»˜å°ï¼Œ
-ä¸”é“å°‡ç”šéº¼å°ã€‚
+路逢達道人，
+不將語默對，
+且道將甚麼對。
 ```
 
-### åº­å‰æŸæ¨¹
+### 庭前柏樹
 
 - Leaf: `page_038_left_frame.png`
 - Secure opening:
 
 ```text
-è¶™å·žå› åƒ§å•ï¼š
-å¦‚ä½•æ˜¯ç¥–å¸«è¥¿ä¾†æ„ã€‚
+趙州因僧問：
+如何是祖師西來意。
 州云：
-åº­å‰æŸæ¨¹å­ã€‚
+庭前柏樹子。
 ```
 
-### ç‰›éŽçª—æ«º
+### 牛過窗櫺
 
 - Leaf: `page_039_right_frame.png`
 - Secure opening:
 
 ```text
 五祖曰：
-è­¬å¦‚æ°´ç‰›éŽçª—æ«ºï¼Œ
-é ­è§’å››è¹„éƒ½éŽäº†ï¼Œ
-å› ç”šå°¾å·´éŽä¸å¾—ã€‚
+譬如水牛過窗櫺，
+頭角四蹄都過了，
+因甚尾巴過不得。
 ```
 
 ### 雲門話墮
@@ -254,15 +254,15 @@ This is a practical completion spine for the remaining witness work, not a final
 - Secure opening:
 
 ```text
-é›²é–€å› åƒ§å•ï¼š
-å…‰æ˜Žå¯‚ç…§éæ²³æ²™ã€‚
+雲門因僧問：
+光明寂照遍河沙。
 ```
 
 - Secure witness line:
 
 ```text
 雲門云：
-è±ˆä¸æ˜¯å¼µæ‹™ç§€æ‰èªžã€‚
+豈不是張拙秀才語。
 ```
 
 ### 趯倒淨瓶
@@ -272,45 +272,45 @@ This is a practical completion spine for the remaining witness work, not a final
 
 ```text
 溈山和尚始在百丈會中充典座。
-ç™¾ä¸ˆå°‡é¸å¤§æºˆä¸»äººã€‚
+百丈將選大溈主人。
 乃命之曰：
 ```
 
 - Secure witness line:
 
 ```text
-ç™¾ä¸ˆé‚æ‹ˆæ·¨ç“¶ç½®åœ°ï¼Œ
-è¨­å•äº‘ï¼š
-ä¸å¾—å–šä½œæ·¨ç“¶ï¼Œ
-æ±å–šä½œç”šéº¼ã€‚
+百丈遂拈淨瓶置地，
+設問云：
+不得喚作淨瓶，
+汝喚作甚麼。
 ```
 
-### é”ç£¨å®‰å¿ƒ
+### 達磨安心
 
 - Leaf: `page_041_left_frame.png`
 - Secure opening:
 
 ```text
-é”ç£¨é¢å£ã€‚
+達磨面壁。
 二祖立雪斷臂云：
-å¼Ÿå­å¿ƒæœªå®‰ï¼Œ
+弟子心未安，
 乞師安心。
 祖云：
-å°‡å¿ƒä¾†èˆ‡æ±å®‰ã€‚
+將心來與汝安。
 ```
 
-### å¥³å­å‡ºå®š
+### 女子出定
 
 - Leaves: `page_042_right_frame.png`, `page_042_left_frame.png`, `page_043_right_frame.png`
 - Secure opening:
 
 ```text
 世尊昔因文殊至諸佛集處，
-å€¼è«¸ä½›å„é‚„æœ¬è™•ï¼Œ
-æƒŸæœ‰ä¸€å¥³äººè¿‘å½¼ä½›åå…¥å®šã€‚
+值諸佛各還本處，
+惟有一女人近彼佛坐入定。
 文殊乃白佛：
-äº‘ä½•å¥³äººå¾—è¿‘ä½›åï¼Œ
-æˆ‘ä¸å¾—ã€‚
+云何女人得近佛坐，
+我不得。
 ```
 
 ### 首山竹篦
@@ -320,25 +320,25 @@ This is a practical completion spine for the remaining witness work, not a final
 
 ```text
 首山和尚拈竹篦示眾云：
-æ±ç­‰è«¸äººï¼Œ
+汝等諸人，
 若喚作竹篦則觸，
-ä¸å–šä½œç«¹ç¯¦å‰‡èƒŒã€‚
-ä¸å¾—æœ‰èªžï¼Œ
-ä¸å¾—ç„¡èªžã€‚
-é€Ÿé“ã€‚
+不喚作竹篦則背。
+不得有語，
+不得無語。
+速道。
 ```
 
-### èŠ­è•‰æ‹„æ–
+### 芭蕉拄杖
 
 - Leaf: `page_044_right_frame.png`
 - Secure opening:
 
 ```text
 芭蕉和尚示眾云：
-æœ‰æ‹„æ–å­ï¼Œ
-æˆ‘èˆ‡ä½ æ‹„æ–å­ã€‚
-ç„¡æ‹„æ–å­ï¼Œ
-æˆ‘å¥ªä½ æ‹„æ–å­ã€‚
+有拄杖子，
+我與你拄杖子。
+無拄杖子，
+我奪你拄杖子。
 ```
 
 ### 他是阿誰
@@ -347,9 +347,9 @@ This is a practical completion spine for the remaining witness work, not a final
 - Secure opening:
 
 ```text
-æ±å±±æ¼”å¸«ç¥–æ›°ï¼š
+東山演師祖曰：
 釋迦彌勒猶是他奴。
-ä¸”é“ä»–æ˜¯é˜¿èª°ã€‚
+且道他是阿誰。
 ```
 
 ### 竿頭進步
@@ -361,11 +361,11 @@ This is a practical completion spine for the remaining witness work, not a final
 石霜和尚云：
 百尺竿頭，
 如何進步。
-åˆå¤å¾·äº‘ï¼š
-ç™¾å°ºç«¿é ­ååº•äººï¼Œ
+又古德云：
+百尺竿頭坐底人，
 雖然得入未為真。
 百尺竿頭須進步，
-åæ–¹ä¸–ç•Œç¾å…¨èº«ã€‚
+十方世界現全身。
 ```
 
 ### 兜率三關
@@ -374,16 +374,16 @@ This is a practical completion spine for the remaining witness work, not a final
 - Secure opening:
 
 ```text
-å…œçŽ‡æ‚…å’Œå°šè¨­ä¸‰é—œå•å­¸è€…ï¼š
-æ’¥è‰åƒçŽ„åªåœ–è¦‹æ€§ã€‚
-å³ä»Šä¸Šäººæ€§åœ¨ç”šè™•ã€‚
+兜率悅和尚設三關問學者：
+撥草參玄只圖見性。
+即今上人性在甚處。
 ```
 
 - Secure witness phrase:
 
 ```text
-è‹¥å‘è€…è£æ­£å¾—ä¸€è½‰èªžï¼Œ
-ä¾¿å¯èˆ‡å…œçŽ‡ã€”?ã€•ä¸‰é—œã€‚
+若向者裏正得一轉語，
+便可與兜率〔?〕三關。
 ```
 
 ### 乾峰一路
@@ -392,8 +392,8 @@ This is a practical completion spine for the remaining witness work, not a final
 - Secure opening:
 
 ```text
-ä¹¾å³°å’Œå°šå› åƒ§å•ï¼š
-åæ–¹è–„ä¼½æ¢µï¼Œ
+乾峰和尚因僧問：
+十方薄伽梵，
 一路涅槃門。
 未審路頭在甚麼處。
 ```
@@ -406,13 +406,13 @@ This is a practical completion spine for the remaining witness work, not a final
 - Secure witness indicators:
 
 ```text
-é–€èµ·æ‰‡å­äº‘ï¼š
-æ‰‡å­ã€”?ã€•è·³ä¸Šä¸‰åä¸‰å¤©ã€‚
+門起扇子云：
+扇子〔?〕跳上三十三天。
 ```
 
 ```text
 從上佛祖垂示機緣，
-æ’®çµæ¡ˆåˆã€‚
+撮結案初。
 ```
 
 ### Final notes and printing matter
@@ -422,19 +422,19 @@ This is a practical completion spine for the remaining witness work, not a final
 - Secure witness indicators include:
 
 ```text
-ç„¡é–€å·
+無門卷
 ```
 
 ```text
-æ·³ç¥ä¸™åˆã€”?ã€•
+淳祐丙午〔?〕
 ```
 
 ```text
-æ‡‰æ°¸ä¹™é…‰åæœˆåä¸‰æ—¥
+應永乙酉十月十三日
 ```
 
 ```text
-èˆŠæ¿ç£¨æ»…æ•…é‡å‘½å·¥
+舊板磨滅故重命工
 ```
 
 ## Use

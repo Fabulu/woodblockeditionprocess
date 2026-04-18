@@ -57,6 +57,7 @@ Acquire commercially reusable source witnesses for Chinese Chan/Zen texts, inclu
    - `PaddleOCR`
    - `EasyOCR`
 10. If any engine in that loop is missing or fails, record that explicitly in the OCR log before moving on.
+11. Do not let a new scan witness influence correction, collation, or apparatus claims until its four-engine status is recorded for that edition. If comparison begins before all four runs succeed, mark the use as provisional and finish the missing engine runs before any stronger editorial reliance.
 
 ## Validation
 

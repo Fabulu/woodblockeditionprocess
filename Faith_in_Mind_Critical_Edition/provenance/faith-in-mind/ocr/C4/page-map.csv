@@ -1,0 +1,27 @@
+page_id,leaf_id,page_number_display,side,image_path,crop_path,content_role,notes
+C4-p001,,,,"ocr/C4/page-images/C4-p001.png",,title,front wrapper board with `信心銘拈提` title slip
+C4-p002,,,,"ocr/C4/page-images/C4-p002.png",,title,front cover or library-board view with title slip and shelf labels
+C4-p003,,,,"ocr/C4/page-images/C4-p003.png",,title,title or presentation opening with `信心銘拈提`
+C4-p004,,,,"ocr/C4/page-images/C4-p004.png",,title,calligraphic presentation or front matter page before the main commentary body
+C4-p005,1-2,,,"ocr/C4/page-images/C4-p005.png",,body,main `信心銘拈提` commentary body begins here
+C4-p006,3-4,,,"ocr/C4/page-images/C4-p006.png",,body,commentary body
+C4-p007,5-6,,,"ocr/C4/page-images/C4-p007.png",,body,commentary body
+C4-p008,7-8,,,"ocr/C4/page-images/C4-p008.png",,body,commentary body
+C4-p009,9-10,,,"ocr/C4/page-images/C4-p009.png",,body,commentary body
+C4-p010,11-12,,,"ocr/C4/page-images/C4-p010.png",,body,commentary body
+C4-p011,13-14,,,"ocr/C4/page-images/C4-p011.png",,body,commentary body
+C4-p012,15-16,,,"ocr/C4/page-images/C4-p012.png",,body,commentary body
+C4-p013,17-18,,,"ocr/C4/page-images/C4-p013.png",,body,commentary body
+C4-p014,19-20,,,"ocr/C4/page-images/C4-p014.png",,body,commentary body
+C4-p015,21-22,,,"ocr/C4/page-images/C4-p015.png",,body,commentary body
+C4-p016,23-24,,,"ocr/C4/page-images/C4-p016.png",,body,commentary body
+C4-p017,25-26,,,"ocr/C4/page-images/C4-p017.png",,body,commentary body
+C4-p018,27-28,,,"ocr/C4/page-images/C4-p018.png",,body,commentary body
+C4-p019,29-30,,,"ocr/C4/page-images/C4-p019.png",,body,commentary body
+C4-p020,31-32,,,"ocr/C4/page-images/C4-p020.png",,body,commentary body
+C4-p021,33-34,,,"ocr/C4/page-images/C4-p021.png",,body,commentary body
+C4-p022,35-36,,,"ocr/C4/page-images/C4-p022.png",,body,commentary body
+C4-p023,37-38,,,"ocr/C4/page-images/C4-p023.png",,colophon,mixed terminal spread with commentary body still visible on the right page and imprint or colophon matter on the left page
+C4-p024,,,,"ocr/C4/page-images/C4-p024.png",,title,blank or inner wrapper tail page after the terminal mixed spread
+C4-p025,,,,"ocr/C4/page-images/C4-p025.png",,title,rear wrapper or board view
+C4-p026,,,,"ocr/C4/page-images/C4-p026.png",,title,rear wrapper or library label page
