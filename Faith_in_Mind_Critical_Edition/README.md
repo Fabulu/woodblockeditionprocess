@@ -40,3 +40,11 @@ It is intentionally process-first:
 - all decisions logged
 - agent decisions logged as decisions, not hidden work
 - no witness is treated as locked until rights, source page, and download path are documented
+
+## Validation
+
+Run:
+
+- `python scripts/validate_package.py`
+
+This currently enforces witness-page coverage for the active non-blank `T1` transcription span before package handoff work.

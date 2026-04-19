@@ -4,7 +4,7 @@ Date: 2026-04-12
 
 Target:
 - `J/J28/J28nB215.xml`
-- `é Œå¤åˆéŸ¿é›†`
+- `頌古合響集`
 
 Policy:
 - Open / commercially reusable witnesses only.
@@ -14,7 +14,7 @@ Policy:
 - Do not overstate rights basis for any host page or mirror.
 
 Scope of this pass:
-- Exact-title recon for `é Œå¤åˆéŸ¿é›†`
+- Exact-title recon for `頌古合響集`
 - Reusable text witness search
 - Reusable scan witness search
 - Quick check for title-variant or alias-equivalent leads only if they still satisfy the open-only policy
@@ -24,7 +24,7 @@ Scope of this pass:
 I checked the local repo first and found only the worklist rows for `J/J28/J28nB215.xml`; no existing Songgu-specific source folder or report was present.
 
 I then searched for:
-- exact title `é Œå¤åˆéŸ¿é›†`
+- exact title `頌古合響集`
 - CBETA path id `J28nB215`
 - title-author combinations involving `張有譽`
 - title-author combinations involving the named women contributors
@@ -45,8 +45,8 @@ The only concrete live text hit I found was:
 - `https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/J/JB215.pdf`
 
 That hit is not usable under this project policy because the surrounding metadata and catalog trail identify it as CBETA-derived:
-- `catalog.digitalarchives.tw/item/00/33/4a/3f.html` names the source as `JiaXingZang, Electronic version, No. B215 é Œå¤åˆéŸ¿é›†`
-- the same record lists `å‡ºç‰ˆç¤¾ï¼šä¸­è¯é›»å­ä½›å…¸å”æœƒ(CBETA)` and `ç®¡ç†æ¬Šï¼šä¸­è¯é›»å­ä½›å…¸å”æœƒ`
+- `catalog.digitalarchives.tw/item/00/33/4a/3f.html` names the source as `JiaXingZang, Electronic version, No. B215 頌古合響集`
+- the same record lists `出版社：中華電子佛典協會(CBETA)` and `管理權：中華電子佛典協會`
 - the Books.com.tw catalog/result pages also identify the item as a CBETA electronic book
 
 Because the provenance chain is CBETA-tainted, I rejected it as an open/commercially reusable witness.
@@ -58,7 +58,7 @@ Other text-oriented results were either:
 
 ### Scan witness candidates
 
-I did not find a defensible open scan witness for `é Œå¤åˆéŸ¿é›†`.
+I did not find a defensible open scan witness for `頌古合響集`.
 
 The search surfaced no Commons file page, no Kyoto scan, and no NDL/NCL/Korea Commons scan that could be validated locally as a reusable witness for the exact title.
 
@@ -78,8 +78,8 @@ The search surfaced no Commons file page, no Kyoto scan, and no NDL/NCL/Korea Co
 
 ## Conclusion
 
-- No defensible open text witness was found for `J28nB215 é Œå¤åˆéŸ¿é›†`
-- No defensible open scan witness was found for `J28nB215 é Œå¤åˆéŸ¿é›†`
+- No defensible open text witness was found for `J28nB215 頌古合響集`
+- No defensible open scan witness was found for `J28nB215 頌古合響集`
 - No Songgu-specific source folder was created
 - The work remains pending under the open-only policy
 

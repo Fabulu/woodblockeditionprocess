@@ -73,6 +73,15 @@ Chronological recording is now split across layers:
 - `human-log.md` for readable narrative
 - `timeline.json` for app-facing ordered state changes
 
+For critical editions, six forensic provenance logs are also mandatory:
+
+- `correction-log.md`
+- `translation-diff-log.md`
+- `ocr-consensus-log.md`
+- `rejected-readings-log.md`
+- `translation-reasoning-log.md`
+- `character-provenance-log.md`
+
 For resumability:
 
 - `current-state.md` is the authoritative one-screen source of truth for the exact next step
@@ -140,6 +149,8 @@ For each such decision, the record should make clear:
 - what the evidence basis was
 - how strong that evidence was
 
+If the decision changes Chinese text, it must also say how the English changed or why the English did not need to change. `correction-log.md` and `translation-diff-log.md` do not separate.
+
 If the answer is only "it reads better," that is not enough.
 
 Evidence basis should name the actual support type, for example:
@@ -174,6 +185,10 @@ That event must record:
 
 Capture the earlier reading state at the moment of change, before overwrite.
 
+For OCR-backed decisions, record OCR consensus at the point of use rather than leaving agreement only implicit in engine output folders.
+
+For rejected readings or rollback decisions, record the discarded reading at the point of decision rather than relying on later archaeology.
+
 ---
 
 ## 6. Preserve witness roughness unless there is evidence to improve it
@@ -195,6 +210,8 @@ Unfamiliar is not the same as wrong.
 Polished is not the same as historical.
 
 Maintain a rough-readings table for unusual but retained readings.
+
+Maintain character provenance for contested characters and translation reasoning for non-trivial English renderings so later review can challenge both the Chinese and the English honestly.
 
 ---
 
@@ -296,6 +313,8 @@ At minimum verify:
 - structure counts correct
 - witness leaf coverage audited against rendered frame images
 - no frame-bearing leaf inside the active witness range is missing from the witness draft
+- the project has an executable witness-coverage audit script or validator, not just a prose reminder
+- that witness-coverage audit is wired into the project's normal build or validation entrypoint so failure blocks handoff
 - major rough readings reviewed
 - known ordering mismatches either resolved or documented
 - reading edition free of workbench notes

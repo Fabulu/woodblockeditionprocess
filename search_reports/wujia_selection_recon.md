@@ -1,6 +1,6 @@
 # Wujia Selection Recon
 
-Target: `J/J23/J23nB134 äº”å®¶èªžéŒ„ï¼ˆé¸éŒ„ï¼‰`
+Target: `J/J23/J23nB134 五家語錄（選錄）`
 
 Scope:
 - open / commercially reusable witnesses only
@@ -11,14 +11,14 @@ Result:
 - No defensible open exact-title witness was found in this pass.
 - The worklist entry already marks the title as pending because the downloaded text witnesses trace back to a CBETA / NC provenance conflict.
 - I did find three defensible open scan families that are worth keeping as source-family witnesses for this selection:
-  - `å¤©è–å»£ç‡ˆéŒ„`
+  - `天聖廣燈錄`
   - `續傳燈錄`
   - `嘉泰普燈錄`
 
 Open evidence gathered:
-- `å¤©è–å»£ç‡ˆéŒ„` appears in the Commons NLC file-list page:
+- `天聖廣燈錄` appears in the Commons NLC file-list page:
   - https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/NLC/%E6%95%B8%E5%AD%97%E5%8F%A4%E7%B1%8D/02
-  - The manifest exposes `å¤©è–å»£ç‡ˆéŒ„éƒ½å¸™ç›®éŒ„.pdf` and `å¤©è–å»£ç‡ˆéŒ„ ç¬¬1å†Š.pdf` through `ç¬¬7å†Š.pdf`.
+  - The manifest exposes `天聖廣燈錄都帙目錄.pdf` and `天聖廣燈錄 第1冊.pdf` through `第7冊.pdf`.
 - `續傳燈錄` appears in the Commons CADAL file-list page:
   - https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/CADAL/03
   - The manifest exposes `CADAL02019615 續傳燈錄（一）.djvu` through `CADAL02019618 續傳燈錄（四）.djvu`.

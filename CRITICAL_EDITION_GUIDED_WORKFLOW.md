@@ -315,6 +315,8 @@ At minimum confirm:
 - `documents.json` points only to existing files
 - manifest-declared files exist
 - rendered witness-frame coverage has been audited against the witness draft, and no active leaf is silently missing
+- the project exposes an executable witness-coverage audit or package-validation command
+- that command is part of the package's normal build or validation path, so new projects enforce coverage automatically rather than relying on memory
 - TEI note anchors and note targets resolve
 - timeline references and apparatus references resolve
 - footnotes are not carrying process-log or human-log content by mistake

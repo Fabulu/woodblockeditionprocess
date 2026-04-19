@@ -22,7 +22,13 @@
       "human",
       "hybrid"
     ],
-    "decision_logging_required": true
+    "decision_logging_required": true,
+    "forensic_provenance_protocol_required": true,
+    "required_protocol_documents": [
+      "../../../../EDITION_AGENT_MASTER_INSTRUCTIONS.md",
+      "../../../../EDITION_FORENSIC_PROVENANCE_PROTOCOL.md",
+      "../../../../EDITION_TRANSLATION_DIFF_PROTOCOL.md"
+    ]
   },
   "current_state": {
     "ocr_started": true,
@@ -55,9 +61,14 @@
     "normalized_text": "../../../provenance/faith-in-mind/transcription/normalized/T1-normalized-pass1.txt",
     "corrected_text": "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
     "correction_log": "../../../provenance/faith-in-mind/process/correction-log.md",
+    "translation_diff_log": "../../../provenance/faith-in-mind/process/translation-diff-log.md",
+    "ocr_consensus_log": "../../../provenance/faith-in-mind/process/ocr-consensus-log.md",
+    "rejected_readings_log": "../../../provenance/faith-in-mind/process/rejected-readings-log.md",
+    "translation_reasoning_log": "../../../provenance/faith-in-mind/process/translation-reasoning-log.md",
+    "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "comparison_control_slice_C5_opening",
+      "slug": "ocr_compliance_slice_C6_three_engines_plus_easyocr_blocker",
       "witnesses": [
         "T1",
         "T4",
@@ -69,17 +80,25 @@
         "A3",
         "C1",
         "C2",
-        "C3"
+        "C3",
+        "C4",
+        "C5",
+        "C6"
       ],
       "targets": [
-        "../../../provenance/faith-in-mind/ocr/C5/",
+        "../../../provenance/faith-in-mind/process/translation-diff-log.md",
+        "../../../provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "../../../provenance/faith-in-mind/process/rejected-readings-log.md",
+        "../../../provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "../../../provenance/faith-in-mind/process/character-provenance-log.md",
         "../../../provenance/faith-in-mind/process/current-state.md",
         "../../../provenance/faith-in-mind/process/human-log.md",
         "../../../provenance/faith-in-mind/process/ocr-run-log.md"
       ],
       "status": "completed",
-      "last_completed_slice": "comparison_control_slice_C5_opening",
-      "last_text_changed_event": "FIM-055"
+      "last_completed_slice": "ocr_compliance_slice_C6_three_engines_plus_easyocr_blocker",
+      "last_text_changed_event": "FIM-055",
+      "next_required_slice": "ocr_compliance_slice_C6_easyocr_rerun"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -90,6 +109,7 @@
     "normalization_rule_log": "../../../provenance/faith-in-mind/transcription/normalized/normalization-rule-log.md",
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
-    "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md"
+    "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
+    "next_required_action": "Repair and rerun the C6 EasyOCR full pass with normalized JSON serialization so C6 reaches true four-engine OCR compliance before any comparison use."
   }
 }

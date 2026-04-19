@@ -23,20 +23,20 @@ Scope used here:
 - Confidence: high.
 - Notes: vetted exact text witness for `T48n2005`. Captured package shows no `CBETA` marker. Keep alongside the existing scan witnesses.
 
-### Hongzhi Extensive Record / å®æ™ºç¦ªå¸«å»£éŒ„
+### Hongzhi Extensive Record / 宏智禪師廣錄
 - Local folder: `Hongzhi_Extensive_Record_Wikisource_PD_old`
 - Local files:
-  - `å®æ™ºç¦ªå¸«å»£éŒ„.wikitext`
-  - `å®æ™ºç¦ªå¸«å»£éŒ„_åº.wikitext`
-  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·001.wikitext`
-  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·002.wikitext`
-  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·003.wikitext`
-  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·004.wikitext`
-  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·005.wikitext`
-  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·006.wikitext`
-  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·007.wikitext`
-  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·008.wikitext`
-  - `å®æ™ºç¦ªå¸«å»£éŒ„_å·009.wikitext`
+  - `宏智禪師廣錄.wikitext`
+  - `宏智禪師廣錄_序.wikitext`
+  - `宏智禪師廣錄_卷001.wikitext`
+  - `宏智禪師廣錄_卷002.wikitext`
+  - `宏智禪師廣錄_卷003.wikitext`
+  - `宏智禪師廣錄_卷004.wikitext`
+  - `宏智禪師廣錄_卷005.wikitext`
+  - `宏智禪師廣錄_卷006.wikitext`
+  - `宏智禪師廣錄_卷007.wikitext`
+  - `宏智禪師廣錄_卷008.wikitext`
+  - `宏智禪師廣錄_卷009.wikitext`
   - `page_revisions.json`
   - `root_oldid.html`
 - Source page: https://zh.wikisource.org/wiki/%E5%AE%8F%E6%99%BA%E7%A6%AA%E5%B8%AB%E5%BB%A3%E9%8C%84
@@ -49,35 +49,35 @@ Scope used here:
 - Pending local folder: `Rujing_Sayings_Wikisource_PD_old_pending`
 - Local files:
   - `如淨和尚語錄.wikitext`
-  - `å¦‚æ·¨å’Œå°šèªžéŒ„_åº.wikitext`
-  - `å¦‚æ·¨å’Œå°šèªžéŒ„_å·001.wikitext`
-  - `missing_check_å·002.json`
+  - `如淨和尚語錄_序.wikitext`
+  - `如淨和尚語錄_卷001.wikitext`
+  - `missing_check_卷002.json`
   - `page_revisions.json`
   - `root_oldid.html`
 - Source page: https://zh.wikisource.org/wiki/%E5%A6%82%E6%B7%A8%E5%92%8C%E5%B0%9A%E8%AA%9E%E9%8C%84
 - Stable revision: https://zh.wikisource.org/w/index.php?title=%E5%A6%82%E6%B7%A8%E5%92%8C%E5%B0%9A%E8%AA%9E%E9%8C%84&oldid=2611099
 - Rights basis: captured `oldid` HTML shows page-level `PD-old` / public-domain language, and the Wikisource footer states site text is under `CC BY-SA 4.0`.
 - Confidence: medium-high on rights, low on completeness.
-- Notes: exact free text lead, but the root page links to `/å·002/` and that page is missing. Do not mark `T48n2002A` acquired until the witness is complete.
+- Notes: exact free text lead, but the root page links to `/卷002/` and that page is missing. Do not mark `T48n2002A` acquired until the witness is complete.
 
 ### Blue Cliff Record / 佛果圜悟禪師碧巖錄
 - Pending local folder: `Blue_Cliff_Record_Wikisource_PD_old`
 - Local files:
   - `佛果圜悟禪師碧巖錄.wikitext`
-  - `ä½›æžœåœœæ‚Ÿç¦ªå¸«ç¢§å·–éŒ„_åº.wikitext`
-  - `ä½›æžœåœœæ‚Ÿç¦ªå¸«ç¢§å·–éŒ„_å·001.wikitext`
-  - `ä½›æžœåœœæ‚Ÿç¦ªå¸«ç¢§å·–éŒ„_å·002.wikitext`
-  - `ä½›æžœåœœæ‚Ÿç¦ªå¸«ç¢§å·–éŒ„_å·003.wikitext`
-  - `ä½›æžœåœœæ‚Ÿç¦ªå¸«ç¢§å·–éŒ„_å·004.wikitext`
+  - `佛果圜悟禪師碧巖錄_序.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷001.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷002.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷003.wikitext`
+  - `佛果圜悟禪師碧巖錄_卷004.wikitext`
   - `page_revisions.json`
   - `root_oldid.html`
 - Source page: https://zh.wikisource.org/wiki/%E4%BD%9B%E6%9E%9C%E5%9C%9C%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84
 - Stable revision checked: https://zh.wikisource.org/w/index.php?title=%E4%BD%9B%E6%9E%9C%E5%9C%9C%E6%82%9F%E7%A6%AA%E5%B8%AB%E7%A2%A7%E5%B7%96%E9%8C%84&oldid=2082713
 - Rights basis: not yet sufficient for acquisition. The inspected root page and checked text subpages show the Wikisource site footer, but the required page-level `PD-old` evidence has not yet been pinned for the text pages in this local package.
 - Confidence: low on current vetting completeness.
-- Notes: research lead only; do not treat as an acquired text witness yet. The root page lists `åº` and `å·001` through `å·010`, but the current local package only includes `åº` and `å·001` through `å·004`.
+- Notes: research lead only; do not treat as an acquired text witness yet. The root page lists `序` and `卷001` through `卷010`, but the current local package only includes `序` and `卷001` through `卷004`.
 
-### Book of Serenity / è¬æ¾è€äººè©•å”±å¤©ç«¥è¦ºå’Œå°šé Œå¤å¾žå®¹åºµéŒ„
+### Book of Serenity / 萬松老人評唱天童覺和尚頌古從容庵錄
 - Pending local folder: `Book_of_Serenity_pending`
 - Local files:
   - `README.md`
@@ -85,20 +85,20 @@ Scope used here:
 - Stable revision checked: https://zh.wikisource.org/w/index.php?title=%E8%90%AC%E6%9D%BE%E8%80%81%E4%BA%BA%E8%A9%95%E5%94%B1%E5%A4%A9%E7%AB%A5%E8%A6%BA%E5%92%8C%E5%B0%9A%E9%A0%8C%E5%8F%A4%E5%BE%9E%E5%AE%B9%E5%BA%B5%E9%8C%84&oldid=2096086
 - Rights basis: not yet sufficient for acquisition. The checked root page shows the Wikisource site `CC BY-SA 4.0` footer, but the required page-level `PD-old` evidence has not yet been pinned for the actual text pages.
 - Confidence: low on current vetting completeness.
-- Notes: root structure appears complete with `å·001` through `å·006`, but no local free-text package has been captured and vetted yet. `T48n2004` is already acquired in this repo from a validated scan witness.
+- Notes: root structure appears complete with `卷001` through `卷006`, but no local free-text package has been captured and vetted yet. `T48n2004` is already acquired in this repo from a validated scan witness.
 
 ## Pending exact scan-family leads
 
-### Tiansheng Lamp / å¤©è–å»£ç‡ˆéŒ„
+### Tiansheng Lamp / 天聖廣燈錄
 - Pending local folder: `Tiansheng_Lamp_NLC_Commons_pending`
 - Local files:
   - `README.md`
 - Source page: https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/NLC/%E8%B6%99%E5%9F%8E%E9%87%91%E8%97%8F
 - Rights basis: Commons-hosted NLC scan family. The direct Commons file pages should be treated as the controlling rights statements.
 - Confidence: medium-high on the existence of an exact open scan family; low until the direct file pages and local files are captured.
-- Notes: the Commons list exposes `å¤©è–å»£ç‡ˆéŒ„ ç¬¬1å†Š` through `ç¬¬24å†Š`. This is a real scan-first lead, not an acquisition yet.
+- Notes: the Commons list exposes `天聖廣燈錄 第1冊` through `第24冊`. This is a real scan-first lead, not an acquisition yet.
 
-### Jianzhong Jingguo Continued Lamp / å»ºä¸­é–åœ‹çºŒç‡ˆéŒ„
+### Jianzhong Jingguo Continued Lamp / 建中靖國續燈錄
 - Pending local folder: `Jianzhong_Jingguo_Continued_Lamp_CADAL_Commons_pending`
 - Local files:
   - `README.md`
@@ -155,7 +155,7 @@ Scope used here:
 - Work date: Song, 12th century.
 - Local folder target: `Blue_Cliff_Record_Kyoto_RB00012935`
 - Source page: https://rmda.kulib.kyoto-u.ac.jp/item/rb00012935
-- Rights basis: the item is marked `Ã§â€Â»Ã¥Æ’ÂÃ¤ÂºÅ’Ã¦Â¬Â¡Ã¥Ë†Â©Ã§â€Â¨Ã¨â€¡ÂªÃ§â€Â±Ã¯Â¼Ë†Ã¦â€°â‚¬Ã¨â€ÂµÃ¨Â¡Â¨Ã§Â¤ÂºÃ¯Â¼â€°`, and Kyoto's reuse guide states that Main Library images may be copied, adapted, or redistributed in any medium without application or fee if you give attribution, link back, and indicate changes.
+- Rights basis: the item is marked `画像二次利用自由（所蔵表示）`, and Kyoto's reuse guide states that Main Library images may be copied, adapted, or redistributed in any medium without application or fee if you give attribution, link back, and indicate changes.
 - Confidence: high.
 - Notes: commercially usable, but not public domain in the strict Commons sense; you need to comply with Kyoto's reuse conditions.
 
@@ -170,12 +170,12 @@ Scope used here:
 ### 6. Book of Serenity / 從容錄 / 從容庵錄
 - Work date: Song/Yuan, 12th-13th century.
 - Local folder target: `Book_of_Serenity_NLC_Commons`
-- Source lead: six-volume Commons-hosted NLC family under `Ã¨ÂÂ¬Ã¦ÂÂ¾Ã¨â‚¬ÂÃ¤ÂºÂºÃ¨Â©â€¢Ã¥â€Â±Ã¥Â¤Â©Ã§Â«Â¥Ã¨Â¦ÂºÃ¥â€™Å’Ã¥Â°Å¡Ã©Â Å’Ã¥ÂÂ¤Ã¥Â¾Å¾Ã¥Â®Â¹Ã¥ÂºÂµÃ©Å’â€ž Ã§Â¬Â¬1Ã¥â€ Å ` through `Ã§Â¬Â¬6Ã¥â€ Å `.
+- Source lead: six-volume Commons-hosted NLC family under `萬松老人評唱天童覺和尚頌古從容庵錄 第1冊` through `第6冊`.
 - Rights basis: Commons-hosted NLC scans of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Notes: full six-volume set downloaded and validated.
 
-### 7. Huangbo, Transmission of Mind / Ã©Â»Æ’Ã¦Âªâ€”Ã¥Â±Â±Ã¦â€“Â·Ã©Å¡â€ºÃ§Â¦ÂªÃ¥Â¸Â«Ã¥â€šÂ³Ã¥Â¿Æ’Ã¦Â³â€¢Ã¨Â¦Â
+### 7. Huangbo, Transmission of Mind / 黃檗山斷際禪師傳心法要
 - Work date: Tang core text; surviving copy published 1632.
 - Local folder target: `Huangbo_Transmission_of_Mind_NDL_1632`
 - Source page: https://commons.wikimedia.org/wiki/File:NDL2537819_%E9%BB%84%E6%AA%97%E5%B1%B1%E6%96%B7%E9%9A%9B%E7%A6%AA%E5%B8%AB%E5%82%B3%E5%BF%83%E6%B3%95%E8%A6%811%E5%8D%B7.pdf
@@ -183,7 +183,7 @@ Scope used here:
 - Confidence: high.
 - Notes: strongest immediate Huangbo source.
 
-### 8. Huangbo, Kyoto copy / Ã§Â­Â Ã¥Â·Å¾Ã©Â»â€žÃ¦Âªâ€”Ã¥Â±Â±Ã¦â€“Â·Ã©Å¡â€ºÃ§Â¦ÂªÃ¥Â¸Â«Ã¥â€šÂ³Ã¥Â¿Æ’Ã¦Â³â€¢Ã¨Â¦Â Ã¤ÂºÅ’Ã¥ÂÂ·
+### 8. Huangbo, Kyoto copy / 筠州黄檗山斷際禪師傳心法要 二卷
 - Work date: Tang core text; Kyoto copy is a later edition.
 - Local folder target: `Huangbo_Transmission_of_Mind_Kyoto_RB00015527`
 - Source page: https://rmda.kulib.kyoto-u.ac.jp/en/item/rb00015527
@@ -195,9 +195,9 @@ Scope used here:
 - Work date: associated with Tang master Zhaozhou; surviving compilations are later.
 - Local folder: `Zhaozhou_Sayings_Guzunsu_NCL_Commons`
 - Source lead: NDL authority record confirms title variants: https://id.ndl.go.jp/auth/ndlna/00978045
-- Rights basis: resolved via Commons file page for `NCL-08939 Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž.pdf`, categorized `PD Old`, `CC-PD-Mark`, and `PD-scan (PD-old)`.
+- Rights basis: resolved via Commons file page for `NCL-08939 古尊宿語錄.pdf`, categorized `PD Old`, `CC-PD-Mark`, and `PD-scan (PD-old)`.
 - Confidence: medium-high.
-- Notes: acquired as a defensible compilation witness within `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž`; continue searching for a stronger standalone or more tightly isolated witness if one surfaces.
+- Notes: acquired as a defensible compilation witness within `古尊宿語錄`; continue searching for a stronger standalone or more tightly isolated witness if one surfaces.
 
 ## Secondary set already on radar
 
@@ -265,7 +265,7 @@ Scope used here:
 - Confidence: high.
 - Acquisition status: full seven-file set downloaded and validated.
 
-### Ancient Masters' Sayings / Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž
+### Ancient Masters' Sayings / 古尊宿語錄
 - Work date: Song compilation.
 - Local folder: `Ancient_Masters_Sayings_NCL_Commons`
 - Local file: `NCL-08939_ancient_masters_sayings.pdf`
@@ -273,17 +273,17 @@ Scope used here:
 - Rights basis: Commons-hosted National Central Library scan of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`885` pages).
-- Notes: used to satisfy the `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž` worklist rows. Also used as a defensible compilation witness for `T47n1992 Ã¦Â±Â¾Ã©â„¢Â½Ã§â€žÂ¡Ã¥Â¾Â·Ã§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž` via the explicit `Ã¦Â±Â¾Ã©â„¢Â½Ã¦ËœÂ­Ã¨ÂªÅ¾Ã©Å’â€ž` inclusion in volume 10 of `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž`; this is an alias-equivalent compilation match rather than a standalone scan.
+- Notes: used to satisfy the `古尊宿語錄` worklist rows. Also used as a defensible compilation witness for `T47n1992 汾陽無德禪師語錄` via the explicit `汾陽昭語錄` inclusion in volume 10 of `古尊宿語錄`; this is an alias-equivalent compilation match rather than a standalone scan.
 
 ### Fenyang Wude / 汾陽無德禪師語錄
 - Work date: Song Chan sayings text preserved under the alias-equivalent `汾陽昭 / 善昭` naming family.
 - Local folder: `Ancient_Masters_Sayings_NCL_Commons`
 - Local file: `NCL-08939_ancient_masters_sayings.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08939_%E5%8F%A4%E5%B0%8A%E5%AE%BF%E8%AA%9E%E9%8C%84.pdf
-- Rights basis: Commons file page for `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž` is the controlling rights statement.
+- Rights basis: Commons file page for `古尊宿語錄` is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`885` pages).
-- Notes: defensible compilation witness through `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž` vol. 10 `Ã¦Â±Â¾Ã©â„¢Â½Ã¦ËœÂ­Ã¨ÂªÅ¾Ã©Å’â€ž`. This is an alias-equivalent compilation match for `T47n1992`, not a standalone exact-title scan.
+- Notes: defensible compilation witness through `古尊宿語錄` vol. 10 `汾陽昭語錄`. This is an alias-equivalent compilation match for `T47n1992`, not a standalone exact-title scan.
 
 ### Zhongfeng Mingben extensive record / 天目中峰廣錄
 - Work date: Yuan.
@@ -304,7 +304,7 @@ Scope used here:
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`98` pages).
 
-### Five Lamps meeting at the source / Ã¤Âºâ€Ã§â€¡Ë†Ã¦Å“Æ’Ã¥â€¦Æ’
+### Five Lamps meeting at the source / 五燈會元
 - Work date: Song lamp compilation tradition.
 - Local folder: `Five_Lamps_Meeting_Origin_NCL_Commons`
 - Local files:
@@ -316,7 +316,7 @@ Scope used here:
 - Rights basis: Commons-hosted National Central Library scans of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Acquisition status: both volumes downloaded and validated (`48` and `50` pages).
-- Notes: this satisfies the `Ã¤Âºâ€Ã§â€¡Ë†Ã¦Å“Æ’Ã¥â€¦Æ’` row only, not `Ã¤Âºâ€Ã§â€¡Ë†Ã¦Å“Æ’Ã¥â€¦Æ’Ã§ÂºÅ’Ã§â€¢Â¥`.
+- Notes: this satisfies the `五燈會元` row only, not `五燈會元續略`.
 
 ### Huqiu Shaolong record / 虎丘紹隆禪師語錄
 - Work date: Song Chan record.
@@ -371,7 +371,7 @@ Scope used here:
 - Rights basis: Commons-hosted NLC scan of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: high.
 - Acquisition status: downloaded and validated (`44` pages).
-- Notes: the source is a combined witness titled `Ã©Â»Æ’Ã¦Âªâ€”Ã¥Â±Â±Ã¦â€“Â·Ã©Å¡â€ºÃ§Â¦ÂªÃ¥Â¸Â«Ã¥â€šÂ³Ã¥Â¿Æ’Ã¦Â³â€¢Ã¨Â¦Â Ã¥Â®â€ºÃ©â„¢ÂµÃ©Å’â€ž`; this is used to satisfy the `T48n2012B` worklist rows for `Ã¥Â®â€ºÃ©â„¢ÂµÃ©Å’â€ž`.
+- Notes: the source is a combined witness titled `黃檗山斷際禪師傳心法要 宛陵錄`; this is used to satisfy the `T48n2012B` worklist rows for `宛陵錄`.
 
 ### Sijia lu / 四家錄
 - Work date: Chan sayings compilation.
@@ -381,9 +381,9 @@ Scope used here:
 - Rights basis: Commons-hosted National Central Library scan of a premodern work. The controlling rights statement is the file-page license block on Commons.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`251` pages).
-- Notes: used as a defensible compilation witness for the `Ã©Â»Æ’Ã©Â¾ÂÃ¥â€ºâ€ºÃ¥Â®Â¶Ã©Å’â€ž` family, including `T47n1993 Ã©Â»Æ’Ã©Â¾ÂÃ¦â€¦Â§Ã¥Ââ€”Ã§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž` and the `X69n1343`-`X69n1345` rows whose titles explicitly identify them as parts two through four of `Ã©Â»Æ’Ã©Â¾ÂÃ¥â€ºâ€ºÃ¥Â®Â¶Ã©Å’â€ž`.
+- Notes: used as a defensible compilation witness for the `黃龍四家錄` family, including `T47n1993 黃龍慧南禪師語錄` and the `X69n1343`-`X69n1345` rows whose titles explicitly identify them as parts two through four of `黃龍四家錄`.
 
-### Dongshan Wuben and Caoshan Benji / Ã¥â€ºÂ½Ã¨Â¨Â³Ã§Â¦â€¦Ã¥Â®â€”Ã¥ÂÂ¢Ã¦â€ºÂ¸ Ã§Â¬Â¬8Ã¥Â·Â»
+### Dongshan Wuben and Caoshan Benji / 国訳禅宗叢書 第8巻
 - Work date: later Japanese compilation/translation witness for Chan sayings texts.
 - Local folder: `Dongshan_Wuben_and_Caoshan_Benji_NDL_Commons`
 - Local files:
@@ -395,7 +395,7 @@ Scope used here:
 - Rights basis: Commons file pages are marked `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: two-part set downloaded and validated with PyMuPDF (`100`, `100` pages).
-- Notes: defensible compilation witness for `T47n1986A Ã§Â­Â Ã¥Â·Å¾Ã¦Â´Å¾Ã¥Â±Â±Ã¦â€šÅ¸Ã¦Å“Â¬Ã§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž` and `T47n1987B Ã¦â€™Â«Ã¥Â·Å¾Ã¦â€ºÂ¹Ã¥Â±Â±Ã¦Å“Â¬Ã¥Â¯â€šÃ§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž`. The Commons summary metadata for `Ã¥â€ºÂ½Ã¨Â¨Â³Ã§Â¦â€¦Ã¥Â®â€”Ã¥ÂÂ¢Ã¦â€ºÂ¸ Ã§Â¬Â¬8Ã¥Â·Â»` explicitly lists `Ã¦Â´Å¾Ã¥Â±Â±Ã¦â€šÅ¸Ã¦Å“Â¬Ã¥Â¤Â§Ã¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’Â²` and `Ã¦â€™Â«Ã¥Â·Å¾Ã¦â€ºÂ¹Ã¥Â±Â±Ã¦Å“Â¬Ã¥Â¯â€šÃ§Â¦â€¦Ã¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’Â²` in the volume contents.
+- Notes: defensible compilation witness for `T47n1986A 筠州洞山悟本禪師語錄` and `T47n1987B 撫州曹山本寂禪師語錄`. The Commons summary metadata for `国訳禅宗叢書 第8巻` explicitly lists `洞山悟本大師語録` and `撫州曹山本寂禅師語録` in the volume contents.
 
 ### Caoshan Yuanzheng / 撫州曹山元證禪師語錄
 - Work date: Chan sayings text preserved in a Kyoto-held printed witness.
@@ -404,7 +404,7 @@ Scope used here:
 - Local image set: `images\RB00009516_00001.jpg` through `images\RB00009516_00029.jpg`
 - Source page: https://rmda.kulib.kyoto-u.ac.jp/item/rb00009516
 - Manifest: https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00009516/manifest.json
-- Rights basis: Kyoto Main Library item marked `Ã§â€Â»Ã¥Æ’ÂÃ¤ÂºÅ’Ã¦Â¬Â¡Ã¥Ë†Â©Ã§â€Â¨Ã¨â€¡ÂªÃ§â€Â±Ã¯Â¼Ë†Ã¦â€°â‚¬Ã¨â€ÂµÃ¨Â¡Â¨Ã§Â¤ÂºÃ¯Â¼â€°` / free-license with attribution. Kyoto reuse policy allows commercial redistribution with attribution, link-back, and change marking.
+- Rights basis: Kyoto Main Library item marked `画像二次利用自由（所蔵表示）` / free-license with attribution. Kyoto reuse policy allows commercial redistribution with attribution, link-back, and change marking.
 - Confidence: high.
 - Acquisition status: manifest plus full 29-image set downloaded and verified on disk.
 - Notes: exact Kyoto witness for the `T47n1987A` worklist row. Item title and internal title both identify `撫州曹山元證大師語錄`.
@@ -417,9 +417,9 @@ Scope used here:
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated with PyMuPDF (`100` pages).
-- Notes: defensible anthology/title-variant witness for `T47n1986B`. The Commons summary metadata for `Ã§Â¦â€¦Ã©â€“â‚¬Ã¦â€ºÂ¹Ã¦Â´Å¾Ã¥Â®â€”Ã¥â€¦Â¸ part2` identifies `Ã¦Â´Å¾Ã¥Â±Â±Ã¦â€šÅ¸Ã¦Å“Â¬Ã§Â¦â€¦Ã¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’Â²Ã¯Â¼Ë†Ã§â€¢Â¥Ã¥ÂÂÃ¦Â´Å¾Ã¥Â±Â±Ã©Å’Â²Ã¯Â¼â€°` with the master `Ã¨â€°Â¯Ã¤Â»Â·`.
+- Notes: defensible anthology/title-variant witness for `T47n1986B`. The Commons summary metadata for `禅門曹洞宗典 part2` identifies `洞山悟本禅師語録（略名洞山録）` with the master `良价`.
 
-### Wuzu Fayan / Ã¦Â³â€¢Ã¦Â¼â€Ã§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž
+### Wuzu Fayan / 法演禪師語錄
 - Work date: Song Chan sayings text.
 - Local folder: `Wuzu_Fayan_Korea_Commons`
 - Local file: `CNTS-00047693506_wuzu_fayan.pdf`
@@ -437,17 +437,17 @@ Scope used here:
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Confidence: high.
 - Acquisition status: downloaded and validated (`28` pages).
-- Notes: `Ã¥â€ºâ€ºÃ©Æ’Â¨Ã©Å’Â²` is a four-text compilation, not a standalone `Ã¤Â¿Â¡Ã¥Â¿Æ’Ã©Å Ëœ` edition, but the Commons file description explicitly lists `Ã¤Â¸â€°Ã§Â¥â€“Ã©â€˜â€˜Ã¦â„¢ÂºÃ§Â¦ÂªÃ¥Â¸Â«Ã¤Â¿Â¡Ã¥Â¿Æ’Ã©Å Ëœ1Ã¥ÂÂ·`, making it a strong rights-safe witness for the short Sengcan poem the user wanted.
+- Notes: `四部録` is a four-text compilation, not a standalone `信心銘` edition, but the Commons file description explicitly lists `三祖鑑智禪師信心銘1卷`, making it a strong rights-safe witness for the short Sengcan poem the user wanted.
 - Secondary local folder: `Faith_in_Mind_Sengcan_Kyoto_RB00016909`
 - Secondary source page: https://rmda.kulib.kyoto-u.ac.jp/item/rb00016909
 - Secondary rights basis: Kyoto Main Library item marked `FREE LICENSE with Attribution`; Kyoto reuse terms allow commercial redistribution with attribution, link-back, and change marking.
-- Secondary notes: `Ã¥â€¦Â¥Ã¨Â¡â€ Ã¦â€”Â¥Ã§â€Â¨` is a one-book anthology whose metadata includes `Ã¤Â¿Â¡Ã¥Â¿Æ’Ã©Å Ëœ / (Ã©Å¡â€¹Ã¥Æ’Â§)Ã¥Æ’Â§Ã§â€™Â¨Ã¦â€™Â°`; manifest and all `41` images are on disk.
+- Secondary notes: `入衆日用` is a one-book anthology whose metadata includes `信心銘 / (隋僧)僧璨撰`; manifest and all `41` images are on disk.
 - Additional local folder: `Faith_in_Mind_Korea_Commons`
 - Additional local file: `CNTS-00047968260_faith_in_mind.pdf`
 - Additional source page: https://commons.wikimedia.org/wiki/File:CNTS-00047968260_%E4%B8%89%E7%A5%96%E5%A4%A7%E5%B8%AB%E4%BF%A1%E5%BF%83%E9%8A%98.pdf
 - Additional notes: retained as a secondary standalone witness, but it was a poor fit for the user's request because the acquired volume is much longer than the short Sengcan poem target.
 
-### Song of Enlightenment / Ã¦Â°Â¸Ã¥Ëœâ€°Ã¨Â­â€°Ã©Ââ€œÃ¦Â­Å’
+### Song of Enlightenment / 永嘉證道歌
 - Work date: Tang Chan verse text.
 - Local folder: `Sengcan_Faith_in_Mind_NDL_Shibulu`
 - Local file: `NDL2537640_shiburoku.pdf`
@@ -455,7 +455,7 @@ Scope used here:
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Confidence: high.
 - Acquisition status: downloaded and validated (`28` pages).
-- Notes: `Ã¥â€ºâ€ºÃ©Æ’Â¨Ã©Å’Â²` is a four-text compilation, not a standalone `Ã¦Â°Â¸Ã¥Ëœâ€°Ã¨Â­â€°Ã©Ââ€œÃ¦Â­Å’` edition, but the Commons file description explicitly lists `Ã¦Â°Â¸Ã¥Ëœâ€°Ã§Å“Å¾Ã¨Â¦ÂºÃ¥Â¤Â§Ã¥Â¸Â«Ã¨Â­â€°Ã©Ââ€œÃ¦Â­Å’1Ã¥ÂÂ·`, making it a strong rights-safe witness for the `T48n2014` worklist row.
+- Notes: `四部録` is a four-text compilation, not a standalone `永嘉證道歌` edition, but the Commons file description explicitly lists `永嘉眞覺大師證道歌1卷`, making it a strong rights-safe witness for the `T48n2014` worklist row.
 
 ### Shaoshi Six Gates / 少室六門
 - Work date: early Chan text attributed in the Bodhidharma orbit; surviving witness is a later Japanese printed edition.
@@ -467,7 +467,7 @@ Scope used here:
 - Acquisition status: downloaded and validated (`93` pages).
 - Notes: exact-match Commons/NDL witness for the `T48n2009` worklist row.
 
-### Preface to the Sources of Chan / Ã§Â¦ÂªÃ¦ÂºÂÃ¨Â«Â¸Ã¨Â©Â®Ã©â€ºâ€ Ã©Æ’Â½Ã¥ÂºÂ
+### Preface to the Sources of Chan / 禪源諸詮集都序
 - Work date: Tang Chan scholastic preface by Zongmi.
 - Local folder: `Chan_Sources_Preface_Korea_Commons`
 - Local file: `CNTS-00047992848_chan_sources_preface.pdf`
@@ -475,7 +475,7 @@ Scope used here:
 - Rights basis: Commons file page is categorized `PD-South Korea` and `PD-scan (PD-South Korea)`. Commons file-page license text is the controlling rights statement.
 - Confidence: high.
 - Acquisition status: downloaded and validated (`152` pages).
-- Notes: exact-match Korean Commons witness for the `T48n2015` worklist row. A first alternate exact witness, `CNTS-00068033153 Ã§Â¦ÂªÃ¦ÂºÂÃ¨Â«Â¸Ã¨Â©Â®Ã©â€ºâ€ Ã©Æ’Â½Ã¥ÂºÂ. Ã¥ÂÂ·1-2- Ã¥Â®â€”Ã¥Â¯â€ (Ã¥â€Â) Ã¨â€˜â€”.pdf`, was downloaded but failed `pypdf` integrity validation and was rejected.
+- Notes: exact-match Korean Commons witness for the `T48n2015` worklist row. A first alternate exact witness, `CNTS-00068033153 禪源諸詮集都序. 卷1-2- 宗密(唐) 著.pdf`, was downloaded but failed `pypdf` integrity validation and was rejected.
 
 ### Supreme Vehicle Treatise / 最上乘論
 - Work date: early Chan treatise in the Bodhidharma orbit.
@@ -550,7 +550,7 @@ Scope used here:
 - Rights basis: Commons-hosted SSID library-backup file page. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`126` pages).
-- Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `Ã§Å“Å¸Ã¥Â¿Æ’Ã§â€ºÂ´Ã¨ÂªÂª` alongside `Ã¥â€Â¯Ã¥Â¿Æ’Ã¨Â¨Â£`, `Ã¤Â¿Â®Ã¥Â¿Æ’Ã¨Â¨Â£`, and `Ã¦Â´â€”Ã¥Â¿Æ’Ã¥Â¯Â¶Ã¦â€¡Âº`.
+- Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `真心直說` alongside `唯心訣`, `修心訣`, and `洗心寶懺`.
 
 ### Cultivate Mind / 高麗國普照禪師修心訣
 - Work date: Jinul / Goryeo Seon text transmitted in later compilation form.
@@ -563,7 +563,7 @@ Scope used here:
 - Acquisition status: downloaded and validated (`126` pages).
 - Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `修心訣`, which matches the `T48n2020` worklist row.
 
-### Mind-Only Verses / Ã¦Â°Â¸Ã¦ËœÅ½Ã¦â„¢ÂºÃ¨Â¦ÂºÃ§Â¦ÂªÃ¥Â¸Â«Ã¥â€Â¯Ã¥Â¿Æ’Ã¨Â¨Â£
+### Mind-Only Verses / 永明智覺禪師唯心訣
 - Work date: Yongming-related text transmitted in later compilation form.
 - Local folder: `True_Mind_Straight_Talk_SSID_Commons`
 - Local file: `SSID-13634244_true_mind_straight_talk_compilation.pdf`
@@ -572,9 +572,9 @@ Scope used here:
 - Rights basis: Commons-hosted SSID library-backup file page. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`126` pages).
-- Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `Ã¥â€Â¯Ã¥Â¿Æ’Ã¨Â¨Â£`, which matches the `T48n2018` worklist row.
+- Notes: defensible compilation witness rather than a standalone scan. The file title explicitly includes `唯心訣`, which matches the `T48n2018` worklist row.
 
-### Admonitions for Beginners / Ã¨ÂªÂ¡Ã¥Ë†ÂÃ¥Â¿Æ’Ã¥Â­Â¸Ã¤ÂºÂºÃ¦â€“â€¡
+### Admonitions for Beginners / 誡初心學人文
 - Work date: Jinul / Goryeo Seon admonition text.
 - Local folder: `Admonitions_for_Beginners_Korea_Commons`
 - Local file: `CNTS-00047967966_admonitions_for_beginners.pdf`
@@ -584,7 +584,7 @@ Scope used here:
 - Acquisition status: downloaded and validated (`70` pages).
 - Notes: exact Korean Commons witness for the `T48n2019B` worklist row.
 
-### Baizhang Monastic Rules / Ã¥â€¹â€¦Ã¤Â¿Â®Ã§â„¢Â¾Ã¤Â¸Ë†Ã¦Â¸â€¦Ã¨Â¦Â
+### Baizhang Monastic Rules / 勅修百丈清規
 - Work date: Yuan monastic regulations text.
 - Local folder: `Baizhang_Monastic_Rules_NLC_Commons`
 - Local files:
@@ -601,14 +601,14 @@ Scope used here:
 - Notes: exact six-volume National Library of China Commons witness for the `T48n2025` worklist row.
 
 ### Zhaozhou Sayings / 趙州和尚語錄
-- Work date: Song/Yuan transmission preserved in later `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž` compilation witness.
+- Work date: Song/Yuan transmission preserved in later `古尊宿語錄` compilation witness.
 - Local folder: `Zhaozhou_Sayings_Guzunsu_NCL_Commons`
 - Local file: `NCL-08939_guzunsu_yulu_compilation.pdf`
 - Source page: https://commons.wikimedia.org/wiki/File:NCL-08939_%E5%8F%A4%E5%B0%8A%E5%AE%BF%E8%AA%9E%E9%8C%84.pdf
 - Rights basis: Commons file page is categorized `PD Old`, `CC-PD-Mark`, and `PD-scan (PD-old)`. Commons file-page license text is the controlling rights statement.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated (`885` pages).
-- Notes: defensible compilation witness rather than a standalone scan. `Ã¨Â¶â„¢Ã¥Â·Å¾Ã¥â€™Å’Ã¥Â°Å¡Ã¨ÂªÅ¾Ã©Å’â€ž` is included within `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€ž`.
+- Notes: defensible compilation witness rather than a standalone scan. `趙州和尚語錄` is included within `古尊宿語錄`.
 
 ### Yunmen record / 雲門匡真禪師廣錄
 - Work date: Tang lineage text; the acquired witness is a later NAJ-held printed set.
@@ -626,7 +626,7 @@ Scope used here:
 - Acquisition status: full three-file set downloaded and validated.
 - Notes: exact witness for `T47n1988 雲門匡真禪師廣錄`. Also used as an alternate-title witness for `J/J24/J24nB138 雲門匡真禪師語錄`, but that Jiaxing row should be treated as satisfied by text-family equivalence rather than strict edition identity.
 
-### Chanlin Leiju / Ã§Â¦ÂªÃ¦Å¾â€”Ã©Â¡Å¾Ã¨ÂÅ¡
+### Chanlin Leiju / 禪林類聚
 - Work date: Song/Yuan compilation.
 - Local folder: `Chanlin_Leiju_NDL_Commons`
 - Local files:
@@ -662,7 +662,7 @@ Scope used here:
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated with `pypdf` (`50` pages).
 
-### Lianzhu Tongji / ç¦ªå®—é Œå¤è¯ç é€šé›†
+### Lianzhu Tongji / 禪宗頌古聯珠通集
 - Work date: Song/Yuan koan-verse commentary collection.
 - Local folder: `Lianzhu_Tongji_NCL_Commons_pending`
 - Local files:
@@ -723,7 +723,7 @@ Scope used here:
 - Acquisition status: full three-file set downloaded and validated with `pypdf` (`69`, `58`, `68` pages).
 - Notes: exact witness for the `T47n1998A` worklist row.
 
-### Gaofeng Chan Essentials / Ã©Â«ËœÃ¥Â³Â°Ã¥Å½Å¸Ã¥Â¦â„¢Ã§Â¦ÂªÃ¥Â¸Â«Ã§Â¦ÂªÃ¨Â¦Â
+### Gaofeng Chan Essentials / 高峰原妙禪師禪要
 - Work date: Yuan Chan instructional text.
 - Local folder: `Gaofeng_Chan_Essentials_Korea_Commons`
 - Local file: `CNTS-00047967911_gaofeng_chan_essentials.pdf`
@@ -731,7 +731,7 @@ Scope used here:
 - Rights basis: Commons-hosted Korean library-backup scan. The controlling rights statement is the Commons file-page license block; this family is treated as `PD-South Korea` plus mechanical scan on Commons.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated with `pypdf` (`93` pages).
-- Notes: exact witness for the `X70n1401` worklist row. A second Commons-listed Korea witness also exists in the library-backup list under `CNTS-00061062163 Ã©Â«ËœÃ¥Â³Â°Ã¥â€™Å’Ã¥Â°â„¢Ã§Â¦ÂªÃ¨Â¦Â.pdf`.
+- Notes: exact witness for the `X70n1401` worklist row. A second Commons-listed Korea witness also exists in the library-backup list under `CNTS-00061062163 高峰和尙禪要.pdf`.
 
 ### Dahui Chan Armory / 大慧普覺禪師宗門武庫
 - Work date: Song Chan record/anthology compiled around Dahui.
@@ -741,9 +741,9 @@ Scope used here:
 - Rights basis: Commons file page is categorized `PD-Japan` and `PD-scan (PD-Japan)`. Commons file-page license text is the controlling rights statement.
 - Confidence: high.
 - Acquisition status: downloaded and validated with `pypdf` (`76` pages).
-- Notes: exact witness for the `T47n1998B` worklist row. The Commons witness is a combined volume that includes `Ã©â€ºÂªÃ¥Â â€šÃ¨Â¡Å’Ã¥â€™Å’Ã¥Â°Å¡Ã¦â€¹Â¾Ã©ÂÂºÃ©Å’â€ž` in addition to `Ã¥Â®â€”Ã©â€“â‚¬Ã¦Â­Â¦Ã¥ÂºÂ«`.
+- Notes: exact witness for the `T47n1998B` worklist row. The Commons witness is a combined volume that includes `雪堂行和尚拾遺錄` in addition to `宗門武庫`.
 
-### Zongjing Record / Ã¥Â®â€”Ã©ÂÂ¡Ã©Å’â€ž
+### Zongjing Record / 宗鏡錄
 - Work date: Song Buddhist/Chan compendium by Yongming Yanshou.
 - Local folder: `Zongjing_Record_NLC_Commons`
 - Local files:
@@ -768,7 +768,7 @@ Scope used here:
 - Rights basis: Commons-hosted Korean library-backup scan. The controlling rights statement is the Commons file-page license block; this family is treated as `PD-South Korea` plus mechanical scan on Commons.
 - Confidence: high.
 - Acquisition status: downloaded and validated with `pypdf` (`196` pages).
-- Notes: exact witness for the `T48n2013` worklist row. A second exact Korea Commons witness also appears in the library-backup list as `CNTS-00068033154 Ã§Â¦ÂªÃ¥Â®â€”Ã¦Â°Â¸Ã¥Ëœâ€°Ã©â€ºâ€ . Ã¥ÂÂ·1-2.pdf`.
+- Notes: exact witness for the `T48n2013` worklist row. A second exact Korea Commons witness also appears in the library-backup list as `CNTS-00068033154 禪宗永嘉集. 卷1-2.pdf`.
 
 ### Yuanwu Foguo Sayings / 圓悟佛果禪師語錄
 - Work date: Song Chan sayings text.
@@ -788,19 +788,19 @@ Scope used here:
 ### Chan Resolving Doubts / 禪宗決疑集
 - Work date: Yuan Chan text by 智徹.
 - Pending local folder: `Chan_Resolving_Doubts_KORCIS_pending`
-- Exact lead: KORCIS search results for `Ã§Â¦ÂªÃ¥Â®â€”Ã¦Â±ÂºÃ§â€“â€˜Ã©â€ºâ€  / Ã¬â€žÂ Ã¬Â¢â€¦ÃªÂ²Â°Ã¬ÂËœÃ¬Â§â€˜` expose four exact records:
-  - `101712358` Ã¢â‚¬â€ `Ã¦â„¢ÂºÃ¥Â¾Â¹(Ã¥â€¦Æ’) Ã¨Â¿Â°`, `Ã¯Â¤Å Ã©â„¢ÂµÃ¥Ë†Â»Ã§Â¶â€œÃ¨â„¢â€¢`, `Ã¦Â°â€˜Ã¥Å“â€¹ 9(1920)Ã¥Ë†Å `
-  - `101454226` Ã¢â‚¬â€ `Ã©â€¡Å½Ã¨Â¡Â²Ã¦â„¢ÂºÃ¥Â¾Â¹ Ã¨Â¿Â°`, `[Ã¥Ë†Å Ã¥Â¯Â«Ã¨â‚¬â€¦Ã¦Å“ÂªÃ¨Â©Â³]`, `Ã¦Â°â€˜Ã¥Å“â€¹ 9[1920]`
-  - `301543913` Ã¢â‚¬â€ `Ã¦â„¢ÂºÃ¥Â¾Â¹ Ã¨Â¿Â°`, `Ã¯Â¤Å Ã©â„¢ÂµÃ¥Ë†Â»Ã§Â¶â€œÃ¨â„¢â€¢`, `1920`
-  - `139805537` Ã¢â‚¬â€ `Ã¦â„¢ÂºÃ¥Â¾Â¹ Ã¨Â¿Â°`, `Ã©â€¡â€˜Ã©â„¢ÂµÃ¥Ë†Â»Ã§Â¶â€œÃ¨â„¢â€¢`, `1920`
+- Exact lead: KORCIS search results for `禪宗決疑集 / 선종결의집` expose four exact records:
+  - `101712358` — `智徹(元) 述`, `金陵刻經處`, `民國 9(1920)刊`
+  - `101454226` — `野衲智徹 述`, `[刊寫者未詳]`, `民國 9[1920]`
+  - `301543913` — `智徹 述`, `金陵刻經處`, `1920`
+  - `139805537` — `智徹 述`, `金陵刻經處`, `1920`
 - Lead page: https://www.nl.go.kr/korcis/search/simpleResultList.do?searchCondition=all&searchKeyword=%EC%84%A0%EC%A2%85%EA%B2%B0%EC%9D%98%EC%A7%91
-- Evidence: the KORCIS search results show `Ã¬â€ºÂÃ«Â¬Â¸`, `PDF`, and `Ã­â€¦ÂÃ¬Å Â¤Ã­Å Â¸` availability for this exact title at `Ã«Ââ„¢ÃªÂµÂ­Ã«Å’â‚¬Ã­â€¢â„¢ÃªÂµÂ Ã¬Â¤â€˜Ã¬â€¢â„¢Ã«Ââ€žÃ¬â€žÅ“ÃªÂ´â‚¬`, and the strongest detail page resolves at `https://www.nl.go.kr/korcis/search/searchResultDetail.do?searchMenuId=SIMPLE&vdkvgwkey=101712358`.
+- Evidence: the KORCIS search results show `원문`, `PDF`, and `텍스트` availability for this exact title at `동국대학교 중앙도서관`, and the strongest detail page resolves at `https://www.nl.go.kr/korcis/search/searchResultDetail.do?searchMenuId=SIMPLE&vdkvgwkey=101712358`.
 - Additional host check: Google Books API exposes exact 1920 matches including volume id `jQtEAQAAMAAJ`, but flags them `viewability=NO_PAGES`, `publicDomain=false`, and `pdfAvailable=false`, so they do not provide a reusable public-domain scan.
-- Rights concern: unresolved. National Library of Korea policy says free reuse applies only where the library holds rights or an open-use marker is provided. The currently accessible KORCIS detail/viewer pages do not expose a KOGL/open-use label, and KORCIS pages carry a blanket `CopyrightÃ‚Â© National Library of Korea. All Rights Reserved.` footer.
+- Rights concern: unresolved. National Library of Korea policy says free reuse applies only where the library holds rights or an open-use marker is provided. The currently accessible KORCIS detail/viewer pages do not expose a KOGL/open-use label, and KORCIS pages carry a blanket `Copyright© National Library of Korea. All Rights Reserved.` footer.
 - Confidence: medium on exact-text identification; low on commercial-reuse clearance until the item-level rights label is verified.
 - Notes: do not download or mark acquired until the KORCIS item page or PDF page shows a commercial-use-safe license marker.
 
-### Myriad Virtues Converge / Ã¨ÂÂ¬Ã¥â€“â€žÃ¥ÂÅ’Ã¦Â­Â¸Ã©â€ºâ€ 
+### Myriad Virtues Converge / 萬善同歸集
 - Work date: Song Buddhist/Chan compendium by Yongming Yanshou.
 - Local folder: `Myriad_Virtues_Converge_NLC_Commons`
 - Local files:
@@ -845,9 +845,9 @@ Scope used here:
 - Rights basis: Commons-hosted CADAL scans of a public-domain work. The controlling rights statement is the Commons file-page license block for each volume.
 - Confidence: medium-high.
 - Acquisition status: two-volume set downloaded and validated with `djvused`/`ddjvu` (`83`, `88` pages).
-- Notes: title-variant witness for the `T47n1996` worklist row. The Commons files are titled `Ã¦ËœÅ½Ã¨Â¦ÂºÃ¨ÂÂ°Ã§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž`.
+- Notes: title-variant witness for the `T47n1996` worklist row. The Commons files are titled `明覺聰禪師語錄`.
 
-### Yangqi Fanghui Sayings / Ã¦Â¥Å Ã¥Â²ÂÃ¦â€“Â¹Ã¦Å“Æ’Ã¥â€™Å’Ã¥Â°Å¡Ã¨ÂªÅ¾Ã©Å’â€ž
+### Yangqi Fanghui Sayings / 楊岐方會和尚語錄
 - Work date: Song Chan sayings text.
 - Local folder: `Yangqi_Fanghui_Guzunsu_NCL_Commons`
 - Local file: `NCL-08939_guzunsu_yulu.pdf`
@@ -856,9 +856,9 @@ Scope used here:
 - Rights basis: Commons-hosted NCL scan of a premodern work. The controlling rights statement is the Commons file-page license block.
 - Confidence: medium-high.
 - Acquisition status: downloaded and validated with `pypdf` (`885` pages).
-- Notes: compilation witness for the `T47n1994A` worklist row. CBETA ties the target text to `Ã¥ÂÂ¤Ã¥Â°Å Ã¥Â®Â¿Ã¨ÂªÅ¾Ã©Å’â€žÃ¥ÂÂ·Ã¥ÂÂÃ¤Â¹Â`.
+- Notes: compilation witness for the `T47n1994A` worklist row. CBETA ties the target text to `古尊宿語錄卷十九`.
 
-### Yangshan Huiji Sayings / Ã¨Â¢ÂÃ¥Â·Å¾Ã¤Â»Â°Ã¥Â±Â±Ã¦â€¦Â§Ã¥Â¯â€šÃ§Â¦ÂªÃ¥Â¸Â«Ã¨ÂªÅ¾Ã©Å’â€ž
+### Yangshan Huiji Sayings / 袁州仰山慧寂禪師語錄
 - Work date: Tang / Five Dynasties Chan sayings text transmitted in Taisho.
 - Local folder: `Yangshan_Huiji_Taisho47_SSID_Commons`
 - Local file: `SSID-10511035_taisho47_zhuzongbu4.pdf`
@@ -947,7 +947,7 @@ Scope used here:
 - Acquisition status: volume 1 downloaded and validated with `pypdf` (`28` pages).
 - Notes: exact Commons-hosted NCL scan family for the `X77n1524` worklist row; additional volumes remain desirable.
 
-### Tiansheng Lamp / å¤©è–å»£ç‡ˆéŒ„
+### Tiansheng Lamp / 天聖廣燈錄
 - Work date: Song lamp record.
 - Local folder: `Tiansheng_Lamp_CADAL_Commons`
 - Local files:
@@ -960,7 +960,7 @@ Scope used here:
 - Acquisition status: volume 1 downloaded; local SHA-1 matches the Commons checksum exactly; Commons structured data reports `67` pages.
 - Notes: exact Commons-hosted CADAL scan witness for the `X78n1553` worklist row.
 
-### Jianzhong Jingguo Continued Lamp / å»ºä¸­é–åœ‹çºŒç‡ˆéŒ„
+### Jianzhong Jingguo Continued Lamp / 建中靖國續燈錄
 - Work date: Song lamp record.
 - Local folder: `Jianzhong_Jingguo_Continued_Lamp_CADAL_Commons_pending`
 - Local files:
@@ -1025,7 +1025,7 @@ Scope used here:
 - Acquisition status: volume 1 downloaded; local SHA-1 matches the Commons checksum exactly; Commons structured data reports `67` pages.
 - Notes: exact Commons-hosted CADAL scan witness for the `J25nB171` worklist row.
 
-### Yuansou Xingduan / å…ƒåŸè¡Œç«¯
+### Yuansou Xingduan / 元叟行端
 - Work date: later Yuan-period Chan sayings text.
 - Local folder: `Yuansou_Xingduan_CADAL_Commons`
 - Local files:
@@ -1038,7 +1038,7 @@ Scope used here:
 - Acquisition status: downloaded; local SHA-1 matches the Commons checksum exactly; Commons structured data reports `52` pages.
 - Notes: exact Commons-hosted CADAL scan witness for the `X71n1419` worklist row.
 
-### Chushi Fanqi / æ¥šçŸ³æ¢µç¦
+### Chushi Fanqi / 楚石梵琦
 - Work date: later Yuan-period Chan sayings text.
 - Local folder: `Chushi_Fanqi_CADAL_Commons`
 - Local files:
@@ -1064,7 +1064,7 @@ Scope used here:
 - Acquisition status: downloaded; local SHA-1 matches the Commons checksum exactly; Commons structured data reports `110` pages.
 - Notes: exact Commons-hosted CADAL scan witness for the `J10nA158` worklist row.
 
-### Yulin Guoshi / çŽ‰ç³ç‡åœ‹å¸«
+### Yulin Guoshi / 玉琳琇國師
 - Work date: Qing Buddhist/Chan recorded sayings text.
 - Local folder: `Yulin_Guoshi_CADAL_Commons`
 - Local files:

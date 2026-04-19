@@ -37,16 +37,16 @@
 
 - Verdict: usable as a corroborating witness, but selectively
 - Front matter:
-  - page `3` shows stable vocabulary including `ä¸–å°Šå‡åº§`, `æ³•ç­µé¾è±¡ç•Œ`, `ç™½æ¤Ž`, `ç¶­é‚£`
+  - page `3` shows stable vocabulary including `世尊升座`, `法筵龍象界`, `白椎`, `維那`
 - Later body anchors:
   - page `13`
   - page `47`
   - stable phrases reported from local inspection include:
     - `百尺竿頭進步`
-    - `ä¸è½å› æžœ / ä¸æ˜§å› æžœ`
-    - `å—æ³‰å·²å‰ä½œç”Ÿæœƒ`
-    - `ç™¾å°ºç«¿é ­ååº•äºº`
-    - `åæ–¹ä¸–ç•Œç¾å…¨èº«`
+    - `不落因果 / 不昧因果`
+    - `南泉已前作生會`
+    - `百尺竿頭坐底人`
+    - `十方世界現全身`
 - Current limitation:
   - this witness is useful for corroborating known cases and front matter
-  - it does not yet solve the `æ‰‡å­ / å¸é‡‹` holdout
+  - it does not yet solve the `扇子 / 帝釋` holdout

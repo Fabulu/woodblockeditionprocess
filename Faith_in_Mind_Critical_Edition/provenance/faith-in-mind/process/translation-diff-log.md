@@ -1,0 +1,84 @@
+# Translation Diff Log: Faith in Mind
+
+Status: adopted mid-project on `2026-04-18`
+
+This file is now mandatory for this package.
+
+Faith in Mind adoption rule:
+
+- create `T1` step-`0` translation baseline before `C6`
+- pair every future Chinese correction with an English retranslation entry in the same bounded session
+- reconstruct earlier paired steps only where the evidence can be recovered honestly from the existing package state
+
+| Step | Locus | Chinese Before | Chinese After | English Before | English After | Basis |
+|------|-------|----------------|---------------|----------------|---------------|-------|
+| 0 | `T1-p007.l01` | `` | `至道無難唯嫌揀擇` | `` | `The Supreme Way is not difficult; it only rejects picking and choosing.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for high-value corrected poem loci before full-witness translation coverage |
+| 0 | `T1-p008.l01` | `` | `但莫憎愛洞然明白` | `` | `Only do not hate and love, and clarity will appear of itself.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized opening poem spine |
+| 0 | `T1-p009.l01` | `` | `毫釐有差天地懸隔` | `` | `If there is even a hair’s breadth of difference, heaven and earth are set far apart.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized opening poem spine |
+| 0 | `T1-p010.l01` | `` | `欲得現前莫存順逆` | `` | `If you want it to appear before you, do not keep thoughts of for and against.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized opening poem spine |
+| 0 | `T1-p011.l01` | `` | `違順相爭是爲心病` | `` | `Contention between against and for is the sickness of the mind.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized opening poem spine |
+| 0 | `T1-p013.l01` | `` | `不識玄旨徒勞念靜` | `` | `If you do not know the dark essential point, it is only useless labor to think on stillness.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized opening poem spine |
+| 0 | `T1-p014.l01` | `` | `圓同太虛無欠無餘` | `` | `Perfectly rounded like great emptiness, it lacks nothing and has nothing in excess.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized opening poem spine |
+| 0 | `T1-p015.l01` | `` | `良由取捨所以不如` | `` | `It is precisely because of choosing and rejecting that it is not thus.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized opening poem spine |
+| 0 | `T1-p017.l01` | `` | `莫逐有緣勿住空忍` | `` | `Do not chase conditioned being; do not abide in empty forbearance.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized opening poem spine |
+| 0 | `T1-p018.l01` | `` | `一種平懷泯然自盡` | `` | `With one kind of even mind, distinctions fade away by themselves.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized opening poem spine |
+| 0 | `T1-p019.l01` | `` | `止動歸止止更彌動` | `` | `Stop movement and return to stillness, and that stillness will become even more moving.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized opening poem spine |
+| 0 | `T1-p021.l01` | `` | `唯滯兩邊寧知一種` | `` | `If you linger on the two sides, how could you know the one kind?` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the repaired opening sequence |
+| 0 | `T1-p021.l01a` | `` | `一種不通兩處失功` | `` | `When the one kind is not understood, both sides lose their function.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the supplied comparison-supported locus |
+| 0 | `T1-p022.l01` | `` | `遣有沒有從空背空` | `` | `Cast off being and non-being; from emptiness turn your back on emptiness.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized early poem spine |
+| 0 | `T1-p024.l01` | `` | `多言多慮轉不相應` | `` | `The more words and the more thoughts, the more they fail to correspond.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p025.l01` | `` | `絕言絕慮無處不通` | `` | `When words are ended and thought is ended, there is nowhere that does not open through.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized early poem spine |
+| 0 | `T1-p026.l01` | `` | `歸根得旨隨照失宗` | `` | `Return to the root and gain the meaning; follow the illumination and you lose the source.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p027.l01` | `` | `須臾返照勝卻前空` | `` | `In an instant, turn the light back; it surpasses the earlier emptiness.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized early poem spine |
+| 0 | `T1-p028.l01` | `` | `前空轉變皆由妄見` | `` | `The earlier emptiness turns and changes; all of it comes from delusive seeing.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized early poem spine |
+| 0 | `T1-p029.l01` | `` | `不用求真唯須息見` | `` | `There is no need to seek the true; only cease your views.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p030.l01` | `` | `二見不住慎勿追尋` | `` | `When the two views do not abide, be careful not to pursue them.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized mid-band poem spine |
+| 0 | `T1-p031.l01` | `` | `纔有是非紛然失心` | `` | `As soon as there is right and wrong, the mind is lost in confusion.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p032.l01` | `` | `一心不生萬法無咎` | `` | `When the one mind does not arise, the ten thousand dharmas are without fault.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the repaired mid-band sequence |
+| 0 | `T1-p033.l01` | `` | `無咎無法不生不心` | `` | `Without fault, without dharmas, there is no arising and no mind.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p034.l01` | `` | `能隨境滅境逐能沉` | `` | `If the capacity follows objects and perishes, the objects drag that capacity down.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p035.l01` | `` | `欲知兩段元是一空` | `` | `If you want to know the two sides, their source is one emptiness.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p036.l01` | `` | `一空同兩齊含萬象` | `` | `The one emptiness is the same as the two, and together they contain the ten thousand forms.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p037.l01` | `` | `不見精粗寧有偏黨` | `` | `When fine and coarse are not seen, how could there be partisan preference?` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p038.l01` | `` | `大道體寬無易無難` | `` | `The Great Way’s body is spacious, with nothing easy and nothing hard.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p039.l01` | `` | `小見狐疑轉急轉遲` | `` | `Narrow views and foxlike doubt make one turn more hurried and more delayed.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p040.l01` | `` | `執之失度必入邪路` | `` | `If you cling to it and lose the measure, you will surely enter a wrong road.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p041.l01` | `` | `任性合道逍遙絕惱` | `` | `Let your nature accord with the Way, and you will roam freely, cut off from affliction.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle poem spine |
+| 0 | `T1-p042.l01` | `` | `繫念乖真昏沉不好` | `` | `When thought is tied down and departs from the true, dimness and sinking are not good.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p043.l01` | `` | `不好勞神何用疏親` | `` | `If that is not good, why weary the spirit and make things distant or intimate?` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p044.l01` | `` | `欲趣一乘勿惡六塵` | `` | `If you want to enter the one vehicle, do not despise the six dusts.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p045.l01` | `` | `六塵不惡還同正覺` | `` | `When the six dusts are not despised, they return to the same true awakening.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p046.l01` | `` | `智者無爲愚人自縛` | `` | `The wise do not contrive; the foolish bind themselves.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p047.l01` | `` | `法無異法妄自愛著` | `` | `In the Dharma there is no other dharma; delusion itself clings with attachment.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the comparison-supported repair locus |
+| 0 | `T1-p048.l01` | `` | `將心用心豈非大錯` | `` | `To use mind to employ mind, is this not a great mistake?` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p049.l01` | `` | `迷生寂亂悟無好惡` | `` | `In delusion there arise quietude and disturbance; in awakening there is no liking or disliking.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p050.l01` | `` | `一切二邊妄自斟酌` | `` | `All dual extremes are vainly measured out by oneself.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p051.l01` | `` | `夢幻空華何勞把捉` | `` | `Dreams, illusions, and empty flowers: why labor to seize them?` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p052.l01` | `` | `得失是非一時放卻` | `` | `Gain and loss, right and wrong: set them all aside at once.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p053.l01` | `` | `眼若不睡諸夢自除` | `` | `If the eye does not sleep, all dreams remove themselves.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p054.l01` | `` | `心若不異萬法一如` | `` | `If the mind does not divide, the ten thousand dharmas are of one suchness.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p055.l01` | `` | `一如體玄兀爾忘緣` | `` | `The one suchness is dark in its body; abruptly, conditions are forgotten.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p056.l01` | `` | `萬法齊觀歸復自然` | `` | `When the ten thousand dharmas are viewed equally, they return again to what is natural.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p057.l01` | `` | `泯其所以不可方比` | `` | `Erase the why and whereby; it cannot be compared by any measure.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p058.l01` | `` | `止動無動動止無止` | `` | `When movement is stopped there is no movement; when stillness moves there is no stillness.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p059.l01` | `` | `兩既不成一何有爾` | `` | `If the two are not established, how could the one remain?` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized middle-late poem spine |
+| 0 | `T1-p060.l01` | `` | `究竟窮極不存軌則` | `` | `At the ultimate limit, no rule or track remains.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p061.l01` | `` | `契心平等所作俱息` | `` | `When the mind accords with equality, all its doings come to rest.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p062.l01` | `` | `狐疑盡淨正信調直` | `` | `Foxlike doubt is completely cleared; right faith is tuned and made straight.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p063.l01` | `` | `一切不留無可記憶` | `` | `Nothing at all is retained; there is nothing that can be held in memory.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p064.l01` | `` | `虛明自照不勞心力` | `` | `Empty clarity shines by itself; it does not require the exertion of mind.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p065.l01` | `` | `非思量處識情難測` | `` | `Where thought does not reach, discriminating consciousness is hard to fathom.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the comparison-supported repair locus |
+| 0 | `T1-p066.l01` | `` | `真如法界無他無自` | `` | `In the dharma-realm of true suchness, there is no other and no self.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p067.l01` | `` | `要急相應唯言不二` | `` | `If you want swift accord, simply speak of not-two.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p068.l01` | `` | `不二皆同無不包容` | `` | `In not-two all is the same; there is nothing it does not contain.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p069.l01` | `` | `十方智者皆入此宗` | `` | `The wise of the ten directions all enter this source.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p070.l01` | `` | `宗非促延一念萬年` | `` | `Its source is neither hurried nor delayed; one thought is ten thousand years.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p071.l01` | `` | `無在不在十方目前` | `` | `There is nowhere it is not; it stands before you in the ten directions.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p072.l01` | `` | `極小同大忘絕境界` | `` | `The extremely small is the same as the great; boundaries and realms are forgotten entirely.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p073.l01` | `` | `極大同小不見邊表` | `` | `The extremely great is the same as the small; no edge or surface is seen.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p074.l01` | `` | `有即是無無即是有` | `` | `Being is precisely non-being; non-being is precisely being.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized late-band poem spine |
+| 0 | `T1-p076.l01` | `` | `若如是必不須守` | `` | `If it is thus, there is no need to guard it.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` after the visual correction fixed the line securely |
+| 0 | `T1-p077.l01` | `` | `一即一切一切即一` | `` | `One is all; all is one.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` after the visual correction overruled the earlier OCR-only reading |
+| 0 | `T1-p077.l01a` | `` | `但能如是何慮不畢` | `` | `If one can only be thus, what worry could there be of not being complete?` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the supplied comparison-supported closing locus |
+| 0 | `T1-p078.l01` | `` | `信心不二不二信心` | `` | `Faith in mind is not two; what is not two is faith in mind.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized closing run |
+| 0 | `T1-p079.l01` | `` | `言語道斷非去來今` | `` | `The way of words is cut off; it is not past, present, or future.` | mid-project adoption step-`0` baseline reconstructed on `2026-04-18` for the stabilized closing run |

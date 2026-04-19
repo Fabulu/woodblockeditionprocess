@@ -19,24 +19,24 @@ Scope: compare isolated comparison-control body spans against the current `T1` r
 
 | T4 evidence span | T1 locus or loci | Result | Notes |
 |---|---|---|---|
-| `è‡³é“ç„¡é›£ å”¯å«Œæ€æ“‡` through `æ¬²å¾—ç¾å‰ èŽ«å­˜é †é€†` on `T4-p002` | `T1-p007.l01` to `T1-p010.l01` | confirmed | the `T4` opening body supports the already corrected `T1` opening sequence |
-| `é•é †ç›¸çˆ­ æ˜¯çˆ²å¿ƒç—…` on `T4-p002` | `T1-p011.l01` | confirmed | supports the existing `T1` correction |
-| `åœ“åŒå¤ªè™› ç„¡æ¬ ç„¡é¤˜` and `è‰¯ç”±å–æ¨ æ‰€ä»¥ä¸å¦‚` on `T4-p002` | `T1-p014.l01`, `T1-p015.l01` | confirmed | supports the existing `T1` corrections |
-| `æ­¢å‹•æ­¸æ­¢ æ­¢æ›´å½Œå‹•` and `å”¯æ»¯å…©é‚Š å¯§çŸ¥ä¸€ç¨®` on `T4-p002` | `T1-p019.l01`, `T1-p021.l01` | confirmed | supports the existing `T1` corrections |
-| `å¤šè¨€å¤šæ…® è½‰ä¸ç›¸æ‡‰` through `ä¸€ç©ºåŒå…© é½Šå«è¬è±¡` on `T4-p003` | `T1-p024.l01` to `T1-p036.l01` where already recovered | broadly confirmed | `T4` supports the already recovered mid-band sequence while also exposing one previously unresolved gap inside it |
-| `ä¸è¦‹ç²¾ç²— å¯§æœ‰åé»¨` through `æ™ºè€…ç„¡çˆ² æ„šäººè‡ªç¸›` on `T4-p003` | `T1-p037.l01` to `T1-p046.l01` | confirmed | the recovered `T1` sequence matches the `T4` body cleanly here |
-| `çœ¼è‹¥ä¸çœ  è«¸å¤¢è‡ªé™¤` through `è™›æ˜Žè‡ªç…§ ä¸å‹žå¿ƒåŠ›` on `T4-p004` | `T1-p053.l01` to `T1-p064.l01` where already recovered | broadly confirmed | the late-band `T1` recoveries align well with `T4` |
-| `çœŸå¦‚æ³•ç•Œ ç„¡ä»–ç„¡è‡ª` through `è¨€èªžé“æ–· éžåŽ»ä¾†ä»Š` on `T4-p004` | `T1-p066.l01` to `T1-p079.l01` where already recovered | broadly confirmed | the final run confirms the broad `T1` spine, including the closing sequence from visible `T1-p076.l01` onward |
+| `至道無難 唯嫌揀擇` through `欲得現前 莫存順逆` on `T4-p002` | `T1-p007.l01` to `T1-p010.l01` | confirmed | the `T4` opening body supports the already corrected `T1` opening sequence |
+| `違順相爭 是爲心病` on `T4-p002` | `T1-p011.l01` | confirmed | supports the existing `T1` correction |
+| `圓同太虛 無欠無餘` and `良由取捨 所以不如` on `T4-p002` | `T1-p014.l01`, `T1-p015.l01` | confirmed | supports the existing `T1` corrections |
+| `止動歸止 止更彌動` and `唯滯兩邊 寧知一種` on `T4-p002` | `T1-p019.l01`, `T1-p021.l01` | confirmed | supports the existing `T1` corrections |
+| `多言多慮 轉不相應` through `一空同兩 齊含萬象` on `T4-p003` | `T1-p024.l01` to `T1-p036.l01` where already recovered | broadly confirmed | `T4` supports the already recovered mid-band sequence while also exposing one previously unresolved gap inside it |
+| `不見精粗 寧有偏黨` through `智者無爲 愚人自縛` on `T4-p003` | `T1-p037.l01` to `T1-p046.l01` | confirmed | the recovered `T1` sequence matches the `T4` body cleanly here |
+| `眼若不眠 諸夢自除` through `虛明自照 不勞心力` on `T4-p004` | `T1-p053.l01` to `T1-p064.l01` where already recovered | broadly confirmed | the late-band `T1` recoveries align well with `T4` |
+| `真如法界 無他無自` through `言語道斷 非去來今` on `T4-p004` | `T1-p066.l01` to `T1-p079.l01` where already recovered | broadly confirmed | the final run confirms the broad `T1` spine, including the closing sequence from visible `T1-p076.l01` onward |
 
 ## Candidate repair or collation loci exposed by `T4`
 
 | Comparison issue | Current T1 state | T4 support | Current judgment |
 |---|---|---|---|
-| missing line between `T1-p021.l01` and `T1-p022.l01` | `T1` formerly jumped from `å”¯æ»¯å…©é‚Šå¯§çŸ¥ä¸€ç¨®` to `é£æœ‰æ²’æœ‰å¾žç©ºèƒŒç©º` | `T4-p002` preserves `ä¸€ç¨®ä¸é€šå…©è™•å¤±åŠŸ` between those two lines | resolved through supplied stable insertion `T1-p021.l01a`; no silent renumbering was used |
-| unresolved sequence around `T1-p032.l01` | `T1` had split or damaged the expected sequence across `T1-p031.l03` and `T1-p032.l01` | `T4-p003` preserves `äºŒç”±ä¸€æœ‰ ä¸€äº¦èŽ«å®ˆ` followed by `ä¸€å¿ƒä¸ç”Ÿ è¬æ³•ç„¡å’Ž` before `ç„¡å’Žç„¡æ³• ä¸ç”Ÿä¸å¿ƒ` | resolved by restoring `T1-p031.l03` and `T1-p032.l01` to that sequence |
-| likely repair for `T1-p047.l01` | `T1-p047.l01` had remained garbled | `T4-p003` preserves `æ³•ç„¡ç•°æ³• å¦„è‡ªæ„›è‘—` between `æ™ºè€…ç„¡çˆ² æ„šäººè‡ªç¸›` and `å°‡å¿ƒç”¨å¿ƒ è±ˆéžå¤§éŒ¯` | resolved in the first post-compliance comparison-informed correction slice |
-| likely repair for `T1-p065.l01` | `T1-p065.l01` had remained garbled | `T4-p004` preserves `éžæ€é‡è™• è­˜æƒ…é›£æ¸¬` between `è™›æ˜Žè‡ªç…§ ä¸å‹žå¿ƒåŠ›` and `çœŸå¦‚æ³•ç•Œ ç„¡ä»–ç„¡è‡ª` | resolved in the first post-compliance comparison-informed correction slice |
-| closing-sequence branch issue after `T1-p077.l01` | `T1` now carries supplied `T1-p077.l01a = ä½†èƒ½å¦‚æ˜¯ä½•æ…®ä¸ç•¢`, while `T1-p075.l01` remains commentary and `T1-p076.l01 = è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ` is visually secure before `ä¸€å³ä¸€åˆ‡ä¸€åˆ‡å³ä¸€` | `T4-p004` clearly preserves `ä½†èƒ½å¦‚æ˜¯ ä½•æ…®ä¸ç•¢`, and the broader transmitted sequence would also expect `è‹¥ä¸å¦‚æ­¤å¿…ä¸é ˆå®ˆ` before `è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ` | resolved as omission judgment: the `T1` witness supports the visible `è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ` close onward but does not support reinstating the standard `è‹¥ä¸å¦‚æ­¤å¿…ä¸é ˆå®ˆ` line on `T1-p075` |
+| missing line between `T1-p021.l01` and `T1-p022.l01` | `T1` formerly jumped from `唯滯兩邊寧知一種` to `遣有沒有從空背空` | `T4-p002` preserves `一種不通兩處失功` between those two lines | resolved through supplied stable insertion `T1-p021.l01a`; no silent renumbering was used |
+| unresolved sequence around `T1-p032.l01` | `T1` had split or damaged the expected sequence across `T1-p031.l03` and `T1-p032.l01` | `T4-p003` preserves `二由一有 一亦莫守` followed by `一心不生 萬法無咎` before `無咎無法 不生不心` | resolved by restoring `T1-p031.l03` and `T1-p032.l01` to that sequence |
+| likely repair for `T1-p047.l01` | `T1-p047.l01` had remained garbled | `T4-p003` preserves `法無異法 妄自愛著` between `智者無爲 愚人自縛` and `將心用心 豈非大錯` | resolved in the first post-compliance comparison-informed correction slice |
+| likely repair for `T1-p065.l01` | `T1-p065.l01` had remained garbled | `T4-p004` preserves `非思量處 識情難測` between `虛明自照 不勞心力` and `真如法界 無他無自` | resolved in the first post-compliance comparison-informed correction slice |
+| closing-sequence branch issue after `T1-p077.l01` | `T1` now carries supplied `T1-p077.l01a = 但能如是何慮不畢`, while `T1-p075.l01` remains commentary and `T1-p076.l01 = 若如是必不須守` is visually secure before `一即一切一切即一` | `T4-p004` clearly preserves `但能如是 何慮不畢`, and the broader transmitted sequence would also expect `若不如此必不須守` before `若如是必不須守` | resolved as omission judgment: the `T1` witness supports the visible `若如是必不須守` close onward but does not support reinstating the standard `若不如此必不須守` line on `T1-p075` |
 
 ## Immediate use
 
@@ -372,3 +372,37 @@ Scope: compare representative `C4` commentary-body surfaces against the current 
 - `T4` remains the decisive repair witness used so far.
 - `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, `C3`, and now `C4` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` plus `C4` remain commentary controls rather than direct repair witnesses.
 - The next full-pass witness target is `C5`.
+
+## `C5` commentary-control confirmation slice
+
+Date: 2026-04-18
+Status: bounded commentary-control comparison completed
+Scope: compare representative `C5` commentary-body surfaces against the current `T1` recovered lemma spine after `C5` reached full four-engine compliance
+
+### Method note
+
+- `C5` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C5` is a long commentary-control witness rather than a short direct poem witness, so this first slice is representative rather than a leaf-by-leaf closure of `C5-p004` to `C5-p072`.
+- Direct page review shows that `C5-p004` opens the main `冠註信心銘夜塘水` body with embedded opening and early-body lemmata, representative mid-body leaves such as `C5-p040` continue commentary keyed to recognizable poem turns, `C5-p072` carries the late-body edge immediately before the terminal page, and `C5-p073` marks the end of `巻上`.
+- Evidence basis: direct image review plus four-engine OCR support on the rendered page-image basis.
+- Evidence strength: moderate for broad commentary-backed confirmation of the recovered `T1` lemma spine and macro-sequence; low for any attempt to force new exact character repairs from `C5` alone.
+
+### Representative confirmations from `C5`
+
+| C5 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| opening commentary spread on `C5-p004` | opening recovered `T1` lemma spine from `T1-p007.l01` forward | broadly confirmed | `C5` begins as explicit `冠註信心銘夜塘水` commentary and visibly carries the standard opening and early-body lemmata inside exposition rather than a rival opening branch |
+| representative commentary body such as `C5-p040` | recovered mid-band `T1` lemma spine at inspected loci | broadly confirmed | the witness remains commentary-heavy but continues to track recognizable poem lemmata in order, which supports the recovered `T1` spine without exposing a cleaner repair surface than `T4` |
+| late-body edge on `C5-p072` and terminal page `C5-p073` marked as the end of `巻上` | recovered later body through the late-band approach to the close | broadly confirmed at the volume level | `C5` preserves the later transmitted sequence up to the end of this `巻上` volume and does not suggest a rival branch, but the surviving terminal page functions mainly as volume-end evidence rather than a cleaner direct close witness than the shorter controls |
+
+### New loci exposed by `C5`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C5` currently behaves as a commentary control witness, not as a decisive repair witness.
+- Its value in this first slice is broad commentary-backed confirmation of the recovered spine across a long commentary body, not supplying a cleaner exact Chinese reading than the earlier `T4`-driven repairs.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, `C3`, `C4`, and now `C5` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C5` remain commentary controls rather than direct repair witnesses.
+- The next full-pass witness target is `C6`.

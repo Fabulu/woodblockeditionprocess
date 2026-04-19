@@ -1505,7 +1505,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Closed the remaining `T1-p075/T1-p076` closing-band issue as omission rather than substitution.",
-      "details": "The package now records that `T1-p075` remains commentary material while `T1-p076.l01 = è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ` is visually secure. `T4` supports the broader transmitted close, but there is no positive `T1` evidence for restoring `è‹¥ä¸å¦‚æ­¤å¿…ä¸é ˆå®ˆ` on the previous page, so the branch question is resolved as omission in this witness.",
+      "details": "The package now records that `T1-p075` remains commentary material while `T1-p076.l01 = 若如是必不須守` is visually secure. `T4` supports the broader transmitted close, but there is no positive `T1` evidence for restoring `若不如此必不須守` on the previous page, so the branch question is resolved as omission in this witness.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -1737,7 +1737,7 @@
       "object_type": "transcription",
       "object_id": "T1-p032.l01",
       "summary": "Restored the corrupted live `T1-p032.l01` line to the already logged accepted reading.",
-      "details": "The correction log, unresolved register, and comparison table already agreed on `ä¸€å¿ƒä¸ç”Ÿè¬æ³•ç„¡å’Ž` at `T1-p032.l01`, but the working file had drifted into eight literal question marks. The live transcription was repaired to match the already accepted package state before further comparison conclusions were recorded.",
+      "details": "The correction log, unresolved register, and comparison table already agreed on `一心不生萬法無咎` at `T1-p032.l01`, but the working file had drifted into eight literal question marks. The live transcription was repaired to match the already accepted package state before further comparison conclusions were recorded.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -3177,6 +3177,595 @@
       "status": "completed",
       "state_effect": {
         "last_completed_phase": "comparison_control_slice_C5_opening",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-098",
+      "sequence": 98,
+      "timestamp": "2026-04-18",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C5",
+      "summary": "Completed the first full RapidOCR pass across the rendered C5 page images.",
+      "details": "RapidOCR outputs are now saved under `ocr/C5/ocr/rapidocr/` for all `74` rendered `C5` pages. `73` pages returned text outputs, only `C5-p073` returned no text, and `0` errors were recorded.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C5/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C5/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C5/ocr/rapidocr/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C5_rapidocr_pass1",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-099",
+      "sequence": 99,
+      "timestamp": "2026-04-18",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C5",
+      "summary": "Completed the full Tesseract pass across the rendered C5 page images.",
+      "details": "Tesseract outputs are now saved under `ocr/C5/ocr/tesseract-full-pass/` for all `74` rendered `C5` pages using the witness-local `chi_tra` model path under `ocr/T1/tessdata/`. All `74` pages returned text and the run carries only the familiar tiny-fragment scale warnings.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C5/page-images/",
+        "provenance/faith-in-mind/ocr/T1/tessdata/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C5/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C5/ocr/tesseract-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C5_tesseract_full_pass",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-100",
+      "sequence": 100,
+      "timestamp": "2026-04-18",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C5",
+      "summary": "Completed the full PaddleOCR PP-OCRv4 pass across the rendered C5 page images and derived the usable text layer.",
+      "details": "Paddle outputs are now saved under `ocr/C5/ocr/paddleocr-ppocrv4/` for all `74` rendered `C5` pages. The first long run exceeded the shell timeout at a saved state through `C5-p052`, but the resumed closeout completed the witness with `74` success pages and `0` errors under Python `3.12`. The usable derivative text layer has been written to `ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C5/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C5_paddle",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-101",
+      "sequence": 101,
+      "timestamp": "2026-04-18",
+      "stage": "manual_correction_pass_1",
+      "event_type": "ocr_run_completed",
+      "object_type": "witness",
+      "object_id": "C5",
+      "summary": "Completed the full EasyOCR pass across the rendered C5 page images and closed four-engine witness compliance.",
+      "details": "EasyOCR outputs are now saved under `ocr/C5/ocr/easyocr-full-pass/` for all `74` rendered `C5` pages. The first two long runs exceeded the shell timeout at saved states through `C5-p031` and then `C5-p066`, but the final closeout completed the remaining tail pages. The saved summary now closes at `73` pages with text, only `C5-p073` empty, and `0` errors.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C5/page-images/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C5/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/ocr/C5/ocr/easyocr-full-pass/run-summary.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/process/process-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_control_slice_C5_easyocr_full_pass",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-102",
+      "sequence": 102,
+      "timestamp": "2026-04-18",
+      "stage": "manual_correction_pass_1",
+      "event_type": "comparison_completed",
+      "object_type": "witness",
+      "object_id": "C5",
+      "summary": "Completed the first bounded C5 commentary-control comparison slice against the recovered T1 lemma spine.",
+      "details": "Direct image review of `C5-p004`, representative mid-body commentary leaves such as `C5-p040`, and the late-body edge `C5-p072` together with terminal page `C5-p073`, checked against the saved four-engine OCR stack, shows that `C5` broadly confirms the recovered `T1` lemma spine across the `巻上` commentary body. No new high-confidence `T1` repair locus emerged from this slice.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C5/page-images/C5-p004.png",
+        "provenance/faith-in-mind/ocr/C5/page-images/C5-p040.png",
+        "provenance/faith-in-mind/ocr/C5/page-images/C5-p072.png",
+        "provenance/faith-in-mind/ocr/C5/page-images/C5-p073.png",
+        "provenance/faith-in-mind/ocr/C5/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C5/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C5/ocr/easyocr-full-pass/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "decision_ref": "D-018",
+      "status": "completed",
+      "state_effect": {
+        "last_completed_phase": "comparison_slice_C5_commentary_control_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-103",
+      "sequence": 103,
+      "timestamp": "2026-04-18",
+      "stage": "governance_adoption",
+      "event_type": "protocol_adopted",
+      "object_type": "edition",
+      "object_id": "ce.faith-in-mind",
+      "summary": "Adopted the six-log forensic provenance protocol as binding package law before continuing to C6.",
+      "details": "The package now treats `EDITION_AGENT_MASTER_INSTRUCTIONS.md`, `EDITION_FORENSIC_PROVENANCE_PROTOCOL.md`, and `EDITION_TRANSLATION_DIFF_PROTOCOL.md` as mandatory workflow law. New process files `translation-diff-log.md`, `ocr-consensus-log.md`, `rejected-readings-log.md`, `translation-reasoning-log.md`, and `character-provenance-log.md` were created, and the next required slice is now the mid-project Faith in Mind adoption and reconstruction pass rather than immediate `C6` witness opening.",
+      "actor_type": "hybrid",
+      "actor_id": "user+assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "../../../EDITION_AGENT_MASTER_INSTRUCTIONS.md",
+        "../../../EDITION_FORENSIC_PROVENANCE_PROTOCOL.md",
+        "../../../EDITION_TRANSLATION_DIFF_PROTOCOL.md"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "forensic_provenance_protocol_required": true,
+        "next_required_slice": "mid_project_forensic_provenance_adoption_slice_before_C6",
+        "last_completed_phase": "comparison_slice_C5_commentary_control_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-104",
+      "sequence": 104,
+      "timestamp": "2026-04-18",
+      "stage": "governance_adoption",
+      "event_type": "forensic_reconstruction_completed",
+      "object_type": "edition",
+      "object_id": "ce.faith-in-mind",
+      "summary": "Completed the first bounded forensic-provenance reconstruction slice on contested T1 loci.",
+      "details": "The package seeded `translation-diff-log.md` with a step-`0` English baseline for the high-value repaired poem loci, added the first real OCR-consensus rows on the contested `T1` opening and closing pages, reconstructed the recoverable rejected readings at `T1-p075.l01` and `T1-p077.l01`, and began `translation-reasoning-log.md` plus `character-provenance-log.md` on the already contested loci. This closes the first seed slice but does not yet clear the package to begin `C6`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T1/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/T4/ocr/rapidocr/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "mid_project_forensic_provenance_reconstruction_extension_before_C6",
+        "last_completed_phase": "mid_project_forensic_provenance_reconstruction_seed_slice",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-105",
+      "sequence": 105,
+      "timestamp": "2026-04-18",
+      "stage": "governance_adoption",
+      "event_type": "forensic_reconstruction_completed",
+      "object_type": "edition",
+      "object_id": "ce.faith-in-mind",
+      "summary": "Completed the second bounded forensic-provenance reconstruction slice on the stabilized T1 poem spine.",
+      "details": "The package extended the step-0 translation baseline through `T1-p022.l01`, `T1-p025.l01`, `T1-p027.l01`, `T1-p028.l01`, `T1-p030.l01`, `T1-p060.l01`, and `T1-p063.l01`, added matching OCR-consensus rows where saved OCR evidence remained usable, and expanded translation-reasoning plus character-provenance coverage on the same loci. This still does not clear the package to begin `C6`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "mid_project_forensic_provenance_reconstruction_extension_slice_3_before_C6",
+        "last_completed_phase": "mid_project_forensic_provenance_reconstruction_extension_slice_2",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-106",
+      "sequence": 106,
+      "timestamp": "2026-04-18",
+      "stage": "governance_adoption",
+      "event_type": "forensic_reconstruction_completed",
+      "object_type": "edition",
+      "object_id": "ce.faith-in-mind",
+      "summary": "Completed the third bounded forensic-provenance reconstruction slice on the stabilized T1 opening run.",
+      "details": "The package extended the step-0 translation baseline through `T1-p008.l01`, `T1-p009.l01`, `T1-p010.l01`, `T1-p011.l01`, `T1-p013.l01`, `T1-p014.l01`, `T1-p015.l01`, `T1-p017.l01`, `T1-p018.l01`, and `T1-p019.l01`, added matching OCR-consensus rows for that opening band, and expanded translation-reasoning plus character-provenance coverage there. This still does not clear the package to begin `C6`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "mid_project_forensic_provenance_reconstruction_extension_slice_4_before_C6",
+        "last_completed_phase": "mid_project_forensic_provenance_reconstruction_extension_slice_3",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-107",
+      "sequence": 107,
+      "timestamp": "2026-04-18",
+      "stage": "governance_adoption",
+      "event_type": "forensic_reconstruction_completed",
+      "object_type": "edition",
+      "object_id": "ce.faith-in-mind",
+      "summary": "Completed the fourth bounded forensic-provenance reconstruction slice on the stabilized T1 central band.",
+      "details": "The package extended the step-0 translation baseline through `T1-p024.l01`, `T1-p026.l01`, `T1-p029.l01`, `T1-p031.l01`, `T1-p033.l01`, `T1-p034.l01`, `T1-p035.l01`, `T1-p036.l01`, `T1-p037.l01`, `T1-p038.l01`, `T1-p039.l01`, `T1-p040.l01`, and `T1-p041.l01`, added matching OCR-consensus rows for that central band, and expanded translation-reasoning plus character-provenance coverage there. This still does not clear the package to begin `C6`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "mid_project_forensic_provenance_reconstruction_extension_slice_5_before_C6",
+        "last_completed_phase": "mid_project_forensic_provenance_reconstruction_extension_slice_4",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-108",
+      "sequence": 108,
+      "timestamp": "2026-04-18",
+      "stage": "governance_adoption",
+      "event_type": "forensic_reconstruction_completed",
+      "object_type": "edition",
+      "object_id": "ce.faith-in-mind",
+      "summary": "Completed the fifth bounded forensic-provenance reconstruction slice on the stabilized T1 middle-late band.",
+      "details": "The package extended the step-0 translation baseline through `T1-p042.l01`, `T1-p043.l01`, `T1-p044.l01`, `T1-p045.l01`, `T1-p046.l01`, `T1-p048.l01`, `T1-p049.l01`, `T1-p050.l01`, `T1-p051.l01`, `T1-p052.l01`, `T1-p053.l01`, `T1-p054.l01`, `T1-p055.l01`, `T1-p056.l01`, `T1-p057.l01`, `T1-p058.l01`, and `T1-p059.l01`, added matching OCR-consensus rows where saved OCR still preserved honest line-level evidence, and expanded translation-reasoning plus character-provenance coverage on the same band. This still does not clear the package to begin `C6`.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/T1/ocr/tesseract-full-pass/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "mid_project_forensic_provenance_reconstruction_extension_slice_6_before_C6",
+        "last_completed_phase": "mid_project_forensic_provenance_reconstruction_extension_slice_5",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-109",
+      "sequence": 109,
+      "timestamp": "2026-04-18",
+      "stage": "governance_adoption",
+      "event_type": "forensic_reconstruction_completed",
+      "object_type": "edition",
+      "object_id": "ce.faith-in-mind",
+      "summary": "Completed the sixth bounded forensic-provenance reconstruction slice on the stabilized T1 late band.",
+      "details": "The package extended the step-0 translation baseline through `T1-p061.l01`, `T1-p062.l01`, `T1-p064.l01`, and `T1-p066.l01` through `T1-p074.l01`, added matching OCR-consensus rows with explicit support-strength language, and expanded translation-reasoning plus character-provenance coverage on the same late band. The next step is now a consolidation review before any `C6` witness-opening work.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/T1/ocr/tesseract-full-pass/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "mid_project_forensic_provenance_reconstruction_consolidation_review_before_C6",
+        "last_completed_phase": "mid_project_forensic_provenance_reconstruction_extension_slice_6",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-110",
+      "sequence": 110,
+      "timestamp": "2026-04-18",
+      "stage": "governance_adoption",
+      "event_type": "forensic_reconstruction_review_completed",
+      "object_type": "edition",
+      "object_id": "ce.faith-in-mind",
+      "summary": "Completed the consolidation review and cleared the package to resume witness work at C6.",
+      "details": "A local coverage audit found that the remaining uncovered `T1` `l01` surfaces are `T1-p012.l01`, `T1-p016.l01`, `T1-p020.l01`, `T1-p023.l01`, and `T1-p075.l01`. These are commentary-only or rollback exceptions rather than unresolved poem-baseline failures, so the reconstructed forensic layer is now materially sufficient across the stabilized `T1` poem spine.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "comparison_witness_opening_slice_C6",
+        "last_completed_phase": "mid_project_forensic_provenance_reconstruction_consolidation_review",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-111",
+      "sequence": 111,
+      "timestamp": "2026-04-18",
+      "stage": "comparison_witness_prep",
+      "event_type": "witness_opened",
+      "object_type": "witness",
+      "object_id": "C6",
+      "summary": "Opened C6 from the locked NDL commentary PDF package and completed its page-role pass.",
+      "details": "Rendered all 61 PDF pages into in-package `ocr/C6/page-images/`, created `ocr/C6/metadata.json`, and classified `C6-p001` as a mixed title-plus-opening spread, `C6-p002` to `C6-p058` as the main `冠註信心銘夜塘水` `巻下` commentary body, `C6-p059` as a mixed terminal body-plus-colophon spread, and `C6-p060` to `C6-p061` as rear wrapper or library-tail matter.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_NDL_Commentaries/NDL823161_yetangshui_guanzhu_part2.pdf",
+        "provenance/faith-in-mind/process/current-state.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C6/metadata.json",
+        "provenance/faith-in-mind/ocr/C6/page-map.csv",
+        "provenance/faith-in-mind/ocr/C6/page-images/",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/C6/metadata.json",
+        "provenance/faith-in-mind/ocr/C6/page-map.csv"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "ocr_compliance_slice_C6_four_engine",
+        "last_completed_phase": "comparison_witness_opening_slice_C6",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-112",
+      "sequence": 112,
+      "timestamp": "2026-04-18",
+      "stage": "ocr_compliance",
+      "event_type": "ocr_partial_completion",
+      "object_type": "witness",
+      "object_id": "C6",
+      "summary": "Completed three engines on C6 and recorded the current EasyOCR saver failure honestly.",
+      "details": "C6 now has full-pass `RapidOCR`, `tesseract`, and `PaddleOCR PP-OCRv4` coverage on disk, with derived Paddle support text under `ocr/C6/ocr/paddleocr-ppocrv4/extracted-text/`. A first `EasyOCR` pass was attempted and saved page artifacts under `ocr/C6/ocr/easyocr-full-pass/`, but the current witness-local saver left empty `.txt` files and hit NumPy scalar JSON-serialization failures on some pages, so the witness is not yet truly four-engine compliant and needs a corrected rerun of `EasyOCR` only.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/ocr/C6/page-images/",
+        "provenance/faith-in-mind/ocr/T1/tessdata/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C6/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C6/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C6/ocr/paddleocr-ppocrv4/",
+        "provenance/faith-in-mind/ocr/C6/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C6/ocr/easyocr-full-pass/",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/C6/ocr/rapidocr/run-summary.json",
+        "provenance/faith-in-mind/ocr/C6/ocr/tesseract-full-pass/run-summary.json",
+        "provenance/faith-in-mind/ocr/C6/ocr/paddleocr-ppocrv4/run-summary-full.json",
+        "provenance/faith-in-mind/ocr/C6/ocr/easyocr-full-pass/"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "ocr_compliance_slice_C6_easyocr_rerun",
+        "last_completed_phase": "ocr_compliance_slice_C6_three_engines_plus_easyocr_blocker",
         "last_text_changed_event": "FIM-055"
       }
     }

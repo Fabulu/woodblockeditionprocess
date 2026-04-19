@@ -1614,3 +1614,93 @@ Source type: commentary control PDF
 - `C5` is now an opened in-package commentary control witness rather than a source-pinned metadata placeholder
 - the isolated image-level commentary body span for future OCR and comparison work is `C5-p004` to `C5-p072`, with `C5-p073` kept explicit as the terminal page
 - no OCR-compliance claim is made yet for `C5`
+
+### RapidOCR
+
+- status: full pass completed
+- engine: `RapidOCR`
+- output:
+  - `ocr/C5/ocr/rapidocr/`
+- summary:
+  - `ocr/C5/ocr/rapidocr/run-summary.json`
+- input basis:
+  - `ocr/C5/page-images/`
+- result:
+  - `74` pages processed
+  - `73` pages with text outputs on disk
+  - `1` page without text:
+    - `C5-p073`
+  - `0` errors
+
+### Tesseract
+
+- status: full pass completed
+- environment:
+  - witness-local `chi_tra` model under `ocr/T1/tessdata/`
+- output:
+  - `ocr/C5/ocr/tesseract-full-pass/`
+- summary:
+  - `ocr/C5/ocr/tesseract-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C5/page-images/`
+- result:
+  - `74` pages processed
+  - `74` pages with text outputs on disk
+  - `0` errors
+- machine note:
+  - the run completed in a single pass
+  - the run carries only the familiar tiny-fragment scale warnings
+
+### PaddleOCR
+
+- status: full pass completed
+- environment: Python `3.12`
+- configuration:
+  - `PaddleOCR(lang='ch', ocr_version='PP-OCRv4', device='cpu', enable_hpi=False, enable_mkldnn=False, cpu_threads=1)`
+- output:
+  - `ocr/C5/ocr/paddleocr-ppocrv4/`
+- summary:
+  - `ocr/C5/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- derivative text support:
+  - `ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/`
+- input basis:
+  - `ocr/C5/page-images/`
+- result:
+  - `74` pages processed
+  - `74` success pages
+  - `0` error pages
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C5-p052`
+  - the resumed closeout completed the remaining back half of the witness
+  - resized-image warnings were emitted by the local Paddle stack but did not prevent successful saved outputs
+
+### EasyOCR
+
+- status: full pass completed
+- environment: Python `3.14`
+- languages:
+  - `ch_tra`
+  - `en`
+- output:
+  - `ocr/C5/ocr/easyocr-full-pass/`
+- summary:
+  - `ocr/C5/ocr/easyocr-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C5/page-images/`
+- result:
+  - `74` pages processed
+  - `73` pages with text
+  - `1` no-text page:
+    - `C5-p073`
+  - `0` errors
+- machine note:
+  - the first two long runs exceeded the shell timeout at saved states through `C5-p031` and then `C5-p066`
+  - the final closeout completed the remaining tail pages
+  - the local EasyOCR stack emitted the familiar CPU and `pin_memory` warnings without preventing saved outputs
+
+### Compliance interpretation
+
+- `C5` now has a recorded status block for all four mandated engines
+- `C5` is now a real OCR-backed commentary control witness rather than only an opened metadata record
+- `C5` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C5` is ready for bounded comparison use on representative commentary-body leaves rather than as a direct short poem witness

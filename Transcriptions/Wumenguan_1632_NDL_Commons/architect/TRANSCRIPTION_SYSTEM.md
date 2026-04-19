@@ -64,7 +64,7 @@ Each section should use this shape:
 #### Notes
 - seal or library marks omitted from main text
 - uncertain graph: 〔?〕
-- alternative reading: ã€”ç–‘:é€š/é“ã€•
+- alternative reading: 〔疑:通/道〕
 ```
 
 ## Normalization Rules

@@ -58,6 +58,8 @@ Acquire commercially reusable source witnesses for Chinese Chan/Zen texts, inclu
    - `EasyOCR`
 10. If any engine in that loop is missing or fails, record that explicitly in the OCR log before moving on.
 11. Do not let a new scan witness influence correction, collation, or apparatus claims until its four-engine status is recorded for that edition. If comparison begins before all four runs succeed, mark the use as provisional and finish the missing engine runs before any stronger editorial reliance.
+12. For critical edition packages, treat `EDITION_AGENT_MASTER_INSTRUCTIONS.md`, `EDITION_FORENSIC_PROVENANCE_PROTOCOL.md`, and `EDITION_TRANSLATION_DIFF_PROTOCOL.md` as mandatory workflow law, not optional reference notes.
+13. For critical edition OCR work, record OCR consensus into `ocr-consensus-log.md` as the engine evidence becomes available for actual loci in use; do not leave consensus only implicit in raw engine output folders.
 
 ## Validation
 

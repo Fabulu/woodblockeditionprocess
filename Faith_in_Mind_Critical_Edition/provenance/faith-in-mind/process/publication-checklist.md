@@ -13,6 +13,8 @@ Status: not ready
 - [ ] copy-text chosen and justified
 - [ ] apparatus generated from logged decisions
 - [ ] unresolved loci reviewed
+- [ ] witness-page coverage audit passes for the active non-blank witness span
+- [ ] package validation entrypoint rerun successfully
 - [ ] TEI validated
 - [ ] machine-readable package files aligned
 - [ ] required JSON files parse cleanly

@@ -163,3 +163,12 @@
 - Confidence: high
 - Actor type: `hybrid`
 - Actor id: user + agent
+
+## D-019 2026-04-18 - Adopt the six-log forensic provenance protocol as binding package law
+
+- Decision: adopt `EDITION_AGENT_MASTER_INSTRUCTIONS.md`, `EDITION_FORENSIC_PROVENANCE_PROTOCOL.md`, and `EDITION_TRANSLATION_DIFF_PROTOCOL.md` as binding workflow law for this package and for all later critical editions
+- Why: the user explicitly required that the new protocol be baked permanently into the process rather than remaining advisory, and the active Faith in Mind package must not continue into `C6` while still lacking the required forensic log surfaces
+- Evidence: top-level governance docs were updated on `2026-04-18`, the new protocol requires six synchronized process logs, and the master instructions define a mid-project Faith in Mind adoption path before further witness work
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + agent

@@ -8,9 +8,9 @@ We have `5` distinct open scan witnesses of `無門關`, plus `1` vetted Wikisou
 
 | Local witness | Source | Notes |
 |---|---|---|
-| `NDL12865429` | https://commons.wikimedia.org/wiki/File:NDL12865429_%E7%84%A1%E9%96%80%E9%97%9C_1%E5%8D%B7.pdf | `ç„¡é–€é—œ 1å·`, 1632 NDL/Commons, 57 pages. |
-| `WUL-bunko31_e1102` | https://commons.wikimedia.org/wiki/File:WUL-bunko31_e1102_%E7%84%A1%E9%96%80%E9%96%A2.pdf | `ç„¡é–€é–¢`, 1752 Waseda via Commons, 56 pages, æŸ³æžè»’. |
-| `WUL-bunko31_e1101` | https://commons.wikimedia.org/wiki/File:WUL-bunko31_e1101_%E7%84%A1%E9%96%80%E9%96%A2.pdf | `ç„¡é–€é–¢`, 1752 Waseda via Commons, 56 pages, æ‘ä¸Šå‹˜å…µè¡›. |
+| `NDL12865429` | https://commons.wikimedia.org/wiki/File:NDL12865429_%E7%84%A1%E9%96%80%E9%97%9C_1%E5%8D%B7.pdf | `無門關 1卷`, 1632 NDL/Commons, 57 pages. |
+| `WUL-bunko31_e1102` | https://commons.wikimedia.org/wiki/File:WUL-bunko31_e1102_%E7%84%A1%E9%96%80%E9%96%A2.pdf | `無門関`, 1752 Waseda via Commons, 56 pages, 柳枝軒. |
+| `WUL-bunko31_e1101` | https://commons.wikimedia.org/wiki/File:WUL-bunko31_e1101_%E7%84%A1%E9%96%80%E9%96%A2.pdf | `無門関`, 1752 Waseda via Commons, 56 pages, 村上勘兵衛. |
 | `WUL-bunko17_w0033` | https://commons.wikimedia.org/wiki/File:WUL-bunko17_w0033_%E7%A6%85%E5%AE%97%E7%84%A1%E9%96%80%E9%96%A2.pdf | `禪宗無門關`, 1882 Waseda via Commons. |
 | `CNTS-00115843217` | https://commons.wikimedia.org/wiki/File:CNTS-00115843217_%E7%A6%AA%E5%AE%97%E7%84%A1%E9%96%80%E9%97%9C.pdf | `禪宗無門關`, Korea Commons, 1752 re-cut, 110 pages, alt title `校正評註鼇頭無門關`. |
 | `Wikisource text` | https://zh.wikisource.org/w/index.php?title=%E7%84%A1%E9%96%80%E9%97%9C&oldid=2648998 | Vetted exact text witness, not a scan. |

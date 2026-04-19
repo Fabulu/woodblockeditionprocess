@@ -30,7 +30,7 @@ Direct scan witness status:
 - The six-volume NLC Commons set already on disk remains the only direct open scan witness found in this pass.
 
 Secondary open support acquired:
-- `Book_of_Serenity_NDL_823149_Commons\NDL823149_å¾“å®¹éŒ²å¼è§£_part1.pdf` (100 pages)
+- `Book_of_Serenity_NDL_823149_Commons\NDL823149_従容録弁解_part1.pdf` (100 pages)
 - `Book_of_Serenity_NDL_943478_Commons\NDL943478_従容録講話_第1巻_part2.pdf` (100 pages)
 
 Rights snapshot:

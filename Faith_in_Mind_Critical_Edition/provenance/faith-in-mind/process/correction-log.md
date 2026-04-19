@@ -97,7 +97,7 @@ Witness: `T1`
 | 2026-04-15 | `T1-p077.l01a` | comparison-supported supplied closing line | `(missing after T1-p077.l01)` | `但能如是何慮不畢` | `T4-p004` preserves this line cleanly between `一即一切一切即一` and `信心不二不二信心`; the package records it as a supplied stable insertion id without collapsing the still-open earlier `T1-p075/T1-p076` branch issue | fixed |
 | 2026-04-15 | `T1-p075.l01` | visual de-certainty rollback | `若不如此必不須守` | `祖大師超州廣携取封在日隐野花帝鸟` | direct image inspection of `page-images/T1-p075.png` plus the saved `T1` OCR support show that this locus is commentary material, not a secure poem lemma; the earlier standard-line correction is therefore rolled back instead of being left as false certainty | fixed |
 
-| 2026-04-15 | `T1-p032.l01` | working-text integrity restore | `????????` | `ä¸€å¿ƒä¸ç”Ÿè¬æ³•ç„¡å’Ž` | the correction log, unresolved register, and comparison table already recorded this `T4`-supported repair; the live working file alone had drifted into eight literal question marks and was restored to the already accepted reading before further comparison work | fixed |
+| 2026-04-15 | `T1-p032.l01` | working-text integrity restore | `????????` | `一心不生萬法無咎` | the correction log, unresolved register, and comparison table already recorded this `T4`-supported repair; the live working file alone had drifted into eight literal question marks and was restored to the already accepted reading before further comparison work | fixed |
 
 ## Open cautions
 

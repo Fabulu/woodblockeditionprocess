@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `comparison_control_slice_C5_opening`
+- Last completed phase: `mid_project_forensic_provenance_reconstruction_consolidation_review`
 
 ## What is already done
 
@@ -120,32 +120,74 @@ Edition slug: `faith-in-mind`
 - a bounded `C4` commentary-control comparison slice now exists and confirms broad commentary-backed support for the recovered `T1` lemma spine plus the standard close, without exposing a new high-confidence repair locus
 - `C5` is now opened as the next commentary control witness with in-package metadata, rendered page images, and a classified page map
 - `C5` page roles isolate `C5-p004` to `C5-p072` as the main `冠註信心銘夜塘水` commentary body span, with front matter on `C5-p001` to `C5-p003`, an explicit terminal page on `C5-p073`, and rear wrapper or library-tail matter on `C5-p074`
+- a first full `RapidOCR` pass now exists for `C5` under `ocr/C5/ocr/rapidocr/`
+- a full `tesseract` pass now also exists for `C5` under `ocr/C5/ocr/tesseract-full-pass/`
+- a full `PaddleOCR PP-OCRv4` pass now also exists for `C5` under `ocr/C5/ocr/paddleocr-ppocrv4/`
+- derived Paddle text support now exists for `C5` under `ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/`
+- a full `EasyOCR` pass now also exists for `C5` under `ocr/C5/ocr/easyocr-full-pass/`
+- `C5` now has full recorded four-engine OCR compliance and is ready for bounded comparison use as a commentary control witness
+- a bounded `C5` commentary-control comparison slice now exists and confirms broad commentary-backed support for the recovered `T1` lemma spine across the `巻上` body, without exposing a new high-confidence repair locus
+- `C6` is now opened as the next commentary control witness with in-package metadata, rendered page images, and a classified page map
+- `C6` page roles treat `C6-p001` as a mixed title-plus-opening spread, `C6-p002` to `C6-p058` as the main `冠註信心銘夜塘水` `巻下` commentary body, `C6-p059` as a mixed terminal body-plus-colophon spread, and `C6-p060` to `C6-p061` as rear wrapper or library-tail matter
+- a full `RapidOCR` pass now exists for `C6` under `ocr/C6/ocr/rapidocr/`
+- a full `tesseract` pass now exists for `C6` under `ocr/C6/ocr/tesseract-full-pass/`
+- a full `PaddleOCR PP-OCRv4` pass now exists for `C6` under `ocr/C6/ocr/paddleocr-ppocrv4/`
+- derived Paddle text support now exists for `C6` under `ocr/C6/ocr/paddleocr-ppocrv4/extracted-text/`
+- the first `EasyOCR` full-pass attempt on `C6` is on disk under `ocr/C6/ocr/easyocr-full-pass/`, but the saved outputs are not yet usable because the current witness-local saver left empty `.txt` files and hit NumPy scalar JSON-serialization failures on some pages
+- the package has now adopted the six-log forensic provenance protocol as binding workflow law and the missing forensic log surfaces now exist under `process/`
+- the first bounded forensic-provenance reconstruction slice is now complete on the high-value contested `T1` loci
+- the second bounded forensic-provenance reconstruction slice is now complete on the stabilized `T1` poem band around `p022-p030` and `p060-p063`
+- the third bounded forensic-provenance reconstruction slice is now complete on the stabilized `T1` opening run around `p008-p019`
+- the fourth bounded forensic-provenance reconstruction slice is now complete on the stabilized `T1` central band around `p024-p041`
+- the fifth bounded forensic-provenance reconstruction slice is now complete on the stabilized `T1` middle-late band around `p042-p059`
+- the sixth bounded forensic-provenance reconstruction slice is now complete on the stabilized `T1` late band around `p061-p074`
+- the consolidation review now finds the reconstructed forensic coverage materially sufficient across the stabilized `T1` poem spine
+- the package now has a validation entrypoint at `scripts/validate_package.py`
+- the package now has a witness-page coverage audit for the active non-blank `T1` span at `scripts/audit_witness_page_coverage.py`
 
 ## Next action
 
-Continue the `C5` four-engine OCR-compliance slice on the newly isolated `冠註信心銘夜塘水` commentary control witness.
+Repair and rerun the `C6` `EasyOCR` full pass with normalized JSON serialization so `C6` reaches true four-engine compliance under the fully adopted protocol.
 
 Use:
 
 - `provenance/faith-in-mind/process/current-state.md`
 - `provenance/faith-in-mind/process/human-log.md`
 - `provenance/faith-in-mind/process/decision-log.md`
+- `provenance/faith-in-mind/process/translation-diff-log.md`
+- `provenance/faith-in-mind/process/ocr-consensus-log.md`
+- `provenance/faith-in-mind/process/rejected-readings-log.md`
+- `provenance/faith-in-mind/process/translation-reasoning-log.md`
+- `provenance/faith-in-mind/process/character-provenance-log.md`
 - `provenance/faith-in-mind/witnesses/witness-register.md`
 - `provenance/faith-in-mind/witnesses/acquisition-metadata.md`
-- `Faith_in_Mind_NDL_Commentaries/`
+- `provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt`
+- `provenance/faith-in-mind/process/correction-log.md`
+- `provenance/faith-in-mind/process/ocr-run-log.md`
+- `provenance/faith-in-mind/ocr/T1/`
+- `provenance/faith-in-mind/ocr/T4/`
+- `provenance/faith-in-mind/ocr/T5/`
+- `provenance/faith-in-mind/ocr/T2/`
+- `provenance/faith-in-mind/ocr/T3/`
+- `provenance/faith-in-mind/ocr/A1/`
+- `provenance/faith-in-mind/ocr/A2/`
+- `provenance/faith-in-mind/ocr/A3/`
+- `provenance/faith-in-mind/ocr/C1/`
+- `provenance/faith-in-mind/ocr/C2/`
+- `provenance/faith-in-mind/ocr/C3/`
 - `provenance/faith-in-mind/ocr/C4/`
 - `provenance/faith-in-mind/ocr/C5/`
 - `provenance/faith-in-mind/process/ocr-run-log.md`
 - `provenance/faith-in-mind/collation/first-pass-variant-table.md`
-- `Faith_in_Mind_NDL_Commentaries/`
-- `provenance/faith-in-mind/ocr/C4/`
 
 Produce next:
 
-- declare the bounded OCR-compliance slice for `C5`
-- complete and record the full `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` passes for `C5`
-- keep the commentary-control role of `C5` explicit rather than treating it as a direct base-text witness
-- keep `current-state.md`, `process-log.md`, `human-log.md`, `ocr-run-log.md`, `process.json`, and `timeline.json` aligned before any `C5` comparison use
+- extend the `T1` step-`0` translation baseline from the seeded contested loci to the remaining stabilized poem spine
+- continue reconstructing `ocr-consensus-log.md` outward from the seeded `T1` opening and closing loci
+- add further recoverable rejected readings if more superseded or rolled-back loci can be reconstructed honestly
+- extend `translation-reasoning-log.md` and `character-provenance-log.md` beyond the initial contested loci
+- keep `current-state.md`, `process-log.md`, `human-log.md`, `decision-log.md`, `process.json`, and `timeline.json` aligned before any `C6` comparison or OCR work
+- rerun `python scripts/validate_package.py` before any XML or publication handoff
 
 Do not start a fresh witness hunt.
 Do not reopen copy-text selection unless new locus-specific evidence appears.
@@ -183,6 +225,12 @@ Do not reopen copy-text selection unless new locus-specific evidence appears.
 `C4` has now also completed its full `EasyOCR` pass.
 `C4` has now also completed its first bounded commentary-control comparison slice.
 `C5` has now completed its witness-opening slice.
+`C5` has now also completed its first full `RapidOCR` pass.
+`C5` has now also completed its full `tesseract` pass.
+`C5` has now also completed its full `PaddleOCR PP-OCRv4` pass.
+`C5` has now also completed its full `EasyOCR` pass.
+`C5` has now also completed its first bounded commentary-control comparison slice.
+the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or rollback exceptions (`T1-p012`, `T1-p016`, `T1-p020`, `T1-p023`, `T1-p075`) rather than unresolved poem-baseline failures
 
 ## Known blockers and cautions
 
@@ -203,6 +251,7 @@ Do not reopen copy-text selection unless new locus-specific evidence appears.
 - `C1` is a Japanese translation or reception control rather than a base-text witness: only `p051-p052` belong to the target `信心銘和譯` span in the current page-role pass
 - `C1` now has full four-engine OCR compliance on the direct rendered `page-images/` basis; unlike `T2` and `A3`, no derivative OCR-input basis was required on this machine
 - `C2` is also a Japanese translation or reception control rather than a base-text witness: only `p021-p023` belong to the target `三祖大師信心銘` span in the current page-role pass, and the opening and closing images are mixed-content boundary spreads
+- the six-log forensic provenance protocol was adopted mid-project on `2026-04-18`, so retroactive reconstruction is now required before fresh witness work continues
 - on this machine, prefer Python `3.12` for PaddleOCR and related tooling instead of the default Python `3.14`
 - the local OCR tool stack is uneven; machine health must be logged honestly rather than assumed
 - only the title lines and a broad recovered lemma-line spine through `T1-p079.l01` have been corrected so far; most prose remains uncorrected

@@ -95,17 +95,28 @@ Read these in this order:
 
 1. `CRITICAL_EDITION_ENTRYPOINT.md`
 2. `CRITICAL_EDITION_RECORDING_MATRIX.md`
-3. `critical_edition_evaluation.md`
-4. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
-5. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
-6. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
-7. `WORKFLOW.md`
-8. `REPO_INTAKE_PIPELINE.md`
-9. `TRANSCRIPTION_METHOD.md`
-10. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
-11. `OpenZenTexts/MANIFEST_SCHEMA.md`
-12. `CBETA-Translator/Text/TeiRenderer.cs`
-13. `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
+3. `EDITION_AGENT_MASTER_INSTRUCTIONS.md`
+4. `EDITION_FORENSIC_PROVENANCE_PROTOCOL.md`
+5. `EDITION_TRANSLATION_DIFF_PROTOCOL.md`
+6. `critical_edition_evaluation.md`
+7. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
+8. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
+9. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
+10. `WORKFLOW.md`
+11. `REPO_INTAKE_PIPELINE.md`
+12. `TRANSCRIPTION_METHOD.md`
+13. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
+14. `OpenZenTexts/MANIFEST_SCHEMA.md`
+15. `CBETA-Translator/Text/TeiRenderer.cs`
+16. `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
+
+These three edition-protocol files are now mandatory for every critical edition session:
+
+- `EDITION_AGENT_MASTER_INSTRUCTIONS.md`
+- `EDITION_FORENSIC_PROVENANCE_PROTOCOL.md`
+- `EDITION_TRANSLATION_DIFF_PROTOCOL.md`
+
+Do not treat them as optional implementation notes. They are workflow law.
 
 ## Main rule
 
@@ -193,6 +204,15 @@ Every pass must land in:
 - apparatus
 - stats
 
+Every critical edition package must also maintain the six forensic provenance logs under `provenance/{slug}/process/`:
+
+- `correction-log.md`
+- `translation-diff-log.md`
+- `ocr-consensus-log.md`
+- `rejected-readings-log.md`
+- `translation-reasoning-log.md`
+- `character-provenance-log.md`
+
 Do not wait and summarize later.
 
 Record every meaningful step while it happens:
@@ -222,6 +242,14 @@ Visible text changes must also record:
 - evidence basis
 - evidence strength
 - before/after reading state captured at the moment of change
+
+Mandatory paired-record rules:
+
+- `correction-log.md` and `translation-diff-log.md` are never written separately
+- every Chinese correction gets an English retranslation entry in the same bounded session
+- OCR consensus is recorded immediately after each engine run, not reconstructed later if avoidable
+- rejected readings are recorded at the moment a competing reading is refused or rolled back
+- image evidence coordinates must be recorded when available
 
 Preferred storage model:
 

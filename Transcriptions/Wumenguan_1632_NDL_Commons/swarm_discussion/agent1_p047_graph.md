@@ -19,10 +19,10 @@
 What I consider stable from the witness:
 
 ```text
-é–€äº‘æ‹ˆèµ·æ‰‡å­äº‘ã€‚
-æ‰‡å­ã€”?ã€•è·³ä¸Šä¸‰åä¸‰å¤©ã€‚
-ç¯‰è‘—å¸é‡‹é¼»å­”ã€‚
-æ±æµ·é¯‰é­šæ‰“ä¸€æ£’ï¼Œ
+門云拈起扇子云。
+扇子〔?〕跳上三十三天。
+築著帝釋鼻孔。
+東海鯉魚打一棒，
 雨似盆傾。
 ```
 
@@ -33,51 +33,51 @@ I am confident about:
 - `拈`
 - `起`
 - `扇`
-- `å­`
+- `子`
 - second `扇`
-- second `å­`
-- `ä¸‰åä¸‰å¤©`
-- `ç¯‰è‘—å¸é‡‹é¼»å­”`
-- `æ±æµ·é¯‰é­šæ‰“ä¸€æ£’`
+- second `子`
+- `三十三天`
+- `築著帝釋鼻孔`
+- `東海鯉魚打一棒`
 - `雨似盆傾`
 
 ## Confidence per graph in the disputed area
 
-For the narrow disputed band after the second `æ‰‡å­`:
+For the narrow disputed band after the second `扇子`:
 
 - `扇`: high
-- `å­`: high
+- `子`: high
 - next graph: low
 - following motion graph: medium-low, likely `跳`
 - `上`: inferred from column continuation, medium
-- `ä¸‰åä¸‰å¤©`: high
+- `三十三天`: high
 
 ## Alternatives considered
 
 ### Option A
 
 ```text
-æ‰‡å­è·³ä¸Šä¸‰åä¸‰å¤©
+扇子跳上三十三天
 ```
 
 Reason considered:
 
-- this is the simplest fit if the apparent extra mark between `å­` and `è·³` is only overlap/carry from an adjacent column or an artifact of the crop
+- this is the simplest fit if the apparent extra mark between `子` and `跳` is only overlap/carry from an adjacent column or an artifact of the crop
 
 Why I rejected it:
 
-- in the enlarged crop, I still see evidence of an additional graph-like form after the second `å­` and before the clearer jump-like graph lower down
+- in the enlarged crop, I still see evidence of an additional graph-like form after the second `子` and before the clearer jump-like graph lower down
 - I cannot prove that the extra form is just noise
 
 ### Option B
 
 ```text
-æ‰‡å­ã€”?ã€•è·³ä¸Šä¸‰åä¸‰å¤©
+扇子〔?〕跳上三十三天
 ```
 
 Reason considered:
 
-- this matches the visible sequence best if there really are two graph positions after the second `å­`
+- this matches the visible sequence best if there really are two graph positions after the second `子`
 - the lower of the two looks compatible with `跳`
 
 Current judgment:
@@ -86,7 +86,7 @@ Current judgment:
 
 ### Option C
 
-- some two-character motion phrase after `æ‰‡å­`, e.g. an extra verb before `è·³`
+- some two-character motion phrase after `扇子`, e.g. an extra verb before `跳`
 
 Why rejected:
 
@@ -107,7 +107,7 @@ The unknown graph should remain unknown.
 I recommend keeping:
 
 ```text
-æ‰‡å­ã€”?ã€•è·³ä¸Šä¸‰åä¸‰å¤©ã€‚
+扇子〔?〕跳上三十三天。
 ```
 
-and not normalizing it to `æ‰‡å­è·³ä¸Šä¸‰åä¸‰å¤©` unless another human reader can justify removing the extra slot from the witness image itself.
+and not normalizing it to `扇子跳上三十三天` unless another human reader can justify removing the extra slot from the witness image itself.

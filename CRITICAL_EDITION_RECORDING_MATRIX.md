@@ -31,6 +31,15 @@ They are separate layers of use.
 
 Every edition must also deliver definitive witness text outputs for the witnesses it actually produces, so the viewer can expose direct witness comparison without scraping working files.
 
+Every critical edition must also maintain the six forensic provenance logs:
+
+- `correction-log.md`
+- `translation-diff-log.md`
+- `ocr-consensus-log.md`
+- `rejected-readings-log.md`
+- `translation-reasoning-log.md`
+- `character-provenance-log.md`
+
 ## Authority hierarchy
 
 The system has multiple recording layers, but not all layers answer the same question.
@@ -110,6 +119,8 @@ Evidence minimum for any non-trivial judgment:
 
 Do not record a non-trivial editorial judgment without both basis and strength.
 
+If a non-trivial judgment rejects a live competing reading, also write that rejection to `rejected-readings-log.md` at the same time.
+
 ### `human-log.md`
 
 Use for readable narrative explanation.
@@ -142,6 +153,8 @@ This file exists so a future agent does not restart the workflow from the top wh
 
 It must name the actual last bounded work slice that was completed, not only a broad stage label.
 
+If a protocol-adoption or reconstruction slice is required before new witness work can continue, `current-state.md` must say that explicitly rather than leaving the old witness queue in place.
+
 ### `timeline.json`
 
 Use for ordered machine-readable events and state reconstruction.
@@ -168,6 +181,78 @@ Fallback only if needed:
 Do not absorb later text work into an older stage-start event.
 
 If visible text changes again in a new bounded work slice, create a fresh `text_changed` event for that slice.
+
+If a package adopts a stricter protocol mid-project, create a fresh machine event for that adoption and for any explicit reconstruction slice that follows from it.
+
+### `translation-diff-log.md`
+
+Use for synchronized Chinese-to-English change tracking.
+
+Record here:
+
+- step `0` translation baselines
+- English before/after for every Chinese correction
+- explicit basis for retroactive reconstruction versus forward-only adoption
+
+This file is not optional once a package contains `correction-log.md`.
+
+### `ocr-consensus-log.md`
+
+Use for per-locus OCR engine agreement.
+
+Record here:
+
+- each consulted locus
+- Tesseract reading
+- RapidOCR reading
+- PaddleOCR reading
+- EasyOCR reading
+- agreement count
+- adopted reading
+- basis for adoption
+
+Write OCR consensus immediately after engine work and before treating OCR support as editorially settled.
+
+### `rejected-readings-log.md`
+
+Use for discarded or rolled-back readings.
+
+Record here:
+
+- the rejected reading
+- its source
+- the adopted reading
+- the reason for rejection
+- the date of rejection
+
+Do not try to reconstruct every rejection from memory later if the decision can be logged now.
+
+### `translation-reasoning-log.md`
+
+Use for non-trivial English rendering choices.
+
+Record here:
+
+- the step number
+- locus
+- chosen English
+- alternatives considered
+- translation reasoning
+
+This is where the package explains why an English rendering was chosen, not only how it changed.
+
+### `character-provenance-log.md`
+
+Use for contested or non-trivially recovered characters.
+
+Record here:
+
+- locus
+- character position
+- chosen character
+- source type
+- confidence
+- supporting witness or engine
 
 ### `apparatus.json`
 
@@ -392,6 +477,8 @@ Do not treat a witness as editorially active until that status block exists. If 
 
 Also update `page-map.csv` with page-role classification before treating the witness as if every page were body text.
 
+Also write OCR consensus rows to `ocr-consensus-log.md` as soon as the compared engine evidence is actually available for a locus. Do not leave OCR consensus only implicit in raw engine folders.
+
 ### When a visible reading changes
 
 Always write to:
@@ -416,6 +503,9 @@ Also require:
 - `current-state.md` updated so `last_completed_phase` names the completed slice
 - a fresh `text_changed` event for the slice rather than silently expanding an older start event
 - unresolved or weak states preserved rather than silently collapsed if the evidence strength is less than strong
+- a paired `translation-diff-log.md` entry written in the same bounded session
+- image evidence coordinates written when available
+- `character-provenance-log.md` updated when the change depends on contested character-level recovery
 
 If a TEI note is added:
 
@@ -440,6 +530,8 @@ Also record:
   - structural ambiguity
   - branch conflict
   - insufficient comparison
+
+If the unresolved locus already has competing discarded proposals, record those discarded proposals in `rejected-readings-log.md` instead of leaving them only in prose.
 
 ### When a revision is published or extended
 
