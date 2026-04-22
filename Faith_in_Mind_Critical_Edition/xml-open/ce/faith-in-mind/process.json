@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "ocr_compliance_slice_C13_four_engine_complete",
+      "slug": "comparison_witness_opening_slice_C14",
       "witnesses": [
         "T1",
         "T4",
@@ -90,23 +90,22 @@
         "C10",
         "C11",
         "C12",
-        "C13"
+        "C13",
+        "C14"
       ],
       "targets": [
-        "../../../provenance/faith-in-mind/ocr/C13/ocr/rapidocr/",
-        "../../../provenance/faith-in-mind/ocr/C13/ocr/tesseract-full-pass/",
-        "../../../provenance/faith-in-mind/ocr/C13/ocr/paddleocr-ppocrv4/",
-        "../../../provenance/faith-in-mind/ocr/C13/ocr/paddleocr-ppocrv4/extracted-text/",
-        "../../../provenance/faith-in-mind/ocr/C13/ocr/easyocr-full-pass/",
+        "../../../provenance/faith-in-mind/ocr/C14/page-images/",
+        "../../../provenance/faith-in-mind/ocr/C14/metadata.json",
+        "../../../provenance/faith-in-mind/ocr/C14/page-map.csv",
         "../../../provenance/faith-in-mind/process/current-state.md",
         "../../../provenance/faith-in-mind/process/human-log.md",
         "../../../provenance/faith-in-mind/process/process-log.md",
         "../../../provenance/faith-in-mind/process/ocr-run-log.md"
       ],
       "status": "completed",
-      "last_completed_slice": "ocr_compliance_slice_C13_four_engine_complete",
+      "last_completed_slice": "comparison_witness_opening_slice_C14",
       "last_text_changed_event": "FIM-055",
-      "next_required_slice": "comparison_slice_C13_commentary_control_vs_T1_lemma_spine"
+      "next_required_slice": "ocr_compliance_slice_C14_four_engine"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -118,6 +117,6 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "Complete the first bounded C13 commentary-control comparison slice against the recovered T1 lemma spine using direct image review and the saved four-engine OCR stack as support."
+    "next_required_action": "Complete strict four-engine OCR compliance on C14 before any comparison use."
   }
 }

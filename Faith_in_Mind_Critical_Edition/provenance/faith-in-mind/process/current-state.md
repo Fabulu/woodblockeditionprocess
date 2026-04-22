@@ -1,6 +1,6 @@
 # Current State: Faith in Mind
 
-Date: 2026-04-21
+Date: 2026-04-22
 Status: active
 Edition slug: `faith-in-mind`
 
@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `ocr_compliance_slice_C13_four_engine_complete`
+- Last completed phase: `comparison_witness_opening_slice_C14`
 
 ## What is already done
 
@@ -208,11 +208,14 @@ Edition slug: `faith-in-mind`
 - derived Paddle text support now exists for `C13` under `ocr/C13/ocr/paddleocr-ppocrv4/extracted-text/`
 - a full resumed `EasyOCR` pass now exists for `C13` under `ocr/C13/ocr/easyocr-full-pass/`
 - `C13` now has full recorded four-engine OCR compliance and is ready for bounded comparison use as the part 1 `通俗信心銘講話` commentary control witness
+- a bounded `C13` commentary-control comparison slice now exists and confirms broad opening, central one-mind/all-dharmas, and early quoted terminal-anchor support for the recovered `T1` lemma spine without exposing a new high-confidence repair locus or accepted `T1` text change
+- `C14` is now opened as the next commentary control witness with in-package metadata, rendered page images, and a classified page map
+- `C14` page roles treat `C14-p001` to `C14-p008` as active `通俗信心銘講話` part 2 continuation body, `C14-p009` as mixed terminal body plus publication or colophon matter, `C14-p010` to `C14-p013` as publisher catalogue or advertising matter, and `C14-p014` to `C14-p015` as rear wrapper, rear cover, or library-tail matter
 - the package now has a witness-page coverage audit for the active non-blank `T1` span at `scripts/audit_witness_page_coverage.py`
 
 ## Next action
 
-Complete the first bounded `C13` commentary-control comparison slice against the recovered `T1` lemma spine, using direct image review and the saved four-engine OCR stack as support.
+Complete strict four-engine OCR compliance on `C14` before any comparison use.
 
 Use:
 
@@ -242,17 +245,16 @@ Use:
 - `provenance/faith-in-mind/ocr/C3/`
 - `provenance/faith-in-mind/ocr/C4/`
 - `provenance/faith-in-mind/ocr/C5/`
+- `provenance/faith-in-mind/ocr/C13/`
 - `provenance/faith-in-mind/process/ocr-run-log.md`
 - `provenance/faith-in-mind/collation/first-pass-variant-table.md`
 
 Produce next:
 
-- inspect representative `C13` body leaves by direct image review before relying on OCR text
-- use the saved `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` outputs only as support for the direct-image comparison
-- complete a bounded `C13` commentary-control comparison slice against the recovered `T1` lemma spine
-- do not create a `T1` text change unless C13 exposes a new high-confidence repair locus corroborated by the existing direct-witness record
+- run and record the mandated `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` full-pass stack on `C14`
+- do not create a `T1` text change unless `C14` later exposes a new high-confidence repair locus corroborated by the existing direct-witness record
 - do not create translation diffs unless the accepted `T1` edition text changes
-- keep `current-state.md`, `process-log.md`, `human-log.md`, `process.json`, `timeline.json`, `ocr-run-log.md`, and any collation notes aligned after the `C13` comparison slice
+- keep `current-state.md`, `process-log.md`, `human-log.md`, `process.json`, `timeline.json`, `ocr-run-log.md`, and any collation notes aligned after the `C14` opening/OCR slices
 - rerun `python scripts/validate_package.py` before any XML or publication handoff
 
 Do not start a fresh witness hunt.
@@ -299,7 +301,8 @@ Do not reopen copy-text selection unless new locus-specific evidence appears.
 `C6` through `C10` have each completed witness opening, four-engine OCR compliance, and first bounded commentary-control comparison.
 `C11` has now completed its witness-opening slice, four-engine OCR-compliance slice, and first bounded lecture-commentary-control comparison slice.
 `C12` has now completed its witness-opening slice, four-engine OCR-compliance slice, and first bounded lecture-commentary-control comparison slice.
-`C13` has now completed its witness-opening slice and four-engine OCR-compliance slice.
+`C13` has now completed its witness-opening slice, four-engine OCR-compliance slice, and first bounded commentary-control comparison slice.
+`C14` has now completed its witness-opening slice and is queued for four-engine OCR compliance.
 the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or rollback exceptions (`T1-p012`, `T1-p016`, `T1-p020`, `T1-p023`, `T1-p075`) rather than unresolved poem-baseline failures
 
 ## Known blockers and cautions

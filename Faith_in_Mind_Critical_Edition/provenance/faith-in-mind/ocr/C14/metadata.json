@@ -1,0 +1,28 @@
+{
+  "witness_id": "C14",
+  "source_file": "C:\\woodblocks\\Faith_in_Mind_NDL_Commentaries_More\\NDL823371_tsuuzoku_xinxinming_kouwa_part2.pdf",
+  "source_basename": "NDL823371_tsuuzoku_xinxinming_kouwa_part2.pdf",
+  "source_bytes": 25096531,
+  "source_sha256": "DD12C5AB8ECAA5EBB1479AC1724EF1BAFBF9D210B8C119295D3A914BD38D90DD",
+  "page_count": 15,
+  "render_engine": "PyMuPDF",
+  "render_dpi": 150,
+  "render_format": "png",
+  "render_output_dir": "page-images",
+  "page_image_pattern": "C14-p{page:03d}.png",
+  "witness_role": "commentary control",
+  "witness_description": "Tongzoku Xinxinming Kowa part 2 commentary control witness",
+  "opened_date": "2026-04-22",
+  "opening_slice": "comparison_witness_opening_slice_C14",
+  "page_role_summary": {
+    "body": "C14-p001 to C14-p008",
+    "mixed_body_colophon": "C14-p009",
+    "publisher_catalogue_or_advertising": "C14-p010 to C14-p013",
+    "rear_wrapper_or_library_tail": "C14-p014 to C14-p015"
+  },
+  "notes": [
+    "C14 is part 2 of the Tongzoku Xinxinming Kowa pair and continues C13.",
+    "Direct image review sampled C14-p001 to C14-p003 and C14-p009 to C14-p015 for page-role classification.",
+    "C14 must not be used for comparison until full four-engine OCR compliance is complete."
+  ]
+}

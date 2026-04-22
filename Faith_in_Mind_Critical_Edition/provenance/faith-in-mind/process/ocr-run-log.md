@@ -2738,3 +2738,33 @@ Input basis: `ocr/C13/page-images/`
 - `C13` is now a real OCR-backed commentary control witness rather than only an opened metadata record
 - `C13` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
 - `C13` is ready for bounded comparison use as the part 1 `通俗信心銘講話` commentary control witness
+
+## C14 witness opening render
+
+Date: 2026-04-22  
+Witness: `C14`  
+Stage: witness opening / page-image preparation  
+Engine: `PyMuPDF`
+
+- source:
+  - `Faith_in_Mind_NDL_Commentaries_More/NDL823371_tsuuzoku_xinxinming_kouwa_part2.pdf`
+- output:
+  - `provenance/faith-in-mind/ocr/C14/page-images/`
+  - `provenance/faith-in-mind/ocr/C14/metadata.json`
+  - `provenance/faith-in-mind/ocr/C14/page-map.csv`
+- result:
+  - `15` PDF pages rendered at `150` DPI
+  - `15` nonzero `C14-p*.png` page images present
+  - source SHA-256 verified as `DD12C5AB8ECAA5EBB1479AC1724EF1BAFBF9D210B8C119295D3A914BD38D90DD`
+  - page-role pass complete
+- page-role summary:
+  - `C14-p001` to `C14-p008`: active `通俗信心銘講話` part 2 continuation body
+  - `C14-p009`: mixed terminal body plus publication or colophon matter
+  - `C14-p010` to `C14-p013`: publisher catalogue or advertising matter
+  - `C14-p014` to `C14-p015`: rear wrapper, rear cover, or library-tail matter
+
+### Compliance interpretation
+
+- `C14` is opened and ready for OCR compliance work
+- no OCR engine pass has been completed for `C14` yet
+- `C14` must not be used for comparison until `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` have all completed

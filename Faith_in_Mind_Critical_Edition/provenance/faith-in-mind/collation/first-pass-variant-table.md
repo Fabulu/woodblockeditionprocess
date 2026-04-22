@@ -645,3 +645,37 @@ Scope: compare representative `C12` lecture-body surfaces against the current `T
 - `T4` remains the decisive repair witness used so far.
 - `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C12` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C12` remain commentary or lecture controls rather than direct repair witnesses.
 - The next witness-opening target is `C13`.
+
+## `C13` commentary-control confirmation slice
+
+Date: 2026-04-22
+Status: bounded commentary-control comparison completed
+Scope: compare representative `C13` body and quoted-lemma surfaces against the current `T1` recovered lemma spine after `C13` reached full four-engine compliance
+
+### Method note
+
+- `C13` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C13` is part 1 of `通俗信心銘講話`, not a short direct poem witness, so this slice is commentary-control evidence rather than a substitute transcription.
+- Direct page review confirms a mixed title/opening-lemma surface on `C13-p002`, an early quoted terminal-anchor surface on `C13-p004`, and central one-mind/all-dharmas discussion around `C13-p074`, with `C13-p054` and `C13-p097` as additional supportive body surfaces.
+- OCR evidence was used only as support after image review; `RapidOCR` gives a useful opening anchor on `C13-p002`, while `PaddleOCR PP-OCRv4` supplies the clearest machine anchors on `C13-p004` and `C13-p074`.
+- Evidence strength: moderate for broad commentary-backed confirmation of opening, central, and quoted terminal macro-sequence; low for forcing exact new character repairs or treating the early quoted terminal phrases as a physical terminal-close collation.
+
+### Representative confirmations from `C13`
+
+| C13 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| mixed title/opening body on `C13-p002` | opening recovered `T1` lemma spine from `T1-p007.l01` through the early `但莫憎愛 / 洞然明白` band | broadly confirmed | direct image review shows embedded opening lines including `至道無難`, `唯嫌揀擇`, `但莫憎愛`, and `洞然明白`; RapidOCR independently anchors the opening with a corrupted but recognizable `至道無` line on this page |
+| central body discussion around `C13-p074`, with support from `C13-p054` and `C13-p097` | `T1-p032.l01` and the central one-mind/all-dharmas band | broadly confirmed | direct image review and Paddle-derived text locate the one-mind/all-dharmas relation, including near forms of `一心即萬法` and `萬法即一心`; this supports the already repaired central band without improving it |
+| early quoted terminal-anchor surface on `C13-p004` | terminal `T1-p077.l01a` to `T1-p079.l01` close sequence | quoted-anchor support only | direct image review shows terminal phrases quoted in an early commentary frame, including `言語道斷`, `非去來今`, `信心不二`, and `不二信心`; because the page is an early expository or overview surface, it is not treated as a physical terminal-close witness |
+
+### New loci exposed by `C13`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C13` currently behaves as a commentary control witness, not as a decisive repair witness.
+- The early terminal phrase cluster on `C13-p004` strengthens reception/commentary support for the standard close, but it does not create a new accepted `T1` text change.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C13` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C13` remain commentary or lecture controls rather than direct repair witnesses.
+- The next witness-opening target is `C14`.

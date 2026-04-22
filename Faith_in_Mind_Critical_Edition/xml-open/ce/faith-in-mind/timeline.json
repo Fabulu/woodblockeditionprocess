@@ -4740,6 +4740,99 @@
         "last_completed_phase": "ocr_compliance_slice_C13_four_engine_complete",
         "last_text_changed_event": "FIM-055"
       }
+    },
+    {
+      "event_id": "FIM-137",
+      "sequence": 137,
+      "timestamp": "2026-04-22",
+      "stage": "comparison_pass_1",
+      "event_type": "comparison_slice_completed",
+      "object_type": "witness",
+      "object_id": "C13",
+      "summary": "Completed the first bounded C13 commentary-control confirmation slice against the recovered T1 lemma spine.",
+      "details": "Direct image review confirms C13-p002 as a mixed title/opening-lemma surface with recognizable opening sequence support, C13-p004 as an early quoted terminal-anchor surface rather than a physical terminal close, and C13-p074 as central one-mind/all-dharmas discussion, with C13-p054 and C13-p097 as additional supportive body surfaces. The saved four-engine OCR stack was used only as support. The slice exposes no new high-confidence T1 repair locus and creates no accepted T1 text change.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/ocr/C13/page-images/",
+        "provenance/faith-in-mind/ocr/C13/ocr/rapidocr/",
+        "provenance/faith-in-mind/ocr/C13/ocr/tesseract-full-pass/",
+        "provenance/faith-in-mind/ocr/C13/ocr/paddleocr-ppocrv4/extracted-text/",
+        "provenance/faith-in-mind/ocr/C13/ocr/easyocr-full-pass/"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/collation/first-pass-variant-table.md",
+        "provenance/faith-in-mind/ocr/C13/page-images/C13-p002.png",
+        "provenance/faith-in-mind/ocr/C13/page-images/C13-p004.png",
+        "provenance/faith-in-mind/ocr/C13/page-images/C13-p054.png",
+        "provenance/faith-in-mind/ocr/C13/page-images/C13-p074.png",
+        "provenance/faith-in-mind/ocr/C13/page-images/C13-p097.png",
+        "provenance/faith-in-mind/ocr/C13/ocr/rapidocr/C13-p002.txt",
+        "provenance/faith-in-mind/ocr/C13/ocr/paddleocr-ppocrv4/extracted-text/C13-p004.txt",
+        "provenance/faith-in-mind/ocr/C13/ocr/paddleocr-ppocrv4/extracted-text/C13-p074.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "comparison_witness_opening_slice_C14",
+        "last_completed_phase": "comparison_slice_C13_commentary_control_vs_T1_lemma_spine",
+        "last_text_changed_event": "FIM-055"
+      }
+    },
+    {
+      "event_id": "FIM-138",
+      "sequence": 138,
+      "timestamp": "2026-04-22",
+      "stage": "comparison_witness_prep",
+      "event_type": "witness_opened",
+      "object_type": "witness",
+      "object_id": "C14",
+      "summary": "Opened C14 as the next NDL commentary-control witness.",
+      "details": "Rendered all 15 PDF pages from NDL823371_tsuuzoku_xinxinming_kouwa_part2.pdf into the in-package C14 page-image set, created metadata.json and page-map.csv, and classified C14-p001 to C14-p008 as active Tongzoku Xinxinming Kowa part 2 continuation body, C14-p009 as mixed terminal body plus publication or colophon matter, C14-p010 to C14-p013 as publisher catalogue or advertising matter, and C14-p014 to C14-p015 as rear wrapper, rear cover, or library-tail matter. C14 is not comparison-ready until four-engine OCR compliance is complete.",
+      "actor_type": "agent",
+      "actor_id": "assistant",
+      "inputs": [
+        "Faith_in_Mind_NDL_Commentaries_More/NDL823371_tsuuzoku_xinxinming_kouwa_part2.pdf",
+        "provenance/faith-in-mind/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md"
+      ],
+      "outputs": [
+        "provenance/faith-in-mind/ocr/C14/page-images/",
+        "provenance/faith-in-mind/ocr/C14/metadata.json",
+        "provenance/faith-in-mind/ocr/C14/page-map.csv",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/ocr-run-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/C14/metadata.json",
+        "provenance/faith-in-mind/ocr/C14/page-map.csv",
+        "provenance/faith-in-mind/ocr/C14/page-images/C14-p001.png",
+        "provenance/faith-in-mind/ocr/C14/page-images/C14-p009.png",
+        "provenance/faith-in-mind/ocr/C14/page-images/C14-p010.png",
+        "provenance/faith-in-mind/ocr/C14/page-images/C14-p014.png",
+        "provenance/faith-in-mind/ocr/C14/page-images/C14-p015.png"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "ocr_compliance_slice_C14_four_engine",
+        "last_completed_phase": "comparison_witness_opening_slice_C14",
+        "last_text_changed_event": "FIM-055"
+      }
     }
   ]
 }
