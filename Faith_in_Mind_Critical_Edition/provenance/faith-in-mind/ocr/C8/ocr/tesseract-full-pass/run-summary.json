@@ -1,0 +1,99 @@
+{
+  "engine": "tesseract",
+  "witness_id": "C8",
+  "input_dir": "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\C8\\page-images",
+  "tesseract_binary": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "tessdata_prefix": "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\T1\\tessdata",
+  "total_pages_processed": 33,
+  "pages_with_text": 33,
+  "pages_without_text": [],
+  "warning_pages": [
+    {
+      "page_id": "C8-p001",
+      "stderr": "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p002",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p003",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p005",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p006",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p007",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p010",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p011",
+      "stderr": "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p012",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p014",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p015",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p016",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p018",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p020",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p021",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p023",
+      "stderr": "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p024",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p026",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p028",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p029",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    },
+    {
+      "page_id": "C8-p030",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    }
+  ],
+  "error_count": 0,
+  "errors": [],
+  "elapsed_seconds": 2609.654
+}

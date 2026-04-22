@@ -1704,3 +1704,1037 @@ Source type: commentary control PDF
 - `C5` is now a real OCR-backed commentary control witness rather than only an opened metadata record
 - `C5` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
 - `C5` is ready for bounded comparison use on representative commentary-body leaves rather than as a direct short poem witness
+
+## C6 commentary-control opening
+
+Date: 2026-04-18 to 2026-04-19
+Witness: `C6`
+Source type: commentary control PDF
+
+### Source verification
+
+- source file:
+  - `Faith_in_Mind_NDL_Commentaries/NDL823161_yetangshui_guanzhu_part2.pdf`
+- bytes:
+  - `117,301,249`
+- SHA-256:
+  - `606FFFCAD5BB7A2BD4D88F74708D7BC8F7397857D84388D1DBEDFE674B438766`
+- local validation:
+  - readable on this machine with `pypdf`
+  - `61` pages confirmed locally
+
+### Render package
+
+- output:
+  - `ocr/C6/page-images/`
+  - `ocr/C6/metadata.json`
+  - `ocr/C6/page-map.csv`
+- render engine:
+  - `PyMuPDF`
+- render DPI:
+  - `150`
+- render format:
+  - `png`
+
+### Page-role judgment
+
+- classification:
+  - `C6-p001` = `mixed`
+  - `C6-p002` to `C6-p058` = `body`
+  - `C6-p059` = `mixed`
+  - `C6-p060` to `C6-p061` = `tail`
+- evidence note:
+  - direct page review shows a mixed title-plus-opening spread on `C6-p001`
+  - `C6-p002` begins the main `冠註信心銘夜塘水` `巻下` commentary body and the run remains stable through `C6-p058`
+  - `C6-p059` is a mixed terminal body-plus-colophon spread
+  - `C6-p060` to `C6-p061` are rear wrapper or library-tail matter rather than commentary body
+
+### Opening interpretation
+
+- `C6` is now an opened in-package commentary control witness rather than a source-pinned metadata placeholder
+- the isolated image-level commentary body span for future OCR and comparison work is `C6-p002` to `C6-p058`, with explicit mixed boundary spreads on `C6-p001` and `C6-p059`
+
+### RapidOCR
+
+- status: full pass completed
+- engine: `RapidOCR`
+- output:
+  - `ocr/C6/ocr/rapidocr/`
+- summary:
+  - `ocr/C6/ocr/rapidocr/run-summary.json`
+- input basis:
+  - `ocr/C6/page-images/`
+- result:
+  - `61` pages processed
+  - `59` pages with text outputs on disk
+  - `2` pages without text:
+    - `C6-p060`
+    - `C6-p061`
+  - `0` errors
+
+### Tesseract
+
+- status: full pass completed
+- environment:
+  - witness-local `chi_tra` model under `ocr/T1/tessdata/`
+- output:
+  - `ocr/C6/ocr/tesseract-full-pass/`
+- summary:
+  - `ocr/C6/ocr/tesseract-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C6/page-images/`
+- result:
+  - `61` pages processed
+  - `61` pages with text outputs on disk
+  - `0` errors
+- machine note:
+  - the first long run required a resumed closeout, but the final saved witness state closes cleanly at `61/61` pages with text
+  - the run carries only the familiar tiny-fragment scale warnings
+
+### PaddleOCR
+
+- status: full pass completed
+- environment: Python `3.12`
+- configuration:
+  - `PaddleOCR(lang='ch', ocr_version='PP-OCRv4', device='cpu', enable_hpi=False, enable_mkldnn=False, cpu_threads=1)`
+- output:
+  - `ocr/C6/ocr/paddleocr-ppocrv4/`
+- summary:
+  - `ocr/C6/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- derivative text support:
+  - `ocr/C6/ocr/paddleocr-ppocrv4/extracted-text/`
+- input basis:
+  - `ocr/C6/page-images/`
+- result:
+  - `61` pages processed
+  - `61` success pages
+  - `0` error pages
+- machine note:
+  - the full pass closed through resumed back-half runs under Python `3.12`
+  - as on the earlier witnesses, the usable Paddle support is carried in the derived `extracted-text/` layer rather than in the raw saved `.txt` sidecars
+
+### EasyOCR
+
+- status: full pass completed
+- environment: Python `3.14`
+- languages:
+  - `ch_tra`
+  - `en`
+- output:
+  - `ocr/C6/ocr/easyocr-full-pass/`
+- summary:
+  - `ocr/C6/ocr/easyocr-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C6/page-images/`
+- result:
+  - `61` pages processed
+  - `60` pages with text
+  - `1` no-text page:
+    - `C6-p060`
+  - `0` errors
+- machine note:
+  - the first saved witness-local pass was not usable because the saver left empty `.txt` files and hit NumPy scalar JSON-serialization failures on some pages
+  - the accepted witness state comes from a clean overwrite rerun with normalized Python integer coordinates in the saved JSON payload
+
+### Compliance interpretation
+
+- `C6` now has a recorded status block for all four mandated engines
+- `C6` is now a real OCR-backed commentary control witness rather than only an opened metadata record
+- `C6` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C6` is ready for bounded comparison use on representative commentary-body leaves rather than as a direct short poem witness
+
+## C7 commentary-control opening
+
+Date: 2026-04-19
+Witness: `C7`
+Source type: Kyoto commentary control image set
+
+### Source verification
+
+- source file:
+  - `Faith_in_Mind_Kyoto_RB00018401_Nentei/manifest.json`
+- bytes:
+  - `52,226`
+- SHA-256:
+  - `D6266510F258F22429E95F5CF0DD295F365BF11881124CD41BC0344156C20EBB`
+- local validation:
+  - Kyoto image package present locally
+  - `46` images confirmed locally
+
+### Package and page-role basis
+
+- output:
+  - `ocr/C7/metadata.json`
+  - `ocr/C7/page-map.csv`
+- page-image basis:
+  - `Faith_in_Mind_Kyoto_RB00018401_Nentei/images/`
+- classification:
+  - `C7-p001` to `C7-p003` = `title`
+  - `C7-p004` to `C7-p005` = `other`
+  - `C7-p006` to `C7-p043` = `body`
+  - `C7-p044` = `colophon`
+  - `C7-p045` to `C7-p046` = `title`
+- evidence note:
+  - direct page review shows wrapper or title matter on `C7-p001` to `C7-p003`
+  - `C7-p004` to `C7-p005` carry printed preface or front matter before the main commentary body
+  - the main `信心銘拈提` commentary body begins on `C7-p006` and remains stable through `C7-p043`
+  - `C7-p044` is publication or colophon matter and `C7-p045` to `C7-p046` are rear wrapper or tail matter
+
+### RapidOCR
+
+- status: full pass completed
+- engine: `RapidOCR`
+- output:
+  - `ocr/C7/ocr/rapidocr/`
+- summary:
+  - `ocr/C7/ocr/rapidocr/run-summary.json`
+- input basis:
+  - `Faith_in_Mind_Kyoto_RB00018401_Nentei/images/`
+- result:
+  - `46` pages processed
+  - `45` pages with text outputs on disk
+  - `1` page without text:
+    - `C7-p046`
+  - `0` errors
+- machine note:
+  - the first local runner used over-literal source suffixes in the saved page ids and had one truncated-image read failure
+  - the accepted witness state comes from the clean overwrite rerun with normalized `C7-pNNN` ids and truncated-image tolerance enabled
+
+### Tesseract
+
+- status: full pass completed
+- environment:
+  - witness-local `chi_tra` model under `ocr/T1/tessdata/`
+- output:
+  - `ocr/C7/ocr/tesseract-full-pass/`
+- summary:
+  - `ocr/C7/ocr/tesseract-full-pass/run-summary.json`
+- input basis:
+  - `Faith_in_Mind_Kyoto_RB00018401_Nentei/images/`
+- result:
+  - `46` pages processed
+  - `45` pages with text outputs on disk
+  - `1` page without text:
+    - `C7-p026`
+  - `0` errors
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C7-p034`
+  - a resumed closeout completed the remaining tail pages and wrote the final saved summary
+
+### PaddleOCR
+
+- status: full pass completed
+- environment: Python `3.12`
+- configuration:
+  - `PaddleOCR(lang='ch', ocr_version='PP-OCRv4', device='cpu', enable_hpi=False, enable_mkldnn=False, cpu_threads=1)`
+- output:
+  - `ocr/C7/ocr/paddleocr-ppocrv4/`
+- summary:
+  - `ocr/C7/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- derivative text support:
+  - `ocr/C7/ocr/paddleocr-ppocrv4/extracted-text/`
+- input basis:
+  - `Faith_in_Mind_Kyoto_RB00018401_Nentei/images/`
+- result:
+  - `46` pages processed
+  - `46` success pages
+  - `0` error pages
+- machine note:
+  - repeated timeout-safe resumes were needed on this witness
+  - as on the earlier witnesses, the usable Paddle support is carried in the derived `extracted-text/` layer rather than in the raw saved `.txt` sidecars
+
+### EasyOCR
+
+- status: full pass completed
+- environment: Python `3.14`
+- languages:
+  - `ch_tra`
+  - `en`
+- output:
+  - `ocr/C7/ocr/easyocr-full-pass/`
+- summary:
+  - `ocr/C7/ocr/easyocr-full-pass/run-summary.json`
+- input basis:
+  - `Faith_in_Mind_Kyoto_RB00018401_Nentei/images/`
+- result:
+  - `46` pages processed
+  - `45` pages with text
+  - `1` page without text:
+    - `C7-p046`
+  - `0` errors
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C7-p013`
+  - the resumed closeout then hit the known truncated-image fault on `C7-p026`
+  - the accepted witness state salvaged `C7-p026` through a tolerant in-memory load with `PIL.ImageFile.LOAD_TRUNCATED_IMAGES = True`
+
+### Compliance interpretation
+
+- `C7` is now an opened OCR-backed commentary control witness rather than only a queued Kyoto item
+- `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` are now all complete on the direct Kyoto image basis
+- `C7` is now ready for bounded comparison use as a Kyoto commentary control witness
+
+## C8 commentary-control opening
+
+Date: 2026-04-19
+Witness: `C8`
+Source type: commentary control PDF
+
+### Source verification
+
+- source file:
+  - `Faith_in_Mind_NDL_Commentaries_Extra/NDL823157_xinxinming_nentei_taizu.pdf`
+- bytes:
+  - `32,629,905`
+- SHA-256:
+  - `2F7EC2DE3B72EDC4927B844C5457404FB1A459EC1F41A0EDBB8B29F29F01FF17`
+- local validation:
+  - readable on this machine with `pypdf`
+  - `33` pages confirmed locally
+
+### Render package and page-role basis
+
+- output:
+  - `ocr/C8/page-images/`
+  - `ocr/C8/metadata.json`
+  - `ocr/C8/page-map.csv`
+- render engine:
+  - `PyMuPDF`
+- render DPI:
+  - `150`
+- render format:
+  - `png`
+- classification:
+  - `C8-p001` to `C8-p002` = `title`
+  - `C8-p003` to `C8-p029` = `body`
+  - `C8-p030` = `colophon`
+  - `C8-p031` to `C8-p033` = `title`
+- evidence note:
+  - `C8-p001` to `C8-p002` are title-opening surfaces
+  - the main `信心銘拈提 - 太祖弘徳円明国師` commentary body begins immediately on `C8-p003` and continues through `C8-p029`
+  - `C8-p030` is a mixed closing page with explicit `信心銘拈提終` plus publication matter
+  - `C8-p031` is blank tail and `C8-p032` to `C8-p033` are modern back matter or tail pages
+
+### RapidOCR
+
+- status: full pass completed
+- engine: `RapidOCR`
+- output:
+  - `ocr/C8/ocr/rapidocr/`
+- summary:
+  - `ocr/C8/ocr/rapidocr/run-summary.json`
+- input basis:
+  - `ocr/C8/page-images/`
+- result:
+  - `33` pages processed
+  - `31` pages with text outputs on disk
+  - `2` pages without text:
+    - `C8-p031`
+    - `C8-p032`
+  - `0` errors
+
+### Tesseract
+
+- status: full pass completed
+- environment:
+  - witness-local `chi_tra` model under `ocr/T1/tessdata/`
+- output:
+  - `ocr/C8/ocr/tesseract-full-pass/`
+- summary:
+  - `ocr/C8/ocr/tesseract-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C8/page-images/`
+- result:
+  - `33` pages processed
+  - the full witness file set is on disk
+  - only final tail pages are expected to remain no-text
+- machine note:
+  - the initial long run exceeded the shell timeout at a saved state through `C8-p032`
+  - the one-page tail finish landed on disk and the witness is complete at the file-set level
+
+### PaddleOCR
+
+- status: full pass completed
+- environment: Python `3.12`
+- configuration:
+  - `PaddleOCR(lang='ch', ocr_version='PP-OCRv4', device='cpu', enable_hpi=False, enable_mkldnn=False, cpu_threads=1)`
+- output:
+  - `ocr/C8/ocr/paddleocr-ppocrv4/`
+- summary:
+  - `ocr/C8/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- derivative text support:
+  - `ocr/C8/ocr/paddleocr-ppocrv4/extracted-text/`
+- input basis:
+  - `ocr/C8/page-images/`
+- result:
+  - `33` pages processed
+  - `33` success pages
+  - `0` error pages
+- machine note:
+  - as on the earlier witnesses, the usable Paddle support is carried in the derived `extracted-text/` layer rather than in the raw saved `.txt` sidecars
+  - the local Paddle stack emitted the familiar resized-image warnings without preventing saved outputs
+
+### EasyOCR
+
+- status: full pass completed
+- environment: Python `3.14`
+- languages:
+  - `ch_tra`
+  - `en`
+- output:
+  - `ocr/C8/ocr/easyocr-full-pass/`
+- summary:
+  - `ocr/C8/ocr/easyocr-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C8/page-images/`
+- result:
+  - `33` pages processed
+  - `31` pages with text
+  - `2` pages without text:
+    - `C8-p031`
+    - `C8-p032`
+  - `0` errors
+
+### Compliance interpretation
+
+- `C8` now has a recorded status block for all four mandated engines
+- `C8` is now a real OCR-backed commentary control witness rather than only an opened metadata record
+- `C8` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C8` is ready for bounded comparison use as a commentary control witness
+
+## C9 commentary-control opening
+
+Date: 2026-04-19
+Witness: `C9`
+Source type: commentary control PDF
+
+### Source verification
+
+- source file:
+  - `Faith_in_Mind_NDL_Commentaries_Extra/NDL823158_yetangshui_zengguan_part1.pdf`
+- bytes:
+  - `205,050,794`
+- SHA-256:
+  - `80B4C113A90814EB1DEBC4AA40722CF3E6F4ED7B11CC77EE046AE834CBA66AA8`
+- local validation:
+  - readable on this machine with `pypdf`
+  - `76` pages confirmed locally
+
+### Render package and page-role basis
+
+- output:
+  - `ocr/C9/page-images/`
+  - `ocr/C9/metadata.json`
+  - `ocr/C9/page-map.csv`
+- render engine:
+  - `PyMuPDF`
+- render DPI:
+  - `150`
+- render format:
+  - `png`
+- classification:
+  - `C9-p001` to `C9-p002` = `title`
+  - `C9-p003` to `C9-p074` = `body`
+  - `C9-p075` to `C9-p076` = `title`
+- evidence note:
+  - `C9-p001` to `C9-p002` are front cover or title-opening surfaces
+  - the main `信心銘夜塘水 - 増冠傍註 巻上` commentary body begins on `C9-p003` and continues through `C9-p074`
+  - `C9-p075` to `C9-p076` are tail or wrapper matter rather than live commentary body
+
+### RapidOCR
+
+- status: full pass completed
+- engine: `RapidOCR`
+- output:
+  - `ocr/C9/ocr/rapidocr/`
+- summary:
+  - `ocr/C9/ocr/rapidocr/run-summary.json`
+- input basis:
+  - `ocr/C9/page-images/`
+- result:
+  - `76` pages processed
+  - `73` pages with text outputs on disk
+  - `3` pages without text:
+    - `C9-p073`
+    - `C9-p074`
+    - `C9-p075`
+  - `0` errors
+
+### Tesseract
+
+- status: full pass completed
+- environment:
+  - witness-local `chi_tra` model under `ocr/T1/tessdata/`
+- output:
+  - `ocr/C9/ocr/tesseract-full-pass/`
+- summary:
+  - `ocr/C9/ocr/tesseract-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C9/page-images/`
+- result:
+  - `76` pages processed
+  - the full witness file set is on disk
+  - `76` pages with text in the saved summary
+- machine note:
+  - the initial long run exceeded the shell timeout at a saved state through `C9-p044`
+  - the resumed closeout completed the remaining pages without restarting the saved front-half file set
+  - only the familiar tiny-fragment scale warnings were recorded
+
+### PaddleOCR
+
+- status: full pass completed
+- environment: Python `3.12`
+- configuration:
+  - `PaddleOCR(lang='ch', ocr_version='PP-OCRv4', device='cpu', enable_hpi=False, enable_mkldnn=False, cpu_threads=1)`
+- output:
+  - `ocr/C9/ocr/paddleocr-ppocrv4/`
+- summary:
+  - `ocr/C9/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- derivative text support:
+  - `ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/`
+- input basis:
+  - `ocr/C9/page-images/`
+- result:
+  - `76` pages processed
+  - `76` success pages
+  - `0` error pages
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C9-p034`
+  - the resumed closeout completed the witness and the derived support layer was mirrored into `extracted-text/`
+  - the local resized-image warnings stayed in the machine-note tier rather than becoming witness failures
+
+### EasyOCR
+
+- status: full pass completed
+- environment: Python `3.14`
+- languages:
+  - `ch_tra`
+  - `en`
+- output:
+  - `ocr/C9/ocr/easyocr-full-pass/`
+- summary:
+  - `ocr/C9/ocr/easyocr-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C9/page-images/`
+- result:
+  - `76` pages processed
+  - `75` pages with text
+  - `1` page without text:
+    - `C9-p075`
+  - `0` errors
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C9-p051`
+  - the resumed closeout completed the remaining pages without overwriting the good front-half outputs
+
+### Compliance interpretation
+
+- `C9` now has a recorded status block for all four mandated engines
+- `C9` is now a real OCR-backed commentary control witness rather than only an opened metadata record
+- `C9` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C9` is ready for bounded comparison use as a commentary control witness
+
+## C10 commentary-control opening
+
+Date: 2026-04-20
+Witness: `C10`
+Source type: commentary control PDF
+
+### Source verification
+
+- source file:
+  - `Faith_in_Mind_NDL_Commentaries_Extra/NDL823159_yetangshui_zengguan_part2.pdf`
+- bytes:
+  - `176,715,589`
+- SHA-256:
+  - `D02B800B07E4C1C31251420EC86FDC9775D0B0CF1DE60DA215641C467D417BD7`
+- local validation:
+  - readable on this machine with `pypdf`
+  - `65` pages confirmed locally
+
+### Render package and page-role basis
+
+- output:
+  - `ocr/C10/page-images/`
+  - `ocr/C10/metadata.json`
+  - `ocr/C10/page-map.csv`
+- render engine:
+  - `PyMuPDF`
+- render DPI:
+  - `150`
+- render format:
+  - `png`
+- classification:
+  - `C10-p001` to `C10-p002` = `title`
+  - `C10-p003` to `C10-p062` = `body`
+  - `C10-p063` = `colophon`
+  - `C10-p064` to `C10-p065` = `title`
+- evidence note:
+  - `C10-p001` to `C10-p002` behave as front cover, title, or wrapper-opening matter for the lower volume
+  - the main `信心銘夜塘水 - 増冠傍註 巻下` commentary body begins on `C10-p003` and continues through `C10-p062`
+  - `C10-p063` behaves as a terminal imprint or colophon-like page after the live commentary body
+  - `C10-p064` to `C10-p065` are blank or wrapper tail matter rather than live commentary body
+
+### RapidOCR
+
+- status: full pass completed
+- engine: `RapidOCR`
+- output:
+  - `ocr/C10/ocr/rapidocr/`
+- summary:
+  - `ocr/C10/ocr/rapidocr/run-summary.json`
+- input basis:
+  - `ocr/C10/page-images/`
+- result:
+  - `65` pages processed
+  - `63` pages with text outputs on disk
+  - `2` pages without text:
+    - `C10-p064`
+    - `C10-p065`
+  - `0` errors
+
+### Tesseract
+
+- status: full pass completed
+- environment:
+  - witness-local `chi_tra` model under `ocr/T1/tessdata/`
+- output:
+  - `ocr/C10/ocr/tesseract-full-pass/`
+- summary:
+  - `ocr/C10/ocr/tesseract-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C10/page-images/`
+- result:
+  - `65` pages processed
+  - the full witness file set is on disk
+  - `65` pages with text in the saved summary
+- machine note:
+  - the initial long run exceeded the shell timeout at a saved state through `C10-p054`
+  - the resumed closeout completed the remaining tail pages without restarting the saved front-half file set
+  - only the familiar tiny-fragment scale warnings were recorded
+
+### PaddleOCR
+
+- status: full pass completed
+- environment: Python `3.12`
+- configuration:
+  - `PaddleOCR(lang='ch', ocr_version='PP-OCRv4', device='cpu', enable_hpi=False, enable_mkldnn=False, cpu_threads=1)`
+- output:
+  - `ocr/C10/ocr/paddleocr-ppocrv4/`
+- summary:
+  - `ocr/C10/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- derivative text support:
+  - `ocr/C10/ocr/paddleocr-ppocrv4/extracted-text/`
+- input basis:
+  - `ocr/C10/page-images/`
+- result:
+  - `65` pages processed
+  - `65` success pages
+  - `0` error pages
+- machine note:
+  - the witness completed in one long pass on this machine
+  - the local resized-image warnings stayed in the machine-note tier rather than becoming witness failures
+
+### EasyOCR
+
+- status: full pass completed
+- environment: Python `3.14`
+- languages:
+  - `ch_tra`
+  - `en`
+- output:
+  - `ocr/C10/ocr/easyocr-full-pass/`
+- summary:
+  - `ocr/C10/ocr/easyocr-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C10/page-images/`
+- result:
+  - `65` pages processed
+  - `63` pages with text
+  - `2` pages without text:
+    - `C10-p064`
+    - `C10-p065`
+  - `0` errors
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C10-p062`
+  - the resumed closeout completed the remaining tail pages without overwriting the good front-body outputs
+
+### Compliance interpretation
+
+- `C10` now has a recorded status block for all four mandated engines
+- `C10` is now a real OCR-backed commentary control witness rather than only an opened metadata record
+- `C10` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C10` is ready for bounded comparison use as a commentary control witness
+
+## C11 commentary-control opening
+
+Date: 2026-04-20
+Witness: `C11`
+Source type: commentary control PDF
+
+### Source verification
+
+- source file:
+  - `Faith_in_Mind_NDL_Commentaries_Extra/NDL823162_yetangshui_lecture_part1.pdf`
+- bytes:
+  - `122,207,708`
+- SHA-256:
+  - `26D510D829CA241DF5CA04F01037D08078098478A990F0879ACEADA750BB690A`
+- local validation:
+  - readable on this machine with `pypdf`, `fitz`, and `pikepdf`
+  - `100` pages confirmed locally
+
+### Render package and page-role basis
+
+- output:
+  - `ocr/C11/page-images/`
+  - `ocr/C11/metadata.json`
+  - `ocr/C11/page-map.csv`
+- render engine:
+  - `PyMuPDF`
+- render DPI:
+  - `150`
+- render format:
+  - `png`
+- classification:
+  - `C11-p001` to `C11-p003` = `title`
+  - `C11-p004` to `C11-p100` = `body`
+- evidence note:
+  - `C11-p001` behaves as modern cover or library cover matter
+  - `C11-p002` is a title or publication page for `信心銘夜塘水講義`
+  - `C11-p003` remains prefatory or title-preface matter rather than the settled lecture body
+  - the active lecture commentary body begins on `C11-p004` and still runs through the late pages of this part-volume, including `C11-p095`, `C11-p099`, and `C11-p100`
+
+## C11 four-engine OCR compliance
+
+Date: 2026-04-20
+Witness: `C11`
+Source type: lecture commentary control PDF
+
+### RapidOCR
+
+- status: full pass completed
+- output:
+  - `ocr/C11/ocr/rapidocr/`
+- summary:
+  - `ocr/C11/ocr/rapidocr/run-summary.json`
+- input basis:
+  - `ocr/C11/page-images/`
+- result:
+  - `100` pages processed
+  - `100` pages with text
+  - `0` pages without text
+  - `0` errors
+
+### tesseract
+
+- status: full pass completed with summary-count caveat
+- output:
+  - `ocr/C11/ocr/tesseract-full-pass/`
+- summary:
+  - `ocr/C11/ocr/tesseract-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C11/page-images/`
+- result:
+  - `100` text sidecars present
+  - saved summary reports `99` pages with text
+  - `0` explicit errors
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C11-p058`
+  - the resumed closeout completed the remaining back half without overwriting the saved front half
+  - `C11-p060.txt` exists and contains text, but the resumed summary did not re-enter `C11-p060` into the `pages` array; this is therefore recorded as a summary-count inconsistency rather than as a missing OCR page
+
+### PaddleOCR PP-OCRv4
+
+- status: full pass completed
+- environment: Python `3.12`
+- output:
+  - `ocr/C11/ocr/paddleocr-ppocrv4/`
+  - `ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/`
+- summary:
+  - `ocr/C11/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- input basis:
+  - `ocr/C11/page-images/`
+- result:
+  - `100` pages processed
+  - `100` success pages
+  - `0` error pages
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C11-p063`
+  - the resumed closeout completed `C11-p064` to `C11-p100`
+  - derived support text was mirrored into `extracted-text/`
+
+### EasyOCR
+
+- status: full pass completed
+- environment: Python `3.14`
+- languages:
+  - `ch_tra`
+  - `en`
+- output:
+  - `ocr/C11/ocr/easyocr-full-pass/`
+- summary:
+  - `ocr/C11/ocr/easyocr-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C11/page-images/`
+- result:
+  - `100` pages processed
+  - `100` pages with text
+  - `0` pages without text
+  - `0` errors
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C11-p044`
+  - the resumed CPU closeout completed `C11-p045` to `C11-p100`
+
+### Compliance interpretation
+
+- `C11` now has a recorded status block for all four mandated engines
+- `C11` is now a real OCR-backed lecture commentary control witness rather than only an opened metadata record
+- `C11` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C11` is ready for bounded comparison use as a lecture commentary control witness
+
+## C12 lecture-commentary-control opening
+
+Date: 2026-04-21
+Witness: `C12`
+Source type: lecture commentary control PDF
+
+### Source verification
+
+- source file:
+  - `Faith_in_Mind_NDL_Commentaries_Extra/NDL823162_yetangshui_lecture_part2.pdf`
+- bytes:
+  - `121,919,146`
+- SHA-256:
+  - `9BDD1E7ECC819D40D01B14C140821288ACE7C6C67B824935B01C75780FD9736F`
+- local validation:
+  - readable on this machine with `pypdf`
+  - `100` pages confirmed locally
+
+### Render package and page-role basis
+
+- output:
+  - `ocr/C12/page-images/`
+  - `ocr/C12/metadata.json`
+  - `ocr/C12/page-map.csv`
+- render engine:
+  - `PyMuPDF`
+- render DPI:
+  - `150`
+- render format:
+  - `png`
+- classification:
+  - `C12-p001` to `C12-p094` = `body`
+  - `C12-p095` = `colophon`
+  - `C12-p096` to `C12-p099` = `advertising`
+  - `C12-p100` = `tail`
+- evidence note:
+  - `C12-p001` begins directly in active part 2 lecture commentary body
+  - `C12-p050` confirms continuing lecture body
+  - `C12-p095` is publication or colophon matter
+  - `C12-p096` to `C12-p099` are publisher catalogue or advertising matter
+  - `C12-p100` is rear wrapper or library-tail matter
+
+## C12 four-engine OCR compliance
+
+Date: 2026-04-21
+Witness: `C12`
+Source type: lecture commentary control PDF
+
+### RapidOCR
+
+- status: full pass completed after resume
+- output:
+  - `ocr/C12/ocr/rapidocr/`
+- summary:
+  - `ocr/C12/ocr/rapidocr/run-summary.json`
+- input basis:
+  - `ocr/C12/page-images/`
+- result:
+  - `100` pages processed
+  - `99` pages with text
+  - `1` page without text:
+    - `C12-p100`
+  - `0` errors
+- machine note:
+  - a previous interrupted run had already saved `C12-p001` to `C12-p013`
+  - the accepted full pass resumed from that saved state and completed `C12-p014` to `C12-p100`
+
+### Tesseract
+
+- status: full pass completed
+- environment:
+  - witness-local `chi_tra` model under `ocr/T1/tessdata/`
+- output:
+  - `ocr/C12/ocr/tesseract-full-pass/`
+- summary:
+  - `ocr/C12/ocr/tesseract-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C12/page-images/`
+- result:
+  - `100` pages processed
+  - `100` pages with text
+  - `0` pages without text
+  - `0` errors
+- warning note:
+  - several pages emitted the familiar tiny-fragment scale warnings while still producing text output
+
+### PaddleOCR PP-OCRv4
+
+- status: full pass completed
+- environment: Python `3.12`
+- configuration:
+  - `PaddleOCR(lang='ch', ocr_version='PP-OCRv4', device='cpu', enable_hpi=False, enable_mkldnn=False, cpu_threads=1)`
+- output:
+  - `ocr/C12/ocr/paddleocr-ppocrv4/`
+  - `ocr/C12/ocr/paddleocr-ppocrv4/extracted-text/`
+- summary:
+  - `ocr/C12/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- input basis:
+  - `ocr/C12/page-images/`
+- result:
+  - `100` pages processed
+  - `100` success pages
+  - `0` error pages
+  - `100` mirrored text files under `extracted-text/`
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C12-p057`
+  - the resumed closeout completed `C12-p058` to `C12-p100`
+  - the local Paddle stack emitted resized-image warnings without preventing saved outputs
+
+### EasyOCR
+
+- status: full pass completed
+- environment: Python `3.14`
+- languages:
+  - `ch_tra`
+  - `en`
+- output:
+  - `ocr/C12/ocr/easyocr-full-pass/`
+- summary:
+  - `ocr/C12/ocr/easyocr-full-pass/run-summary.json`
+- input basis:
+  - `ocr/C12/page-images/`
+- result:
+  - `100` pages processed
+  - `100` pages with text
+  - `0` no-text pages
+  - `0` errors
+- machine note:
+  - the first long run exceeded the shell timeout at a saved state through `C12-p037`
+  - the second long run exceeded the shell timeout at a saved state through `C12-p074`
+  - the final resume completed `C12-p075` to `C12-p100`
+  - CPU and `pin_memory` warnings were non-fatal
+
+### Compliance interpretation
+
+- `C12` now has a recorded status block for all four mandated engines
+- `C12` is now a real OCR-backed lecture commentary control witness rather than only an opened metadata record
+- `C12` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C12` is ready for bounded comparison use as the part 2 lecture commentary control witness
+
+## C13 witness opening render
+
+Date: 2026-04-21  
+Witness: `C13`  
+Stage: witness opening / page-image preparation  
+Engine: `PyMuPDF`
+
+- source:
+  - `Faith_in_Mind_NDL_Commentaries_More/NDL823371_tsuuzoku_xinxinming_kouwa_part1.pdf`
+- output:
+  - `provenance/faith-in-mind/ocr/C13/page-images/`
+  - `provenance/faith-in-mind/ocr/C13/metadata.json`
+  - `provenance/faith-in-mind/ocr/C13/page-map.csv`
+- result:
+  - `100` PDF pages rendered at `150` DPI
+  - `100` nonzero `C13-p*.png` page images present
+  - page-role pass complete
+- page-role summary:
+  - `C13-p001`: front wrapper or cover/title material
+  - `C13-p002`: mixed title plus opening body
+  - `C13-p003` to `C13-p100`: active `通俗信心銘講話` part 1 commentary body
+- machine note:
+  - the initial render shell timed out while the renderer continued, but the background process completed and the final page-image count is complete
+  - the local folder README has stale C13 byte and hash values; the package metadata follows the acquisition record and local verification
+
+### Compliance interpretation
+
+- `C13` is opened and ready for OCR compliance work
+- no OCR engine pass has been completed for `C13` yet
+- `C13` must not be used for comparison until `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` have all completed
+
+## C13 four-engine OCR compliance
+
+Date: 2026-04-22  
+Witness: `C13`  
+Stage: full OCR compliance  
+Input basis: `ocr/C13/page-images/`
+
+### RapidOCR
+
+- engine: `RapidOCR`
+- output:
+  - `ocr/C13/ocr/rapidocr/`
+  - `ocr/C13/ocr/rapidocr/run-summary.json`
+- result:
+  - `100` pages processed
+  - `100` pages with text
+  - `0` no-text pages
+  - `0` errors
+
+### Tesseract
+
+- engine: `tesseract`
+- output:
+  - `ocr/C13/ocr/tesseract-full-pass/`
+  - `ocr/C13/ocr/tesseract-full-pass/run-summary.json`
+- result:
+  - `100` pages processed
+  - `100` pages with text
+  - `0` no-text pages
+  - `0` errors
+  - `61` warning entries
+- machine note:
+  - the first long run hit the shell timeout after writing all text sidecars but before the final page was recorded in the summary
+  - the resumed closeout recorded `C13-p100`
+  - warnings are the familiar tiny-fragment scale warnings rather than witness-blocking failures
+
+### PaddleOCR PP-OCRv4
+
+- engine: `PaddleOCR`
+- OCR version: `PP-OCRv4`
+- output:
+  - `ocr/C13/ocr/paddleocr-ppocrv4/`
+  - `ocr/C13/ocr/paddleocr-ppocrv4/extracted-text/`
+  - `ocr/C13/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- result:
+  - `100` pages processed
+  - `100` success pages
+  - `0` error pages
+  - `100` extracted support text files
+- machine note:
+  - the first long run timed out after a saved state through `C13-p099`
+  - the resumed closeout completed `C13-p100`
+
+### EasyOCR
+
+- engine: `EasyOCR`
+- output:
+  - `ocr/C13/ocr/easyocr-full-pass/`
+  - `ocr/C13/ocr/easyocr-full-pass/run-summary.json`
+- result:
+  - `100` pages processed
+  - `100` pages with text
+  - `0` no-text pages
+  - `0` errors
+- machine note:
+  - the first long run timed out after writing through `C13-p092`
+  - the resumed tail pass completed `C13-p093` to `C13-p100`
+  - the final summary counter was reconciled against the saved text files because the first timeout landed after writing `C13-p092` but before incrementing the summary counter
+  - CPU and `pin_memory` warnings were non-fatal
+
+### Compliance interpretation
+
+- `C13` now has a recorded status block for all four mandated engines
+- `C13` is now a real OCR-backed commentary control witness rather than only an opened metadata record
+- `C13` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C13` is ready for bounded comparison use as the part 1 `通俗信心銘講話` commentary control witness

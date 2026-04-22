@@ -1,6 +1,6 @@
 # Current State: Faith in Mind
 
-Date: 2026-04-18
+Date: 2026-04-21
 Status: active
 Edition slug: `faith-in-mind`
 
@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `mid_project_forensic_provenance_reconstruction_consolidation_review`
+- Last completed phase: `ocr_compliance_slice_C13_four_engine_complete`
 
 ## What is already done
 
@@ -133,7 +133,29 @@ Edition slug: `faith-in-mind`
 - a full `tesseract` pass now exists for `C6` under `ocr/C6/ocr/tesseract-full-pass/`
 - a full `PaddleOCR PP-OCRv4` pass now exists for `C6` under `ocr/C6/ocr/paddleocr-ppocrv4/`
 - derived Paddle text support now exists for `C6` under `ocr/C6/ocr/paddleocr-ppocrv4/extracted-text/`
-- the first `EasyOCR` full-pass attempt on `C6` is on disk under `ocr/C6/ocr/easyocr-full-pass/`, but the saved outputs are not yet usable because the current witness-local saver left empty `.txt` files and hit NumPy scalar JSON-serialization failures on some pages
+- a repaired full `EasyOCR` pass now exists for `C6` under `ocr/C6/ocr/easyocr-full-pass/`
+- `C6` now has full recorded four-engine OCR compliance and is ready for bounded comparison use as a commentary control witness
+- a bounded `C6` commentary-control comparison slice now exists and confirms broad commentary-backed support for the recovered `T1` lemma spine across the `巻下` continuation of the `夜塘水` tradition, without exposing a new high-confidence repair locus
+- `C7` is now opened as the next Kyoto commentary-control witness with in-package metadata and a classified page map
+- `C7` page roles treat `C7-p001` to `C7-p003` as wrapper or title matter, `C7-p004` to `C7-p005` as prefatory or front matter, `C7-p006` to `C7-p043` as the main `信心銘拈提` commentary body, `C7-p044` as publication or colophon matter, and `C7-p045` to `C7-p046` as rear wrapper or tail matter
+- a full `RapidOCR` pass now exists for `C7` under `ocr/C7/ocr/rapidocr/`
+- a full `tesseract` pass now exists for `C7` under `ocr/C7/ocr/tesseract-full-pass/`
+- a full `PaddleOCR PP-OCRv4` pass now exists for `C7` under `ocr/C7/ocr/paddleocr-ppocrv4/`
+- derived Paddle text support now exists for `C7` under `ocr/C7/ocr/paddleocr-ppocrv4/extracted-text/`
+- a full `EasyOCR` pass now exists for `C7` under `ocr/C7/ocr/easyocr-full-pass/`
+- `C7` now has full recorded four-engine OCR compliance and is ready for bounded comparison use as a Kyoto commentary control witness
+- a bounded `C7` commentary-control comparison slice now exists and confirms broad Kyoto commentary-backed support for the recovered `T1` lemma spine and transmitted macro-sequence, without exposing a new high-confidence repair locus
+- `C8` is now opened as the next commentary-control witness with in-package metadata, rendered page images, and a classified page map
+- `C8` page roles treat `C8-p001` to `C8-p002` as title matter, `C8-p003` to `C8-p029` as the main `信心銘拈提 - 太祖弘徳円明国師` commentary body, `C8-p030` as a mixed closing page with explicit end marker plus publication matter, `C8-p031` as blank tail, and `C8-p032` to `C8-p033` as modern back matter or tail
+- a full `RapidOCR` pass now exists for `C8` under `ocr/C8/ocr/rapidocr/`
+- a full `tesseract` pass now exists for `C8` under `ocr/C8/ocr/tesseract-full-pass/`
+- a full `PaddleOCR PP-OCRv4` pass now exists for `C8` under `ocr/C8/ocr/paddleocr-ppocrv4/`
+- derived Paddle text support now exists for `C8` under `ocr/C8/ocr/paddleocr-ppocrv4/extracted-text/`
+- a full `EasyOCR` pass now exists for `C8` under `ocr/C8/ocr/easyocr-full-pass/`
+- `C8` now has full recorded four-engine OCR compliance and is ready for bounded comparison use as a commentary control witness
+- a bounded `C8` commentary-control comparison slice now exists and confirms broad NDL commentary-backed support for the recovered `T1` lemma spine and transmitted macro-sequence, without exposing a new high-confidence repair locus
+- `C9` is now opened as the next commentary-control witness with in-package metadata, rendered page images, and a classified page map
+- `C9` page roles treat `C9-p001` to `C9-p002` as title matter, `C9-p003` to `C9-p074` as the main `信心銘夜塘水 - 増冠傍註 巻上` commentary body, and `C9-p075` to `C9-p076` as tail or wrapper matter
 - the package has now adopted the six-log forensic provenance protocol as binding workflow law and the missing forensic log surfaces now exist under `process/`
 - the first bounded forensic-provenance reconstruction slice is now complete on the high-value contested `T1` loci
 - the second bounded forensic-provenance reconstruction slice is now complete on the stabilized `T1` poem band around `p022-p030` and `p060-p063`
@@ -143,11 +165,54 @@ Edition slug: `faith-in-mind`
 - the sixth bounded forensic-provenance reconstruction slice is now complete on the stabilized `T1` late band around `p061-p074`
 - the consolidation review now finds the reconstructed forensic coverage materially sufficient across the stabilized `T1` poem spine
 - the package now has a validation entrypoint at `scripts/validate_package.py`
+- a full `RapidOCR` pass now exists for `C9` under `ocr/C9/ocr/rapidocr/`
+- a full `tesseract` pass now exists for `C9` under `ocr/C9/ocr/tesseract-full-pass/`
+- a full `PaddleOCR PP-OCRv4` pass now exists for `C9` under `ocr/C9/ocr/paddleocr-ppocrv4/`
+- derived Paddle text support now exists for `C9` under `ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/`
+- a full `EasyOCR` pass now exists for `C9` under `ocr/C9/ocr/easyocr-full-pass/`
+- `C9` now has full recorded four-engine OCR compliance and is ready for bounded comparison use as a commentary control witness
+- a bounded `C9` commentary-control comparison slice now exists and confirms broad NDL commentary-backed support for the recovered `T1` lemma spine and transmitted macro-sequence, without exposing a new high-confidence repair locus
+- `C10` is now opened as the next commentary-control witness with in-package metadata, rendered page images, and a classified page map
+- `C10` page roles treat `C10-p001` to `C10-p002` as title matter, `C10-p003` to `C10-p062` as the main `信心銘夜塘水 - 増冠傍註 巻下` commentary body, `C10-p063` as terminal colophon or imprint matter, and `C10-p064` to `C10-p065` as blank or wrapper tail matter
+- a full `RapidOCR` pass now exists for `C10` under `ocr/C10/ocr/rapidocr/`
+- a full `tesseract` pass now exists for `C10` under `ocr/C10/ocr/tesseract-full-pass/`
+- a full `PaddleOCR PP-OCRv4` pass now exists for `C10` under `ocr/C10/ocr/paddleocr-ppocrv4/`
+- derived Paddle text support now exists for `C10` under `ocr/C10/ocr/paddleocr-ppocrv4/extracted-text/`
+- a full `EasyOCR` pass now exists for `C10` under `ocr/C10/ocr/easyocr-full-pass/`
+- `C10` now has full recorded four-engine OCR compliance and is ready for bounded comparison use as a commentary control witness
+- a bounded `C10` commentary-control comparison slice now exists and confirms broad NDL commentary-backed support for the recovered `T1` lemma spine and transmitted macro-sequence, without exposing a new high-confidence repair locus
+- `C11` is now opened as the next commentary-control witness with in-package metadata, rendered page images, and a classified page map
+- `C11` page roles treat `C11-p001` to `C11-p003` as cover, title, or prefatory matter and `C11-p004` to `C11-p100` as the active `信心銘夜塘水講義` lecture body within part 1
+- a full `RapidOCR` pass now exists for `C11` under `ocr/C11/ocr/rapidocr/`
+- a full `tesseract` pass now exists for `C11` under `ocr/C11/ocr/tesseract-full-pass/`; all `100` text sidecars are present, although the resumed summary undercounts at `99` pages with text because `C11-p060` was not re-entered into the summary array
+- a full `PaddleOCR PP-OCRv4` pass now exists for `C11` under `ocr/C11/ocr/paddleocr-ppocrv4/`
+- derived Paddle text support now exists for `C11` under `ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/`
+- a full `EasyOCR` pass now exists for `C11` under `ocr/C11/ocr/easyocr-full-pass/`
+- `C11` now has full recorded four-engine OCR compliance and is ready for bounded comparison use as a lecture commentary control witness
+- a bounded `C11` lecture-commentary-control comparison slice now exists and confirms broad opening and central-sequence support for the recovered `T1` lemma spine without exposing a new high-confidence repair locus
+- `C11` is part 1 of a lecture pair and is not being used for a complete terminal-close judgment; the queue now moves to `C12`
+- `C12` is now opened as the next lecture commentary control witness with in-package metadata, rendered page images, and a classified page map
+- `C12` page roles treat `C12-p001` to `C12-p094` as active `信心銘夜塘水講義` part 2 lecture body, `C12-p095` as publication or colophon matter, `C12-p096` to `C12-p099` as publisher catalogue or advertising matter, and `C12-p100` as rear wrapper or library-tail matter
+- a full resumed `RapidOCR` pass now exists for `C12` under `ocr/C12/ocr/rapidocr/`
+- a full `tesseract` pass now exists for `C12` under `ocr/C12/ocr/tesseract-full-pass/`
+- a full resumed `PaddleOCR PP-OCRv4` pass now exists for `C12` under `ocr/C12/ocr/paddleocr-ppocrv4/`
+- derived Paddle text support now exists for `C12` under `ocr/C12/ocr/paddleocr-ppocrv4/extracted-text/`
+- a full resumed `EasyOCR` pass now exists for `C12` under `ocr/C12/ocr/easyocr-full-pass/`
+- `C12` now has full recorded four-engine OCR compliance and is ready for bounded comparison use as the part 2 lecture commentary control witness
+- a bounded `C12` lecture-commentary-control comparison slice now exists and confirms broad central, late, and terminal-close support for the recovered `T1` lemma spine without exposing a new high-confidence repair locus or accepted `T1` text change
+- `C13` is now opened as the next commentary control witness with in-package metadata, rendered page images, and a classified page map
+- `C13` page roles treat `C13-p001` as front wrapper or cover/title material, `C13-p002` as mixed title plus opening body, and `C13-p003` to `C13-p100` as active `通俗信心銘講話` part 1 commentary body
+- a full `RapidOCR` pass now exists for `C13` under `ocr/C13/ocr/rapidocr/`
+- a full resumed `tesseract` pass now exists for `C13` under `ocr/C13/ocr/tesseract-full-pass/`
+- a full resumed `PaddleOCR PP-OCRv4` pass now exists for `C13` under `ocr/C13/ocr/paddleocr-ppocrv4/`
+- derived Paddle text support now exists for `C13` under `ocr/C13/ocr/paddleocr-ppocrv4/extracted-text/`
+- a full resumed `EasyOCR` pass now exists for `C13` under `ocr/C13/ocr/easyocr-full-pass/`
+- `C13` now has full recorded four-engine OCR compliance and is ready for bounded comparison use as the part 1 `通俗信心銘講話` commentary control witness
 - the package now has a witness-page coverage audit for the active non-blank `T1` span at `scripts/audit_witness_page_coverage.py`
 
 ## Next action
 
-Repair and rerun the `C6` `EasyOCR` full pass with normalized JSON serialization so `C6` reaches true four-engine compliance under the fully adopted protocol.
+Complete the first bounded `C13` commentary-control comparison slice against the recovered `T1` lemma spine, using direct image review and the saved four-engine OCR stack as support.
 
 Use:
 
@@ -182,11 +247,12 @@ Use:
 
 Produce next:
 
-- extend the `T1` step-`0` translation baseline from the seeded contested loci to the remaining stabilized poem spine
-- continue reconstructing `ocr-consensus-log.md` outward from the seeded `T1` opening and closing loci
-- add further recoverable rejected readings if more superseded or rolled-back loci can be reconstructed honestly
-- extend `translation-reasoning-log.md` and `character-provenance-log.md` beyond the initial contested loci
-- keep `current-state.md`, `process-log.md`, `human-log.md`, `decision-log.md`, `process.json`, and `timeline.json` aligned before any `C6` comparison or OCR work
+- inspect representative `C13` body leaves by direct image review before relying on OCR text
+- use the saved `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` outputs only as support for the direct-image comparison
+- complete a bounded `C13` commentary-control comparison slice against the recovered `T1` lemma spine
+- do not create a `T1` text change unless C13 exposes a new high-confidence repair locus corroborated by the existing direct-witness record
+- do not create translation diffs unless the accepted `T1` edition text changes
+- keep `current-state.md`, `process-log.md`, `human-log.md`, `process.json`, `timeline.json`, `ocr-run-log.md`, and any collation notes aligned after the `C13` comparison slice
 - rerun `python scripts/validate_package.py` before any XML or publication handoff
 
 Do not start a fresh witness hunt.
@@ -230,6 +296,10 @@ Do not reopen copy-text selection unless new locus-specific evidence appears.
 `C5` has now also completed its full `PaddleOCR PP-OCRv4` pass.
 `C5` has now also completed its full `EasyOCR` pass.
 `C5` has now also completed its first bounded commentary-control comparison slice.
+`C6` through `C10` have each completed witness opening, four-engine OCR compliance, and first bounded commentary-control comparison.
+`C11` has now completed its witness-opening slice, four-engine OCR-compliance slice, and first bounded lecture-commentary-control comparison slice.
+`C12` has now completed its witness-opening slice, four-engine OCR-compliance slice, and first bounded lecture-commentary-control comparison slice.
+`C13` has now completed its witness-opening slice and four-engine OCR-compliance slice.
 the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or rollback exceptions (`T1-p012`, `T1-p016`, `T1-p020`, `T1-p023`, `T1-p075`) rather than unresolved poem-baseline failures
 
 ## Known blockers and cautions

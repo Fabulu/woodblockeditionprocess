@@ -406,3 +406,242 @@ Scope: compare representative `C5` commentary-body surfaces against the current 
 - `T4` remains the decisive repair witness used so far.
 - `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, `C3`, `C4`, and now `C5` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C5` remain commentary controls rather than direct repair witnesses.
 - The next full-pass witness target is `C6`.
+
+## `C6` commentary-control confirmation slice
+
+Date: 2026-04-19
+Status: bounded commentary-control comparison completed
+Scope: compare representative `C6` commentary-body surfaces against the current `T1` recovered lemma spine after `C6` reached full four-engine compliance
+
+### Method note
+
+- `C6` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and repaired `EasyOCR` status block was recorded.
+- `C6` is a long commentary-control witness and the natural `巻下` continuation of the same `冠註信心銘夜塘水` tradition represented by `C5`, so this first slice is representative rather than a leaf-by-leaf closure of `C6-p002` to `C6-p058`.
+- Direct page review shows that `C6-p001` is a mixed title-plus-opening spread, `C6-p002` carries the active opening commentary body keyed to recognizable poem lemmata, representative mid-body leaves such as `C6-p030` continue commentary keyed to the transmitted poem sequence, `C6-p058` remains active late commentary body, and `C6-p059` is a mixed terminal body-plus-colophon spread.
+- Evidence basis: direct image review plus four-engine OCR support on the rendered page-image basis.
+- Evidence strength: moderate for broad commentary-backed confirmation of the recovered `T1` lemma spine and transmitted macro-sequence; low for any attempt to force new exact character repairs from `C6` alone.
+
+### Representative confirmations from `C6`
+
+| C6 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| mixed opening on `C6-p001` and first stable commentary body on `C6-p002` | opening recovered `T1` lemma spine from `T1-p007.l01` forward | broadly confirmed | `C6` opens as explicit `冠註信心銘夜塘水` `巻下` commentary and continues to carry recognizable opening and early-body lemmata inside exposition rather than a rival opening branch |
+| representative commentary body such as `C6-p030` | recovered mid-band `T1` lemma spine at inspected loci | broadly confirmed | the witness remains commentary-heavy but continues to track recognizable poem lemmata in order, which supports the recovered `T1` spine without exposing a cleaner repair surface than `T4` |
+| late commentary body on `C6-p058` and mixed terminal spread on `C6-p059` | recovered later body and terminal macro-sequence | broadly confirmed at the volume level | `C6` preserves the later transmitted sequence through the end of this commentary volume and does not suggest a rival branch; the terminal spread functions mainly as volume-end evidence rather than as a cleaner direct close witness than the shorter controls |
+
+### New loci exposed by `C6`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C6` currently behaves as a commentary control witness, not as a decisive repair witness.
+- Its value in this first slice is broad commentary-backed confirmation across the `巻下` continuation of the `夜塘水` tradition, not supplying a cleaner exact Chinese reading than the earlier `T4`-driven repairs.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C6` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C6` remain commentary controls rather than direct repair witnesses.
+- The next full-pass witness target is `C7`.
+
+## `C7` commentary-control confirmation slice
+
+Date: 2026-04-19
+Status: bounded commentary-control comparison completed
+Scope: compare representative `C7` commentary-body surfaces against the current `T1` recovered lemma spine after `C7` reached full four-engine compliance
+
+### Method note
+
+- `C7` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C7` is a Kyoto commentary-control witness rather than a short direct poem witness, so this first slice is representative rather than a leaf-by-leaf closure of `C7-p006` to `C7-p043`.
+- Direct page review already shows wrapper or title matter on `C7-p001` to `C7-p003`, front matter on `C7-p004` to `C7-p005`, the main commentary body beginning on `C7-p006`, representative body confirmation on leaves such as `C7-p010`, continued later-body support on `C7-p042` to `C7-p043`, and publication tail beginning on `C7-p044`.
+- Evidence basis: direct image review plus four-engine OCR support on the direct Kyoto image basis.
+- Evidence strength: moderate for broad commentary-backed confirmation of the recovered `T1` lemma spine and transmitted macro-sequence; low for any attempt to force new exact character repairs from `C7` alone.
+
+### Representative confirmations from `C7`
+
+| C7 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| opening commentary body on `C7-p006` | opening recovered `T1` lemma spine from `T1-p007.l01` forward | broadly confirmed | `C7` opens as a commentary witness keyed to recognizable opening lemmata rather than a rival opening branch |
+| representative commentary body such as `C7-p010` | recovered early and mid-band `T1` lemma spine at inspected loci | broadly confirmed | the witness remains commentary-heavy but continues to track recognizable poem lemmata in order, supporting the recovered `T1` spine without offering a cleaner repair surface than `T4` |
+| late commentary body on `C7-p042` to `C7-p043` before publication matter begins on `C7-p044` | recovered later body and terminal macro-sequence | broadly confirmed at the volume level | `C7` preserves the later transmitted sequence through the end of its commentary body and does not suggest a rival branch or fresh repair pressure beyond the already resolved `T4`-supported set |
+
+### New loci exposed by `C7`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C7` currently behaves as a commentary control witness, not as a decisive repair witness.
+- Its value in this first slice is broad Kyoto commentary-backed confirmation of the recovered spine and transmitted macro-sequence, not supplying a cleaner exact Chinese reading than the earlier `T4`-driven repairs.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C7` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C7` remain commentary controls rather than direct repair witnesses.
+- The next full-pass witness target is `C8`.
+
+## `C8` commentary-control confirmation slice
+
+Date: 2026-04-19
+Status: bounded commentary-control comparison completed
+Scope: compare representative `C8` commentary-body surfaces against the current `T1` recovered lemma spine after `C8` reached full four-engine compliance
+
+### Method note
+
+- `C8` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C8` is an NDL commentary-control witness rather than a short direct poem witness, so this first slice is representative rather than a leaf-by-leaf closure of `C8-p003` to `C8-p029`.
+- Direct page review already shows title matter on `C8-p001` to `C8-p002`, the main commentary body beginning on `C8-p003`, stable representative body support on leaves such as `C8-p004`, later-body support on `C8-p029`, and a mixed explicit closing page on `C8-p030` with `信心銘拈提終` plus publication matter.
+- Evidence basis: direct image review plus four-engine OCR support on the rendered page-image basis.
+- Evidence strength: moderate for broad commentary-backed confirmation of the recovered `T1` lemma spine and transmitted macro-sequence; low for any attempt to force new exact character repairs from `C8` alone.
+
+### Representative confirmations from `C8`
+
+| C8 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| opening commentary body on `C8-p003` | opening recovered `T1` lemma spine from `T1-p007.l01` forward | broadly confirmed | `C8` opens as a commentary witness keyed to recognizable opening lemmata rather than a rival opening branch |
+| representative commentary body such as `C8-p004` and the continuing body run through the middle leaves | recovered early and mid-band `T1` lemma spine at inspected loci | broadly confirmed | the witness remains commentary-heavy but continues to track recognizable poem lemmata in order, supporting the recovered `T1` spine without offering a cleaner repair surface than `T4` |
+| later-body support on `C8-p029` and mixed explicit close on `C8-p030` | recovered later body and terminal macro-sequence | broadly confirmed | `C8-p030` explicitly marks `信心銘拈提終` while still carrying the closing commentary frame, which supports the transmitted end structure without introducing a rival branch or fresh repair pressure |
+
+### New loci exposed by `C8`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C8` currently behaves as a commentary control witness, not as a decisive repair witness.
+- Its value in this first slice is broad NDL commentary-backed confirmation of the recovered spine and transmitted macro-sequence, not supplying a cleaner exact Chinese reading than the earlier `T4`-driven repairs.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C8` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C8` remain commentary controls rather than direct repair witnesses.
+- The next full-pass witness target is `C9`.
+
+## `C9` commentary-control confirmation slice
+
+Date: 2026-04-19
+Status: bounded commentary-control comparison completed
+Scope: compare representative `C9` commentary-body surfaces against the current `T1` recovered lemma spine after `C9` reached full four-engine compliance
+
+### Method note
+
+- `C9` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C9` is a long NDL commentary-control witness rather than a short direct poem witness, so this first slice is representative rather than a leaf-by-leaf closure of `C9-p003` to `C9-p074`.
+- Direct page review already shows title matter on `C9-p001` to `C9-p002`, the main commentary body beginning on `C9-p003`, representative mid-body support on leaves such as `C9-p020` and `C9-p040`, later-body support on `C9-p074`, and tail or wrapper matter on `C9-p075` to `C9-p076`.
+- Evidence basis: direct image review plus four-engine OCR support on the rendered page-image basis.
+- Evidence strength: moderate for broad commentary-backed confirmation of the recovered `T1` lemma spine and transmitted macro-sequence; low for any attempt to force new exact character repairs from `C9` alone.
+
+### Representative confirmations from `C9`
+
+| C9 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| opening commentary body on `C9-p003` | opening recovered `T1` lemma spine from `T1-p007.l01` forward | broadly confirmed | `C9` opens as a commentary witness keyed to recognizable opening lemmata rather than a rival opening branch |
+| representative commentary body such as `C9-p020` and `C9-p040` | recovered early and mid-band `T1` lemma spine at inspected loci | broadly confirmed | the witness remains commentary-heavy but continues to track recognizable poem lemmata in order, supporting the recovered `T1` spine without offering a cleaner repair surface than `T4` |
+| later-body support on `C9-p074` before tail or wrapper matter on `C9-p075` to `C9-p076` | recovered later body and terminal macro-sequence | broadly confirmed at the volume level | `C9` preserves the transmitted later sequence through the end of its commentary body and does not suggest a rival branch or fresh repair pressure beyond the already resolved `T4`-supported set |
+
+### New loci exposed by `C9`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C9` currently behaves as a commentary control witness, not as a decisive repair witness.
+- Its value in this first slice is broad NDL commentary-backed confirmation of the recovered spine and transmitted macro-sequence, not supplying a cleaner exact Chinese reading than the earlier `T4`-driven repairs.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C9` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C9` remain commentary controls rather than direct repair witnesses.
+- The next full-pass witness target is `C10`.
+
+## `C10` commentary-control confirmation slice
+
+Date: 2026-04-20
+Status: bounded commentary-control comparison completed
+Scope: compare representative `C10` commentary-body surfaces against the current `T1` recovered lemma spine after `C10` reached full four-engine compliance
+
+### Method note
+
+- `C10` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C10` is a long NDL commentary-control witness rather than a short direct poem witness, so this first slice is representative rather than a leaf-by-leaf closure of `C10-p003` to `C10-p062`.
+- Direct page review already shows title matter on `C10-p001` to `C10-p002`, the main `巻下` commentary body beginning on `C10-p003`, representative mid-body support on leaves such as `C10-p020` and `C10-p040`, later-body support on `C10-p062`, and terminal colophon or imprint matter on `C10-p063` before blank or wrapper tail matter on `C10-p064` to `C10-p065`.
+- Evidence basis: direct image review plus four-engine OCR support on the rendered page-image basis.
+- Evidence strength: moderate for broad commentary-backed confirmation of the recovered `T1` lemma spine and transmitted macro-sequence; low for any attempt to force new exact character repairs from `C10` alone.
+
+### Representative confirmations from `C10`
+
+| C10 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| opening commentary body on `C10-p003` | opening recovered `T1` lemma spine from `T1-p007.l01` forward | broadly confirmed | `C10` opens as a `巻下` commentary witness keyed to recognizable opening lemmata rather than a rival opening branch |
+| representative commentary body such as `C10-p020` and `C10-p040` | recovered early and mid-band `T1` lemma spine at inspected loci | broadly confirmed | the witness remains commentary-heavy but continues to track recognizable poem lemmata in order, supporting the recovered `T1` spine without offering a cleaner repair surface than `T4` |
+| later-body support on `C10-p062` before terminal colophon or imprint matter on `C10-p063` | recovered later body and terminal macro-sequence | broadly confirmed at the volume level | `C10` preserves the transmitted later sequence through the end of its commentary body and does not suggest a rival branch or fresh repair pressure beyond the already resolved `T4`-supported set |
+
+### New loci exposed by `C10`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C10` currently behaves as a commentary control witness, not as a decisive repair witness.
+- Its value in this first slice is broad NDL commentary-backed confirmation of the recovered spine and transmitted macro-sequence, not supplying a cleaner exact Chinese reading than the earlier `T4`-driven repairs.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C10` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C10` remain commentary controls rather than direct repair witnesses.
+- The next full-pass witness target is `C11`.
+
+## `C11` lecture-commentary-control confirmation slice
+
+Date: 2026-04-21
+Status: bounded lecture-commentary-control comparison completed
+Scope: compare representative `C11` lecture-body surfaces against the current `T1` recovered lemma spine after `C11` reached full four-engine compliance
+
+### Method note
+
+- `C11` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C11` is part 1 of a long lecture witness (`信心銘夜塘水講義`), not a short direct poem witness, so this first slice is representative and part-volume bounded rather than a full terminal-text collation.
+- Direct page review shows prefatory/title matter on `C11-p001` to `C11-p003`, active lecture commentary beginning on `C11-p004`, opening-lemma discussion surfacing around `C11-p018` to `C11-p021`, and the central `一心不生 / 萬法` discussion around `C11-p072` to `C11-p074`.
+- Evidence basis: direct image review plus four-engine OCR support, with the usable anchor layer coming mainly from `PaddleOCR PP-OCRv4` derived text because the other engines are substantially noisier on this lecture witness.
+- Evidence strength: moderate for broad lecture-backed confirmation of opening and central recovered `T1` lemma sequence; low for forcing exact new character repairs or terminal-branch judgments from `C11` part 1 alone.
+
+### Representative confirmations from `C11`
+
+| C11 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| opening lecture body and lemma discussion around `C11-p018` to `C11-p021` | opening recovered `T1` lemma spine from `T1-p007.l01` through the early `但莫憎愛 / 洞然明白` band | broadly confirmed | OCR anchors include recognizably corrupted but usable `至道...`, `但莫增爱`, and `洞然明白`; direct image review confirms these pages are part of the lecture discussion rather than unrelated tail matter |
+| continuing lecture body through representative mid-volume pages | recovered early-to-middle `T1` lemma spine at inspected loci | broadly confirmed at witness-role level | `C11` is commentary/lecture-heavy and does not provide a clean substitute transcription surface, but it remains keyed to the same transmitted poem sequence |
+| central lecture discussion around `C11-p072` to `C11-p074` | `T1-p032` sequence and the `一心不生萬法無咎` band | broadly confirmed | Paddle-derived text gives repeated anchors for `一心不生`, `萬法`, and near forms of `萬法無咎`; this supports the already repaired `T1-p032` region but does not independently improve the reading |
+
+### New loci exposed by `C11`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C11` currently behaves as a lecture commentary control witness, not as a decisive repair witness.
+- Because `C11` is part 1 of a lecture pair, it is not used here for a complete terminal-close judgment; that role should wait for `C12` if the continuation reaches the relevant closing band.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C11` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C11` remain commentary or lecture controls rather than direct repair witnesses.
+- The next full-pass witness target is `C12`.
+
+## `C12` lecture-commentary-control confirmation slice
+
+Date: 2026-04-21
+Status: bounded lecture-commentary-control comparison completed
+Scope: compare representative `C12` lecture-body surfaces against the current `T1` recovered lemma spine after `C12` reached full four-engine compliance
+
+### Method note
+
+- `C12` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C12` is part 2 of the long lecture witness (`信心銘夜塘水講義`), not a short direct poem witness, so this slice is a lecture-commentary control comparison rather than a clean alternate transcription.
+- Direct page review confirms a central one-mind/all-dharmas discussion around `C12-p024`, the late/close branch around `C12-p073`, continued terminal-close discussion around `C12-p077`, and repeated terminal `信心不二 / 不二信心` surfaces around `C12-p079` to `C12-p081`.
+- Evidence basis: direct image review plus four-engine OCR support, with the usable anchor layer coming mainly from `PaddleOCR PP-OCRv4` derived text because the other engines are substantially noisier on this lecture witness.
+- Evidence strength: moderate for broad lecture-backed confirmation of the terminal macro-sequence and the already supplied close locus; low for forcing exact new character repairs or overriding direct `T1` page judgments from `C12` alone.
+
+### Representative confirmations from `C12`
+
+| C12 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| central lecture discussion around `C12-p024` | `T1-p032` sequence and the `一心不生萬法無咎` band | broadly confirmed | OCR anchors and direct image review show repeated one-mind/all-dharmas discussion; this supports the already repaired central band but does not independently improve the reading |
+| late branch around `C12-p073` | standard omitted-line problem around `T1-p075` to `T1-p076` | branch support only | direct image review supports the lecture tradition's `若不如是` and `必不須守` branch, but `C12` remains a lecture-control witness and does not overturn the direct `T1` rollback judgment at `T1-p075` |
+| terminal close discussion around `C12-p077` to `C12-p078` | supplied `T1-p077.l01a` close line `但能如是何慮不畢` | broadly confirmed | OCR anchors include the `但能如是` area and direct image review confirms the terminal discussion context; this strengthens the already supplied `T4`-backed close rather than creating a new independent correction |
+| repeated terminal surfaces around `C12-p079` to `C12-p081` | `T1-p078.l01` and `T1-p079.l01` close sequence | broadly confirmed | direct image review and OCR search locate `信心不二` / `不二信心` surfaces and the terminal discussion sequence; no rival close branch or fresh repair pressure appears |
+
+### New loci exposed by `C12`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C12` strengthens external lecture-tradition support for the standard omitted close branch and for the already supplied terminal locus, but it does not create an accepted `T1` text change.
+- `C12` currently behaves as a lecture commentary control witness, not as a decisive repair witness.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C12` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C12` remain commentary or lecture controls rather than direct repair witnesses.
+- The next witness-opening target is `C13`.

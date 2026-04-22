@@ -1,0 +1,605 @@
+{
+  "engine": "Tesseract",
+  "witness_id": "C11",
+  "input_dir": "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\C11\\page-images",
+  "tesseract_exe": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "lang": "chi_tra",
+  "psm": 6,
+  "tessdata_prefix": "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\T1\\tessdata",
+  "pages_total": 100,
+  "pages_with_text": 99,
+  "pages_without_text": [],
+  "errors": [],
+  "warnings": [
+    {
+      "page_id": "C11-p002",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p003",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p007",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p009",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p016",
+      "stderr": "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p018",
+      "stderr": "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p019",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p020",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p029",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p031",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p032",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p041",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p046",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p048",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p054",
+      "stderr": "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p055",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p059",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p071",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p088",
+      "stderr": "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p096",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p097",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p098",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C11-p100",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "C11-p001",
+      "text_length": 4277,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p002",
+      "text_length": 884,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p003",
+      "text_length": 844,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p004",
+      "text_length": 1317,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p005",
+      "text_length": 1856,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p006",
+      "text_length": 1618,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p007",
+      "text_length": 1397,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p008",
+      "text_length": 1401,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p009",
+      "text_length": 1802,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p010",
+      "text_length": 2055,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p011",
+      "text_length": 1996,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p012",
+      "text_length": 1784,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p013",
+      "text_length": 1956,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p014",
+      "text_length": 2038,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p015",
+      "text_length": 1838,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p016",
+      "text_length": 1784,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p017",
+      "text_length": 1684,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p018",
+      "text_length": 2053,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p019",
+      "text_length": 2070,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p020",
+      "text_length": 2048,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p021",
+      "text_length": 1850,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p022",
+      "text_length": 1310,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p023",
+      "text_length": 1746,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p024",
+      "text_length": 1823,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p025",
+      "text_length": 1784,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p026",
+      "text_length": 1506,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p027",
+      "text_length": 1885,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p028",
+      "text_length": 1627,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p029",
+      "text_length": 1566,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p030",
+      "text_length": 1248,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p031",
+      "text_length": 1779,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p032",
+      "text_length": 1525,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p033",
+      "text_length": 1782,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p034",
+      "text_length": 1802,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p035",
+      "text_length": 1859,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p036",
+      "text_length": 1947,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p037",
+      "text_length": 1730,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p038",
+      "text_length": 1777,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p039",
+      "text_length": 1680,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p040",
+      "text_length": 2619,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p041",
+      "text_length": 2396,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p042",
+      "text_length": 1489,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p043",
+      "text_length": 1112,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p044",
+      "text_length": 1234,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p045",
+      "text_length": 1917,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p046",
+      "text_length": 1215,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p047",
+      "text_length": 1355,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p048",
+      "text_length": 1824,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p049",
+      "text_length": 1907,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p050",
+      "text_length": 1489,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p051",
+      "text_length": 1290,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p052",
+      "text_length": 1989,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p053",
+      "text_length": 1532,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p054",
+      "text_length": 1745,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p055",
+      "text_length": 1658,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p056",
+      "text_length": 1792,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p057",
+      "text_length": 2282,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p058",
+      "text_length": 2379,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p059",
+      "text_length": 1924,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p061",
+      "text_length": 1751,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p062",
+      "text_length": 2017,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p063",
+      "text_length": 1898,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p064",
+      "text_length": 1716,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p065",
+      "text_length": 1985,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p066",
+      "text_length": 1464,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p067",
+      "text_length": 1602,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p068",
+      "text_length": 1858,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p069",
+      "text_length": 1585,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p070",
+      "text_length": 1419,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p071",
+      "text_length": 1478,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p072",
+      "text_length": 1484,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p073",
+      "text_length": 1512,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p074",
+      "text_length": 2199,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p075",
+      "text_length": 1651,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p076",
+      "text_length": 2136,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p077",
+      "text_length": 2250,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p078",
+      "text_length": 1728,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p079",
+      "text_length": 1565,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p080",
+      "text_length": 1176,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p081",
+      "text_length": 1514,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p082",
+      "text_length": 1435,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p083",
+      "text_length": 2562,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p084",
+      "text_length": 2004,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p085",
+      "text_length": 1389,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p086",
+      "text_length": 1249,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p087",
+      "text_length": 2774,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p088",
+      "text_length": 1545,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p089",
+      "text_length": 2368,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p090",
+      "text_length": 1882,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p091",
+      "text_length": 1682,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p092",
+      "text_length": 1914,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p093",
+      "text_length": 1917,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p094",
+      "text_length": 1144,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p095",
+      "text_length": 1505,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p096",
+      "text_length": 1493,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p097",
+      "text_length": 1713,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p098",
+      "text_length": 1510,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p099",
+      "text_length": 1379,
+      "returncode": 0
+    },
+    {
+      "page_id": "C11-p100",
+      "text_length": 1113,
+      "returncode": 0
+    }
+  ],
+  "resumed": true
+}

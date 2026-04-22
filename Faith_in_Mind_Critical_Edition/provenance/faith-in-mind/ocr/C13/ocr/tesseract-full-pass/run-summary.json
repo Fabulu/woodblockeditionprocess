@@ -1,0 +1,762 @@
+{
+  "engine": "Tesseract",
+  "witness_id": "C13",
+  "input_dir": "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\C13\\page-images",
+  "tesseract_exe": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "lang": "chi_tra",
+  "psm": 6,
+  "tessdata_prefix": "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\T1\\tessdata",
+  "pages_total": 100,
+  "pages_with_text": 100,
+  "pages_without_text": [],
+  "errors": [],
+  "warnings": [
+    {
+      "page_id": "C13-p003",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p005",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p007",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p008",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p009",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p011",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p014",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p015",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p016",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p017",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p021",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p026",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p027",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p028",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p029",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p031",
+      "stderr": "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p032",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p035",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p036",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p037",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p038",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p040",
+      "stderr": "Image too small to scale!! (1x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p041",
+      "stderr": "Image too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p042",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p043",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p045",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p046",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p047",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p052",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p053",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p054",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p055",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p058",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p060",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p061",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p063",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p065",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p066",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p067",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p069",
+      "stderr": "Image too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p070",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p071",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p073",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p074",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p076",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p077",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p078",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p079",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p082",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p083",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p084",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p085",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p089",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p090",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p091",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p092",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p094",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p095",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p096",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p097",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C13-p099",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "C13-p001",
+      "text_length": 2485,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p002",
+      "text_length": 13149,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p003",
+      "text_length": 1482,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p004",
+      "text_length": 1168,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p005",
+      "text_length": 1548,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p006",
+      "text_length": 2349,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p007",
+      "text_length": 1494,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p008",
+      "text_length": 1699,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p009",
+      "text_length": 1383,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p010",
+      "text_length": 1626,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p011",
+      "text_length": 1529,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p012",
+      "text_length": 1677,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p013",
+      "text_length": 1990,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p014",
+      "text_length": 1485,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p015",
+      "text_length": 1563,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p016",
+      "text_length": 1584,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p017",
+      "text_length": 1278,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p018",
+      "text_length": 1670,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p019",
+      "text_length": 1415,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p020",
+      "text_length": 1587,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p021",
+      "text_length": 2072,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p022",
+      "text_length": 1570,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p023",
+      "text_length": 1566,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p024",
+      "text_length": 1671,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p025",
+      "text_length": 2165,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p026",
+      "text_length": 1061,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p027",
+      "text_length": 2165,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p028",
+      "text_length": 1025,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p029",
+      "text_length": 1385,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p030",
+      "text_length": 1484,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p031",
+      "text_length": 1294,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p032",
+      "text_length": 1278,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p033",
+      "text_length": 1399,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p034",
+      "text_length": 1556,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p035",
+      "text_length": 1445,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p036",
+      "text_length": 1885,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p037",
+      "text_length": 1595,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p038",
+      "text_length": 1487,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p039",
+      "text_length": 1402,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p040",
+      "text_length": 1422,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p041",
+      "text_length": 976,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p042",
+      "text_length": 2254,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p043",
+      "text_length": 1680,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p044",
+      "text_length": 1987,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p045",
+      "text_length": 1820,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p046",
+      "text_length": 1796,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p047",
+      "text_length": 1559,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p048",
+      "text_length": 1406,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p049",
+      "text_length": 1192,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p050",
+      "text_length": 1668,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p051",
+      "text_length": 1377,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p052",
+      "text_length": 1418,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p053",
+      "text_length": 1298,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p054",
+      "text_length": 1572,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p055",
+      "text_length": 1416,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p056",
+      "text_length": 1160,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p057",
+      "text_length": 1481,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p058",
+      "text_length": 1371,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p059",
+      "text_length": 1107,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p060",
+      "text_length": 1759,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p061",
+      "text_length": 1512,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p062",
+      "text_length": 1329,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p063",
+      "text_length": 2024,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p064",
+      "text_length": 1680,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p065",
+      "text_length": 1529,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p066",
+      "text_length": 2372,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p067",
+      "text_length": 2081,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p068",
+      "text_length": 1895,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p069",
+      "text_length": 1199,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p070",
+      "text_length": 1453,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p071",
+      "text_length": 1537,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p072",
+      "text_length": 1810,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p073",
+      "text_length": 2183,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p074",
+      "text_length": 1183,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p075",
+      "text_length": 2129,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p076",
+      "text_length": 1860,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p077",
+      "text_length": 2299,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p078",
+      "text_length": 2242,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p079",
+      "text_length": 1642,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p080",
+      "text_length": 2330,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p081",
+      "text_length": 1811,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p082",
+      "text_length": 1732,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p083",
+      "text_length": 1252,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p084",
+      "text_length": 857,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p085",
+      "text_length": 1747,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p086",
+      "text_length": 2010,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p087",
+      "text_length": 1391,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p088",
+      "text_length": 1873,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p089",
+      "text_length": 2089,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p090",
+      "text_length": 2333,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p091",
+      "text_length": 2283,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p092",
+      "text_length": 2054,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p093",
+      "text_length": 2383,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p094",
+      "text_length": 2371,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p095",
+      "text_length": 1762,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p096",
+      "text_length": 2242,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p097",
+      "text_length": 1998,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p098",
+      "text_length": 2359,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p099",
+      "text_length": 1501,
+      "returncode": 0
+    },
+    {
+      "page_id": "C13-p100",
+      "text_length": 1201,
+      "returncode": 0
+    }
+  ],
+  "resumed": true
+}
