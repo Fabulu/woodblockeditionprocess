@@ -1,105 +1,83 @@
 # Woodblock Edition Process
 
-This repo is for producing rigorous critical editions of Zen texts from free witnesses, with scans first and plain text only as a fallback.
+This repo contains **125 witness folders** covering major Chinese Chan/Zen Buddhist texts, with source scans, OCR outputs, collation data, and documented editorial workflows. It feeds the [OpenZen](https://github.com/Fabulu/OpenZenTexts) freely-licensed corpus and the [Read Zen](https://github.com/Fabulu/ReadZen) desktop + web reading environment.
 
-The goal is not just to collect source files. The goal is to produce a documented edition workflow that can feed ReadZen / OpenZen with:
+The goal is not just to collect source files. The goal is to produce documented critical editions with:
 
-- trusted witness attribution
-- OCR-first transcription evidence
-- logged editorial decisions
-- apparatus and notes
-- machine-readable process data
+- trusted witness attribution and provenance chains
+- OCR-first transcription evidence (scans before plain text)
+- logged editorial decisions (human, agent, and hybrid)
+- apparatus and variant readings
+- machine-readable process data for downstream tooling
 
-## Guided Mode
+## Current Scale
 
-If you want the guided mode, start with:
+- **125 witness folders** — woodblock scans, library digitizations, and vetted free-text witnesses
+- **25 workflow documents** — protocols, specs, briefs, and process logs
+- Sources from NDL, NLC, CADAL, Kyoto University, Korea National Library, Harvard-Yenching, Waseda, Wikisource, and others
+- Multi-witness coverage tracking for major works (Wumenguan: 5 witnesses, Biyanlu: 2, Congrong Lu: 1)
 
-- `CRITICAL_EDITION_GUIDED_WORKFLOW.md`
+## Quick Start: Make a Critical Edition
 
-That is the file to point an agent at when you want to say:
+Point an agent at the guided workflow:
 
-`Make a critical edition of XXX`
+```
+Make a critical edition of {FolderName}.
+Follow CRITICAL_EDITION_GUIDED_WORKFLOW.md and ask me how many witnesses
+to find before locking the witness set.
+```
 
-In guided mode, the agent should:
+In guided mode, the agent will:
+1. Ask how many witnesses to find before locking the witness set
+2. Help define the scope of the edition
+3. Find and classify witnesses
+4. Prompt for editorial decisions
+5. Carry the work through provenance, OCR, collation, apparatus, and packaging
 
-1. ask how many witnesses to try to find before locking the witness set
-2. help define the scope of the edition
-3. find and classify witnesses
-4. prompt for the decisions needed to continue
-5. carry the work through provenance, OCR, collation, apparatus, and packaging
+## Core Documents
 
-## Core Files
+| Document | Purpose |
+|----------|---------|
+| `CRITICAL_EDITION_GUIDED_WORKFLOW.md` | Agent-facing guided workflow (start here) |
+| `CRITICAL_EDITION_ENTRYPOINT.md` | Human-facing overview and entry point |
+| `CRITICAL_EDITION_RECORDING_MATRIX.md` | What to record at each stage |
+| `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md` | Full system specification |
+| `WORKFLOW.md` | Step-by-step edition process |
+| `REPO_INTAKE_PIPELINE.md` | How finished editions flow into OpenZenTexts |
+| `TRANSCRIPTION_METHOD.md` | OCR and transcription standards |
+| `STANDARD_TRANSCRIPTION_WORKFLOW.md` | Standard operating procedure for transcription |
+| `EDITION_AGENT_MASTER_INSTRUCTIONS.md` | Master instructions for edition agents |
+| `EDITION_FORENSIC_PROVENANCE_PROTOCOL.md` | Provenance verification protocol |
+| `EDITION_TRANSLATION_DIFF_PROTOCOL.md` | Translation comparison protocol |
+| `ZEN_TEXT_WORKLIST.md` | Acquisition tracking for all target texts |
+| `SOURCES.md` | Library and digital collection source list |
 
-Read these first:
+## Work Families
 
-1. `README.md`
-2. `CRITICAL_EDITION_GUIDED_WORKFLOW.md`
-3. `CRITICAL_EDITION_RECORDING_MATRIX.md`
-4. `CRITICAL_EDITION_ENTRYPOINT.md`
-5. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
-6. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
-7. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
-8. `WORKFLOW.md`
-9. `REPO_INTAKE_PIPELINE.md`
-10. `TRANSCRIPTION_METHOD.md`
-11. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
+Active edition projects with multiple witnesses and collation in progress:
 
-## Repo Rule
+| Text | Witnesses | Status | Key Files |
+|------|-----------|--------|-----------|
+| Wumenguan (無門關) | 5 | Strong coverage | `WUMENGUAN_NOTE.md` |
+| Faith in Mind (信心銘) | Multiple | Collation in progress | `FAITH_IN_MIND_WITNESSES.md`, `FAITH_IN_MIND_STEMMA.md` |
+| Blue Cliff Record (碧巖錄) | 2 | Seeking 3rd witness | Multiple witness folders |
+| Book of Serenity (從容錄) | 1 | Seeking 2nd witness | Multiple witness folders |
 
-This repo must be usable on its own.
+## Downstream Integration
 
-Critical workflow files should live here, not only in another local checkout.
+Finished editions flow into:
+- **[OpenZenTexts](https://github.com/Fabulu/OpenZenTexts)** — freely-licensed TEI XML with apparatus, provenance manifests, and witness delivery registry
+- **[Read Zen](https://github.com/Fabulu/ReadZen)** — desktop app with witness comparison viewer, critical edition time-travel, and provenance browser
+- **[readzen.pages.dev](https://readzen.pages.dev)** — web reader for the published texts
 
-OpenZenTexts and the reader code are still relevant implementation targets, but this repo should contain the workflow and planning documents needed to run the edition process without depending on local absolute paths in the basic instructions.
+## Repo Rules
 
-## Shared Path Rule
+**Self-contained**: This repo must be usable on its own. All workflow documents live here, not in external checkouts.
 
-Shared markdown in this repo must not use:
+**No absolute paths**: Use repo-relative paths (`FAITH_IN_MIND_WITNESSES.md`) or repo-name-relative paths (`OpenZenTexts/xml-open/pd/wumenguan-1632/manifest.json`).
 
-- local absolute paths like `C:\...`
-- renderer-only absolute links
+**Attribution**: Each witness README records the stable source page, direct download path, rights basis, and enough metadata to relocate the witness if links die.
 
-Use instead:
+**Large files**: When a witness PDF fails validation, compare hashes across repeated downloads before assuming the witness is bad. Browser downloads may succeed where CLI tools fail.
 
-- repo-relative paths like `FAITH_IN_MIND_WITNESSES.md`
-- repo-name-relative paths when another repo is involved, such as `OpenZenTexts/xml-open/pd/wumenguan-1632/manifest.json`
-- normal web URLs for online sources
-
-## Attribution Rule
-
-Each witness README should record:
-
-- the stable source page
-- the best direct download path we know
-- the rights basis
-- enough metadata to relocate the witness if a direct link dies
-
-## Large-File Rule
-
-When a large witness PDF fails validation:
-
-- compare hashes across repeated downloads
-- do not assume the witness itself is bad until you know whether the bytes are stable
-- if command-line download keeps producing bad or inconsistent files, use the exact direct URL in a browser, then hash and validate the browser-downloaded copy
-
-## Edition Rule
-
-Every intervention must be logged, including agent decisions, not just human ones.
-
-Actor types:
-
-- `agent`
-- `human`
-- `hybrid`
-
-## Current Example Families
-
-Useful work-family anchors already in this repo:
-
-- `FAITH_IN_MIND_WITNESSES.md`
-- `FAITH_IN_MIND_STEMMA.md`
-- `WUMENGUAN_NOTE.md`
-
-## Launch Sentence
-
-`Make a critical edition of {FolderName}. Follow CRITICAL_EDITION_GUIDED_WORKFLOW.md and ask me how many witnesses to find before locking the witness set.`
+**Logging**: Every intervention must be logged, including agent decisions. Actor types: `agent`, `human`, `hybrid`.
