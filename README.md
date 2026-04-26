@@ -1,6 +1,6 @@
 # Woodblock Edition Process
 
-This repo contains **125 witness folders** covering major Chinese Chan/Zen Buddhist texts, with source scans, OCR outputs, collation data, and documented editorial workflows. It feeds the [OpenZen](https://github.com/Fabulu/OpenZenTexts) freely-licensed corpus and the [Read Zen](https://github.com/Fabulu/ReadZen) desktop + web reading environment.
+This repo contains **125 witness folders** covering major Chinese Chan/Zen texts, with source scans, OCR outputs, collation data, and documented editorial workflows. It feeds the [OpenZen](https://github.com/Fabulu/OpenZenTexts) freely-licensed corpus and the [Read Zen](https://github.com/Fabulu/ReadZen) desktop + web reading environment.
 
 The goal is not just to collect source files. The goal is to produce documented critical editions with:
 
