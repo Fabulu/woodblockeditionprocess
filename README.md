@@ -1,38 +1,77 @@
 # Woodblock Edition Process
 
-This repo contains **125 witness folders** covering major Chinese Chan/Zen texts, with source scans, OCR outputs, collation data, and documented editorial workflows. It feeds the [OpenZen](https://github.com/Fabulu/OpenZenTexts) freely-licensed corpus and the [Read Zen](https://github.com/Fabulu/ReadZen) desktop + web reading environment.
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-The goal is not just to collect source files. The goal is to produce documented critical editions with:
+A documented critical edition pipeline for Chinese Chan/Zen texts — from woodblock scan to provenance-verified, freely-licensed TEI XML. This repo contains **126 witness folders** across **50+ text families**, sourced from institutional digital archives worldwide.
 
-- trusted witness attribution and provenance chains
-- OCR-first transcription evidence (scans before plain text)
-- logged editorial decisions (human, agent, and hybrid)
-- apparatus and variant readings
-- machine-readable process data for downstream tooling
+Finished editions flow into [OpenZen](https://github.com/Fabulu/OpenZenTexts) and are readable in [Read Zen](https://github.com/Fabulu/ReadZen) (desktop) and [readzen.pages.dev](https://readzen.pages.dev) (web).
 
-## Current Scale
+## Active Editions
 
-- **125 witness folders** — woodblock scans, library digitizations, and vetted free-text witnesses
+### Wumenguan 無門關 (Gateless Barrier) — Published
+
+The 1632 NDL woodblock reading edition is complete and published:
+
+- **Primary witness**: NDL 12865429 (1632 woodblock, Wikimedia Commons, PD-old, ~188MB scan)
+- **Secondary witness**: Waseda 1752 printing (WUL-bunko31_e1102) for cross-verification
+- **Tertiary witness**: NDL Wumen Huikai Recorded Sayings (NDL2537788) for voice corroboration
+- **Edition**: TEI XML with aligned line identifiers, CC0 1.0 license, no CBETA material
+- **Published at**: [OpenZenTexts/xml-open/pd/wumenguan-1632](https://github.com/Fabulu/OpenZenTexts/tree/main/xml-open/pd/wumenguan-1632)
+- **Read it**: [readzen.pages.dev/pd.wumenguan-1632](https://readzen.pages.dev/pd.wumenguan-1632)
+
+Total witness coverage: **13 witnesses** from NDL, Waseda, Korea National Library, and Wikisource, spanning editions from 1632 to 1882.
+
+### Faith in Mind 信心銘 (Xinxin Ming) — In Progress
+
+A multi-witness critical edition with apparatus, currently in witness-freeze and scaffold phase:
+
+- **30 locked witness items** across 4 families:
+  - Standalone 三祖大師信心銘 texts
+  - Four 四部録 anthology witnesses (Kyoto 1629 + 1631 printings, NDL, Waseda)
+  - 四部録抄 derivative branch (2 witnesses)
+  - 入衆日用 branch
+- **17 commentary/translation controls** for editorial context
+- **5 secondary source-tradition controls** (景徳伝燈録 variants, supplementary anthologies)
+- Sources: Kyoto University RMDA, NDL, Waseda, Korea Commons
+- Status: witness metadata locked, pending OCR and segmentation
+- Key files: `FAITH_IN_MIND_WITNESSES.md`, `FAITH_IN_MIND_STEMMA.md`
+
+## Scale
+
+- **126 witness folders** — woodblock scans, library digitizations, and vetted free-text witnesses
+- **50+ text families** — classical Chan/Zen compositions (500–1500 CE)
 - **25 workflow documents** — protocols, specs, briefs, and process logs
-- Sources from NDL, NLC, CADAL, Kyoto University, Korea National Library, Harvard-Yenching, Waseda, Wikisource, and others
-- Multi-witness coverage tracking for major works (Wumenguan: 5 witnesses, Biyanlu: 2, Congrong Lu: 1)
+- Sources: NDL, NLC, CADAL, Kyoto University, Korea National Library, Harvard-Yenching, Waseda, Wikisource
 
-## Quick Start: Make a Critical Edition
+### Most-witnessed texts
 
-Point an agent at the guided workflow:
+| Text | Chinese | Witnesses | Status |
+|------|---------|-----------|--------|
+| Faith in Mind | 信心銘 | 30 (across families) | Scaffold phase |
+| Wumenguan | 無門關 | 13 | Published (1632 edition) |
+| Blue Cliff Record | 碧巖錄 | 5 | Seeking additional witnesses |
+| Jingde Lamp Record | 景德傳燈錄 | 5 | Witness collection |
+| Book of Serenity | 從容錄 | 4 | Seeking additional witnesses |
+| Linji Record | 臨濟錄 | 4 | Witness collection |
+| Huangbo texts | 黃檗 | 3 | Witness collection |
+
+## The Edition Pipeline
+
+```
+Witness acquisition → Rights verification → OCR / transcription
+    → Segmentation → Collation → Apparatus → TEI packaging
+        → Provenance manifest → OpenZen intake → Read Zen
+```
+
+Every intervention is logged with actor type (`human`, `agent`, `hybrid`). The pipeline is designed for agent-assisted work: point a coding agent at the guided workflow and it will walk through the process step by step.
+
+### Quick start
 
 ```
 Make a critical edition of {FolderName}.
 Follow CRITICAL_EDITION_GUIDED_WORKFLOW.md and ask me how many witnesses
 to find before locking the witness set.
 ```
-
-In guided mode, the agent will:
-1. Ask how many witnesses to find before locking the witness set
-2. Help define the scope of the edition
-3. Find and classify witnesses
-4. Prompt for editorial decisions
-5. Carry the work through provenance, OCR, collation, apparatus, and packaging
 
 ## Core Documents
 
@@ -45,39 +84,24 @@ In guided mode, the agent will:
 | `WORKFLOW.md` | Step-by-step edition process |
 | `REPO_INTAKE_PIPELINE.md` | How finished editions flow into OpenZenTexts |
 | `TRANSCRIPTION_METHOD.md` | OCR and transcription standards |
-| `STANDARD_TRANSCRIPTION_WORKFLOW.md` | Standard operating procedure for transcription |
+| `STANDARD_TRANSCRIPTION_WORKFLOW.md` | Standard operating procedure |
 | `EDITION_AGENT_MASTER_INSTRUCTIONS.md` | Master instructions for edition agents |
 | `EDITION_FORENSIC_PROVENANCE_PROTOCOL.md` | Provenance verification protocol |
-| `EDITION_TRANSLATION_DIFF_PROTOCOL.md` | Translation comparison protocol |
 | `ZEN_TEXT_WORKLIST.md` | Acquisition tracking for all target texts |
 | `SOURCES.md` | Library and digital collection source list |
 
-## Work Families
+## Downstream
 
-Active edition projects with multiple witnesses and collation in progress:
-
-| Text | Witnesses | Status | Key Files |
-|------|-----------|--------|-----------|
-| Wumenguan (無門關) | 5 | Strong coverage | `WUMENGUAN_NOTE.md` |
-| Faith in Mind (信心銘) | Multiple | Collation in progress | `FAITH_IN_MIND_WITNESSES.md`, `FAITH_IN_MIND_STEMMA.md` |
-| Blue Cliff Record (碧巖錄) | 2 | Seeking 3rd witness | Multiple witness folders |
-| Book of Serenity (從容錄) | 1 | Seeking 2nd witness | Multiple witness folders |
-
-## Downstream Integration
-
-Finished editions flow into:
-- **[OpenZenTexts](https://github.com/Fabulu/OpenZenTexts)** — freely-licensed TEI XML with apparatus, provenance manifests, and witness delivery registry
-- **[Read Zen](https://github.com/Fabulu/ReadZen)** — desktop app with witness comparison viewer, critical edition time-travel, and provenance browser
-- **[readzen.pages.dev](https://readzen.pages.dev)** — web reader for the published texts
+| Destination | What it receives |
+|-------------|-----------------|
+| [OpenZenTexts](https://github.com/Fabulu/OpenZenTexts) | TEI XML with apparatus, provenance manifests, witness delivery registry |
+| [Read Zen desktop](https://github.com/Fabulu/ReadZen) | Witness comparison viewer, critical edition time-travel, provenance browser |
+| [readzen.pages.dev](https://readzen.pages.dev) | Web reader for published editions |
 
 ## Repo Rules
 
-**Self-contained**: This repo must be usable on its own. All workflow documents live here, not in external checkouts.
-
-**No absolute paths**: Use repo-relative paths (`FAITH_IN_MIND_WITNESSES.md`) or repo-name-relative paths (`OpenZenTexts/xml-open/pd/wumenguan-1632/manifest.json`).
-
-**Attribution**: Each witness README records the stable source page, direct download path, rights basis, and enough metadata to relocate the witness if links die.
-
-**Large files**: When a witness PDF fails validation, compare hashes across repeated downloads before assuming the witness is bad. Browser downloads may succeed where CLI tools fail.
-
-**Logging**: Every intervention must be logged, including agent decisions. Actor types: `agent`, `human`, `hybrid`.
+- **Self-contained** — all workflow documents live here, not in external checkouts
+- **No absolute paths** — use repo-relative paths or repo-name-relative paths
+- **Attribution** — each witness README records source page, download path, rights basis, and relocatability metadata
+- **Logging** — every intervention logged with actor type (`agent`, `human`, `hybrid`)
+- **Rights-first** — all witnesses vetted for open/commercial compatibility; unclear-rights material excluded
