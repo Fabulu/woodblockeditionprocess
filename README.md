@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A documented critical edition pipeline for Chinese Chan/Zen texts — from woodblock scan to provenance-verified, freely-licensed TEI XML. This repo contains **126 witness folders** across **50+ text families**, sourced from institutional digital archives worldwide.
+A documented critical edition pipeline for Chinese Zen texts — from woodblock scan to provenance-verified, freely-licensed TEI XML. This repo contains **126 witness folders** across **50+ text families**, sourced from institutional digital archives worldwide.
 
 Finished editions flow into [OpenZen](https://github.com/Fabulu/OpenZenTexts) and are readable in [Read Zen](https://github.com/Fabulu/ReadZen) (desktop) and [readzen.pages.dev](https://readzen.pages.dev) (web).
 
@@ -39,7 +39,7 @@ A multi-witness critical edition with apparatus, currently in witness-freeze and
 ## Scale
 
 - **126 witness folders** — woodblock scans, library digitizations, and vetted free-text witnesses
-- **50+ text families** — classical Chan/Zen compositions (500–1500 CE)
+- **50+ text families** — classical Zen compositions (500–1500 CE)
 - **25 workflow documents** — protocols, specs, briefs, and process logs
 - Sources: NDL, NLC, CADAL, Kyoto University, Korea National Library, Harvard-Yenching, Waseda, Wikisource
 
