@@ -8716,6 +8716,45 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p031_l03_state_sync_without_text_change",
         "last_text_changed_event": "FIM-244"
       }
+    },
+    {
+      "id": "FIM-246",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Recovered T1-p030.l03 and T1-p014.l08 from exact local-column rechecks",
+      "summary": "Exact single-column image review of T1-p030.l03 and T1-p014.l08, checked against convergent local Paddle support and bounded C5/C9 phrase control where needed, secured T1-p030.l03 = 不見時何不見吾不見之處又作生 and T1-p014.l08 = 在物錯認之裏祇管喚作無心境界; the live residue now narrows to T1-p030.l08, T1-p029.l02, T1-p029.l06, T1-p011.l04, and T1-p012.l02.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p014.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/T1-p030.json",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/T1-p014.json",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p014.txt",
+        "provenance/faith-in-mind/ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/C9-p047.txt",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p047.txt",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p024.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_reassess_p030_l08_and_p029_residue_then_return_to_p011_p012_holdouts",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_exact_column_recovery_p030_l03_p014_l08",
+        "last_text_changed_event": "FIM-246"
+      }
     }
   ]
 }
