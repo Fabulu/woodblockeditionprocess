@@ -590,3 +590,11 @@ Faith in Mind adoption rule:
 | `T1-p036.l09` | 10 | `界` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l09` | 13 | `過` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l09` | 17 | `聖` | `image inspection` | `moderate` | `T1` |
+| `T1-p033.l04` | 1 | `掬` | `image inspection` | `moderate` | `T1` |
+| `T1-p033.l04` | 7 | `香` | `cross-witness` | `moderate` | `C5/C9` |
+| `T1-p033.l06` | 1 | `秖` | `image inspection` | `moderate` | `T1` |
+| `T1-p033.l06` | 4 | `舊` | `cross-witness` | `moderate` | `C5/C9` |
+| `T1-p033.l06` | 11 | `麼` | `image inspection` | `moderate` | `T1` |
+| `T1-p033.l06` | 15 | `今` | `cross-witness` | `moderate` | `C5/C9` |
+| `T1-p033.l09` | 1 | `心` | `image inspection` | `moderate` | `T1` |
+| `T1-p033.l09` | 6 | `咎` | `cross-witness` | `moderate` | `C5/C9` |
