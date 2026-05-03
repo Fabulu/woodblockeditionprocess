@@ -1,0 +1,39 @@
+Continue the Faith in Mind critical-edition workflow from the current package state and do not stop after a single page or slice unless you hit a real blocker.
+
+Operating requirements:
+- Work inside C:\woodblocks\Faith_in_Mind_Critical_Edition.
+- Read all state and gate files needed to resume safely before making changes.
+- At minimum, load and follow:
+  - provenance/faith-in-mind/process/current-state.md
+  - provenance/faith-in-mind/process/human-log.md
+  - provenance/faith-in-mind/process/process-log.md
+  - provenance/faith-in-mind/process/correction-log.md
+  - provenance/faith-in-mind/process/ocr-consensus-log.md
+  - provenance/faith-in-mind/process/translation-diff-log.md
+  - provenance/faith-in-mind/process/unresolved-loci.md
+  - provenance/faith-in-mind/process/CONTINUATION_GATE.md
+  - provenance/faith-in-mind/process/STATUS_REPORT_GATE.md
+  - provenance/faith-in-mind/process/OCR_STOP_GATE.md
+  - xml-open/ce/faith-in-mind/process.json
+  - xml-open/ce/faith-in-mind/timeline.json
+- Inspect any additional provenance, OCR, witness, transcription, or page-image files required to continue correctly.
+
+Execution policy:
+- Continue through the next required correction/comparison work and keep rolling forward slice by slice.
+- Do not stop just because one page or one locus was finished.
+- Only stop when one of these is true:
+  - the active remaining page/locus queue is actually exhausted,
+  - a gate file requires stopping,
+  - package validation fails and you cannot repair it safely,
+  - you hit a genuine blocker that needs user input or missing external evidence.
+
+Safety and persistence:
+- Validate the package at sensible checkpoints.
+- Keep provenance/state files synchronized with text changes.
+- If a batch succeeds, make a commit before moving on to the next meaningful batch.
+- If a batch fails or causes regression, revert only your own failed batch and continue from the last good state.
+- Do not overwrite or revert unrelated user changes.
+
+Finish condition:
+- If you are not blocked, keep going.
+- If you eventually stop, the final message must say exactly why you stopped and what remains, if anything.
