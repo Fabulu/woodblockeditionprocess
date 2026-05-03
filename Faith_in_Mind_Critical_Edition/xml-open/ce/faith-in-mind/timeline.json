@@ -8219,6 +8219,40 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p036_final_remap_and_page_closeout",
         "last_text_changed_event": "FIM-231"
       }
+    },
+    {
+      "id": "FIM-232",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Returned to the earliest unresolved holdout and secured the T1-p032 doctrinal catalogue column",
+      "summary": "Direct image review of T1-p032, checked against both saved T1 OCR support surfaces, secured T1-p032.l05 = 大事一法界一路涅槃門一乘方便法一音.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p032.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p032.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p032.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p032.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_resume_at_p033_residue",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p032_l05_doctrinal_catalogue_recovery",
+        "last_text_changed_event": "FIM-232"
+      }
     }
   ]
 }

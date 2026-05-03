@@ -571,6 +571,10 @@ Faith in Mind adoption rule:
 | `T1-p036.l05` | 1 | `一` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l05` | 7 | `萬` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l05` | 8 | `象` | `image inspection` | `moderate` | `T1` |
+| `T1-p032.l05` | 1 | `大` | `image inspection` | `moderate` | `T1` |
+| `T1-p032.l05` | 5 | `界` | `image inspection` | `moderate` | `T1` |
+| `T1-p032.l05` | 9 | `槃` | `image inspection` | `moderate` | `T1` |
+| `T1-p032.l05` | 12 | `乘` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l06` | 1 | `譬` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l06` | 5 | `鏡` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l06` | 6 | `波` | `image inspection` | `moderate` | `T1` |
