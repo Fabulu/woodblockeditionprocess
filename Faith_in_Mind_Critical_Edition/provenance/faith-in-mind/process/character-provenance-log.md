@@ -604,3 +604,7 @@ Faith in Mind adoption rule:
 | `T1-p033.l07` | 8 | `茶` | `image inspection` | `moderate` | `T1` |
 | `T1-p033.l07` | 11 | `遊` | `cross-witness` | `moderate` | `C5/C9` |
 | `T1-p033.l07` | 15 | `便` | `cross-witness` | `moderate` | `C5/C9` |
+| `T1-p034.l02` | 1 | `空` | `image inspection` | `moderate` | `T1` |
+| `T1-p034.l02` | 6 | `寂` | `cross-witness` | `moderate` | `C5` |
+| `T1-p034.l02` | 12 | `隨` | `image inspection` | `moderate` | `T1` |
+| `T1-p034.l02` | 14 | `滅` | `image inspection` | `moderate` | `T1` |

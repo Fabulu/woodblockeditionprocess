@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_p033_l07_daily_activity_recovery",
+      "slug": "manual_correction_slice_T1_second_pass_p034_l02_empty_realm_column_recovery",
       "witnesses": [
         "T1",
         "T4",
@@ -107,18 +107,16 @@
         "../../../provenance/faith-in-mind/process/current-state.md",
         "../../../provenance/faith-in-mind/process/human-log.md",
         "../../../provenance/faith-in-mind/process/process-log.md",
-        "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p033.png",
-        "../../../provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p033.txt",
-        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p033.txt",
-        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p033.txt",
-        "../../../provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p052.txt",
-        "../../../provenance/faith-in-mind/ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/C9-p052.txt",
-        "../../../provenance/faith-in-mind/ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/C9-p053.txt"
+        "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p034.png",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p034.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p034.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p034.txt",
+        "../../../provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p054.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_p033_l07_daily_activity_recovery",
-      "last_text_changed_event": "FIM-234",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_continue_p033_remaining_l03_l05_then_reassess_p034"
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_p034_l02_empty_realm_column_recovery",
+      "last_text_changed_event": "FIM-235",
+      "next_required_slice": "manual_correction_slice_T1_second_pass_continue_p034_remaining_l03_l05_l06"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -130,6 +128,6 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The first end-to-end commentary continuation has already closed at T1-p083, and the second pass remains active from the earliest unresolved prose. The current second-pass recoveries now include T1-p007.l07, T1-p008.l08, T1-p011.l01, T1-p011.l02, T1-p011.l03, T1-p011.l05, T1-p011.l06, T1-p011.l08, T1-p012.l01, T1-p012.l03, T1-p012.l04, T1-p012.l05, T1-p012.l06, T1-p012.l07, T1-p012.l08, T1-p012.l09, T1-p012.l10, T1-p014.l07, T1-p015.l04, T1-p015.l06, T1-p016.l04, T1-p016.l05, T1-p016.l06, T1-p016.l08, T1-p017.l05, T1-p017.l06, T1-p018.l01, T1-p018.l08, T1-p018.l09, T1-p019.l03, T1-p020.l03, T1-p021.l03, T1-p021.l04, T1-p021.l05, T1-p021.l09, T1-p022.l02, T1-p022.l03, T1-p022.l04, T1-p022.l05, T1-p022.l06, T1-p022.l07, T1-p023.l01, T1-p023.l02, T1-p023.l04, T1-p023.l05, T1-p023.l06, T1-p023.l10, T1-p023.l11, T1-p024.l02, T1-p024.l03, T1-p024.l06, T1-p024.l07, T1-p024.l08, T1-p024.l09, T1-p025.l02, T1-p025.l03, T1-p025.l04, T1-p025.l05, T1-p026.l06, T1-p026.l09, T1-p026.l10, T1-p027.l07, T1-p027.l09, T1-p028.l04, T1-p028.l06, T1-p028.l09, T1-p029.l03, T1-p029.l04, T1-p029.l05, T1-p029.l07, T1-p029.l08, T1-p029.l09, T1-p029.l10, T1-p030.l04, T1-p030.l07, T1-p030.l09, T1-p031.l01, T1-p031.l05, T1-p032.l02, T1-p032.l03, T1-p032.l04, T1-p032.l05, T1-p032.l06, T1-p032.l07, T1-p032.l08, T1-p032.l09, T1-p033.l04, T1-p033.l06, T1-p033.l07, T1-p033.l08, T1-p033.l09, T1-p034.l04, T1-p034.l07, T1-p034.l08, T1-p035.l02, T1-p035.l03, T1-p035.l04, T1-p035.l05, T1-p035.l06, T1-p035.l07, T1-p035.l08, T1-p035.l10, and all of T1-p036.l01 through l09. The remaining unresolved T1-p007 loci are l03, l04, l08, l09, and l12, T1-p011.l04 still remains below threshold, T1-p012.l02 still remains unresolved, T1-p014.l08 still remains below threshold, and the immediate next ready slice is to continue the earliest unresolved second-pass residue on T1-p033, beginning with the remaining l03/l05 columns before reassessing the still-ready T1-p034 residue."
+    "next_required_action": "The first end-to-end commentary continuation has already closed at T1-p083, and the second pass remains active from the earliest unresolved prose. The current second-pass recoveries now include T1-p007.l07, T1-p008.l08, T1-p011.l01, T1-p011.l02, T1-p011.l03, T1-p011.l05, T1-p011.l06, T1-p011.l08, T1-p012.l01, T1-p012.l03, T1-p012.l04, T1-p012.l05, T1-p012.l06, T1-p012.l07, T1-p012.l08, T1-p012.l09, T1-p012.l10, T1-p014.l07, T1-p015.l04, T1-p015.l06, T1-p016.l04, T1-p016.l05, T1-p016.l06, T1-p016.l08, T1-p017.l05, T1-p017.l06, T1-p018.l01, T1-p018.l08, T1-p018.l09, T1-p019.l03, T1-p020.l03, T1-p021.l03, T1-p021.l04, T1-p021.l05, T1-p021.l09, T1-p022.l02, T1-p022.l03, T1-p022.l04, T1-p022.l05, T1-p022.l06, T1-p022.l07, T1-p023.l01, T1-p023.l02, T1-p023.l04, T1-p023.l05, T1-p023.l06, T1-p023.l10, T1-p023.l11, T1-p024.l02, T1-p024.l03, T1-p024.l06, T1-p024.l07, T1-p024.l08, T1-p024.l09, T1-p025.l02, T1-p025.l03, T1-p025.l04, T1-p025.l05, T1-p026.l06, T1-p026.l09, T1-p026.l10, T1-p027.l07, T1-p027.l09, T1-p028.l04, T1-p028.l06, T1-p028.l09, T1-p029.l03, T1-p029.l04, T1-p029.l05, T1-p029.l07, T1-p029.l08, T1-p029.l09, T1-p029.l10, T1-p030.l04, T1-p030.l07, T1-p030.l09, T1-p031.l01, T1-p031.l05, T1-p032.l02, T1-p032.l03, T1-p032.l04, T1-p032.l05, T1-p032.l06, T1-p032.l07, T1-p032.l08, T1-p032.l09, T1-p033.l04, T1-p033.l06, T1-p033.l07, T1-p033.l08, T1-p033.l09, T1-p034.l02, T1-p034.l04, T1-p034.l07, T1-p034.l08, T1-p035.l02, T1-p035.l03, T1-p035.l04, T1-p035.l05, T1-p035.l06, T1-p035.l07, T1-p035.l08, T1-p035.l10, and all of T1-p036.l01 through l09. The remaining unresolved T1-p007 loci are l03, l04, l08, l09, and l12, T1-p011.l04 still remains below threshold, T1-p012.l02 still remains unresolved, T1-p014.l08 still remains below threshold, and the immediate next ready slice is to continue the still-ready T1-p034 residue, beginning with the remaining l03/l05/l06 columns before later rechecking the weaker T1-p033 holdouts."
   }
 }
