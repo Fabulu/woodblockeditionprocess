@@ -8401,6 +8401,42 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p034_l06_third_patriarch_exposure_column_recovery",
         "last_text_changed_event": "FIM-236"
       }
+    },
+    {
+      "id": "FIM-237",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Stayed on T1-p034 and secured the dark-accord peach-blossom column",
+      "summary": "Enlarged direct image review of T1-p034, checked against convergent local OCR support and partial C5 phrase corroboration, secured T1-p034.l03 = 理智冥符人牛不見直得桃花零落盡何處.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p034.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p034.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p034.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p034.txt",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p054.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_test_p034_remaining_l05_then_recheck_p033_and_p035_holdouts",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p034_l03_dark_accord_peach_blossom_column_recovery",
+        "last_text_changed_event": "FIM-237"
+      }
     }
   ]
 }

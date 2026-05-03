@@ -1,6 +1,6 @@
 ﻿# Current State: Faith in Mind
 
-Date: 2026-05-02
+Date: 2026-05-03
 Status: active
 Edition slug: `faith-in-mind`
 
@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_p036_inner_and_right_column_recovery`
+- Last completed phase: `manual_correction_slice_T1_second_pass_p034_l03_dark_accord_peach_blossom_column_recovery`
 
 ## What is already done
 
@@ -405,6 +405,7 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `T1-p033.l04 = 掬水月在手弄花香滿衣`, `T1-p033.l06 = 秖是舊時行履處作麼生是即今行履處`, and `T1-p033.l09 = 心不生萬法無咎` are now also secured from direct image review plus convergent local OCR support and bounded `C5/C9` corroboration where needed.
 - `T1-p033.l07 = 過著衣喫飯地煎茶東遊西大小便` is now also secured from direct image review plus bounded `C5/C9` corroboration.
 - `T1-p034.l02 = 空境無相而心寂故得能隨境滅境逐能沉` is now also secured from direct image review plus convergent local OCR support and bounded `C5` corroboration.
+- `T1-p034.l03 = 理智冥符人牛不見直得桃花零落盡何處` is now also secured from enlarged direct image review plus convergent local OCR support and partial `C5` phrase corroboration.
 - `T1-p034.l06 = 直得三祖大師無隱身之地諸人者還知` is now also secured from direct image review plus bounded `C5/C9` corroboration.
-- the main live holdouts immediately around this point are the still-open `T1-p033.l03` and `l05` columns; the remaining `T1-p034.l03` and `l05` residue; and the surviving short-fragment problem at `T1-p035.l09`.
-- the next required bounded slice is to continue the still-ready `T1-p034` residue, starting with the remaining `理智冥符 / 桃花零落` and `一穿却一提 / 八面玲瓏` bands before later rechecking the weaker `T1-p033` holdouts.
+- the main live holdouts immediately around this point are the still-open `T1-p033.l03` and `l05` columns, the remaining `T1-p034.l05` `一穿却一提 / 八面玲瓏` residue, and the surviving short-fragment problem at `T1-p035.l09`.
+- the next required bounded slice is to test the remaining `T1-p034.l05` band again on the current in-package basis before later rechecking the weaker `T1-p033.l03`, `T1-p033.l05`, and `T1-p035.l09` holdouts.

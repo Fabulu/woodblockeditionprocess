@@ -611,3 +611,6 @@ Faith in Mind adoption rule:
 | `T1-p034.l06` | 7 | `隱` | `image inspection` | `moderate` | `T1` |
 | `T1-p034.l06` | 11 | `諸` | `cross-witness` | `moderate` | `C5/C9` |
 | `T1-p034.l06` | 14 | `還` | `cross-witness` | `moderate` | `C5/C9` |
+| `T1-p034.l03` | 3 | `冥` | `image inspection` | `moderate` | `T1` |
+| `T1-p034.l03` | 13 | `零` | `image inspection` | `moderate` | `T1` |
+| `T1-p034.l03` | 15 | `盡` | `image inspection` | `moderate` | `T1` |
