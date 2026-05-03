@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_p031_l08_ox_head_tiger_head_taunt_recovery`
+- Last completed phase: `manual_correction_slice_T1_second_pass_p030_l05_leftward_moon_over_sea_recovery`
 
 ## What is already done
 
@@ -412,6 +412,7 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `T1-p031.l02 = 師云你共誰說一切空有一切動靜一切得` is now also secured from direct image review plus convergent local OCR support.
 - `T1-p031.l07 = 成瞎漢還有不受酸餡飯底麼` is now also secured from direct image review plus bounded `C17` phrase corroboration on the taunt band.
 - `T1-p031.l08 = 按牛頭咬草壇上拽袖兒若也騎虎頭二俱` is now also secured from direct image review plus bounded `C17` phrase corroboration on the same taunt band.
+- `T1-p030.l05 = 了也如何得不隨尊貴去一片月生海幾家` is now also secured from direct image review plus convergent local OCR support.
 - the main live holdouts immediately around this point are still the open `T1-p033.l03` and `l05` columns plus the remaining `T1-p034.l05` `一穿却一提 / 八面玲瓏` residue.
 - enlarged reinspection of those three loci now clarifies only partial tails, not full safe repairs: `T1-p033.l03` ends `...方得少分`, `T1-p033.l05` ends `...有什`, and `T1-p034.l05` still preserves only the opening frame `師云一穿却一提起八面玲瓏...`.
 - the current in-package evidence basis remains exhausted at those three loci, but the second-pass queue is not paused there because the still-open `T1-p031`, `T1-p030`, and older `T1-p029` residue continue to offer bounded productive slices.

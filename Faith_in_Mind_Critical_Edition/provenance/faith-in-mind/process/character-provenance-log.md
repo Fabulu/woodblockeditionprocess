@@ -626,3 +626,8 @@ Faith in Mind adoption rule:
 | `T1-p031.l08` | 7 | `壇` | `image inspection` | `moderate` | `T1` |
 | `T1-p031.l08` | 10 | `袖` | `image inspection` | `moderate` | `T1` |
 | `T1-p031.l08` | 14 | `騎` | `image inspection` | `moderate` | `T1` |
+| `T1-p030.l05` | 1 | `了` | `image inspection` | `moderate` | `T1` |
+| `T1-p030.l05` | 7 | `隨` | `image inspection` | `moderate` | `T1` |
+| `T1-p030.l05` | 10 | `貴` | `image inspection` | `moderate` | `T1` |
+| `T1-p030.l05` | 13 | `片` | `image inspection` | `moderate` | `T1` |
+| `T1-p030.l05` | 18 | `幾` | `image inspection` | `moderate` | `T1` |
