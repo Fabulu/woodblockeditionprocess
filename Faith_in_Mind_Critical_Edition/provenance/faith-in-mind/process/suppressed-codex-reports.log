@@ -76,3 +76,45 @@ Committed `db5fbfa` after a clean validation pass. This batch recovered `T1-p030
 
 I stopped because the remaining live queue in the current bounded slice still hits an honest local-evidence wall on the in-package basis after exact-box rechecks: `T1-p030.l08`, `T1-p029.l02`, `T1-p029.l06`, `T1-p011.l04`, and `T1-p012.l02` remain below threshold for a safe text change. Package validation passed, and the broader unresolved commentary still remains beyond that: the earlier open `T1-p007` loci and later unresolved prose noted in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md) and [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md).
 
+## 20260503-200343
+run: 3
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260503-200343.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260503-200343.txt
+message:
+Stopped because the active remaining local correction queue is now at a real evidence wall on the current in-package basis, not because a page or slice merely finished.
+
+I rechecked the five live holdouts `T1-p030.l08`, `T1-p029.l02`, `T1-p029.l06`, `T1-p011.l04`, and `T1-p012.l02` against the local page images plus the saved `T1` OCR support and already-opened bounded controls. None crossed the threshold for a defensible text change. The earlier walls at `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05` also still stand. That means no further bounded productive local correction slice is currently available without stronger direct-image separation or genuinely new corroborative evidence.
+
+I synchronized the resumability state, ran `python scripts/validate_package.py` successfully, and committed the stop-state as `e7223df` with message `Record Faith in Mind evidence wall on remaining T1 holdouts`.
+
+What remains:
+- `T1-p030.l08`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p011.l04`
+- `T1-p012.l02`
+- previously blocked `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`
+
+Validation passed.
+
+## 20260503-203224
+run: 4
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260503-203224.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260503-203224.txt
+message:
+I stopped because the active remaining local correction queue is at a real evidence wall on the current in-package basis, and no other bounded productive slice is currently available without stronger direct-image separation or genuinely new corroborative evidence.
+
+The package state is already synchronized to that stop condition, `python scripts/validate_package.py` passes, and the successful stop-state batch is already committed as `e7223df` (`Record Faith in Mind evidence wall on remaining T1 holdouts`). What remains is the unresolved set already recorded in the package: `T1-p030.l08`, `T1-p029.l02`, `T1-p029.l06`, `T1-p011.l04`, `T1-p012.l02`, plus the earlier blocked `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. The only live worktree changes now are wrapper-report logs: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260503-203315
+run: 5
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260503-203315.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260503-203315.txt
+message:
+Stopped because the current package-local manual-correction queue is exhausted by a real evidence wall on the present in-package basis, and `process.json` / `current-state.md` already record that no further bounded productive slice is currently available without stronger direct-image separation or genuinely new corroborative evidence. `python scripts/validate_package.py` passes, and the latest committed state already captures this stop point at `e7223df` (`Record Faith in Mind evidence wall on remaining T1 holdouts`).
+
+What remains is unresolved rather than merely unworked: active holdouts at `T1-p030.l08`, `T1-p029.l02`, `T1-p029.l06`, `T1-p011.l04`, and `T1-p012.l02`, plus earlier standing walls at `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`; broader commentary-prose work on `T1-p007` to `T1-p080` also remains open where not yet secured, and the damaged prefatory block `T1-p005` to `T1-p006` is still paused at its recorded evidence wall. The only unstaged workspace changes are unrelated supervisor logs: [suppressed-codex-reports.log](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/suppressed-codex-reports.log) and [until-done-wrapper.log](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/until-done-wrapper.log).
+
