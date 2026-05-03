@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_p035_leftward_speaking_and_tail_doctrinal_recovery`
+- Last completed phase: `manual_correction_slice_T1_second_pass_p036_left_edge_white_cloud_column_recovery`
 
 ## What is already done
 
@@ -399,5 +399,6 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `T1` second-pass commentary correction is active beyond `T1-p032`; `T1-p033.l08` is now secured from direct image review plus both Paddle support surfaces and the local `C9` control.
 - `T1-p034.l04`, `T1-p034.l07`, and `T1-p034.l08` are now also secured from direct image review plus both Paddle support surfaces.
 - `T1-p035.l02`, `T1-p035.l03`, `T1-p035.l04`, `T1-p035.l05`, `T1-p035.l06`, `T1-p035.l07`, `T1-p035.l08`, and `T1-p035.l10` are now also secured from direct image review plus local OCR support and both Paddle support surfaces where applicable, with `l07` re-tightened after enlarged image review corrected its middle doctrinal contrast.
-- the main live holdouts immediately around this point are `T1-p032.l05`; the still-open `T1-p033.l03`, `l04`, `l05`, `l06`, `l07`, and `l09` columns; the remaining `T1-p034.l02`, `l03`, `l05`, and `l06` residue; and the surviving short-fragment problem at `T1-p035.l09`.
-- the next required bounded slice is to test whether `T1-p035.l09` is a recoverable real column or only a split-fragment artifact and, if it does not cross the threshold honestly, to roll forward immediately into the next productive second-pass commentary page without treating the `T1-p035` page boundary as a stopping point.
+- `T1-p036.l08 = 依舊白雲中` is now also secured from direct image review plus convergent local OCR support.
+- the main live holdouts immediately around this point are `T1-p032.l05`; the still-open `T1-p033.l03`, `l04`, `l05`, `l06`, `l07`, and `l09` columns; the remaining `T1-p034.l02`, `l03`, `l05`, and `l06` residue; the surviving short-fragment problem at `T1-p035.l09`; and the still-open `T1-p036` prose around the cleaner left and right page edges.
+- the next required bounded slice is to continue image-led manual correction on the now-open `T1-p036` edge material, especially the right-edge doctrinal or imagistic column and the neighboring prose, without retreating to a page-boundary stopping point.

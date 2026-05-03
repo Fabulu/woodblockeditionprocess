@@ -550,3 +550,4 @@ Faith in Mind adoption rule:
 | `T1-p035.l10` | 10 | `則` | `image inspection` | `moderate` | `T1` |
 | `T1-p035.l10` | 11 | `礙` | `image inspection` | `moderate` | `T1` |
 | `T1-p035.l10` | 15 | `人` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l08` | 2 | `舊` | `image inspection` | `moderate` | `T1` |

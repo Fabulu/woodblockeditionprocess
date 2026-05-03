@@ -8079,6 +8079,40 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p035_leftward_speaking_and_tail_doctrinal_recovery",
         "last_text_changed_event": "FIM-227"
       }
+    },
+    {
+      "id": "FIM-228",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Rolled forward into T1-p036 and secured the clean left-edge white-cloud column",
+      "summary": "Direct image review of T1-p036, checked against RapidOCR plus both Paddle support surfaces, secured T1-p036.l08 = 依舊白雲中.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p036.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p036.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p036.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p036.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_resume_after_p036_l08_recovery",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p036_left_edge_white_cloud_column_recovery",
+        "last_text_changed_event": "FIM-228"
+      }
     }
   ]
 }
