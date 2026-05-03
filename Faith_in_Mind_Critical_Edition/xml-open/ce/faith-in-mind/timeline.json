@@ -8185,6 +8185,40 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p036_inner_daoist_chain_column_recovery",
         "last_text_changed_event": "FIM-230"
       }
+    },
+    {
+      "id": "FIM-231",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Reopened the old T1-p036 l01 placement, corrected the remap, and exhausted the page",
+      "summary": "Direct image review of the left-of-center T1-p036 prose column showed that the earlier l01 standard-lemma substitution was a local misassignment; l01 is now restored as 大地甚處得來設久劃火洞然畫青山, and the separate poem column is correctly placed at l05 = 一空同兩齊含萬象.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p036.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p036.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p036.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p036.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_resume_at_p032_l05_and_p033_residue",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p036_final_remap_and_page_closeout",
+        "last_text_changed_event": "FIM-231"
+      }
     }
   ]
 }

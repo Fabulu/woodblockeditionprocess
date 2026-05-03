@@ -562,6 +562,15 @@ Faith in Mind adoption rule:
 | `T1-p036.l04` | 2 | `許` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l04` | 8 | `形` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l04` | 11 | `為` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l01` | 3 | `甚` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l01` | 4 | `處` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l01` | 7 | `設` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l01` | 8 | `久` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l01` | 9 | `劃` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l01` | 13 | `畫` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l05` | 1 | `一` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l05` | 7 | `萬` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l05` | 8 | `象` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l06` | 1 | `譬` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l06` | 5 | `鏡` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l06` | 6 | `波` | `image inspection` | `moderate` | `T1` |
