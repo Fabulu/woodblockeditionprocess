@@ -8291,6 +8291,43 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p033_l04_l06_l09_anchor_recovery",
         "last_text_changed_event": "FIM-233"
       }
+    },
+    {
+      "id": "FIM-234",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Stayed on T1-p033 and secured the daily-activity column from the same bounded return",
+      "summary": "Direct image review of T1-p033, checked against bounded C5/C9 corroboration, secured T1-p033.l07 = 過著衣喫飯地煎茶東遊西大小便.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p033.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p033.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p033.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p033.txt",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p052.txt",
+        "provenance/faith-in-mind/ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/C9-p052.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_continue_p033_remaining_l03_l05_then_reassess_p034",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p033_l07_daily_activity_recovery",
+        "last_text_changed_event": "FIM-234"
+      }
     }
   ]
 }

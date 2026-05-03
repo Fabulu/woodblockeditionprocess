@@ -598,3 +598,9 @@ Faith in Mind adoption rule:
 | `T1-p033.l06` | 15 | `今` | `cross-witness` | `moderate` | `C5/C9` |
 | `T1-p033.l09` | 1 | `心` | `image inspection` | `moderate` | `T1` |
 | `T1-p033.l09` | 6 | `咎` | `cross-witness` | `moderate` | `C5/C9` |
+| `T1-p033.l07` | 1 | `過` | `cross-witness` | `moderate` | `C5/C9` |
+| `T1-p033.l07` | 4 | `喫` | `cross-witness` | `moderate` | `C5/C9` |
+| `T1-p033.l07` | 6 | `地` | `image inspection` | `moderate` | `T1` |
+| `T1-p033.l07` | 8 | `茶` | `image inspection` | `moderate` | `T1` |
+| `T1-p033.l07` | 11 | `遊` | `cross-witness` | `moderate` | `C5/C9` |
+| `T1-p033.l07` | 15 | `便` | `cross-witness` | `moderate` | `C5/C9` |
