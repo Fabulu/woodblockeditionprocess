@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_reopen_p011_l04_current_person_counterline_recovery`
+- Last completed phase: `manual_correction_slice_T1_second_pass_package_level_exhaustion_check_after_queue_roam`
 
 ## What is already done
 
@@ -421,3 +421,4 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - direct image reinspection now also confirms that `T1-p031.l03 = 二由一有一亦莫守` was already secure in the working text and correction log; the stale queue state treating that locus as still open has been retired without a new text change.
 - exact local-column reinspection has now broken the earlier five-locus wall at `T1-p011.l04`, which can now stand as `前不明自己此人亦秖具一隻眼諸仁者如` on the present package-local basis without smoothing beyond the visible T1 tail.
 - the current in-package evidence basis remains exhausted at `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`, and direct reinspection still leaves `T1-p030.l08`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p012.l02` below threshold on the present package-local basis; no further bounded productive correction slice is currently available without stronger direct-image separation or genuinely new corroborative evidence.
+- the required global stop recheck has now also been run across the older still-open queue on `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`. Direct image reinspection plus the already opened local OCR support and previously opened bounded control witnesses still do not yield an honest new repair at `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, or `T1-p030.l08`. On the present in-package evidence basis, the remaining unresolved queue is therefore exhausted at package level rather than only at the later-page local wall.

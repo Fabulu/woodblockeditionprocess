@@ -8821,6 +8821,50 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_reopen_p011_l04_current_person_counterline_recovery",
         "last_text_changed_event": "FIM-248"
       }
+    },
+    {
+      "id": "FIM-249",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Applied the global stop test across the remaining older open queue",
+      "summary": "Direct image reinspection of the older open T1-p007 loci (l03, l04, l08, l09, l12) plus renewed checks on T1-p012.l02, T1-p029.l02, T1-p029.l06, and T1-p030.l08, using the already saved local OCR support and already opened bounded control witnesses, did not yield another safe repair. The remaining unresolved queue is therefore exhausted at package level on the present in-package basis.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/C9-p016.txt",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p047.txt",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p048.txt",
+        "provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p028.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_pending_stronger_evidence_for_package_level_remaining_holdouts",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_package_level_exhaustion_check_after_queue_roam",
+        "last_text_changed_event": "FIM-248"
+      }
     }
   ]
 }
