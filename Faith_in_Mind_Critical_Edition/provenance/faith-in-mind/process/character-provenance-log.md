@@ -658,3 +658,8 @@ Faith in Mind adoption rule:
 | `T1-p031.l10` | 10 | `衲` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
 | `T1-p031.l10` | 12 | `髑` | `image inspection plus exact comparison support` | `moderate` | `T1` |
 | `T1-p031.l10` | 13 | `髏` | `image inspection plus exact comparison support` | `moderate` | `T1` |
+| `T1-p011.l04` | 1 | `前` | `image inspection` | `strong` | `T1` |
+| `T1-p011.l04` | 8 | `亦` | `image inspection plus cross-witness support` | `moderate` | `T1` |
+| `T1-p011.l04` | 12 | `秖` | `image inspection plus cross-witness support` | `moderate` | `T1` |
+| `T1-p011.l04` | 15 | `隻` | `image inspection` | `strong` | `T1` |
+| `T1-p011.l04` | 17 | `諸` | `image inspection` | `moderate` | `T1` |
