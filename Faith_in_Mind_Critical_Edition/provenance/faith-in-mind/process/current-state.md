@@ -409,5 +409,6 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `T1-p034.l03 = 理智冥符人牛不見直得桃花零落盡何處` is now also secured from enlarged direct image review plus convergent local OCR support and partial `C5` phrase corroboration.
 - `T1-p034.l06 = 直得三祖大師無隱身之地諸人者還知` is now also secured from direct image review plus bounded `C5/C9` corroboration.
 - `T1-p035.l09 = 故知兩段元是一空` is now also secured from enlarged direct image review plus bounded phrase support on the tail `元是一空`.
-- the main live holdouts immediately around this point are the still-open `T1-p033.l03` and `l05` columns plus the remaining `T1-p034.l05` `一穿却一提 / 八面玲瓏` residue.
-- the next required bounded slice is to test the remaining `T1-p034.l05` band again on the current in-package basis before later rechecking the weaker `T1-p033.l03` and `T1-p033.l05` holdouts.
+- the main live holdouts immediately around this point are still the open `T1-p033.l03` and `l05` columns plus the remaining `T1-p034.l05` `一穿却一提 / 八面玲瓏` residue.
+- enlarged reinspection of those three loci now clarifies only partial tails, not full safe repairs: `T1-p033.l03` ends `...方得少分`, `T1-p033.l05` ends `...有什`, and `T1-p034.l05` still preserves only the opening frame `師云一穿却一提起八面玲瓏...`.
+- the current in-package evidence basis is therefore exhausted at these three loci; the second-pass queue is paused here pending stronger direct-image separation or genuinely new external corroboration rather than further blind local retry.
