@@ -539,3 +539,14 @@ Faith in Mind adoption rule:
 | `T1-p035.l07` | 1 | `境` | `single-engine recovery` | `strong` | `PaddleOCR` |
 | `T1-p035.l07` | 6 | `礙` | `image inspection` | `moderate` | `T1` |
 | `T1-p035.l07` | 10 | `則` | `single-engine recovery` | `strong` | `PaddleOCR` |
+| `T1-p035.l06` | 14 | `奪` | `image inspection` | `moderate` | `T1` |
+| `T1-p035.l06` | 17 | `坐` | `image inspection` | `moderate` | `T1` |
+| `T1-p035.l06` | 18 | `斷` | `image inspection` | `moderate` | `T1` |
+| `T1-p035.l06` | 23 | `眾` | `image inspection` | `moderate` | `T1` |
+| `T1-p035.l07` | 5 | `則` | `image inspection` | `moderate` | `T1` |
+| `T1-p035.l07` | 6 | `礙` | `image inspection` | `moderate` | `T1` |
+| `T1-p035.l07` | 7 | `人` | `image inspection` | `moderate` | `T1` |
+| `T1-p035.l10` | 1 | `是` | `image inspection` | `moderate` | `T1` |
+| `T1-p035.l10` | 10 | `則` | `image inspection` | `moderate` | `T1` |
+| `T1-p035.l10` | 11 | `礙` | `image inspection` | `moderate` | `T1` |
+| `T1-p035.l10` | 15 | `人` | `image inspection` | `moderate` | `T1` |

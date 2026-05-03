@@ -8043,6 +8043,42 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p035_doctrinal_youshui_column_recovery",
         "last_text_changed_event": "FIM-226"
       }
+    },
+    {
+      "id": "FIM-227",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Reopened T1-p035 and secured the leftward speaking column, the doctrinal tail, and a tighter middle contrast",
+      "summary": "Direct image review of enlarged T1-p035 crops, checked against both Paddle support surfaces and bounded C5 corroboration, secured T1-p035.l06 = 我要與祖師相見你莫道人境俱奪聖凡坐斷亦無佛無眾生, corrected T1-p035.l07 to 境由能境則礙人不礙境所以在境則全境, and secured T1-p035.l10 = 是心則能由境能由境則礙境不礙人.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p035.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p035.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p035.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p035.txt",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p059.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_test_p035_l09_then_continue_forward",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p035_leftward_speaking_and_tail_doctrinal_recovery",
+        "last_text_changed_event": "FIM-227"
+      }
     }
   ]
 }
