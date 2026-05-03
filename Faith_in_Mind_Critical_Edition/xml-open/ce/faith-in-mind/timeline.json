@@ -8364,6 +8364,43 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p034_l02_empty_realm_column_recovery",
         "last_text_changed_event": "FIM-235"
       }
+    },
+    {
+      "id": "FIM-236",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Stayed on T1-p034 and secured the Third Patriarch exposure challenge column",
+      "summary": "Direct image review of T1-p034, checked against bounded C5/C9 corroboration, secured T1-p034.l06 = 直得三祖大師無隱身之地諸人者還知.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p034.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p034.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p034.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p034.txt",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p053.txt",
+        "provenance/faith-in-mind/ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/C9-p053.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_continue_p034_remaining_l03_l05",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p034_l06_third_patriarch_exposure_column_recovery",
+        "last_text_changed_event": "FIM-236"
+      }
     }
   ]
 }
