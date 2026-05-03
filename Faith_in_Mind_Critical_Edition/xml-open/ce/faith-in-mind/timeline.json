@@ -524,7 +524,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Recovered one more secure late-band poem line in the corrected T1 working text.",
-      "details": "T1-p060.l01 was corrected to `ç©¶ç«Ÿçª®æ¥µä¸å­˜è»Œå‰‡` after the broader OCR support stack made the line recoverable. The change was accepted from a strong Paddle near-match plus immediate poem-sequence context, while surrounding commentary prose remained unresolved.",
+      "details": "T1-p060.l01 was corrected to `究竟窮極不存軌則` after the broader OCR support stack made the line recoverable. The change was accepted from a strong Paddle near-match plus immediate poem-sequence context, while surrounding commentary prose remained unresolved.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -545,8 +545,8 @@
       "state_effect": {
         "locus_id": "T1-p060.l01",
         "change_kind": "ocr_certainty_fix",
-        "reading_before": "æœ‰ä»€è…æœå‰§æ£‰åœ°ç…ŽèŒ¶æŠŠé’ˆæ ‘éšå°è‘—è¡£",
-        "reading_after": "ç©¶ç«Ÿçª®æ¥µä¸å­˜è»Œå‰‡",
+        "reading_before": "有什腐朝剧棉地煎茶把针树随台著衣",
+        "reading_after": "究竟窮極不存軌則",
         "current_phase": "manual_correction_pass_1_started"
       }
     },
@@ -559,7 +559,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Recovered one more secure poem line in the corrected T1 working text.",
-      "details": "T1-p030.l01 was corrected to `äºŒè¦‹ä¸ä½æ…Žå‹¿è¿½å°‹` after the broader OCR support stack made the line recoverable. The change was accepted from a strong Paddle near-match plus RapidOCR shape support and poem-sequence placement.",
+      "details": "T1-p030.l01 was corrected to `二見不住慎勿追尋` after the broader OCR support stack made the line recoverable. The change was accepted from a strong Paddle near-match plus RapidOCR shape support and poem-sequence placement.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -579,8 +579,8 @@
       "state_effect": {
         "locus_id": "T1-p030.l01",
         "change_kind": "ocr_certainty_fix",
-        "reading_before": "ä¸è§ç‰¹ä½•ä¸è§å¾çŸ³è§ä¹‹åº¦åˆä½œåº·ç”ŸéŠ€å­",
-        "reading_after": "äºŒè¦‹ä¸ä½æ…Žå‹¿è¿½å°‹",
+        "reading_before": "不见特何不见吾石见之度又作康生銀子",
+        "reading_after": "二見不住慎勿追尋",
         "current_phase": "manual_correction_pass_1_started"
       }
     },
@@ -593,7 +593,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Recovered another secure poem line in the corrected T1 working text.",
-      "details": "T1-p022.l01 was corrected to `é£æœ‰æ²’æœ‰å¾žç©ºèƒŒç©º` after RapidOCR and extracted Paddle preserved the line's core shape strongly enough for recovery within the already secured poem sequence.",
+      "details": "T1-p022.l01 was corrected to `遣有沒有從空背空` after RapidOCR and extracted Paddle preserved the line's core shape strongly enough for recovery within the already secured poem sequence.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -613,8 +613,8 @@
       "state_effect": {
         "locus_id": "T1-p022.l01",
         "change_kind": "ocr_certainty_fix",
-        "reading_before": "é£æœ‰æ»šæœ‰ç©ºéª¨ç©º",
-        "reading_after": "é£æœ‰æ²’æœ‰å¾žç©ºèƒŒç©º",
+        "reading_before": "遣有滚有空骨空",
+        "reading_after": "遣有沒有從空背空",
         "current_phase": "manual_correction_pass_1_started"
       }
     },
@@ -627,7 +627,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Recovered another secure poem line in the corrected T1 working text.",
-      "details": "T1-p025.l01 was corrected to `çµ•è¨€çµ•æ…®ç„¡è™•ä¸é€š` after RapidOCR preserved the line's skeleton clearly enough and the already secured poem sequence fixed the remaining graphs.",
+      "details": "T1-p025.l01 was corrected to `絕言絕慮無處不通` after RapidOCR preserved the line's skeleton clearly enough and the already secured poem sequence fixed the remaining graphs.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -646,8 +646,8 @@
       "state_effect": {
         "locus_id": "T1-p025.l01",
         "change_kind": "ocr_certainty_fix",
-        "reading_before": "æ–½è¨€æ–½æ„¿ç„¡æ…¶ä¸é€š",
-        "reading_after": "çµ•è¨€çµ•æ…®ç„¡è™•ä¸é€š",
+        "reading_before": "施言施愿無慶不通",
+        "reading_after": "絕言絕慮無處不通",
         "current_phase": "manual_correction_pass_1_started"
       }
     },
@@ -660,7 +660,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Recovered another secure poem line in the corrected T1 working text.",
-      "details": "T1-p028.l01 was corrected to `å‰ç©ºè½‰è®Šçš†ç”±å¦„è¦‹` after extracted Paddle preserved a near-match and the broader poem sequence fixed the remaining OCR damage.",
+      "details": "T1-p028.l01 was corrected to `前空轉變皆由妄見` after extracted Paddle preserved a near-match and the broader poem sequence fixed the remaining OCR damage.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -680,8 +680,8 @@
       "state_effect": {
         "locus_id": "T1-p028.l01",
         "change_kind": "ocr_certainty_fix",
-        "reading_before": "å‰ç©ºè—¤æ›¾ç”±å®‰çŽ°",
-        "reading_after": "å‰ç©ºè½‰è®Šçš†ç”±å¦„è¦‹",
+        "reading_before": "前空藤曾由安现",
+        "reading_after": "前空轉變皆由妄見",
         "current_phase": "manual_correction_pass_1_started"
       }
     },
@@ -694,7 +694,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Recovered another secure poem line in the corrected T1 working text.",
-      "details": "T1-p027.l01 was corrected to `é ˆè‡¾è¿”ç…§å‹å»å‰ç©º` after RapidOCR and extracted Paddle both preserved the core `...ç…§...å»å‰ç©º` shape strongly enough for the already secured poem sequence to fix the damaged opening graphs.",
+      "details": "T1-p027.l01 was corrected to `須臾返照勝卻前空` after RapidOCR and extracted Paddle both preserved the core `...照...卻前空` shape strongly enough for the already secured poem sequence to fix the damaged opening graphs.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -714,8 +714,8 @@
       "state_effect": {
         "locus_id": "T1-p027.l01",
         "change_kind": "ocr_certainty_fix",
-        "reading_before": "æºå²é€ç…§è…¾å´å‰ç©º",
-        "reading_after": "é ˆè‡¾è¿”ç…§å‹å»å‰ç©º",
+        "reading_before": "源史送照腾却前空",
+        "reading_after": "須臾返照勝卻前空",
         "current_phase": "manual_correction_pass_1_started"
       }
     },
@@ -728,7 +728,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Recovered another secure poem line in the corrected T1 working text.",
-      "details": "T1-p063.l01 was corrected to `ä¸€åˆ‡ä¸ç•™ç„¡å¯è¨˜æ†¶` after the Paddle column-ordered support preserved `åˆ‡ä¸ç•™...å¯è¨˜æ†¶` clearly enough and the already secured sequence between `T1-p062.l01` and `T1-p064.l01` identified the full lemma.",
+      "details": "T1-p063.l01 was corrected to `一切不留無可記憶` after the Paddle column-ordered support preserved `切不留...可記憶` clearly enough and the already secured sequence between `T1-p062.l01` and `T1-p064.l01` identified the full lemma.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -748,8 +748,8 @@
       "state_effect": {
         "locus_id": "T1-p063.l01",
         "change_kind": "ocr_certainty_fix",
-        "reading_before": "ä¸‹å‘½æ ¹è¯åŽ»ç„¶æ—¥ç»´åœ¨å‹¤ç”¨ä¹‹ä¸­è‡ªç„¶å¸¸æ­¢",
-        "reading_after": "ä¸€åˆ‡ä¸ç•™ç„¡å¯è¨˜æ†¶",
+        "reading_before": "下命根药去然日维在勤用之中自然常止",
+        "reading_after": "一切不留無可記憶",
         "current_phase": "manual_correction_pass_1_started"
       }
     },
@@ -762,7 +762,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Recovered another secure poem line in the corrected T1 working text.",
-      "details": "T1-p077.l01 was corrected to `ä½†èƒ½å¦‚æ˜¯ä½•æ…®ä¸ç•¢` after RapidOCR and extracted Paddle both preserved the core `ä½†èƒ½å¦‚æ˜¯ä½•...ä¸...` shape strongly enough for the already secured closing sequence before `T1-p078.l01` to fix the damaged graphs.",
+      "details": "T1-p077.l01 was corrected to `但能如是何慮不畢` after RapidOCR and extracted Paddle both preserved the core `但能如是何...不...` shape strongly enough for the already secured closing sequence before `T1-p078.l01` to fix the damaged graphs.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -782,8 +782,8 @@
       "state_effect": {
         "locus_id": "T1-p077.l01",
         "change_kind": "ocr_certainty_fix",
-        "reading_before": "ä½†èƒ½å¦‚æ˜¯ä½•æ„¿ä¸æžœ",
-        "reading_after": "ä½†èƒ½å¦‚æ˜¯ä½•æ…®ä¸ç•¢",
+        "reading_before": "但能如是何愿不果",
+        "reading_after": "但能如是何慮不畢",
         "current_phase": "manual_correction_pass_1_started"
       }
     },
@@ -825,7 +825,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Corrected the visually inspected `T1-p076.l01` closing-band lemma.",
-      "details": "Direct inspection of `page-images/T1-p076.png` showed the visible lemma as `è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ`, correcting OCR damage in the current working text.",
+      "details": "Direct inspection of `page-images/T1-p076.png` showed the visible lemma as `若如是必不須守`, correcting OCR damage in the current working text.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -844,8 +844,8 @@
       "state_effect": {
         "locus_id": "T1-p076.l01",
         "change_kind": "visual_certainty_fix",
-        "reading_before": "è‹¥çŸ³å¦‚æ˜¯å¿…ä¸é…’å®ˆ",
-        "reading_after": "è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ",
+        "reading_before": "若石如是必不酒守",
+        "reading_after": "若如是必不須守",
         "current_phase": "manual_correction_pass_1_started"
       }
     },
@@ -858,7 +858,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Corrected the visually inspected `T1-p077.l01` after reversing an earlier OCR-only misassignment.",
-      "details": "Direct inspection of `page-images/T1-p077.png` showed the opening lemma as `ä¸€å³ä¸€åˆ‡ä¸€åˆ‡å³ä¸€`, so the earlier OCR-only correction to `ä½†èƒ½å¦‚æ˜¯ä½•æ…®ä¸ç•¢` was replaced with the visibly correct reading.",
+      "details": "Direct inspection of `page-images/T1-p077.png` showed the opening lemma as `一即一切一切即一`, so the earlier OCR-only correction to `但能如是何慮不畢` was replaced with the visibly correct reading.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -877,8 +877,8 @@
       "state_effect": {
         "locus_id": "T1-p077.l01",
         "change_kind": "visual_certainty_fix",
-        "reading_before": "ä½†èƒ½å¦‚æ˜¯ä½•æ…®ä¸ç•¢",
-        "reading_after": "ä¸€å³ä¸€åˆ‡ä¸€åˆ‡å³ä¸€",
+        "reading_before": "但能如是何慮不畢",
+        "reading_after": "一即一切一切即一",
         "current_phase": "manual_correction_pass_1_started"
       }
     },
@@ -891,7 +891,7 @@
       "object_type": "witness",
       "object_id": "T4",
       "summary": "Opened `T4` as the first comparison-control OCR package.",
-      "details": "The Kyoto `å››éƒ¨éŒ²` witness `T4` was opened in-package with initial OCR metadata and page-map scaffolding so the next pass can begin page-role review and OCR without staying blocked inside `T1` commentary prose.",
+      "details": "The Kyoto `四部録` witness `T4` was opened in-package with initial OCR metadata and page-map scaffolding so the next pass can begin page-role review and OCR without staying blocked inside `T1` commentary prose.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -1318,7 +1318,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Corrected `T1-p047.l01` and `T1-p065.l01` from the fully recorded `T4` comparison witness.",
-      "details": "The first post-compliance comparison-informed correction slice changed `T1-p047.l01` to `æ³•ç„¡ç•°æ³•å¦„è‡ªæ„›è‘—` and `T1-p065.l01` to `éžæ€é‡è™•è­˜æƒ…é›£æ¸¬`. Both loci had already been logged as strong `T4` repair candidates and were accepted only after `T4` reached full-pass four-engine OCR status.",
+      "details": "The first post-compliance comparison-informed correction slice changed `T1-p047.l01` to `法無異法妄自愛著` and `T1-p065.l01` to `非思量處識情難測`. Both loci had already been logged as strong `T4` repair candidates and were accepted only after `T4` reached full-pass four-engine OCR status.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -1356,7 +1356,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Supplied the missing line between `T1-p021.l01` and `T1-p022.l01` as stable inserted locus `T1-p021.l01a`.",
-      "details": "After `T4` reached full-pass four-engine OCR status, the previously open comparison-supported gap between `å”¯æ»¯å…©é‚Šå¯§çŸ¥ä¸€ç¨®` and `é£æœ‰æ²’æœ‰å¾žç©ºèƒŒç©º` was supplied in the working text as `T1-p021.l01a` with reading `ä¸€ç¨®ä¸é€šå…©è™•å¤±åŠŸ`. The insertion was recorded explicitly rather than by silently renumbering downstream loci.",
+      "details": "After `T4` reached full-pass four-engine OCR status, the previously open comparison-supported gap between `唯滯兩邊寧知一種` and `遣有沒有從空背空` was supplied in the working text as `T1-p021.l01a` with reading `一種不通兩處失功`. The insertion was recorded explicitly rather than by silently renumbering downstream loci.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -1394,7 +1394,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Repaired the `T1-p031/T1-p032` poem sequence from the fully recorded `T4` comparison witness.",
-      "details": "The mid-band sequence issue was resolved by correcting `T1-p031.l03` to `äºŒç”±ä¸€æœ‰ä¸€äº¦èŽ«å®ˆ` and `T1-p032.l01` to `ä¸€å¿ƒä¸ç”Ÿè¬æ³•ç„¡å’Ž`, restoring the sequence immediately before the already corrected `ç„¡å’Žç„¡æ³•ä¸ç”Ÿä¸å¿ƒ`.",
+      "details": "The mid-band sequence issue was resolved by correcting `T1-p031.l03` to `二由一有一亦莫守` and `T1-p032.l01` to `一心不生萬法無咎`, restoring the sequence immediately before the already corrected `無咎無法不生不心`.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -1433,7 +1433,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Supplied the missing closing locus after `T1-p077.l01` as `T1-p077.l01a`.",
-      "details": "The current `T1` close lacked a separate corresponding locus for `ä½†èƒ½å¦‚æ˜¯ä½•æ…®ä¸ç•¢`, which `T4-p004` preserves between `ä¸€å³ä¸€åˆ‡ä¸€åˆ‡å³ä¸€` and `ä¿¡å¿ƒä¸äºŒä¸äºŒä¿¡å¿ƒ`. The working text now records that line as stable inserted locus `T1-p077.l01a` while leaving the earlier `T1-p075/T1-p076` branch tension open.",
+      "details": "The current `T1` close lacked a separate corresponding locus for `但能如是何慮不畢`, which `T4-p004` preserves between `一即一切一切即一` and `信心不二不二信心`. The working text now records that line as stable inserted locus `T1-p077.l01a` while leaving the earlier `T1-p075/T1-p076` branch tension open.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -1470,7 +1470,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Rolled back the false poem certainty at `T1-p075.l01` after direct image review.",
-      "details": "The earlier correction of `T1-p075.l01` to `è‹¥ä¸å¦‚æ­¤å¿…ä¸é ˆå®ˆ` was removed after direct review of `page-images/T1-p075.png` and the saved `T1` OCR support showed commentary material at that locus instead of a secure closing lemma. The closing-band problem is now framed as omission-versus-substitution before `T1-p076.l01 = è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ`.",
+      "details": "The earlier correction of `T1-p075.l01` to `若不如此必不須守` was removed after direct review of `page-images/T1-p075.png` and the saved `T1` OCR support showed commentary material at that locus instead of a secure closing lemma. The closing-band problem is now framed as omission-versus-substitution before `T1-p076.l01 = 若如是必不須守`.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -1505,7 +1505,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Closed the remaining `T1-p075/T1-p076` closing-band issue as omission rather than substitution.",
-      "details": "The package now records that `T1-p075` remains commentary material while `T1-p076.l01 = è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ` is visually secure. `T4` supports the broader transmitted close, but there is no positive `T1` evidence for restoring `è‹¥ä¸å¦‚æ­¤å¿…ä¸é ˆå®ˆ` on the previous page, so the branch question is resolved as omission in this witness.",
+      "details": "The package now records that `T1-p075` remains commentary material while `T1-p076.l01 = 若如是必不須守` is visually secure. `T4` supports the broader transmitted close, but there is no positive `T1` evidence for restoring `若不如此必不須守` on the previous page, so the branch question is resolved as omission in this witness.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -1737,7 +1737,7 @@
       "object_type": "transcription",
       "object_id": "T1-p032.l01",
       "summary": "Restored the corrupted live `T1-p032.l01` line to the already logged accepted reading.",
-      "details": "The correction log, unresolved register, and comparison table already agreed on `ä¸€å¿ƒä¸ç”Ÿè¬æ³•ç„¡å’Ž` at `T1-p032.l01`, but the working file had drifted into eight literal question marks. The live transcription was repaired to match the already accepted package state before further comparison conclusions were recorded.",
+      "details": "The correction log, unresolved register, and comparison table already agreed on `一心不生萬法無咎` at `T1-p032.l01`, but the working file had drifted into eight literal question marks. The live transcription was repaired to match the already accepted package state before further comparison conclusions were recorded.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -2030,7 +2030,7 @@
       "object_type": "witness",
       "object_id": "T3",
       "summary": "Opened `T3` as the next comparison-control witness and classified its late anthology body span.",
-      "details": "The locked Kyoto `å…¥è¡†æ—¥ç”¨` witness under `Faith_in_Mind_Sengcan_Kyoto_RB00016909` has now been opened in-package with `ocr/T3/metadata.json` and `ocr/T3/page-map.csv`. Visual review showed that the actual `Faith in Mind` body is delayed inside the anthology and occupies only `T3-p034` through `T3-p036`, with wrapper or title matter on `T3-p001` to `T3-p003` and `T3-p040` to `T3-p041`.",
+      "details": "The locked Kyoto `入衆日用` witness under `Faith_in_Mind_Sengcan_Kyoto_RB00016909` has now been opened in-package with `ocr/T3/metadata.json` and `ocr/T3/page-map.csv`. Visual review showed that the actual `Faith in Mind` body is delayed inside the anthology and occupies only `T3-p034` through `T3-p036`, with wrapper or title matter on `T3-p001` to `T3-p003` and `T3-p040` to `T3-p041`.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -2099,7 +2099,7 @@
       "object_type": "witness",
       "object_id": "T3",
       "summary": "Completed the first bounded `T3` confirmation slice against the recovered `T1` lemma spine.",
-      "details": "Direct image review of `T3-p034` through `T3-p036`, checked against the saved four-engine OCR stack on the source-image basis, broadly confirms the recovered `T1` poem spine from opening through close and especially strengthens the already logged omission judgment at `T1-p075` because `T3` clearly preserves the standard `è‹¥ä¸å¦‚æ­¤å¿…ä¸é ˆå®ˆ` line before `è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ`. This slice exposed no new high-confidence repair locus beyond what `T4` had already justified.",
+      "details": "Direct image review of `T3-p034` through `T3-p036`, checked against the saved four-engine OCR stack on the source-image basis, broadly confirms the recovered `T1` poem spine from opening through close and especially strengthens the already logged omission judgment at `T1-p075` because `T3` clearly preserves the standard `若不如此必不須守` line before `若如是必不須守`. This slice exposed no new high-confidence repair locus beyond what `T4` had already justified.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -2207,7 +2207,7 @@
       "object_type": "witness",
       "object_id": "A1",
       "summary": "Completed the first bounded `A1` confirmation slice against the recovered `T1` lemma spine.",
-      "details": "Direct image review of `A1-p003` through `A1-p006`, with `A1-p007` through `A1-p008` treated as immediate post-close or appended explanatory matter on the same target leaves, broadly confirms the recovered `T1` poem spine from opening through close. `A1` especially strengthens the already logged omission judgment at `T1-p075` because `A1-p006` clearly preserves the standard closing line `è‹¥ä¸å¦‚æ˜¯å¿…ä¸é ˆå®ˆ` before visible `è‹¥å¦‚æ˜¯å¿…ä¸é ˆå®ˆ`. This slice exposed no new high-confidence repair locus beyond what `T4` had already justified.",
+      "details": "Direct image review of `A1-p003` through `A1-p006`, with `A1-p007` through `A1-p008` treated as immediate post-close or appended explanatory matter on the same target leaves, broadly confirms the recovered `T1` poem spine from opening through close. `A1` especially strengthens the already logged omission judgment at `T1-p075` because `A1-p006` clearly preserves the standard closing line `若不如是必不須守` before visible `若如是必不須守`. This slice exposed no new high-confidence repair locus beyond what `T4` had already justified.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -2247,7 +2247,7 @@
       "object_type": "witness",
       "object_id": "A2",
       "summary": "Opened `A2` from the locked Waseda derivative PDF package and classified its long body span.",
-      "details": "The locked Waseda `å››éƒ¨éŒ²æŠ„` witness under `Faith_in_Mind_Waseda_Commons/WUL-bunko31_e1089_shiburokushou.pdf` has now been rendered in-package with `ocr/A2/page-images/`, `ocr/A2/metadata.json`, and `ocr/A2/page-map.csv`. Visual review showed that the derivative body begins immediately on `A2-p002` and continues through `A2-p044`, with front wrapper matter on `A2-p001`, colophon-like tail matter on `A2-p045`, and rear wrapper matter on `A2-p046`.",
+      "details": "The locked Waseda `四部録抄` witness under `Faith_in_Mind_Waseda_Commons/WUL-bunko31_e1089_shiburokushou.pdf` has now been rendered in-package with `ocr/A2/page-images/`, `ocr/A2/metadata.json`, and `ocr/A2/page-map.csv`. Visual review showed that the derivative body begins immediately on `A2-p002` and continues through `A2-p044`, with front wrapper matter on `A2-p001`, colophon-like tail matter on `A2-p045`, and rear wrapper matter on `A2-p046`.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -2359,7 +2359,7 @@
       "object_type": "witness",
       "object_id": "A3",
       "summary": "Opened `A3` from the locked browser-fixed NDL derivative PDF package and classified its target body span.",
-      "details": "The locked browser-fixed NDL `å››éƒ¨éŒ²æŠ„` witness under `Faith_in_Mind_NDL_Shiburokushou/NDL2537799_shiburokushou.pdf` has now been rendered in-package with `ocr/A3/page-images/`, `ocr/A3/metadata.json`, and `ocr/A3/page-map.csv`. Direct page review showed that the target Faith in Mind derivative body begins on `A3-p003`, closes visibly on `A3-p011`, and is followed by later anthology material from `A3-p012` onward, with wrapper matter on `A3-p001` to `A3-p002`, colophon-like tail matter on `A3-p055`, and rear wrapper matter on `A3-p056` to `A3-p057`.",
+      "details": "The locked browser-fixed NDL `四部録抄` witness under `Faith_in_Mind_NDL_Shiburokushou/NDL2537799_shiburokushou.pdf` has now been rendered in-package with `ocr/A3/page-images/`, `ocr/A3/metadata.json`, and `ocr/A3/page-map.csv`. Direct page review showed that the target Faith in Mind derivative body begins on `A3-p003`, closes visibly on `A3-p011`, and is followed by later anthology material from `A3-p012` onward, with wrapper matter on `A3-p001` to `A3-p002`, colophon-like tail matter on `A3-p055`, and rear wrapper matter on `A3-p056` to `A3-p057`.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -2468,8 +2468,8 @@
       "event_type": "witness_prepared",
       "object_type": "witness",
       "object_id": "C1",
-      "summary": "Opened `C1` from the locked translation anthology PDF package and classified the `ä¿¡å¿ƒéŠ˜å’Œè­¯` target span.",
-      "details": "The locked `åœ¨å®¶æ›¹æ´žå®—è–å…¸` witness under `Faith_in_Mind_Translations_NDL/NDL906534_zaike_sotoshu_seiten.pdf` has now been rendered in-package with `ocr/C1/page-images/`, `ocr/C1/metadata.json`, and `ocr/C1/page-map.csv`. Direct page review of the contents page showed that `ä¿¡å¿ƒéŠ˜å’Œè­¯` begins at internal page `90`, and because internal pagination begins at PDF page `6`, the actual target span lands on PDF pages `51-52`. `C1-p051` to `C1-p052` are therefore the isolated Faith in Mind translation-control span, while `C1-p053` has already moved into `è­‰é“æ­Œå’Œè­¯`.",
+      "summary": "Opened `C1` from the locked translation anthology PDF package and classified the `信心銘和譯` target span.",
+      "details": "The locked `在家曹洞宗聖典` witness under `Faith_in_Mind_Translations_NDL/NDL906534_zaike_sotoshu_seiten.pdf` has now been rendered in-package with `ocr/C1/page-images/`, `ocr/C1/metadata.json`, and `ocr/C1/page-map.csv`. Direct page review of the contents page showed that `信心銘和譯` begins at internal page `90`, and because internal pagination begins at PDF page `6`, the actual target span lands on PDF pages `51-52`. `C1-p051` to `C1-p052` are therefore the isolated Faith in Mind translation-control span, while `C1-p053` has already moved into `證道歌和譯`.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -2539,7 +2539,7 @@
       "object_type": "witness",
       "object_id": "C1",
       "summary": "Completed the first bounded `C1` translation-control confirmation slice against the recovered `T1` lemma spine.",
-      "details": "Direct image review of `C1-p051` to `C1-p052`, checked against the saved four-engine OCR stack, shows that `C1` preserves the broad transmitted poem order and the standard close inside a Japanese `ä¿¡å¿ƒéŠ˜å’Œè­¯` reception frame. The witness clearly carries the familiar ending with `ä¿¡å¿ƒä¸äºŒ`, `ä¸äºŒä¿¡å¿ƒ`, `è¨€èªžé“æ–·`, and `éžåŽ»ä¾†ä»Š`, but because it is a translation or reception control rather than a clean standalone Chinese text, it does not expose a new high-confidence repair locus beyond the already resolved `T4`-supported set.",
+      "details": "Direct image review of `C1-p051` to `C1-p052`, checked against the saved four-engine OCR stack, shows that `C1` preserves the broad transmitted poem order and the standard close inside a Japanese `信心銘和譯` reception frame. The witness clearly carries the familiar ending with `信心不二`, `不二信心`, `言語道斷`, and `非去來今`, but because it is a translation or reception control rather than a clean standalone Chinese text, it does not expose a new high-confidence repair locus beyond the already resolved `T4`-supported set.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -2577,8 +2577,8 @@
       "event_type": "witness_prepared",
       "object_type": "witness",
       "object_id": "C2",
-      "summary": "Opened `C2` from the locked translation anthology PDF package and classified the `ä¸‰ç¥–å¤§å¸«ä¿¡å¿ƒéŠ˜` target span.",
-      "details": "The locked `ç¦ªé–€æ›¹æ´žå®—å…¸ part3` witness under `Faith_in_Mind_Translations_NDL/NDL961952_zenmon_sotoshuten_part3.pdf` has now been rendered in-package with `ocr/C2/page-images/`, `ocr/C2/metadata.json`, and `ocr/C2/page-map.csv`. Because the local PDF begins mid-volume and exposes no searchable text layer, the target span was isolated by direct page review of the rendered images rather than by text extraction. `C2-p020` is the divider for `ç¬¬ä¸ƒ æ”¯é‚£è«·è© éƒ¨`, `C2-p021` opens `ä¸‰ç¥–å¤§å¸«ä¿¡å¿ƒéŠ˜` on the left page while the facing right page still carries section explanation, `C2-p022` is a full continuation spread of the target text, and `C2-p023` carries `ä¸‰ç¥–ä¿¡å¿ƒéŠ˜çµ‚` on the right page while the facing left page has already moved into `æ´žå±±å¤§å¸«çŽ„ä¸­éŠ˜`.",
+      "summary": "Opened `C2` from the locked translation anthology PDF package and classified the `三祖大師信心銘` target span.",
+      "details": "The locked `禪門曹洞宗典 part3` witness under `Faith_in_Mind_Translations_NDL/NDL961952_zenmon_sotoshuten_part3.pdf` has now been rendered in-package with `ocr/C2/page-images/`, `ocr/C2/metadata.json`, and `ocr/C2/page-map.csv`. Because the local PDF begins mid-volume and exposes no searchable text layer, the target span was isolated by direct page review of the rendered images rather than by text extraction. `C2-p020` is the divider for `第七 支那諷詠部`, `C2-p021` opens `三祖大師信心銘` on the left page while the facing right page still carries section explanation, `C2-p022` is a full continuation spread of the target text, and `C2-p023` carries `三祖信心銘終` on the right page while the facing left page has already moved into `洞山大師玄中銘`.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -2769,8 +2769,8 @@
       "event_type": "witness_prepared",
       "object_type": "witness",
       "object_id": "C3",
-      "summary": "Opened `C3` from the locked NDL commentary PDF package and classified the `ä¿¡å¿ƒéŠ˜è¬›è©±` body span.",
-      "details": "The locked commentary witness under `Faith_in_Mind_NDL_Commentaries/NDL823155_xinxinming_kowa.pdf` has now been rendered in-package with `ocr/C3/page-images/`, `ocr/C3/metadata.json`, and `ocr/C3/page-map.csv`. Because the local PDF does not expose a usable searchable text layer for span isolation, the target commentary body was isolated by direct page review of the rendered images. `C3-p001` to `C3-p003` are wrapper or title matter, `C3-p004` begins the main `ä¿¡å¿ƒéŠ˜è¬›è©±` commentary body, `C3-p056` is the last clear commentary body spread, `C3-p057` is publisher catalogue matter, `C3-p058` to `C3-p059` are terminal colophon matter, and `C3-p060` to `C3-p063` are rear wrapper or library-tail images.",
+      "summary": "Opened `C3` from the locked NDL commentary PDF package and classified the `信心銘講話` body span.",
+      "details": "The locked commentary witness under `Faith_in_Mind_NDL_Commentaries/NDL823155_xinxinming_kowa.pdf` has now been rendered in-package with `ocr/C3/page-images/`, `ocr/C3/metadata.json`, and `ocr/C3/page-map.csv`. Because the local PDF does not expose a usable searchable text layer for span isolation, the target commentary body was isolated by direct page review of the rendered images. `C3-p001` to `C3-p003` are wrapper or title matter, `C3-p004` begins the main `信心銘講話` commentary body, `C3-p056` is the last clear commentary body spread, `C3-p057` is publisher catalogue matter, `C3-p058` to `C3-p059` are terminal colophon matter, and `C3-p060` to `C3-p063` are rear wrapper or library-tail images.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -2963,8 +2963,8 @@
       "event_type": "witness_prepared",
       "object_type": "witness",
       "object_id": "C4",
-      "summary": "Opened `C4` from the locked NDL commentary PDF package and classified the `ä¿¡å¿ƒéŠ˜æ‹ˆæ` body span.",
-      "details": "The locked commentary witness under `Faith_in_Mind_NDL_Commentaries/NDL823156_xinxinming_nentei.pdf` has now been rendered in-package with `ocr/C4/page-images/`, `ocr/C4/metadata.json`, and `ocr/C4/page-map.csv`. Direct page review shows wrapper, cover, and title or presentation matter on `C4-p001` to `C4-p004`, the main `ä¿¡å¿ƒéŠ˜æ‹ˆæ` commentary body beginning on `C4-p005` and continuing clearly through `C4-p022`, a mixed terminal spread on `C4-p023` with body still visible on the right page and imprint or colophon matter on the left page, and tail or wrapper material on `C4-p024` to `C4-p026`.",
+      "summary": "Opened `C4` from the locked NDL commentary PDF package and classified the `信心銘拈提` body span.",
+      "details": "The locked commentary witness under `Faith_in_Mind_NDL_Commentaries/NDL823156_xinxinming_nentei.pdf` has now been rendered in-package with `ocr/C4/page-images/`, `ocr/C4/metadata.json`, and `ocr/C4/page-map.csv`. Direct page review shows wrapper, cover, and title or presentation matter on `C4-p001` to `C4-p004`, the main `信心銘拈提` commentary body beginning on `C4-p005` and continuing clearly through `C4-p022`, a mixed terminal spread on `C4-p023` with body still visible on the right page and imprint or colophon matter on the left page, and tail or wrapper material on `C4-p024` to `C4-p026`.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -3156,8 +3156,8 @@
       "event_type": "witness_prepared",
       "object_type": "witness",
       "object_id": "C5",
-      "summary": "Opened `C5` from the locked NDL commentary PDF package and classified the `å† è¨»ä¿¡å¿ƒéŠ˜å¤œå¡˜æ°´` body span.",
-      "details": "The locked commentary witness under `Faith_in_Mind_NDL_Commentaries/NDL823160_yetangshui_guanzhu_part1.pdf` has now been rendered in-package with `ocr/C5/page-images/`, `ocr/C5/metadata.json`, and `ocr/C5/page-map.csv`. Direct page review shows seal, title, publication, and prefatory matter on `C5-p001` to `C5-p003`, the main `å† è¨»ä¿¡å¿ƒéŠ˜å¤œå¡˜æ°´` commentary body beginning on `C5-p004` and continuing through `C5-p072`, an explicit terminal page on `C5-p073` marking the end of `å·»ä¸Š`, and rear wrapper or library-tail matter on `C5-p074`.",
+      "summary": "Opened `C5` from the locked NDL commentary PDF package and classified the `冠註信心銘夜塘水` body span.",
+      "details": "The locked commentary witness under `Faith_in_Mind_NDL_Commentaries/NDL823160_yetangshui_guanzhu_part1.pdf` has now been rendered in-package with `ocr/C5/page-images/`, `ocr/C5/metadata.json`, and `ocr/C5/page-map.csv`. Direct page review shows seal, title, publication, and prefatory matter on `C5-p001` to `C5-p003`, the main `冠註信心銘夜塘水` commentary body beginning on `C5-p004` and continuing through `C5-p072`, an explicit terminal page on `C5-p073` marking the end of `巻上`, and rear wrapper or library-tail matter on `C5-p074`.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -3312,7 +3312,7 @@
       "object_type": "witness",
       "object_id": "C5",
       "summary": "Completed the first bounded C5 commentary-control comparison slice against the recovered T1 lemma spine.",
-      "details": "Direct image review of `C5-p004`, representative mid-body commentary leaves such as `C5-p040`, and the late-body edge `C5-p072` together with terminal page `C5-p073`, checked against the saved four-engine OCR stack, shows that `C5` broadly confirms the recovered `T1` lemma spine across the `å·»ä¸Š` commentary body. No new high-confidence `T1` repair locus emerged from this slice.",
+      "details": "Direct image review of `C5-p004`, representative mid-body commentary leaves such as `C5-p040`, and the late-body edge `C5-p072` together with terminal page `C5-p073`, checked against the saved four-engine OCR stack, shows that `C5` broadly confirms the recovered `T1` lemma spine across the `巻上` commentary body. No new high-confidence `T1` repair locus emerged from this slice.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -3700,7 +3700,7 @@
       "object_type": "witness",
       "object_id": "C6",
       "summary": "Opened C6 from the locked NDL commentary PDF package and completed its page-role pass.",
-      "details": "Rendered all 61 PDF pages into in-package `ocr/C6/page-images/`, created `ocr/C6/metadata.json`, and classified `C6-p001` as a mixed title-plus-opening spread, `C6-p002` to `C6-p058` as the main `å† è¨»ä¿¡å¿ƒéŠ˜å¤œå¡˜æ°´` `å·»ä¸‹` commentary body, `C6-p059` as a mixed terminal body-plus-colophon spread, and `C6-p060` to `C6-p061` as rear wrapper or library-tail matter.",
+      "details": "Rendered all 61 PDF pages into in-package `ocr/C6/page-images/`, created `ocr/C6/metadata.json`, and classified `C6-p001` as a mixed title-plus-opening spread, `C6-p002` to `C6-p058` as the main `冠註信心銘夜塘水` `巻下` commentary body, `C6-p059` as a mixed terminal body-plus-colophon spread, and `C6-p060` to `C6-p061` as rear wrapper or library-tail matter.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -3814,7 +3814,7 @@
       "object_type": "witness",
       "object_id": "C6",
       "summary": "Completed the first bounded C6 commentary-control comparison slice.",
-      "details": "Direct page review of representative C6 leaves including the mixed opening C6-p001, the first stable commentary body on C6-p002, representative mid-body C6-p030, the late-body edge C6-p058, and the mixed terminal C6-p059, checked against the saved four-engine OCR stack, shows that C6 broadly confirms the recovered T1 lemma spine and transmitted macro-sequence across the å·ä¸‹ continuation of the å¤œå¡˜æ°´ tradition without exposing a new high-confidence repair locus.",
+      "details": "Direct page review of representative C6 leaves including the mixed opening C6-p001, the first stable commentary body on C6-p002, representative mid-body C6-p030, the late-body edge C6-p058, and the mixed terminal C6-p059, checked against the saved four-engine OCR stack, shows that C6 broadly confirms the recovered T1 lemma spine and transmitted macro-sequence across the 卷下 continuation of the 夜塘水 tradition without exposing a new high-confidence repair locus.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -3854,7 +3854,7 @@
       "object_type": "witness",
       "object_id": "C7",
       "summary": "Opened C7 from the locked Kyoto commentary image package and completed its page-role pass.",
-      "details": "Created `ocr/C7/metadata.json` and `ocr/C7/page-map.csv` against the downloaded 46-image Kyoto set, classifying wrapper and title matter on `C7-p001` to `C7-p003`, prefatory matter on `C7-p004` to `C7-p005`, the main `ä¿¡å¿ƒéŠ˜æ‹ˆæ` commentary body on `C7-p006` to `C7-p043`, publication or colophon matter on `C7-p044`, and rear wrapper or tail matter on `C7-p045` to `C7-p046`.",
+      "details": "Created `ocr/C7/metadata.json` and `ocr/C7/page-map.csv` against the downloaded 46-image Kyoto set, classifying wrapper and title matter on `C7-p001` to `C7-p003`, prefatory matter on `C7-p004` to `C7-p005`, the main `信心銘拈提` commentary body on `C7-p006` to `C7-p043`, publication or colophon matter on `C7-p044`, and rear wrapper or tail matter on `C7-p045` to `C7-p046`.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -4162,7 +4162,7 @@
       "object_type": "witness",
       "object_id": "C9",
       "summary": "Opened C9 from the locked NDL commentary PDF package and completed its page-role pass.",
-      "details": "Rendered all 76 PDF pages into in-package `ocr/C9/page-images/`, created `ocr/C9/metadata.json`, and classified `C9-p001` to `C9-p002` as title matter, `C9-p003` to `C9-p074` as the main `ä¿¡å¿ƒéŠ˜å¤œå¡˜æ°´ - å¢—å† å‚è¨» å·»ä¸Š` commentary body, and `C9-p075` to `C9-p076` as tail or wrapper matter.",
+      "details": "Rendered all 76 PDF pages into in-package `ocr/C9/page-images/`, created `ocr/C9/metadata.json`, and classified `C9-p001` to `C9-p002` as title matter, `C9-p003` to `C9-p074` as the main `信心銘夜塘水 - 増冠傍註 巻上` commentary body, and `C9-p075` to `C9-p076` as tail or wrapper matter.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -4282,7 +4282,7 @@
       "object_type": "witness",
       "object_id": "C10",
       "summary": "Opened C10 from the locked NDL commentary PDF package and completed its page-role pass.",
-      "details": "Rendered all 65 PDF pages into in-package `ocr/C10/page-images/`, created `ocr/C10/metadata.json`, and classified `C10-p001` to `C10-p002` as title matter, `C10-p003` to `C10-p062` as the main `ä¿¡å¿ƒéŠ˜å¤œå¡˜æ°´ - å¢—å† å‚è¨» å·»ä¸‹` commentary body, `C10-p063` as terminal colophon or imprint matter, and `C10-p064` to `C10-p065` as blank or wrapper tail matter.",
+      "details": "Rendered all 65 PDF pages into in-package `ocr/C10/page-images/`, created `ocr/C10/metadata.json`, and classified `C10-p001` to `C10-p002` as title matter, `C10-p003` to `C10-p062` as the main `信心銘夜塘水 - 増冠傍註 巻下` commentary body, `C10-p063` as terminal colophon or imprint matter, and `C10-p064` to `C10-p065` as blank or wrapper tail matter.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -4403,7 +4403,7 @@
       "object_type": "witness",
       "object_id": "C11",
       "summary": "Opened C11 from the locked NDL lecture PDF package and completed its page-role pass.",
-      "details": "Rendered all 100 PDF pages into in-package `ocr/C11/page-images/`, created `ocr/C11/metadata.json`, and classified `C11-p001` to `C11-p003` as cover, title, or prefatory matter and `C11-p004` to `C11-p100` as the active `ä¿¡å¿ƒéŠ˜å¤œå¡˜æ°´è¬›ç¾©` lecture body within part 1.",
+      "details": "Rendered all 100 PDF pages into in-package `ocr/C11/page-images/`, created `ocr/C11/metadata.json`, and classified `C11-p001` to `C11-p003` as cover, title, or prefatory matter and `C11-p004` to `C11-p100` as the active `信心銘夜塘水講義` lecture body within part 1.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -4486,7 +4486,7 @@
       "object_type": "witness",
       "object_id": "C11",
       "summary": "Completed the first bounded C11 lecture-commentary-control comparison slice.",
-      "details": "Direct image review of representative C11 leaves including opening-lemma discussion around C11-p018 to C11-p021 and central ä¸€å¿ƒä¸ç”Ÿ / è¬æ³• discussion around C11-p072 to C11-p074, checked against the saved four-engine OCR stack, shows broad lecture-backed support for the recovered T1 lemma spine without exposing a new high-confidence repair locus. Because C11 is part 1 of a lecture pair, it is not used for a complete terminal-close judgment.",
+      "details": "Direct image review of representative C11 leaves including opening-lemma discussion around C11-p018 to C11-p021 and central 一心不生 / 萬法 discussion around C11-p072 to C11-p074, checked against the saved four-engine OCR stack, shows broad lecture-backed support for the recovered T1 lemma spine without exposing a new high-confidence repair locus. Because C11 is part 1 of a lecture pair, it is not used for a complete terminal-close judgment.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -4528,7 +4528,7 @@
       "object_type": "witness",
       "object_id": "C12",
       "summary": "Opened C12 from the locked NDL lecture PDF package and completed its page-role pass.",
-      "details": "Rendered all 100 PDF pages into in-package ocr/C12/page-images/, created ocr/C12/metadata.json and ocr/C12/page-map.csv, and classified C12-p001 to C12-p094 as active ä¿¡å¿ƒéŠ˜å¤œå¡˜æ°´è¬›ç¾© part 2 lecture body, C12-p095 as publication or colophon matter, C12-p096 to C12-p099 as publisher catalogue or advertising matter, and C12-p100 as rear wrapper or library-tail matter.",
+      "details": "Rendered all 100 PDF pages into in-package ocr/C12/page-images/, created ocr/C12/metadata.json and ocr/C12/page-map.csv, and classified C12-p001 to C12-p094 as active 信心銘夜塘水講義 part 2 lecture body, C12-p095 as publication or colophon matter, C12-p096 to C12-p099 as publisher catalogue or advertising matter, and C12-p100 as rear wrapper or library-tail matter.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -4611,7 +4611,7 @@
       "object_type": "witness",
       "object_id": "C12",
       "summary": "Completed the first bounded C12 lecture-commentary-control comparison slice.",
-      "details": "Direct image review of representative C12 leaves, checked against the saved four-engine OCR stack, confirms broad lecture-backed support for the recovered T1 lemma spine and terminal macro-sequence. C12-p024 supports the central one-mind/all-dharmas discussion; C12-p073 supports the standard late branch around è‹¥ä¸å¦‚æ˜¯ and å¿…ä¸é ˆå®ˆ as lecture-tradition evidence; C12-p077 to C12-p078 support the already supplied ä½†èƒ½å¦‚æ˜¯ close locus; and C12-p079 to C12-p081 support the terminal ä¿¡å¿ƒä¸äºŒ / ä¸äºŒä¿¡å¿ƒ sequence. No accepted T1 text changed.",
+      "details": "Direct image review of representative C12 leaves, checked against the saved four-engine OCR stack, confirms broad lecture-backed support for the recovered T1 lemma spine and terminal macro-sequence. C12-p024 supports the central one-mind/all-dharmas discussion; C12-p073 supports the standard late branch around 若不如是 and 必不須守 as lecture-tradition evidence; C12-p077 to C12-p078 support the already supplied 但能如是 close locus; and C12-p079 to C12-p081 support the terminal 信心不二 / 不二信心 sequence. No accepted T1 text changed.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -5148,7 +5148,7 @@
       "object_type": "witness",
       "object_id": "C16",
       "summary": "Completed the first bounded C16 related-control check.",
-      "details": "Direct image review of C16-p003, C16-p012, C16-p068, C16-p180, and C16-p249, checked against the saved four-engine OCR stack, shows that C16 is a ä¿¡å¿ƒç²å¾—ç« ç™¾å¸­è«‡ devotional or doctrinal related-control witness rather than a usable ä¿¡å¿ƒéŠ˜ lemma witness. No stable poem spine overlap or terminal close overlap was found, and no accepted T1 text changed.",
+      "details": "Direct image review of C16-p003, C16-p012, C16-p068, C16-p180, and C16-p249, checked against the saved four-engine OCR stack, shows that C16 is a 信心獲得章百席談 devotional or doctrinal related-control witness rather than a usable 信心銘 lemma witness. No stable poem spine overlap or terminal close overlap was found, and no accepted T1 text changed.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -5317,7 +5317,7 @@
       "object_type": "witness",
       "object_id": "C17",
       "summary": "Completed the first bounded commentary-related control comparison slice on C17.",
-      "details": "Direct image review of representative active-segment pages C17-p201, C17-p207, and C17-p214, checked against the saved four-engine OCR stack and especially the derived Paddle support under ocr/C17/ocr/paddleocr-ppocrv4/extracted-text/, shows real embedded Faith in Mind lemma discussion across the opening-branch, central one-mind or all-dharmas, and terminal-close bands. Recognizable anchors include forms of è‹¥ä¸å¦‚æ­¤ / å¿…ä¸é ˆå®ˆ, ä¸€å¿ƒä¸ç”Ÿè¬æ³•ç„¡å’Ž, ä¸€å³ä¸€åˆ‡ ä¸€åˆ‡å³ä¸€, ä¿¡å¿ƒä¸äºŒ ä¸äºŒä¿¡å¿ƒ, and è¨€èªžé“æ–· éžåŽ»ä¾†ä»Š. C17 therefore closes as a corroborative commentary-related control witness rather than as a decisive repair witness. No accepted T1 text changed.",
+      "details": "Direct image review of representative active-segment pages C17-p201, C17-p207, and C17-p214, checked against the saved four-engine OCR stack and especially the derived Paddle support under ocr/C17/ocr/paddleocr-ppocrv4/extracted-text/, shows real embedded Faith in Mind lemma discussion across the opening-branch, central one-mind or all-dharmas, and terminal-close bands. Recognizable anchors include forms of 若不如此 / 必不須守, 一心不生萬法無咎, 一即一切 一切即一, 信心不二 不二信心, and 言語道斷 非去來今. C17 therefore closes as a corroborative commentary-related control witness rather than as a decisive repair witness. No accepted T1 text changed.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -5362,7 +5362,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Completed the first bounded post-C17 prefatory-prose correction probe on T1.",
-      "details": "Direct image review of T1-p005 to T1-p006, checked against RapidOCR, extracted Paddle, Paddle column-ordered support, and focused plus full-pass Tesseract, remained too unstable for broad prefatory cleanup but did secure three lines honestly: T1-p005.l01 = ä¸‰ç¥–å¤§å¸«ä¿¡å¿ƒéŠ˜, T1-p006.l03 = ç‰©æ€Žéº¼ä¿¡å¾—åŽ»ä¾¿æ˜¯è‡ªå·±æœ¬åœ°é¢¨å…‰æœ¬ä¾†é¢ç›®, and T1-p006.l09 = åƒå¹´æ´—è€³å…«è¬åŠ«å·²æ˜¯è—¤è›‡ç¹žèº«. The rest of the prefatory block remains open.",
+      "details": "Direct image review of T1-p005 to T1-p006, checked against RapidOCR, extracted Paddle, Paddle column-ordered support, and focused plus full-pass Tesseract, remained too unstable for broad prefatory cleanup but did secure three lines honestly: T1-p005.l01 = 三祖大師信心銘, T1-p006.l03 = 物怎麼信得去便是自己本地風光本來面目, and T1-p006.l09 = 千年洗耳八萬劫已是藤蛇繞身. The rest of the prefatory block remains open.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -5413,7 +5413,7 @@
       "object_type": "witness",
       "object_id": "T1",
       "summary": "Extended the same bounded prefatory-prose probe on T1 and secured two more lines.",
-      "details": "The continuing image-led prefatory-prose slice on T1-p006 secured T1-p006.l06 = å•†é‡è™•è©¦å•è«¸äººç¾ä»Šå…­æ ¹å››å¤§å…§å¤–è™›å¹» and T1-p006.l07 = æ¹›ç„¶å¦‚æ˜¯èˆ‰ä¸€ä¸å¾—äºŒæ”¾éŽä¸€è‘—. The first line depends on direct image review plus Paddle support for the decisive è©¦å•...ç¾ä»Šå…­æ ¹å››å¤§å…§å¤–è™›... frame, while the second depends on strong Paddle preservation of å¦‚æ˜¯èˆ‰ä¸€ä¸å¾—äºŒæ”¾éŽä¸€... plus direct image confirmation of the opening and closing graphs. The remaining neighboring lines remain materially weaker and stay open.",
+      "details": "The continuing image-led prefatory-prose slice on T1-p006 secured T1-p006.l06 = 商量處試問諸人現今六根四大內外虛幻 and T1-p006.l07 = 湛然如是舉一不得二放過一著. The first line depends on direct image review plus Paddle support for the decisive 試問...現今六根四大內外虛... frame, while the second depends on strong Paddle preservation of 如是舉一不得二放過一... plus direct image confirmation of the opening and closing graphs. The remaining neighboring lines remain materially weaker and stay open.",
       "actor_type": "agent",
       "actor_id": "assistant",
       "inputs": [
@@ -5490,7 +5490,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_1",
       "title": "Paused the exhausted prefatory probe and stabilized the opening T1-p007 lemma",
-      "summary": "After the remaining T1-p005 to T1-p006 prefatory damage failed to tighten further, the work moved into the commentary-dominant body and stabilized T1-p007.l01 = è‡³é“ç„¡é›£å”¯å«Œæ€æ“‡ from direct image review plus fully convergent OCR support.",
+      "summary": "After the remaining T1-p005 to T1-p006 prefatory damage failed to tighten further, the work moved into the commentary-dominant body and stabilized T1-p007.l01 = 至道無難唯嫌揀擇 from direct image review plus fully convergent OCR support.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5524,7 +5524,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_1",
       "title": "Continued the T1-p007 commentary-body opening slice and secured the next line",
-      "summary": "Direct image review of T1-p007, checked against RapidOCR, both Paddle support surfaces, and commentary-control parallels, secured T1-p007.l02 = è‰é™„æœ¨åƒç¨®è¬èˆ¬ä¼Žå€†è¨ˆè¼ƒçŸ¥è¦‹è§£æœƒéœ²å¸ƒ and kept the page open for further line-by-line work.",
+      "summary": "Direct image review of T1-p007, checked against RapidOCR, both Paddle support surfaces, and commentary-control parallels, secured T1-p007.l02 = 草附木千種萬般伎倆計較知見解會露布 and kept the page open for further line-by-line work.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5559,7 +5559,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_1",
       "title": "Continued the T1-p007 commentary-body slice and secured a shorter lower-page phrase",
-      "summary": "Direct image review of T1-p007, checked against RapidOCR plus both Paddle support surfaces, secured T1-p007.l11 = æ­Œå¾—é€åº•å¾¹éª¨ while leaving the more tangled adjacent spillover columns open.",
+      "summary": "Direct image review of T1-p007, checked against RapidOCR plus both Paddle support surfaces, secured T1-p007.l11 = 歌得透底徹骨 while leaving the more tangled adjacent spillover columns open.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5593,7 +5593,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_1",
       "title": "Continued the T1-p007 commentary-body slice and secured three more lines",
-      "summary": "Direct image review of T1-p007, checked against RapidOCR, both Paddle support surfaces, OCR geometry, and the commentary-control parallel in C9-p016, secured T1-p007.l05 = å·žäº”å¹´åˆ†ç–ä¸ä¸‹é“å¾—å¤©ä¸‹è€å’Œå°šå€’æˆˆ, T1-p007.l06 = å¸«å¹³ç”Ÿå¿ƒè‚äº”è·ä¸€æ, and T1-p007.l10 = æèµ·ä¼¼äººäº†ä¹Ÿ while leaving the remaining spillover columns open.",
+      "summary": "Direct image review of T1-p007, checked against RapidOCR, both Paddle support surfaces, OCR geometry, and the commentary-control parallel in C9-p016, secured T1-p007.l05 = 州五年分疏不下道得天下老和尚倒戈, T1-p007.l06 = 師平生心肝五職一提, and T1-p007.l10 = 提起似人了也 while leaving the remaining spillover columns open.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5629,7 +5629,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_1",
       "title": "Moved past the T1-p007 spillover wall and secured the first new T1-p008 line",
-      "summary": "After the remaining T1-p007 open columns failed to tighten further under image review, direct image inspection plus extracted Paddle support secured T1-p008.l03 = çˆ¶æ¯æ‰€ç”Ÿå£çµ‚ä¸ç‚ºå›é€š.",
+      "summary": "After the remaining T1-p007 open columns failed to tighten further under image review, direct image inspection plus extracted Paddle support secured T1-p008.l03 = 父母所生口終不為君通.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5663,7 +5663,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_1",
       "title": "Continued forward into T1-p009 and secured another clear prose line",
-      "summary": "Direct image review of T1-p009, checked against RapidOCR plus both Paddle support surfaces and light commentary-control confirmation on the phrase æ´žç„¶æ˜Žç™½, secured T1-p009.l06 = æ„›åŽ»è«¸äººè€…è¦æœƒæ´žç„¶æ˜Žç™½ç«ªèµ·æ‹‚å­äº‘ while leaving the surrounding T1-p009 columns open.",
+      "summary": "Direct image review of T1-p009, checked against RapidOCR plus both Paddle support surfaces and light commentary-control confirmation on the phrase 洞然明白, secured T1-p009.l06 = 愛去諸人者要會洞然明白竪起拂子云 while leaving the surrounding T1-p009 columns open.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5700,7 +5700,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_1",
       "title": "Continued into T1-p010 and secured a sequence-backed prose line",
-      "summary": "Direct image review of T1-p010, checked against RapidOCR plus both Paddle support surfaces and commentary-control support from C9-p020, secured T1-p010.l04 = èˆ‰ä¸€éä¾¿ç•¶æ­¤äº‹ç¦ªå’Œå­é ˆæ‚Ÿå§‹å¾—æœ‰ç®‡ while leaving the rest of T1-p010 open.",
+      "summary": "Direct image review of T1-p010, checked against RapidOCR plus both Paddle support surfaces and commentary-control support from C9-p020, secured T1-p010.l04 = 舉一遍便當此事禪和子須悟始得有箇 while leaving the rest of T1-p010 open.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5767,7 +5767,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_1",
       "title": "Reopened the T1-p011 continuation and secured the water-buffalo line",
-      "summary": "Direct image review of T1-p011, checked against RapidOCR plus both Paddle support surfaces and the commentary-control parallel in C9-p022, secured T1-p011.l09 = é¤Šä¸€é ­æ°´ç‰¯ç‰›å¸¸åœ¨é¢å‰éœ²åœ° while leaving the surrounding T1-p011 columns open.",
+      "summary": "Direct image review of T1-p011, checked against RapidOCR plus both Paddle support surfaces and the commentary-control parallel in C9-p022, secured T1-p011.l09 = 養一頭水牯牛常在面前露地 while leaving the surrounding T1-p011 columns open.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5804,7 +5804,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_1",
       "title": "Passed through the remaining T1 pages to the last page and secured a late batch",
-      "summary": "Direct image review of T1-p012, T1-p014, and T1-p080, checked against the saved RapidOCR and Paddle support surfaces, secured T1-p012.l11 = ç‚ºäººç¦ªå’Œå­æ˜Žå‘, T1-p014.l03 = å¸«äº‘å³æ­¤ç‰©éžä»–ç‰©ç„¡æœ•è¿¹æ²’æ¶¯å²¸å¦‚ç¾šç¾Š, T1-p080.l02 = å¾Œå¥æ˜¯æœ€åˆå¥è‹¥æéº¼æœƒä¾å‰æ‰“å…¥é¬¼çªŸè£, T1-p080.l03 = æ˜¯è¨€èªžé“æ–·éžåŽ»ä¾†ä»Šæœ€åˆå¥æ˜¯æœ€å¾Œå¥, and T1-p080.l04 = ç§–è¦ä½œä¸€å¥å­ç‚ºä½ èªª while visually reconfirming T1-p081 and T1-p082 as non-blank tail matter and T1-p083 as blank.",
+      "summary": "Direct image review of T1-p012, T1-p014, and T1-p080, checked against the saved RapidOCR and Paddle support surfaces, secured T1-p012.l11 = 為人禪和子明向, T1-p014.l03 = 師云即此物非他物無朕迹沒涯岸如羚羊, T1-p080.l02 = 後句是最初句若恁麼會依前打入鬼窟裏, T1-p080.l03 = 是言語道斷非去來今最初句是最後句, and T1-p080.l04 = 秖要作一句子為你說 while visually reconfirming T1-p081 and T1-p082 as non-blank tail matter and T1-p083 as blank.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5847,7 +5847,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_2",
       "title": "Reopened the earliest unresolved prose and secured a second-pass batch",
-      "summary": "Direct image review of T1-p007, T1-p008, and T1-p011, checked against RapidOCR, both Paddle support surfaces, and the C9-p016 and C9-p022 commentary parallels, secured T1-p007.l07 = é‚„æ§‹å¾—éº¼ç§–é€™è‡³é“ç„¡é›£è¨€ç«¯èªžç«¯éžä½†, T1-p008.l08 = æ˜¯ç®‡ç„¡äº‹åº•é“äººè‹¥æ„æ ¹ä¸æ–·è¦‹è§£ä¸å¿˜, T1-p011.l01 = é”é †ç›¸çˆ­æ˜¯ç‚ºå¿ƒç—…, T1-p011.l02 = ä½•å¾—ç›¸æ‡‰åŽ»å¤§åœ°é›ªæ¼«æ¼«æ˜¥ä¾†ä¾èˆŠå¯’, T1-p011.l05 = è‹¥å¾—æéº¼åŽ»é€†ä¹Ÿä¸è¦‹é †ä¹Ÿä¸è¦‹é ­, and T1-p011.l06 = ç¶ è‰ä¾†è±ˆä¸è¦‹é´»å±±äºŒåå¹´ä¸åƒç¦ªä¸å­¸é“ while leaving the denser T1-p011 current-person cluster and the remaining T1-p007 spillover columns open.",
+      "summary": "Direct image review of T1-p007, T1-p008, and T1-p011, checked against RapidOCR, both Paddle support surfaces, and the C9-p016 and C9-p022 commentary parallels, secured T1-p007.l07 = 還構得麼秖這至道無難言端語端非但, T1-p008.l08 = 是箇無事底道人若意根不斷見解不忘, T1-p011.l01 = 達順相爭是為心病, T1-p011.l02 = 何得相應去大地雪漫漫春來依舊寒, T1-p011.l05 = 若得恁麼去逆也不見順也不見頭, and T1-p011.l06 = 綠草來豈不見鴻山二十年不參禪不學道 while leaving the denser T1-p011 current-person cluster and the remaining T1-p007 spillover columns open.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5889,7 +5889,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_2",
       "title": "Continued into T1-p012 and secured another second-pass batch",
-      "summary": "Direct image review of T1-p012, checked against RapidOCR, both Paddle support surfaces, and the C11-p028 commentary parallel, secured T1-p012.l01 = ä½ é“æˆ–æ˜¯æˆ–éžäººä¸è­˜é€†è¡Œé †è¡Œå¤©èŽ«æ¸¬è¿Ž, T1-p012.l03 = å¸«äº‘è€Œä»Šæéº¼è€…å¤šä¸æéº¼è€…å°‘æˆç¾¤ä½œéšŠ, and T1-p012.l05 = æœ‰è¨±å¤šèˆ¬ç—…å¦‚ä½•æ•‘å¾—åˆ¥äºº while leaving the denser central T1-p012 columns open.",
+      "summary": "Direct image review of T1-p012, checked against RapidOCR, both Paddle support surfaces, and the C11-p028 commentary parallel, secured T1-p012.l01 = 你道或是或非人不識逆行順行天莫測迎, T1-p012.l03 = 師云而今恁麼者多不恁麼者少成群作隊, and T1-p012.l05 = 有許多般病如何救得別人 while leaving the denser central T1-p012 columns open.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5925,7 +5925,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_2",
       "title": "Consolidated a five-agent split on the early unresolved prose walls",
-      "summary": "Five bounded read-only agent probes were run in parallel across the unresolved T1-p007 spillover columns, the T1-p011 current-person cluster, the central T1-p012 prose, the weaker T1-p008 continuation, and the forward T1-p013 to T1-p015 slice. After direct image recheck of the strongest proposals, the consolidation accepted T1-p011.l03 = æ˜Žè‡ªå·±ä¸äº†ç›®å‰æ­¤äººç§–å…·ä¸€éš»çœ¼è‹¥äº†ç›®, T1-p011.l08 = ä¸€æ™‚åæ–·å–šä½œå¸¸å…‰ç¾å‰å¿µå¿µä¸æ˜§è‹¥åª, T1-p012.l07 = æ˜¯æ³•åŸ·ç¸½æ˜¯å¿ƒç—…åƒç¦ªç§–è¦å®‰æ¨‚ä½ è‚šè£¹, and T1-p012.l08 = å¦‚éº»ä¼¼ç²Ÿæ²’é‡å¤§äººä½œé€™è¦‹è§£ä¸æ˜¯ while leaving T1-p011.l04, the remaining T1-p007 spillover columns, the weaker T1-p008 lines, and the later T1-p014.l07 to l08 block unresolved.",
+      "summary": "Five bounded read-only agent probes were run in parallel across the unresolved T1-p007 spillover columns, the T1-p011 current-person cluster, the central T1-p012 prose, the weaker T1-p008 continuation, and the forward T1-p013 to T1-p015 slice. After direct image recheck of the strongest proposals, the consolidation accepted T1-p011.l03 = 明自己不了目前此人秖具一隻眼若了目, T1-p011.l08 = 一時坐斷喚作常光現前念念不昧若只, T1-p012.l07 = 是法執總是心病參禪秖要安樂你肚裹, and T1-p012.l08 = 如麻似粟沒量大人作這見解不是 while leaving T1-p011.l04, the remaining T1-p007 spillover columns, the weaker T1-p008 lines, and the later T1-p014.l07 to l08 block unresolved.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -5966,7 +5966,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_2",
       "title": "Rechecked the central T1-p012 cluster and secured one more line",
-      "summary": "Direct image review of T1-p012, checked against local OCR and the C9-p023 commentary overlap, secured T1-p012.l04 = ä¾¿æ˜¯æ„›ä¸çŸ¥æ†Žæ„›æ˜¯å¿ƒé•é †æ˜¯å¢ƒå› å°é †å¢ƒ while leaving the remaining central T1-p012 columns l02, l06, l09, and l10 unresolved.",
+      "summary": "Direct image review of T1-p012, checked against local OCR and the C9-p023 commentary overlap, secured T1-p012.l04 = 便是愛不知憎愛是心違順是境因對順境 while leaving the remaining central T1-p012 columns l02, l06, l09, and l10 unresolved.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6000,7 +6000,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_2",
       "title": "Separated two short central T1-p012 lines and secured them",
-      "summary": "Direct image review of T1-p012, checked against both T1 Paddle support surfaces and RapidOCR line-order noise, secured T1-p012.l06 = æ˜¯æˆ‘è‡ªå¿ƒè£å¦„å€’ and T1-p012.l10 = è‡ªç”Ÿæ†Žæ„›è‡ªé”è‡ªé• while leaving only T1-p012.l02 and l09 unresolved on the page.",
+      "summary": "Direct image review of T1-p012, checked against both T1 Paddle support surfaces and RapidOCR line-order noise, secured T1-p012.l06 = 是我自心裏妄倒 and T1-p012.l10 = 自生憎愛自達自違 while leaving only T1-p012.l02 and l09 unresolved on the page.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6034,7 +6034,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_2",
       "title": "Secured the last strong central T1-p012 emotional-causal line",
-      "summary": "Direct image review of T1-p012, checked against both T1 OCR support surfaces, secured T1-p012.l09 = å‰‡èµ·æ„›å¿ƒé‡é•æƒ…å‰‡èµ·çž‹å¿ƒæ—¢ä¸äº†é•é †; only T1-p012.l02 now remains unresolved on the page before the run moves forward again.",
+      "summary": "Direct image review of T1-p012, checked against both T1 OCR support surfaces, secured T1-p012.l09 = 則起愛心遇違情則起瞋心既不了違順; only T1-p012.l02 now remains unresolved on the page before the run moves forward again.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6068,7 +6068,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_2",
       "title": "Secured the stronger half of the later T1-p014 sensory pair",
-      "summary": "Direct image review of T1-p014, checked against both T1 Paddle support surfaces and the C9-p026 commentary-control cluster, secured T1-p014.l07 = æŽ›è§’ä¸ç”¨é³¥é“è™›çŽ„äº”è‰²ä¸èƒ½ç›²äº”éŸ³ä¸èƒ½äº‚ while leaving the adjacent è¬è±¡ / æ£®ç¾… / åœ“é™€ column T1-p014.l08 unresolved.",
+      "summary": "Direct image review of T1-p014, checked against both T1 Paddle support surfaces and the C9-p026 commentary-control cluster, secured T1-p014.l07 = 掛角不用鳥道虛玄五色不能盲五音不能亂 while leaving the adjacent 萬象 / 森羅 / 圓陀 column T1-p014.l08 unresolved.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6104,7 +6104,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_2",
       "title": "Continued the later forward scan and secured a clean T1-p015 contrastive line",
-      "summary": "Direct image review of T1-p015, checked against convergent T1 OCR support, secured T1-p015.l04 = æ»¿ç„¡éš›åœ¨å‡¡å¤«å–šä½œå‡¡å¤«æ³•åœ¨è–äººå–šä½œè–äºº while leaving the earlier T1-p012.l02 and T1-p014.l08 holdouts unresolved.",
+      "summary": "Direct image review of T1-p015, checked against convergent T1 OCR support, secured T1-p015.l04 = 滿無際在凡夫喚作凡夫法在聖人喚作聖人 while leaving the earlier T1-p012.l02 and T1-p014.l08 holdouts unresolved.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6137,7 +6137,7 @@
       "date": "2026-04-30",
       "phase": "manual_correction_pass_2",
       "title": "Secured the adjacent T1-p015 diagnostic challenge line",
-      "summary": "Direct image review of T1-p015, checked against both T1 OCR support surfaces, secured T1-p015.l06 = äººæ³•æœ¬ç„¡æ¬ å°‘äº¦ç„¡é¤˜å‰Œåœ¨ä»€éº¼è™•å‹˜ while leaving the earlier T1-p012.l02 and T1-p014.l08 holdouts unresolved.",
+      "summary": "Direct image review of T1-p015, checked against both T1 OCR support surfaces, secured T1-p015.l06 = 人法本無欠少亦無餘剌在什麼處勘 while leaving the earlier T1-p012.l02 and T1-p014.l08 holdouts unresolved.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6171,7 +6171,7 @@
       "date": "2026-05-01",
       "phase": "manual_correction_pass_2",
       "title": "Continued the later forward scan and secured a stronger T1-p016 pair",
-      "summary": "Direct image review of T1-p016, checked against both T1 OCR support surfaces and Paddle column-order support, secured T1-p016.l05 = å¹³åœ°ä¸Šæ­»äººç„¡æ•¸å¦‚ä»Šæèµ·æ´»æ–å­å‘ç™¾è‰ and T1-p016.l06 = ç¤ºè¡†äº‘æ–¬é‡˜æˆªéµé–€å‰è‰æ·±ä¸€ä¸ˆç ´äºŒä½œä¸‰ while leaving the weaker surrounding T1-p016 columns unresolved.",
+      "summary": "Direct image review of T1-p016, checked against both T1 OCR support surfaces and Paddle column-order support, secured T1-p016.l05 = 平地上死人無數如今提起活杖子向百草 and T1-p016.l06 = 示衆云斬釘截鐵門前草深一丈破二作三 while leaving the weaker surrounding T1-p016 columns unresolved.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6205,7 +6205,7 @@
       "date": "2026-05-01",
       "phase": "manual_correction_pass_2",
       "title": "Continued the same T1-p016 window and secured two more lines",
-      "summary": "Direct image review of T1-p016, checked against local OCR and Paddle column-order support, secured T1-p016.l04 = ç¥–å¸«éº¼äº‘è‰¯ä¹…æ‡‰é ˆæéº¼æœƒæ–¹å§‹å¥‘å¦‚ and T1-p016.l08 = æ˜¯å–ä¸å¾—æ¨ä¸å¾—ä¸å¯å¾—ä¸­æéº¼å¾—é‚„è¦‹ while leaving the weaker T1-p016 outer columns unresolved.",
+      "summary": "Direct image review of T1-p016, checked against local OCR and Paddle column-order support, secured T1-p016.l04 = 祖師麼云良久應須恁麼會方始契如 and T1-p016.l08 = 是取不得捨不得不可得中恁麼得還見 while leaving the weaker T1-p016 outer columns unresolved.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6239,7 +6239,7 @@
       "date": "2026-05-01",
       "phase": "manual_correction_pass_2",
       "title": "Opened T1-p017 and secured the first strong karmic pair",
-      "summary": "Direct image review of T1-p017, checked against both T1 OCR support surfaces, secured T1-p017.l05 = é ­å‡ºé ­æ²’ä½ å¦‚ä»Šè¦ä¸é€æœ‰ç·£é ˆæ˜¯æˆªæ–· and T1-p017.l06 = é€ä»–æœƒæ„›å–æ¨é€ æ¥­å—å ±å‘è¼ªè¿´ç”Ÿæ­»æµ·è£; the remaining T1-p017 columns still need more local tightening.",
+      "summary": "Direct image review of T1-p017, checked against both T1 OCR support surfaces, secured T1-p017.l05 = 頭出頭沒你如今要不逐有緣須是截斷 and T1-p017.l06 = 逐他會愛取捨造業受報向輪迴生死海裏; the remaining T1-p017 columns still need more local tightening.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6273,7 +6273,7 @@
       "date": "2026-05-01",
       "phase": "manual_correction_pass_2",
       "title": "Refined the strongest T1-p017 admonitory line after higher-magnification recheck",
-      "summary": "A higher-magnification recheck of T1-p017, still anchored only in the local image plus both Paddle support surfaces, showed that T1-p017.l05 had under-read a visible particle and should stand as é ­å‡ºé ­æ²’ä½ å¦‚ä»Šè¦ä¸é€æœ‰ç·£éº¼é ˆæ˜¯æˆªæ–· while the surrounding later-state package surfaces were advanced to match the already secured T1-p018 opening line.",
+      "summary": "A higher-magnification recheck of T1-p017, still anchored only in the local image plus both Paddle support surfaces, showed that T1-p017.l05 had under-read a visible particle and should stand as 頭出頭沒你如今要不逐有緣麼須是截斷 while the surrounding later-state package surfaces were advanced to match the already secured T1-p018 opening line.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6310,7 +6310,7 @@
       "date": "2026-05-01",
       "phase": "manual_correction_pass_2",
       "title": "Continued into T1-p018 and secured one cleaner middle column",
-      "summary": "Direct image review of T1-p018, checked against both Paddle support surfaces, secured T1-p018.l08 = è‰¯ä¹…æš—è£æŠ½æ©«éª¨æ˜Žä¸­åèˆŒé ­ from a much tighter middle-band column than the surrounding prose.",
+      "summary": "Direct image review of T1-p018, checked against both Paddle support surfaces, secured T1-p018.l08 = 良久暗裏抽橫骨明中坐舌頭 from a much tighter middle-band column than the surrounding prose.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6344,7 +6344,7 @@
       "date": "2026-05-01",
       "phase": "manual_correction_pass_2",
       "title": "Rechecked the T1-p018 opening and upward-affairs columns and secured two more lines",
-      "summary": "Direct image review of T1-p018, checked against both Paddle support surfaces, refined T1-p018.l01 to ä¸€ç¨®å¹³æ‡·æ³¯ç„¶è‡ªç›¡ and secured T1-p018.l09 = æ–¹çŸ¥æœ‰å‘ä¸Šäº‹ä¿—ä¸”é“ä½œéº¼ç”Ÿæ˜¯å‘ä¸Šäº‹.",
+      "summary": "Direct image review of T1-p018, checked against both Paddle support surfaces, refined T1-p018.l01 to 一種平懷泯然自盡 and secured T1-p018.l09 = 方知有向上事俗且道作麼生是向上事.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6378,7 +6378,7 @@
       "date": "2026-05-01",
       "phase": "manual_correction_pass_2",
       "title": "Continued forward into T1-p019 and secured the strongest right-hand column",
-      "summary": "Direct image review of T1-p019, with the local page image weighted over the weaker saved OCR support, secured T1-p019.l03 = å¸«äº‘çš®è†šè„«è½ç›¡å”¯æœ‰ä¸€çœŸå¯¦è€€å¤é¨°ä»Šæ˜Ž.",
+      "summary": "Direct image review of T1-p019, with the local page image weighted over the weaker saved OCR support, secured T1-p019.l03 = 師云皮膚脫落盡唯有一真實耀古騰今明.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6411,7 +6411,7 @@
       "date": "2026-05-01",
       "phase": "manual_correction_pass_2",
       "title": "Continued forward into T1-p020 and secured the rightmost challenge column",
-      "summary": "Direct image review of T1-p020, checked against the surviving OCR frame, secured T1-p020.l03 = ä½œä»€éº¼å‹•æ˜¯ä½•ç‰©éœæ˜¯ä»€éº¼ä¸å¯æœ‰å…©ç®‡ä¹Ÿ.",
+      "summary": "Direct image review of T1-p020, checked against the surviving OCR frame, secured T1-p020.l03 = 作什麼動是何物靜是什麼不可有兩箇也.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6478,7 +6478,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Continued inside T1-p021 and secured the rebuke column",
-      "summary": "Direct image review of T1-p021, checked against the surviving OCR frame and full-page context, secured T1-p021.l04 = å¸«æ‰“äº‘ç§–ç‚ºä½ å°‡èµ¤è‚‰åœ˜è¦æ‰›æˆ‘æ£’ä¸è­˜ç—›.",
+      "summary": "Direct image review of T1-p021, checked against the surviving OCR frame and full-page context, secured T1-p021.l04 = 師打云秖為你將赤肉團要扛我棒不識痛.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6512,7 +6512,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Continued inside T1-p021 and secured the challenge line and tail coda",
-      "summary": "Direct image review of T1-p021, checked against the surviving OCR frame and full-page context, secured T1-p021.l05 = ä½œéº¼ç”Ÿé“æ‹ç¦ªåºŠä¸€ä¸‹åŽ»ç™¾é›œç¢Ž and T1-p021.l09 = äº‚å‹•å…¨æ˜¯éœ.",
+      "summary": "Direct image review of T1-p021, checked against the surviving OCR frame and full-page context, secured T1-p021.l05 = 作麼生道拍禪床一下去百雜碎 and T1-p021.l09 = 亂動全是靜.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6546,7 +6546,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Continued into T1-p022 and secured the rightmost short nondual column",
-      "summary": "Direct image review of T1-p022, checked against the surviving OCR frame, secured T1-p022.l02 = å…¨æ˜¯å‹•è£ä¸€ç„¡äºŒ.",
+      "summary": "Direct image review of T1-p022, checked against the surviving OCR frame, secured T1-p022.l02 = 全是動裏一無二.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6580,7 +6580,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Continued inside T1-p022 and secured two short middle columns",
-      "summary": "Direct image review of T1-p022, checked against the local OCR frame, secured T1-p022.l04 = ç¨‹è¡Œ and T1-p022.l05 = é‡å.",
+      "summary": "Direct image review of T1-p022, checked against the local OCR frame, secured T1-p022.l04 = 程行 and T1-p022.l05 = 遇偏.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6614,7 +6614,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Continued inside T1-p022 and secured the master-challenge column",
-      "summary": "Direct image review of T1-p022, checked against the local OCR frame, secured T1-p022.l03 = å¸«äº‘æœ‰ä»€éº¼æ•‘è™•å•ä½ æœ‰ä»€éº¼ç‰©æ•™ä½ é£.",
+      "summary": "Direct image review of T1-p022, checked against the local OCR frame, secured T1-p022.l03 = 師云有什麼救處問你有什麼物教你遣.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6648,7 +6648,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Continued deeper into T1-p022 and secured two longer mid-right columns",
-      "summary": "Direct image review of T1-p022, checked against both Paddle support surfaces, secured T1-p022.l06 = åæž¯æƒ…å¢ƒæ·»æ¼èŽ«é“å…©è™•å¤±åŠŸè‡´ä½¿ and T1-p022.l07 = éŽæ°è‹¥ä¸€è™•é€åƒè™•è¬è™•ä¸€æ™‚é€.",
+      "summary": "Direct image review of T1-p022, checked against both Paddle support surfaces, secured T1-p022.l06 = 偏枯情境添漏莫道兩處失功致使 and T1-p022.l07 = 過恰若一處透千處萬處一時透.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6684,7 +6684,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p023 and secured the first short opening column",
-      "summary": "Direct image review of T1-p023, checked against convergent Paddle support, secured T1-p023.l02 = ä½†æ­¢å…¶å‹•ä¾¿æ˜¯.",
+      "summary": "Direct image review of T1-p023, checked against convergent Paddle support, secured T1-p023.l02 = 但止其動便是.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6718,7 +6718,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Continued up the T1-p023 opening band and secured two more short columns",
-      "summary": "Direct image review of T1-p023, checked against convergent Paddle support, secured T1-p023.l01 = æ˜Žå¿ƒåœ°è¬æœ‰ and T1-p023.l04 = æœ¬ä¾†ç„¡ç›¸.",
+      "summary": "Direct image review of T1-p023, checked against convergent Paddle support, secured T1-p023.l01 = 明心地萬有 and T1-p023.l04 = 本來無相.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6754,7 +6754,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Continued through the stronger T1-p023 middle band and secured two longer columns",
-      "summary": "Direct image review of T1-p023, checked against convergent Paddle support, secured T1-p023.l05 = èƒŒå…¶çœŸç©ºè€Œä¸çŸ¥è¬æ³•ç•¶é«”æ˜¯çœŸç©ºè§¸ç‰© and T1-p023.l06 = è¬æœ‰å³è¿·å¦™æœ‰è½åœ¨æ–·è¦‹ç¦ªå’Œå­ä½†ä»”ç´°æ€.",
+      "summary": "Direct image review of T1-p023, checked against convergent Paddle support, secured T1-p023.l05 = 背其真空而不知萬法當體是真空觸物 and T1-p023.l06 = 萬有即迷妙有落在斷見禪和子但仔細思.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6788,7 +6788,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Separated one shorter lower T1-p023 warning column from the weaker surrounding residue",
-      "summary": "Direct image review of T1-p023, checked against convergent Paddle support, secured T1-p023.l10 = æœ‰å¾—æ–·ç©ºå³è¿·çœŸç©º.",
+      "summary": "Direct image review of T1-p023, checked against convergent Paddle support, secured T1-p023.l10 = 有得斷空即迷真空.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6822,7 +6822,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Closed the final short T1-p023 tail column without forcing the weaker neighboring prose",
-      "summary": "Direct image review of T1-p023, checked against convergent Paddle support, secured T1-p023.l11 = å…¶éœä¾¿æ˜¯ç©ºå…¸.",
+      "summary": "Direct image review of T1-p023, checked against convergent Paddle support, secured T1-p023.l11 = 其靜便是空典.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6857,7 +6857,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p024 and secured two cleaner opening columns",
-      "summary": "Direct image review of T1-p024, checked against convergent Paddle support, secured T1-p024.l02 = å¸«äº‘ä½Žè²ä½ çº”é–‹å£ä¾¿æ²’äº¤æ¶‰äº†ä¹Ÿ and T1-p024.l03 = é£Ÿè§€å¤©ä¸Šæœˆå…‰å´å­¸ä¸­ç .",
+      "summary": "Direct image review of T1-p024, checked against convergent Paddle support, secured T1-p024.l02 = 師云低聲你纔開口便沒交涉了也 and T1-p024.l03 = 食觀天上月光却學中珠.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6893,7 +6893,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Reopened the cleaner lower-middle T1-p024 band and secured the flower-smile allusion column",
-      "summary": "Direct image review of T1-p024, checked against convergent Paddle support, secured T1-p024.l07 = æ•™ç„¡è¨€ä½•å¿…æ‹ˆèŠ±å¾®ç¬‘å‚³æ­£æ³•çœ¼è—ä½ è¦.",
+      "summary": "Direct image review of T1-p024, checked against convergent Paddle support, secured T1-p024.l07 = 教無言何必拈花微笑傳正法眼藏你要.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6928,7 +6928,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Secured the adjacent T1-p024 teaching column without forcing the denser center",
-      "summary": "Direct image review of T1-p024, checked against convergent Paddle support, secured T1-p024.l08 = æ™‚å¾—å‡ºåŽ»ç¦ªå’Œå­æ­¤äº‹è‹¥åœ¨è¨€å¥è£¹ä¸€å¤§è—.",
+      "summary": "Direct image review of T1-p024, checked against convergent Paddle support, secured T1-p024.l08 = 時得出去禪和子此事若在言句裹一大藏.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6963,7 +6963,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Reopened the cleaner T1-p024 doctrinal challenge column and restored the damaged interrogative close",
-      "summary": "Direct image review of T1-p024, with the page image weighted over the noisier saved OCR line, secured T1-p024.l06 = æ˜¯ç©ºåç•°é«”åŒæ›´é»žä»–æ³•ä¸”é“é‡åœ¨ä»€éº¼è™• and repaired the missing rejected-reading row for the already accepted T1-p024.l08.",
+      "summary": "Direct image review of T1-p024, with the page image weighted over the noisier saved OCR line, secured T1-p024.l06 = 是空名異體同更點他法且道遇在什麼處 and repaired the missing rejected-reading row for the already accepted T1-p024.l08.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -6997,7 +6997,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Separated the right-edge T1-p024 image column from spillover and secured the vine-thicket simile",
-      "summary": "Direct image review of the right-edge T1-p024 crop, checked against the surviving Paddle frame, secured T1-p024.l09 = åœ¨è‘›è—¤çª è£å¦‚è·›é¼ˆç›²é¾œå…¥ç©ºè°·ç›¸ä¼¼.",
+      "summary": "Direct image review of the right-edge T1-p024 crop, checked against the surviving Paddle frame, secured T1-p024.l09 = 在葛藤窠裏如跛鼈盲龜入空谷相似.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7032,7 +7032,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p025 and secured the strongest doctrinal column first",
-      "summary": "Direct image review of T1-p025, checked against the surviving T1 OCR frame, secured T1-p025.l05 = æ™ºéš”æƒ³é«”æ®Šè¦æ¼”èªžè·¯çµ•å¿ƒè¡Œè™•æ»….",
+      "summary": "Direct image review of T1-p025, checked against the surviving T1 OCR frame, secured T1-p025.l05 = 智隔想體殊要演語路絕心行處滅.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7066,7 +7066,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Stayed on T1-p025 and secured the compact challenge column ahead of the noisier allusive band",
-      "summary": "Direct image review of T1-p025, checked against the split OCR support, secured T1-p025.l02 = å¸«äº‘ä»€éº¼è™•å¾—æ¶ˆæ¯ä¾†å¯§å¯æˆªèˆŒ.",
+      "summary": "Direct image review of T1-p025, checked against the split OCR support, secured T1-p025.l02 = 師云什麼處得消息來寧可截舌.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7100,7 +7100,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Stayed on T1-p025 and secured the falling-flower allusive line after the opening challenge tightened",
-      "summary": "Direct image review of T1-p025, checked against both surviving T1 OCR layers, secured T1-p025.l03 = ç«Ÿæˆå¾—ç®‡ä»€éº¼äº‹ä¸€å¤œè½èŠ±é›¨æ»¿åŸŽæµæ°´.",
+      "summary": "Direct image review of T1-p025, checked against both surviving T1 OCR layers, secured T1-p025.l03 = 竟成得箇什麼事一夜落花雨滿城流水.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7134,7 +7134,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rechecked the next T1-p025 allusive action column and secured the local Buddha-ancestor whip frame",
-      "summary": "Direct image review of T1-p025, checked against the surviving OCR skeleton, secured T1-p025.l04 = ç›¸ä¼¼ä»¥ä½›ç¥–éž­å­å¾·å±±è‡¨æ¿Ÿæœ‰æ£’æœ‰å–.",
+      "summary": "Direct image review of T1-p025, checked against the surviving OCR skeleton, secured T1-p025.l04 = 相似以佛祖鞭子德山臨濟有棒有喝.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7168,7 +7168,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p026 and secured the cleaner image and speech-warning columns",
-      "summary": "Direct image review of T1-p026, checked against both Paddle support surfaces and limited commentary-control alignment, secured T1-p026.l06 = å¯’å²©ç•°è‰é’åè‘—æ—¥é›²å®—ä¸å¦™, T1-p026.l09 = ç¦ªå’Œå­ä½ å¦‚ä»Šæ“¬, and T1-p026.l10 = é–‹å£è¦è©±æœƒéš¨è¨€é€å¥ä¾¿.",
+      "summary": "Direct image review of T1-p026, checked against both Paddle support surfaces and limited commentary-control alignment, secured T1-p026.l06 = 寒岩異草青坐著日雲宗不妙, T1-p026.l09 = 禪和子你如今擬, and T1-p026.l10 = 開口要話會隨言逐句便.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7205,7 +7205,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p027 and secured the cleaner Mount Sumeru image column",
-      "summary": "Direct image review of T1-p027, checked against both Paddle support surfaces, secured T1-p027.l07 = éº¼ç”Ÿé ˆå½Œé ‚ä¸Šç„¡æ ¹è‰ä¸å—æ˜¥é¢¨èŠ±è‡ªé–‹.",
+      "summary": "Direct image review of T1-p027, checked against both Paddle support surfaces, secured T1-p027.l07 = 麼生須彌頂上無根草不受春風花自開.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7240,7 +7240,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Stayed on T1-p027 and secured the from-emptiness back-into-emptiness challenge column",
-      "summary": "Direct image review of T1-p027, checked against both Paddle support surfaces and the already stabilized local phrase frame at T1-p022.l01, secured T1-p027.l09 = å¸«äº‘ä½ å¾…ç¿»æ‚”é‚£å‰ä¾†é£æœ‰æ²’æœ‰å¾žç©ºèƒŒç©º.",
+      "summary": "Direct image review of T1-p027, checked against both Paddle support surfaces and the already stabilized local phrase frame at T1-p022.l01, secured T1-p027.l09 = 師云你待翻悔那前來遣有沒有從空背空.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7276,7 +7276,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p028 and secured the cleaner instruction column",
-      "summary": "Direct image review of T1-p028, checked against both Paddle support surfaces and limited commentary-control alignment, secured T1-p028.l06 = å¸«äº‘è‡ªçŸ¥å³å¾—å‰ä¾†ç§ªç®¡è§€ç©ºåŽ»ç”Ÿæ»…å¿µ.",
+      "summary": "Direct image review of T1-p028, checked against both Paddle support surfaces and limited commentary-control alignment, secured T1-p028.l06 = 師云自知即得前來秪管觀空去生滅念.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7312,7 +7312,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Stayed on T1-p028 and secured the cleaner warning column",
-      "summary": "Direct image review of T1-p028, checked against both Paddle support surfaces, secured T1-p028.l04 = è¿´é¿ä¹‹è™•ç›´é¥’æéº¼å·²æ˜¯è‡ªçžž.",
+      "summary": "Direct image review of T1-p028, checked against both Paddle support surfaces, secured T1-p028.l04 = 迴避之處直饒恁麼已是自瞞.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7347,7 +7347,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Stayed on T1-p028 and secured the cleaner practical daily-use column",
-      "summary": "Direct image review of T1-p028, checked against both Paddle support surfaces, secured T1-p028.l09 = é€™ç®‡ç”°åœ°é–‹ä¸€è½‰æ—¥ç”¨ä¹‹é–“åœ°æ›´ç„¡.",
+      "summary": "Direct image review of T1-p028, checked against both Paddle support surfaces, secured T1-p028.l09 = 這箇田地開一轉日用之間地更無.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7382,7 +7382,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p029 and secured the cleaner thousand-transformations column",
-      "summary": "Direct image review of T1-p029, checked against both Paddle support surfaces, secured T1-p029.l07 = å¡«æºå¡žå£‘åƒè®Šè¬åŒ–å…¨é«”ä¸€çœŸä¸å‹•çµ²æ¯«.",
+      "summary": "Direct image review of T1-p029, checked against both Paddle support surfaces, secured T1-p029.l07 = 填溝塞壑千變萬化全體一真不動絲毫.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7417,7 +7417,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Stayed on T1-p029 and secured the clearer sensory-doctrinal and public-case columns",
-      "summary": "Direct image review of T1-p029, checked against both Paddle support surfaces, secured T1-p029.l09 = ç”¨è¦‹èžè¦ºçŸ¥ç„¡ä¸ç´”çœŸç›´å¾—äº˜å¤§åœ°æ»¿å¤©ä¸‹ and T1-p029.l10 = å¸«äº‘ç¾æˆå…¬æ¡ˆä½ æ±‚ä»–ä½œéº¼è¦‹ä¹ŸçœŸèžä¹ŸçœŸ.",
+      "summary": "Direct image review of T1-p029, checked against both Paddle support surfaces, secured T1-p029.l09 = 用見聞覺知無不純真直得亘大地滿天下 and T1-p029.l10 = 師云現成公案你求他作麼見也真聞也真.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7452,7 +7452,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Stayed on T1-p029 and secured the rhythmic sensory-quartet and left-neighbor admonitory columns",
-      "summary": "Direct image review of T1-p029, checked against both Paddle support surfaces, secured T1-p029.l05 = è²ä¹ŸçœŸè‰²ä¹ŸçœŸå‹•éœä¹ŸçœŸèªžé»˜ä¹ŸçœŸå¦‚æ˜¯æ—¥ and T1-p029.l08 = åˆ‡ç¾æˆæ›´ç„¡æ¬ å°‘ä½ ä½†æ‡‰ä¿‚æœ‰è¦‹ç©ºè¦‹ä½›è¦‹.",
+      "summary": "Direct image review of T1-p029, checked against both Paddle support surfaces, secured T1-p029.l05 = 聲也真色也真動靜也真語默也真如是日 and T1-p029.l08 = 切現成更無欠少你但應係有見空見佛見.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7488,7 +7488,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Stayed on T1-p029 and secured the clearer right-edge and far-left columns",
-      "summary": "Direct image review of T1-p029, checked against RapidOCR plus both Paddle support surfaces, secured T1-p029.l03 = æœ‰è‘—ç©ºé¿æººæŠ•ç«ä»”ç´°æ€é‡ä¸€ç‹€é ˜éŽ and T1-p029.l04 = è‡ªç„¶å¾—åˆ°ç©©å¯†ç”°åœ°å¿½è‹¥é‡‹è¿¦è€å­é“å¾.",
+      "summary": "Direct image review of T1-p029, checked against RapidOCR plus both Paddle support surfaces, secured T1-p029.l03 = 有著空避溺投火仔細思量一狀領過 and T1-p029.l04 = 自然得到穩密田地忽若釋迦老子道吾.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7524,7 +7524,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p030 and secured the cleaner question, rebuke, and speaking columns",
-      "summary": "Direct image review of T1-p030, checked against RapidOCR plus both Paddle support surfaces, secured T1-p030.l04 = æ˜¯ä½•å¿ƒè¡Œ, T1-p030.l07 = æ‰“è„«ä½œç®‡å¤§ç„¡äº‹äººæ›´ä¸è¿½å¿µæ›´ä¸å°‹æ±‚è½‰, and T1-p030.l09 = å¸«äº‘ç¨æŽ›å”‡å»åœ¨é€™è£¹è¦ä½ ç©ºè¦‹æœ‰è¦‹ä¸€æ™‚.",
+      "summary": "Direct image review of T1-p030, checked against RapidOCR plus both Paddle support surfaces, secured T1-p030.l04 = 是何心行, T1-p030.l07 = 打脫作箇大無事人更不追念更不尋求轉, and T1-p030.l09 = 師云獨掛唇吻在這裹要你空見有見一時.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7560,7 +7560,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p031 and secured the right-edge warning and reed-flower image column",
-      "summary": "Direct image review of T1-p031, checked against RapidOCR plus both Paddle support surfaces, secured T1-p031.l01 = ç¸±æœ‰æ˜¯éžç´›ç„¶å¤±å¿ƒ and T1-p031.l05 = ä¸è¦‹å¤œä¾†ä¾èˆŠå®¿è˜†èŠ±.",
+      "summary": "Direct image review of T1-p031, checked against RapidOCR plus both Paddle support surfaces, secured T1-p031.l01 = 縱有是非紛然失心 and T1-p031.l05 = 不見夜來依舊宿蘆花.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7596,7 +7596,7 @@
       "date": "2026-05-02",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p032 and secured a cleaner middle-band doctrinal cluster",
-      "summary": "Direct image review of T1-p032, checked against both Paddle support surfaces and the already-open local C9 parallel, secured T1-p032.l02 = æ˜¯è½‰å¥ä¸è¦‹ä¸€è‰²å§‹æ˜¯åŠææ›´é ˆçŸ¥æœ‰å…¨æ, T1-p032.l04 = è¨€è¬è¨€ç§–æ˜¯ä¸€è¨€åƒæ³•è¬æ³•ç§–æ˜¯ä¸€æ³•å¾—åˆ°, T1-p032.l08 = æ­¤è™•äº¦é ˆè½‰å´è‹¥å®ˆä½å…¶ä¸€ä¾¿æ˜¯ç¹«é©¢æ©›æ‰€, and T1-p032.l09 = ç›¡åæ–¹ä¸€å¥è¶…è¬è±¡åƒå¥è¬å¥ç§–æ˜¯ä¸€å¥åƒ.",
+      "summary": "Direct image review of T1-p032, checked against both Paddle support surfaces and the already-open local C9 parallel, secured T1-p032.l02 = 是轉句不見一色始是半提更須知有全提, T1-p032.l04 = 言萬言秖是一言千法萬法秖是一法得到, T1-p032.l08 = 此處亦須轉却若守住其一便是繫驢橛所, and T1-p032.l09 = 盡十方一句超萬象千句萬句秖是一句千.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7631,8 +7631,8 @@
       "id": "FIM-215",
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
-      "title": "Stayed on T1-p032 and secured the cleaner ä¸»äººå…¬ and é›²é–€ columns",
-      "summary": "Direct image review of T1-p032, checked against both Paddle support surfaces, secured T1-p032.l06 = ç®‡ä¸»äººå…¬ç„¡äºŒç„¡åˆ¥å¤äººä¸å¾—å·²è€Œå–šä½œ and T1-p032.l07 = ä¼¼é›²é–€é“ç›´å¾—è“‹ä¹¾å¤å¤§åœ°ç„¡çµ²æ¯«éŽæ‚£.",
+      "title": "Stayed on T1-p032 and secured the cleaner 主人公 and 雲門 columns",
+      "summary": "Direct image review of T1-p032, checked against both Paddle support surfaces, secured T1-p032.l06 = 箇主人公無二無別古人不得已而喚作 and T1-p032.l07 = 似雲門道直得蓋乾坤大地無絲毫過患.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7666,8 +7666,8 @@
       "id": "FIM-216",
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
-      "title": "Stayed on T1-p032 and separated the cleaner right-edge paired-category line from the ä¸»äººå…¬ column below it",
-      "summary": "Direct image review of T1-p032, checked against both Paddle support surfaces and the local C9 parallel, secured T1-p032.l03 = å¤±ä¸€åˆ‡å–æ¨ä¸€åˆ‡æ†Žæ„›ä¸€åˆ‡æ˜¯éžéƒ½è™›ç§–æ˜¯.",
+      "title": "Stayed on T1-p032 and separated the cleaner right-edge paired-category line from the 主人公 column below it",
+      "summary": "Direct image review of T1-p032, checked against both Paddle support surfaces and the local C9 parallel, secured T1-p032.l03 = 失一切取捨一切憎愛一切是非都虛秖是.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7702,7 +7702,7 @@
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p033 and secured the cleaner admonitory column first",
-      "summary": "Direct image review of T1-p033, checked against both Paddle support surfaces and the local C9 control, secured T1-p033.l08 = æœ‰ä»€éº¼éŽä½†é™¤å…¶ç—…ä¸é™¤å…¶æ³•ä¸æ”¹èˆŠæ™‚.",
+      "summary": "Direct image review of T1-p033, checked against both Paddle support surfaces and the local C9 control, secured T1-p033.l08 = 有什麼過但除其病不除其法不改舊時.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7736,8 +7736,8 @@
       "id": "FIM-218",
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
-      "title": "Rolled forward into T1-p034 and secured the `å…‰å¢ƒä¿±ç„¡ / èƒ½ç…§æ˜¯å¿ƒ` challenge column",
-      "summary": "Direct image review of T1-p034, checked against both Paddle support surfaces, secured T1-p034.l07 = å¸«äº‘å…‰å¢ƒä¿±ç„¡å¾©æ˜¯ä½•ç‰©é‚„çŸ¥èƒ½ç…§æ˜¯å¿ƒ.",
+      "title": "Rolled forward into T1-p034 and secured the `光境俱無 / 能照是心` challenge column",
+      "summary": "Direct image review of T1-p034, checked against both Paddle support surfaces, secured T1-p034.l07 = 師云光境俱無復是何物還知能照是心.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7770,8 +7770,8 @@
       "id": "FIM-219",
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
-      "title": "Stayed on T1-p034 and secured the cleaner `æ‰€ç…§æ˜¯å¢ƒ / å› å¢ƒç”Ÿå¿ƒ` doctrinal column",
-      "summary": "Direct image review of T1-p034, checked against both Paddle support surfaces, secured T1-p034.l04 = æ‰€ç…§æ˜¯å¢ƒå› å¿ƒèµ·å¢ƒå› å¢ƒç”Ÿå¿ƒç„¡å¿µè€Œå¢ƒ.",
+      "title": "Stayed on T1-p034 and secured the cleaner `所照是境 / 因境生心` doctrinal column",
+      "summary": "Direct image review of T1-p034, checked against both Paddle support surfaces, secured T1-p034.l04 = 所照是境因心起境因境生心無念而境.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7804,8 +7804,8 @@
       "id": "FIM-220",
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
-      "title": "Stayed on T1-p034 and secured the cleaner `ç™½ç·´é£› / é’å±±è‰²` image column",
-      "summary": "Direct image review of T1-p034, checked against both Paddle support surfaces, secured T1-p034.l08 = è½è™•åƒå¤å¸¸å¦‚ç™½ç·´é£›ä¸€ç•Œç ´é’å±±è‰².",
+      "title": "Stayed on T1-p034 and secured the cleaner `白練飛 / 青山色` image column",
+      "summary": "Direct image review of T1-p034, checked against both Paddle support surfaces, secured T1-p034.l08 = 落處千古常如白練飛一界破青山色.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7839,7 +7839,7 @@
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
       "title": "Rolled forward into T1-p035 and secured the short reciprocal doctrinal frame",
-      "summary": "Direct image review of T1-p035, checked against convergent RapidOCR and both Paddle support surfaces, secured T1-p035.l02 = å¢ƒç”±èƒ½å¢ƒèƒ½ç”±å¢ƒèƒ½.",
+      "summary": "Direct image review of T1-p035, checked against convergent RapidOCR and both Paddle support surfaces, secured T1-p035.l02 = 境由能境能由境能.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7874,7 +7874,7 @@
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
       "title": "Stayed on T1-p035 and secured the scenic negation column",
-      "summary": "Direct image review of T1-p035, checked against both Paddle support surfaces, secured T1-p035.l05 = ä¸æ˜¯å±±é’æ°´ç¢§å¤©é«˜åœ°åŽšä¸ƒç¸±å…«æ©«åƒè¬.",
+      "summary": "Direct image review of T1-p035, checked against both Paddle support surfaces, secured T1-p035.l05 = 不是山青水碧天高地厚七縱八橫千萬.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7908,8 +7908,8 @@
       "id": "FIM-223",
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
-      "title": "Stayed on T1-p035 and secured the `ä¹¾å¤å¤§åœ° / ç™¾é›œç¢Ž` column",
-      "summary": "Direct image review of T1-p035, checked against both Paddle support surfaces, secured T1-p035.l04 = åŒ–åœ¨å¿ƒå‰‡å…¨å¿ƒä¹¾å¤å¤§åœ°ç™¾é›œç¢Ž.",
+      "title": "Stayed on T1-p035 and secured the `乾坤大地 / 百雜碎` column",
+      "summary": "Direct image review of T1-p035, checked against both Paddle support surfaces, secured T1-p035.l04 = 化在心則全心乾坤大地百雜碎.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7943,8 +7943,8 @@
       "id": "FIM-224",
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
-      "title": "Stayed on T1-p035 and secured the `å…©æ®µä¸‰æ®µ / å–«æ£’` rebuke column",
-      "summary": "Direct image review of T1-p035, checked against both Paddle support surfaces, secured T1-p035.l03 = å¸«é€£è²æ‰“äº‘èªªä»€éº¼å…©æ®µä¸‰æ®µä½ ç§ªå–«æ£’.",
+      "title": "Stayed on T1-p035 and secured the `兩段三段 / 喫棒` rebuke column",
+      "summary": "Direct image review of T1-p035, checked against both Paddle support surfaces, secured T1-p035.l03 = 師連聲打云說什麼兩段三段你秪喫棒.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
@@ -7978,8 +7978,8 @@
       "id": "FIM-225",
       "date": "2026-05-03",
       "phase": "manual_correction_pass_2",
-      "title": "Stayed on T1-p035 and secured the right-edge `åœ¨å¢ƒå‰‡å…¨å¢ƒ` doctrinal column",
-      "summary": "Direct image review of T1-p035, checked against both Paddle support surfaces, secured T1-p035.l07 = å¢ƒç”±èƒ½å¢ƒäººä¸ç¤™å¢ƒæ‰€ä»¥åœ¨å¢ƒå‰‡å…¨å¢ƒ.",
+      "title": "Stayed on T1-p035 and secured the right-edge `在境則全境` doctrinal column",
+      "summary": "Direct image review of T1-p035, checked against both Paddle support surfaces, secured T1-p035.l07 = 境由能境人不礙境所以在境則全境.",
       "files_changed": [
         "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
         "provenance/faith-in-mind/process/correction-log.md",
