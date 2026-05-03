@@ -631,3 +631,30 @@ Faith in Mind adoption rule:
 | `T1-p030.l05` | 10 | `貴` | `image inspection` | `moderate` | `T1` |
 | `T1-p030.l05` | 13 | `片` | `image inspection` | `moderate` | `T1` |
 | `T1-p030.l05` | 18 | `幾` | `image inspection` | `moderate` | `T1` |
+| `T1-p030.l02` | 3 | `樓` | `image inspection` | `high` | `T1` |
+| `T1-p030.l06` | 1 | `灰` | `image inspection plus bounded comparison support` | `moderate` | `T1` |
+| `T1-p030.l06` | 14 | `處` | `image inspection plus local OCR support` | `moderate` | `T1` |
+| `T1-p031.l04` | 5 | `復` | `image inspection plus exact comparison support` | `moderate` | `T1` |
+| `T1-p031.l04` | 8 | `麼` | `image inspection plus exact comparison support` | `moderate` | `T1` |
+| `T1-p031.l04` | 12 | `良` | `image inspection plus exact comparison support` | `moderate` | `T1` |
+| `T1-p031.l04` | 13 | `久` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l06` | 1 | `坐` | `image inspection plus exact comparison support` | `moderate` | `T1` |
+| `T1-p031.l06` | 5 | `翁` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l06` | 12 | `籠` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l06` | 15 | `今` | `exact comparison support with local tail shape` | `moderate` | `KR6q0359` |
+| `T1-p031.l07` | 7 | `殘` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l07` | 8 | `羮` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l07` | 9 | `餿` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l08` | 1 | `案` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l08` | 4 | `喫` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l08` | 6 | `氈` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l08` | 8 | `挹` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l08` | 9 | `猫` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l09` | 1 | `示` | `image inspection plus exact comparison support` | `moderate` | `T1` |
+| `T1-p031.l09` | 2 | `眾` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l10` | 1 | `峯` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l10` | 4 | `橫` | `image inspection plus exact comparison support` | `moderate` | `T1` |
+| `T1-p031.l10` | 6 | `豎` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l10` | 10 | `衲` | `exact comparison support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p031.l10` | 12 | `髑` | `image inspection plus exact comparison support` | `moderate` | `T1` |
+| `T1-p031.l10` | 13 | `髏` | `image inspection plus exact comparison support` | `moderate` | `T1` |
