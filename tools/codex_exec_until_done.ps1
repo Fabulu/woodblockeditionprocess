@@ -40,17 +40,25 @@ function Test-TerminalStop {
     }
 
     $stopPatterns = @(
+        '(?i)\bentire remaining unresolved package queue is actually exhausted\b',
+        '(?i)\bentire remaining package queue is actually exhausted\b',
+        '(?i)\bpackage-level evidence wall\b',
+        '(?i)\bpackage level evidence wall\b',
+        '(?i)\bpackage-local manual-correction queue is exhausted by a real evidence wall\b',
+        '(?i)\bcurrent package-local manual-correction queue is exhausted by a real evidence wall\b',
+        '(?i)\bglobal package-level stop\b',
         '(?i)\bworkflow queue is exhausted\b',
         '(?i)\bqueue is exhausted\b',
         '(?i)\bactive remaining page\/locus queue is actually exhausted\b',
         '(?i)\bgate file requires stopping\b',
-        '(?i)\bgenuine blocker\b',
         '(?i)\bneeds user input\b',
         '(?i)\bmissing external evidence\b',
         '(?i)\bpackage validation fails? and .* cannot repair\b',
         '(?i)\bstopped because .* queue is exhausted\b',
-        '(?i)\bstopped because .* blocker\b',
-        '(?i)\bstopped because .* gate\b'
+        '(?i)\bstopped because .* gate\b',
+        '(?i)\bstopped because .* package-level\b',
+        '(?i)\bstopped because .* package level\b',
+        '(?i)\bstopped because .* evidence wall\b.*\bpackage\b'
     )
 
     foreach ($pattern in $stopPatterns) {

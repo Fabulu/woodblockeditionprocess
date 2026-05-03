@@ -1,4 +1,4 @@
-Continue the Faith in Mind critical-edition workflow from the current package state and do not stop after a single page or slice unless you hit a real blocker.
+Continue the Faith in Mind critical-edition workflow from the current package state and do not stop after a single page or slice unless you hit a true package-level stop condition.
 
 Operating requirements:
 - Work inside C:\woodblocks\Faith_in_Mind_Critical_Edition.
@@ -21,11 +21,24 @@ Operating requirements:
 Execution policy:
 - Continue through the next required correction/comparison work and keep rolling forward slice by slice.
 - Do not stop just because one page or one locus was finished.
+- Do not stop just because one local page cluster or one current slice hits an evidence wall if other unresolved loci elsewhere in the package still remain potentially workable.
+- Treat local evidence walls as state updates, not as terminal conditions, unless they collectively exhaust the entire remaining unresolved set.
+- If the front-of-queue loci are blocked, roam to other unresolved loci already recorded in the package and keep pursuing any bounded productive slice that can still be completed honestly.
+- Prefer exact local image reinspection, already-opened OCR support, and already-opened witnesses before declaring a locus terminal.
 - Only stop when one of these is true:
-  - the active remaining page/locus queue is actually exhausted,
+  - the entire remaining unresolved package queue is actually exhausted by resolution or honest evidence walls,
   - a gate file requires stopping,
   - package validation fails and you cannot repair it safely,
   - you hit a genuine blocker that needs user input or missing external evidence.
+
+Global stop test:
+- Before stopping for an evidence wall, verify that no other unresolved loci in `unresolved-loci.md`, `current-state.md`, the corrected working text, or the live process state still offer a bounded productive slice on the present in-package basis.
+- If any other unresolved locus remains potentially workable, continue there instead of stopping.
+- Only report queue exhaustion when the remaining unresolved loci are all either:
+  - already resolved,
+  - explicitly paused by gate/policy,
+  - or honestly below threshold after direct reinspection and already-opened witness/OCR support checks.
+- If you stop at a real package-level wall, say so explicitly using package-level language rather than local page language.
 
 Safety and persistence:
 - Validate the package at sensible checkpoints.
@@ -37,3 +50,4 @@ Safety and persistence:
 Finish condition:
 - If you are not blocked, keep going.
 - If you eventually stop, the final message must say exactly why you stopped and what remains, if anything.
+- If you stop because the package is exhausted on the present evidence basis, say explicitly that the stop is package-level and list the remaining unresolved loci.
