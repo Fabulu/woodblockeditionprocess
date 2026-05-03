@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_p034_l03_dark_accord_peach_blossom_column_recovery`
+- Last completed phase: `manual_correction_slice_T1_second_pass_p033_l02_short_reciprocal_coda_recovery`
 
 ## What is already done
 
@@ -402,6 +402,7 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `T1-p036.l08 = 依舊白雲中` is now also secured from direct image review plus convergent local OCR support.
 - `T1-p036.l01`, `T1-p036.l02`, `T1-p036.l03`, `T1-p036.l04`, `T1-p036.l05`, `T1-p036.l06`, `T1-p036.l07`, `T1-p036.l08`, and `T1-p036.l09` are now all secured from direct image review plus convergent local OCR support and bounded comparison corroboration where needed, with `l01/l05` specifically corrected after an earlier local misassignment was reopened and reversed.
 - `T1-p032.l05` is now also secured from direct image review plus convergent local OCR support.
+- `T1-p033.l02 = 相應` is now also secured from direct image inspection plus both Paddle support surfaces.
 - `T1-p033.l04 = 掬水月在手弄花香滿衣`, `T1-p033.l06 = 秖是舊時行履處作麼生是即今行履處`, and `T1-p033.l09 = 心不生萬法無咎` are now also secured from direct image review plus convergent local OCR support and bounded `C5/C9` corroboration where needed.
 - `T1-p033.l07 = 過著衣喫飯地煎茶東遊西大小便` is now also secured from direct image review plus bounded `C5/C9` corroboration.
 - `T1-p034.l02 = 空境無相而心寂故得能隨境滅境逐能沉` is now also secured from direct image review plus convergent local OCR support and bounded `C5` corroboration.

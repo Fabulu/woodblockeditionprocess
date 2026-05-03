@@ -8437,6 +8437,38 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p034_l03_dark_accord_peach_blossom_column_recovery",
         "last_text_changed_event": "FIM-237"
       }
+    },
+    {
+      "id": "FIM-238",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Rechecked the still-open T1-p033 edge and secured the short reciprocal coda",
+      "summary": "Direct image review of T1-p033, checked against both Paddle support surfaces, secured T1-p033.l02 = 相應 while leaving the longer `崖頭打箇筋斗` and `山是山水是水` bands below threshold.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p033.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p033.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p033.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p033.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_test_p034_remaining_l05_then_recheck_p033_and_p035_holdouts",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p033_l02_short_reciprocal_coda_recovery",
+        "last_text_changed_event": "FIM-238"
+      }
     }
   ]
 }
