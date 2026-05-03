@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_p033_l02_short_reciprocal_coda_recovery`
+- Last completed phase: `manual_correction_slice_T1_second_pass_p035_l09_explanatory_coda_recovery`
 
 ## What is already done
 
@@ -408,5 +408,6 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `T1-p034.l02 = 空境無相而心寂故得能隨境滅境逐能沉` is now also secured from direct image review plus convergent local OCR support and bounded `C5` corroboration.
 - `T1-p034.l03 = 理智冥符人牛不見直得桃花零落盡何處` is now also secured from enlarged direct image review plus convergent local OCR support and partial `C5` phrase corroboration.
 - `T1-p034.l06 = 直得三祖大師無隱身之地諸人者還知` is now also secured from direct image review plus bounded `C5/C9` corroboration.
-- the main live holdouts immediately around this point are the still-open `T1-p033.l03` and `l05` columns, the remaining `T1-p034.l05` `一穿却一提 / 八面玲瓏` residue, and the surviving short-fragment problem at `T1-p035.l09`.
-- the next required bounded slice is to test the remaining `T1-p034.l05` band again on the current in-package basis before later rechecking the weaker `T1-p033.l03`, `T1-p033.l05`, and `T1-p035.l09` holdouts.
+- `T1-p035.l09 = 故知兩段元是一空` is now also secured from enlarged direct image review plus bounded phrase support on the tail `元是一空`.
+- the main live holdouts immediately around this point are the still-open `T1-p033.l03` and `l05` columns plus the remaining `T1-p034.l05` `一穿却一提 / 八面玲瓏` residue.
+- the next required bounded slice is to test the remaining `T1-p034.l05` band again on the current in-package basis before later rechecking the weaker `T1-p033.l03` and `T1-p033.l05` holdouts.

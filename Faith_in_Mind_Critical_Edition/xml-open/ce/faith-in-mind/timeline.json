@@ -8469,6 +8469,41 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p033_l02_short_reciprocal_coda_recovery",
         "last_text_changed_event": "FIM-238"
       }
+    },
+    {
+      "id": "FIM-239",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Rechecked the old T1-p035 short-fragment slot and resolved it as a full explanatory coda",
+      "summary": "Enlarged direct image review of T1-p035, checked against the local OCR tail and bounded commentary-control phrase support, secured T1-p035.l09 = 故知兩段元是一空.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p035.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p035.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p035.txt",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p059.txt",
+        "provenance/faith-in-mind/ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/C9-p059.txt",
+        "provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p082.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_test_p034_remaining_l05_then_recheck_p033_holdouts",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p035_l09_explanatory_coda_recovery",
+        "last_text_changed_event": "FIM-239"
+      }
     }
   ]
 }
