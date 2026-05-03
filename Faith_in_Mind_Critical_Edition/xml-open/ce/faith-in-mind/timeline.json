@@ -8113,6 +8113,43 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p036_left_edge_white_cloud_column_recovery",
         "last_text_changed_event": "FIM-228"
       }
+    },
+    {
+      "id": "FIM-229",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Stayed on T1-p036 and secured the cleaner inner prose plus the far-right doctrinal close",
+      "summary": "Direct image review of enlarged T1-p036 crops, checked against the saved T1 OCR stack and bounded comparison support, secured T1-p036.l02, l03, l06, l07, and l09.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p036.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p036.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p036.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p036.txt",
+        "provenance/faith-in-mind/ocr/C17/ocr/paddleocr-ppocrv4/extracted-text/C17-p129.txt",
+        "provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p059.txt",
+        "provenance/faith-in-mind/ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/C9-p059.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_resume_after_p036_inner_and_right_column_recovery",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p036_inner_and_right_column_recovery",
+        "last_text_changed_event": "FIM-229"
+      }
     }
   ]
 }
