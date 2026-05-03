@@ -1,4 +1,4 @@
-﻿{
+{
   "edition_slug": "faith-in-mind",
   "timeline_version": 1,
   "events": [
@@ -7481,8 +7481,7 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p029_sensory_quartet_and_left_neighbor_columns",
         "last_text_changed_event": "FIM-210"
       }
-    }
-    ,
+    },
     {
       "id": "FIM-211",
       "date": "2026-05-02",
@@ -7517,8 +7516,7 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p029_right_edge_and_far_left_column_recovery",
         "last_text_changed_event": "FIM-211"
       }
-    }
-    ,
+    },
     {
       "id": "FIM-212",
       "date": "2026-05-02",
@@ -7553,8 +7551,7 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p030_question_rebuke_and_speaking_column_recovery",
         "last_text_changed_event": "FIM-212"
       }
-    }
-    ,
+    },
     {
       "id": "FIM-213",
       "date": "2026-05-02",
@@ -7589,8 +7586,7 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p031_right_edge_warning_and_reed_flower_column_recovery",
         "last_text_changed_event": "FIM-213"
       }
-    }
-    ,
+    },
     {
       "id": "FIM-214",
       "date": "2026-05-02",
@@ -7625,8 +7621,7 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p032_middle_band_turn_phrase_and_reductive_cluster_recovery",
         "last_text_changed_event": "FIM-214"
       }
-    }
-    ,
+    },
     {
       "id": "FIM-215",
       "date": "2026-05-03",
@@ -7660,8 +7655,7 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p032_zhurengong_and_yunmen_column_recovery",
         "last_text_changed_event": "FIM-215"
       }
-    }
-    ,
+    },
     {
       "id": "FIM-216",
       "date": "2026-05-03",
@@ -8753,6 +8747,42 @@
       "state_effect": {
         "next_required_slice": "manual_correction_slice_T1_second_pass_reassess_p030_l08_and_p029_residue_then_return_to_p011_p012_holdouts",
         "last_completed_phase": "manual_correction_slice_T1_second_pass_exact_column_recovery_p030_l03_p014_l08",
+        "last_text_changed_event": "FIM-246"
+      }
+    },
+    {
+      "id": "FIM-247",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Rechecked the remaining five-locus continuation queue and recorded a package-local evidence wall",
+      "summary": "Direct image review of T1-p030.l08, T1-p029.l02, T1-p029.l06, T1-p011.l04, and T1-p012.l02, checked against the saved local OCR support and already opened bounded control witnesses where relevant, did not yield a new safe repair. No further bounded productive local correction slice is currently available on the present in-package basis.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p011.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p011.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p011.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p012.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_pending_stronger_evidence_for_remaining_holdouts",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_reassess_p030_p029_p011_p012_remaining_holdouts_evidence_wall",
         "last_text_changed_event": "FIM-246"
       }
     }
