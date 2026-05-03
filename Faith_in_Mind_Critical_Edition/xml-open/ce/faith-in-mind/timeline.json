@@ -8539,6 +8539,42 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_p035_l09_explanatory_coda_recovery",
         "last_text_changed_event": "FIM-239"
       }
+    },
+    {
+      "id": "FIM-241",
+      "date": "2026-05-03",
+      "phase": "manual_correction_pass_2",
+      "title": "Returned to T1-p031 and secured the left-edge challenge plus mid-left taunt columns",
+      "summary": "Direct image review of dedicated T1-p031 column crops, checked against convergent local OCR support and bounded C17 phrase corroboration where useful, secured T1-p031.l02 = 師云你共誰說一切空有一切動靜一切得 and T1-p031.l07 = 成瞎漢還有不受酸餡飯底麼.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p031.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p031.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p031.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p031.txt",
+        "provenance/faith-in-mind/ocr/C17/ocr/paddleocr-ppocrv4/extracted-text/C17-p147.txt"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_continue_p031_remaining_columns_then_reassess_p030_and_p029",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_p031_l02_l07_challenge_and_taunt_recovery",
+        "last_text_changed_event": "FIM-241"
+      }
     }
   ]
 }

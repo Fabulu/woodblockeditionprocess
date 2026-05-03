@@ -614,3 +614,10 @@ Faith in Mind adoption rule:
 | `T1-p034.l03` | 3 | `冥` | `image inspection` | `moderate` | `T1` |
 | `T1-p034.l03` | 13 | `零` | `image inspection` | `moderate` | `T1` |
 | `T1-p034.l03` | 15 | `盡` | `image inspection` | `moderate` | `T1` |
+| `T1-p031.l02` | 1 | `師` | `image inspection` | `strong` | `T1` |
+| `T1-p031.l02` | 5 | `誰` | `image inspection` | `moderate` | `T1` |
+| `T1-p031.l02` | 12 | `動` | `image inspection` | `moderate` | `T1` |
+| `T1-p031.l07` | 1 | `成` | `image inspection` | `strong` | `T1` |
+| `T1-p031.l07` | 2 | `瞎` | `image inspection` | `strong` | `T1` |
+| `T1-p031.l07` | 9 | `餡` | `image inspection` | `moderate` | `T1` |
+| `T1-p031.l07` | 12 | `麼` | `image inspection` | `moderate` | `T1` |

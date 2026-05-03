@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_p035_l09_explanatory_coda_recovery`
+- Last completed phase: `manual_correction_slice_T1_second_pass_p031_l02_l07_challenge_and_taunt_recovery`
 
 ## What is already done
 
@@ -409,6 +409,8 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `T1-p034.l03 = 理智冥符人牛不見直得桃花零落盡何處` is now also secured from enlarged direct image review plus convergent local OCR support and partial `C5` phrase corroboration.
 - `T1-p034.l06 = 直得三祖大師無隱身之地諸人者還知` is now also secured from direct image review plus bounded `C5/C9` corroboration.
 - `T1-p035.l09 = 故知兩段元是一空` is now also secured from enlarged direct image review plus bounded phrase support on the tail `元是一空`.
+- `T1-p031.l02 = 師云你共誰說一切空有一切動靜一切得` is now also secured from direct image review plus convergent local OCR support.
+- `T1-p031.l07 = 成瞎漢還有不受酸餡飯底麼` is now also secured from direct image review plus bounded `C17` phrase corroboration on the taunt band.
 - the main live holdouts immediately around this point are still the open `T1-p033.l03` and `l05` columns plus the remaining `T1-p034.l05` `一穿却一提 / 八面玲瓏` residue.
 - enlarged reinspection of those three loci now clarifies only partial tails, not full safe repairs: `T1-p033.l03` ends `...方得少分`, `T1-p033.l05` ends `...有什`, and `T1-p034.l05` still preserves only the opening frame `師云一穿却一提起八面玲瓏...`.
-- the current in-package evidence basis is therefore exhausted at these three loci; the second-pass queue is paused here pending stronger direct-image separation or genuinely new external corroboration rather than further blind local retry.
+- the current in-package evidence basis remains exhausted at those three loci, but the second-pass queue is not paused there because the still-open `T1-p031`, `T1-p030`, and older `T1-p029` residue continue to offer bounded productive slices.
