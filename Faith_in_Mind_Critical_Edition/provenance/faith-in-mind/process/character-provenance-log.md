@@ -558,6 +558,10 @@ Faith in Mind adoption rule:
 | `T1-p036.l03` | 5 | `所` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l03` | 10 | `照` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l03` | 18 | `俱` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l04` | 1 | `望` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l04` | 2 | `許` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l04` | 8 | `形` | `image inspection` | `moderate` | `T1` |
+| `T1-p036.l04` | 11 | `為` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l06` | 1 | `譬` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l06` | 5 | `鏡` | `image inspection` | `moderate` | `T1` |
 | `T1-p036.l06` | 6 | `波` | `image inspection` | `moderate` | `T1` |
