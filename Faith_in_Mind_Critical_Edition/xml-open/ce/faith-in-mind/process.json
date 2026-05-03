@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "comparison_witness_opening_slice_C14",
+      "slug": "manual_correction_slice_T1_second_pass_p032_right_edge_paired_category_line_recovery",
       "witnesses": [
         "T1",
         "T4",
@@ -91,21 +91,30 @@
         "C11",
         "C12",
         "C13",
-        "C14"
+        "C14",
+        "C15",
+        "C16",
+        "C17"
       ],
       "targets": [
-        "../../../provenance/faith-in-mind/ocr/C14/page-images/",
-        "../../../provenance/faith-in-mind/ocr/C14/metadata.json",
-        "../../../provenance/faith-in-mind/ocr/C14/page-map.csv",
+        "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "../../../provenance/faith-in-mind/process/correction-log.md",
+        "../../../provenance/faith-in-mind/process/unresolved-loci.md",
+        "../../../provenance/faith-in-mind/process/translation-diff-log.md",
+        "../../../provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "../../../provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "../../../provenance/faith-in-mind/process/character-provenance-log.md",
         "../../../provenance/faith-in-mind/process/current-state.md",
         "../../../provenance/faith-in-mind/process/human-log.md",
         "../../../provenance/faith-in-mind/process/process-log.md",
-        "../../../provenance/faith-in-mind/process/ocr-run-log.md"
+        "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p035.png",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p035.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p035.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "comparison_witness_opening_slice_C14",
-      "last_text_changed_event": "FIM-055",
-      "next_required_slice": "ocr_compliance_slice_C14_four_engine"
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_p035_doctrinal_youshui_column_recovery",
+      "last_text_changed_event": "FIM-226",
+      "next_required_slice": "manual_correction_slice_T1_second_pass_resume_after_p035_l08_recovery"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -117,6 +126,6 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "Complete strict four-engine OCR compliance on C14 before any comparison use."
+    "next_required_action": "The first end-to-end commentary continuation has already closed at T1-p083, and the second pass remains active from the earliest unresolved prose. The current second-pass recoveries now include T1-p007.l07, T1-p008.l08, T1-p011.l01, T1-p011.l02, T1-p011.l03, T1-p011.l05, T1-p011.l06, T1-p011.l08, T1-p012.l01, T1-p012.l03, T1-p012.l04, T1-p012.l05, T1-p012.l06, T1-p012.l07, T1-p012.l08, T1-p012.l09, T1-p012.l10, T1-p014.l07, T1-p015.l04, T1-p015.l06, T1-p016.l04, T1-p016.l05, T1-p016.l06, T1-p016.l08, T1-p017.l05, T1-p017.l06, T1-p018.l01, T1-p018.l08, T1-p018.l09, T1-p019.l03, T1-p020.l03, T1-p021.l03, T1-p021.l04, T1-p021.l05, T1-p021.l09, T1-p022.l02, T1-p022.l03, T1-p022.l04, T1-p022.l05, T1-p022.l06, T1-p022.l07, T1-p023.l01, T1-p023.l02, T1-p023.l04, T1-p023.l05, T1-p023.l06, T1-p023.l10, T1-p023.l11, T1-p024.l02, T1-p024.l03, T1-p024.l06, T1-p024.l07, T1-p024.l08, T1-p024.l09, T1-p025.l02, T1-p025.l03, T1-p025.l04, T1-p025.l05, T1-p026.l06, T1-p026.l09, T1-p026.l10, T1-p027.l07, T1-p027.l09, T1-p028.l04, T1-p028.l06, T1-p028.l09, T1-p029.l03, T1-p029.l04, T1-p029.l05, T1-p029.l07, T1-p029.l08, T1-p029.l09, T1-p029.l10, T1-p030.l04, T1-p030.l07, T1-p030.l09, T1-p031.l01, T1-p031.l05, T1-p032.l02, T1-p032.l03, T1-p032.l04, T1-p032.l06, T1-p032.l07, T1-p032.l08, T1-p032.l09, T1-p033.l08, T1-p034.l04, T1-p034.l07, T1-p034.l08, T1-p035.l02, T1-p035.l03, T1-p035.l04, T1-p035.l05, T1-p035.l07, and T1-p035.l08. The remaining unresolved T1-p007 loci are l03, l04, l08, l09, and l12, T1-p011.l04 still remains below threshold, T1-p012.l02 still remains unresolved, T1-p014.l08 still remains below threshold, T1-p032.l05 remains below threshold, and the next ready slice is to continue image-led correction on the remaining T1-p034 residue and the still-productive T1-p035 prose, starting from the speaking line at l06 and then testing the remaining doctrinal tail at l09-l10."
   }
 }

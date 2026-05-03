@@ -2768,3 +2768,431 @@ Engine: `PyMuPDF`
 - `C14` is opened and ready for OCR compliance work
 - no OCR engine pass has been completed for `C14` yet
 - `C14` must not be used for comparison until `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` have all completed
+
+## C14 four-engine OCR compliance
+
+Date: 2026-04-22  
+Witness: `C14`  
+Stage: full OCR compliance  
+Primary input basis: `ocr/C14/page-images/`
+
+### RapidOCR
+
+- engine: `RapidOCR`
+- output:
+  - `ocr/C14/ocr/rapidocr/`
+  - `ocr/C14/ocr/rapidocr/run-summary.json`
+- result:
+  - `15` pages processed
+  - `13` pages with text
+  - `2` no-text pages: `C14-p013`, `C14-p014`
+  - `0` errors
+
+### Tesseract
+
+- engine: `tesseract`
+- accepted input basis: `ocr/C14/ocr-input-120dpi/`
+- output:
+  - `ocr/C14/ocr/tesseract-full-pass/`
+  - `ocr/C14/ocr/tesseract-full-pass/run-summary.json`
+- result:
+  - `15` pages processed
+  - `15` pages with text
+  - `0` no-text pages
+  - `0` errors
+  - `3` warning entries
+- machine note:
+  - the direct `150` DPI PNG attempt completed only `C14-p001` before a ten-minute timeout
+  - the accepted pass uses `120` DPI JPEG derivatives generated from `ocr/C14/page-images/`
+  - warnings are the familiar tiny-fragment scale warnings rather than witness-blocking failures
+
+### PaddleOCR PP-OCRv4
+
+- engine: `PaddleOCR`
+- OCR version: `PP-OCRv4`
+- output:
+  - `ocr/C14/ocr/paddleocr-ppocrv4/`
+  - `ocr/C14/ocr/paddleocr-ppocrv4/extracted-text/`
+  - `ocr/C14/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- result:
+  - `15` pages processed
+  - `15` success pages
+  - `0` error pages
+  - `15` extracted support text files
+- machine note:
+  - the first long run saved through `C14-p008`
+  - the second long run saved through `C14-p012`
+  - the final resumed closeout completed `C14-p013` to `C14-p015`
+
+### EasyOCR
+
+- engine: `EasyOCR`
+- output:
+  - `ocr/C14/ocr/easyocr-full-pass/`
+  - `ocr/C14/ocr/easyocr-full-pass/run-summary.json`
+- result:
+  - `15` pages processed
+  - `13` pages with text
+  - `2` no-text pages: `C14-p013`, `C14-p014`
+  - `0` errors
+- machine note:
+  - the first long run saved through `C14-p009`
+  - the second long run saved through `C14-p012`
+  - the final resumed closeout completed `C14-p013` to `C14-p015`
+  - CPU and `pin_memory` warnings were non-fatal
+
+### Compliance interpretation
+
+- `C14` now has a recorded status block for all four mandated engines
+- `C14` is now a real OCR-backed commentary control witness rather than only an opened metadata record
+- `C14` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C14` is ready for bounded comparison use as the part 2 `通俗信心銘講話` commentary control witness
+
+## C15 witness opening render
+
+Date: 2026-04-23  
+Witness: `C15`  
+Stage: witness opening / page-image preparation  
+Engine: `PyMuPDF`
+
+- source:
+  - `Faith_in_Mind_Studies_NDL/NDL1885755_gyou_no_shuukyou_part1.pdf`
+- output:
+  - `provenance/faith-in-mind/ocr/C15/page-images/`
+  - `provenance/faith-in-mind/ocr/C15/metadata.json`
+  - `provenance/faith-in-mind/ocr/C15/page-map.csv`
+- result:
+  - `100` PDF pages rendered at `150` DPI
+  - `100` nonzero `C15-p*.png` page images present
+  - source SHA-256 verified as `AB6951F7C63B3EFEF1D47F1A82118D38ED962266AE208E1713EADA416253033C`
+  - page-role pass completed by direct image sampling
+- page-role summary:
+  - `C15-p001`: front cover or library calibration image
+  - `C15-p002`: blank or front endpaper spread
+  - `C15-p003`: title page
+  - `C15-p004`: dedication or author inscription page
+  - `C15-p005`: preface opening
+  - `C15-p006`: mixed preface close plus contents opening
+  - `C15-p007` to `C15-p100`: active study body pages
+
+### Compliance interpretation
+
+- `C15` is opened as a modern Japanese study control witness
+- it is not a base-text witness and must not be used as a decisive repair witness
+- page-role classification is now explicit rather than pending
+
+## C15 four-engine OCR compliance
+
+Date: 2026-04-23  
+Witness: `C15`  
+Stage: full OCR compliance  
+Primary input basis: `ocr/C15/ocr-input-120dpi/` JPEG derivatives generated from `ocr/C15/page-images/`
+
+### RapidOCR
+
+- engine: `RapidOCR`
+- output:
+  - `ocr/C15/ocr/rapidocr/`
+  - `ocr/C15/ocr/rapidocr/run-summary.json`
+- result:
+  - `100` pages processed
+  - `99` pages with text
+  - `1` no-text page: `C15-p002`
+  - `0` errors
+- machine note:
+  - the first run timed out after saving through the mid-volume
+  - the resumed closeout completed through `C15-p100`
+
+### Tesseract
+
+- engine: `tesseract`
+- accepted input basis: `ocr/C15/ocr-input-120dpi/`
+- output:
+  - `ocr/C15/ocr/tesseract-full-pass/`
+  - `ocr/C15/ocr/tesseract-full-pass/run-summary.json`
+- result:
+  - `100` pages processed
+  - `100` pages with text
+  - `0` no-text pages
+  - `0` errors
+- machine note:
+  - the full pass required multiple timeout-safe resumes
+  - the accepted pass uses `120` DPI JPEG derivatives because the rendered `150` DPI PNG pages are very large on this workstation
+
+### PaddleOCR PP-OCRv4
+
+- engine: `PaddleOCR`
+- OCR version: `PP-OCRv4`
+- output:
+  - `ocr/C15/ocr/paddleocr-ppocrv4/`
+  - `ocr/C15/ocr/paddleocr-ppocrv4/extracted-text/`
+  - `ocr/C15/ocr/paddleocr-ppocrv4/run-summary-full.json`
+- result:
+  - `100` pages processed
+  - `100` success pages
+  - `0` error pages
+  - `100` extracted support text files
+- machine note:
+  - the pass required multiple timeout-safe resumes
+  - final sidecar count and summary both close at `100` success pages
+
+### EasyOCR
+
+- engine: `EasyOCR`
+- accepted input basis:
+  - `ocr/C15/ocr-input-120dpi/` for `C15-p001` to `C15-p062`
+  - `ocr/C15/ocr-input-90dpi/` for `C15-p063` to `C15-p100`, after the `120` DPI CPU pass proved too slow
+- output:
+  - `ocr/C15/ocr/easyocr-full-pass/`
+  - `ocr/C15/ocr/easyocr-full-pass/run-summary.json`
+- result:
+  - `100` pages processed
+  - `99` pages with text
+  - `1` no-text page: `C15-p002`
+  - `0` errors
+- machine note:
+  - the pass required many timeout-safe resumes on CPU
+  - the saved summary was reconciled from the `100` sidecar files because resumed EasyOCR runs do not recount skipped existing files reliably
+  - CPU and `pin_memory` warnings were non-fatal
+
+### Compliance interpretation
+
+- `C15` now has a recorded status block for all four mandated engines
+- `C15` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C15` is ready for bounded comparison use as a study control witness
+
+## C16 witness opening render
+
+Date: 2026-04-23  
+Witness: `C16`  
+Stage: witness opening / page-image preparation  
+Engine: `PyMuPDF`
+
+### Source PDFs
+
+- `Faith_Gained_Hundred_Talks_NDL_Commons/NDL914437_faith_gained_hundred_talks_part1.pdf`
+- `Faith_Gained_Hundred_Talks_NDL_Commons/NDL914437_faith_gained_hundred_talks_part2.pdf`
+- `Faith_Gained_Hundred_Talks_NDL_Commons/NDL914437_faith_gained_hundred_talks_part3.pdf`
+
+### Output
+
+- `ocr/C16/page-images/`
+- `ocr/C16/metadata.json`
+- `ocr/C16/page-map.csv`
+
+### Result
+
+- `256` source pages rendered as one continuous witness-opening image set
+- `256` nonzero PNG page images present from `C16-p001.png` through `C16-p256.png`
+- source hashes verified against acquisition metadata
+
+### Page-role summary
+
+- `C16-p001`: `front_cover`
+- `C16-p002`: `blank_front_endpaper`
+- `C16-p003`: `title_page`
+- `C16-p004` to `C16-p005`: `preface_or_author_note`
+- `C16-p006` to `C16-p011`: `table_of_contents_or_front_matter`
+- `C16-p012` to `C16-p249`: active commentary-related body
+- `C16-p250` to `C16-p255`: publisher catalogue or advertising
+- `C16-p256`: rear blank or wrapper tail
+
+### Machine note
+
+- the initial `py -3.12` render path failed because `fitz` was unavailable on that interpreter
+- the accepted render used `py -3.14` with `PyMuPDF`
+- the foreground shell timed out during earlier render attempts while the Python process continued writing pages
+- the closeout was resumed until the continuous `256`-page set completed cleanly
+
+### Compliance interpretation
+
+- `C16` is now opened as a commentary-related control witness, not as a direct base-text witness
+- the three Commons PDFs are treated as one continuous witness-opening surface rather than as three independent witnesses
+- `C16` must complete strict four-engine OCR compliance before any comparison use
+
+## C16 four-engine OCR compliance
+
+Date: 2026-04-25  
+Witness: `C16`  
+Stage: OCR compliance closeout
+
+### RapidOCR
+
+- engine: `RapidOCR`
+- accepted input basis:
+  - `ocr/C16/ocr-input-120dpi/`
+- output:
+  - `ocr/C16/ocr/rapidocr/`
+  - `ocr/C16/ocr/rapidocr/run-summary.json`
+- result:
+  - `256` pages processed
+  - `252` pages with text
+  - `4` no-text pages: `C16-p001`, `C16-p002`, `C16-p255`, `C16-p256`
+  - `0` errors
+- machine note:
+  - the saved summary closes a resumed full-witness run on the derivative JPEG basis rather than on the original PNG set
+
+### Tesseract
+
+- engine: `tesseract`
+- accepted input basis:
+  - `ocr/C16/ocr-input-120dpi/`
+- output:
+  - `ocr/C16/ocr/tesseract-full-pass/`
+  - `ocr/C16/ocr/tesseract-full-pass/run-summary.json`
+- result:
+  - `256` pages processed
+  - `256` pages with text
+  - `0` errors
+- machine note:
+  - only the familiar tiny-fragment scale warnings were logged
+  - the warnings are treated as machine notes rather than as witness failures
+
+### PaddleOCR PP-OCRv4
+
+- engine: `PaddleOCR`
+- accepted input basis:
+  - `ocr/C16/ocr-input-120dpi/`
+- output:
+  - `ocr/C16/ocr/paddleocr-ppocrv4/`
+  - `ocr/C16/ocr/paddleocr-ppocrv4/run-summary-full.json`
+  - `ocr/C16/ocr/paddleocr-ppocrv4/extracted-text/`
+- result:
+  - `256` success pages
+  - `0` error pages
+  - `256` mirrored extracted support text files
+- machine note:
+  - the pass required timeout-safe resumed closes from an earlier partial saved state
+  - the mirrored `extracted-text/` layer is the accepted usable Paddle support surface on this machine
+
+### EasyOCR
+
+- engine: `EasyOCR`
+- accepted input basis:
+  - `ocr/C16/ocr-input-90dpi/`
+- output:
+  - `ocr/C16/ocr/easyocr-full-pass/`
+  - `ocr/C16/ocr/easyocr-full-pass/run-summary.json`
+- result:
+  - `256` saved sidecars
+  - `255` pages with text
+  - `1` no-text page: `C16-p002`
+  - `0` errors
+- machine note:
+  - the pass required four timeout-safe resumed CPU windows
+  - resumed `EasyOCR` runs do not recount skipped existing files reliably, so the accepted final count was reconciled from the saved sidecars
+  - CPU and `pin_memory` warnings were non-fatal
+
+### Compliance interpretation
+
+- `C16` now has a recorded status block for all four mandated engines
+- `C16` now has full-pass coverage from `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR`
+- `C16` is ready for bounded comparison use as a commentary-related control witness
+
+## C17 witness opening render
+
+Date: 2026-04-26  
+Witness: `C17`  
+Stage: witness-opening render and page-role pass
+
+### Source package
+
+- source PDFs:
+  - `Guoyi_Zen_Studies_Vol2_NDL_Commons/NDL1920690_guoyi_zen_studies_vol2_part1.pdf`
+  - `Guoyi_Zen_Studies_Vol2_NDL_Commons/NDL1920690_guoyi_zen_studies_vol2_part2.pdf`
+  - `Guoyi_Zen_Studies_Vol2_NDL_Commons/NDL1920690_guoyi_zen_studies_vol2_part3.pdf`
+- verified SHA-256:
+  - part 1: `337FFE7AAF430E2F74CE857B524BB8FF2507DC7294EA58DE2804D0FC17F98A05`
+  - part 2: `DA8A87F8E88C5D0D2185AA225CB4651E19A2AE7B00D6795139B375CD996EA19F`
+  - part 3: `CC47A4203522F09DCA100D78EC4FCBABE05181583911F55044D2A4FDB2807C65`
+- verified page counts:
+  - part 1: `100`
+  - part 2: `100`
+  - part 3: `18`
+  - total: `218`
+
+### Outputs
+
+- `ocr/C17/page-images/`
+- `ocr/C17/metadata.json`
+- `ocr/C17/page-map.csv`
+
+### Render result
+
+- `218` nonzero PNG page images present from `C17-p001.png` through `C17-p218.png`
+- render basis:
+  - `PyMuPDF`
+  - `150` DPI
+  - `png`
+
+### Page-role pass
+
+- `C17-p001`: `front_cover`
+- `C17-p002`: `blank_front_endpaper`
+- `C17-p003`: `title_page`
+- `C17-p004` to `C17-p009`: `preface_or_table_of_contents`
+- `C17-p010` to `C17-p200`: non-target series body
+- `C17-p201` to `C17-p214`: active `中峰和尚信心銘義解` target segment
+- `C17-p215`: publication colophon
+- `C17-p216`: blank rear endpaper
+- `C17-p217`: rear pastedown or inside wrapper
+- `C17-p218`: rear cover
+
+### Direct review notes
+
+- `C17-p005` explicitly lists `中峰和尚信心銘義解` in the contents
+- `C17-p010` and multiple middle-volume samples remain broader series or `碧巖錄` matter rather than target `Faith in Mind` content
+- the final `18`-page PDF segment contains the actual target material, including title, preface, main commentary body, explicit end marker, colophon, and wrapper-tail matter
+- inside that final rendered segment the printed page order is not monotonic by image index, so the accepted page-role map is segment-level rather than falsely linear at the internal foliation layer
+
+### Opening interpretation
+
+- `C17` is now opened as a commentary-related control witness rather than as a direct base-text witness
+- `C17` must complete strict four-engine OCR compliance before any comparison use
+
+## C17 RapidOCR partial state
+
+Date: 2026-04-26  
+Witness: `C17`  
+Stage: OCR compliance in progress
+
+### Accepted input basis
+
+- `ocr/C17/ocr-input-120dpi/`
+- matching `ocr/C17/ocr-input-90dpi/` derivatives were also generated in advance for the later `EasyOCR` pass
+
+### Saved state
+
+- engine: `RapidOCR`
+- output:
+  - `ocr/C17/ocr/rapidocr/`
+  - `ocr/C17/ocr/rapidocr/run-summary.json`
+- current saved extent:
+  - page-level outputs through `C17-p028`
+  - `28` saved JSON sidecars
+  - `26` pages with text in the current saved summary
+  - `1` recorded no-text page so far: `C17-p002`
+  - `0` recorded errors so far
+
+### Machine note
+
+- the first long `RapidOCR` run exceeded the shell timeout before witness closeout
+- because the saved outputs and summary are clean, the accepted next move is resume rather than restart
+
+### Resume update
+
+- `RapidOCR` has now been resumed multiple times and the current saved extent reaches `C17-p135`
+- the resumed `RapidOCR` state still records no engine errors
+- `tesseract` has also been started on the same logged `120` DPI derivative basis
+- the current saved `tesseract` extent reaches `C17-p037`
+- the saved `tesseract` state records only the familiar tiny-fragment warnings, not witness-failure errors
+- `PaddleOCR PP-OCRv4` first failed immediately under the default Python `3.14` interpreter because `paddle` was not available there
+- rerunning the same witness-local `PP-OCRv4` pass under Python `3.12` solved the environment issue cleanly
+- the current saved `PaddleOCR` extent reaches `C17-p018` with no recorded engine errors
+- `RapidOCR` has now completed the full witness at `218` processed pages
+- the final saved `RapidOCR` summary closes with text on `214` pages
+- the only recorded no-text pages in the final `RapidOCR` summary are `C17-p002`, `C17-p216`, `C17-p217`, and `C17-p218`
+- the full resumed `tesseract` state now closes at `218` pages counted with text in the current summary and only familiar tiny-fragment warnings
+- the final `PaddleOCR PP-OCRv4` state under Python `3.12` now closes at `218` success pages with `0` recorded errors in the saved summary
+- the mirrored `ocr/C17/ocr/paddleocr-ppocrv4/extracted-text/` layer now exists with `218` derived text files and is the accepted usable Paddle support surface for this witness
+- `EasyOCR` has now completed on the logged `ocr-input-90dpi/` derivative basis and closes at `218` processed pages with text on `205`, leaving only `C17-p002`, `C17-p216`, `C17-p217`, and `C17-p218` empty and `0` recorded errors

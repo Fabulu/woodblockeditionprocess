@@ -146,6 +146,37 @@ Before manual correction begins, the package must retain:
 - same-page comparison outputs for `tesseract`, `RapidOCR`, `EasyOCR`, and `PaddleOCR` where runnable
 - exact blocker records for any engine that remains non-runnable
 
+## Long-run OCR operator rule
+
+For long resumable OCR passes in this package, a shell timeout is an automatic resume checkpoint rather than a default stopping point.
+
+If the runner is saving clean page-level outputs, no new engine-level failure has appeared, and the saved extent can be reconciled honestly from the sidecars or summary, the operator must:
+
+1. inspect the newest saved extent
+2. update the package state and OCR log honestly
+3. rerun validation if state files changed
+4. relaunch the same runner without waiting for a new human prompt
+
+Before stopping, yielding, or writing a progress message during this loop, open:
+
+- `process/OCR_STOP_GATE.md`
+
+Successful validation is not permission to stop.
+Logging plus validation is an internal maintenance checkpoint only.
+If the witness is still incomplete and no new blocker exists, the next OCR window must start immediately.
+Explanation, reassurance, or progress-reporting is not a valid stopping reason while the OCR pass is still healthy and incomplete.
+
+This rule exists because long East Asian scan witnesses on this workstation often need many timeout-safe windows before completion, especially for `PaddleOCR PP-OCRv4` and `EasyOCR`.
+
+Interrupt the loop only for:
+
+- real completion
+- a new non-timeout engine failure
+- validation failure
+- unreconcilable state drift between saved files and recorded summaries
+- explicit human redirection
+- genuine need for clarification before a risky or irreversible action
+
 ## Resume note
 
 Open this file together with:
@@ -153,3 +184,4 @@ Open this file together with:
 1. `process/current-state.md`
 2. `process/ocr-run-log.md`
 3. `transcription/ocr-transcription-plan.md`
+4. `process/OCR_STOP_GATE.md`

@@ -12,6 +12,16 @@ The goal of this stage is not to finish the edition, and it is not to produce a 
 
 The goal is to produce a clean, reviewable first working text spine for the critical edition from `T1`, document every intervention, and set clear rules for when comparison witnesses enter the workflow and when the starting spine may be revised.
 
+## Continuation law
+
+Outside long OCR loops, the same no-useless-stop rule still applies.
+
+Before stopping a manual correction or comparison run, open `process/CONTINUATION_GATE.md`.
+
+If the current run is still incomplete, the next bounded slice is already available, the package still validates, and no real blocker or judgment call has appeared, you must continue instead of stopping.
+
+Page turns, neat sub-slice boundaries, and the urge to summarize are not valid stopping reasons.
+
 ## Locked starting assumptions
 
 - `T1` is the locked starting copy-text spine.
@@ -104,6 +114,43 @@ Requirements:
 - preserve a same-page comparison set across all four engines where possible
 - log failed pages separately from successful pages
 - log cross-engine disagreement and cross-engine recovery where one engine fills a gap another missed
+
+### Long-run OCR resume law
+
+For long resumable OCR witnesses on this machine, shell timeout is not an accepted stopping point by itself.
+
+If a pass has already demonstrated all of the following:
+
+1. page-level outputs are being saved cleanly
+2. the witness-local summary is updating or is easily reconcilable from saved sidecars
+3. no new engine-level failure has appeared beyond known timeout or warning behavior
+
+then the required behavior is:
+
+1. inspect the saved extent
+2. reconcile logs and summaries honestly
+3. validate package state if state files changed
+4. relaunch the same witness-local OCR runner immediately
+
+Before stopping, yielding, or writing a status message in this loop, open:
+
+- `provenance/faith-in-mind/process/OCR_STOP_GATE.md`
+
+Do not stop merely because one shell window ended.
+Do not treat a timeout-safe checkpoint as a natural session boundary.
+Do not yield control back to the human operator after a healthy checkpoint if the pass is still incomplete.
+Do not treat successful validation as a stopping point; validation is part of the internal resume loop.
+Do not interrupt the human operator with repetitive progress messages during this loop.
+Do not stop the loop to explain, summarize, or reassure while the OCR pass is still healthy and incomplete.
+
+Interrupt only if one of the following becomes true:
+
+- the witness reaches genuine four-engine OCR completion
+- a new engine error appears that is not the already known timeout or warning pattern
+- package validation fails
+- saved files and saved summaries diverge in a way that is not safely reconcilable
+- a human operator explicitly redirects the work
+- clarification is genuinely required to avoid a risky or irreversible mistake
 
 Required outputs:
 

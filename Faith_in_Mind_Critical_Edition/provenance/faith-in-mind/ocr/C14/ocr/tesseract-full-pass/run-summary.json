@@ -1,0 +1,106 @@
+{
+  "engine": "Tesseract",
+  "witness_id": "C14",
+  "input_dir": "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\C14\\ocr-input-120dpi",
+  "input_basis": "120dpi JPEG derivatives from C14/page-images; used because direct 150dpi PNG Tesseract run completed only C14-p001 before a 10-minute timeout",
+  "tesseract_exe": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "lang": "chi_tra",
+  "psm": 6,
+  "tessdata_prefix": "C:\\woodblocks\\Faith_in_Mind_Critical_Edition\\provenance\\faith-in-mind\\ocr\\T1\\tessdata",
+  "pages_total": 15,
+  "pages_with_text": 15,
+  "pages_without_text": [],
+  "errors": [],
+  "warnings": [
+    {
+      "page_id": "C14-p009",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C14-p010",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x48 vs min width of 3)\nLine cannot be recognized!!\n"
+    },
+    {
+      "page_id": "C14-p015",
+      "stderr": "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\n"
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "C14-p001",
+      "text_length": 608,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p002",
+      "text_length": 1974,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p003",
+      "text_length": 3129,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p004",
+      "text_length": 1374,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p005",
+      "text_length": 2073,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p006",
+      "text_length": 1677,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p007",
+      "text_length": 2129,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p008",
+      "text_length": 2265,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p009",
+      "text_length": 2404,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p010",
+      "text_length": 3070,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p011",
+      "text_length": 3500,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p012",
+      "text_length": 2533,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p013",
+      "text_length": 1224,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p014",
+      "text_length": 1048,
+      "returncode": 0
+    },
+    {
+      "page_id": "C14-p015",
+      "text_length": 221,
+      "returncode": 0
+    }
+  ],
+  "resumed": true
+}

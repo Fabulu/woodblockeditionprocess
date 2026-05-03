@@ -679,3 +679,142 @@ Scope: compare representative `C13` body and quoted-lemma surfaces against the c
 - `T4` remains the decisive repair witness used so far.
 - `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C13` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C13` remain commentary or lecture controls rather than direct repair witnesses.
 - The next witness-opening target is `C14`.
+
+## `C14` commentary-control confirmation slice
+
+Date: 2026-04-22
+Status: bounded commentary-control comparison completed
+Scope: compare representative `C14` continuation-body and mixed terminal/imprint surfaces against the current `T1` recovered lemma spine after `C14` reached full four-engine compliance
+
+### Method note
+
+- `C14` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C14` is part 2 of `Tongzoku Xinxinming Kowa`, not a short direct poem witness, so this slice is commentary-control evidence rather than a substitute transcription.
+- Direct page review confirms late scale/nondual discussion on `C14-p001`, the late `若不如是 / 必不須守` branch discussion around `C14-p004`, terminal `言語道斷 / 非去來今` discussion on `C14-p008`, and a mixed concluding-commentary plus publication/imprint spread on `C14-p009`.
+- OCR evidence was used only as support after image review; the four-engine OCR layer is noisy on this small witness, with the page map and direct images providing the decisive content-role control.
+- Evidence strength: moderate for broad commentary-backed confirmation of the late and terminal macro-sequence; low for forcing exact new character repairs or overriding already logged direct-witness judgments.
+
+### Representative confirmations from `C14`
+
+| C14 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| late scale/nondual discussion on `C14-p001` | late scale band around `T1-p072.l01` to `T1-p073.l01` | broadly confirmed | direct image review shows the visible phrase `極大は小に同じ`, aligning with the recovered late `極小同大 / 極大同小` scale sequence without improving the exact Chinese text |
+| late branch discussion around `C14-p004` | standard close-branch issue around `T1-p075.l01` to `T1-p076.l01` | branch support only | direct image review shows commentary keyed to the `若不如是 / 必不須守` branch; as with `C12`, this supports the broader commentary tradition but does not overturn the direct `T1-p075` rollback judgment |
+| terminal close discussion on `C14-p008` | terminal close around `T1-p079.l01` | broadly confirmed | direct image review shows large terminal wording corresponding to `言語道斷 / 非去來今`, strengthening commentary/reception support for the recovered close without creating a new repair |
+| mixed terminal/imprint spread on `C14-p009` | terminal context and witness boundary | boundary confirmed | direct image review shows concluding commentary headed `信心銘講話畢` on the right and publication/imprint matter on the left, confirming that the active body has ended and no new clean base-text repair surface appears after the terminal discussion |
+
+### New loci exposed by `C14`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C14` currently behaves as a continuation commentary control witness, not as a decisive repair witness.
+- The late and terminal evidence strengthens commentary support for the recovered close and for the already logged omission/rollback handling, but it does not create a new accepted `T1` text change.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C14` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls and `C3` to `C14` remain commentary or lecture controls rather than direct repair witnesses.
+- The next witness-opening target is `C15`.
+
+## `C15` study-control confirmation slice
+
+Date: 2026-04-23
+Status: bounded study-control comparison completed
+Scope: compare representative `C15` study-body surfaces against the current `T1` recovered lemma spine after `C15` reached full four-engine compliance
+
+### Method note
+
+- `C15` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C15` is a modern Japanese study witness (`行の宗教 : 現代思想より見たる` part 1), not a short direct poem witness, so this slice is study-control evidence rather than substitute transcription.
+- Direct page review confirms a chapter-framing and opening-discussion surface on `C15-p007`, opening-lemma discussion around `C15-p026` to `C15-p028`, terminal close discussion around `C15-p059`, central one-mind/all-dharmas discussion on `C15-p076`, and continued late reflective study surfaces on `C15-p094` and `C15-p100`.
+- OCR evidence was used only as support after image review; the most useful machine anchors came from `PaddleOCR PP-OCRv4` derived text, with the other engines mainly confirming the same broad reception surfaces rather than supplying clean exact Chinese lemmata.
+- Evidence strength: moderate for broad study-backed confirmation of the opening, central, and terminal macro-sequence; low for forcing exact new character repairs or treating `C15` as a decisive base-text witness.
+
+### Representative confirmations from `C15`
+
+| C15 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| opening study discussion on `C15-p026` to `C15-p028`, with chapter framing from `C15-p007` | opening recovered `T1` lemma spine from `T1-p007.l01` through the early `但莫憎愛 / 洞然明白` band | broadly confirmed | direct image review shows visible discussion of `至道無難` and `唯嫌揀擇`; `C15` clearly treats the standard opening as the study anchor, but as a modern exposition witness it does not provide a cleaner repair surface than the earlier direct witnesses |
+| central doctrinal discussion on `C15-p076` | central `T1-p032` one-mind/all-dharmas band | broadly confirmed | direct image review and supporting OCR anchors show the `一心` / `萬法` relation in a nondual explanatory frame, supporting the already repaired central band without improving the exact Chinese reading |
+| late and terminal study discussion on `C15-p059`, with support from `C15-p094` and `C15-p100` | terminal `T1-p077.l01a` to `T1-p079.l01` close sequence | broadly confirmed at study-control level | direct image review shows the terminal `言語道断` theme and continued reflective close discussion, strengthening reception support for the standard close without creating a new accepted `T1` repair |
+
+### New loci exposed by `C15`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C15` currently behaves as a study control witness, not as a decisive repair witness.
+- Its value in this first slice is broad modern study-backed confirmation of the recovered `T1` lemma spine and standard close, not supplying a cleaner exact Chinese reading than the earlier direct-witness record.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C15` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls, `C3` to `C14` remain commentary or lecture controls, and `C15` remains a study control rather than a direct repair witness.
+- `C16` is now opened and four-engine OCR-compliant as the next commentary-related control witness.
+- The next witness task is the first bounded `C16` comparison slice, not another witness-opening step.
+
+## `C16` commentary-related control check
+
+Date: 2026-04-25
+Status: bounded comparison completed
+Scope: test whether representative `C16` title, contents, and body surfaces materially overlap the recovered `T1` `Faith in Mind` lemma spine after `C16` reached full four-engine OCR compliance
+
+### Method note
+
+- `C16` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C16` is a long related-control witness titled `信心獲得章百席談`, not a short direct `信心銘` witness, so this slice tests overlap before granting it substantive comparison weight.
+- Direct page review checked the title surface on `C16-p003`, the contents and chapter framing surfaces on `C16-p012`, and representative active-body surfaces on `C16-p068`, `C16-p180`, and `C16-p249`.
+- OCR evidence was used only as support after image review; across the saved four-engine stack, searches for the usual `信心銘` lemma anchors do not yield a stable quoted poem spine.
+- Evidence strength: high for the non-overlap judgment at the level needed for queue management; low for any attempt to force `C16` into the same comparison role as the earlier commentary controls.
+
+### Representative findings from `C16`
+
+| C16 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| title surface on `C16-p003` | witness identity check | non-overlap confirmed | direct image review reads `信心獲得章百席談` rather than `信心銘`; the witness title itself signals a related devotional or doctrinal work, not the target poem |
+| contents and chapter framing on `C16-p012` | opening `T1` lemma spine | no usable overlap | direct image review shows numbered chapter-style contents around Pure Land devotional and doctrinal topics rather than an opening `至道無難 / 唯嫌揀擇` lemma sequence |
+| representative body on `C16-p068`, with support from `C16-p180` and `C16-p249` | central and terminal `T1` loci | no usable overlap | the sampled body pages continue prose exhortation and doctrinal discussion under the `信心獲得章百席談` frame; they do not show a stable `信心銘` quoted lemma spine or a recoverable terminal close sequence comparable to `T1` |
+
+### New loci exposed by `C16`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C16` currently behaves as a related devotional-control witness rather than as a substantive `Faith in Mind` comparison witness.
+- Its first bounded use is therefore negative but useful: it closes the witness honestly without pretending to provide poem-level corroboration.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C15` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls, `C3` to `C14` remain commentary or lecture controls, `C15` remains a study control, and `C16` is now closed as a non-overlap related-control witness rather than a direct repair witness.
+- The next witness-opening target is `C17`.
+
+## `C17` commentary-related control confirmation slice
+
+Date: 2026-04-30
+Status: bounded commentary-related control comparison completed
+Scope: compare representative `C17` title-bearing and body surfaces from the active `中峰和尚信心銘義解` segment against the current recovered `T1` lemma spine after `C17` reached full four-engine OCR compliance
+
+### Method note
+
+- `C17` was not used before its full-pass `RapidOCR`, `tesseract`, `PaddleOCR PP-OCRv4`, and `EasyOCR` status block was recorded.
+- `C17` is not a short direct poem witness. It is a commentary-related control segment embedded inside the larger `国訳禅学大成 第二巻` package, with the active `Faith in Mind` material confined to `C17-p201` to `C17-p214`.
+- Direct page review confirms a title-bearing opening commentary surface on `C17-p201`, dense central lemma-discussion on `C17-p207`, and late terminal-sequence discussion on `C17-p214`.
+- OCR evidence was used only as support after image review; the clearest machine layer on the checked pages comes from `PaddleOCR PP-OCRv4` derived text under `ocr/C17/ocr/paddleocr-ppocrv4/extracted-text/`, while the other engines remain useful mainly as noisy corroboration.
+- Evidence strength: moderate for broad commentary-backed confirmation of opening, central, and terminal macro-sequence; low for forcing exact new character repairs or treating `C17` as a decisive base-text witness.
+
+### Representative confirmations from `C17`
+
+| C17 evidence span | T1 locus or loci | Result | Notes |
+|---|---|---|---|
+| title-bearing opening commentary on `C17-p201` | late branch and close-preparatory band around `T1-p074.l01` to `T1-p076.l01` | branch support only | direct image review plus Paddle-derived text show recognizable `有即是無 / 無即是有` and `若不如此 / 必不須守` discussion in commentary frame; this strengthens commentary support for the already logged branch handling without overturning direct `T1` judgment |
+| central commentary body on `C17-p207` | central `T1-p031.l03` to `T1-p032.l01` band and the one-mind/all-dharmas sequence | broadly confirmed | direct image review plus Paddle-derived text show recognizable anchors including `一心不生萬法無咎`, `欲知兩段元是一空`, `境由能境 能由境能`, and `無咎無法不生不心`; this supports the already repaired central band without improving the accepted `T1` reading |
+| late commentary close on `C17-p214` | terminal band around `T1-p076.l01`, `T1-p077.l01a`, `T1-p078.l01`, and `T1-p079.l01` | broadly confirmed | Paddle-derived text gives recognizable late-close anchors including `一即一切 一切即一`, `若不如此 必不須守`, `信心不二 不二信心`, and `言語道斷 非去來今`; as commentary evidence, this strengthens reception support for the recovered close without creating a new accepted repair |
+
+### New loci exposed by `C17`
+
+- None at high confidence for fresh `T1` insertion or correction.
+- `C17` currently behaves as a commentary-related corroborative control witness rather than as a decisive repair witness.
+- Its value in this first slice is real but bounded: it confirms that the recovered `T1` opening-branch, central, and terminal macro-sequence is also visible inside a Zhongfeng commentary frame, without supplying a cleaner direct reading than the existing direct-witness record.
+
+## Immediate use
+
+- `T4` remains the decisive repair witness used so far.
+- `T5`, `T2`, `T3`, `A1`, `A2`, `A3`, `C1`, `C2`, and `C3` to `C17` stand as corroborative comparison witnesses with full recorded OCR bases, but `C1` and `C2` remain translation or reception controls, `C3` to `C14` remain commentary or lecture controls, `C15` remains a study control, `C16` remains a non-overlap related-control witness, and `C17` remains a commentary-related corroborative control rather than a direct repair witness.
+- The witness-opening queue is now exhausted inside the locked set.
+- The next task is a bounded return to `T1` manual correction work, starting with still-open prefatory and commentary prose rather than further witness acquisition.
