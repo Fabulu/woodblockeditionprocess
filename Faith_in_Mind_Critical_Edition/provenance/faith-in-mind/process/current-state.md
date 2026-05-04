@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_stronger_direct_image_separation_remaining_12_holdouts_exhaustion`
+- Last completed phase: `manual_correction_slice_T1_second_pass_visual_workbench_alias_surface_consolidation`
 
 ## What is already done
 
@@ -424,4 +424,5 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - the required global stop recheck has now also been run across the older still-open queue on `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`. Direct image reinspection plus the already opened local OCR support and previously opened bounded control witnesses still do not yield an honest new repair at `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, or `T1-p030.l08`. On the present in-package evidence basis, the remaining unresolved queue is therefore exhausted at package level rather than only at the later-page local wall.
 - the stronger direct-image-separation continuation required by the package stop condition has now also been completed across that full 12-locus queue: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
 - that stronger pass used the existing T1 page images, saved OCR/control surfaces, and new tightly bounded local bbox crops plus rotated and mirrored derivatives where needed, especially on `T1-p029`, `T1-p030`, `T1-p033`, and `T1-p034`; it clarified some partial frames and tails but did not yield a new safe full-line `T1` repair.
+- the stronger-pass derivative set has now also been consolidated into a reusable alias workspace under `provenance/faith-in-mind/process/visual-workbench-holdouts/`, with a locus-keyed index in `provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md`; this does not change the textual stop condition, but it removes the need to rediscover opaque `tmp-...bbox...` filenames on the next resume.
 - on the present in-package basis, the stronger direct-image-separation phase is therefore exhausted as well as the earlier page-level and package-level queue roam. No further honest progress remains available inside the package without genuinely cleaner image evidence or genuinely new corroborative evidence.

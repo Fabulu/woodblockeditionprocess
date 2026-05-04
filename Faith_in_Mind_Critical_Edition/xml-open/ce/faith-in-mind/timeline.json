@@ -8904,6 +8904,44 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_stronger_direct_image_separation_remaining_12_holdouts_exhaustion",
         "last_text_changed_event": "FIM-248"
       }
+    },
+    {
+      "id": "FIM-251",
+      "date": "2026-05-04",
+      "phase": "manual_correction_pass_2",
+      "title": "Consolidated the exhausted 12-holdout workbench into a reusable alias surface",
+      "summary": "The stronger-pass derivative set for T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, T1-p030.l08, T1-p033.l03, T1-p033.l05, and T1-p034.l05 was reorganized under a reusable alias workspace in provenance/faith-in-mind/process/visual-workbench-holdouts/ and indexed in visual-workbench-holdouts-2026-05-04.md. This improved resumability of the visual evidence surface without creating a new T1 text repair.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/tmp-T1-p007-bbox01-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/tmp-T1-p007-bbox02-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/tmp-T1-p007-bbox08-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/tmp-T1-p012-bbox01-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/tmp-T1-p012-bbox07-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/tmp-T1-p012-bbox10-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/tmp-T1-p029-l02-exact2.png",
+        "provenance/faith-in-mind/process/tmp-T1-p029-l06-column.png",
+        "provenance/faith-in-mind/process/tmp-T1-p030-l08-col-exact2.png",
+        "provenance/faith-in-mind/process/tmp-T1-p033-bbox06-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/tmp-T1-p033-bbox08-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/tmp-T1-p034-bbox08-rot90-mirror-hi.png"
+      ],
+      "decision_ref": "D-019",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_pending_new_evidence_after_stronger_direct_image_separation_exhaustion",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_visual_workbench_alias_surface_consolidation",
+        "last_text_changed_event": "FIM-248"
+      }
     }
   ]
 }
