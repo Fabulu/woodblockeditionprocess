@@ -10,7 +10,7 @@ param(
 
     [switch]$Ephemeral,
 
-    [int]$MaxRuns = 100,
+    [int]$MaxRuns = 0,
 
     [int]$SleepSeconds = 5
 )
@@ -47,6 +47,13 @@ function Test-TerminalStop {
         '(?i)\bpackage-local manual-correction queue is exhausted by a real evidence wall\b',
         '(?i)\bcurrent package-local manual-correction queue is exhausted by a real evidence wall\b',
         '(?i)\bglobal package-level stop\b',
+        '(?i)\bstronger direct-image-separation phase was exhausted\b',
+        '(?i)\bstronger direct image separation phase was exhausted\b',
+        '(?i)\bexhausted without new safe `?T1`? text changes\b',
+        '(?i)\bpackage was already at the required stop state\b',
+        '(?i)\balready reflects completion of the requested stronger direct-image-separation phase\b',
+        '(?i)\balready reflects the completed stronger direct-image-separation pass\b',
+        '(?i)\bno further bounded productive correction slice is currently available anywhere in the remaining unresolved queue\b',
         '(?i)\bworkflow queue is exhausted\b',
         '(?i)\bqueue is exhausted\b',
         '(?i)\bactive remaining page\/locus queue is actually exhausted\b',
@@ -84,8 +91,9 @@ $suppressedLogPath = Join-Path $ProjectRoot "provenance\faith-in-mind\process\su
 $loopLogPath = Join-Path $ProjectRoot "provenance\faith-in-mind\process\until-done-wrapper.log"
 
 $runCount = 0
+$useRunCap = $MaxRuns -gt 0
 
-while ($runCount -lt $MaxRuns) {
+while ((-not $useRunCap) -or ($runCount -lt $MaxRuns)) {
     $runCount += 1
     $timestamp = Get-Date -Format "yyyyMMdd-HHmmss"
     $jsonlPath = Join-Path $tmpDir "codex-exec-$timestamp.jsonl"
@@ -160,4 +168,6 @@ while ($runCount -lt $MaxRuns) {
     Start-Sleep -Seconds $SleepSeconds
 }
 
-throw "Reached MaxRuns=$MaxRuns without hitting a terminal stop condition."
+if ($useRunCap) {
+    throw "Reached MaxRuns=$MaxRuns without hitting a terminal stop condition."
+}

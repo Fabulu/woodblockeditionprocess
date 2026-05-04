@@ -1,6 +1,6 @@
 param(
     [switch]$Ephemeral,
-    [int]$MaxRuns = 100,
+    [int]$MaxRuns = 0,
     [int]$SleepSeconds = 5
 )
 
