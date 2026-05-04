@@ -110,3 +110,18 @@ Stopped because the current package-local manual-correction queue is exhausted b
 
 What remains is unresolved rather than merely unworked: active holdouts at `T1-p030.l08`, `T1-p029.l02`, `T1-p029.l06`, `T1-p011.l04`, and `T1-p012.l02`, plus earlier standing walls at `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`; broader commentary-prose work on `T1-p007` to `T1-p080` also remains open where not yet secured, and the damaged prefatory block `T1-p005` to `T1-p006` is still paused at its recorded evidence wall. The only unstaged workspace changes are unrelated supervisor logs: [suppressed-codex-reports.log](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/suppressed-codex-reports.log) and [until-done-wrapper.log](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/until-done-wrapper.log).
 
+## 20260503-225220
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260503-225220.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260503-225220.txt
+message:
+I stopped because this is now a package-level evidence wall, not just a local page wall.
+
+I re-ran the global stop test against the older open queue as well as the live later residue: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`. After direct image reinspection plus the already saved `T1` OCR support and already-opened control witnesses, none of those loci crossed the threshold for an honest text repair. The earlier standing walls at `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05` also still stand. On the present in-package evidence basis, no bounded productive slice remains anywhere in the unresolved queue.
+
+I synchronized the stop state in the package, ran `python scripts/validate_package.py`, and validation passed. I committed the batch as `7a99ee4` with message `Record package-level Faith in Mind queue exhaustion`.
+
+Remaining unresolved loci on the present evidence basis:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
