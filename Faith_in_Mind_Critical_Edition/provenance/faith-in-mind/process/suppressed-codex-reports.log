@@ -133,3 +133,1668 @@ I synchronized the stop state in the package, ran `python scripts/validate_packa
 Remaining unresolved loci on the present evidence basis:
 `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
 
+## 20260504-065617
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-065617.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-065617.txt
+message:
+The stronger direct-image-separation phase is now exhausted on the present in-package basis, and it produced no new safe `T1` text changes.
+
+Newly resolved from this pass: none.
+
+Still unresolved after the stronger pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+I updated the exhaustion state in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). `python scripts/validate_package.py` passed.
+
+## 20260504-071828
+run: 2
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-071828.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-071828.txt
+message:
+The current package state already reflects the stronger direct-image-separation pass over the full 12-holdout queue, and it is internally aligned across the required stop/state surfaces. `python scripts/validate_package.py` passes.
+
+Newly resolved in that stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The package now honestly records that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The relevant synchronized state is already present in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json).
+
+## 20260504-071914
+run: 3
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-071914.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-071914.txt
+message:
+The current package state already shows this mission as completed. `current-state.md`, `human-log.md`, `process-log.md`, `unresolved-loci.md`, `process.json`, and `timeline.json` all record that the stronger direct-image-separation pass over the 12 target holdouts was completed on `2026-05-04` and exhausted on the present in-package basis. I did not redo that exhausted slice or add new edits on top of it.
+
+`python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-071953
+run: 4
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-071953.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-071953.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation pass as completed and exhausted. I verified the governing logs/state files, checked the required provenance surfaces, and ran `python scripts/validate_package.py`; validation passed.
+
+No new safe `T1` text changes are available on the present in-package basis. Newly resolved from this stronger 12-holdout pass: none. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+
+The stronger direct-image-separation phase was therefore exhausted without new safe `T1` text changes. The exhaustion is already recorded in `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `process.json`, and `timeline.json`. There are uncommitted local changes present in those state files plus `suppressed-codex-reports.log` and `until-done-wrapper.log`, but I did not alter or overwrite them.
+
+## 20260504-072043
+run: 5
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072043.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072043.txt
+message:
+The package is already at the stronger direct-image-separation end state you requested. The required state surfaces, `process.json`, and `timeline.json` all already record completion of that 12-locus stronger pass as exhausted on the present in-package evidence basis, and `python scripts/validate_package.py` passes.
+
+Newly resolved from this stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not make further edits because the current package state already reflects that completed stop condition.
+
+## 20260504-072143
+run: 6
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072143.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072143.txt
+message:
+The current package state already reflects the stronger direct-image-separation continuation as completed and exhausted. I did not make further text or state edits because the required 12-locus queue is already marked as processed through that stronger pass in the package logs and state files, and there is no remaining bounded in-package slice to continue without new evidence.
+
+`python scripts/validate_package.py` passes.
+
+Newly resolved from the 12 target holdouts: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-072218
+run: 7
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072218.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072218.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation phase you requested. I verified the state surfaces, confirmed the 12-target queue is recorded as processed, and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The package already records the required exhaustion state in the main state/log surfaces and in `process.json` / `timeline.json`. No new safe `T1` text changes were justified, so the stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-072306
+run: 8
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072306.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072306.txt
+message:
+The current package state already reflects the stronger direct-image-separation continuation as completed and exhausted. I confirmed that state and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-072338
+run: 9
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072338.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072338.txt
+message:
+The current package state already includes the requested stronger direct-image-separation continuation as a completed slice: `FIM-250` on `2026-05-04` records that the 12-holdout queue was processed and exhausted on the present in-package basis. I did not make further editorial changes, because the stop condition has already been reached in the package state and `python scripts/validate_package.py` passes now.
+
+Newly resolved from that 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+So the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. Validation result: passed. There are existing uncommitted state/log changes in the worktree, but I left them untouched.
+
+## 20260504-072422
+run: 10
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072422.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072422.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation phase for the requested 12-locus queue. I verified the governing state/log files and ran `python scripts/validate_package.py`; validation passed.
+
+No loci were newly resolved in this turn. The stronger direct-image-separation phase was already recorded as exhausted without new safe `T1` text changes. The 12 that remain unresolved are `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+
+The working tree already contains state/log updates in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json) stating exactly that exhaustion state.
+
+## 20260504-072503
+run: 11
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072503.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072503.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation pass on the 12 requested holdouts, and the state is internally consistent. I verified the required state surfaces, confirmed `process.json` and `timeline.json` carry the exhaustion event `FIM-250`, and ran `python scripts/validate_package.py`; validation passed.
+
+No new safe `T1` text changes were recovered in that stronger pass. Newly resolved from this 12-locus stronger direct-image-separation phase: none.
+
+These remain unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+So the correct stop state is: the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The relevant uncommitted state updates are already present in the worktree under [current-state.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json).
+
+## 20260504-072601
+run: 12
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072601.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072601.txt
+message:
+The stronger direct-image-separation phase was already completed in the current package state when I opened it. I verified the gate/state surfaces, confirmed the 12-locus exhaustion batch was internally synchronized, ran `python scripts/validate_package.py`, and committed the state batch as `c423b4c` (`Record stronger direct-image exhaustion on remaining holdouts`).
+
+Newly resolved from this stronger 12-holdout pass: none.
+
+Still unresolved after the stronger pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+So the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. Validation passed. The only remaining dirty files are the wrapper/runtime logs, which I left uncommitted.
+
+## 20260504-072700
+run: 13
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072700.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072700.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation continuation, and it is internally consistent. `python scripts/validate_package.py` passes.
+
+Newly resolved from that stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The package already says, in the required state surfaces, that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not make further edits because the stop condition has already been honestly reached and recorded. There are unrelated existing worktree changes in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`, which I left untouched.
+
+## 20260504-072740
+run: 14
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072740.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072740.txt
+message:
+The current package state already reflects the stronger direct-image-separation pass you asked for. The 12-holdout queue has already been processed to exhaustion in the tracked state, with the closeout recorded in `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `process.json`, and `timeline.json`. The latest relevant commit is `c423b4c` (`Record stronger direct-image exhaustion on remaining holdouts`).
+
+Newly resolved from that 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+`python scripts/validate_package.py` passes on the current state. The only current unstaged changes are unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-072824
+run: 15
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072824.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072824.txt
+message:
+The current package state already reflects the exact continuation you asked for. As of `2026-05-04`, the stronger direct-image-separation phase over the 12 holdouts is recorded as completed in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json) at event `FIM-250`. I verified that state and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from that stronger pass: none.
+
+Still unresolved after the stronger pass: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not overwrite unrelated dirty files in the worktree; the only existing unstaged changes are `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-072913
+run: 16
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072913.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072913.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation pass you asked for. The end-state is recorded across `current-state.md`, `human-log.md`, `process-log.md`, `unresolved-loci.md`, `process.json`, and `timeline.json`, and `python scripts/validate_package.py` passes.
+
+Newly resolved from this stronger 12-holdout pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not make further edits because the package is already at the honest stop condition on the present in-package evidence basis.
+
+## 20260504-072957
+run: 17
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-072957.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-072957.txt
+message:
+The requested stronger direct-image-separation phase is already complete in the current package state, and the recorded state is internally consistent with your mission. I verified the resumability surfaces and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this stronger 12-locus pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The package already states, across `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `process.json`, and `timeline.json`, that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not overwrite unrelated user changes; the only unrelated dirty-worktree files are `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-073034
+run: 18
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073034.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073034.txt
+message:
+The current package state already reflects a completed stronger direct-image-separation pass over the 12 requested holdouts, and that state is internally consistent. I verified the required state surfaces, confirmed the 12-locus exhaustion is recorded in `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `process.json`, and `timeline.json`, and ran `python scripts/validate_package.py`, which passed.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+So the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The only dirty working-tree files are unrelated wrapper/report logs: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-073116
+run: 19
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073116.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073116.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation phase for the 12 holdouts, and the state surfaces are internally aligned. `python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not change package files in this turn; the only dirty files in the worktree are unrelated wrapper logs: [suppressed-codex-reports.log](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/suppressed-codex-reports.log) and [until-done-wrapper.log](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/until-done-wrapper.log).
+
+## 20260504-073156
+run: 20
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073156.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073156.txt
+message:
+The current package state already reflects the stronger direct-image-separation phase as completed and exhausted for the 12-target queue. I did not reopen or alter that finished slice, because the governing state, logs, `process.json`, and `timeline.json` are already synchronized to that completion state.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+So the stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+Verification: `python scripts/validate_package.py` passed. The worktree has unrelated existing modifications in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`, which I did not touch.
+
+## 20260504-073236
+run: 21
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073236.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073236.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation continuation as completed. I verified the state files, `process.json`, and `timeline.json`, and `python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter the package, and I left the unrelated modified wrapper logs in place:
+[provenance/faith-in-mind/process/suppressed-codex-reports.log](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/suppressed-codex-reports.log)
+[provenance/faith-in-mind/process/until-done-wrapper.log](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/until-done-wrapper.log)
+
+## 20260504-073315
+run: 22
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073315.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073315.txt
+message:
+The package is already at the requested terminal state. I verified the required stop surfaces, confirmed the terminal stronger-pass event in [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json:8873), and reran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this 12-locus stronger direct-image-separation phase: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not modify the package, and I did not touch the unrelated existing git changes in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-073358
+run: 23
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073358.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073358.txt
+message:
+The current package state already reflects the completed stronger direct-image-separation pass over the full 12-locus queue. I verified the governing state/log surfaces and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved in that stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The package already states, consistently across `current-state.md`, `human-log.md`, `process-log.md`, `unresolved-loci.md`, `process.json`, and `timeline.json`, that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. No further in-package action is justified unless you want to reopen the work with genuinely cleaner image evidence or new corroborative evidence.
+
+The only uncommitted changes visible in `git status` are unrelated log files:
+`provenance/faith-in-mind/process/suppressed-codex-reports.log`
+and
+`provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-073441
+run: 24
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073441.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073441.txt
+message:
+The present package state already reflects the stronger direct-image-separation pass across the full 12-locus queue, and the required state surfaces are synchronized. `python scripts/validate_package.py` passes.
+
+Newly resolved from that stronger 12-locus pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-073526
+run: 25
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073526.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073526.txt
+message:
+The current package state already has the requested stronger direct-image-separation phase completed and recorded. I did not reopen or overwrite that exhausted slice, because the state files, `process.json`, and `timeline.json` already agree that the full 12-holdout queue was processed to exhaustion on 2026-05-04.
+
+`python scripts/validate_package.py` passes. I left unrelated local changes in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log` untouched.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-073602
+run: 26
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073602.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073602.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation phase for this 12-locus queue. I verified the required state surfaces, confirmed the exhaustion event in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json), and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this stronger direct-image-separation phase: none. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`. The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter package files in this turn, and I left the unrelated dirty wrapper/report logs untouched.
+
+## 20260504-073641
+run: 27
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073641.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073641.txt
+message:
+The current package state was already at the required terminal point for this mission. The stronger direct-image-separation phase on the 12 holdouts had already been completed and recorded across the required state surfaces, and `python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter package state, because the logs, `process.json`, and `timeline.json` were already synchronized to that exhausted-stop condition.
+
+## 20260504-073726
+run: 28
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073726.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073726.txt
+message:
+The current package state already reflects the completed stronger direct-image-separation pass on the full 12-holdout queue, and that stop condition is internally consistent. I verified the recorded state against the process/gate/log/timeline surfaces and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from the 12: none. The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+These remain unresolved:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+I did not alter unrelated working-tree files; the only existing unstaged changes are `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-073804
+run: 29
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073804.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073804.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation phase across the full 12-holdout queue. I verified that state and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter or revert the unrelated existing modifications in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-073854
+run: 30
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073854.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073854.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation phase as completed across the full 12-holdout queue, and `python scripts/validate_package.py` passes.
+
+Newly resolved from that stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The package state, logs, `process.json`, and `timeline.json` already record that exhaustion on the present in-package evidence basis.
+
+## 20260504-073933
+run: 31
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-073933.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-073933.txt
+message:
+The requested stronger direct-image-separation phase was already complete in the package state I found on `2026-05-04`. The logs, `process.json`, and `timeline.json` all already record that the full 12-locus queue was reworked with tighter local crops plus rotated and mirrored derivatives where useful, and that the pass was exhausted without a new safe `T1` text change. `python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-holdout stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+So the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The only live worktree changes I found were unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-074016
+run: 32
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074016.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074016.txt
+message:
+The current package state already reflects the stronger direct-image-separation phase you asked for. I verified the governing state surfaces, confirmed the 12-locus queue is recorded as fully processed, and reran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this stronger 12-holdout pass: none.
+
+Still unresolved:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. That exhaustion is already synchronized in the package state, including [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json).
+
+I did not alter package files in this turn. The only live worktree changes are unrelated wrapper/report logs, which I left untouched.
+
+## 20260504-074059
+run: 33
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074059.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074059.txt
+message:
+The package is already at the requested terminal state. I verified the required state surfaces, confirmed `xml-open/ce/faith-in-mind/process.json` and the human-facing logs all record the stronger direct-image-separation pass as completed on this exact 12-locus queue, and `python scripts/validate_package.py` passed.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The only live git dirt I found was in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`, which I did not touch.
+
+## 20260504-074143
+run: 34
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074143.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074143.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation continuation as completed. `current-state.md`, `human-log.md`, `process-log.md`, `unresolved-loci.md`, `process.json`, and `timeline.json` all agree that the 12-holdout queue was processed through the stronger pass and that no new safe `T1` repair crossed threshold. I did not make further text or state edits, because the next required slice in [xml-open/ce/faith-in-mind/process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json) is already `paused_pending_new_evidence_after_stronger_direct_image_separation_exhaustion`.
+
+Newly resolved from this 12-locus stronger pass: none. Remaining unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+`python scripts/validate_package.py` passed. The only unrelated existing worktree changes are `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-074235
+run: 35
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074235.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074235.txt
+message:
+The package is already at the requested terminal state. The current state surfaces, `process.json`, and `timeline.json` all record that the stronger direct-image-separation pass across the full 12-holdout queue was completed on `2026-05-04`, and that it produced no new safe `T1` text changes.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The package explicitly states that the stronger direct-image-separation phase was exhausted without new safe `T1` repairs, and `python scripts/validate_package.py` passes in the current state. I did not reopen or alter the package because the requested queue has already been fully processed and honestly closed on the present in-package evidence basis.
+
+## 20260504-074313
+run: 36
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074313.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074313.txt
+message:
+The current package state already reflects the completed stronger direct-image-separation pass over the full 12-holdout queue. I did not make new editorial changes, because the state files, `process.json`, and `timeline.json` already record that phase as exhausted on the present in-package basis.
+
+`python scripts/validate_package.py` passes. The only live worktree changes are unrelated log files: [suppressed-codex-reports.log](/abs/path not available) and [until-done-wrapper.log](/abs/path not available); I did not touch them.
+
+Newly resolved in that stronger pass: none.
+
+Still unresolved after the stronger pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-074350
+run: 37
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074350.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074350.txt
+message:
+The current package state already reflects a completed stronger direct-image-separation pass on the 12 requested holdouts, and the package validates as-is with `python scripts/validate_package.py`.
+
+No new safe `T1` text changes were produced by that stronger pass. Newly resolved from that 12-locus set: none. Still unresolved after the stronger direct-image-separation exhaustion: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The exhaustion state is already recorded in the live package surfaces, including [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). The latest timeline event is `FIM-250`, dated `2026-05-04`, which records that stronger pass as exhausted without new accepted repairs.
+
+I did not make further edits, because the requested queue is already fully processed and honestly closed on the present in-package basis. The only dirty files in the worktree are unrelated log wrappers: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-074446
+run: 38
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074446.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074446.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation continuation as completed on `2026-05-04`. I verified the required gates and state surfaces, checked `process.json` and `timeline.json`, and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from that 12-locus queue: none.
+
+Still unresolved after the stronger pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The package already states, consistently across `current-state.md`, `human-log.md`, `process-log.md`, `unresolved-loci.md`, `process.json`, and `timeline.json`, that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not make further edits because there is no remaining honest in-package bounded slice under the present evidence basis.
+
+## 20260504-074529
+run: 39
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074529.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074529.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation phase across the requested 12 holdouts. I verified the recorded stop condition against the package files you named and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved in this continuation: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The required exhaustion state is already recorded in `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `process.json`, and `timeline.json`. The only live uncommitted changes in the worktree are unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-074608
+run: 40
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074608.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074608.txt
+message:
+The current package state already reflects the full stronger direct-image-separation continuation you requested. I verified the governing state files, confirmed `process.json` and `timeline.json` both point to `manual_correction_slice_T1_second_pass_stronger_direct_image_separation_remaining_12_holdouts_exhaustion`, and ran `python scripts/validate_package.py`, which passed.
+
+No new loci were newly resolved in this continuation, because the package already records that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The holdouts that remain unresolved are exactly these 12: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+
+I did not alter package content, and I left the unrelated modified files `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log` untouched.
+
+## 20260504-074649
+run: 41
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074649.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074649.txt
+message:
+The current package state already reflects completion of the requested stronger direct-image-separation phase on the full 12-holdout queue. I verified the required state surfaces, confirmed `process.json` and `timeline.json` point to `manual_correction_slice_T1_second_pass_stronger_direct_image_separation_remaining_12_holdouts_exhaustion`, and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this 12-locus stronger pass: none. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`. The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+I did not alter package state in this turn. The only live worktree changes I found are unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-074730
+run: 42
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074730.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074730.txt
+message:
+The current package state already reflects the stronger direct-image-separation pass as completed on `2026-05-04`, and the required state surfaces are aligned with that stop condition. I did not make package edits. `python scripts/validate_package.py` passed.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-074828
+run: 43
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074828.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074828.txt
+message:
+The current package state already reflects the completed stronger direct-image-separation pass across the full 12-locus queue, and `python scripts/validate_package.py` passes from that state.
+
+Newly resolved from this stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter the package state further because the required exhaustion state is already synchronized in the process logs, `process.json`, and `timeline.json`. There are existing unrelated working-tree modifications in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`, which I left untouched.
+
+## 20260504-074905
+run: 44
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074905.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074905.txt
+message:
+The current package state already reflects a completed stronger direct-image-separation pass over the full 12-holdout queue. The relevant stop state is recorded in the package files and in commit `c423b4c` (`Record stronger direct-image exhaustion on remaining holdouts`). I ran `python scripts/validate_package.py`, and the package validates cleanly.
+
+Newly resolved from this stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter or revert the two unrelated live log files shown by `git status`: `suppressed-codex-reports.log` and `until-done-wrapper.log`.
+
+## 20260504-074943
+run: 45
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-074943.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-074943.txt
+message:
+The package is already at the requested terminal state. The current state files, unresolved register, `process.json`, and `timeline.json` all record that the stronger direct-image-separation phase was completed across the 12 target holdouts and exhausted on the present in-package basis. I re-ran `python scripts/validate_package.py`, and validation passed.
+
+Newly resolved in this stronger 12-locus phase: none.
+
+Still unresolved after the stronger pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The only live workspace modifications are unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-075021
+run: 46
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075021.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075021.txt
+message:
+The current package is already at the required stop state for this mission. I verified the required state surfaces, confirmed the gate conditions, and ran `python scripts/validate_package.py`; validation passed.
+
+No new safe `T1` text changes were made, because the stronger direct-image-separation pass over the full 12-holdout queue is already recorded in the package as completed and exhausted. The package state is synchronized across `current-state.md`, `human-log.md`, `process-log.md`, `unresolved-loci.md`, `process.json`, and `timeline.json`, including timeline event `FIM-248`.
+
+Newly resolved in this stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-075109
+run: 47
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075109.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075109.txt
+message:
+The current package state already shows this mission as completed before this turn. The authoritative resumability surfaces, `process.json`, and `timeline.json` all record that the stronger direct-image-separation pass across the 12 holdouts was finished and exhausted on 2026-05-04, with no further safe `T1` text changes accepted.
+
+Newly resolved in this turn: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+Verification: `python scripts/validate_package.py` passed.
+
+## 20260504-075146
+run: 48
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075146.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075146.txt
+message:
+The current package state already shows this mission as completed. The required stronger direct-image-separation pass over the 12 target holdouts is already logged across `current-state.md`, `human-log.md`, `process-log.md`, `unresolved-loci.md`, `process.json`, and `timeline.json`, and `python scripts/validate_package.py` passes from that state.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter package files, and I did not touch the unrelated existing dirty files shown by `git status` (`suppressed-codex-reports.log`, `until-done-wrapper.log`).
+
+## 20260504-075225
+run: 49
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075225.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075225.txt
+message:
+The current package state already reflects the stronger direct-image-separation pass and its exhaustion. I verified the required state surfaces, `process.json`, and `timeline.json`; they are synchronized to the stop state, and `python scripts/validate_package.py` passes.
+
+Newly resolved from the 12-target queue: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not modify package files in this turn; the only dirty files in the worktree are unrelated log files already outside the edition state surfaces: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-075312
+run: 50
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075312.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075312.txt
+message:
+The current package state already reflects a completed stronger direct-image-separation pass for the full 12-locus queue, and the state surfaces are internally consistent with that stop condition. I verified the holdout list against [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and the working text, then ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this 12-holdout stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not make further edits because the package is already at the required honest exhaustion state, and the only dirty files in `git status` were unrelated existing log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-075403
+run: 51
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075403.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075403.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation phase over the exact 12 requested holdouts, and `python scripts/validate_package.py` passes.
+
+Newly resolved from that stronger pass: none.
+
+Still unresolved after the stronger pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter the package state further, because the required exhaustion state is already recorded in the mandated surfaces and the package validates as-is.
+
+## 20260504-075446
+run: 52
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075446.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075446.txt
+message:
+The package is already at the requested terminal state. The stronger direct-image-separation phase across the full 12-holdout queue had already been completed and logged in the required state surfaces, including [current-state.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). I did not overwrite the unrelated existing modifications in `suppressed-codex-reports.log` and `until-done-wrapper.log`.
+
+Newly resolved from the 12 target holdouts: none. Remaining unresolved after the stronger pass: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`. The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+Validation passed with `python scripts/validate_package.py`.
+
+## 20260504-075530
+run: 53
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075530.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075530.txt
+message:
+The current package state already reflects completion of the requested stronger direct-image-separation pass across the full 12-locus holdout queue, and `python scripts/validate_package.py` passes.
+
+Newly resolved from that stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not make further edits because the required state surfaces already record that exhaustion honestly and the package validates in that state.
+
+The worktree is dirty only in unrelated existing log files: [suppressed-codex-reports.log](/abs/path not available) and [until-done-wrapper.log](/abs/path not available).
+
+## 20260504-075608
+run: 54
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075608.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075608.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation pass across the full 12-holdout queue, and the required state surfaces are synchronized with that outcome. I verified `current-state.md`, `human-log.md`, `process-log.md`, `correction-log.md`, `ocr-consensus-log.md`, `translation-diff-log.md`, `unresolved-loci.md`, `process.json`, and `timeline.json`, then ran `python scripts/validate_package.py`; it passed.
+
+Newly resolved from this stronger 12-locus pass: none. The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+## 20260504-075653
+run: 55
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075653.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075653.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation continuation, and `python scripts/validate_package.py` passes.
+
+No new safe `T1` text changes were made in that stronger pass. The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+Newly resolved from the 12-target queue: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The package logs and state surfaces already say that this stronger in-package image-separation phase is exhausted and that further safe progress now requires cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-075728
+run: 56
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075728.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075728.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation continuation as completed. I verified the governing state surfaces and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this 12-locus queue: none.  
+Still unresolved after the stronger direct-image-separation pass: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The package already says, consistently across `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `process.json`, and `timeline.json`, that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not add or overwrite anything further. There are unrelated pre-existing uncommitted changes in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`, which I left untouched.
+
+## 20260504-075807
+run: 57
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075807.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075807.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation phase across the full 12-holdout queue. I did not make further edition changes, because the required pass is already logged as completed and exhausted on the present in-package basis.
+
+Newly resolved from that stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+So the stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+`python scripts/validate_package.py` passes. The only dirty files in the worktree are unrelated existing changes in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`, which I left untouched.
+
+## 20260504-075844
+run: 58
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075844.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075844.txt
+message:
+The current package state already reflects the stronger direct-image-separation pass across the full 12-locus queue. I verified the required state surfaces, gate files, `process.json`, and `timeline.json`, and they all agree that this phase is complete and exhausted on the present in-package evidence basis. I made no edition-text or state-file changes.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+So the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. `python scripts/validate_package.py` passes. The only unrelated live worktree changes are in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-075932
+run: 59
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-075932.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-075932.txt
+message:
+The current package state already reflects completion of the requested stronger direct-image-separation pass across the full 12-locus queue. I verified that the stop-state is recorded in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). `python scripts/validate_package.py` passed.
+
+Newly resolved from this stronger pass: none.
+
+Remaining unresolved after the stronger pass: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter the package state, because it is already in the required completed-stop condition. The only dirty working-tree files are unrelated runtime logs: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-080014
+run: 60
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080014.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080014.txt
+message:
+The package is already at the required terminal state for this mission. The stronger direct-image-separation phase over the 12 target holdouts is already recorded as completed in the package state, logs, `process.json`, and `timeline.json`, and `python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-locus queue: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The only live workspace changes outside this were the unrelated log files already dirty in `git status`: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-080100
+run: 61
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080100.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080100.txt
+message:
+The current package state already satisfies the mission and stop condition. The stronger direct-image-separation phase has already been completed and recorded across all 12 target holdouts, and `python scripts/validate_package.py` passes on the present state.
+
+Newly resolved from that stronger 12-locus pass: none.
+
+Still unresolved after that stronger pass: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-080139
+run: 62
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080139.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080139.txt
+message:
+No new work was available to continue inside the package state as it stands. The required stronger direct-image-separation phase for the 12 target holdouts is already recorded as completed and exhausted across all required state surfaces, and validation passes.
+
+Newly resolved from this requested 12-locus stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The package already says explicitly that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes, and `python scripts/validate_package.py` passed. I did not alter package files. There were unrelated pre-existing working-tree changes in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`, which I left untouched.
+
+## 20260504-080219
+run: 63
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080219.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080219.txt
+message:
+The current package state already reflects completion of the requested stronger direct-image-separation phase. I verified the resumability surfaces and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this 12-locus queue: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The package already records that exhaustion in `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `process.json`, and `timeline.json`, so no further in-package bounded action is honestly available without cleaner image evidence or new corroborative evidence.
+
+## 20260504-080257
+run: 64
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080257.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080257.txt
+message:
+The current package state already satisfies this continuation request. The stronger direct-image-separation phase had already been carried through the full 12-holdout queue and recorded as exhausted in the required state surfaces, with the completion reflected in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). `python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-locus stronger pass: none. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+I did not alter package files in this turn. The only dirty workspace files are unrelated wrapper/report logs: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-080339
+run: 65
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080339.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080339.txt
+message:
+The current package state already reflects the completed stronger direct-image-separation pass for the 12-target queue. I did not make further text or state edits because the stop condition has already been reached in the recorded state: [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json) all already say that the stronger in-package pass was exhausted without a new safe repair.
+
+Newly resolved from the 12 holdouts: none. Remaining unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`. Explicitly: the stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+`python scripts/validate_package.py` passes. The only live git changes in the worktree are unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-080425
+run: 66
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080425.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080425.txt
+message:
+The package was already at the recorded endpoint for this request. The stronger direct-image-separation phase on the 12-target queue had already been completed in the current package state, and the required state surfaces already record that exhaustion. I ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this stronger direct-image-separation phase: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter package content. The only dirty files in `git status` were unrelated runtime logs: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-080503
+run: 67
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080503.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080503.txt
+message:
+The current package state already reflects the stronger direct-image-separation continuation and its exhaustion. I verified the governing state files, confirmed `process.json` and `timeline.json` carry the completed exhaustion slice, and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved in this continuation: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not modify the package; only unrelated existing working-tree changes are present in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-080546
+run: 68
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080546.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080546.txt
+message:
+The current package state already reflects the stronger direct-image-separation phase as completed for the exact 12 target holdouts, and `python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter the package state, because the required exhaustion/stop condition is already recorded consistently in the tracked workflow files and `process.json` / `timeline.json`. Unrelated local modifications remain only in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`, which I left untouched.
+
+## 20260504-080624
+run: 69
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080624.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080624.txt
+message:
+The package is already at the requested terminal state. The required stronger direct-image-separation pass across the 12 holdouts is already recorded as completed in the live state surfaces (`current-state.md`, `human-log.md`, `process-log.md`, `unresolved-loci.md`, `process.json`, and `timeline.json`), with `FIM-250` marking the exhaustion of that pass on `2026-05-04`. I did not make further edition changes because the package’s own gate/state files show there is no remaining bounded lawful next slice without cleaner image evidence or genuinely new corroborative evidence.
+
+Newly resolved from this 12-locus stronger pass: none. The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+
+`python scripts/validate_package.py` passed.
+
+## 20260504-080715
+run: 70
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080715.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080715.txt
+message:
+The current package state already reflects completion of the requested stronger direct-image-separation phase. `current-state.md`, `unresolved-loci.md`, `process.json`, and `timeline.json` all record this as `FIM-250`, and `python scripts/validate_package.py` passes on the present state.
+
+Newly resolved from this stronger 12-locus pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-080831
+run: 71
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080831.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080831.txt
+message:
+The package is already at the required terminal state for this mission. I verified that the stronger direct-image-separation pass over the 12 target holdouts is already recorded as completed and exhausted in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json), with `FIM-250` marking the closeout. `python scripts/validate_package.py` passes on the present state.
+
+Newly resolved from this stronger 12-locus pass: none. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Explicitly: the stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+I did not alter package content, because the required pass and stop condition were already satisfied. The only live worktree changes are unrelated runtime logs: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-080930
+run: 72
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-080930.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-080930.txt
+message:
+The package was already at the required terminal state when I resumed it. The stronger direct-image-separation phase had already been completed and logged across all 12 target holdouts, and `python scripts/validate_package.py` passes from the current workspace state.
+
+Newly resolved from that stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The package state already says, and validation now confirms, that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-081013
+run: 73
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081013.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081013.txt
+message:
+The requested stronger direct-image-separation phase was already completed in the current package state before this turn. I verified the governing logs, `unresolved-loci.md`, `current-state.md`, `process.json`, and `timeline.json`, and they all agree that the 12-holdout queue has been processed and exhausted on the present in-package evidence basis. I then ran `python scripts/validate_package.py`, and validation passed.
+
+Newly resolved among the 12: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not make package edits in this turn because the required state updates were already present and consistent.
+
+## 20260504-081140
+run: 74
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081140.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081140.txt
+message:
+No new safe `T1` text changes were made. The current package state already reflects that the stronger direct-image-separation phase across the 12 target holdouts was completed and exhausted on 2026-05-04, and `python scripts/validate_package.py` passes from the present state.
+
+Newly resolved from this stronger direct-image-separation phase: none.
+
+Still unresolved after the stronger pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter the package; the only dirty files in `git status` are unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-081224
+run: 75
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081224.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081224.txt
+message:
+The requested stronger direct-image-separation phase was already completed in the current package state. The governing logs, `process.json`, and `timeline.json` all agree on that, with the completion recorded as `FIM-250` on `2026-05-04`. I did not make redundant edits.
+
+Newly resolved from this stronger 12-locus pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The package already states, and I reconfirmed, that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. `python scripts/validate_package.py` passes.
+
+## 20260504-081307
+run: 76
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081307.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081307.txt
+message:
+The current package state already has this mission completed. The stronger direct-image-separation phase for the 12 specified holdouts is already recorded as exhausted in the required state surfaces, and `python scripts/validate_package.py` passes.
+
+Newly resolved from that 12-locus queue: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+So the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not make further edits because the package already reflects that completed stop condition, and the only live worktree changes are unrelated process logs: [suppressed-codex-reports.log](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/suppressed-codex-reports.log) and [until-done-wrapper.log](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/until-done-wrapper.log).
+
+## 20260504-081350
+run: 77
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081350.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081350.txt
+message:
+The package is already at the post-pass stop state you requested. The stronger direct-image-separation phase across all 12 target holdouts is already recorded as completed in the package state (`FIM-250` / `manual_correction_slice_T1_second_pass_stronger_direct_image_separation_remaining_12_holdouts_exhaustion`), and `python scripts/validate_package.py` passes as of 2026-05-04.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not make further edits because the required state surfaces already honestly record that exhaustion, and the working tree only shows unrelated log-file changes outside the required edition state.
+
+## 20260504-081436
+run: 78
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081436.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081436.txt
+message:
+The package state already reflects completion of the requested stronger direct-image-separation phase across the full 12-holdout queue, and `python scripts/validate_package.py` passes from that state.
+
+Newly resolved in this stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The exhaustion state is already recorded in the required package surfaces, including `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `process.json`, and `timeline.json`.
+
+## 20260504-081516
+run: 79
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081516.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081516.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation phase, and `python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The stop state is already recorded in [current-state.md](/abs/path not available), `unresolved-loci.md`, `process-log.md`, `human-log.md`, `xml-open/ce/faith-in-mind/process.json`, and `xml-open/ce/faith-in-mind/timeline.json`; I did not make further edition-state edits this turn.
+
+## 20260504-081558
+run: 80
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081558.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081558.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation continuation as completed. I verified that state and ran `python scripts/validate_package.py`; it passed.
+
+Newly resolved from this stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not overwrite the unrelated existing worktree changes in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-081635
+run: 81
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081635.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081635.txt
+message:
+The current package state already reflects the requested continuation as completed. The stronger direct-image-separation pass over the 12 holdouts is logged as exhausted in the required state surfaces, including `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `xml-open/ce/faith-in-mind/process.json`, and `timeline.json` (`FIM-250`, dated `2026-05-04`). I did not make further edits, because the package already records that no further safe in-package action remains on this queue.
+
+`python scripts/validate_package.py` passes in the current state. The only live git changes are unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+Newly resolved from this stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-081716
+run: 82
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081716.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081716.txt
+message:
+The current package state already reflects the stronger direct-image-separation continuation for the full 12-locus queue, and it is internally consistent with that stop condition. `python scripts/validate_package.py` passes.
+
+Newly resolved from this stronger pass: none.
+
+Still unresolved:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Explicitly: the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not overwrite the unrelated dirty log files already present in the worktree: [suppressed-codex-reports.log](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/suppressed-codex-reports.log) and [until-done-wrapper.log](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/until-done-wrapper.log).
+
+## 20260504-081811
+run: 83
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081811.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081811.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation continuation as completed. I verified the required state surfaces, and `python scripts/validate_package.py` passes.
+
+Newly resolved from the 12-target queue in this turn: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The package already records that exhaustion in `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `xml-open/ce/faith-in-mind/process.json`, and `xml-open/ce/faith-in-mind/timeline.json`.
+
+Workspace note: the only live uncommitted changes I saw were unrelated log files, `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-081850
+run: 84
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081850.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081850.txt
+message:
+The package was already at the requested terminal state when I resumed it. The stronger direct-image-separation phase over the full 12-holdout queue had already been completed and recorded as exhausted on `2026-05-04`, with no new safe `T1` text changes accepted in that pass.
+
+Newly resolved from this resumed turn: none.  
+Still unresolved after the stronger pass: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+`python scripts/validate_package.py` passes. I did not make package edits. The only existing uncommitted changes in the worktree are unrelated log files: [suppressed-codex-reports.log](/abs/path/provenance/faith-in-mind/process/suppressed-codex-reports.log) and [until-done-wrapper.log](/abs/path/provenance/faith-in-mind/process/until-done-wrapper.log).
+
+## 20260504-081940
+run: 85
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-081940.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-081940.txt
+message:
+The package is already in the post-pass state your mission requires. I verified the governing state/log surfaces and `xml-open/ce/faith-in-mind/process.json`, and they already record that the stronger direct-image-separation phase was run across the full 12-locus queue and then honestly exhausted without a new safe `T1` text change. I reran `python scripts/validate_package.py`; it passed.
+
+Newly resolved from this stronger direct-image-separation phase: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+So the correct stop condition is already in force: the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter edition files further.
+
+## 20260504-082016
+run: 86
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082016.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082016.txt
+message:
+The current package state already reflects the stronger direct-image-separation phase the mission called for. I verified the required state surfaces, gate files, `process.json`, and `timeline.json`; they already record the completed stronger pass and its exhaustion on the present in-package basis. `python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter package content because the package is already synchronized to that outcome. The only live worktree modifications are unrelated runtime logs: [suppressed-codex-reports.log](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/suppressed-codex-reports.log) and [until-done-wrapper.log](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/until-done-wrapper.log).
+
+## 20260504-082106
+run: 87
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082106.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082106.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation phase for the 12 target holdouts, and that state is internally aligned across the required surfaces. I verified that with `current-state.md`, `unresolved-loci.md`, `process.json`, `timeline.json`, and the timeline closeout event `FIM-250`. `python scripts/validate_package.py` passes.
+
+Newly resolved from the 12 holdouts: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Explicitly: the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The only dirty working-tree files are the runtime logs `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`; I did not alter package content.
+
+## 20260504-082147
+run: 88
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082147.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082147.txt
+message:
+The package state already reflects completion of the requested stronger direct-image-separation pass. I verified the required state/log surfaces, `process.json`, `timeline.json`, and reran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from the 12-target queue: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-082228
+run: 89
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082228.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082228.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation pass you requested. I verified the required gate/state surfaces, confirmed `process.json` and `timeline.json` both record that pass as completed and exhausted, and ran `python scripts/validate_package.py`; validation passed.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter package content, and I did not touch the unrelated existing worktree changes in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-082313
+run: 90
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082313.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082313.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation phase for the 12-target queue, and `python scripts/validate_package.py` passes. I did not reopen or alter the edition state because the required exhaustion state is already recorded in the package logs and JSON surfaces.
+
+Newly resolved in this turn: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The only live workspace modifications I found were unrelated log files: [suppressed-codex-reports.log](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/suppressed-codex-reports.log) and [until-done-wrapper.log](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/until-done-wrapper.log).
+
+## 20260504-082516
+run: 91
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082516.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082516.txt
+message:
+The current package state already reflects completion of the stronger direct-image-separation pass for the 12-target queue, so no further safe in-package editorial action remained to perform.
+
+Validation passed with `python scripts/validate_package.py`.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-082553
+run: 92
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082553.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082553.txt
+message:
+The current package state already reflects the completed stronger direct-image-separation phase for the 12 requested holdouts, and `python scripts/validate_package.py` passes as of `2026-05-04`.
+
+Newly resolved in this continuation: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The state/log surfaces already record that exhaustion in `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `xml-open/ce/faith-in-mind/process.json`, and `xml-open/ce/faith-in-mind/timeline.json`.
+
+## 20260504-082630
+run: 93
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082630.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082630.txt
+message:
+The package was already at the requested terminal state when I resumed it. The stronger direct-image-separation phase over the full 12-holdout queue is already recorded as completed and exhausted on `2026-05-04` in the required state surfaces, including `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `xml-open/ce/faith-in-mind/process.json`, and `timeline.json` (`FIM-250`).
+
+`python scripts/validate_package.py` passes. I did not make further edition-state edits, because the package already honestly records the correct stop condition.
+
+Newly resolved from this stronger direct-image-separation phase: none.
+
+Still unresolved after the stronger pass: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Explicitly: the stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The only live worktree modifications I found were unrelated runtime logs: [suppressed-codex-reports.log](</C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/suppressed-codex-reports.log>) and [until-done-wrapper.log](</C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/until-done-wrapper.log>).
+
+## 20260504-082711
+run: 94
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082711.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082711.txt
+message:
+The current package state already reflects the stronger direct-image-separation continuation as completed. I verified the governing state surfaces, confirmed the 12-locus queue is recorded as exhausted on the present in-package basis, and ran `python scripts/validate_package.py`, which passed.
+
+Newly resolved among the 12: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. I did not alter edition files, since the package already records that completed state; the only live uncommitted changes I saw were unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-082747
+run: 95
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082747.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082747.txt
+message:
+The current package state already reflects the requested stronger direct-image-separation pass as completed and exhausted. I did not make further edition-text or state edits, because the stop condition has already been reached in the package files: the 12-locus queue was processed and recorded as exhausted on `2026-05-04`.
+
+Newly resolved from that stronger pass: none.
+
+Still unresolved:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. `python scripts/validate_package.py` passes in the current state.
+
+## 20260504-082827
+run: 96
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082827.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082827.txt
+message:
+The current package state already reflects the stronger direct-image-separation pass you requested. The required state surfaces, `process.json`, and `timeline.json` are aligned on `FIM-250`, which records that the 12-locus queue was fully processed and that the stronger in-package image-separation phase is exhausted without a new safe `T1` repair.
+
+Newly resolved from that 12-locus set: none.
+
+Still unresolved after the stronger pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+`python scripts/validate_package.py` passes. I did not make new editorial changes this turn because the package is already at the mandated stop condition: the stronger direct-image-separation phase has been exhausted on the present in-package basis. The only dirty-worktree items visible are pre-existing log files: [suppressed-codex-reports.log](/abs/path not available) and [until-done-wrapper.log](/abs/path not available).
+
+## 20260504-082914
+run: 97
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082914.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082914.txt
+message:
+The current package state already reflects completion of the requested stronger direct-image-separation phase across the full 12-holdout queue, and `python scripts/validate_package.py` passes.
+
+Newly resolved from that stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+The package already states, consistently across `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `process.json`, and `timeline.json`, that the stronger direct-image-separation phase was exhausted without new safe `T1` text changes on the present in-package evidence basis. I did not make further edits because the requested stop condition has already been reached and recorded.
+
+## 20260504-082948
+run: 98
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-082948.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-082948.txt
+message:
+The current package state already reflects the completed stronger direct-image-separation pass. I verified the required state surfaces, `process.json`, and `timeline.json`; they consistently record that this phase was exhausted on `2026-05-04` without a new safe `T1` repair. I then ran `python scripts/validate_package.py`, and validation passed.
+
+Newly resolved from this stronger 12-locus pass: none.
+
+Still unresolved:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes.
+
+## 20260504-083032
+run: 99
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-083032.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-083032.txt
+message:
+The package state already reflects completion of the requested stronger direct-image-separation phase for the 12 holdouts, and `python scripts/validate_package.py` passes.
+
+Newly resolved from this 12-locus stronger pass: none.
+
+Still unresolved after the stronger direct-image-separation pass:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The stronger direct-image-separation phase was exhausted without new safe `T1` text changes. The stop state is already recorded in the required package surfaces, including [current-state.md](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/abs/path/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json).
+
+## 20260504-083110
+run: 100
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-083110.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-083110.txt
+message:
+The package was already at the required stop state when I picked it up. I verified the workflow surfaces, confirmed the stronger direct-image-separation pass is already recorded as completed across the full 12-locus queue, and ran `python scripts/validate_package.py`, which passed.
+
+No loci were newly resolved in this continuation. The stronger direct-image-separation phase was already exhausted without new safe `T1` text changes. The 12 loci that remain unresolved are `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+
+I also checked that this exhaustion state is synchronized in `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `xml-open/ce/faith-in-mind/process.json`, and `xml-open/ce/faith-in-mind/timeline.json`. The only live worktree changes are unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
