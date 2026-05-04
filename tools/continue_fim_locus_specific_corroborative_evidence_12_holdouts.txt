@@ -1,0 +1,106 @@
+Continue the Faith in Mind critical-edition workflow from the current package state, but do not rerun the exhausted in-package image pass. This phase is a bounded, user-directed, locus-specific corroborative-evidence exception for the 12 remaining holdouts.
+
+Why this phase is allowed:
+- The in-package queue and stronger direct-image-separation pass are already exhausted.
+- The human operator has explicitly redirected the work to step 2.
+- This is not a fresh general witness hunt. It is a narrow corroborative-evidence acquisition phase for exact unresolved loci only.
+
+Mission:
+- Seek genuinely new corroborative evidence for the 12 remaining unresolved holdouts only.
+- Use that evidence to resolve loci if it honestly crosses threshold.
+- If it does not, log the bounded acquisition attempt honestly and continue to the next holdout or source.
+
+Work inside:
+- C:\woodblocks\Faith_in_Mind_Critical_Edition
+
+Read first:
+- provenance/faith-in-mind/process/current-state.md
+- provenance/faith-in-mind/process/human-log.md
+- provenance/faith-in-mind/process/process-log.md
+- provenance/faith-in-mind/process/correction-log.md
+- provenance/faith-in-mind/process/ocr-consensus-log.md
+- provenance/faith-in-mind/process/rejected-readings-log.md
+- provenance/faith-in-mind/process/translation-diff-log.md
+- provenance/faith-in-mind/process/translation-reasoning-log.md
+- provenance/faith-in-mind/process/character-provenance-log.md
+- provenance/faith-in-mind/process/unresolved-loci.md
+- provenance/faith-in-mind/process/decision-log.md
+- provenance/faith-in-mind/process/CONTINUATION_GATE.md
+- provenance/faith-in-mind/process/STATUS_REPORT_GATE.md
+- provenance/faith-in-mind/process/OCR_STOP_GATE.md
+- provenance/faith-in-mind/witnesses/witness-register.md
+- provenance/faith-in-mind/witnesses/acquisition-metadata.md
+- xml-open/ce/faith-in-mind/process.json
+- xml-open/ce/faith-in-mind/timeline.json
+
+Target holdouts:
+- T1-p007.l03
+- T1-p007.l04
+- T1-p007.l08
+- T1-p007.l09
+- T1-p007.l12
+- T1-p012.l02
+- T1-p029.l02
+- T1-p029.l06
+- T1-p030.l08
+- T1-p033.l03
+- T1-p033.l05
+- T1-p034.l05
+
+Acquisition policy:
+- This is a locus-specific exception, not a broad witness-set reopening.
+- Do not start a fresh unlimited witness hunt.
+- Only acquire or inspect new corroborative evidence that is materially targeted at these 12 loci.
+- Prefer sources that plausibly preserve the same lemma or commentary segment with stronger readability.
+- If a new external witness or source is actually opened, log that exception explicitly before relying on it:
+  - decision-log.md
+  - human-log.md
+  - process-log.md
+  - witness-register.md
+  - acquisition-metadata.md
+  - process.json
+  - timeline.json
+- Keep the exception bounded. Do not let the queue sprawl into unrelated pages or unrelated witnesses.
+
+Evidence-use policy:
+- New corroborative evidence may strengthen, reject, or leave unchanged a local T1 reading.
+- Do not let a new witness dictate a T1 line beyond what the combined local T1 evidence plus corroboration honestly support.
+- If the new evidence is useful only as partial phrase support, log it that way.
+- If the new evidence still does not justify a safe T1 repair, record that honestly and move on.
+
+Required log/state surfaces:
+- Always keep aligned:
+  - provenance/faith-in-mind/process/current-state.md
+  - provenance/faith-in-mind/process/unresolved-loci.md
+  - provenance/faith-in-mind/process/process-log.md
+  - provenance/faith-in-mind/process/human-log.md
+  - provenance/faith-in-mind/process/decision-log.md
+  - provenance/faith-in-mind/witnesses/witness-register.md when a new source is opened
+  - provenance/faith-in-mind/witnesses/acquisition-metadata.md when a new source is opened
+  - xml-open/ce/faith-in-mind/process.json
+  - xml-open/ce/faith-in-mind/timeline.json
+- If a text repair is accepted, also update:
+  - provenance/faith-in-mind/process/correction-log.md
+  - provenance/faith-in-mind/process/ocr-consensus-log.md
+  - provenance/faith-in-mind/process/rejected-readings-log.md where needed
+  - provenance/faith-in-mind/process/translation-diff-log.md
+  - provenance/faith-in-mind/process/translation-reasoning-log.md
+  - provenance/faith-in-mind/process/character-provenance-log.md
+
+Execution policy:
+- Work through the 12 holdouts one by one or in small bounded clusters.
+- If a newly opened corroborative source helps one locus but not others, use it only where justified.
+- Validate the package at sensible checkpoints and before each commit.
+- If a batch succeeds, commit before moving on.
+- If a batch fails or regresses, revert only your own failed batch and continue from the last good state.
+
+Terminal stop conditions:
+- Stop only when the full 12-locus corroborative-evidence queue has been processed under this bounded exception.
+- If some or all remain unresolved after that, stop only after logging that the locus-specific corroborative-evidence phase has been exhausted on the present broader basis.
+- Also stop if a gate file requires stopping, package validation fails and cannot be repaired safely, or true user/external input is required.
+
+Final report requirements:
+- Say which new corroborative sources were opened.
+- Say which loci, if any, were newly resolved.
+- Say which remain unresolved.
+- If none were resolved, state explicitly that the bounded corroborative-evidence phase was exhausted without new safe T1 text changes.
