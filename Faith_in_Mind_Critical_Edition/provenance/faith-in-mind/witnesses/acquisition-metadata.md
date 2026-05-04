@@ -337,3 +337,14 @@ Some commentary PDFs remain limited to source-pinned / hashed status because loc
 
 The remaining gap is no longer missing acquisition metadata.
 There is no remaining structural blocker in the locked Faith in Mind witness set.
+
+## X1
+
+- Witness: `KR6q0359`
+- Acquisition date: `2026-05-04`
+- Access mode: browser-opened text only; no local file acquired
+- Source page: `https://www.kanripo.org/text/KR6q0359/002`
+- Query path used: `https://www.kanripo.org/text/KR6q0359/001?query=%E8%8A%B3%E8%8D%89%E6%B8%A1%E9%A0%AD&mode=edit`
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the exact exhausted `T1` loci only
+- Scope restriction: opened only under the bounded corroborative-evidence exception for the 12 remaining exhausted holdouts; not promoted into the normal witness queue

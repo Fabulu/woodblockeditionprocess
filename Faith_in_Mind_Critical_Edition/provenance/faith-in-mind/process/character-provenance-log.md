@@ -12,6 +12,18 @@ Faith in Mind adoption rule:
 
 | Locus | Position | Character | Source | Confidence | Witness |
 |-------|----------|-----------|--------|------------|---------|
+| `T1-p033.l03` | 1 | `萬` | `exact corroborative support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p033.l03` | 6 | `箇` | `exact corroborative support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p033.l03` | 12 | `斷` | `OCR consensus plus corroborative support` | `moderate` | `T1/KR6q0359` |
+| `T1-p033.l03` | 16 | `分` | `image inspection plus exact corroborative support` | `moderate` | `T1/KR6q0359` |
+| `T1-p033.l05` | 1 | `師` | `image inspection plus exact corroborative support` | `moderate` | `T1/KR6q0359` |
+| `T1-p033.l05` | 4 | `云` | `exact corroborative support with local frame` | `moderate` | `KR6q0359` |
+| `T1-p033.l05` | 17 | `什` | `image inspection` | `moderate` | `T1` |
+| `T1-p033.l05` | 19 | `過` | `exact corroborative support with local tail` | `moderate` | `KR6q0359` |
+| `T1-p034.l05` | 6 | `却` | `image inspection` | `moderate` | `T1` |
+| `T1-p034.l05` | 11 | `瓏` | `OCR consensus plus exact corroborative support` | `moderate` | `T1/KR6q0359` |
+| `T1-p034.l05` | 12 | `峭` | `OCR consensus plus exact corroborative support` | `moderate` | `T1/KR6q0359` |
+| `T1-p034.l05` | 15 | `賽` | `exact corroborative support with local tail frame` | `moderate` | `KR6q0359` |
 | `T1-p008.l01` | 3 | `憎` | `OCR consensus` | `moderate` | `T1` |
 | `T1-p010.l01` | 4 | `現` | `OCR consensus` | `strong` | `T1` |
 | `T1-p014.l01` | 1 | `圓` | `OCR consensus` | `moderate` | `T1` |

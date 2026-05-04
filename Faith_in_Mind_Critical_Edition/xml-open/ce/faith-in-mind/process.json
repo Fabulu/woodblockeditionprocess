@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_visual_workbench_alias_surface_consolidation",
+      "slug": "manual_correction_slice_T1_second_pass_bounded_corroborative_evidence_exception_remaining_12_holdouts",
       "witnesses": [
         "T1",
         "T4",
@@ -94,7 +94,8 @@
         "C14",
         "C15",
         "C16",
-        "C17"
+        "C17",
+        "KR6q0359"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -107,6 +108,9 @@
         "../../../provenance/faith-in-mind/process/current-state.md",
         "../../../provenance/faith-in-mind/process/human-log.md",
         "../../../provenance/faith-in-mind/process/process-log.md",
+        "../../../provenance/faith-in-mind/process/decision-log.md",
+        "../../../provenance/faith-in-mind/witnesses/witness-register.md",
+        "../../../provenance/faith-in-mind/witnesses/acquisition-metadata.md",
         "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
         "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
         "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
@@ -144,9 +148,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_visual_workbench_alias_surface_consolidation",
-      "last_text_changed_event": "FIM-248",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_pending_new_evidence_after_stronger_direct_image_separation_exhaustion"
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_bounded_corroborative_evidence_exception_remaining_12_holdouts",
+      "last_text_changed_event": "FIM-254",
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_pending_further_evidence_after_bounded_corroborative_exception_exhaustion"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -158,6 +162,6 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The stronger direct-image-separation continuation has now been completed across the remaining 12 unresolved holdouts: T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, T1-p030.l08, T1-p033.l03, T1-p033.l05, and T1-p034.l05. Existing page images, saved local OCR surfaces, already opened bounded control witnesses, and new tightly bounded bbox crops plus rotated and mirrored derivatives clarified some partial frames but did not produce a new safe full-line T1 repair. The exhausted workbench is now consolidated into the alias workspace under provenance/faith-in-mind/process/visual-workbench-holdouts/ with the locus-keyed index provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md. A later package-state sync also retired stale unresolved-loci notes that had still listed old T1-p032 residue as open; this did not change the exhausted 12-locus queue. On the present in-package basis, the stronger direct-image-separation phase is exhausted; do not force a T1 text change at those loci without genuinely cleaner image evidence or genuinely new corroborative evidence."
+    "next_required_action": "The stronger direct-image-separation continuation was followed by a bounded corroborative-evidence exception on the same former 12-holdout queue, using KR6q0359 only as an exact external corroborative source. That later phase justified three local T1 repairs: T1-p033.l03 = 萬仞崖頭打箇筋斗直下命根斷去方得少分, T1-p033.l05 = 師良久云山是山水是水天是天地是地有什麼過, and T1-p034.l05 = 師云一穿却一提起八面玲瓏峭措無賽. The remaining unresolved loci are now T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, and T1-p030.l08. On the present broader basis, the bounded corroborative-evidence phase is now also exhausted; do not force a T1 text change at those nine loci without genuinely cleaner image evidence, a different tightly bounded corroborative source, or explicit new human direction."
   }
 }

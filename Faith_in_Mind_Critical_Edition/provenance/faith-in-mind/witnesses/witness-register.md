@@ -226,3 +226,14 @@ The next stage should:
 1. freeze sigla in the collation note
 2. complete acquisition metadata for every locked witness
 3. only then move into OCR / transcription planning
+
+## Tier 5. Bounded corroborative-evidence exceptions
+
+These are not reopened package witnesses. They are tightly scoped external corroborative sources opened only for exact exhausted loci under an explicit exception.
+
+### X1
+
+- Witness: `KR6q0359`
+- Access mode: web text view only
+- Scope: bounded corroborative check for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`
+- Role: exact external corroboration for exhausted local holdouts, not a reopened comparison witness

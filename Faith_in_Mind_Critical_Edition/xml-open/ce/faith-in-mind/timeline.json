@@ -8970,6 +8970,78 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_visual_workbench_alias_surface_consolidation",
         "last_text_changed_event": "FIM-248"
       }
+    },
+    {
+      "id": "FIM-253",
+      "date": "2026-05-04",
+      "phase": "manual_correction_pass_2",
+      "title": "Opened KR6q0359 as a bounded corroborative-evidence exception source for the remaining 12 holdouts",
+      "summary": "After the in-package queue and stronger direct-image-separation pass were both exhausted, KR6q0359 was formally opened as a tightly bounded external corroborative source for T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, T1-p030.l08, T1-p033.l03, T1-p033.l05, and T1-p034.l05. This was logged as a locus-specific corroborative exception rather than as a reopened witness hunt.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/text/KR6q0359/001?query=%E8%8A%B3%E8%8D%89%E6%B8%A1%E9%A0%AD&mode=edit",
+        "https://www.kanripo.org/text/KR6q0359/002"
+      ],
+      "decision_ref": "D-020",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_bounded_corroborative_evidence_exception_remaining_12_holdouts",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_visual_workbench_alias_surface_consolidation",
+        "last_text_changed_event": "FIM-248"
+      }
+    },
+    {
+      "id": "FIM-254",
+      "date": "2026-05-04",
+      "phase": "manual_correction_pass_2",
+      "title": "Completed the bounded corroborative-evidence exception and resolved three of the former 12 holdouts",
+      "summary": "Local T1 image and OCR frames plus exact KR6q0359 corroboration justified T1-p033.l03 = 萬仞崖頭打箇筋斗直下命根斷去方得少分, T1-p033.l05 = 師良久云山是山水是水天是天地是地有什麼過, and T1-p034.l05 = 師云一穿却一提起八面玲瓏峭措無賽. The same bounded phase did not justify text changes at T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, or T1-p030.l08, so the corroborative-evidence exception is now exhausted on the present broader basis.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p033.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p034.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p033.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p034.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p033.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p034.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p033.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p034.txt",
+        "https://www.kanripo.org/text/KR6q0359/002"
+      ],
+      "decision_ref": "D-021",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_pending_further_evidence_after_bounded_corroborative_exception_exhaustion",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_bounded_corroborative_evidence_exception_remaining_12_holdouts",
+        "last_text_changed_event": "FIM-254"
+      }
     }
   ]
 }

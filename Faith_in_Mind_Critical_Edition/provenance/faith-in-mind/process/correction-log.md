@@ -15,6 +15,9 @@ Witness: `T1`
 
 | Date | Locus | Change type | Before | After | Basis | Status |
 |------|-------|-------------|--------|-------|-------|--------|
+| 2026-05-04 | `T1-p033.l03` | bounded corroborative-exception fix | `仞崖頭打窗筋斗直下命根断去方得少名` | `萬仞崖頭打箇筋斗直下命根斷去方得少分` | enlarged local `T1-p033` review plus both Paddle support surfaces preserve the challenge-line skeleton and the improved tail `...方得少分`, while bounded `KR6q0359` corroboration confirms the damaged opening `萬仞崖頭打箇筋斗` and supports `斷去 / 少分` without overriding the shorter local T1 extent or replacing `崖頭` with the external `崖前` | fixed |
+| 2026-05-04 | `T1-p033.l05` | bounded corroborative-exception fix | `谦久山是山水是水天是天地是地有作` | `師良久云山是山水是水天是天地是地有什麼過` | enlarged local `T1-p033` review plus the saved OCR surfaces already preserve the `...久...山是山水是水...有什` frame, and bounded `KR6q0359` corroboration settles the damaged opening `師良久云` and the full tail `有什麼過` without forcing a different line identity | fixed |
+| 2026-05-04 | `T1-p034.l05` | bounded corroborative-exception fix | `師云一穿“却一提“起八面玲麓俏措` | `師云一穿却一提起八面玲瓏峭措無賽` | enlarged local `T1-p034` review plus both Paddle support surfaces preserve the line frame `師云一穿却一提起八面玲瓏...`, and bounded `KR6q0359` corroboration resolves the damaged middle and tail as `峭措無賽` while retaining the local `師云 / 一穿却一提起` wording instead of importing the external `拈云 / 一串穿却 / 一提提起` sequence | fixed |
 | 2026-04-14 | `T1-p001.l01` | OCR certainty fix | `三祖大部信心名` | `三祖大師信心銘` | supported by `T1-p002.l01`, witness register title, and visible title-page context | fixed |
 | 2026-04-14 | `T1-p002.l01` | OCR certainty fix | `三祖大師信心名` | `三祖大師信心銘` | title-page formula and graph certainty | fixed |
 | 2026-04-14 | `T1-p007.l01` | OCR certainty fix | `至道無雅催焦择` | `至道無難唯嫌揀擇` | standard opening lemma recovered from clear OCR corruption pattern | fixed |

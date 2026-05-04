@@ -172,3 +172,21 @@
 - Confidence: high
 - Actor type: `hybrid`
 - Actor id: user + agent
+
+## D-020 2026-05-04 - Open a bounded external corroborative-evidence exception for the 12 exhausted holdouts
+
+- Decision: permit a tightly bounded external corroborative-evidence exception for the 12 remaining exhausted holdouts, using the digital source `KR6q0359` only where it directly overlaps the exact unresolved local `T1` loci
+- Why: the in-package queue and the stronger direct-image-separation continuation were both already exhausted, the human operator explicitly redirected the work to this narrower step, and the task is not a fresh witness hunt but a locus-specific corroborative check
+- Evidence: `current-state.md`, `unresolved-loci.md`, the completed stronger local image workbench, and the user instruction opening this exception
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + agent
+
+## D-021 2026-05-04 - Accept only three KR6q0359-supported local T1 repairs and leave the remaining nine holdouts unresolved
+
+- Decision: accept `T1-p033.l03 = 萬仞崖頭打箇筋斗直下命根斷去方得少分`, `T1-p033.l05 = 師良久云山是山水是水天是天地是地有什麼過`, and `T1-p034.l05 = 師云一穿却一提起八面玲瓏峭措無賽`; do not change the other nine holdouts
+- Why: these three lines now have a defensible local `T1` frame plus exact external corroboration on the damaged opening or tail clusters, while the other nine loci still do not cross threshold without forcing non-local reconstruction
+- Evidence: local `T1` page images and saved OCR surfaces for `T1-p033` and `T1-p034`, plus the bounded `KR6q0359` overlaps on the same lemma bands
+- Confidence: medium-high
+- Actor type: `agent`
+- Actor id: assistant

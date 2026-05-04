@@ -11,6 +11,9 @@ Faith in Mind adoption rule:
 
 | Locus | Rejected | Source | Adopted | Reason | Date |
 |-------|----------|--------|---------|--------|------|
+| `T1-p033.l03` | `仞崖頭打窗筋斗直下命根断去方得少名` | `saved T1 OCR stack` | `萬仞崖頭打箇筋斗直下命根斷去方得少分` | enlarged local review plus saved OCR support and bounded `KR6q0359` corroboration show that the saved OCR line had dropped the opening `萬`, collapsed `箇` into `窗`, kept a simplified `断`, and misread the tail `少分` as `少名`; it remains only as rejected OCR damage, not as a competing local reading | `2026-05-04` |
+| `T1-p033.l05` | `谦久山是山水是水天是天地是地有作` | `saved T1 OCR stack` | `師良久云山是山水是水天是天地是地有什麼過` | enlarged local review plus bounded `KR6q0359` corroboration show that the saved OCR opening and tail were still collapsed: the line preserves `師良久云` and the full challenge `有什麼過`, so the old `谦久 / 有作` shell remains only as rejected OCR noise | `2026-05-04` |
+| `T1-p034.l05` | `師云一穿“却一提“起八面玲麓俏措` | `saved T1 OCR stack` | `師云一穿却一提起八面玲瓏峭措無賽` | enlarged local review plus bounded `KR6q0359` corroboration show that the saved OCR line had punctuation noise, a corrupted `瓏`, and a truncated tail; the accepted `峭措無賽` close is supported by the local frame and exact corroboration, so the older shell remains only as rejected damage | `2026-05-04` |
 | `T1-p075.l01` | `若不如此必不須守` | `sequence-based correction` | `祖大師趙州廣携取封在日隱野花帝鳥` | direct image review plus the saved OCR stack showed commentary material at the locus rather than a secure poem lemma, so the earlier harmonizing repair was rolled back | 2026-04-15 |
 | `T1-p077.l01` | `但能如是何慮不畢` | `OCR-only sequence reconstruction` | `一即一切一切即一` | direct image inspection of `T1-p077` showed the opening lemma clearly and proved that the earlier OCR-only line assignment belonged to the next supplied locus instead | 2026-04-15 |
 
