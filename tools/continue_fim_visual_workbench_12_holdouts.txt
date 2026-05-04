@@ -1,0 +1,90 @@
+Continue the Faith in Mind critical-edition workflow from the current package state, but do not rerun the same exhausted correction pass. This phase is a dedicated visual-evidence workbench for the 12 remaining unresolved holdouts.
+
+Mission:
+- Build stronger visual evidence for the remaining 12 holdouts.
+- Prefer bounded image-workbench progress over repeated no-op rereads of already exhausted state.
+- Keep going holdout by holdout until the full 12-locus visual workbench queue has been processed.
+
+Work inside:
+- C:\woodblocks\Faith_in_Mind_Critical_Edition
+
+Read first:
+- provenance/faith-in-mind/process/current-state.md
+- provenance/faith-in-mind/process/human-log.md
+- provenance/faith-in-mind/process/process-log.md
+- provenance/faith-in-mind/process/correction-log.md
+- provenance/faith-in-mind/process/ocr-consensus-log.md
+- provenance/faith-in-mind/process/unresolved-loci.md
+- provenance/faith-in-mind/process/CONTINUATION_GATE.md
+- provenance/faith-in-mind/process/STATUS_REPORT_GATE.md
+- provenance/faith-in-mind/process/OCR_STOP_GATE.md
+- xml-open/ce/faith-in-mind/process.json
+- xml-open/ce/faith-in-mind/timeline.json
+
+Target holdouts:
+- T1-p007.l03
+- T1-p007.l04
+- T1-p007.l08
+- T1-p007.l09
+- T1-p007.l12
+- T1-p012.l02
+- T1-p029.l02
+- T1-p029.l06
+- T1-p030.l08
+- T1-p033.l03
+- T1-p033.l05
+- T1-p034.l05
+
+Visual-workbench rules:
+- Treat this as an evidence-generation phase first and a text-change phase second.
+- Use existing T1 page images, existing temp crops, exact-box crops, rotated crops, mirrored crops, and already-opened OCR/control surfaces.
+- If the current crops are insufficient, create new tightly bounded local derivatives for the active holdout:
+  - exact crops
+  - wider context crops
+  - rotated variants
+  - mirrored variants
+  - grayscale / thresholded / contrast-strengthened derivatives if useful
+- Keep all temporary evidence artifacts inside the package process workspace under provenance/faith-in-mind/process/.
+- Name new artifacts clearly by locus so they are reusable later.
+- Do not mistake console mojibake or OCR noise for file corruption or textual evidence.
+
+Text-change policy:
+- Do not force a T1 text change just because a better crop exists.
+- Only accept a text repair if the stronger visual evidence plus already-opened support genuinely crosses threshold.
+- If a holdout remains unresolved, that is still productive if the visual evidence surface is improved and honestly logged.
+
+Required log/state surfaces:
+- provenance/faith-in-mind/process/current-state.md
+- provenance/faith-in-mind/process/unresolved-loci.md
+- provenance/faith-in-mind/process/process-log.md
+- provenance/faith-in-mind/process/human-log.md
+- xml-open/ce/faith-in-mind/process.json
+- xml-open/ce/faith-in-mind/timeline.json
+- and, if any text change is accepted:
+  - provenance/faith-in-mind/process/correction-log.md
+  - provenance/faith-in-mind/process/ocr-consensus-log.md
+  - provenance/faith-in-mind/process/translation-diff-log.md
+  - provenance/faith-in-mind/process/translation-reasoning-log.md
+  - provenance/faith-in-mind/process/character-provenance-log.md
+  - provenance/faith-in-mind/process/rejected-readings-log.md when explicitly rejecting a competing reading
+
+Execution policy:
+- Work through the 12 holdouts one by one or in small bounded clusters.
+- For each holdout, either:
+  - improve the visual evidence surface and log that improvement, or
+  - improve the visual evidence enough to justify a real T1 repair and then log, validate, and commit it.
+- Do not stop just because one holdout remains below threshold.
+- Do not stop while other holdouts in the 12-locus set still lack a stronger visual evidence pass.
+- If a batch of visual work or text repair succeeds, validate and commit before moving on.
+- If a batch fails or regresses, revert only your own failed batch and continue from the last good state.
+
+Terminal stop conditions:
+- Stop only when all 12 holdouts have received a stronger visual-evidence workbench pass in this phase.
+- If some or all remain unresolved after that, stop only after logging that the visual-workbench phase itself has been exhausted on the present in-package basis.
+- Also stop if a gate file requires stopping, package validation fails and cannot be repaired safely, or true user/external input is required.
+
+Final report requirements:
+- Say which of the 12 got stronger evidence artifacts.
+- Say which, if any, were newly resolved.
+- Say which remain unresolved.
+- If none were resolved, state explicitly that the visual-workbench phase improved evidence surfaces but did not yet justify new safe T1 text changes, or that even the stronger visual workbench was exhausted.
