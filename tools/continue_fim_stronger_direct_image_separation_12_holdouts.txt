@@ -1,0 +1,84 @@
+Continue the Faith in Mind critical-edition workflow from the current package state, but treat the present package-level wall as the start of a stronger direct-image-separation phase rather than as the end of work.
+
+Mission:
+- Attempt stronger direct-image separation on the remaining 12 unresolved holdouts.
+- Keep going until those holdouts are either honestly resolved or honestly re-confirmed as still below threshold after the stronger direct-image-separation pass.
+- Do not stop after one page or one locus if other holdouts remain.
+
+Work inside:
+- C:\woodblocks\Faith_in_Mind_Critical_Edition
+
+Read first:
+- provenance/faith-in-mind/process/current-state.md
+- provenance/faith-in-mind/process/human-log.md
+- provenance/faith-in-mind/process/process-log.md
+- provenance/faith-in-mind/process/correction-log.md
+- provenance/faith-in-mind/process/ocr-consensus-log.md
+- provenance/faith-in-mind/process/translation-diff-log.md
+- provenance/faith-in-mind/process/unresolved-loci.md
+- provenance/faith-in-mind/process/CONTINUATION_GATE.md
+- provenance/faith-in-mind/process/STATUS_REPORT_GATE.md
+- provenance/faith-in-mind/process/OCR_STOP_GATE.md
+- xml-open/ce/faith-in-mind/process.json
+- xml-open/ce/faith-in-mind/timeline.json
+
+Required log/state surfaces:
+- provenance/faith-in-mind/process/correction-log.md
+- provenance/faith-in-mind/process/ocr-consensus-log.md
+- provenance/faith-in-mind/process/translation-diff-log.md
+- provenance/faith-in-mind/process/translation-reasoning-log.md
+- provenance/faith-in-mind/process/character-provenance-log.md
+- provenance/faith-in-mind/process/rejected-readings-log.md when a competing OCR/control reading is being explicitly rejected
+- provenance/faith-in-mind/process/current-state.md
+- provenance/faith-in-mind/process/unresolved-loci.md
+- provenance/faith-in-mind/process/process-log.md
+- provenance/faith-in-mind/process/human-log.md
+- xml-open/ce/faith-in-mind/process.json
+- xml-open/ce/faith-in-mind/timeline.json
+
+Target holdouts:
+- T1-p007.l03
+- T1-p007.l04
+- T1-p007.l08
+- T1-p007.l09
+- T1-p007.l12
+- T1-p012.l02
+- T1-p029.l02
+- T1-p029.l06
+- T1-p030.l08
+- T1-p033.l03
+- T1-p033.l05
+- T1-p034.l05
+
+Direct-image-separation policy:
+- Prefer stronger local image work over broad witness reopening.
+- Use the existing T1 page images, existing temp crops, exact-box crops, rotated crops, mirrored crops, and any already opened OCR/control surfaces first.
+- If needed, create new bounded temporary crops or rotated local image derivatives inside the package process workspace, but keep them tightly scoped to the active holdout.
+- Reinspect line boundaries against neighboring already accepted T1 lines before changing text.
+- Use already opened control witnesses only as bounded corroboration; do not let commentary controls dictate a T1 line beyond what the local T1 image supports.
+- Be especially careful about mojibake or console-rendering artifacts; do not mistake terminal encoding noise for file corruption or textual evidence.
+
+Execution policy:
+- Work through the 12 holdouts one by one or in small bounded clusters.
+- If one holdout remains below threshold, continue to the next.
+- If a holdout is recovered honestly, update all required provenance/state files, validate, and commit that batch before continuing.
+- If no text change is justified for a holdout after stronger direct-image separation, record that honestly and move on.
+- Do not stop on a local evidence wall while unresolved holdouts still remain elsewhere in this 12-locus set.
+
+State and validation requirements:
+- Keep provenance/state files synchronized with every accepted text change.
+- For every accepted repair, write the appropriate correction/provenance/state logs, not just the working text.
+- For every holdout that remains unresolved after stronger direct-image separation, update the human-facing state logs honestly if the queue status materially changes.
+- When the stronger direct-image-separation phase exhausts, record that exhaustion in `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `process.json`, and `timeline.json`.
+- Run python scripts/validate_package.py at sensible checkpoints and before each commit.
+- If a batch fails or regresses, revert only your own failed batch and continue from the last good state.
+- Do not overwrite or revert unrelated user changes.
+
+Terminal stop conditions:
+- Stop only when the entire 12-holdout stronger direct-image-separation queue has been processed.
+- If some or all remain unresolved after that stronger pass, stop only after updating the package state to say that the stronger direct-image-separation phase has been exhausted on the present in-package basis.
+- Also stop if a gate file requires stopping, package validation fails and cannot be repaired safely, or true user/external input is required.
+
+Final report requirements:
+- If you stop, say exactly which of the 12 were newly resolved and which remain unresolved.
+- If none were resolved, say explicitly that the stronger direct-image-separation phase was exhausted without new safe T1 text changes.
