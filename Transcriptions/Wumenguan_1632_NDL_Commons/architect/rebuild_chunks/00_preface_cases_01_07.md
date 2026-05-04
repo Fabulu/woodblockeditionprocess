@@ -9,8 +9,8 @@ Status:
 - manual editorial pass complete for the supported witness material; contents remain partial in the middle sequence
 
 Source basis:
-- `Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`
-- `Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632_READING_EDITION.md`
+- `C:\woodblocks\Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`
+- `C:\woodblocks\Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632_READING_EDITION.md`
 - supporting architect notes in the same folder
 
 ---
@@ -301,6 +301,14 @@ Source basis:
 
 世尊昔在靈山會上，拈花示眾。  
 是時眾皆默然，惟迦葉尊者破顏微笑。  
+世尊云：  
+吾有正法眼藏，  
+涅槃妙心，  
+實相無相，  
+微妙法門，  
+不立文字，  
+教外別傳，  
+付囑摩訶迦葉。  
 
 #### 無門曰
 

@@ -9,8 +9,8 @@ Status:
 - manual rebuild complete from the present witness draft and local notes
 
 Source basis:
-- `Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`
-- `Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632_READING_EDITION_NOTES.md`
+- `C:\woodblocks\Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md`
+- `C:\woodblocks\Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632_READING_EDITION_NOTES.md`
 
 ### 41. 達磨安心
 
@@ -298,7 +298,8 @@ Source basis:
 
 ### 無門關卷終
 
-無門關卷終
+無門卷  
+無門關卷終  
 
 儱侗守禪威儀，  
 無繩自縛，  

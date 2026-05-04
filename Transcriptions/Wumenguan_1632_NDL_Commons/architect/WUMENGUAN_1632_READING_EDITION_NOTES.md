@@ -29,16 +29,16 @@ The reading edition is not a diplomatic transcript and not a full critical editi
 ## What Was Corrected
 
 - The received prefatory opening beginning `佛語心為宗。無門為法門...` is now restored to the reading edition.
-- The missing witness-layer contents leaf `PDF p.007 right` is now restored to the source draft so the front sequence no longer skips a text-bearing leaf.
-- Case `1` `無門曰` now includes its omitted opening leaf beginning `參禪須透祖師關。妙悟要窮心路絕...`; the earlier draft had started one leaf late at `只者一箇無字...`.
-- Case `39` `雲門話墮` now has its dropped opening interruption `一句未絕。門遽曰：` restored in the witness draft.
+- Case `1` `無門曰` now keeps its full witness-backed opening beginning `參禪須透祖師關。妙悟要窮心路絕...如何是祖師關。` instead of starting mid-sentence at `師關只者一箇無字`.
 - The duplicated short preface carry-over beginning at `作敲門瓦子...` was removed from the reading flow.
 - Case `10` now reads in the standard order `公案 → 無門曰 → 頌`.
 - Case `17` received a coherence pass in `無門曰 / 頌`.
 - Cases `27` and `28` were returned to the received order: `27. 不是心佛`, `28. 久響龍潭`.
 - Case `31` no longer carries imported `龍潭` material.
 - Case `32` now uses the expected `阿難乃佛弟子... / 劍刃上行...` commentary and verse set.
+- Case `6` now retains the witness-visible `世尊云：吾有正法眼藏...付囑摩訶迦葉。` block in the koan opening instead of truncating the witness after `破顏微笑`.
 - Duplicated appended prose in the back matter was reduced so the reader-facing edition no longer repeats the same `傍人問云...總在裏許` block twice.
+- The end-matter title leaf now keeps the witness-backed `無門卷` line before `無門關卷終`.
 
 ## Witness and Source Basis
 

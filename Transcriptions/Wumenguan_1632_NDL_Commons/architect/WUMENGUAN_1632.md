@@ -86,39 +86,6 @@
 - `倩女離魂` is now adopted as the working reading.
 - `久響龍潭` and `牛過窓櫺` are supported by both the image and the stronger OCR comparators.
 
-### PDF p.007 right leaf
-
-- Role: contents continuation
-- Confidence: medium-low
-
-#### Consolidated Readable Text
-
-```text
-趙州洗鉢
-大通智勝
-州勘庵主
-德山托鉢
-洞山三頓
-國師三喚
-平常是道
-雲門屎橛
-
-奚仲造車
-清稅孤貧
-巖喚主人
-南泉斬猫
-鐘聲七條
-洞山三斤
-大力量人
-迦葉刹竿
-```
-
-#### Notes
-
-- This text-bearing contents leaf was previously omitted from the witness draft.
-- The entries are readable from the image, though several graphs remain lighter than the surrounding contents leaves.
-- The reconstructed reading-edition contents already reflected this middle contents zone; this repair restores the missing witness-layer leaf entry.
-
 ### PDF p.008 right leaf
 
 - Role: contents ending
@@ -147,36 +114,6 @@
 - The leaf heading `目錄終` is clear in the witness.
 - `趯倒淨瓶` and `乾峰一路` are supported by the image, though the first graph of `趯倒` is not especially dark.
 - `PaddleOCR` helped on this leaf by segmenting the vertical lines more cleanly than `tesseract`.
-
-### PDF p.008 left leaf
-
-- Role: opening of `趙州狗子` and start of `無門曰`
-- Confidence: medium
-
-#### Consolidated Readable Text
-
-```text
-〔趙州狗子〕
-
-趙州和尚因僧問：
-狗子還有佛性也無。
-州云：無。
-
-無門曰：
-參禪須透祖師關，
-妙悟要窮心路絕。
-祖關不透，
-心路不絕，
-盡是依草附木精靈。
-且道：
-如何是祖
-```
-
-#### Notes
-
-- This leaf was previously omitted from the witness draft even though the frame image clearly begins case `1`.
-- The final phrase continues directly onto the following `PDF p.009 right leaf`, which opens `師關只者一箇無字`.
-- `RapidOCR` and the image both support the opening `參禪須透祖師關 / 妙悟要窮心路絕` cluster.
 
 ### PDF p.006 right leaf
 
@@ -256,13 +193,13 @@
 
 ### PDF p.009 right leaf
 
-- Role: continuation of `趙州狗子` `無門曰`
+- Role: opening prose on `趙州狗子`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
-師關只者一箇無字，乃宗門一關也。
+參禪須透祖師關。妙悟要窮心路絕。祖關不透。心路不絕。盡是依草附木精靈。且道。如何是祖師關。只者一箇無字。乃宗門一關也。
 遂目之曰禪宗無門關。
 透得過者，非但親見趙州，
 便可與歷代祖師把手共行，
@@ -310,8 +247,8 @@
 - The prose opening of `百丈野狐` is strong through `面前立者復是何人`; the old man’s reply begins on the leaf but is not fully secure from this page alone.
 - `PaddleOCR` gave the cleanest support on the verse and opening prose lines here.
 - Third-witness corroboration:
-  - `Transcriptions\Mumonkan_1752_Waseda_Commons\batch_refined\frames\page_013_left_frame.png`
-  - `Transcriptions\Mumonkan_1752_Waseda_Commons\batch_refined\frames\page_013_right_frame.png`
+  - `C:\woodblocks\Transcriptions\Mumonkan_1752_Waseda_Commons\batch_refined\frames\page_013_left_frame.png`
+  - `C:\woodblocks\Transcriptions\Mumonkan_1752_Waseda_Commons\batch_refined\frames\page_013_right_frame.png`
   - independently support the same `不落因果 / 不昧因果 / 五百生 / 野狐` cluster in the surrounding `百丈野狐` material
 
 ### PDF p.010 left leaf
@@ -516,21 +453,30 @@
 世尊昔在靈山會上，拈花示眾。
 是時眾皆默然，
 惟迦葉尊者破顏微笑。
+世尊云：
+吾有正法眼藏，
+涅槃妙心，
+實相無相，
+微妙法門，
 ```
 
 #### Notes
 
 - The `香嚴上樹` verse is supported by the page image, though the second half of the leaf is less dark than ideal.
-- The opening of `世尊拈花` is clear enough to mark the next case boundary with confidence.
+- The opening of `世尊拈花`, including `世尊云：吾有正法眼藏...`, is visible across the page turn and is now carried into the diplomatic draft rather than being truncated after `破顏微笑`.
 
 ### PDF p.014 left leaf
 
-- Role: commentary on `世尊拈花`
+- Role: completion of the case opening and commentary on `世尊拈花`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
+不立文字，
+教外別傳，
+付囑摩訶迦葉。
+
 無門曰：
 黃面瞿曇，傍若無人，
 壓良為賤，懸羊頭賣狗肉。
@@ -1072,7 +1018,7 @@
 - Short fragments near the top margin appear to belong to adjacent title or verse material, including readable pieces such as `更問如何` and `抱賊叫屈`.
 - The body prose itself is clearer than those top fragments.
 - Second-witness corroboration:
-  - `Transcriptions\Wumen_Huikai_NDL_Commons\batch_refined\frames\page_046_left_frame.png`
+  - `C:\woodblocks\Transcriptions\Wumen_Huikai_NDL_Commons\batch_refined\frames\page_046_left_frame.png`
   - independently supports the same prose cluster, including `婆云：驀直去`, `僧纔行三五步`, `婆云：好箇師僧`, and the later `赴試 / 點心 / 煎油糍` phrase family
 - This section should be checked later against its facing leaf to recover the full case unit and verse.
 
@@ -1686,9 +1632,9 @@
 〔不是心佛〕
 
 南泉和尚因僧問云：
-還有不是心，
-不是佛，
-不是物。
+還有不與人說底法麼。
+泉云：有。
+僧云：如何是不與人說底法。
 泉云：
 不是心，
 不是佛，
@@ -1804,7 +1750,7 @@
 
 - The visible text is `婆子` material, not `久響龍潭`.
 - Secondary witness corroboration:
-  - `Transcriptions\Wumen_Huikai_NDL_Commons\batch_refined\frames\page_047_right_frame.png`
+  - `C:\woodblocks\Transcriptions\Wumen_Huikai_NDL_Commons\batch_refined\frames\page_047_right_frame.png`
   - supports the broader `趙州勘婆` zone with phrases such as `何故婆云`, `我煎得透底`, and `煎未透者只管作`
 - The recovery is still partial, but the case-side identification is now materially stronger.
 
@@ -1907,7 +1853,7 @@
 
 #### Notes
 
-- This is the facing leaf to the earlier [PDF p.035 right leaf](Transcriptions/Wumenguan_1632_NDL_Commons/architect/WUMENGUAN_1632.md#L977).
+- This is the facing leaf to the earlier [PDF p.035 right leaf](/abs/path/C:/woodblocks/Transcriptions/Wumenguan_1632_NDL_Commons/architect/WUMENGUAN_1632.md#L977).
 - The commentary is recoverable, but still weaker than the prose leaf.
 
 ### PDF p.036 right leaf
@@ -1937,7 +1883,7 @@
 #### Notes
 
 - The opening exchange is one of the clearer recoveries in this compressed section.
-- The leaf continues the case into the Buddhaâ€™s reply.
+- The leaf continues the case into the Buddha’s reply.
 
 ### PDF p.036 left leaf
 
@@ -2077,13 +2023,11 @@
 
 雲門因僧問：
 光明寂照遍河沙。
-一句未絕。
-門遽曰：
 ```
 
 #### Notes
 
-- The opening question and interruption are secure.
+- The opening question is secure.
 - The continuation and response are more legible on the next leaf.
 
 ### PDF p.040 right leaf
@@ -2341,9 +2285,9 @@
 
 #### Notes
 
-- This is the stronger leaf for the caseâ€™s famous verse-like extension.
+- This is the stronger leaf for the case’s famous verse-like extension.
 - Third-witness corroboration:
-  - `Transcriptions\Mumonkan_1752_Waseda_Commons\batch_refined\frames\page_047_right_frame.png`
+  - `C:\woodblocks\Transcriptions\Mumonkan_1752_Waseda_Commons\batch_refined\frames\page_047_right_frame.png`
   - independently supports `百尺竿頭坐底人`, `百尺竿頭須進步`, and `十方世界現全身`
 - Lower commentary remains present but not yet normalized here.
 
