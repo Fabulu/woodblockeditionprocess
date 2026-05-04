@@ -1790,3 +1790,647 @@ No loci were newly resolved in this continuation. The stronger direct-image-sepa
 
 I also checked that this exhaustion state is synchronized in `current-state.md`, `unresolved-loci.md`, `process-log.md`, `human-log.md`, `xml-open/ce/faith-in-mind/process.json`, and `xml-open/ce/faith-in-mind/timeline.json`. The only live worktree changes are unrelated log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
 
+## 20260504-175403
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-175403.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-175403.txt
+message:
+The package was already past the requested reread: the 12-holdout stronger direct-image-separation pass had already been completed and logged as exhausted. I did not rerun that pass. Instead, I turned its opaque scratch output into a reusable visual-evidence surface by adding [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and a local alias workspace under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts). The state surfaces were synchronized in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). Validation passed, and the tracked batch is committed as `a8175ce` (`FIM: consolidate holdout visual workbench surface`).
+
+All 12 target holdouts now have stronger reusable evidence artifacts on disk: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved from this phase: none. Remaining unresolved: the same 12 loci. Explicitly, the visual-workbench phase improved the evidence surface, but it still did not justify any new safe `T1` text change on the present in-package basis.
+
+## 20260504-180101
+run: 2
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180101.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180101.txt
+message:
+The current package state already reflects completion of the requested 12-locus visual-workbench phase, and the stop condition is now legitimate rather than premature. I verified the governing state in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). I also ran `python scripts/validate_package.py`; validation passed.
+
+All 12 target holdouts already received the stronger visual-evidence pass in this phase: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. The stronger evidence artifacts are already consolidated under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/) with the locus-keyed index [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md).
+
+Newly resolved in this visual-workbench phase: none. Remaining unresolved: all 12 above. The correct final judgment on the present in-package basis is that the visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text changes, and that stronger in-package visual workbench is now exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-180152
+run: 3
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180152.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180152.txt
+message:
+The requested 12-locus visual-workbench phase is already complete in the current package state. The package records the stronger pass in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and the locus index [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md). I verified that `python scripts/validate_package.py` passes.
+
+All 12 holdouts now have stronger reusable evidence artifacts under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts): `T1-p007.l03/l04/l08/l09/l12` via `T1-p007` upper/lower cluster derivatives, `T1-p012.l02` via `T1-p012` cluster derivatives, `T1-p029.l02/l06` via exact and wide crops, `T1-p030.l08` via exact and wide crops, `T1-p033.l03/l05` via open-cluster derivatives, and `T1-p034.l05` via its open-cluster derivatives. Newly resolved holdouts: none. Remaining unresolved: all 12. The visual-workbench phase improved the evidence surface, but it did not justify any new safe `T1` text change, and on the present in-package basis that stronger visual workbench is already exhausted.
+
+The only uncommitted changes visible are unrelated local log files: `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-180256
+run: 4
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180256.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180256.txt
+message:
+The current package state already shows this phase as completed and exhausted, so I did not rerun the same holdout pass. I verified the recorded stop state in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and the workbench index [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md). The alias evidence surface exists under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts), and `python scripts/validate_package.py` passes.
+
+Stronger evidence artifacts are already present for all 12 target loci: `T1-p007.l03`, `l04`, `l08`, `l09`, `l12`; `T1-p012.l02`; `T1-p029.l02`, `l06`; `T1-p030.l08`; `T1-p033.l03`, `l05`; `T1-p034.l05`. Newly resolved: none. Remaining unresolved: the same 12. The package state explicitly records that the visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text changes, and that the stronger in-package visual workbench is itself exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-180343
+run: 5
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180343.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180343.txt
+message:
+The current package state already reflects completion of the requested visual-evidence workbench phase. On `2026-05-04`, the 12-locus stronger-pass was logged as completed and exhausted in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json).
+
+All 12 target holdouts already received stronger visual-evidence artifacts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+The reusable artifact surface is indexed in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and stored under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/).
+
+Newly resolved from that phase: none. The package explicitly states that the stronger visual workbench improved evidence surfaces but did not justify any new safe `T1` text changes. The same 12 loci remain unresolved, and the recorded stop condition is that this stronger in-package visual-workbench phase is itself exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+I ran `python scripts/validate_package.py`; validation passed on `2026-05-04`.
+
+## 20260504-180424
+run: 6
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180424.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180424.txt
+message:
+The 12-locus visual-workbench phase is already complete in the current package state. The stronger evidence artifacts exist for all 12 holdouts under [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/), and the state/log surfaces already record that pass in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json).
+
+Stronger evidence artifacts were built for all 12 target holdouts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved: none. Remaining unresolved: all 12. The logged result is explicit: the visual-workbench phase improved the evidence surfaces, but even the stronger in-package image workbench did not justify any new safe `T1` text change. `python scripts/validate_package.py` passes.
+
+## 20260504-180511
+run: 7
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180511.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180511.txt
+message:
+The current package state is already at the requested terminal condition. The 12-locus visual-evidence workbench has been completed, logged, and consolidated in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), with reusable derivatives under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts). I also checked package integrity: `python scripts/validate_package.py` passes.
+
+Stronger evidence artifacts exist for all 12 target holdouts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved in this visual-workbench phase: none. Still unresolved: all 12. The honest package conclusion is that the visual-workbench phase improved the evidence surfaces, but did not justify any new safe `T1` text changes; on the present in-package basis, even the stronger visual workbench is exhausted.
+
+## 20260504-180619
+run: 8
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180619.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180619.txt
+message:
+The current package state already shows this phase is complete. The 12-locus visual-workbench queue was processed and logged on 2026-05-04 in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md). I did not reopen the same exhausted pass or force new text changes.
+
+Stronger evidence artifacts already exist for all 12 target holdouts: `T1-p007.l03`, `l04`, `l08`, `l09`, `l12`; `T1-p012.l02`; `T1-p029.l02`, `l06`; `T1-p030.l08`; `T1-p033.l03`, `l05`; `T1-p034.l05`. They are consolidated under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/) with exact/wider/rotated/mirrored derivatives as applicable. Newly resolved loci in this phase: none. Remaining unresolved: the same 12. The package explicitly records that the stronger visual workbench improved the evidence surface but still did not justify any new safe `T1` text repair on the present in-package basis.
+
+I ran `python scripts/validate_package.py`; validation passed. The only unrelated live worktree changes are `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`, which I left untouched.
+
+## 20260504-180708
+run: 9
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180708.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180708.txt
+message:
+The current package state already reflects a completed visual-workbench pass for the full 12-locus queue, and `python scripts/validate_package.py` passes.
+
+All 12 received stronger evidence artifacts in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md:1) with reusable derivatives under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts:1): `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+None were newly resolved. The unresolved set remains the same 12 loci above. The package state explicitly records that the stronger visual-workbench phase improved the evidence surface but still did not justify any new safe `T1` text change on the present in-package basis.
+
+## 20260504-180749
+run: 10
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180749.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180749.txt
+message:
+The current package state already reflects completion of the requested 12-locus visual-workbench phase, and I did not rerun the exhausted pass. I verified the indexed artifact surface in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md:1), confirmed the reusable derivatives exist under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts:1), and ran `python scripts/validate_package.py`, which passed.
+
+All 12 target holdouts already have stronger evidence artifacts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. None were newly resolved. The remaining unresolved set is still those same 12 loci. The package state explicitly records that the visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text changes, and that the stronger in-package visual pass is exhausted on the present evidence basis.
+
+## 20260504-180835
+run: 11
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180835.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180835.txt
+message:
+The current package state already shows this phase as completed on **2026-05-04**. I did not rerun the exhausted correction pass. Instead I verified that the 12-locus visual workbench had already been processed, that the reusable evidence workspace exists at [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts), and that the resumability/state surfaces already record the stronger pass in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json).
+
+All 12 target holdouts already received stronger evidence artifacts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`. Newly resolved: none. Remaining unresolved: all 12. The package’s own recorded conclusion is still the right one: the visual-workbench phase improved the evidence surface, but it did **not** justify any new safe `T1` text change on the present in-package basis.
+
+Validation passed with `python scripts/validate_package.py`. I made no new editorial edits.
+
+## 20260504-180923
+run: 12
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-180923.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-180923.txt
+message:
+The current package state already satisfies this phase’s stop condition. The 12-locus visual-workbench queue has been processed, the stronger evidence surfaces are logged, and the alias workspace exists at [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) with derivatives under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/). I did not rerun an exhausted pass or make new text changes. `python scripts/validate_package.py` passes.
+
+All 12 received stronger evidence artifacts in the recorded workbench phase: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved in that phase: none. Remaining unresolved: the same 12 loci.
+
+The correct closeout is that the visual-workbench phase improved the evidence surfaces but did not justify new safe `T1` text changes, and the stronger in-package visual workbench is itself now exhausted on the present evidence basis.
+
+## 20260504-181008
+run: 13
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181008.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181008.txt
+message:
+The current package state already has this visual-workbench phase completed and exhausted, and it matches your requested stop condition.
+
+Stronger evidence artifacts exist for all 12 target holdouts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+
+No holdout was newly resolved. The phase improved the evidence surfaces but did not justify any new safe `T1` text change, and the same 12 remain unresolved on the present in-package basis.
+
+The reusable workbench is indexed in [visual-workbench-holdouts-2026-05-04.md](C:\woodblocks\Faith_in_Mind_Critical_Edition\provenance\faith-in-mind\process\visual-workbench-holdouts-2026-05-04.md), with derivatives under [visual-workbench-holdouts](C:\woodblocks\Faith_in_Mind_Critical_Edition\provenance\faith-in-mind\process\visual-workbench-holdouts). Package validation passes via `python scripts/validate_package.py`.
+
+## 20260504-181048
+run: 14
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181048.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181048.txt
+message:
+The current package state already reflects the requested 12-locus visual-workbench phase, so I did not rerun the exhausted pass. I verified the governing state surfaces, confirmed the reusable workbench index at [visual-workbench-holdouts-2026-05-04.md](/abs/path? nope) and alias workspace under [visual-workbench-holdouts](C:\woodblocks\Faith_in_Mind_Critical_Edition\provenance\faith-in-mind\process\visual-workbench-holdouts), and ran `python scripts/validate_package.py`; validation passed.
+
+All 12 target holdouts already have stronger evidence artifacts in the current package state: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved: none. Remaining unresolved: the same 12 loci.
+
+The package state explicitly records that this visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text changes, and that the stronger in-package visual workbench is exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-181142
+run: 15
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181142.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181142.txt
+message:
+The current package state already satisfies this requested phase, and rerunning it would violate the “do not rerun the same exhausted correction pass” rule.
+
+The stronger visual-evidence workbench artifacts already exist for all 12 holdouts in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md:1) and under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts:1). That surface covers:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved in that visual-workbench phase: none.  
+Remaining unresolved: the same 12 loci above.
+
+The correct package-level conclusion is the one already recorded in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md:1), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md:1), and [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json:1): the visual-workbench phase improved the evidence surfaces for all 12 holdouts but did not justify any new safe `T1` text change, and that stronger in-package visual pass is exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+I also ran `python scripts/validate_package.py`; validation passed. The only dirty files in the worktree are unrelated wrapper/report logs, so I did not alter package state.
+
+## 20260504-181230
+run: 16
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181230.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181230.txt
+message:
+The current package state already reflects completion of this exact visual-workbench phase. The 12 holdouts have stronger reusable evidence surfaces indexed in [visual-workbench-holdouts-2026-05-04.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), with alias derivatives under [visual-workbench-holdouts](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/). I verified that surface and ran `python scripts/validate_package.py`; validation passed.
+
+All 12 received stronger evidence artifacts in this phase: `T1-p007.l03`, `l04`, `l08`, `l09`, `l12`; `T1-p012.l02`; `T1-p029.l02`, `l06`; `T1-p030.l08`; `T1-p033.l03`, `l05`; `T1-p034.l05`. None were newly resolved. The remaining unresolved set is still those same 12 loci. On the present in-package basis, the visual-workbench phase improved the evidence surface but did not justify any new safe `T1` text changes, and that stronger in-package visual pass is already exhausted.
+
+## 20260504-181311
+run: 17
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181311.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181311.txt
+message:
+The current package state already reflects completion of the requested 12-locus visual-evidence workbench phase. I verified the governing state surfaces, checked the reusable alias index at [visual-workbench-holdouts-2026-05-04.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), confirmed the alias workspace under [visual-workbench-holdouts](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/), and ran `python scripts/validate_package.py`, which passed.
+
+Stronger evidence artifacts now exist for all 12 target holdouts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved: none. Remaining unresolved: all 12. The package state is explicit that this stronger visual-workbench phase improved the evidence surfaces, but did not justify any new safe `T1` text changes, and that the in-package visual-workbench basis is now exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-181355
+run: 18
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181355.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181355.txt
+message:
+The current package state already reflects completion of this visual-workbench phase. The 12 holdouts all received stronger evidence artifacts in `provenance/faith-in-mind/process/visual-workbench-holdouts/`, indexed in `provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md`, and the state/log surfaces already record that pass consistently. I verified the workbench index is present and `python scripts/validate_package.py` passes.
+
+Stronger evidence artifacts exist for all 12 target loci: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. None were newly resolved. All 12 remain unresolved.
+
+The correct closeout for this phase is therefore explicit: the visual-workbench phase improved the evidence surfaces, but it did not justify any new safe `T1` text changes, and on the present in-package basis that stronger visual workbench is exhausted. There were pre-existing unrelated uncommitted changes in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`; I did not modify them.
+
+## 20260504-181439
+run: 19
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181439.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181439.txt
+message:
+The current package state already contains the completed 12-locus visual-workbench phase, so I did not rerun a duplicate exhausted pass. I verified that the evidence surface is recorded in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), the alias artifacts exist under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/), and `python scripts/validate_package.py` passes.
+
+All 12 target holdouts already received stronger evidence artifacts in this phase: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`. Newly resolved: none. Remaining unresolved: all 12. The package state explicitly records that the visual-workbench phase improved evidence surfaces but did not justify new safe `T1` text changes, and that the stronger in-package visual workbench is exhausted on the present evidence basis.
+
+## 20260504-181523
+run: 20
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181523.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181523.txt
+message:
+The current package state already reflects completion of this exact 12-locus visual-workbench phase, so I did not rerun the exhausted pass. I verified the indexed evidence surface in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and confirmed the alias artifact workspace exists under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/). I also ran `python scripts/validate_package.py`; validation passed.
+
+All 12 target holdouts already have stronger evidence artifacts in the current package state: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. None were newly resolved in that phase, and all 12 remain unresolved. The correct closeout from the present state is that the visual-workbench phase improved the evidence surfaces, but did not justify new safe `T1` text changes, and on the present in-package basis that stronger visual-workbench pass is itself exhausted.
+
+## 20260504-181608
+run: 21
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181608.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181608.txt
+message:
+The current package state already reflects completion of the requested 12-locus visual-workbench phase. The stronger evidence pass and alias-surface consolidation are recorded in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md). I did not rerun an exhausted correction pass or force new text changes.
+
+All 12 targets have stronger evidence artifacts in `provenance/faith-in-mind/process/visual-workbench-holdouts/`: `T1-p007.l03`, `l04`, `l08`, `l09`, `l12`; `T1-p012.l02`; `T1-p029.l02`, `l06`; `T1-p030.l08`; `T1-p033.l03`, `l05`; `T1-p034.l05`. Newly resolved this phase: none. Remaining unresolved: all 12. The logged outcome is explicit: the visual-workbench phase improved the evidence surfaces, but even the stronger local crops, rotated or mirrored derivatives, and existing OCR/control surfaces did not justify any new safe `T1` text repair on the present in-package basis.
+
+Validation passes: `python scripts/validate_package.py` returned `Faith in Mind package validation passed.` The only current git dirtiness I saw was unrelated log churn in `provenance/faith-in-mind/process/suppressed-codex-reports.log` and `provenance/faith-in-mind/process/until-done-wrapper.log`.
+
+## 20260504-181653
+run: 22
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181653.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181653.txt
+message:
+The current package state already contains the completed 12-locus visual-workbench phase, so the correct continuation here is to stop rather than rerun the same exhausted pass. The stop condition is explicitly recorded in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), and [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json). `python scripts/validate_package.py` passes.
+
+Stronger evidence artifacts already exist for all 12 target holdouts under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/): `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved: none. Remaining unresolved: the same 12 loci. Explicitly, the visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text changes, and on the present in-package basis that stronger visual workbench is already exhausted.
+
+I did not modify package files in this turn because the package’s own state already records the required work as completed and paused pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-181759
+run: 23
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181759.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181759.txt
+message:
+The current package state already reflects the completed 12-locus visual-workbench phase. I verified the holdout index in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and the resumability/state surfaces in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). `python scripts/validate_package.py` passes.
+
+All 12 target holdouts already received stronger visual evidence artifacts in the alias workspace under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/): `T1-p007.l03`, `l04`, `l08`, `l09`, `l12`; `T1-p012.l02`; `T1-p029.l02`, `l06`; `T1-p030.l08`; `T1-p033.l03`, `l05`; `T1-p034.l05`. Newly resolved in this phase: none. Remaining unresolved: the same 12 loci.
+
+So the correct current closeout is: the visual-workbench phase improved the evidence surfaces, made the derivatives reusable, and is exhausted on the present in-package basis, but it did not yet justify any new safe `T1` text changes.
+
+## 20260504-181842
+run: 24
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181842.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181842.txt
+message:
+The current package state already reflects completion of this exact 12-locus visual-workbench phase. The stronger evidence pass is logged in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). The reusable evidence surface is indexed in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) with artifacts under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts).
+
+Stronger evidence artifacts exist for all 12 target holdouts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. None were newly resolved, and all 12 remain unresolved. The package state explicitly concludes that this stronger visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text change; on the present in-package basis, that phase is exhausted.
+
+I also reran `python scripts/validate_package.py`, and the package validates successfully.
+
+## 20260504-181927
+run: 25
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-181927.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-181927.txt
+message:
+The requested visual-workbench phase is already complete in the current package state. The governing state files, `process.json`, and `timeline.json` all record that the 12-locus stronger visual-evidence pass was finished on `2026-05-04`, then consolidated into the reusable alias workspace at [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md:1) and [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts:1). I did not rerun the exhausted pass. I verified the workbench surface exists and ran `python scripts/validate_package.py`; validation passed.
+
+All 12 holdouts already have stronger evidence artifacts in that workbench:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+
+Newly resolved in this phase: none. The current package state explicitly says the visual-workbench phase improved the evidence surface but did not justify any new safe `T1` text changes. All 12 remain unresolved, and the stronger in-package visual workbench is already logged as exhausted on the present evidence basis.
+
+## 20260504-182010
+run: 26
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182010.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182010.txt
+message:
+The current package state already reflects the completed 12-locus visual-workbench phase, so I did not rerun it. I verified the consolidated evidence surface in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and confirmed the alias workspace exists under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts). I also ran `python scripts/validate_package.py`; package validation passed.
+
+Stronger evidence artifacts exist for all 12 target holdouts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. None were newly resolved. All 12 remain unresolved. The current state and logs already record that the visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text changes, and that this stronger in-package visual pass is exhausted on the present evidence basis.
+
+## 20260504-182054
+run: 27
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182054.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182054.txt
+message:
+The current package state already reflects a completed 12-locus visual-workbench pass. I verified the governing state files, checked the reusable alias workspace in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), and reran `python scripts/validate_package.py`; validation passed.
+
+All 12 target holdouts have stronger evidence artifacts recorded:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved in this visual-workbench phase: none. The phase improved the evidence surfaces but did not justify any new safe `T1` text change.
+
+Still unresolved: all 12 above. The recorded package state already marks the visual-workbench phase as exhausted on the present in-package basis, with reusable derivatives under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/) and synchronized stop-state surfaces in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), and [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json).
+
+## 20260504-182140
+run: 28
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182140.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182140.txt
+message:
+The current package state already shows this visual-evidence phase as complete, and I did not rerun the exhausted holdout pass.
+
+All 12 target holdouts already have stronger evidence artifacts indexed in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md:1) and stored under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts:1):
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved in this dedicated visual-workbench phase: none. The package state, logs, and index all agree that the stronger visual workbench improved the evidence surfaces but still did not justify any new safe `T1` text change. All 12 remain unresolved on the present in-package basis.
+
+I verified the evidence index and alias workspace, and `python scripts/validate_package.py` passes. The package is therefore at the terminal stop condition for this phase: the 12-locus visual-workbench queue has already been processed and exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-182221
+run: 29
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182221.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182221.txt
+message:
+The current package state already reflects completion of this visual-workbench phase. I verified the stop condition in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and the holdout index [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md). I also ran `python scripts/validate_package.py`; validation passed.
+
+Stronger evidence artifacts exist for all 12 target holdouts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`, with reusable aliases under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/). Newly resolved in this phase: none. Remaining unresolved: all 12 above.
+
+No new safe `T1` text change is justified on the present in-package basis. The visual-workbench phase improved the evidence surfaces, but even the stronger workbench is now exhausted unless genuinely cleaner image evidence or genuinely new corroborative evidence appears.
+
+## 20260504-182311
+run: 30
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182311.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182311.txt
+message:
+The current package state already satisfies the requested visual-workbench phase, and rerunning it would violate the “do not rerun the same exhausted correction pass” rule.
+
+The stronger evidence artifacts are already in place for all 12 target holdouts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+The reusable alias surface is indexed in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md:1), and the stop state is reflected in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md:1), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md:1), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json:1), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json:1).
+
+Newly resolved from this 12-locus visual-workbench phase: none.  
+Remaining unresolved: all 12 listed above. The visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text change; on the present in-package basis, that stronger visual pass is already exhausted.
+
+`python scripts/validate_package.py` passes. I made no new edition-state edits.
+
+## 20260504-182357
+run: 31
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182357.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182357.txt
+message:
+The current package state already contains the completed 12-locus visual-workbench phase you asked for. I verified the reusable evidence workspace in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and confirmed the package still validates with `python scripts/validate_package.py`.
+
+All 12 target holdouts have stronger evidence artifacts recorded:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved: none.
+
+Still unresolved: the same 12 above. The recorded outcome in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), and [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json) is that the visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text changes, and that stronger in-package visual workbench is now exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-182442
+run: 32
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182442.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182442.txt
+message:
+The current package state already reflects a completed visual-evidence workbench pass for the full 12-locus queue on `2026-05-04`. I verified the indexed artifact surface in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and reran `python scripts/validate_package.py`; validation passed.
+
+Stronger evidence artifacts now exist for all 12 target holdouts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+Those artifacts are consolidated under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts).
+
+No holdout was newly resolved. The stronger visual workbench improved evidence surfaces, clarified some partial tails and opening frames, but did not justify any new safe `T1` text change. All 12 therefore remain unresolved, and the package state already records that this visual-workbench phase is exhausted on the present in-package basis pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-182524
+run: 33
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182524.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182524.txt
+message:
+The current package state already reflects completion of the requested 12-locus visual-workbench phase, and the state surfaces are synchronized. I verified the gate files, `process.json`, `timeline.json`, and reran `python scripts/validate_package.py`; validation passed.
+
+Stronger evidence artifacts now exist for all 12 target holdouts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. The reusable workbench surface is indexed in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), with derivatives under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/).
+
+Newly resolved holdouts from that dedicated visual-evidence phase: none. Remaining unresolved: all 12 above. The package’s recorded conclusion is consistent across [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json): the visual-workbench phase improved the evidence surfaces, but did not justify any new safe `T1` text changes, and is exhausted on the present in-package basis.
+
+## 20260504-182608
+run: 34
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182608.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182608.txt
+message:
+The current package state already reflects completion of the requested visual-workbench phase, and I did not rerun the exhausted pass. I verified the governing state in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), the holdout index in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), the alias artifact workspace in [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts), and `python scripts/validate_package.py`, which passed.
+
+All 12 target loci already received the stronger visual-evidence workbench pass and now have reusable evidence surfaces: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved loci: none. Remaining unresolved: all 12. The package state explicitly records that the visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text change, and that this stronger in-package visual phase is now exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-182652
+run: 35
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182652.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182652.txt
+message:
+The current package state is already at the terminal point for this requested phase. The 12 holdouts have all received the stronger visual-evidence workbench pass, and the reusable artifact surface is already consolidated under [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/). I did not rerun the exhausted correction loop or force new text changes.
+
+Stronger evidence artifacts exist for all 12 target loci: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved loci in this phase: none. Remaining unresolved: all 12. The honest package conclusion is that the visual-workbench phase improved evidence surfaces but did not yet justify new safe `T1` text changes, and on the present in-package basis that stronger visual workbench is exhausted.
+
+Validation passed with `python scripts/validate_package.py`.
+
+## 20260504-182743
+run: 36
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182743.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182743.txt
+message:
+The current package state already reflects the full dedicated 12-locus visual-workbench phase you asked for. I verified the workflow surfaces, confirmed the alias workbench exists in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), and ran `python scripts/validate_package.py`; validation passed.
+
+Stronger evidence artifacts exist for all 12 target holdouts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved in this phase: none.
+
+Still unresolved:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+The correct current conclusion is explicit: the visual-workbench phase improved the evidence surfaces and consolidated them into a reusable local alias workspace, but it did not justify any new safe `T1` text changes, and that stronger in-package visual workbench is already exhausted on the present evidence basis.
+
+## 20260504-182830
+run: 37
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182830.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182830.txt
+message:
+The current package state already contains the completed 12-locus visual-workbench phase, so I did not rerun the exhausted pass.
+
+I verified the key state surfaces and the reusable evidence workspace in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), with derivatives consolidated under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts). The package validates cleanly via `python scripts/validate_package.py`.
+
+Stronger evidence artifacts exist for all 12 target holdouts: `T1-p007.l03`, `l04`, `l08`, `l09`, `l12`; `T1-p012.l02`; `T1-p029.l02`, `l06`; `T1-p030.l08`; `T1-p033.l03`, `l05`; `T1-p034.l05`. Newly resolved: none. Remaining unresolved: all 12. The visual-workbench phase improved the evidence surface and is now reusable, but it did not justify any new safe `T1` text changes on the present in-package basis.
+
+## 20260504-182914
+run: 38
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182914.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182914.txt
+message:
+The current package state already reflects completion of the requested 12-locus visual-workbench phase. I verified the consolidated holdout index in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and ran `python scripts/validate_package.py`; validation passed.
+
+Stronger evidence artifacts exist for all 12 target holdouts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved in this visual-workbench phase: none.
+
+Still unresolved: the same 12 above. The package’s logged conclusion is consistent: the visual-workbench phase improved the evidence surfaces and consolidated them into the reusable alias workspace under `provenance/faith-in-mind/process/visual-workbench-holdouts/`, but did not justify any new safe `T1` text change on the present in-package basis.
+
+## 20260504-182950
+run: 39
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-182950.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-182950.txt
+message:
+The current package state already reflects the requested 12-locus visual-workbench phase, and it is recorded as exhausted rather than merely paused. The stronger evidence artifacts exist under [visual-workbench-holdouts-2026-05-04.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md:1) and [visual-workbench-holdouts](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts:1), and the stop state is synchronized in [current-state.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md:1), [unresolved-loci.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md:1), [process.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json:1), and [timeline.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json:1).
+
+All 12 target holdouts have stronger evidence artifacts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved in this visual-workbench phase: none.
+
+Still unresolved: all 12 above. The package state explicitly says the visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text changes, and that even the stronger in-package image-separation pass is now exhausted on the present basis.
+
+Validation passed with `python scripts/validate_package.py`.
+
+## 20260504-183033
+run: 40
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-183033.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-183033.txt
+message:
+The current package state already has this phase completed. The 12-locus visual workbench was processed, the alias evidence surface exists in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), and the phase is logged as exhausted in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). I did not rerun another exhausted correction pass.
+
+Stronger evidence artifacts already exist for all 12 target holdouts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`, under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts). None were newly resolved. All 12 remain unresolved, and the package state already states explicitly that the stronger visual-workbench phase improved the evidence surface but did not justify any new safe `T1` text change on the present in-package basis.
+
+I also ran `python scripts/validate_package.py`; validation passed.
+
+## 20260504-183116
+run: 41
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-183116.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-183116.txt
+message:
+The current package state already has this 12-locus visual-workbench phase completed and logged, so I did not rerun an exhausted correction pass or force new text changes. I verified the reusable evidence surface in [visual-workbench-holdouts-2026-05-04.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and the alias workspace under [visual-workbench-holdouts](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts), then ran `python scripts/validate_package.py`; validation passed.
+
+Stronger evidence artifacts exist for all 12 target holdouts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved: none. Remaining unresolved: all 12. The package already states the correct terminal judgment: the visual-workbench phase improved the evidence surfaces, but even the stronger in-package visual workbench did not justify any new safe `T1` text change and is presently exhausted.
+
+## 20260504-183159
+run: 42
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-183159.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-183159.txt
+message:
+The current package state already shows this phase as complete. The 12-locus visual-workbench queue has already received the stronger evidence pass, the reusable alias workspace exists at [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), and the state surfaces, logs, `process.json`, and `timeline.json` are already aligned to that exhausted-workbench result.
+
+Stronger evidence artifacts are already present for all 12 holdouts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved in this phase: none.  
+Still unresolved: all 12 above.
+
+I did not rerun the exhausted correction pass or make new package edits. I verified that the visual-workbench alias surface is in place and ran `python scripts/validate_package.py`; validation passed. On the present in-package basis, the visual-workbench phase improved evidence surfaces but did not justify any new safe `T1` text changes, and that stronger visual workbench is already exhausted.
+
+## 20260504-183247
+run: 43
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-183247.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-183247.txt
+message:
+The 12-locus visual-workbench phase was already complete in the current package state. I verified the alias workspace and index at [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), confirmed the holdout artifacts exist for all 12 targets, and reran `python scripts/validate_package.py`; validation passed.
+
+No new `T1` repair was justified. The loci with stronger evidence artifacts are all 12 target holdouts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved: none. Remaining unresolved: the same 12. I made one narrow state-sync repair so the resumability surfaces no longer falsely list stale `T1-p032` residue as open, updating [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [process-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json).
+
+The correct closeout on the present in-package basis is: the visual-workbench phase improved the evidence surface, but did not justify any new safe `T1` text changes, and the stronger in-package visual workbench is now exhausted.
+
+## 20260504-183713
+run: 44
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-183713.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-183713.txt
+message:
+The current package state already reflects completion of the 12-locus visual-workbench phase, and I verified that claim against [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) plus the alias workspace under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts). `python scripts/validate_package.py` passes.
+
+All 12 target holdouts have stronger evidence artifacts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved in this visual-workbench phase: none. The package state is explicit that the stronger local crops, rotated and mirrored derivatives, and alias consolidation improved the evidence surface but did not justify any new safe `T1` text change.
+
+Still unresolved: the same 12 loci above. The phase is already logged as exhausted on the present in-package evidence basis, pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-183755
+run: 45
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-183755.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-183755.txt
+message:
+As of `2026-05-04`, the current package state already shows this exact 12-locus visual-workbench phase as completed and exhausted. I verified the governing state files, the holdout index at [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md:1), the alias workspace under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts:1), and reran `python scripts/validate_package.py`; validation passed.
+
+All 12 target holdouts already received stronger evidence artifacts in that phase: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved: none. Remaining unresolved: all 12. The package state explicitly records that the visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text changes, and that the stronger in-package image-separation phase is exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-183842
+run: 46
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-183842.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-183842.txt
+message:
+The requested 12-locus visual-workbench phase is already complete in the current package state. I verified the governing state surfaces, confirmed the reusable alias workbench at [visual-workbench-holdouts-2026-05-04.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and [visual-workbench-holdouts](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/), and reran package validation successfully.
+
+All 12 holdouts have stronger evidence artifacts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved in this visual-workbench phase: none. The package state explicitly records that the stronger crops, rotated or mirrored derivatives, and alias consolidation improved the evidence surface but did not justify any new safe `T1` text change.
+
+Still unresolved: the same 12 loci above. The present in-package basis is logged as exhausted for this visual-evidence phase in [current-state.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). `python scripts/validate_package.py` passed.
+
+## 20260504-183931
+run: 47
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-183931.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-183931.txt
+message:
+The current package state already reflects the requested visual-workbench phase, and I did not rerun the exhausted pass. I verified the governing state files, confirmed the alias evidence surface in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), and reran package validation successfully.
+
+All 12 target holdouts already have stronger evidence artifacts recorded in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and the alias workspace [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts):
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved: none.
+
+Still unresolved: the same 12 loci above. The package state explicitly records that the stronger visual workbench improved evidence surfaces but did not justify new safe `T1` text changes, and that the in-package visual-workbench basis is exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+Validation: `python scripts/validate_package.py` passed.
+
+## 20260504-184013
+run: 48
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-184013.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-184013.txt
+message:
+The current package state already reflects completion of the exact 12-locus visual-workbench phase you requested, so I did not rerun the same exhausted pass. I verified the consolidated evidence surface in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) and the reusable derivatives under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts), then re-ran `python scripts/validate_package.py`; validation passed.
+
+All 12 holdouts have stronger evidence artifacts: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. None were newly resolved. All 12 remain unresolved. The visual-workbench phase improved the evidence surfaces, but it did not justify any new safe `T1` text changes, and on the present in-package basis that stronger visual workbench is now exhausted.
+
+## 20260504-184052
+run: 49
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-184052.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-184052.txt
+message:
+The current package state already has this phase completed. The 12-locus visual-workbench pass is recorded as finished and exhausted in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md). I did not rerun the exhausted correction pass. I verified the package instead; `python scripts/validate_package.py` passed on 2026-05-04.
+
+Stronger evidence artifacts already exist for all 12 target holdouts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+Those artifacts are consolidated under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/) with the locus index in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md).
+
+Newly resolved in this phase: none. Remaining unresolved: all 12 above. The package state is explicit that the visual-workbench phase improved evidence surfaces but did not yet justify any new safe `T1` text changes, and that stronger in-package visual workbench is exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-184158
+run: 50
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-184158.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-184158.txt
+message:
+The current package state already reflects completion of the requested 12-locus visual-evidence workbench phase, and rerunning it would violate the “do not rerun the same exhausted correction pass” instruction. The reusable evidence surface is indexed in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), with alias derivatives under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/). `python scripts/validate_package.py` passes.
+
+All 12 target holdouts received stronger evidence artifacts in that completed phase: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Newly resolved: none. Remaining unresolved: the same 12 loci. The package state explicitly records that the visual-workbench phase improved evidence surfaces but did not justify new safe `T1` text changes, and that the stronger in-package visual workbench is now exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-184239
+run: 51
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-184239.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-184239.txt
+message:
+The current package state already reflects completion of the requested 12-locus visual-evidence workbench phase, so I did not rerun it or invent a duplicate pass.
+
+The recorded workbench covers all 12 target holdouts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. The stronger evidence artifacts are already consolidated in [visual-workbench-holdouts-2026-05-04.md](C:\woodblocks\Faith_in_Mind_Critical_Edition\provenance\faith-in-mind\process\visual-workbench-holdouts-2026-05-04.md) and under [visual-workbench-holdouts](C:\woodblocks\Faith_in_Mind_Critical_Edition\provenance\faith-in-mind\process\visual-workbench-holdouts). The package state files also already say that this stronger direct-image-separation phase was exhausted on the present in-package basis, with no safe new `T1` repairs justified.
+
+Newly resolved in this phase: none. Remaining unresolved: all 12 above. The correct closeout on the present evidence is that the visual-workbench phase improved the evidence surfaces, but did not yet justify new safe `T1` text changes. Package validation still passes via `python scripts/validate_package.py`.
+

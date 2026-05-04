@@ -1,6 +1,6 @@
 ﻿# Unresolved Loci: Faith in Mind
 
-Date: 2026-04-15
+Date: 2026-05-04
 Status: active
 
 ## Open loci
@@ -46,8 +46,7 @@ Status: active
 - `T1-p029.l02` and `T1-p029.l06` remain live second-pass residue after the newer `T1-p030` and `T1-p031` gains.
 - `T1-p030.l08` is now the last still-open residue on that page after the exact-column recovery of `T1-p030.l03`.
 - direct image reinspection plus the already logged `T4/C17` support confirm that `T1-p031.l03 = 二由一有一亦莫守` was already securely fixed; the earlier note leaving that column in the live queue was stale state rather than a still-open reading problem.
-- `T1-p032.l03`, `T1-p032.l05`, `T1-p032.l06`, and `T1-p032.l07` remain open after the newer `l02`, `l04`, `l08`, and `l09` gains; the current page is cleaner in the reductive and turn-phrase columns than in the rougher central doctrinal band.
-- `T1-p032.l05` remains open after the newer `l03`, `l06`, and `l07` gains; the current page is now mainly blocked at the rougher doctrinal and transition band.
+- the earlier `T1-p032` open-line notes are now retired; later page work secured the remaining live `T1-p032` residue, so no `T1-p032` locus belongs to the current unresolved queue.
 - `T1-p033.l03` and `T1-p033.l05` remain open after the newer `l04`, `l06`, `l07`, `l08`, and `l09` gains; enlarged reinspection now clarifies only partial tails, not full safe lines: `T1-p033.l03` ends `...方得少分` rather than the older `少名` noise, and `T1-p033.l05` ends `...有什` rather than `有作`, but both columns still need cleaner direct-image separation at their openings and mid-column pivots before an honest full-line closure is possible.
 - `T1-p034.l05` remains open after the newer `l02`, `l03`, `l04`, `l06`, `l07`, and `l08` gains; the local page and OCR stack preserve the opening `師云一穿却一提起八面玲瓏...` frame more clearly than before, but the tail still does not separate cleanly enough for an honest closure.
 - `T1-p035.l09` is now resolved as `故知兩段元是一空`; the enlarged left-middle crop preserves the full phrase, and the earlier short-fragment placeholder is no longer needed.
