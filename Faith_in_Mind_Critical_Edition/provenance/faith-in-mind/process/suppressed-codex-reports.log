@@ -2442,3 +2442,125 @@ The recorded workbench covers all 12 target holdouts:
 
 Newly resolved in this phase: none. Remaining unresolved: all 12 above. The correct closeout on the present evidence is that the visual-workbench phase improved the evidence surfaces, but did not yet justify new safe `T1` text changes. Package validation still passes via `python scripts/validate_package.py`.
 
+## 20260504-185451
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-185451.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-185451.txt
+message:
+The current package state already reflects the requested phase as completed. The 12 holdouts all received stronger visual-evidence workbench artifacts, indexed in [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md) with reusable derivatives under [visual-workbench-holdouts](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts/).
+
+Those 12 are:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+Newly resolved in this phase: none.  
+Remaining unresolved: all 12 above.
+
+The recorded judgment is consistent across [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json): the visual-workbench phase improved the evidence surfaces but did not justify new safe `T1` text changes, and the stronger in-package visual workbench is now exhausted on the present evidence basis.
+
+Verification: `python scripts/validate_package.py` passed.
+
+## 20260504-185535
+run: 2
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-185535.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-185535.txt
+message:
+The current package state already reflects completion of the requested 12-locus visual-evidence workbench phase. I verified the resumability surfaces, the indexed alias workspace at [visual-workbench-holdouts-2026-05-04.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md), the underlying `visual-workbench-holdouts/` artifact tree, and a fresh `python scripts/validate_package.py` run; validation passed.
+
+All 12 target holdouts have stronger evidence artifacts:
+`T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, `T1-p034.l05`.
+
+None were newly resolved in the current package state. The unresolved set remains the same 12 loci above. The package already states, and the indexed workbench confirms, that this visual-workbench phase improved the evidence surfaces but did not justify any new safe `T1` text changes; on the present in-package basis, that stronger visual pass is exhausted pending genuinely cleaner image evidence or genuinely new corroborative evidence.
+
+## 20260504-205231
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-205231.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-205231.txt
+message:
+Opened one new corroborative source under the bounded exception: `KR6q0359` on Kanripo (`/text/KR6q0359/002`, with the query path on `/001?...芳草渡頭...`). I formally logged that exception across the required provenance and machine-readable state surfaces before relying on it.
+
+Three loci were newly resolved:
+- `T1-p033.l03 = 萬仞崖頭打箇筋斗直下命根斷去方得少分`
+- `T1-p033.l05 = 師良久云山是山水是水天是天地是地有什麼過`
+- `T1-p034.l05 = 師云一穿却一提起八面玲瓏峭措無賽`
+
+Nine loci remain unresolved:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+
+The bounded corroborative-evidence phase is now exhausted on the present broader basis. `KR6q0359` helped only the three loci above and did not justify further safe `T1` changes. Package validation passed via `python scripts/validate_package.py`. I committed the batch as `6b3d680` with message `faith-in-mind: log bounded corroborative exception`.
+
+## 20260504-211514
+run: 2
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-211514.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-211514.txt
+message:
+The current package state already includes the bounded corroborative-evidence exception and its closeout as of `2026-05-04`, so there was nothing left to continue in this phase without reopening scope. I verified the state surfaces and ran `python scripts/validate_package.py`; validation passed.
+
+New corroborative source opened in this phase: `KR6q0359` (`X1` in the witness register, logged as a bounded exception source rather than a reopened witness). Newly resolved loci from that source: `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+
+Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`.
+
+The bounded corroborative-evidence phase is already logged as exhausted on the present broader basis. No additional safe `T1` text changes are justified from the current package state.
+
+## 20260504-211616
+run: 3
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-211616.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-211616.txt
+message:
+As of `2026-05-04`, the bounded corroborative-evidence phase you requested has already been completed in the current package state. I verified the required process surfaces, `process.json`, `timeline.json`, the witness exception registration, and reran `python scripts/validate_package.py`; validation passed, and the state is internally aligned.
+
+New corroborative source opened in that completed phase:
+- `KR6q0359` as bounded exception source `X1`
+
+Newly resolved loci from that phase:
+- `T1-p033.l03`
+- `T1-p033.l05`
+- `T1-p034.l05`
+
+Still unresolved after the bounded corroborative phase was exhausted:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+
+Your 12-locus target list is therefore stale relative to the live package: three of those loci were already resolved on `2026-05-04`, and the remaining queue is now nine loci. No further safe `T1` text changes are justified on the present broader basis without genuinely cleaner image evidence, a different tightly bounded corroborative source, or new human direction.
+
+## 20260504-211723
+run: 4
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-211723.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-211723.txt
+message:
+The requested bounded corroborative-evidence phase is already complete in the current package state. I verified the governing files, confirmed that `KR6q0359` is already logged as the sole new corroborative source, and confirmed the package validates with `python scripts/validate_package.py`.
+
+Opened corroborative source: `KR6q0359` (`X1`, bounded exception only). Newly resolved loci from that phase: `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`.
+
+The package state also already records the required terminal judgment: the bounded corroborative-evidence phase has been exhausted on the present broader basis, and no further safe `T1` text changes were justified for those nine remaining loci. I did not make new edits, because the recorded state is already aligned and validated.
+
+## 20260504-211826
+run: 5
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-211826.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-211826.txt
+message:
+As of **2026-05-04**, the package is already past the 12-locus exception phase you asked me to run. The bounded corroborative-evidence source already opened was `KR6q0359` (`X1`), and that phase already resolved exactly three loci: `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. The remaining unresolved loci are `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`.
+
+I did not make further text or log changes, because the current state files, `process.json`, and `timeline.json` already record that the bounded corroborative-evidence phase was exhausted on the broader basis after `KR6q0359`. `python scripts/validate_package.py` passes from the present state. So the honest closeout is: the new corroborative source opened was `KR6q0359`; newly resolved loci were `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`; nine loci remain unresolved; and no further safe `T1` changes are available from the current package state without either genuinely cleaner image evidence, a different tightly bounded corroborative source, or explicit new direction.
+
