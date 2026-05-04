@@ -1,6 +1,6 @@
 ﻿# Current State: Faith in Mind
 
-Date: 2026-05-03
+Date: 2026-05-04
 Status: active
 Edition slug: `faith-in-mind`
 
@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_package_level_exhaustion_check_after_queue_roam`
+- Last completed phase: `manual_correction_slice_T1_second_pass_stronger_direct_image_separation_remaining_12_holdouts_exhaustion`
 
 ## What is already done
 
@@ -422,3 +422,6 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - exact local-column reinspection has now broken the earlier five-locus wall at `T1-p011.l04`, which can now stand as `前不明自己此人亦秖具一隻眼諸仁者如` on the present package-local basis without smoothing beyond the visible T1 tail.
 - the current in-package evidence basis remains exhausted at `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`, and direct reinspection still leaves `T1-p030.l08`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p012.l02` below threshold on the present package-local basis; no further bounded productive correction slice is currently available without stronger direct-image separation or genuinely new corroborative evidence.
 - the required global stop recheck has now also been run across the older still-open queue on `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`. Direct image reinspection plus the already opened local OCR support and previously opened bounded control witnesses still do not yield an honest new repair at `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, or `T1-p030.l08`. On the present in-package evidence basis, the remaining unresolved queue is therefore exhausted at package level rather than only at the later-page local wall.
+- the stronger direct-image-separation continuation required by the package stop condition has now also been completed across that full 12-locus queue: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`.
+- that stronger pass used the existing T1 page images, saved OCR/control surfaces, and new tightly bounded local bbox crops plus rotated and mirrored derivatives where needed, especially on `T1-p029`, `T1-p030`, `T1-p033`, and `T1-p034`; it clarified some partial frames and tails but did not yield a new safe full-line `T1` repair.
+- on the present in-package basis, the stronger direct-image-separation phase is therefore exhausted as well as the earlier page-level and package-level queue roam. No further honest progress remains available inside the package without genuinely cleaner image evidence or genuinely new corroborative evidence.

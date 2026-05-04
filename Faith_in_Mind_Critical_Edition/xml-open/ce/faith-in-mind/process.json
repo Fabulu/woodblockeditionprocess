@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_package_level_exhaustion_check_after_queue_roam",
+      "slug": "manual_correction_slice_T1_second_pass_stronger_direct_image_separation_remaining_12_holdouts_exhaustion",
       "witnesses": [
         "T1",
         "T4",
@@ -107,16 +107,44 @@
         "../../../provenance/faith-in-mind/process/current-state.md",
         "../../../provenance/faith-in-mind/process/human-log.md",
         "../../../provenance/faith-in-mind/process/process-log.md",
-        "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p031.png",
-        "../../../provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p031.txt",
-        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p031.txt",
-        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p031.txt",
-        "../../../provenance/faith-in-mind/ocr/C17/ocr/paddleocr-ppocrv4/extracted-text/C17-p147.txt"
+        "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p033.png",
+        "../../../provenance/faith-in-mind/ocr/T1/page-images/T1-p034.png",
+        "../../../provenance/faith-in-mind/process/tmp-T1-p029-bbox01-rot90-mirror-hi.png",
+        "../../../provenance/faith-in-mind/process/tmp-T1-p029-bbox04-rot90-mirror-hi.png",
+        "../../../provenance/faith-in-mind/process/tmp-T1-p030-bbox03-rot90-mirror-hi.png",
+        "../../../provenance/faith-in-mind/process/tmp-T1-p033-bbox06-rot90-mirror-hi.png",
+        "../../../provenance/faith-in-mind/process/tmp-T1-p033-bbox08-rot90-mirror-hi.png",
+        "../../../provenance/faith-in-mind/process/tmp-T1-p034-bbox08-rot90-mirror-hi.png",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p007.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p012.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p029.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p030.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p033.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p034.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p007.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p012.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p029.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p030.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p033.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p034.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p007.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p012.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p029.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p030.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p033.txt",
+        "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p034.txt",
+        "../../../provenance/faith-in-mind/ocr/C5/ocr/paddleocr-ppocrv4/extracted-text/C5-p048.txt",
+        "../../../provenance/faith-in-mind/ocr/C9/ocr/paddleocr-ppocrv4/extracted-text/C9-p028.txt",
+        "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_package_level_exhaustion_check_after_queue_roam",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_stronger_direct_image_separation_remaining_12_holdouts_exhaustion",
       "last_text_changed_event": "FIM-248",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_pending_stronger_evidence_for_package_level_remaining_holdouts"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_pending_new_evidence_after_stronger_direct_image_separation_exhaustion"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -128,6 +156,6 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The earlier five-locus package-local wall was broken only at T1-p011.l04, which exact local-column reinspection secures on the present in-package basis. The required global stop recheck has now also been run across the older open queue on T1-p007, T1-p012, T1-p029, and T1-p030. Direct image review plus the saved local OCR stack and already opened bounded control witnesses still do not yield a new safe repair at T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, or T1-p030.l08, and the previously recorded evidence walls at T1-p033.l03, T1-p033.l05, and T1-p034.l05 remain in force. On the present in-package basis, no further bounded productive correction slice is currently available anywhere in the remaining unresolved queue; do not force a T1 text change at those loci without stronger direct-image separation or genuinely new corroborative evidence."
+    "next_required_action": "The stronger direct-image-separation continuation has now been completed across the remaining 12 unresolved holdouts: T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, T1-p030.l08, T1-p033.l03, T1-p033.l05, and T1-p034.l05. Existing page images, saved local OCR surfaces, already opened bounded control witnesses, and new tightly bounded bbox crops plus rotated and mirrored derivatives clarified some partial frames but did not produce a new safe full-line T1 repair. On the present in-package basis, the stronger direct-image-separation phase is exhausted; do not force a T1 text change at those loci without genuinely cleaner image evidence or genuinely new corroborative evidence."
   }
 }
