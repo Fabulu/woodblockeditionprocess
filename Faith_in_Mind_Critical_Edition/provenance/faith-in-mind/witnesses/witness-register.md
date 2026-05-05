@@ -335,3 +335,59 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` and `T1-p030.l08` only, specifically the fresh later doctrinal-quotation preservation of the `直得灰頭土面一念玄去更不受食已墮在尊貴了也 / 一片月生海幾家人上樓` prose band
 - Role: later doctrinal-quotation corroboration for the remaining `T1-p029/T1-p030` holdouts, not a reopened comparison witness
+
+### X16
+
+- Witness: `靈瑞尼祖揆符禪師妙湛錄卷第五`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later `頌古` preservation of the paired `趙州` exchanges `曾有人問我直得五年分疏不下` and `纔有語言是揀擇 / 何不引盡這語 / 只這至道無難唯嫌揀擇`
+- Role: later `頌古` corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X17
+
+- Witness: `三宜盂禪師語錄卷七`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later `拈古` prose-preservation of `曾有人問老僧直得五年分疏不下`
+- Role: later `拈古` prose corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X18
+
+- Witness: `普菴印肅禪師語錄卷二`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later adaptive preservation of the `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` band
+- Role: later adaptive quotation-family corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X19
+
+- Witness: `佛果克勤禪師心要卷四`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` and `T1-p030.l08` only, specifically the fresh same-attributed doctrinal branch preserving `淨躶躶`, `猛割猛斷十分棄捨`, and `轉捨轉明轉遠轉近 ... 斷却命去`
+- Role: same-attributed doctrinal corroboration for the remaining `T1-p029/T1-p030` holdouts, not a reopened comparison witness
+
+### X20
+
+- Witness: `列祖提綱錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later `提綱錄` preservation of the `趙州 / 曾有人問我直得五年分疏不下` cluster
+- Role: later `提綱錄` corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X21
+
+- Witness: `教外別傳`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically a tested fresh outward Zen-transmission branch for the still-open quotation band
+- Role: opened-but-cold external branch for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X22
+
+- Witness: `象教皮編`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later quotation-compilation preservation of the shorter `或是或非人不識逆行順行天莫測` band
+- Role: later quotation-compilation corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X23
+
+- Witness: `五燈全書/卷第九十二`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later lamp-history preservation of `一片月生海幾家人上樓`
+- Role: later lamp-history corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness

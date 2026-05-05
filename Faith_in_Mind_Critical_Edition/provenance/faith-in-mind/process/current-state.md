@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_visual_workbench_alias_surface_consolidation`
+- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X15_remaining_8`
 
 ## What is already done
 
@@ -461,3 +461,15 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `X15` broadens the `T1-p029/T1-p030` evidence from the already exhausted `X5` source-family branch to a fresh later doctrinal-quotation branch through `建康普説十三章`, which again preserves the `直得灰頭土面一念玄去更不受食已墮在尊貴了也 / 一片月生海幾家人上樓` band, but the local `T1-p029.l06` and `T1-p030.l08` images still do not isolate full safe lines.
 - renewed outward sweeps for `T1-p012.l02` after `X14/X15` still did not surface a materially fresher source family beyond the already exhausted direct, commentarial, anthology, and later-historical `證道歌` branches logged as `X6`, `X9`, `X11`, and `X13`.
 - on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now genuinely exhausted across the plausibly productive source avenues opened through `X15`, not merely paused at one source family or one repository.
+- that logged `X15` stop was then pushed farther rather than being treated as terminal by itself.
+- `X16` broadens the `T1-p007` evidence to a fresh later `頌古` branch through `靈瑞尼祖揆符禪師妙湛錄卷第五`, which preserves both the `曾有人問我直得五年分疏不下` frame and the paired `纔有語言是揀擇 / 何不引盡這語 / 只這至道無難唯嫌揀擇` exchange, but the local `T1` spillover still does not separate enough for line-level repair.
+- `X17` broadens the same `T1-p007` wall to a fresh later `拈古` prose branch through `三宜盂禪師語錄卷七`, which again preserves `曾有人問老僧直得五年分疏不下`, but again does not lift the local `T1` upper and lower clusters above repair threshold.
+- `X18` broadens the `T1-p012` evidence to a fresh later adaptive `證道歌` branch through `普菴印肅禪師語錄卷二`, which again preserves the `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` band, but the local `T1-p012.l02` image still does not isolate a full safe line.
+- `X19` broadens the `T1-p029/T1-p030` evidence to a fresh same-attributed doctrinal branch through `佛果克勤禪師心要卷四`, which again preserves the `淨躶躶`, `猛割猛斷十分棄捨`, and `轉捨轉明轉遠轉近 ... 斷却命去` cadence, but the local `T1-p029.l06` and `T1-p030.l08` images still do not isolate full safe lines.
+- direct reinspection of the saved high-contrast holdout crops while consolidating `X16-X19` confirms the same local ceiling: the new branches strengthen phrase-family identity and rejection grounds only, not an accepted `T1` repair.
+- the same overnight authorization was then pushed beyond that logged `X19` stop rather than treating it as terminal by itself.
+- `X20` broadens the `T1-p007` evidence to a fresh later `提綱錄` branch through `列祖提綱錄`, which again preserves the same `趙州 / 曾有人問我直得五年分疏不下` frame behind the damaged local cluster, but the local `T1` upper and lower spillover still do not separate enough for line-level repair.
+- `X21` tests a fresh outward Zen-transmission branch through `教外別傳` against the still-open `T1-p012.l02` quotation band, but this source was opened and checked without surfacing a materially overlapping preservation of the target couplet, so it does not advance that locus beyond confirming this branch as cold on the present hunt.
+- `X22` broadens the `T1-p012` evidence to a fresh later quotation-compilation branch through `象教皮編`, which preserves the shorter quotation-level `或是或非人不識逆行順行天莫測` band and therefore strengthens phrase-family identity and rejection grounds, but the local `T1-p012.l02` image still does not isolate a full safe line.
+- `X23` broadens the `T1-p030` evidence to a fresh later lamp-history branch through `五燈全書/卷第九十二`, which again preserves `一片月生海幾家人上樓`, but only at phrase level and without lifting the damaged local `T1-p030.l08` cadence above repair threshold.
+- on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X23`, not merely paused at one source family or one repository.

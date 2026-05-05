@@ -500,3 +500,83 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against T1-p029.l06 and T1-p030.l08 only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X12/X13 frontier; not promoted into the normal witness queue
+
+## X16
+
+- Witness: 靈瑞尼祖揆符禪師妙湛錄卷第五
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=J35nB338_005
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X14/X15 frontier; not promoted into the normal witness queue
+
+## X17
+
+- Witness: 三宜盂禪師語錄卷七
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=J27nB189_007
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X14/X15 frontier; not promoted into the normal witness queue
+
+## X18
+
+- Witness: 普菴印肅禪師語錄卷二
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X69n1356_002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X14/X15 frontier; not promoted into the normal witness queue
+
+## X19
+
+- Witness: 佛果克勤禪師心要卷四
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/X69n1357_004
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p029.l06 and T1-p030.l08 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X14/X15 frontier; not promoted into the normal witness queue
+
+## X20
+
+- Witness: 列祖提綱錄
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/edition/J/KR6q0151/036
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X16-X19 frontier; not promoted into the normal witness queue
+
+## X21
+
+- Witness: 教外別傳
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X84n1580_004
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: outward branch opened and checked against T1-p012.l02; no materially overlapping preservation of the target couplet surfaced
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X16-X19 frontier; not promoted into the normal witness queue
+
+## X22
+
+- Witness: 象教皮編
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=B17n0093_004
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X16-X19 frontier; not promoted into the normal witness queue
+
+## X23
+
+- Witness: 五燈全書/卷第九十二
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://zh.wikisource.org/zh-hant/五燈全書/卷第九十二
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p030.l08 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X16-X19 frontier; not promoted into the normal witness queue

@@ -1,5 +1,41 @@
 # Decision Log: Faith in Mind
 
+## D-038 2026-05-05 - Continue beyond the logged X19 frontier under the same overnight authorization and open X20 to X23
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X16-X19` frontier by opening `X20 = 列祖提綱錄` for the damaged `T1-p007` `趙州 / 五年分疏不下` cluster, `X21 = 教外別傳` as a fresh outward Zen-transmission branch tested against the still-open `T1-p012.l02` quotation band, `X22 = 象教皮編` for a later quotation-compilation check on the same `T1-p012.l02` `或是或非人不識 / 逆行順行天莫測` band, and `X23 = 五燈全書/卷第九十二` for a fresh later lamp-history preservation of `一片月生海幾家人上樓` behind `T1-p030.l08`
+- Why: the user explicitly authorized the overnight hunt to keep broadening across plausible witness families, quotation streams, compilations, and repositories rather than stopping at the logged `X19` frontier, and these were the strongest still-plausible fresh branches that had not yet been opened in the package state
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007`, `T1-p012`, and `T1-p030` holdout workbench surfaces, and fresh exact or near-exact external hits for `曾有人問我直得五年分疏不下`, `或是或非人不識逆行順行天莫測`, and `一片月生海幾家人上樓`
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + assistant
+
+## D-039 2026-05-05 - Reject further T1 repairs after X20 to X23 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X20-X23` continuation
+- Why: `X20` preserves the same `趙州 / 曾有人問我直得五年分疏不下` frame in a fresh later `提綱錄` branch, `X21` was opened as a plausible fresh `教外別傳` branch but did not surface a materially overlapping `T1-p012` quotation band, `X22` preserves only the shorter quotation-level `或是或非人不識逆行順行天莫測` band in a fresh later compilation branch, and `X23` preserves `一片月生海幾家人上樓` in a fresh later lamp-history branch, but all helpful overlap remains phrase- or context-level only; the local `T1` image still does not isolate full safe line readings at those loci, and no materially fresher productive branch surfaced beyond `X23`
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with `X20`, `X21`, `X22`, and `X23`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-036 2026-05-05 - Continue beyond the logged X15 frontier under the same overnight authorization and open X16 to X19
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X14/X15` frontier by opening `X16 = 靈瑞尼祖揆符禪師妙湛錄卷第五` and `X17 = 三宜盂禪師語錄卷七` for the damaged `T1-p007` `趙州 / 五年分疏不下 / 纔有語言是揀擇` cluster, `X18 = 普菴印肅禪師語錄卷二` for the later adaptive `證道歌` preservation behind `T1-p012.l02`, and `X19 = 佛果克勤禪師心要卷四` for the fresh same-attributed doctrinal branch behind the `T1-p029.l06 / T1-p030.l08` `淨躶躶 / 轉捨轉明轉遠轉近` prose band
+- Why: the user explicitly authorized the overnight hunt to keep broadening across plausible external branches rather than stopping at the logged `X15` frontier, and these were the strongest still-plausible fresh later `趙州` commentary-preservation, adaptive `證道歌`, and fresh `圜悟/佛果` doctrinal-source branches that materially overlapped the exact remaining loci without merely reopening already exhausted `X1-X15`
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout workbench surfaces, and fresh exact search hits for `曾有人問老僧直得五年分疏不下`, `纔有語言是揀擇`, `或是或非人不識逆行順行天莫測`, `一片月生海幾家人上樓`, and `轉捨轉明轉遠轉近`
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + assistant
+
+## D-037 2026-05-05 - Reject further T1 repairs after X16 to X19 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X16-X19` continuation
+- Why: `X16` and `X17` preserve the same `趙州 / 五年分疏不下` and `纔有語言是揀擇` exchange family from fresh later `頌古` and `拈古` branches, `X18` preserves the same `證道歌` band in a fresh later adaptive yulu branch, and `X19` preserves the same `淨躶躶 / 轉捨轉明轉遠轉近 / 斷却命去` doctrinal cadence in a fresh same-attributed text branch, but all four remain phrase- or context-level corroboration only; the local `T1` image still does not isolate full safe line readings at those loci, and the broader overnight corroborative hunt does not surface a fresher productive branch beyond `X19`
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with `X16`, `X17`, `X18`, and `X19`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-034 2026-05-05 - Continue beyond the logged X13 frontier under the same overnight authorization and open X14 and X15
 
 - Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X12/X13` frontier by opening `X14 = 虛堂和尚語錄` for the damaged `T1-p007` `趙州 / 五年分疏不下` cluster and `X15 = 建康普説十三章` for the later doctrinal-quotation preservation of the `T1-p029.l06` and `T1-p030.l08` `尊貴 / 一片月生海` prose band

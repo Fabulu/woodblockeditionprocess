@@ -9520,6 +9520,148 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X13_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-269",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X15 frontier under the same overnight authorization and logged X16 to X19",
+      "summary": "The broader overnight hunt still did not stop at the X14/X15 frontier. Four further fresh exception branches were opened and logged for the same remaining eight holdouts: X16 = 靈瑞尼祖揆符禪師妙湛錄卷第五 and X17 = 三宜盂禪師語錄卷七 for fresh later 頌古 / 拈古 preservation of the damaged T1-p007 趙州 cluster, X18 = 普菴印肅禪師語錄卷二 for a fresh later adaptive 證道歌 branch behind T1-p012.l02, and X19 = 佛果克勤禪師心要卷四 for a fresh same-attributed doctrinal branch behind the T1-p029.l06 / T1-p030.l08 淨躶躶 / 轉捨轉明轉遠轉近 prose band.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J35nB338_005",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J27nB189_007",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X69n1356_002",
+        "https://tripitaka.cbeta.org/X69n1357_004"
+      ],
+      "decision_ref": "D-036",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X15_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X13_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-270",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight continuation on the remaining eight holdouts without further T1 text changes after X16 to X19",
+      "summary": "X16 and X17 broadened the T1-p007 wall to fresh later 頌古 and 拈古 preservation, X18 broadened the T1-p012 wall to a fresh adaptive 證道歌 yulu branch, and X19 broadened the T1-p029/T1-p030 wall to a fresh same-attributed 佛果 doctrinal branch preserving 淨躶躶 and 轉捨轉明轉遠轉近 ... 斷却命去. None of those branches lifted the local T1 image above repair threshold, and no materially fresher productive branch surfaced beyond X19, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X19.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-a-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p012/T1-p012-cluster-b-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/T1-p029-l06-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide-rot90-mirror-hi.png",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J35nB338_005",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J27nB189_007",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X69n1356_002",
+        "https://tripitaka.cbeta.org/X69n1357_004"
+      ],
+      "decision_ref": "D-037",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X15_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X15_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-271",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X19 frontier under the same overnight authorization and logged X20 to X23",
+      "summary": "The broader overnight hunt still did not stop at the X16-X19 frontier. Four further fresh exception branches were opened and logged for the same remaining eight holdouts: X20 = 列祖提綱錄 for a fresh later 提綱錄 preservation of the damaged T1-p007 趙州 / 五年分疏不下 cluster, X21 = 教外別傳 as a fresh outward branch tested against T1-p012.l02, X22 = 象教皮編 for a later quotation-compilation check on the same T1-p012 band, and X23 = 五燈全書/卷第九十二 for a fresh later lamp-history preservation of 一片月生海幾家人上樓 behind T1-p030.l08.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/edition/J/KR6q0151/036",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X84n1580_004",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=B17n0093_004",
+        "https://zh.wikisource.org/zh-hant/五燈全書/卷第九十二"
+      ],
+      "decision_ref": "D-038",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X19_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X15_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-272",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight continuation on the remaining eight holdouts without further T1 text changes after X20 to X23",
+      "summary": "X20 broadened the T1-p007 wall to a fresh later 提綱錄 branch, X21 was opened but proved cold on the present T1-p012 line, X22 preserved only the shorter 或是或非人不識逆行順行天莫測 quotation band in a fresh later compilation branch, and X23 preserved 一片月生海幾家人上樓 in a fresh later lamp-history branch. None of those branches lifted the local T1 image above repair threshold, and no materially fresher productive branch surfaced beyond X23, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X23.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-a-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p012/T1-p012-cluster-b-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/T1-p029-l06-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide-rot90-mirror-hi.png",
+        "https://www.kanripo.org/edition/J/KR6q0151/036",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X84n1580_004",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=B17n0093_004",
+        "https://zh.wikisource.org/zh-hant/五燈全書/卷第九十二"
+      ],
+      "decision_ref": "D-039",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X19_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X19_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }
