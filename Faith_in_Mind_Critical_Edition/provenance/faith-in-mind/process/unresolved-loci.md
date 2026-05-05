@@ -1,6 +1,6 @@
 ﻿# Unresolved Loci: Faith in Mind
 
-Date: 2026-05-05
+Date: 2026-05-06
 Status: active
 
 ## Open loci
@@ -96,5 +96,7 @@ Status: active
 - renewed outward sweeps for `T1-p029.l06` after `X33/X35` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material and did not produce a genuinely fresh corroborative branch.
 - the logged `X35` stop was then pushed farther rather than being treated as terminal by itself. Three further fresh exception branches were opened and logged: `X36 = 白雲守端禪師語錄 第2卷` for the damaged `T1-p007` `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` cluster, `X37 = 為霖禪師旅泊菴稿 卷第四` for the preserved `證道歌` quotation band behind `T1-p012.l02`, and `X38 = 佛國禪師語錄` for the fresh yulu preservation of `一片月生海幾家人上樓` behind `T1-p030.l08`.
 - `X36` sharpens the `T1-p007` wall to a fresh `白雲` yulu branch, `X37` sharpens the `T1-p012` wall to a fresh later sermonic branch preserving the whole quoted couplet, and `X38` sharpens the `T1-p030` wall only at tail-phrase level through a fresh yulu branch, but none of those branches lifts the local `T1` image above repair threshold.
-- renewed outward sweeps for `T1-p029.l06` after `X36/X38` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material and did not produce a genuinely fresh corroborative branch.
-- on the present broader basis the overnight unconstrained corroborative hunt for the remaining holdouts is now again genuinely exhausted across the plausibly productive branches opened through `X38`. The live unresolved queue remains the same eight loci: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`.
+- the logged `X38` stop was then pushed farther rather than being treated as terminal by itself. Six further fresh exception branches were opened and logged: `X39 = 禪宗正脉`, `X40 = 續燈正統`, and `X41 = 續燈存稿` for the damaged `T1-p007` `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` wall, `X42 = 湛然圓澄禪師語錄` for the `T1-p012.l02` quotation band, and `X43 = 愚菴智及禪師語錄` plus `X44 = 淮海原肇禪師語錄` for fresh yulu preservation of `一片月生海幾家人上樓` behind `T1-p030.l08`.
+- `X39` sharpens the `T1-p007` wall to a fresh later exact-preservation branch, `X40` and `X41` broaden that same wall through later lamp-history continuations, `X42` broadens the `T1-p012` wall through a fresh later discussion branch, and `X43` plus `X44` broaden the `T1-p030` wall through fresh yulu branches, but none of those branches lifts the local `T1` image above repair threshold.
+- renewed outward sweeps for `T1-p029.l06` after `X39-X44` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material and did not produce a genuinely fresh corroborative branch.
+- on the present broader basis the overnight unconstrained corroborative hunt for the remaining holdouts is now again genuinely exhausted across the plausibly productive branches opened through `X44`. The live unresolved queue remains the same eight loci: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`.

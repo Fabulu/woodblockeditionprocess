@@ -10003,6 +10003,83 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X38_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-283",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X38 frontier under the same overnight authorization and logged X39 to X44",
+      "summary": "The broader overnight hunt still did not stop at the X36-X38 frontier. Six further fresh exception branches were opened and logged for the same remaining eight holdouts: X39 = 禪宗正脉 for a fresh later exact-preservation branch of the damaged T1-p007 趙州 / 曾有人問我直得五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語 wall, X40 = 續燈正統 and X41 = 續燈存稿 for fresh later lamp-history continuations of that same T1-p007 wall, X42 = 湛然圓澄禪師語錄 for a fresh later discussion-branch preservation of 吾早曾經多劫脩不是等閒相誑惑 behind T1-p012.l02, and X43 = 愚菴智及禪師語錄 plus X44 = 淮海原肇禪師語錄 for fresh yulu preservation of 一片月生海幾家人上樓 behind T1-p030.l08.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X85n1593_002",
+        "https://www.shidianguji.com/zh/book/JS2110/chapter/1jjbqr5jk6l1l",
+        "https://www.shidianguji.com/zh/book/JS2177/chapter/1jjbocfm06zae",
+        "https://tripitaka.cbeta.org/X72n1444_008",
+        "https://www.kanripo.org/text/KR6q0374/008",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X71n1421_002",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X69n1370_001"
+      ],
+      "decision_ref": "D-050",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X44_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X38_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-284",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight continuation on the remaining eight holdouts without further T1 text changes after X39 to X44",
+      "summary": "X39 sharpened the T1-p007 wall by preserving both 曾有人問我老僧直得五年分疏不下 and 何不引盡此語 in a fresh later exact-preservation branch, X40 and X41 broadened that same wall through fresh later lamp-history continuations, X42 sharpened the T1-p012 wall to a fresh later discussion branch preserving 吾早曾經多劫脩不是等閒相誑惑, and X43 plus X44 sharpened the T1-p030 wall only at tail-phrase level by preserving 一片月生海幾家人上樓 in fresh yulu branches. None of those branches lifted the local T1 image above repair threshold, renewed outward searching on T1-p029.l06 returned only already opened family material, and no materially fresher productive branch surfaced beyond X44, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X44.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-a-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p012/T1-p012-cluster-b-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/T1-p029-l06-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide-rot90-mirror-hi.png",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X85n1593_002",
+        "https://www.shidianguji.com/zh/book/JS2110/chapter/1jjbqr5jk6l1l",
+        "https://www.shidianguji.com/zh/book/JS2177/chapter/1jjbocfm06zae",
+        "https://tripitaka.cbeta.org/X72n1444_008",
+        "https://www.kanripo.org/text/KR6q0374/008",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X71n1421_002",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X69n1370_001"
+      ],
+      "decision_ref": "D-051",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X44_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X44_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

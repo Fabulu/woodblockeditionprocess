@@ -496,3 +496,45 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh yulu preservation of `一片月生海幾家人上樓`
 - Role: fresh yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X39
+
+- Witness: `禪宗正脉`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later exact-preservation of both `曾有人問我老僧直得五年分疏不下` and `何不引盡此語` behind the damaged local cluster
+- Role: fresh later exact-preservation corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X40
+
+- Witness: `續燈正統`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later lamp-history continuation of the `趙州五年分疏不下` frame
+- Role: fresh later lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X41
+
+- Witness: `續燈存稿`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later lamp-history continuation of the `趙州五年分疏不下` frame
+- Role: fresh later lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X42
+
+- Witness: `湛然圓澄禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later discussion-preservation of `吾早曾經多劫脩不是等閒相誑惑`
+- Role: fresh later discussion-branch corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X43
+
+- Witness: `愚菴智及禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh yulu preservation of `一片月生海幾家人上樓`
+- Role: fresh yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X44
+
+- Witness: `淮海原肇禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh yulu preservation of `一片月生海幾家人上樓`
+- Role: fresh yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness

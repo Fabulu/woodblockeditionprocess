@@ -730,3 +730,64 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against T1-p030.l08 only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X33-X35 frontier; not promoted into the normal witness queue
+
+## X39
+
+- Witness: 禪宗正脉
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X85n1593_002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X36-X38 frontier; not promoted into the normal witness queue
+
+## X40
+
+- Witness: 續燈正統
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.shidianguji.com/zh/book/JS2110/chapter/1jjbqr5jk6l1l
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X36-X38 frontier; not promoted into the normal witness queue
+
+## X41
+
+- Witness: 續燈存稿
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.shidianguji.com/zh/book/JS2177/chapter/1jjbocfm06zae
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X36-X38 frontier; not promoted into the normal witness queue
+
+## X42
+
+- Witness: 湛然圓澄禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/X72n1444_008
+- Source page: https://www.kanripo.org/text/KR6q0374/008
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X36-X38 frontier; not promoted into the normal witness queue
+
+## X43
+
+- Witness: 愚菴智及禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X71n1421_002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p030.l08 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X36-X38 frontier; not promoted into the normal witness queue
+
+## X44
+
+- Witness: 淮海原肇禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X69n1370_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p030.l08 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X36-X38 frontier; not promoted into the normal witness queue
