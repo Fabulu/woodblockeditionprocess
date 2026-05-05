@@ -913,3 +913,13 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against T1-p012.l02 only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X55 frontier; not promoted into the normal witness queue
+
+## X57
+
+- Witness: 歷代史纂左編卷第一百三十七
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.shidianguji.com/zh/book/CADAL02049607/chapter/1l87rz6l3q1bq
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X56 frontier; not promoted into the normal witness queue

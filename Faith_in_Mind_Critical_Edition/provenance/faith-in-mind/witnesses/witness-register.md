@@ -622,3 +622,10 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh `竺原禪師註` preservation of the whole `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑` quotation band
 - Role: fresh `證道歌` commentary corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X57
+
+- Witness: `歷代史纂左編卷第一百三十七`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later historical-compilation preservation of the `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` wall
+- Role: fresh later historical-compilation corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness

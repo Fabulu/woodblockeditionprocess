@@ -10477,6 +10477,67 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X56_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-297",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X56 frontier after renewed broader outward checking and logged X57",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X56. A renewed broader pass surfaced one genuinely fresh T1-p007 historical-compilation branch that had not yet been recorded in the package state: X57 = 歷代史纂左編卷第一百三十七, preserving both the `趙州 / 曾有人問我。老僧直得五年分疏不下` frame and the paired `纔有語言是揀擇 / 何不引盡此語` exchange.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.shidianguji.com/zh/book/CADAL02049607/chapter/1l87rz6l3q1bq",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-a-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-a-rot90-mirror-hi.png"
+      ],
+      "decision_ref": "D-064",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X57_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X56_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-298",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight continuation on the remaining eight holdouts without further T1 text changes after X57",
+      "summary": "X57 broadens the T1-p007 wall to a fresh later historical-compilation branch, but the local T1-p007 upper and lower spillover still does not separate enough to support safe line-level repair at T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, or T1-p007.l12. Renewed outward checking on T1-p012.l02, T1-p029.l06, and T1-p030.l08 again collapsed into already opened families rather than a further genuine fresh branch, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X57.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-a-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-a-rot90-mirror-hi.png",
+        "https://www.shidianguji.com/zh/book/CADAL02049607/chapter/1l87rz6l3q1bq"
+      ],
+      "decision_ref": "D-065",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X57_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X57_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

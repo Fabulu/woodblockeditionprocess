@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-065 2026-05-06 - Reject further T1 repairs after X57 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X57` continuation
+- Why: `X57` broadens the `T1-p007` wall to a fresh later historical-compilation branch through `歷代史纂左編卷第一百三十七`, and it does preserve both the `趙州 / 曾有人問我。老僧直得五年分疏不下` frame and the paired `纔有語言是揀擇 / 何不引盡此語` exchange. That makes it a genuine post-`X56` witness rather than a duplicate access path or already logged source. Even so, direct reinspection of the saved `T1-p007` holdout crops still does not isolate safe local line readings for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, or `T1-p007.l12`. Renewed outward checking on the other surviving walls again collapsed into already opened `證道歌` quotation, anthology, and commentary material for `T1-p012.l02`, already opened `真歇 / 建康普説 / 佛果 / 宗範` material for `T1-p029.l06`, and already opened exact-tail `poem-tail / yulu / lamp-history / doctrinal` material for `T1-p030.l08`. So the broader overnight hunt does move beyond the earlier `X56` claim, but not above the local repair threshold at any of the eight remaining loci
+- Evidence: the local `T1` page image and saved OCR surfaces for `T1-p007`, the saved holdout workbench crops for the upper and lower `T1-p007` clusters, `X57 = 歷代史纂左編卷第一百三十七`, and renewed exact and near-exact corroborative checks across the still-open `T1-p012`, `T1-p029`, and `T1-p030` source families
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-064 2026-05-06 - Continue beyond the logged X56 frontier and open X57 for the still-open T1-p007 wall
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X56` frontier by opening `X57 = 歷代史纂左編卷第一百三十七` for the damaged `T1-p007` cluster only
+- Why: a renewed broader outward pass beyond the already logged `X56` exhaustion did surface one genuinely fresh source that survives de-duplication: `歷代史纂左編卷第一百三十七`, a later historical-compilation branch preserving both the `趙州 / 曾有人問我。老僧直得五年分疏不下` frame and the paired `纔有語言是揀擇 / 何不引盡此語` exchange. This work had not yet been opened or logged anywhere in the package state, and it does not collapse into the already recorded direct `趙州`, `雪竇`, `碧巖`, lamp-history, or `頌古 / 拈古` branches already carried by `X8`, `X16`, `X20`, `X24`, `X28`, `X31`, `X33`, `X39`, `X40`, `X41`, `X45`, or `X50`. Competing fresh-looking leads on the other surviving loci did not survive the same screen and reduced to already logged `證道歌`, `真歇 / 建康普説 / 佛果 / 宗範`, or exact-tail `poem-tail / yulu / lamp-history / doctrinal` families
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007` holdout workbench surfaces, and the fresh external overlap in `https://www.shidianguji.com/zh/book/CADAL02049607/chapter/1l87rz6l3q1bq` preserving the exact `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` cluster
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-063 2026-05-06 - Reject further T1 repairs after X56 and re-close the overnight hunt on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X56` continuation

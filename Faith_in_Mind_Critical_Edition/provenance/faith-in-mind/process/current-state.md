@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X56_remaining_8`
+- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X57_remaining_8`
 
 ## What is already done
 
@@ -519,3 +519,6 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - that logged no-`X56` verification stop was then pushed farther rather than being treated as terminal by itself after one renewed broader outward pass surfaced a genuinely fresh `證道歌` commentary branch.
 - `X56` broadens the `T1-p012` evidence to a fresh `證道歌` commentary branch through `證道歌註` (`X65n1293`), which preserves the whole `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑` band, but the local `T1-p012.l02` image still does not isolate a full safe line and the other surviving outward candidates again collapsed into already opened `雪竇`, `真歇 / 建康普説 / 佛果 / 宗範`, or `poem-tail / yulu / lamp-history / doctrinal` families rather than a further genuine fresh branch.
 - on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X56`, not merely paused at one source family or one repository.
+- that logged beyond-`X56` stop was then pushed farther rather than being treated as terminal by itself after one renewed broader outward pass surfaced a genuinely fresh later historical-compilation branch for the still-open `T1-p007` wall.
+- `X57` broadens the `T1-p007` evidence to a fresh later historical-compilation branch through `歷代史纂左編卷第一百三十七`, which preserves both the `趙州 / 曾有人問我。老僧直得五年分疏不下` frame and the paired `纔有語言是揀擇 / 何不引盡此語` exchange behind the damaged local cluster, but the local `T1-p007` upper and lower spillover still do not separate enough for line-level repair and the other surviving outward candidates again collapsed into already opened `證道歌`, `真歇 / 建康普説 / 佛果 / 宗範`, or exact-tail `poem-tail / yulu / lamp-history / doctrinal` families rather than a further genuine fresh branch.
+- on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X57`, not merely paused at one source family or one repository.
