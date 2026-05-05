@@ -559,3 +559,31 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later lamp-history preservation of `一片月生海幾家人上樓`
 - Role: fresh later lamp-history corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X48
+
+- Witness: `靈巖妙空和尚註證道歌`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh `證道歌` commentary preservation of the exact `吾早曾經多劫修不是等閒相誑惑` line behind the still-damaged local quotation band
+- Role: fresh `證道歌` commentary corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X49
+
+- Witness: `萬如禪師語錄 第6卷`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, opened as a plausible fresh later yulu branch for the shorter `或是或非人不識 / 逆行順行天莫測` quotation band
+- Role: opened and checked as a fresh later yulu branch for the remaining `T1-p012` holdout, but it did not yield a materially fuller or closer overlap than the already logged shorter quotation-family evidence
+
+### X50
+
+- Witness: `續指月錄 第1卷`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later lamp-history continuation of the `趙州 / 曾有人問我。老僧直得五年分疏不下` frame
+- Role: fresh later lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X51
+
+- Witness: `如來香 第13卷`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later doctrinal preservation of `一片月生海幾家人上樓`
+- Role: fresh later doctrinal corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness

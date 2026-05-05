@@ -10151,6 +10151,78 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X47_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-287",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X47 frontier under the same overnight authorization and logged X48 to X51",
+      "summary": "The broader overnight hunt still did not stop at the X45-X47 frontier. Four further fresh exception branches were opened and logged for the same remaining eight holdouts: X48 = 靈巖妙空和尚註證道歌 for a fresh 證道歌 commentary preservation of the exact 吾早曾經多劫修不是等閒相誑惑 band behind T1-p012.l02, X49 = 萬如禪師語錄 第6卷 as a fresh later yulu branch tested against the shorter 或是或非人不識 / 逆行順行天莫測 band at the same T1-p012 locus, X50 = 續指月錄 第1卷 for a fresh later lamp-history continuation of the damaged T1-p007 趙州 / 五年分疏不下 cluster, and X51 = 如來香 第13卷 for a fresh later doctrinal preservation of 一片月生海幾家人上樓 behind T1-p030.l08.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/en/X65n1292_001",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X65n1292_001",
+        "https://tripitaka.cbeta.org/en/J26nB182_006",
+        "https://tripitaka.cbeta.org/X84n1579_001",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=D52n8951_013"
+      ],
+      "decision_ref": "D-054",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X51_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X47_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-288",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight continuation on the remaining eight holdouts without further T1 text changes after X48 to X51",
+      "summary": "X48 sharpened the T1-p012 wall to a fresh 證道歌 commentary branch preserving the exact 吾早曾經多劫修不是等閒相誑惑 line, X49 was opened as a plausible fresh later yulu branch for the same T1-p012 quotation family but did not yield a materially fuller or closer overlap than the already logged shorter quotation-level evidence, X50 broadened the T1-p007 wall to a fresh later lamp-history branch preserving the same 曾有人問我老僧直得五年分疏不下 frame, and X51 broadened the T1-p030 wall only at tail-phrase level through a fresh later doctrinal branch preserving 一片月生海幾家人上樓. None of those branches lifted the local T1 image above repair threshold, renewed outward searching on T1-p029.l06 returned only already opened family material, and no materially fresher productive branch surfaced beyond X51, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X51.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-a-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p012/T1-p012-cluster-b-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/T1-p029-l06-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide-rot90-mirror-hi.png",
+        "https://tripitaka.cbeta.org/en/X65n1292_001",
+        "https://tripitaka.cbeta.org/en/J26nB182_006",
+        "https://tripitaka.cbeta.org/X84n1579_001",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=D52n8951_013"
+      ],
+      "decision_ref": "D-055",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X51_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X51_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

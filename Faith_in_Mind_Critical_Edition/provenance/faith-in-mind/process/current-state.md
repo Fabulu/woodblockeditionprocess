@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X47_remaining_8`
+- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X51_remaining_8`
 
 ## What is already done
 
@@ -504,4 +504,7 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - that logged `X44` stop was then pushed farther rather than being treated as terminal by itself. Three further fresh exception branches were opened and logged: `X45 = 五燈嚴統/卷第四` for the damaged `T1-p007` `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` wall, `X46 = 大佛頂首楞嚴經正脉懸示 第1卷` for the `T1-p012.l02` `證道歌` quotation band, and `X47 = 續傳燈錄/卷第二十二` for a fresh later lamp-history preservation of `一片月生海幾家人上樓` behind `T1-p030.l08`.
 - `X45` sharpens the `T1-p007` wall to a fresh later lamp-history branch preserving both `曾有人問我。老僧直得五年分疏不下` and `何不引盡此語`, `X46` broadens the `T1-p012` wall through a fresh `楞嚴` commentary branch preserving `吾早曾經多劫修不是等閒相誑惑`, and `X47` broadens the `T1-p030` wall through a fresh `續傳燈錄` branch preserving `一片月生海幾家人上樓`; but none of those branches lifts the local `T1` image above repair threshold.
 - renewed outward sweeps for `T1-p029.l06` after `X45-X47` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material and did not produce a genuinely fresh corroborative branch.
-- on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X47`, not merely paused at one source family or one repository.
+- that logged `X47` stop was then pushed farther rather than being treated as terminal by itself. Four further fresh exception branches were opened and logged: `X48 = 靈巖妙空和尚註證道歌` for the still-open `T1-p012.l02` `證道歌` quotation band, `X49 = 萬如禪師語錄 第6卷` as a fresh later yulu branch tested against the shorter `或是或非人不識 / 逆行順行天莫測` band at the same `T1-p012` locus, `X50 = 續指月錄 第1卷` for the damaged `T1-p007` `趙州 / 五年分疏不下` cluster, and `X51 = 如來香 第13卷` for a fresh later doctrinal preservation of `一片月生海幾家人上樓` behind `T1-p030.l08`.
+- `X48` sharpens the `T1-p012` wall to a fresh `證道歌` commentary branch preserving the exact `吾早曾經多劫修不是等閒相誑惑` line, `X49` was opened as a plausible fresh later yulu branch for the same `T1-p012` quotation family but did not yield a materially fuller or closer overlap than the already logged shorter quotation-level evidence, `X50` broadens the `T1-p007` wall through a fresh later lamp-history continuation preserving the same `曾有人問我。老僧直得五年分疏不下` frame, and `X51` broadens the `T1-p030` wall only at tail-phrase level through a fresh later doctrinal branch preserving `一片月生海幾家人上樓`; but none of those branches lifts the local `T1` image above repair threshold.
+- renewed outward sweeps for `T1-p029.l06` after `X48-X51` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material and did not produce a genuinely fresh corroborative branch.
+- on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X51`, not merely paused at one source family or one repository.

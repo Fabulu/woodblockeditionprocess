@@ -822,3 +822,44 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against T1-p030.l08 only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X44 frontier; not promoted into the normal witness queue
+
+## X48
+
+- Witness: 靈巖妙空和尚註證道歌
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/en/X65n1292_001
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X65n1292_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X47 frontier; not promoted into the normal witness queue
+
+## X49
+
+- Witness: 萬如禪師語錄 第6卷
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/en/J26nB182_006
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: opened and checked as a plausible fresh later yulu branch for T1-p012.l02, but it did not surface a materially fuller or closer overlap than the already logged shorter quotation-family evidence
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X47 frontier; not promoted into the normal witness queue
+
+## X50
+
+- Witness: 續指月錄 第1卷
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/X84n1579_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X47 frontier; not promoted into the normal witness queue
+
+## X51
+
+- Witness: 如來香 第13卷
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=D52n8951_013
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p030.l08 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X47 frontier; not promoted into the normal witness queue

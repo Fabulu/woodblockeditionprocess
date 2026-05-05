@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X47_remaining_8",
+      "slug": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X51_remaining_8",
       "witnesses": [
         "T1",
         "T4",
@@ -141,7 +141,11 @@
         "X44",
         "X45",
         "X46",
-        "X47"
+        "X47",
+        "X48",
+        "X49",
+        "X50",
+        "X51"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -194,9 +198,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X47_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X51_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X47_exhaustion_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X51_exhaustion_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -208,6 +212,6 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The stronger direct-image-separation continuation was followed first by a bounded corroborative-evidence exception on the former 12-holdout queue using KR6q0359, then by the fresh bounded X2 source-set pass for the remaining nine holdouts, then by the human-authorized broader corroborative roam using X3 = 圓悟佛果禪師語錄 and X4 = 碧巖錄/卷第六, then by three further fresh exception branches X5 = 真歇清了禪師語錄, X6 = 永嘉真覺大師證道歌, and X7 = 佛祖正傳古今捷錄/卷第六, then by the explicit overnight unconstrained continuation using X8 = the direct 趙州 source-family set and X9 = the broader 證道歌 quotation-family set, then by the fresh explicit continuation beyond that logged frontier using X10 = the 宏智 / 聯珠 / 宗鑑 case-compilation set and X11 = the 聯燈會要 / 禪門諸祖師偈頌 anthology-preservation set, then by one broader continuation farther still using X12 = 禪林類聚/卷第五 and X13 = 佛祖綱目/卷第三十, then by one further broader continuation using X14 = 虛堂和尚語錄 and X15 = 建康普説十三章, then by one more broader continuation using X16 = 靈瑞尼祖揆符禪師妙湛錄卷第五, X17 = 三宜盂禪師語錄卷七, X18 = 普菴印肅禪師語錄卷二, and X19 = 佛果克勤禪師心要卷四, then by one farther outward continuation using X20 = 列祖提綱錄, X21 = 教外別傳, X22 = 象教皮編, and X23 = 五燈全書/卷第九十二, then by one farther outward continuation using X24 = 雪竇顯和尚明覺大師頌古集, X25 = 大慧普覺禪師語錄, X26 = 保寧仁勇禪師語錄, and X27 = 御選語錄, then by one farther outward continuation using X28 = 焭絕老人天奇直註雪竇顯和尚頌古 第2卷, X29 = 祖堂集 第12卷, and X30 = 宗範 (卷上), then by one still farther fresh continuation using X31 = 佛果圓悟禪師碧巖集種電鈔 and X32 = 南明泉和尚頌證道歌事實卷第三, then by one broader continuation using X33 = 雪竇四集（祖英集）, X34 = 阿彌陀經疏鈔演義, and X35 = 全唐詩/卷796, then by one broader continuation using X36 = 白雲守端禪師語錄 第2卷, X37 = 為霖禪師旅泊菴稿 卷第四, and X38 = 佛國禪師語錄, then by one farther fresh continuation using X39 = 禪宗正脉, X40 = 續燈正統, X41 = 續燈存稿, X42 = 湛然圓澄禪師語錄, X43 = 愚菴智及禪師語錄, and X44 = 淮海原肇禪師語錄, and then by one farther fresh continuation using X45 = 五燈嚴統/卷第四, X46 = 大佛頂首楞嚴經正脉懸示 第1卷, and X47 = 續傳燈錄/卷第二十二. Only one further safe T1 text change emerged in that whole broader continuation: T1-p029.l02 = 法見一切見解淨淨掃却這裏淨躶躶赤洒洒. The remaining unresolved loci are now T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08. On the present broader basis, the overnight unconstrained corroborative hunt for those remaining holdouts is now genuinely exhausted through X47; do not force a T1 text change at those loci without genuinely cleaner image evidence or explicit new human direction."
+    "next_required_action": "The stronger direct-image-separation continuation was followed first by a bounded corroborative-evidence exception on the former 12-holdout queue using KR6q0359, then by the fresh bounded X2 source-set pass for the remaining nine holdouts, then by the human-authorized broader corroborative roam using X3 = 圓悟佛果禪師語錄 and X4 = 碧巖錄/卷第六, then by three further fresh exception branches X5 = 真歇清了禪師語錄, X6 = 永嘉真覺大師證道歌, and X7 = 佛祖正傳古今捷錄/卷第六, then by the explicit overnight unconstrained continuation using X8 = the direct 趙州 source-family set and X9 = the broader 證道歌 quotation-family set, then by the fresh explicit continuation beyond that logged frontier using X10 = the 宏智 / 聯珠 / 宗鑑 case-compilation set and X11 = the 聯燈會要 / 禪門諸祖師偈頌 anthology-preservation set, then by one broader continuation farther still using X12 = 禪林類聚/卷第五 and X13 = 佛祖綱目/卷第三十, then by one further broader continuation using X14 = 虛堂和尚語錄 and X15 = 建康普説十三章, then by one more broader continuation using X16 = 靈瑞尼祖揆符禪師妙湛錄卷第五, X17 = 三宜盂禪師語錄卷七, X18 = 普菴印肅禪師語錄卷二, and X19 = 佛果克勤禪師心要卷四, then by one farther outward continuation using X20 = 列祖提綱錄, X21 = 教外別傳, X22 = 象教皮編, and X23 = 五燈全書/卷第九十二, then by one farther outward continuation using X24 = 雪竇顯和尚明覺大師頌古集, X25 = 大慧普覺禪師語錄, X26 = 保寧仁勇禪師語錄, and X27 = 御選語錄, then by one farther outward continuation using X28 = 焭絕老人天奇直註雪竇顯和尚頌古 第2卷, X29 = 祖堂集 第12卷, and X30 = 宗範 (卷上), then by one still farther fresh continuation using X31 = 佛果圓悟禪師碧巖集種電鈔 and X32 = 南明泉和尚頌證道歌事實卷第三, then by one broader continuation using X33 = 雪竇四集（祖英集）, X34 = 阿彌陀經疏鈔演義, and X35 = 全唐詩/卷796, then by one broader continuation using X36 = 白雲守端禪師語錄 第2卷, X37 = 為霖禪師旅泊菴稿 卷第四, and X38 = 佛國禪師語錄, then by one farther fresh continuation using X39 = 禪宗正脉, X40 = 續燈正統, X41 = 續燈存稿, X42 = 湛然圓澄禪師語錄, X43 = 愚菴智及禪師語錄, and X44 = 淮海原肇禪師語錄, then by one farther fresh continuation using X45 = 五燈嚴統/卷第四, X46 = 大佛頂首楞嚴經正脉懸示 第1卷, and X47 = 續傳燈錄/卷第二十二, and then by one farther fresh continuation using X48 = 靈巖妙空和尚註證道歌, X49 = 萬如禪師語錄 第6卷, X50 = 續指月錄 第1卷, and X51 = 如來香 第13卷. Only one further safe T1 text change emerged in that whole broader continuation: T1-p029.l02 = 法見一切見解淨淨掃却這裏淨躶躶赤洒洒. The remaining unresolved loci are now T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08. On the present broader basis, the overnight unconstrained corroborative hunt for those remaining holdouts is now genuinely exhausted through X51; do not force a T1 text change at those loci without genuinely cleaner image evidence or explicit new human direction."
   }
 }
