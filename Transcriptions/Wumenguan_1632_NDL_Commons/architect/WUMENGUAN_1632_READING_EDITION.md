@@ -511,6 +511,7 @@
 
 ### 14. 南泉斬猫
 
+> Three-witness complete assembly. `公案` and `無門曰` remain base-witness-led; `頌` is supplied from the corroborant witness set. The reversed middle pair in `無門曰` is kept as the base-witness reading rather than harmonized to the supplied verse order.
 
 #### 公案
 
@@ -717,6 +718,8 @@
 
 ### 21. 雲門屎橛
 
+> Opening formula note: the `如何是佛 / 乾屎橛` exchange is secure; the opener is kept as the current reading-edition form but is less secure than the answer line.
+
 #### 公案
 
 僧問雲門：如何是佛。  
@@ -736,6 +739,8 @@
 已蹉過。
 
 ### 22. 迦葉刹竿
+
+> Conservative opening note: the shorter `阿難問迦葉云：世尊傳金襴外，別傳何物。` opening is kept as the local witness reading and is not expanded from weaker continuation text.
 
 #### 公案
 
@@ -790,10 +795,12 @@
 
 ### 24. 離卻語言
 
+> Incomplete case status: the opening koan is secure; commentary and verse are assembled as recovered. The `穴云：長憶江南三月裏，鷓鴣啼處百花香。` response is kept in the koan rather than carried into the verse.
 
 #### 公案
 
-風穴和尚因僧問：語默涉離微，如何通不犯。
+風穴和尚因僧問：語默涉離微，如何通不犯。  
+穴云：長憶江南三月裏，鷓鴣啼處百花香。
 
 #### 無門曰
 
@@ -806,9 +813,7 @@
 不露風骨句，  
 未語先分付。  
 進步口喃喃，  
-知君大罨缿。  
-長憶江南三月裏，  
-鷓鴣啼處百花香。
+知君大罨缿。
 
 ### 25. 三座說法
 
