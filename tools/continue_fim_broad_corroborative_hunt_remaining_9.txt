@@ -1,0 +1,121 @@
+Continue the Faith in Mind critical-edition workflow from the current package state under an explicit human-authorized broad corroborative hunt for the remaining 9 unresolved holdouts.
+
+Why this phase is allowed:
+- The in-package queue is exhausted.
+- The stronger direct-image-separation phase is exhausted.
+- Two bounded corroborative exception phases are already exhausted.
+- The human operator has explicitly authorized a broader corroborative hunt and wants the runner to keep trying sources for a long unattended work window.
+- This broad hunt is still limited by task: it is only for the remaining 9 unresolved loci, not for unrelated editorial expansion.
+
+Mission:
+- Exhaust plausible corroborative-source possibilities for the remaining 9 unresolved holdouts.
+- Keep roaming across candidate sources and source traditions without stopping after one source or one witness.
+- Only stop when the broader corroborative hunt for these 9 loci is genuinely exhausted, a gate requires stopping, validation fails unrecoverably, or true user/external input is required.
+
+Work inside:
+- C:\woodblocks\Faith_in_Mind_Critical_Edition
+
+Read first:
+- provenance/faith-in-mind/process/current-state.md
+- provenance/faith-in-mind/process/human-log.md
+- provenance/faith-in-mind/process/process-log.md
+- provenance/faith-in-mind/process/correction-log.md
+- provenance/faith-in-mind/process/ocr-consensus-log.md
+- provenance/faith-in-mind/process/rejected-readings-log.md
+- provenance/faith-in-mind/process/translation-diff-log.md
+- provenance/faith-in-mind/process/translation-reasoning-log.md
+- provenance/faith-in-mind/process/character-provenance-log.md
+- provenance/faith-in-mind/process/unresolved-loci.md
+- provenance/faith-in-mind/process/decision-log.md
+- provenance/faith-in-mind/process/CONTINUATION_GATE.md
+- provenance/faith-in-mind/process/STATUS_REPORT_GATE.md
+- provenance/faith-in-mind/process/OCR_STOP_GATE.md
+- provenance/faith-in-mind/witnesses/witness-register.md
+- provenance/faith-in-mind/witnesses/acquisition-metadata.md
+- xml-open/ce/faith-in-mind/process.json
+- xml-open/ce/faith-in-mind/timeline.json
+
+Already exhausted exception sources:
+- `X1` = `KR6q0359`
+- `X2` = bounded corroborative source set around `五燈會元/卷第四`, NTU/CBETA `楞嚴經`-related text, and `真心直說`
+- Do not treat `X1` or `X2` as fresh sources in this phase.
+
+Remaining target holdouts:
+- T1-p007.l03
+- T1-p007.l04
+- T1-p007.l08
+- T1-p007.l09
+- T1-p007.l12
+- T1-p012.l02
+- T1-p029.l02
+- T1-p029.l06
+- T1-p030.l08
+
+Hunt policy:
+- This is a broad corroborative hunt for these 9 loci only.
+- You may open additional external corroborative sources, witnesses, commentaries, source-tradition texts, or related materials if they are plausibly relevant to these exact loci.
+- Prefer sources that materially overlap the exact lemma, commentary band, doctrinal phrase, or prose sequence at issue.
+- Keep the hunt broad in source selection, but narrow in task focus.
+- Do not drift into unrelated pages, unrelated texts, or unrelated editorial projects.
+
+Source-handling policy:
+- Every genuinely new external source opened in this phase must be logged before or as it is used:
+  - provenance/faith-in-mind/process/decision-log.md
+  - provenance/faith-in-mind/process/human-log.md
+  - provenance/faith-in-mind/process/process-log.md
+  - provenance/faith-in-mind/witnesses/witness-register.md
+  - provenance/faith-in-mind/witnesses/acquisition-metadata.md
+  - xml-open/ce/faith-in-mind/process.json
+  - xml-open/ce/faith-in-mind/timeline.json
+- Assign new bounded exception sigla sequentially after `X2`.
+- Distinguish clearly between:
+  - a source that was opened but did not help,
+  - a source that provided phrase-level corroboration only,
+  - and a source that justified an accepted `T1` repair.
+
+Evidence-use policy:
+- Do not let a new source dictate a `T1` reading beyond what the combined local evidence and corroboration honestly support.
+- Phrase-level or contextual overlap is useful, but not automatically decisive.
+- If a source helps only by rejection or partial confirmation, log that honestly.
+- If a source fails, continue to the next plausible source instead of stopping.
+
+Important stop-language rule:
+- Do not use terminal language such as `phase was exhausted`, `queue exhausted`, or `no further safe T1 text changes` for a single source, a single family of sources, or one local cluster.
+- For local failures, use language like `source exhausted, continuing broader hunt`.
+- Use terminal exhaustion language only when the entire broader corroborative hunt for the remaining 9 loci is genuinely exhausted.
+
+Required log/state surfaces:
+- Always keep aligned:
+  - provenance/faith-in-mind/process/current-state.md
+  - provenance/faith-in-mind/process/unresolved-loci.md
+  - provenance/faith-in-mind/process/process-log.md
+  - provenance/faith-in-mind/process/human-log.md
+  - provenance/faith-in-mind/process/decision-log.md
+  - provenance/faith-in-mind/witnesses/witness-register.md
+  - provenance/faith-in-mind/witnesses/acquisition-metadata.md
+  - xml-open/ce/faith-in-mind/process.json
+  - xml-open/ce/faith-in-mind/timeline.json
+- If a text repair is accepted, also update:
+  - provenance/faith-in-mind/process/correction-log.md
+  - provenance/faith-in-mind/process/ocr-consensus-log.md
+  - provenance/faith-in-mind/process/rejected-readings-log.md where needed
+  - provenance/faith-in-mind/process/translation-diff-log.md
+  - provenance/faith-in-mind/process/translation-reasoning-log.md
+  - provenance/faith-in-mind/process/character-provenance-log.md
+
+Execution policy:
+- Work through the remaining 9 holdouts one by one or in bounded clusters.
+- Keep moving from source to source while plausible options remain.
+- Validate the package at sensible checkpoints and before each commit.
+- If a batch succeeds, commit before moving on.
+- If a batch fails or regresses, revert only your own failed batch and continue from the last good state.
+
+Terminal stop conditions:
+- Stop only when the broad corroborative hunt for the remaining 9 loci is genuinely exhausted across plausible source possibilities.
+- Also stop if a gate file requires stopping, package validation fails and cannot be repaired safely, or true user/external input is required.
+
+Final report requirements:
+- List all new exception sources opened in this broad hunt.
+- State which loci, if any, were newly resolved.
+- State which remain unresolved.
+- If none were resolved or some remain, say explicitly whether the broad corroborative hunt for the remaining 9 was exhausted or whether it stopped for another real reason.
