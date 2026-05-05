@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-044 2026-05-05 - Continue beyond the logged X30 frontier under the same overnight authorization and open X31 and X32
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X28-X30` frontier by opening `X31 = 佛果圓悟禪師碧巖集種電鈔` for the damaged `T1-p007` `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` cluster and `X32 = 南明泉和尚頌證道歌事實卷第三` for the still-open `T1-p012.l02` `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` quotation band
+- Why: the user explicitly authorized the overnight hunt to keep broadening across plausible direct-commentary and commentary-on-quotation branches rather than stopping at the logged `X30` frontier, and these were the strongest genuinely fresh corroborative lines still surfaced after renewed exact and near-exact search; renewed `T1-p029.l06 / T1-p030.l08` searching in the same pass returned only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material rather than a new branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007` and `T1-p012` holdout workbench surfaces, and fresh external overlaps for `曾有人問我直得五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` and `吾早曾經多劫修不是等閒相誑惑`
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + assistant
+
+## D-045 2026-05-05 - Reject further T1 repairs after X31 and X32 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X31-X32` continuation
+- Why: `X31` preserves the `趙州 / 曾有人問我直得五年分疏不下` case together with the exact `纔有語言是揀擇 / 和尚如何為人 / 何不引盡此語 / 只這至道無難唯嫌揀擇` exchange in a fresh `碧巖錄` commentary branch, and `X32` preserves the exact `吾早曾經多劫修不是等閒相誑惑` line in a fresh `證道歌` commentary branch, but both remain phrase- or context-level corroboration only; direct reinspection of the saved `T1-p007` and `T1-p012` holdout crops confirms that the local upper/lower spillover on `T1-p007` still does not separate enough for line-level repair and the local `T1-p012.l02` image still does not isolate a full safe line, while renewed outward searching on `T1-p029.l06` and `T1-p030.l08` did not surface a genuinely fresh corroborative family beyond the already logged `X15`, `X19`, and `X30` branches
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with `X31` and `X32`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-042 2026-05-05 - Continue beyond the logged X27 frontier under the same overnight authorization and open X28 to X30
 
 - Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X24-X27` frontier by opening `X28 = 焭絕老人天奇直註雪竇顯和尚頌古 第2卷` for the damaged `T1-p007` `趙州 / 纔有語言是揀擇 / 何不引盡此語` cluster, `X29 = 祖堂集 第12卷` for the still-open `T1-p012.l02` `吾早曾經多劫修不是等閒相誑惑` quotation band, and `X30 = 宗範 (卷上)` for the `T1-p029.l06` and `T1-p030.l08` `淨躶躶 / 圓垛垛 / 轉捨轉明轉遠轉近` prose band

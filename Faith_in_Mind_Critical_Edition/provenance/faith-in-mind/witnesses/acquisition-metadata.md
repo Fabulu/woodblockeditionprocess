@@ -650,3 +650,23 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against T1-p029.l06 and T1-p030.l08 only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X24-X27 frontier; not promoted into the normal witness queue
+
+## X31
+
+- Witness: 佛果圓悟禪師碧巖集種電鈔
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.shidianguji.com/zh/mid-page/7622445980181594139
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X28-X30 frontier; not promoted into the normal witness queue
+
+## X32
+
+- Witness: 南明泉和尚頌證道歌事實卷第三
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.shidianguji.com/zh/book/K1500/chapter/1kksifer76x4k
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X28-X30 frontier; not promoted into the normal witness queue

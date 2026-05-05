@@ -9798,6 +9798,73 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X27_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-277",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X30 frontier under the same overnight authorization and logged X31 and X32",
+      "summary": "The broader overnight hunt still did not stop at the X28-X30 frontier. Two further fresh exception branches were opened and logged for the same remaining eight holdouts: X31 = 佛果圓悟禪師碧巖集種電鈔 for a fresh 碧巖錄-commentary preservation of the damaged T1-p007 趙州 / 曾有人問我直得五年分疏不下 / 却有語言是揀擇 cluster, and X32 = 南明泉和尚頌證道歌事實卷第三 for a fresh 證道歌-commentary preservation of 吾早曾經多劫修不是等閒相誑惑 and the same surrounding quotation band behind T1-p012.l02.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.shidianguji.com/zh/mid-page/7622445980181594139",
+        "https://www.shidianguji.com/zh/book/K1500/chapter/1kksifer76x4k"
+      ],
+      "decision_ref": "D-044",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X30_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X27_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-278",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight continuation on the remaining eight holdouts without further T1 text changes after X31 and X32",
+      "summary": "X31 sharpened the T1-p007 wall to a fresh 碧巖錄-commentary branch preserving the same 趙州 / 曾有人問我直得五年分疏不下 case together with the exact 却有語言是揀擇 / 和尚如何為人 / 何不引盡此語 / 只這至道無難唯嫌揀擇 exchange, and X32 sharpened the T1-p012 wall to a fresh 證道歌-commentary branch preserving the exact 吾早曾經多劫修不是等閒相誑惑 line in the same quotation band. None of those branches lifted the local T1 image above repair threshold, renewed outward searching on T1-p029.l06 and T1-p030.l08 returned only already opened family material, and no materially fresher productive branch surfaced beyond X32, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X32.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-a-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p012/T1-p012-cluster-b-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/T1-p029-l06-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide-rot90-mirror-hi.png",
+        "https://www.shidianguji.com/zh/mid-page/7622445980181594139",
+        "https://www.shidianguji.com/zh/book/K1500/chapter/1kksifer76x4k"
+      ],
+      "decision_ref": "D-045",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X30_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X30_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

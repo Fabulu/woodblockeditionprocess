@@ -440,3 +440,17 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` and `T1-p030.l08` only, specifically the fresh later compilation preservation of `淨躶躶圓垛垛`, `猛割猛斷十分棄捨`, and `轉捨轉明轉遠轉近`
 - Role: later compilation corroboration for the remaining `T1-p029/T1-p030` holdouts, not a reopened comparison witness
+
+### X31
+
+- Witness: `佛果圓悟禪師碧巖集種電鈔`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh `碧巖錄` commentary preservation of the `趙州 / 曾有人問我直得五年分疏不下` case together with the paired `纔有語言是揀擇 / 和尚如何為人 / 何不引盡此語 / 只這至道無難唯嫌揀擇` exchange
+- Role: `碧巖錄` commentary corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X32
+
+- Witness: `南明泉和尚頌證道歌事實卷第三`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh `證道歌` commentary preservation of `吾早曾經多劫修不是等閒相誑惑` and the same surrounding `或是或非人不識逆行順行天莫測` quotation band
+- Role: `證道歌` commentary corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness

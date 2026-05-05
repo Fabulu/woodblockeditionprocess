@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X27_remaining_8`
+- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X30_remaining_8`
 
 ## What is already done
 
@@ -484,3 +484,8 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `X29` broadens the `T1-p012` evidence to a fresh older quotation-preservation branch through `祖堂集 第12卷`, which preserves the exact `吾早曾經多劫修不是等閒相誑惑` line, but the local `T1-p012.l02` image still does not isolate a full safe line.
 - `X30` broadens the `T1-p029/T1-p030` evidence to a fresh later compilation branch through `宗範 (卷上)`, which preserves `淨躶躶圓垛垛` together with the `轉捨轉明轉遠轉近` cadence, but the local `T1-p029.l06` and `T1-p030.l08` images still do not isolate full safe lines.
 - on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X30`, not merely paused at one source family or one repository.
+- that logged `X30` stop was then pushed farther rather than being treated as terminal by itself.
+- `X31` broadens the `T1-p007` evidence to a fresh `碧巖錄` commentary branch through `佛果圓悟禪師碧巖集種電鈔`, which preserves both the `趙州 / 曾有人問我直得五年分疏不下` case and the exact `纔有語言是揀擇 / 和尚如何為人 / 何不引盡此語 / 只這至道無難唯嫌揀擇` exchange behind the damaged local cluster, but the local `T1` upper and lower spillover still do not separate enough for line-level repair.
+- `X32` broadens the `T1-p012` evidence to a fresh `證道歌` commentary branch through `南明泉和尚頌證道歌事實卷第三`, which again preserves the exact `吾早曾經多劫修不是等閒相誑惑` line while explaining the same `或是或非人不識逆行順行天莫測` quotation band, but the local `T1-p012.l02` image still does not isolate a full safe line.
+- renewed outward sweeps for `T1-p029.l06` and `T1-p030.l08` after `X31/X32` surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material and did not produce a genuinely fresh corroborative branch.
+- on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X32`, not merely paused at one source family or one repository.
