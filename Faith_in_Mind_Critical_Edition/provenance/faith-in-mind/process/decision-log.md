@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-060 2026-05-06 - Reject further T1 repairs after X54 and X55 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X54-X55` continuation
+- Why: `X54` broadens the `T1-p030` wall to a fresh later yulu-preservation branch through `大川普濟禪師語錄`, and `X55` broadens the same wall to a fresh later yulu-preservation branch through `介石智朋禪師語錄`; both again preserve `一片月生海幾家人上樓`, but only at tail-phrase level. Direct reinspection of the saved `T1-p030.l08` holdout crop still leaves only the unstable `...轉親轉遠轉近...後來直得...` cadence on the local page rather than a full safe line. Renewed outward searching after `X55` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範 / poem-tail / yulu / lamp-history / doctrinal` family material, duplicate access paths, or modern explanatory pages rather than a materially fresher productive branch
+- Evidence: the local `T1` page image and saved OCR surfaces for `T1-p030`, together with `X54 = 大川普濟禪師語錄` and `X55 = 介石智朋禪師語錄`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-059 2026-05-06 - Continue beyond the logged X53 frontier and open X54 and X55 for the surviving T1-p030 tail branch
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X53` frontier by opening `X54 = 大川普濟禪師語錄` and `X55 = 介石智朋禪師語錄` for `T1-p030.l08` only
+- Why: a renewed outward pass did surface two genuinely fresh `一片月生海幾家人上樓` preservation branches that had not yet been logged anywhere in the package state. `大川普濟禪師語錄` is a fresh later yulu-preservation branch, and `介石智朋禪師語錄` is a second fresh later yulu-preservation branch. Neither source had previously been opened, and neither collapses into a duplicate access path to an already logged work. They do not justify a text change by themselves, but they are real new corroborative witnesses and therefore must be recorded honestly rather than left hidden under the earlier `X53` exhaustion claim
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p030.l08` holdout workbench surface, and fresh external overlaps for `一片月生海幾家人上樓` in `大川普濟禪師語錄` and `介石智朋禪師語錄`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-058 2026-05-06 - Reject further T1 repairs after X52 and X53 and re-close the overnight hunt on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X52-X53` continuation
