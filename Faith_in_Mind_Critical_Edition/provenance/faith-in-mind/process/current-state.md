@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X51_remaining_8`
+- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X53_remaining_8`
 
 ## What is already done
 
@@ -509,3 +509,6 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - renewed outward sweeps for `T1-p029.l06` after `X48-X51` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material and did not produce a genuinely fresh corroborative branch.
 - on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X51`, not merely paused at one source family or one repository.
 - one further outward verification pass beyond the logged `X51` frontier has now also been completed. Fresh-looking candidate leads were checked against the package witness register, acquisition metadata, and decision chain, but every candidate collapsed into an already logged source family, a duplicate access path to an already logged work, or a non-primary modern explanatory page. No genuine `X52+` source survived de-duplication, no additional `T1` repair threshold was crossed, and the overnight unconstrained corroborative hunt for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` is therefore now confirmed exhausted beyond the previously logged `X51` frontier rather than only through it.
+- that logged beyond-`X51` stop was then pushed farther rather than being treated as terminal by itself after renewed outward checking surfaced two genuinely fresh `T1-p030` tail-preservation branches.
+- `X52` broadens the `T1-p030` evidence to a fresh Japanese yulu branch through `絕海和尚語錄卷上`, and `X53` broadens the same wall to a fresh anthology branch through `續古尊宿語要`; both again preserve `一片月生海幾家人上樓`, but only at tail-phrase level and without lifting the damaged local `T1-p030.l08` cadence above repair threshold.
+- renewed outward sweeps after `X53` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範 / poem-tail / yulu / lamp-history / doctrinal` family material, duplicate access paths, or modern explanatory pages, so on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X53`, not merely paused at one source family or one repository.

@@ -587,3 +587,17 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later doctrinal preservation of `一片月生海幾家人上樓`
 - Role: fresh later doctrinal corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X52
+
+- Witness: `絕海和尚語錄卷上`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh Japanese yulu preservation of `一片月生海幾家人上樓`
+- Role: fresh Japanese-yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X53
+
+- Witness: `續古尊宿語要`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh anthology preservation of `一片月生海幾家人上樓`
+- Role: fresh anthology corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness

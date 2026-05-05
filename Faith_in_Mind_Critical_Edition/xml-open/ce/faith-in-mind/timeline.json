@@ -10257,6 +10257,66 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_outward_verification_beyond_X51_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-290",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X51 frontier after renewed outward checking and logged X52 and X53",
+      "summary": "The broader overnight hunt still did not stop at the earlier outward-verification claim beyond X51. A renewed pass surfaced two genuinely fresh T1-p030 tail-preservation branches that had not yet been recorded in the package state: X52 = 絕海和尚語錄卷上 as a fresh Japanese yulu-preservation branch, and X53 = 續古尊宿語要 as a fresh anthology-preservation branch, both preserving 一片月生海幾家人上樓 behind T1-p030.l08.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=&mode=detail&nonum=&useid=2561_%2C00%2C0747",
+        "https://www.baus-ebs.org/sutra/fan-read/003/05-010.htm"
+      ],
+      "decision_ref": "D-057",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X53_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_outward_verification_beyond_X51_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-291",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight continuation on the remaining eight holdouts without further T1 text changes after X52 and X53",
+      "summary": "X52 broadened the T1-p030 wall to a fresh Japanese-yulu branch through 絕海和尚語錄卷上, and X53 broadened the same wall to a fresh anthology branch through 續古尊宿語要; both again preserve 一片月生海幾家人上樓, but only at tail-phrase level. Direct reinspection of the saved T1-p030.l08 holdout crop still leaves only the unstable ...轉親轉遠轉近...後來直得... cadence on the local page, so no T1 repair threshold is crossed. Renewed outward searching after X53 again surfaced only already opened 真歇 / 建康普説 / 佛果 / 宗範 / poem-tail / yulu / lamp-history / doctrinal family material, duplicate access paths, or modern explanatory pages, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X53.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide-rot90-mirror-hi.png",
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=&mode=detail&nonum=&useid=2561_%2C00%2C0747",
+        "https://www.baus-ebs.org/sutra/fan-read/003/05-010.htm"
+      ],
+      "decision_ref": "D-058",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X53_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X53_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

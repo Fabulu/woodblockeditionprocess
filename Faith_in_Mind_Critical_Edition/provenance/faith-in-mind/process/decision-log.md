@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-058 2026-05-06 - Reject further T1 repairs after X52 and X53 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X52-X53` continuation
+- Why: `X52` broadens the `T1-p030` wall to a fresh Japanese-yulu preservation through `絕海和尚語錄卷上`, where `一片月生海幾家人上樓` is reused in a new sermon context rather than only in the already logged poem-source, Chan yulu, lamp-history, and doctrinal branches. `X53` broadens the same `T1-p030` wall to a fresh anthology-preservation branch through `續古尊宿語要`, which again preserves `一片月生海幾家人上樓` in a distinct collection setting. Both branches are real and newly logged, but they remain tail-phrase corroboration only. Direct reinspection of the saved `T1-p030.l08` holdout crop confirms that the local page still preserves only the unstable `...轉親轉遠轉近...後來直得...` cadence rather than a full safe line. Renewed outward searching after `X53` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範 / poem-tail / yulu / lamp-history / doctrinal` family material, duplicate access paths, or modern explanatory pages rather than a materially fresher productive branch
+- Evidence: the local `T1` page image and saved OCR surfaces for `T1-p030`, together with `X52 = 絕海和尚語錄卷上` and `X53 = 續古尊宿語要`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-057 2026-05-06 - Continue beyond the logged X51 frontier and open X52 and X53 for the surviving T1-p030 tail branch
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged outward-verification claim after `X51` by opening `X52 = 絕海和尚語錄卷上` and `X53 = 續古尊宿語要` for `T1-p030.l08` only
+- Why: a renewed outward pass did surface two genuinely fresh `一片月生海幾家人上樓` preservation branches that had not yet been logged anywhere in the package state. `絕海和尚語錄卷上` is a fresh Japanese yulu-preservation branch, and `續古尊宿語要` is a fresh anthology-preservation branch. Neither source had previously been opened, and neither collapses into a duplicate access path to an already logged work. They do not justify a text change by themselves, but they are real new corroborative witnesses and therefore must be recorded honestly rather than left hidden under the earlier no-`X52+` claim
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p030.l08` holdout workbench surface, and fresh external overlaps for `一片月生海幾家人上樓` in `絕海和尚語錄卷上` and `續古尊宿語要`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-056 2026-05-06 - Confirm broader overnight exhaustion beyond the logged X51 frontier without opening any genuine X52 source
 
 - Decision: do not open any new `X52+` exception source and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after one further outward corroborative verification pass beyond the logged `X51` frontier

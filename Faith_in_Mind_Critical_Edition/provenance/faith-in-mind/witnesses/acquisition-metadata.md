@@ -863,3 +863,23 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against T1-p030.l08 only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X47 frontier; not promoted into the normal witness queue
+
+## X52
+
+- Witness: 絕海和尚語錄卷上
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=&mode=detail&nonum=&useid=2561_%2C00%2C0747
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p030.l08 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X51 frontier; not promoted into the normal witness queue
+
+## X53
+
+- Witness: 續古尊宿語要
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.baus-ebs.org/sutra/fan-read/003/05-010.htm
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p030.l08 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X51 frontier; not promoted into the normal witness queue
