@@ -675,3 +675,12 @@ Faith in Mind adoption rule:
 | `T1-p011.l04` | 12 | `秖` | `image inspection plus cross-witness support` | `moderate` | `T1` |
 | `T1-p011.l04` | 15 | `隻` | `image inspection` | `strong` | `T1` |
 | `T1-p011.l04` | 17 | `諸` | `image inspection` | `moderate` | `T1` |
+| `T1-p029.l02` | 2 | `見` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
+| `T1-p029.l02` | 6 | `解` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
+| `T1-p029.l02` | 7 | `淨` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
+| `T1-p029.l02` | 8 | `淨` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
+| `T1-p029.l02` | 9 | `掃` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
+| `T1-p029.l02` | 11 | `這` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
+| `T1-p029.l02` | 12 | `裏` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
+| `T1-p029.l02` | 14 | `躶` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
+| `T1-p029.l02` | 17 | `洒` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |

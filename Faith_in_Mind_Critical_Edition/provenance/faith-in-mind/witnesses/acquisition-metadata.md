@@ -382,3 +382,34 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
 - Scope restriction: opened only under the human-authorized broad corroborative hunt for the remaining nine exhausted holdouts; not promoted into the normal witness queue
+
+## X5
+
+- Witness: `真歇清了禪師語錄`
+- Acquisition date: `2026-05-05`
+- Access mode: browser-opened text only; no local file acquired
+- Source page: `https://tripitaka.cbeta.org/X71n1426`
+- Source page: `https://suttaworld.com/Collection_of_Buddhist/Successive_Tripitaka/pdf/X71/X71n1426.pdf`
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08` only
+- Scope restriction: opened only under the human-authorized iterative broad corroborative hunt for the remaining holdouts; not promoted into the normal witness queue
+
+## X6
+
+- Witness: `永嘉真覺大師證道歌`
+- Acquisition date: `2026-05-05`
+- Access mode: browser-opened text only; no local file acquired
+- Source page: `https://tripitaka.cbeta.org/ja/T51n2076_030`
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the human-authorized iterative broad corroborative hunt for the remaining holdouts; not promoted into the normal witness queue
+
+## X7
+
+- Witness: `佛祖正傳古今捷錄/卷第六`
+- Acquisition date: `2026-05-05`
+- Access mode: browser-opened text only; no local file acquired
+- Source page: `https://www.shidianguji.com/zh/book/JS2058/chapter/1jjbv50bj7dpu`
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the human-authorized iterative broad corroborative hunt for the remaining holdouts; not promoted into the normal witness queue

@@ -9186,6 +9186,78 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_broad_corroborative_hunt_remaining_9_holdouts",
         "last_text_changed_event": "FIM-254"
       }
+    },
+    {
+      "id": "FIM-259",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued the iterative broad corroborative hunt with three further fresh exception branches",
+      "summary": "After X3 and X4 strengthened the wall but did not move it, three further fresh exception branches were opened rather than stopping at one source family: X5 = 真歇清了禪師語錄 for the T1-p029/T1-p030 prose band, X6 = 永嘉真覺大師證道歌 for the T1-p012 quotation band, and X7 = 佛祖正傳古今捷錄/卷第六 for the downstream T1-p007 anthology frame.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/X71n1426",
+        "https://suttaworld.com/Collection_of_Buddhist/Successive_Tripitaka/pdf/X71/X71n1426.pdf",
+        "https://tripitaka.cbeta.org/ja/T51n2076_030",
+        "https://www.shidianguji.com/zh/book/JS2058/chapter/1jjbv50bj7dpu"
+      ],
+      "decision_ref": "D-026",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_iterative_broad_corroborative_hunt_remaining_9_holdouts_continued",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broad_corroborative_hunt_remaining_9_holdouts",
+        "last_text_changed_event": "FIM-254"
+      }
+    },
+    {
+      "id": "FIM-260",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Accepted one X5-supported T1 repair and exhausted the iterative broad corroborative hunt on the remaining eight holdouts",
+      "summary": "The widened T1-p029.l02 crop, saved T1 OCR support, and exact X5 overlap now justify T1-p029.l02 = 法見一切見解淨淨掃却這裏淨躶躶赤洒洒. The same X5 branch strengthened but did not fully isolate T1-p029.l06 or T1-p030.l08, while X6 and X7 clarified quotation-family and downstream anthology frames for T1-p012 and T1-p007 without lifting those loci above repair threshold. The live unresolved queue is now T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08, and the iterative broad corroborative hunt is now genuinely exhausted on the present basis.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/rejected-readings-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/T1-p029-l02-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p029.txt",
+        "https://tripitaka.cbeta.org/X71n1426",
+        "https://suttaworld.com/Collection_of_Buddhist/Successive_Tripitaka/pdf/X71/X71n1426.pdf",
+        "https://tripitaka.cbeta.org/ja/T51n2076_030",
+        "https://www.shidianguji.com/zh/book/JS2058/chapter/1jjbv50bj7dpu"
+      ],
+      "decision_ref": "D-027",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_iterative_broad_corroborative_hunt_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_iterative_broad_corroborative_hunt_remaining_9_holdouts_continued",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

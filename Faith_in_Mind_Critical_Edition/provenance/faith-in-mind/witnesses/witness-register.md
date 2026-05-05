@@ -258,3 +258,24 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broad corroborative check for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the `趙州 / 五年分疏不下` cluster
 - Role: phrase- and context-level external corroboration for the last nine exhausted local holdouts, not a reopened comparison witness
+
+### X5
+
+- Witness: `真歇清了禪師語錄`
+- Access mode: web text view only
+- Scope: broad corroborative check for `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08` only, specifically the overlapping `法見一切見解...淨躶躶赤洒洒`, `用見聞覺知無不純真...`, and `轉踈轉親轉遠轉近...` prose band
+- Role: exact and phrase-level external corroboration for the remaining holdouts, not a reopened comparison witness
+
+### X6
+
+- Witness: `永嘉真覺大師證道歌`
+- Access mode: web text view only
+- Scope: broad corroborative check for `T1-p012.l02` only, specifically the quoted `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` band
+- Role: quotation-family corroboration for a remaining holdout, not a reopened comparison witness
+
+### X7
+
+- Witness: `佛祖正傳古今捷錄/卷第六`
+- Access mode: web text view only
+- Scope: broad corroborative check for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the downstream `趙州 / 至道無難 / 五年分疏不下` anthology frame
+- Role: downstream anthology corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness

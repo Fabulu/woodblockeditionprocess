@@ -71,6 +71,13 @@ function Test-TerminalStop {
         '(?i)\biterative broad corroborative-hunt .* was exhausted\b',
         '(?i)\balready reflects completion of the requested broad corroborative hunt\b',
         '(?i)\balready reflects completion of the requested iterative broad corroborative hunt\b',
+        '(?i)\balready contains the completed continuation\b',
+        '(?i)\balready includes the continuation you asked for\b',
+        '(?i)\bcurrent package state already includes the continuation you asked for\b',
+        '(?i)\bcurrent package state already includes the continuation\b',
+        '(?i)\bthis continuation was completed\b',
+        '(?i)\bstate no longer has 9 holdouts; it has 8\b',
+        '(?i)\bno longer has 9 holdouts; it has 8\b',
         '(?i)\bno further bounded productive correction slice is currently available anywhere in the remaining unresolved queue\b',
         '(?i)\bworkflow queue is exhausted\b',
         '(?i)\bqueue is exhausted\b',
@@ -98,6 +105,47 @@ function Test-TerminalStop {
     return @{
         Stop = $false
         Reason = "continue"
+    }
+}
+
+function Test-RetriableCodexFailure {
+    param(
+        [string]$LastMessage,
+        [string[]]$JsonLines
+    )
+
+    $retryPatterns = @(
+        '(?i)\bstream disconnected before completion\b',
+        '(?i)\berror sending request for url\b',
+        '(?i)\bconnection reset\b',
+        '(?i)\bconnection aborted\b',
+        '(?i)\btemporarily unavailable\b',
+        '(?i)\btimeout\b',
+        '(?i)\btimed out\b'
+    )
+
+    $candidateTexts = @()
+    if (-not [string]::IsNullOrWhiteSpace($LastMessage)) {
+        $candidateTexts += $LastMessage
+    }
+    if ($JsonLines) {
+        $candidateTexts += ($JsonLines -join "`n")
+    }
+
+    foreach ($text in $candidateTexts) {
+        foreach ($pattern in $retryPatterns) {
+            if ($text -match $pattern) {
+                return @{
+                    Retry = $true
+                    Reason = $pattern
+                }
+            }
+        }
+    }
+
+    return @{
+        Retry = $false
+        Reason = "non_retriable_failure"
     }
 }
 
@@ -160,6 +208,13 @@ while ((-not $useRunCap) -or ($runCount -lt $MaxRuns)) {
     Add-Content -Path $loopLogPath -Value $entry -Encoding UTF8
 
     if ($exitCode -ne 0) {
+        $retryDecision = Test-RetriableCodexFailure -LastMessage $lastMessage -JsonLines $jsonLines
+        if ($retryDecision.Retry) {
+            [Console]::Out.WriteLine("[$timestamp] run $runCount exited $exitCode due to transient transport failure ($($retryDecision.Reason)); relaunching after $SleepSeconds seconds")
+            Start-Sleep -Seconds $SleepSeconds
+            continue
+        }
+
         [Console]::Out.WriteLine("[$timestamp] stopping after run $runCount because codex exited $exitCode")
         if (-not [string]::IsNullOrWhiteSpace($lastMessage)) {
             [Console]::Out.Write($lastMessage)

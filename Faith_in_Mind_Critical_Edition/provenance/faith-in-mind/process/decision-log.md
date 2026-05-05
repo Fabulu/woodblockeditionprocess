@@ -226,3 +226,21 @@
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-026 2026-05-05 - Continue the iterative broad corroborative hunt with three further fresh exception branches
+
+- Decision: continue the human-authorized iterative broad corroborative hunt for the remaining nine holdouts by opening three further fresh exception branches: `X5 = 真歇清了禪師語錄`, `X6 = 永嘉真覺大師證道歌`, and `X7 = 佛祖正傳古今捷錄/卷第六`
+- Why: `X3` and `X4` had strengthened the wall but not moved it, while plausible exact or near-exact downstream and quotation-family branches still remained for the `T1-p029/T1-p030`, `T1-p012`, and `T1-p007` clusters
+- Evidence: the live nine-locus queue in `current-state.md` and `unresolved-loci.md`, the `T1-p029/T1-p030` widened crops, the `T1-p012` quotation-band image cluster, and search hits for the exact overlapping phrase families
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-027 2026-05-05 - Accept one X5-supported local T1 repair and leave eight holdouts unresolved after the broader iterative hunt
+
+- Decision: accept `T1-p029.l02 = 法見一切見解淨淨掃却這裏淨躶躶赤洒洒`; do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`
+- Why: the widened local `T1-p029.l02` crop, the saved T1 OCR frame, and exact `X5` overlap now converge tightly enough to stabilize the damaged middle without forcing a non-local line identity; the later `X5/X6/X7` branches materially narrowed or contextualized the other loci but still did not isolate full safe `T1` readings there
+- Evidence: `T1-p029` widened crop aliases, saved `RapidOCR` and Paddle support for `T1-p029`, `X5 = 真歇清了禪師語錄`, `X6 = 永嘉真覺大師證道歌`, and `X7 = 佛祖正傳古今捷錄/卷第六`
+- Confidence: medium-high
+- Actor type: `agent`
+- Actor id: assistant
