@@ -1,16 +1,17 @@
-Continue the Faith in Mind critical-edition workflow from the current package state under an explicit human-authorized broad corroborative hunt for the remaining 9 unresolved holdouts.
+Continue the Faith in Mind critical-edition workflow from the current package state under an explicit human-authorized iterative broad corroborative hunt for the remaining 9 unresolved holdouts.
 
 Why this phase is allowed:
 - The in-package queue is exhausted.
 - The stronger direct-image-separation phase is exhausted.
-- Two bounded corroborative exception phases are already exhausted.
-- The human operator has explicitly authorized a broader corroborative hunt and wants the runner to keep trying sources for a long unattended work window.
-- This broad hunt is still limited by task: it is only for the remaining 9 unresolved loci, not for unrelated editorial expansion.
+- Earlier bounded corroborative exception phases are exhausted.
+- The human operator explicitly wants an all-day unattended runner that keeps broadening the witness hunt instead of stopping after one source family.
+- This hunt is still narrow in task scope: it applies only to the remaining 9 unresolved loci, not to unrelated editorial expansion.
 
 Mission:
-- Exhaust plausible corroborative-source possibilities for the remaining 9 unresolved holdouts.
-- Keep roaming across candidate sources and source traditions without stopping after one source or one witness.
-- Only stop when the broader corroborative hunt for these 9 loci is genuinely exhausted, a gate requires stopping, validation fails unrecoverably, or true user/external input is required.
+- Push the corroborative hunt as far as it can honestly go for the remaining 9 unresolved holdouts.
+- Expand iteratively across source families, textual traditions, derivative citations, anthologies, yulu collections, lamp histories, commentaries, leishu-style compilations, and other plausible downstream or upstream witnesses.
+- Keep going after one source, one anthology, one canon location, one website, one witness family, or one failed comparison. Move to the next plausible avenue until the broader search space itself is genuinely spent.
+- Only stop when the iterative broad corroborative hunt for these 9 loci is genuinely exhausted across plausible source possibilities, a gate requires stopping, validation fails unrecoverably, or true user/external input is required.
 
 Work inside:
 - C:\woodblocks\Faith_in_Mind_Critical_Edition
@@ -35,10 +36,11 @@ Read first:
 - xml-open/ce/faith-in-mind/process.json
 - xml-open/ce/faith-in-mind/timeline.json
 
-Already exhausted exception sources:
-- `X1` = `KR6q0359`
-- `X2` = bounded corroborative source set around `五燈會元/卷第四`, NTU/CBETA `楞嚴經`-related text, and `真心直說`
-- Do not treat `X1` or `X2` as fresh sources in this phase.
+Already exhausted and must not be treated as fresh:
+- in-package manual correction queue
+- stronger direct-image-separation and visual-workbench passes
+- earlier bounded corroborative exceptions already logged in the package state
+- any source already logged as opened and exhausted in the witness and decision records
 
 Remaining target holdouts:
 - T1-p007.l03
@@ -51,12 +53,21 @@ Remaining target holdouts:
 - T1-p029.l06
 - T1-p030.l08
 
-Hunt policy:
-- This is a broad corroborative hunt for these 9 loci only.
-- You may open additional external corroborative sources, witnesses, commentaries, source-tradition texts, or related materials if they are plausibly relevant to these exact loci.
-- Prefer sources that materially overlap the exact lemma, commentary band, doctrinal phrase, or prose sequence at issue.
-- Keep the hunt broad in source selection, but narrow in task focus.
-- Do not drift into unrelated pages, unrelated texts, or unrelated editorial projects.
+Iterative hunt policy:
+- This is an iterative broad corroborative hunt for these 9 loci only.
+- You may open additional external corroborative sources, witnesses, commentaries, source-tradition texts, derivative quotations, local subcommentaries, collected sayings, lamp records, anthologies, or related materials if they are plausibly relevant to these exact loci.
+- Prefer sources that materially overlap the exact lemma, doctrinal phrase, prose sequence, dialogue exchange, verse fragment, or commentary band at issue.
+- When one source or source family fails, explicitly move outward to the next plausible branch instead of stopping.
+- Keep the hunt broad in source selection, but narrow in task focus. Do not drift into unrelated pages, unrelated texts, or unrelated editorial projects.
+
+Suggested outward search order:
+- first, direct parallel or near-parallel texts already hinted by prior evidence
+- then, works by the same attributed figure or lineage
+- then, closely related lamp-history or yulu witnesses
+- then, anthologies and later compilations that preserve quotations or paraphrases
+- then, doctrinal or commentarial texts that quote the same phrasing
+- then, broader external catalogs or repositories if they plausibly preserve the exact band
+- this order is guidance, not a hard stop ladder; if one branch is cold, move to another
 
 Source-handling policy:
 - Every genuinely new external source opened in this phase must be logged before or as it is used:
@@ -67,22 +78,23 @@ Source-handling policy:
   - provenance/faith-in-mind/witnesses/acquisition-metadata.md
   - xml-open/ce/faith-in-mind/process.json
   - xml-open/ce/faith-in-mind/timeline.json
-- Assign new bounded exception sigla sequentially after `X2`.
+- Assign new exception sigla sequentially after the highest already-recorded `X*`.
 - Distinguish clearly between:
-  - a source that was opened but did not help,
-  - a source that provided phrase-level corroboration only,
-  - and a source that justified an accepted `T1` repair.
+  - a source that was opened but did not help
+  - a source that provided phrase-level corroboration only
+  - a source that justified a rejected alternative
+  - and a source that justified an accepted `T1` repair
 
 Evidence-use policy:
 - Do not let a new source dictate a `T1` reading beyond what the combined local evidence and corroboration honestly support.
 - Phrase-level or contextual overlap is useful, but not automatically decisive.
-- If a source helps only by rejection or partial confirmation, log that honestly.
-- If a source fails, continue to the next plausible source instead of stopping.
+- If a source helps only by rejection, narrowing, or partial confirmation, log that honestly.
+- If a source fails, continue to the next plausible source, witness family, or repository instead of stopping.
 
-Important stop-language rule:
-- Do not use terminal language such as `phase was exhausted`, `queue exhausted`, or `no further safe T1 text changes` for a single source, a single family of sources, or one local cluster.
-- For local failures, use language like `source exhausted, continuing broader hunt`.
-- Use terminal exhaustion language only when the entire broader corroborative hunt for the remaining 9 loci is genuinely exhausted.
+Important non-stop rule:
+- Do not use terminal language such as `phase was exhausted`, `queue exhausted`, `no further safe T1 text changes`, or `broad corroborative hunt exhausted` for a single source, a single family of sources, one repository, one website, one canon branch, or one local cluster.
+- For local failures, use language like `this source branch was exhausted; continuing broader iterative hunt`.
+- Use terminal exhaustion language only when the entire iterative broad corroborative hunt for the remaining 9 loci is genuinely exhausted across plausible avenues.
 
 Required log/state surfaces:
 - Always keep aligned:
@@ -105,17 +117,18 @@ Required log/state surfaces:
 
 Execution policy:
 - Work through the remaining 9 holdouts one by one or in bounded clusters.
-- Keep moving from source to source while plausible options remain.
+- Keep iterating from source to source and family to family while plausible options remain anywhere in the remaining queue.
+- If one locus stalls, move to another locus rather than treating the whole phase as done.
 - Validate the package at sensible checkpoints and before each commit.
 - If a batch succeeds, commit before moving on.
 - If a batch fails or regresses, revert only your own failed batch and continue from the last good state.
 
 Terminal stop conditions:
-- Stop only when the broad corroborative hunt for the remaining 9 loci is genuinely exhausted across plausible source possibilities.
+- Stop only when the iterative broad corroborative hunt for the remaining 9 loci is genuinely exhausted across plausible source possibilities and no further bounded productive search branch remains.
 - Also stop if a gate file requires stopping, package validation fails and cannot be repaired safely, or true user/external input is required.
 
 Final report requirements:
-- List all new exception sources opened in this broad hunt.
+- List all new exception sources opened in this iterative broad hunt.
 - State which loci, if any, were newly resolved.
 - State which remain unresolved.
-- If none were resolved or some remain, say explicitly whether the broad corroborative hunt for the remaining 9 was exhausted or whether it stopped for another real reason.
+- If none were resolved or some remain, say explicitly whether the iterative broad corroborative hunt for the remaining 9 was exhausted or whether it stopped for another real reason.
