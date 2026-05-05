@@ -1,4 +1,4 @@
-# Faith in Mind Acquisition Metadata
+﻿# Faith in Mind Acquisition Metadata
 
 Date: 2026-04-14  
 Status: in progress  
@@ -437,3 +437,66 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p012.l02` only
 - Scope restriction: opened only under the human-authorized overnight unconstrained corroborative hunt for the remaining eight holdouts; not promoted into the normal witness queue
+
+## X10
+
+- Witness: 趙州 case-compilation source set 明州天童景德禪寺宏智覺禪師語錄, 禪宗頌古聯珠通集, and 宗鑑法林
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/edition/CBETA/KR6q0459/003
+- Source page: https://www.kanripo.org/edition/CBETA/KR6q0244/009
+- Source page: https://www.kanripo.org/text/KR6q0246/017
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the fresh human-authorized overnight corroborative continuation beyond the already logged X8/X9 frontier; not promoted into the normal witness queue
+
+## X11
+
+- Witness: later 證道歌 anthology-preservation source set 聯燈會要 and 禪門諸祖師偈頌
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/edition/CBETA/KR6q0008/030
+- Source page: https://www.kanripo.org/edition/CBETA/KR6q0247/001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the fresh human-authorized overnight corroborative continuation beyond the already logged X8/X9 frontier; not promoted into the normal witness queue
+
+## X12
+
+- Witness: 禪林類聚/卷第五
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/X67n1299_005
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X10/X11 frontier; not promoted into the normal witness queue
+
+## X13
+
+- Witness: 佛祖綱目/卷第三十
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/X76n1519_030
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X10/X11 frontier; not promoted into the normal witness queue
+
+## X14
+
+- Witness: 虛堂和尚語錄
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.baus-ebs.org/sutra/fan-read/011/9502
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X12/X13 frontier; not promoted into the normal witness queue
+
+## X15
+
+- Witness: 建康普説十三章
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://21dzk.l.u-tokyo.ac.jp/SAT2012/ddb-sat2.php?mode=detail&useid=2604_,82,0736a16&nonum=1
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p029.l06 and T1-p030.l08 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X12/X13 frontier; not promoted into the normal witness queue

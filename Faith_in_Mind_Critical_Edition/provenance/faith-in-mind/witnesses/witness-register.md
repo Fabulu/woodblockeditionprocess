@@ -293,3 +293,45 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: overnight unconstrained corroborative check for `T1-p012.l02` only, specifically the `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` band and its later quotation/commentarial preservation
 - Role: quotation-family and later anthology corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X10
+
+- Witness: `趙州` case-compilation source set `明州天童景德禪寺宏智覺禪師語錄`, `禪宗頌古聯珠通集`, and `宗鑑法林`
+- Access mode: web text view only
+- Scope: fresh overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the `曾有人問老僧直得五年分疏不下` case plus the linked `一句元無縫罅 / 寧可與曉事人相罵 / 不可共不曉事人說話` verse-compilation branch
+- Role: mid-layer case-compilation corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X11
+
+- Witness: later `證道歌` anthology-preservation source set `聯燈會要` and `禪門諸祖師偈頌`
+- Access mode: web text view only
+- Scope: fresh overnight corroborative continuation for `T1-p012.l02` only, specifically the preserved `有人問我解何宗 / 報道摩訶般若力 / 或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` band
+- Role: later anthology-preservation corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X12
+
+- Witness: `禪林類聚/卷第五`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh leishu-style `趙州 / 曾有人問老僧直得五年分疏不下` branch behind the damaged local cluster
+- Role: leishu-style external corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X13
+
+- Witness: `佛祖綱目/卷第三十`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later historical-anthology preservation of the `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` band
+- Role: later historical-anthology corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X14
+
+- Witness: `虛堂和尚語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later yulu-preservation of the `趙州 / 曾有人問我直得五年分疏不下` branch behind the damaged local cluster
+- Role: later yulu-preservation corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X15
+
+- Witness: `建康普説十三章`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` and `T1-p030.l08` only, specifically the fresh later doctrinal-quotation preservation of the `直得灰頭土面一念玄去更不受食已墮在尊貴了也 / 一片月生海幾家人上樓` prose band
+- Role: later doctrinal-quotation corroboration for the remaining `T1-p029/T1-p030` holdouts, not a reopened comparison witness
