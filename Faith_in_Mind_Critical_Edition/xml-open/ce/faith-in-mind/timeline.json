@@ -10377,6 +10377,106 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X55_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-294",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Verified the broader overnight frontier beyond X55 without logging any new exception source",
+      "summary": "One further package-local and record-surface verification pass was run beyond the already logged X55 frontier for the same remaining eight holdouts. The saved OCR support, the high-contrast holdout crops, and the already opened witness and decision chain were rechecked for T1-p007, T1-p012, T1-p029, and T1-p030, but every apparent lead collapsed into an already logged X-family, an already opened in-package witness surface, or an already recorded OCR-support trace. No genuine X56+ source survived de-duplication, no overlooked in-package repair threshold was crossed, and the overnight unconstrained corroborative hunt for T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08 is therefore now confirmed exhausted beyond the previously logged X55 frontier rather than only through it.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-a-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p012/T1-p012-cluster-b-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/T1-p029-l06-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p030.txt"
+      ],
+      "decision_ref": "D-061",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_outward_verification_beyond_X55_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_outward_verification_beyond_X55_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-295",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X55 frontier after renewed broader outward checking and logged X56",
+      "summary": "The broader overnight hunt still did not stop at the earlier no-X56 verification claim beyond X55. A renewed broader pass surfaced one genuinely fresh T1-p012.l02 quotation-band branch that had not yet been recorded in the package state: X56 = 證道歌註 (`X65n1293_001`), preserving the full `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑` band.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/X65n1293_001",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p012/T1-p012-cluster-b-rot90-mirror-hi.png"
+      ],
+      "decision_ref": "D-062",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X56_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_outward_verification_beyond_X55_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-296",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight continuation on the remaining eight holdouts without further T1 text changes after X56",
+      "summary": "X56 broadened the T1-p012 wall to a fresh `證道歌` commentary branch through `證道歌註` (`X65n1293`), preserving the full `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑` band, but the local T1-p012.l02 image still does not isolate a full safe line. Renewed outward checking on T1-p007, T1-p029.l06, and T1-p030.l08 again collapsed into already opened families rather than a further genuine fresh branch, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X56.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p012/T1-p012-cluster-b-rot90-mirror-hi.png",
+        "https://tripitaka.cbeta.org/X65n1293_001"
+      ],
+      "decision_ref": "D-063",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X56_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X56_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

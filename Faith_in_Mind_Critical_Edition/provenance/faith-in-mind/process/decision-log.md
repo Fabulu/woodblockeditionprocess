@@ -1,5 +1,32 @@
 # Decision Log: Faith in Mind
 
+## D-063 2026-05-06 - Reject further T1 repairs after X56 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X56` continuation
+- Why: `X56` broadens the `T1-p012` wall to a fresh `證道歌` commentary branch through `證道歌註` (`X65n1293`), and it does preserve the whole `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑` band. That makes it a genuine post-`X55` witness rather than a duplicate access path or already logged source. Even so, direct reinspection of the saved `T1-p012.l02` holdout crop still does not isolate a full safe local line rather than dense quotation debris. Renewed outward checking on the other surviving walls again collapsed into already opened `趙州 / 雪竇 / 碧巖 / 燈錄 / 頌古 / 拈古` material for `T1-p007`, already opened `真歇 / 建康普説 / 佛果 / 宗範` material for `T1-p029.l06`, and already opened `poem-tail / yulu / lamp-history / doctrinal` material for `T1-p030.l08`; the superficially plausible `偃溪廣聞禪師語錄` lead reduced only to `知是幾家人上樓`, and `四家錄` reduced to an already exhausted `雪竇` preservation family. So the broader overnight hunt does move beyond the earlier no-`X56` claim, but not above the local repair threshold at any of the eight remaining loci
+- Evidence: the local `T1` page image and saved OCR surfaces for `T1-p012`, the saved holdout workbench crop for `T1-p012.l02`, `X56 = 證道歌註` (`X65n1293_001`), and renewed exact and near-exact corroborative checks across the still-open `T1-p007`, `T1-p029`, and `T1-p030` source families
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-062 2026-05-06 - Continue beyond the logged X55 frontier and open X56 for the still-open T1-p012 quotation wall
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X55` frontier by opening `X56 = 證道歌註` (`X65n1293_001`) for `T1-p012.l02` only
+- Why: a renewed broader outward pass beyond the already logged no-`X56` verification did surface one genuinely fresh source that survives de-duplication: `證道歌註` (`X65n1293`), whose `竺原禪師註` branch preserves the whole `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑` band. This work had not yet been opened or logged anywhere in the package state, and it does not collapse into the already recorded `X9`, `X11`, `X32`, or `X48` `證道歌` quotation, anthology, or commentary branches. Competing fresh-looking leads on the other surviving loci did not survive the same screen: `四家錄` reduced to an already exhausted `雪竇` preservation family, `偃溪廣聞禪師語錄` reduced only to the weaker `知是幾家人上樓` cadence rather than the already known exact tail, and renewed `T1-p029.l06` searching again collapsed into already logged `真歇 / 建康普説 / 佛果 / 宗範` material
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p012.l02` holdout workbench surface, and the fresh external overlap in `https://tripitaka.cbeta.org/X65n1293_001` preserving the exact `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑` band
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-061 2026-05-06 - Confirm broader overnight exhaustion beyond the logged X55 frontier without opening any genuine X56 source
+
+- Decision: do not open any new `X56+` exception source and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after one further package-local and record-surface verification pass beyond the logged `X55` frontier
+- Why: a renewed verification pass was run across the current package state itself rather than assuming the earlier `X55` stop was sufficient by narration alone. The live local OCR surfaces and saved high-contrast holdout crops were rechecked again for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`; the surviving phrase families were also rechecked against the already opened witness and decision records to see whether any unlogged corroborative lead or overlooked in-package source surface still remained. No such lead survived. The `T1-p030.l08` crop still preserves only the unstable `...轉親轉遠轉近...後來直得...` cadence, `T1-p029.l06` still does not isolate a safe full line, `T1-p012.l02` still does not isolate a safe full quoted line, and the `T1-p007` spillover wall still does not separate into honest line-level readings. The apparent candidate traces inside the workspace collapsed into already logged `X*` families, already opened package witnesses, or previously recorded OCR support surfaces rather than a materially fresh productive branch
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`; the saved holdout workbench crops for those same loci; the already logged `X1-X55` witness and decision chain; and the renewed workspace-wide phrase and source-surface verification pass performed on `2026-05-06`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-060 2026-05-06 - Reject further T1 repairs after X54 and X55 and re-close the overnight hunt on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X54-X55` continuation

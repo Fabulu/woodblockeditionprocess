@@ -615,3 +615,10 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the second fresh later yulu preservation of `一片月生海幾家人上樓`
 - Role: fresh later-yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X56
+
+- Witness: `證道歌註`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh `竺原禪師註` preservation of the whole `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑` quotation band
+- Role: fresh `證道歌` commentary corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
