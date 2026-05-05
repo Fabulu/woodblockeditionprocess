@@ -244,3 +244,21 @@
 - Confidence: medium-high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-028 2026-05-05 - Continue beyond X7 under the explicit overnight unconstrained corroborative hunt and open X8 and X9
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already exhausted `X1` to `X7` branches by opening `X8 =` the direct `趙州` source-family set (`古尊宿語錄`, `趙州和尚語錄`) for the damaged `T1-p007` cluster and `X9 =` the `證道歌` quotation-family source set (`證道歌頌`, `證道歌註(彥琪)`, `證道歌註(知訥)`, `指月錄`) for `T1-p012.l02`
+- Why: the human operator explicitly authorized an overnight unconstrained corroborative continuation beyond the already exhausted `X7` frontier, and these were the strongest still-plausible fresh direct and quotation-family branches remaining for the `T1-p007` and `T1-p012` loci
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007` and `T1-p012` holdout workbench surfaces, and fresh exact or near-exact search hits for the remaining unresolved phrase bands
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + assistant
+
+## D-029 2026-05-05 - Reject further T1 repairs after X8 and X9 and close the overnight unconstrained corroborative hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the overnight `X8/X9` continuation
+- Why: `X8` confirms the direct `趙州` exchange `纔有言語是揀擇 / 和尚如何示人 / 何不盡引古人語 / 只這至道無難唯嫌揀擇`, and `X9` broadens the `證道歌` quotation family and later anthology preservation behind `T1-p012.l02`, but the local `T1` image still does not isolate full safe line readings at those loci; renewed outward sweeps for `T1-p029.l06` and `T1-p030.l08` also did not surface a materially closer fresh source family beyond the already exhausted `X5` branch
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with `X8` and `X9`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant

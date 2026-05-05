@@ -279,3 +279,17 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broad corroborative check for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the downstream `趙州 / 至道無難 / 五年分疏不下` anthology frame
 - Role: downstream anthology corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X8
+
+- Witness: direct `趙州` source-family set `古尊宿語錄` and `趙州和尚語錄`
+- Access mode: web text view only
+- Scope: overnight unconstrained corroborative check for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the direct `纔有言語是揀擇 / 和尚如何示人 / 何不盡引古人語 / 只這至道無難唯嫌揀擇` exchange behind the damaged local cluster
+- Role: direct source-family corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X9
+
+- Witness: `證道歌` quotation-family source set `證道歌頌`, `證道歌註(彥琪)`, `證道歌註(知訥)`, and `指月錄`
+- Access mode: web text view only
+- Scope: overnight unconstrained corroborative check for `T1-p012.l02` only, specifically the `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` band and its later quotation/commentarial preservation
+- Role: quotation-family and later anthology corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness

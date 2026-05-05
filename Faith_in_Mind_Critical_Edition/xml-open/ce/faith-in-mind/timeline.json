@@ -9258,6 +9258,76 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_iterative_broad_corroborative_hunt_remaining_9_holdouts_continued",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-261",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Reopened the X7 stop under the explicit overnight unconstrained corroborative hunt and logged X8 and X9",
+      "summary": "The human-authorized overnight continuation did not treat the earlier X7 stop as terminal. Two final fresh exception branches were opened and logged for the remaining eight holdouts: X8 = the direct 趙州 source-family set (`古尊宿語錄`, `趙州和尚語錄`) for the damaged T1-p007 cluster, and X9 = the broader 證道歌 quotation-family set (`證道歌頌`, `證道歌註(彥琪)`, `證道歌註(知訥)`, `指月錄`) for T1-p012.l02.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/ed/KR6q0261/CBETA/013",
+        "https://www.kanripo.org/ed/KR6q0391/J/001",
+        "https://www.kanripo.org/text/KR6q0177/001",
+        "https://www.kanripo.org/edition/CBETA/KR6q0133/001",
+        "https://krx.kanripo.org/edition/CBETA/KR6q0178/001",
+        "https://krx.kanripo.org/text/KR6q0023/006"
+      ],
+      "decision_ref": "D-028",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_overnight_unconstrained_corroborative_hunt_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_iterative_broad_corroborative_hunt_remaining_9_holdouts_continued",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-262",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Closed the overnight unconstrained corroborative hunt on the remaining eight holdouts without further T1 text changes",
+      "summary": "X8 confirmed the direct 趙州 exchange behind the damaged T1-p007 cluster, and X9 broadened the 證道歌 quotation family and later anthology preservation behind T1-p012.l02, but the local T1 page evidence still did not isolate full safe readings at T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, or T1-p012.l02. Renewed outward sweeps for T1-p029.l06 and T1-p030.l08 also did not surface a materially closer fresh source family beyond the already exhausted X5 branch. No further T1 text change is justified, and the overnight unconstrained corroborative hunt for the remaining eight holdouts is now genuinely exhausted across the plausibly productive source avenues found in this continuation.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "https://www.kanripo.org/ed/KR6q0261/CBETA/013",
+        "https://www.kanripo.org/ed/KR6q0391/J/001",
+        "https://www.kanripo.org/text/KR6q0177/001",
+        "https://www.kanripo.org/edition/CBETA/KR6q0133/001",
+        "https://krx.kanripo.org/edition/CBETA/KR6q0178/001",
+        "https://krx.kanripo.org/text/KR6q0023/006"
+      ],
+      "decision_ref": "D-029",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_overnight_unconstrained_corroborative_hunt_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_overnight_unconstrained_corroborative_hunt_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

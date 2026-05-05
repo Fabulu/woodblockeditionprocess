@@ -413,3 +413,27 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
 - Scope restriction: opened only under the human-authorized iterative broad corroborative hunt for the remaining holdouts; not promoted into the normal witness queue
+
+## X8
+
+- Witness: direct `趙州` source-family set `古尊宿語錄` and `趙州和尚語錄`
+- Acquisition date: `2026-05-05`
+- Access mode: browser-opened text only; no local file acquired
+- Source page: `https://www.kanripo.org/ed/KR6q0261/CBETA/013`
+- Source page: `https://www.kanripo.org/ed/KR6q0391/J/001`
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the human-authorized overnight unconstrained corroborative hunt for the remaining eight holdouts; not promoted into the normal witness queue
+
+## X9
+
+- Witness: `證道歌` quotation-family source set `證道歌頌`, `證道歌註(彥琪)`, `證道歌註(知訥)`, and `指月錄`
+- Acquisition date: `2026-05-05`
+- Access mode: browser-opened text only; no local file acquired
+- Source page: `https://www.kanripo.org/text/KR6q0177/001`
+- Source page: `https://www.kanripo.org/edition/CBETA/KR6q0133/001`
+- Source page: `https://krx.kanripo.org/edition/CBETA/KR6q0178/001`
+- Source page: `https://krx.kanripo.org/text/KR6q0023/006`
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the human-authorized overnight unconstrained corroborative hunt for the remaining eight holdouts; not promoted into the normal witness queue
