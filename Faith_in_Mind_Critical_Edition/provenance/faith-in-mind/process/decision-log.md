@@ -1,5 +1,41 @@
 # Decision Log: Faith in Mind
 
+## D-049 2026-05-06 - Reject further T1 repairs after X36 to X38 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X36-X38` continuation
+- Why: `X36` preserves the same `趙州 / 曾有人問我直得五年分疏不下` frame together with the paired `纔有語言是揀擇 / 和尚如何為人 / 何不引盡此語 / 只這至道無難唯嫌揀擇` exchange and the linked `分疏不下五年強` verse frame in a fresh `白雲守端禪師語錄` branch, `X37` preserves the same `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` quotation band in a fresh later sermonic branch through `為霖禪師旅泊菴稿`, and `X38` preserves the exact `一片月生海幾家人上樓` tail in a fresh `佛國禪師語錄` branch, but all three remain phrase- or context-level corroboration only; direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout crops confirms that the local `T1-p007` spillover still does not separate enough for line-level repair, the local `T1-p012.l02` image still does not isolate a full safe line, `T1-p030.l08` still lacks a defensible full-line recovery beyond the known tail phrase, and renewed outward searching again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material rather than a genuinely fresh corroborative branch for `T1-p029.l06`
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with `X36`, `X37`, and `X38`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-048 2026-05-06 - Continue beyond the logged X35 frontier under the same overnight authorization and open X36 to X38
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X33-X35` frontier by opening `X36 = 白雲守端禪師語錄 第2卷` for the damaged `T1-p007` `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` cluster, `X37 = 為霖禪師旅泊菴稿 卷第四` for the still-open `T1-p012.l02` `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` quotation band, and `X38 = 佛國禪師語錄` for the surviving `T1-p030.l08` `一片月生海幾家人上樓` tail-phrase branch
+- Why: the user explicitly authorized a fresh broader continuation beyond the already logged `X35` stop, and these were the strongest genuinely fresh branches still surfaced after renewed exact and near-exact searching across direct parallel, same-lineage yulu, later sermonic quotation, and tail-phrase preservation avenues; repeated renewed searching for `T1-p029.l06` in the same pass again collapsed back into already opened `真歇 / 建康普説 / 佛果 / 宗範` family material rather than yielding a genuinely fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout workbench surfaces, and fresh external overlaps for `曾有人問我直得五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語`, `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑`, and `一片月生海幾家人上樓`
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + assistant
+
+## D-046 2026-05-06 - Continue beyond the logged X32 frontier under the same overnight authorization and open X33 to X35
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X31-X32` frontier by opening `X33 = 雪竇四集（祖英集）` for the damaged `T1-p007` `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡這語` cluster, `X34 = 阿彌陀經疏鈔演義` for the still-open `T1-p012.l02` `吾早曾經多劫修不是等閒相誑惑` quotation band, and `X35 = 全唐詩/卷796` for the surviving `T1-p030.l08` `一片月生海幾家人上樓` tail-phrase branch
+- Why: the user explicitly authorized a fresh broader continuation beyond the already logged `X32` stop, and these were the strongest genuinely fresh branches still surfaced after renewed exact and near-exact searching across direct parallel, commentary, anthology, and source-tail avenues; repeated renewed searching for `T1-p029.l06` in the same pass again collapsed back into already opened `真歇 / 建康普説 / 佛果 / 宗範` family material rather than yielding a genuinely fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007`, `T1-p012`, and `T1-p030` holdout workbench surfaces, and fresh external overlaps for `曾有人問我直得五年分疏不下 / 纔有語言是揀擇 / 何不引盡這語`, `吾早曾經多劫修不是等閒相誑惑`, and `一片月生海幾家人上樓`
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + assistant
+
+## D-047 2026-05-06 - Reject further T1 repairs after X33 to X35 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X33-X35` continuation
+- Why: `X33` preserves both the `趙州 / 曾有人問我直得五年分疏不下` frame and the paired `纔有語言是揀擇 / 和尚如何爲人 / 何不引盡這語 / 只這至道無難唯嫌揀擇` exchange in a fresh `雪竇四集（祖英集）` branch, `X34` preserves the exact `吾早曾經多劫修不是等閒生誑惑` line in a fresh later doctrinal-commentary branch behind `T1-p012.l02`, and `X35` preserves the exact `一片月生海，幾家人上樓` tail line in an older poem-source branch behind `T1-p030.l08`, but all three remain phrase- or context-level corroboration only; direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout crops confirms that the local `T1-p007` spillover still does not separate enough for line-level repair, the local `T1-p012.l02` image still does not isolate a full safe line, `T1-p030.l08` still lacks a defensible full-line recovery beyond the known tail phrase, and renewed outward searching again did not surface a genuinely fresh corroborative family for `T1-p029.l06`
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with `X33`, `X34`, and `X35`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-044 2026-05-05 - Continue beyond the logged X30 frontier under the same overnight authorization and open X31 and X32
 
 - Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X28-X30` frontier by opening `X31 = 佛果圓悟禪師碧巖集種電鈔` for the damaged `T1-p007` `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` cluster and `X32 = 南明泉和尚頌證道歌事實卷第三` for the still-open `T1-p012.l02` `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` quotation band

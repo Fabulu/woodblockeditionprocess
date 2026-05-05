@@ -454,3 +454,45 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh `證道歌` commentary preservation of `吾早曾經多劫修不是等閒相誑惑` and the same surrounding `或是或非人不識逆行順行天莫測` quotation band
 - Role: `證道歌` commentary corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X33
+
+- Witness: `雪竇四集（祖英集）`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh `雪竇` preservation of the `趙州 / 曾有人問我直得五年分疏不下` frame together with the paired `纔有語言是揀擇 / 和尚如何爲人 / 何不引盡這語 / 只這至道無難唯嫌揀擇` exchange
+- Role: fresh `雪竇`-branch corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X34
+
+- Witness: `阿彌陀經疏鈔演義`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later doctrinal-commentary preservation of `吾早曾經多劫修不是等閒生誑惑`
+- Role: later doctrinal-commentary corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X35
+
+- Witness: `全唐詩/卷796`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the older poem-source preservation of `一片月生海，幾家人上樓`
+- Role: older poem-source corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X36
+
+- Witness: `白雲守端禪師語錄 第2卷`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh `白雲` yulu preservation of the `趙州 / 曾有人問我直得五年分疏不下` frame together with the paired `纔有語言是揀擇 / 和尚如何為人 / 何不引盡此語 / 只這至道無難唯嫌揀擇` exchange and linked verse frame
+- Role: fresh same-lineage yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X37
+
+- Witness: `為霖禪師旅泊菴稿 卷第四`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later sermonic preservation of the full `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` quotation band
+- Role: fresh later sermonic corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X38
+
+- Witness: `佛國禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh yulu preservation of `一片月生海幾家人上樓`
+- Role: fresh yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness

@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X30_remaining_8`
+- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X35_remaining_8`
 
 ## What is already done
 
@@ -488,4 +488,14 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `X31` broadens the `T1-p007` evidence to a fresh `碧巖錄` commentary branch through `佛果圓悟禪師碧巖集種電鈔`, which preserves both the `趙州 / 曾有人問我直得五年分疏不下` case and the exact `纔有語言是揀擇 / 和尚如何為人 / 何不引盡此語 / 只這至道無難唯嫌揀擇` exchange behind the damaged local cluster, but the local `T1` upper and lower spillover still do not separate enough for line-level repair.
 - `X32` broadens the `T1-p012` evidence to a fresh `證道歌` commentary branch through `南明泉和尚頌證道歌事實卷第三`, which again preserves the exact `吾早曾經多劫修不是等閒相誑惑` line while explaining the same `或是或非人不識逆行順行天莫測` quotation band, but the local `T1-p012.l02` image still does not isolate a full safe line.
 - renewed outward sweeps for `T1-p029.l06` and `T1-p030.l08` after `X31/X32` surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material and did not produce a genuinely fresh corroborative branch.
-- on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X32`, not merely paused at one source family or one repository.
+- that logged `X32` stop was then pushed farther rather than being treated as terminal by itself.
+- `X33` broadens the `T1-p007` evidence to a fresh `雪竇四集（祖英集）` branch, which preserves both the `趙州 / 曾有人問我直得五年分疏不下` frame and the paired `纔有語言是揀擇 / 和尚如何爲人 / 何不引盡這語 / 只這至道無難唯嫌揀擇` exchange behind the damaged local cluster, but the local `T1` upper and lower spillover still do not separate enough for line-level repair.
+- `X34` broadens the `T1-p012` evidence to a fresh later doctrinal-commentary branch through `阿彌陀經疏鈔演義`, which again preserves the exact `吾早曾經多劫修不是等閒生誑惑` line, but the local `T1-p012.l02` image still does not isolate a full safe line.
+- `X35` broadens the `T1-p030` evidence to an older poem-source branch through `全唐詩/卷796`, which preserves the exact tail `一片月生海，幾家人上樓`, but only at tail-phrase level and without lifting the damaged local `T1-p030.l08` cadence above repair threshold.
+- renewed outward sweeps for `T1-p029.l06` after `X33-X35` surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material and did not produce a genuinely fresh corroborative branch.
+- the logged `X35` stop was then pushed farther rather than being treated as terminal by itself.
+- `X36` broadens the `T1-p007` evidence to a fresh `白雲守端禪師語錄` yulu branch, which preserves the `趙州 / 曾有人問我直得五年分疏不下` frame together with the paired `纔有語言是揀擇 / 和尚如何為人 / 何不引盡此語 / 只這至道無難唯嫌揀擇` exchange and the linked `分疏不下五年強` verse frame, but the local `T1` upper and lower spillover still do not separate enough for line-level repair.
+- `X37` broadens the `T1-p012` evidence to a fresh later sermonic branch through `為霖禪師旅泊菴稿`, which again preserves the full `或是或非人不識逆行順行天莫測 / 吾早曾經多劫修不是等閒相誑惑` quotation band, but the local `T1-p012.l02` image still does not isolate a full safe line.
+- `X38` broadens the `T1-p030` evidence to a fresh yulu branch through `佛國禪師語錄`, which again preserves `一片月生海幾家人上樓`, but only at tail-phrase level and without lifting the full damaged `T1-p030.l08` cadence above threshold.
+- renewed outward sweeps for `T1-p029.l06` after `X36-X38` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material and did not produce a genuinely fresh corroborative branch.
+- on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X38`, not merely paused at one source family or one repository.
