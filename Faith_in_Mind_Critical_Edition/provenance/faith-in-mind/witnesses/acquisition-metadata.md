@@ -791,3 +791,34 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against T1-p030.l08 only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X36-X38 frontier; not promoted into the normal witness queue
+
+## X45
+
+- Witness: 五燈嚴統/卷第四
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://zh.wikisource.org/zh-hant/%E4%BA%94%E7%87%88%E5%9A%B4%E7%B5%B1/%E5%8D%B7%E7%AC%AC%E5%9B%9B
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X44 frontier; not promoted into the normal witness queue
+
+## X46
+
+- Witness: 大佛頂首楞嚴經正脉懸示 第1卷
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/X12n0274_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X44 frontier; not promoted into the normal witness queue
+
+## X47
+
+- Witness: 續傳燈錄/卷第二十二
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6q0016/022
+- Source page: https://www.potala.com.cn/?p=8073
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p030.l08 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X44 frontier; not promoted into the normal witness queue

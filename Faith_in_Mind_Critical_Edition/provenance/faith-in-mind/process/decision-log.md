@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-053 2026-05-06 - Reject further T1 repairs after X45 to X47 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X45-X47` continuation
+- Why: `X45` preserves the damaged `T1-p007` wall in a fresh `五燈嚴統/卷第四` branch with both the `曾有人問我。老僧直得五年分疏不下` frame and the paired `何不引盡此語` exchange, `X46` broadens the `T1-p012` wall to a fresh `楞嚴` commentary branch through `大佛頂首楞嚴經正脉懸示 第1卷`, and `X47` broadens the `T1-p030` wall to a fresh `續傳燈錄/卷第二十二` branch preserving `一片月生海幾家人上樓`; but all three remain phrase- or context-level corroboration only. Direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout crops confirms that the local `T1-p007` spillover still does not separate enough for line-level repair, the local `T1-p012.l02` image still does not isolate a full safe line, and the local `T1-p030.l08` image still does not isolate the full damaged cadence beyond the already known tail phrase. Renewed outward exact and near-exact searching for `T1-p029.l06` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範` family material rather than a genuinely fresh corroborative branch
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with `X45`, `X46`, and `X47`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-052 2026-05-06 - Continue beyond the logged X44 frontier under the same overnight authorization and open X45 to X47
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X39-X44` frontier by opening `X45 = 五燈嚴統/卷第四` for the damaged `T1-p007` `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` cluster, `X46 = 大佛頂首楞嚴經正脉懸示 第1卷` for the still-open `T1-p012.l02` `吾早曾經多劫修不是等閒相誑惑` quotation band, and `X47 = 續傳燈錄/卷第二十二` for a fresh later lamp-history preservation of `一片月生海幾家人上樓` behind `T1-p030.l08`
+- Why: the user explicitly authorized the overnight hunt to keep broadening past already logged frontiers while fresh plausible branches remained. These three were the strongest genuinely fresh branches still surfaced after renewed exact and near-exact searching across later lamp-history continuations, later doctrinal commentary, and additional transmission branches. Renewed searching for `T1-p029.l06` in the same pass again collapsed back into already opened `真歇 / 建康普説 / 佛果 / 宗範` family material rather than yielding a genuinely fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout workbench surfaces, and fresh external overlaps for `曾有人問我。老僧直得五年分疏不下 / 何不引盡此語`, `吾早曾經多劫修不是等閒相誑惑`, and `一片月生海。幾家人上樓`
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + assistant
+
 ## D-051 2026-05-06 - Reject further T1 repairs after X39 to X44 and re-close the overnight hunt on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X39-X44` continuation

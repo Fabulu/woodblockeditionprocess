@@ -21,6 +21,7 @@ Status: active
 
 - the bounded corroborative-evidence exception on `2026-05-04` formally opened `KR6q0359` for the exhausted 12-holdout queue only; it resolved `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`, and then exhausted cleanly on the remaining nine loci without justifying another `T1` text change.
 - a fresh user-directed bounded corroborative-evidence exception later on `2026-05-04` formally opened the tightly scoped source set `五燈會元/卷第四`, `楞嚴經`-related NTU/CBETA text for the `吾不見時何不見吾不見之處` band, and `真心直說` for the `一片月生海幾家人上樓` band as `X2` for those same nine loci only; it strengthened contextual overlap but exhausted cleanly without justifying any further `T1` text change.
+- the later broader overnight continuation on `2026-05-06` was pushed beyond the already logged `X44` frontier by opening `X45 = 五燈嚴統/卷第四`, `X46 = 大佛頂首楞嚴經正脉懸示 第1卷`, and `X47 = 續傳燈錄/卷第二十二`; those fresh branches further corroborated the `T1-p007`, `T1-p012`, and `T1-p030` families at phrase or context level only, while renewed outward exact and near-exact searching for `T1-p029.l06` again collapsed into already opened `真歇 / 建康普説 / 佛果 / 宗範` material. No further `T1` text change is justified on the present basis.
 - Only inspected loci belong here.
 - This register tracks unresolved transcription problems, not witness-selection questions.
 - Resolved loci should remain reconstructable through the correction log and timeline.

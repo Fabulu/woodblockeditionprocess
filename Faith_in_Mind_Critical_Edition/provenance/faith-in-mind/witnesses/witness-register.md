@@ -538,3 +538,24 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh yulu preservation of `一片月生海幾家人上樓`
 - Role: fresh yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X45
+
+- Witness: `五燈嚴統/卷第四`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later lamp-history preservation of the `趙州 / 五年分疏不下 / 何不引盡此語` wall
+- Role: fresh later lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X46
+
+- Witness: `大佛頂首楞嚴經正脉懸示 第1卷`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh `楞嚴` commentary preservation of `吾早曾經多劫修不是等閒相誑惑`
+- Role: fresh doctrinal-commentary corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X47
+
+- Witness: `續傳燈錄/卷第二十二`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later lamp-history preservation of `一片月生海幾家人上樓`
+- Role: fresh later lamp-history corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
