@@ -9118,6 +9118,74 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_fresh_bounded_corroborative_evidence_exception_remaining_9_holdouts",
         "last_text_changed_event": "FIM-254"
       }
+    },
+    {
+      "id": "FIM-257",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Opened a human-authorized broad corroborative hunt for the remaining nine holdouts",
+      "summary": "After X1 and X2 had already been exhausted, a broader but still locus-bounded corroborative roam was opened for T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, and T1-p030.l08 only. Two genuinely new external exception sources were opened and logged in that hunt: X3 = 圓悟佛果禪師語錄 for the T1-p030.l08 轉...轉... cadence and X4 = 碧巖錄/卷第六 for the 趙州 / 五年分疏不下 cluster behind T1-p007.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.baus-ebs.org/sutra/fan-read/003/04-026.htm",
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&nonum=&useid=1997_%2C01%2C0787",
+        "https://ntireader.org/taisho/t1997_16.html",
+        "https://zh.wikisource.org/wiki/%E7%A2%A7%E5%B7%96%E9%8C%84/%E5%8D%B7%E7%AC%AC%E5%85%AD"
+      ],
+      "decision_ref": "D-024",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broad_corroborative_hunt_remaining_9_holdouts",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_fresh_bounded_corroborative_evidence_exception_remaining_9_holdouts",
+        "last_text_changed_event": "FIM-254"
+      }
+    },
+    {
+      "id": "FIM-258",
+      "date": "2026-05-05",
+      "phase": "manual_correction_pass_2",
+      "title": "Exhausted the broad corroborative hunt for the remaining nine holdouts without new T1 text changes",
+      "summary": "X3 strengthened phrase-level corroboration for T1-p030.l08 through 猛割猛斷十分棄捨轉捨轉明轉遠轉近...斷却命去, and X4 strengthened phrase-level corroboration for the damaged T1-p007 cluster through 曾有人問我直得五年分疏不下, but the local T1 page evidence still did not isolate full safe readings at T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, or T1-p030.l08. No further T1 text change is justified, so the broad corroborative hunt for the remaining nine holdouts is now genuinely exhausted on the present basis.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-exact-rot90-mirror.png",
+        "https://www.baus-ebs.org/sutra/fan-read/003/04-026.htm",
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&nonum=&useid=1997_%2C01%2C0787",
+        "https://ntireader.org/taisho/t1997_16.html",
+        "https://zh.wikisource.org/wiki/%E7%A2%A7%E5%B7%96%E9%8C%84/%E5%8D%B7%E7%AC%AC%E5%85%AD"
+      ],
+      "decision_ref": "D-025",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broad_corroborative_hunt_exhaustion",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broad_corroborative_hunt_remaining_9_holdouts",
+        "last_text_changed_event": "FIM-254"
+      }
     }
   ]
 }

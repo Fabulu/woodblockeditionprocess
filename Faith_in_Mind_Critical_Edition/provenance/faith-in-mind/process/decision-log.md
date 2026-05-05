@@ -46,6 +46,24 @@
 - Actor type: `agent`
 - Actor id: assistant
 
+## D-024 2026-05-05 - Open a human-authorized broad corroborative hunt for the remaining nine exhausted holdouts
+
+- Decision: permit a broader corroborative hunt for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`, continuing beyond `X1` and `X2` but still limiting work to materially overlapping source traditions for those exact loci
+- Why: the in-package queue, the stronger direct-image-separation pass, the bounded `KR6q0359` exception, and the fresh bounded `X2` source-set pass were all already exhausted, and the human operator explicitly authorized a broader corroborative roam for the remaining nine loci only
+- Evidence: `current-state.md`, `unresolved-loci.md`, the completed `X1/X2` logs, and the user instruction opening this broader nine-locus hunt
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user+assistant
+
+## D-025 2026-05-05 - Keep the remaining nine loci unresolved after the broad corroborative hunt
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, or `T1-p030.l08` after opening `X3 = 圓悟佛果禪師語錄` and `X4 = 碧巖錄/卷第六`
+- Why: `X3` gives a stronger external cadence for `T1-p030.l08` through `猛割猛斷十分棄捨轉捨轉明轉遠轉近...斷却命去`, and `X4` gives a direct `曾有人問我直得五年分疏不下` frame for the damaged `T1-p007` cluster, but the local `T1` image still does not isolate full safe line readings at any of the nine loci without forcing non-local reconstruction
+- Evidence: the local `T1-p007` and `T1-p030` crops, saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, plus `X3` and `X4`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-006 2026-04-14 - Witness-set lock rule
 
 - Decision: stop the hunt only after `2` consecutive recon waves with no new credible free witness of any tier

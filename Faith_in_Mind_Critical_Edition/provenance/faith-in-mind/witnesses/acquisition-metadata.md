@@ -360,3 +360,25 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against the exact remaining nine unresolved `T1` loci only
 - Scope restriction: opened only under the fresh bounded corroborative-evidence exception for the remaining nine exhausted holdouts; not promoted into the normal witness queue
+
+## X3
+
+- Witness: `圓悟佛果禪師語錄`
+- Acquisition date: `2026-05-05`
+- Access mode: browser-opened text only; no local file acquired
+- Source page: `https://www.baus-ebs.org/sutra/fan-read/003/04-026.htm`
+- Source page: `https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&nonum=&useid=1997_%2C01%2C0787`
+- Source page: `https://ntireader.org/taisho/t1997_16.html`
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the human-authorized broad corroborative hunt for the remaining nine exhausted holdouts; not promoted into the normal witness queue
+
+## X4
+
+- Witness: `碧巖錄/卷第六`
+- Acquisition date: `2026-05-05`
+- Access mode: browser-opened text only; no local file acquired
+- Source page: `https://zh.wikisource.org/wiki/%E7%A2%A7%E5%B7%96%E9%8C%84/%E5%8D%B7%E7%AC%AC%E5%85%AD`
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the human-authorized broad corroborative hunt for the remaining nine exhausted holdouts; not promoted into the normal witness queue

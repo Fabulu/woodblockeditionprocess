@@ -1,6 +1,6 @@
 ﻿# Unresolved Loci: Faith in Mind
 
-Date: 2026-05-04
+Date: 2026-05-05
 Status: active
 
 ## Open loci
@@ -54,3 +54,5 @@ Status: active
 - the required package-level recheck had already been run across the older open `T1-p007` queue before the bounded corroborative exception. `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` remained below threshold after renewed direct image review plus the already saved local OCR support and already opened commentary-control parallels. After the later corroborative pass removed the former `T1-p033/T1-p034` wall, the live unresolved queue now consists only of `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`.
 - the stronger direct-image-separation continuation was then followed by the bounded corroborative-evidence exception. That later phase did resolve the former `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05` walls, but it still left `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08` unresolved.
 - the exhausted 12-locus workbench surface is now reusable rather than only implicit in generic temp filenames: `provenance/faith-in-mind/process/visual-workbench-holdouts-2026-05-04.md` maps each holdout to the alias derivatives under `provenance/faith-in-mind/process/visual-workbench-holdouts/`. This is an evidence-surface improvement only, not a new reading judgment.
+- the later human-authorized broad corroborative hunt also left the same nine loci unresolved. New exception sources `X3 = 圓悟佛果禪師語錄` and `X4 = 碧巖錄/卷第六` strengthened the `T1-p030.l08` `轉...轉...` cadence and the `T1-p007` `五年分疏不下` frame respectively, but only at phrase- or context-level; neither source lifted the local `T1` line isolation above repair threshold.
+- no fresh external source opened in that broad hunt produced a defensible `T1` text change. On the present basis the broad corroborative hunt for the remaining nine loci is exhausted rather than merely paused at one source family.

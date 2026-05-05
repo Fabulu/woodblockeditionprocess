@@ -1,6 +1,6 @@
 ﻿# Current State: Faith in Mind
 
-Date: 2026-05-04
+Date: 2026-05-05
 Status: active
 Edition slug: `faith-in-mind`
 
@@ -431,3 +431,8 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - on the present broader basis, the full bounded corroborative-evidence phase is now exhausted as well as the earlier page-level, package-level, and stronger direct-image-separation rechecks. No further honest progress remains available without genuinely cleaner image evidence, a different tightly bounded corroborative source for one of the nine still-open loci, or explicit new human direction.
 - the fresh user-directed nine-locus corroborative-evidence exception has now also exhausted that "different tightly bounded corroborative source" branch on the present broader basis: no new safe `T1` text change emerged from `X2`, so the package again stops with the same nine unresolved loci.
 - a later package-state sync has now also retired stale `unresolved-loci.md` notes that still listed old `T1-p032` residue as open; after the bounded corroborative exception, the live unresolved queue is now the nine-locus set `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`.
+- the later human-authorized broad corroborative hunt for those same nine loci has now also been completed. Two genuinely new external exception sources were opened and logged in that hunt: `X3 = 圓悟佛果禪師語錄` for the `T1-p030.l08` `轉...轉...` cadence, and `X4 = 碧巖錄/卷第六` for the `趙州 / 五年分疏不下` cluster behind `T1-p007`.
+- `X3` materially strengthens phrase-level corroboration around `T1-p030.l08`, specifically the cadence `猛割猛斷十分棄捨轉捨轉明轉遠轉近...斷却命去`, but the local `T1` crop still does not isolate a full safe line beyond the already known unstable `...轉親/轉遠/轉近...後來直得...` skeleton.
+- `X4` materially strengthens phrase-level corroboration around the damaged `T1-p007` cluster through `曾有人問我直得五年分疏不下`, but the local `T1` upper and lower spillover clusters still do not separate cleanly enough to justify line-level repair at `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, or `T1-p007.l12`.
+- no new `T1` text change was justified in the broad corroborative hunt. The live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`.
+- the broad corroborative hunt for those nine loci is now genuinely exhausted on the present basis: the strongest fresh overlaps beyond `X1` and `X2` have now been checked and logged, and no further safe `T1` repair remains available without genuinely cleaner image evidence or another fresh human-directed source opening.

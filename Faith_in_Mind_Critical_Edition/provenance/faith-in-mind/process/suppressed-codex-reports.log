@@ -2578,3 +2578,94 @@ No loci were newly resolved. The fresh bounded corroborative-evidence phase for 
 
 Updated surfaces include [current-state.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [decision-log.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/decision-log.md), [witness-register.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/witnesses/witness-register.md), [acquisition-metadata.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/witnesses/acquisition-metadata.md), [process.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json).
 
+## 20260505-061707
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260505-061707.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260505-061707.txt
+message:
+The broad corroborative hunt is now closed and the package state is synced. I logged the new exception sources `X3 = 圓悟佛果禪師語錄` and `X4 = 碧巖錄/卷第六` across the required state surfaces, updated `process.json` and `timeline.json`, and revalidated the package. Validation passed with `python scripts/validate_package.py`.
+
+New exception sources opened in this broad hunt:
+- `X3` `圓悟佛果禪師語錄`:
+  `https://www.baus-ebs.org/sutra/fan-read/003/04-026.htm`
+  `https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&nonum=&useid=1997_%2C01%2C0787`
+  `https://ntireader.org/taisho/t1997_16.html`
+- `X4` `碧巖錄/卷第六`:
+  `https://zh.wikisource.org/wiki/%E7%A2%A7%E5%B7%96%E9%8C%84/%E5%8D%B7%E7%AC%AC%E5%85%AD`
+
+Newly resolved loci: none.
+
+Still unresolved:
+- `T1-p007.l03`
+- `T1-p007.l04`
+- `T1-p007.l08`
+- `T1-p007.l09`
+- `T1-p007.l12`
+- `T1-p012.l02`
+- `T1-p029.l02`
+- `T1-p029.l06`
+- `T1-p030.l08`
+
+Why none moved: `X3` gave a stronger external cadence for `T1-p030.l08`, and `X4` confirmed the `趙州 / 五年分疏不下` frame behind the damaged `T1-p007` cluster, but both stayed at phrase/context corroboration only. The local `T1` image still does not isolate full safe line readings at those loci.
+
+The broad corroborative hunt for the remaining 9 holdouts was genuinely exhausted, not stopped for another reason.
+
+## 20260505-063547
+run: 2
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260505-063547.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260505-063547.txt
+message:
+The package state already reflects a completed broad corroborative hunt for the remaining nine holdouts. I verified the required process surfaces, confirmed `X3` and `X4` are logged across the package, fixed the stale header dates in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md:3) and [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md:3), and reran validation. `python scripts/validate_package.py` passes.
+
+New exception sources opened in this broad hunt were `X3 = 圓悟佛果禪師語錄` and `X4 = 碧巖錄/卷第六`. Newly resolved loci: none. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`.
+
+The stop reason is not a validation failure or missing log surface. On the present basis, the broad corroborative hunt for those remaining nine loci is already genuinely exhausted. No further safe `T1` repair is supported without cleaner image evidence or fresh human-directed source opening beyond the already logged `X1` to `X4`.
+
+## 20260505-063659
+run: 3
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260505-063659.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260505-063659.txt
+message:
+The current package state already reflects completion of the human-authorized broad corroborative hunt on `2026-05-05`. The governing prose logs, [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [decision-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/decision-log.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json) all agree that the slice ended at `FIM-258` with no further safe `T1` repairs.
+
+New exception sources opened in that broad hunt were `X3 = 圓悟佛果禪師語錄` and `X4 = 碧巖錄/卷第六`. No loci were newly resolved in that hunt. The loci still unresolved are `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present basis, this stopped because the broad corroborative hunt for those remaining nine loci is already genuinely exhausted, not for another reason.
+
+I ran `python scripts/validate_package.py`; validation passed. I did not make new edits. The git worktree is already dirty in the logged state files and related package surfaces, so there is nothing further for me to continue here without explicit new human direction or genuinely cleaner evidence.
+
+## 20260505-063744
+run: 4
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260505-063744.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260505-063744.txt
+message:
+The current package state already reflects completion of the human-authorized broad corroborative hunt on `2026-05-05`. I verified the required prose and machine-readable surfaces, including `current-state.md`, `unresolved-loci.md`, `decision-log.md`, `witness-register.md`, `acquisition-metadata.md`, `process.json`, and `timeline.json`; they agree that the broad nine-locus hunt ended at `FIM-258` with no further safe `T1` repairs. `python scripts/validate_package.py` passes.
+
+New exception sources opened in that broad hunt were `X3 = 圓悟佛果禪師語錄` and `X4 = 碧巖錄/卷第六`. Newly resolved loci in that hunt: none. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present basis, this stopped because the broad corroborative hunt for those remaining nine loci is already genuinely exhausted, not for another reason.
+
+## 20260505-063837
+run: 5
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260505-063837.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260505-063837.txt
+message:
+The current package state already has this requested phase completed as of `2026-05-05`. I verified the governing state and logs in [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [decision-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/decision-log.md), [witness-register.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/witnesses/witness-register.md), [acquisition-metadata.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/witnesses/acquisition-metadata.md), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json). They are aligned and already record the human-authorized broad corroborative hunt as exhausted. `python scripts/validate_package.py` also passed.
+
+New exception sources opened in that broad hunt are `X3 = 圓悟佛果禪師語錄` and `X4 = 碧巖錄/卷第六`. Newly resolved loci in the broader corroborative sequence before this terminal stop were only the earlier `X1` gains: `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`. No loci were newly resolved in the later broad nine-locus hunt itself.
+
+The loci still unresolved are `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present basis, the broad corroborative hunt for exactly these nine loci is already documented as genuinely exhausted, not stopped for another reason. No further bounded action is available without genuinely cleaner image evidence or fresh human-directed source opening beyond what is already logged.
+
+## 20260505-063948
+run: 6
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260505-063948.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260505-063948.txt
+message:
+The current package state already reflects completion of the requested broad corroborative hunt as of `2026-05-05`. I verified the required prose and machine-readable surfaces, including [current-state.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md:1), [unresolved-loci.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md:1), [decision-log.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/decision-log.md:49), [witness-register.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/witnesses/witness-register.md:248), [acquisition-metadata.md](/C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/witnesses/acquisition-metadata.md:364), [process.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json:1), and [timeline.json](/C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json:9126). They agree that the broad nine-locus hunt ended at `FIM-258` with no further safe `T1` repairs. `python scripts/validate_package.py` passes.
+
+New exception sources opened in that broad hunt were `X3 = 圓悟佛果禪師語錄` and `X4 = 碧巖錄/卷第六`. Newly resolved loci in that hunt: none. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present basis, this stopped because the broad corroborative hunt for those remaining nine loci is already genuinely exhausted, not for another reason.
+
+There is an existing dirty worktree on those state files plus the two local runner logs, but I did not add new edits in this turn.
+

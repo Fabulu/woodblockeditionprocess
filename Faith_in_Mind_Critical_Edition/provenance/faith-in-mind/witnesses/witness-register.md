@@ -244,3 +244,17 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: fresh bounded corroborative check for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08` only
 - Role: phrase- and context-level external corroboration for the last nine exhausted local holdouts, not a reopened comparison witness
+
+### X3
+
+- Witness: `圓悟佛果禪師語錄`
+- Access mode: web text view only
+- Scope: broad corroborative check for `T1-p030.l08` only, specifically the surviving `轉...轉...` cadence on the damaged local line
+- Role: phrase-level external corroboration for the last nine exhausted local holdouts, not a reopened comparison witness
+
+### X4
+
+- Witness: `碧巖錄/卷第六`
+- Access mode: web text view only
+- Scope: broad corroborative check for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the `趙州 / 五年分疏不下` cluster
+- Role: phrase- and context-level external corroboration for the last nine exhausted local holdouts, not a reopened comparison witness
