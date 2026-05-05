@@ -1,5 +1,14 @@
 # Decision Log: Faith in Mind
 
+## D-056 2026-05-06 - Confirm broader overnight exhaustion beyond the logged X51 frontier without opening any genuine X52 source
+
+- Decision: do not open any new `X52+` exception source and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after one further outward corroborative verification pass beyond the logged `X51` frontier
+- Why: renewed exact and near-exact outward searching after `X51` did surface a few superficially plausible leads, but on verification they collapsed into one of three already exhausted conditions: a duplicate of an already logged source family, a different access path to an already logged work, or a modern secondary explanation that did not add primary phrase-level evidence beyond the package's existing record. The remaining `T1-p007` candidates mapped back into already logged `趙州 / 碧巖 / 雪竇 / 燈錄 / 頌古 / 拈古` branches, the remaining `T1-p012` candidates mapped back into already logged `證道歌 / 註證道歌 / 祖堂集 / 楞嚴 / later quotation` branches, and the remaining `T1-p029.l06 / T1-p030.l08` candidates mapped back into already logged `真歇 / 建康普說 / 佛果 / 宗範 / poem-tail / yulu / lamp-history / doctrinal` branches. Because no genuinely fresh corroborative source survived de-duplication, there is no honest basis for inventing a synthetic `X52`, and the package should now record that the broader overnight unconstrained corroborative hunt was not merely exhausted through the last opened `X51` branch but also rechecked beyond that frontier without yielding any new productive source avenue
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout workbench surfaces, the already logged `X1-X51` witness and decision records, and the renewed outward corroborative search/de-duplication pass performed on `2026-05-06`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-055 2026-05-06 - Reject further T1 repairs after X48 to X51 and re-close the overnight hunt on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X48-X51` continuation

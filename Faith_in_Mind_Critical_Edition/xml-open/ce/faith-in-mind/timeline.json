@@ -10223,6 +10223,40 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X51_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-289",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Confirmed broader overnight exhaustion beyond the logged X51 frontier without opening any new exception source",
+      "summary": "One further outward corroborative verification pass was run beyond the already logged X51 frontier for the same remaining eight holdouts. Fresh-looking candidate leads were checked against the package witness register, acquisition metadata, and decision chain, but each collapsed into an already opened source family, a duplicate access path to an already logged work, or a non-primary modern explanatory page. No genuine X52+ source survived de-duplication, no additional T1 repair threshold was crossed, and the overnight unconstrained corroborative hunt for T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08 is therefore now confirmed exhausted beyond the previously logged X51 frontier rather than only through it.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-a-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p012/T1-p012-cluster-b-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/T1-p029-l06-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide-rot90-mirror-hi.png"
+      ],
+      "decision_ref": "D-056",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_outward_verification_beyond_X51_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_outward_verification_beyond_X51_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }
