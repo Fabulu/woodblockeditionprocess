@@ -10,7 +10,7 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X15_remaining_8`
+- Last completed phase: `manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X27_remaining_8`
 
 ## What is already done
 
@@ -473,3 +473,14 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `X22` broadens the `T1-p012` evidence to a fresh later quotation-compilation branch through `象教皮編`, which preserves the shorter quotation-level `或是或非人不識逆行順行天莫測` band and therefore strengthens phrase-family identity and rejection grounds, but the local `T1-p012.l02` image still does not isolate a full safe line.
 - `X23` broadens the `T1-p030` evidence to a fresh later lamp-history branch through `五燈全書/卷第九十二`, which again preserves `一片月生海幾家人上樓`, but only at phrase level and without lifting the damaged local `T1-p030.l08` cadence above repair threshold.
 - on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X23`, not merely paused at one source family or one repository.
+- that logged `X23` stop was then pushed farther rather than being treated as terminal by itself.
+- `X24` broadens the `T1-p007` evidence to a fresh `雪竇頌古` branch through `雪竇顯和尚明覺大師頌古集`, which again preserves the `趙州 / 曾有人問我直得五年分疏不下` frame behind the damaged local cluster, but the local `T1` upper and lower spillover still do not separate enough for line-level repair.
+- `X25` broadens the `T1-p012` evidence to a fresh later yulu-sermon branch through `大慧普覺禪師語錄`, which preserves `或是或非人不識逆行順行天莫測` together with the later sermonic continuation `隔山人唱鷓鴣詞錯認胡笳十八拍`, but the local `T1-p012.l02` image still does not isolate a full safe line.
+- `X26` broadens the same `T1-p012` wall to a second fresh later yulu branch through `保寧仁勇禪師語錄`, which again preserves the shorter quotation-level `或是或非人不識逆行順行天莫測` band, but still does not lift the local image above repair threshold.
+- `X27` broadens the `T1-p007` evidence to a fresh later imperial-anthology branch through `御選語錄`, which again preserves `曾有人問我老僧直得五年分疏不下`, but again does not untangle the local upper and lower spillover enough for line-level repair.
+- on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X27`, not merely paused at one source family or one repository.
+- that logged `X27` stop was then pushed farther rather than being treated as terminal by itself.
+- `X28` broadens the `T1-p007` evidence to a fresh direct-commentary branch through `焭絕老人天奇直註雪竇顯和尚頌古 第2卷`, which preserves the exact `纔有語言是揀擇 / 和尚如何為人 / 何不引盡此語 / 只這至道無難唯嫌揀擇` exchange behind the damaged local cluster, but the local `T1` upper and lower spillover still do not separate enough for line-level repair.
+- `X29` broadens the `T1-p012` evidence to a fresh older quotation-preservation branch through `祖堂集 第12卷`, which preserves the exact `吾早曾經多劫修不是等閒相誑惑` line, but the local `T1-p012.l02` image still does not isolate a full safe line.
+- `X30` broadens the `T1-p029/T1-p030` evidence to a fresh later compilation branch through `宗範 (卷上)`, which preserves `淨躶躶圓垛垛` together with the `轉捨轉明轉遠轉近` cadence, but the local `T1-p029.l06` and `T1-p030.l08` images still do not isolate full safe lines.
+- on the present broader basis the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted across the plausibly productive source avenues opened through `X30`, not merely paused at one source family or one repository.

@@ -580,3 +580,73 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against T1-p030.l08 only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X16-X19 frontier; not promoted into the normal witness queue
+
+## X24
+
+- Witness: 雪竇顯和尚明覺大師頌古集
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR4d0033/001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X20-X23 frontier; not promoted into the normal witness queue
+
+## X25
+
+- Witness: 大慧普覺禪師語錄
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/ed/KR6q0060/T%40JIAXING/007
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X20-X23 frontier; not promoted into the normal witness queue
+
+## X26
+
+- Witness: 保寧仁勇禪師語錄
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6q0284/001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X20-X23 frontier; not promoted into the normal witness queue
+
+## X27
+
+- Witness: 御選語錄
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/edition/CBETA/KR6s0069/016
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X20-X23 frontier; not promoted into the normal witness queue
+
+## X28
+
+- Witness: 焭絕老人天奇直註雪竇顯和尚頌古 第2卷
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X67n1302_002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged T1-p007 cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X24-X27 frontier; not promoted into the normal witness queue
+
+## X29
+
+- Witness: 祖堂集 第12卷
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/B25n0144_012
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p012.l02 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X24-X27 frontier; not promoted into the normal witness queue
+
+## X30
+
+- Witness: 宗範 (卷上)
+- Acquisition date: 2026-05-05
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X65n1283_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against T1-p029.l06 and T1-p030.l08 only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged X24-X27 frontier; not promoted into the normal witness queue
