@@ -237,3 +237,10 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: bounded corroborative check for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, `T1-p030.l08`, `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`
 - Role: exact external corroboration for exhausted local holdouts, not a reopened comparison witness
+
+### X2
+
+- Witness: bounded corroborative source set `五燈會元/卷第四`, `楞嚴經`-related NTU/CBETA text for the `吾不見時何不見吾不見之處` band, and `真心直說`
+- Access mode: web text view only
+- Scope: fresh bounded corroborative check for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08` only
+- Role: phrase- and context-level external corroboration for the last nine exhausted local holdouts, not a reopened comparison witness

@@ -348,3 +348,15 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against the exact exhausted `T1` loci only
 - Scope restriction: opened only under the bounded corroborative-evidence exception for the 12 remaining exhausted holdouts; not promoted into the normal witness queue
+
+## X2
+
+- Witness: bounded corroborative source set `五燈會元/卷第四`, `楞嚴經`-related NTU/CBETA text, and `真心直說`
+- Acquisition date: `2026-05-04`
+- Access mode: browser-opened text only; no local file acquired
+- Source page: `https://zh.wikisource.org/wiki/%E4%BA%94%E7%87%88%E6%9C%83%E5%85%83/%E5%8D%B7%E7%AC%AC%E5%9B%9B`
+- Source page: `https://buddhism.lib.ntu.edu.tw/BDLM/sutra/html/T47/T47n1998a.htm`
+- Source page: `https://buddhism.lib.ntu.edu.tw/BDLM/sutra/html/T48/T48n2019a.htm`
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the exact remaining nine unresolved `T1` loci only
+- Scope restriction: opened only under the fresh bounded corroborative-evidence exception for the remaining nine exhausted holdouts; not promoted into the normal witness queue

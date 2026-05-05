@@ -9042,6 +9042,82 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_bounded_corroborative_evidence_exception_remaining_12_holdouts",
         "last_text_changed_event": "FIM-254"
       }
+    },
+    {
+      "id": "FIM-255",
+      "date": "2026-05-04",
+      "phase": "manual_correction_pass_2",
+      "title": "Opened a fresh bounded corroborative source set for the remaining nine holdouts only",
+      "summary": "After the KR6q0359 exception had already been exhausted, one further tightly bounded corroborative source set was opened for T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, and T1-p030.l08 only: 五燈會元/卷第四, NTU/CBETA 楞嚴經-related text for the 吾不見時何不見吾不見之處 band, and 真心直說 for the 一片月生海幾家人上樓 band. This was logged as a fresh corroborative exception rather than as a reopened witness hunt.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://zh.wikisource.org/wiki/%E4%BA%94%E7%87%88%E6%9C%83%E5%85%83/%E5%8D%B7%E7%AC%AC%E5%9B%9B",
+        "https://buddhism.lib.ntu.edu.tw/BDLM/sutra/html/T47/T47n1998a.htm",
+        "https://buddhism.lib.ntu.edu.tw/BDLM/sutra/html/T48/T48n2019a.htm"
+      ],
+      "decision_ref": "D-022",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_fresh_bounded_corroborative_evidence_exception_remaining_9_holdouts",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_bounded_corroborative_evidence_exception_remaining_12_holdouts",
+        "last_text_changed_event": "FIM-254"
+      }
+    },
+    {
+      "id": "FIM-256",
+      "date": "2026-05-04",
+      "phase": "manual_correction_pass_2",
+      "title": "Exhausted the fresh bounded corroborative source-set pass without new T1 text changes",
+      "summary": "The new X2 corroborative source set strengthened contextual overlap around the 趙州 / 五年分疏不下, 吾不見時何不見吾不見之處, and 一片月生海幾家人上樓 bands, but the local T1 page evidence still did not isolate full safe readings at T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l02, T1-p029.l06, or T1-p030.l08. No further T1 text change is justified, so the fresh bounded corroborative-evidence phase for the remaining nine holdouts is exhausted on the present broader basis.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p030.txt",
+        "https://zh.wikisource.org/wiki/%E4%BA%94%E7%87%88%E6%9C%83%E5%85%83/%E5%8D%B7%E7%AC%AC%E5%9B%9B",
+        "https://buddhism.lib.ntu.edu.tw/BDLM/sutra/html/T47/T47n1998a.htm",
+        "https://buddhism.lib.ntu.edu.tw/BDLM/sutra/html/T48/T48n2019a.htm"
+      ],
+      "decision_ref": "D-023",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_fresh_nine_locus_bounded_corroborative_exception_exhaustion",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_fresh_bounded_corroborative_evidence_exception_remaining_9_holdouts",
+        "last_text_changed_event": "FIM-254"
+      }
     }
   ]
 }

@@ -2556,3 +2556,17 @@ As of **2026-05-04**, the package is already past the 12-locus exception phase y
 
 I did not make further text or log changes, because the current state files, `process.json`, and `timeline.json` already record that the bounded corroborative-evidence phase was exhausted on the broader basis after `KR6q0359`. `python scripts/validate_package.py` passes from the present state. So the honest closeout is: the new corroborative source opened was `KR6q0359`; newly resolved loci were `T1-p033.l03`, `T1-p033.l05`, and `T1-p034.l05`; nine loci remain unresolved; and no further safe `T1` changes are available from the current package state without either genuinely cleaner image evidence, a different tightly bounded corroborative source, or explicit new direction.
 
+## 20260504-213448
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260504-213448.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260504-213448.txt
+message:
+Processed the full fresh nine-locus corroborative-evidence queue and logged it across the required state surfaces. Package validation passed with `python scripts/validate_package.py`.
+
+New corroborative sources opened in this phase were `X2`: `五燈會元/卷第四` (`https://zh.wikisource.org/wiki/%E4%BA%94%E7%87%88%E6%9C%83%E5%85%83/%E5%8D%B7%E7%AC%AC%E5%9B%9B`), NTU/CBETA `楞嚴經`-related text for the `吾不見時何不見吾不見之處` band (`https://buddhism.lib.ntu.edu.tw/BDLM/sutra/html/T47/T47n1998a.htm`), and `真心直說` for the `一片月生海幾家人上樓` band (`https://buddhism.lib.ntu.edu.tw/BDLM/sutra/html/T48/T48n2019a.htm`).
+
+No loci were newly resolved. The fresh bounded corroborative-evidence phase for the 9 remaining holdouts was exhausted without new safe `T1` text changes. The loci still unresolved are `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`.
+
+Updated surfaces include [current-state.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md), [unresolved-loci.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/unresolved-loci.md), [process-log.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/process-log.md), [human-log.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/human-log.md), [decision-log.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/decision-log.md), [witness-register.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/witnesses/witness-register.md), [acquisition-metadata.md](C:/woodblocks/Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/witnesses/acquisition-metadata.md), [process.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json), and [timeline.json](C:/woodblocks/Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json).
+

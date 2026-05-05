@@ -190,3 +190,21 @@
 - Confidence: medium-high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-022 2026-05-04 - Open a fresh bounded corroborative source set for the remaining nine holdouts only
+
+- Decision: permit one further tightly bounded corroborative-evidence exception for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, and `T1-p030.l08`, using the external source set `五燈會元/卷第四`, `楞嚴經`-related NTU/CBETA text for the `吾不見時何不見吾不見之處` band, and `真心直說` for the `一片月生海幾家人上樓` band only where they materially overlap those exact unresolved local loci
+- Why: the in-package queue, the stronger direct-image-separation pass, and the first bounded corroborative exception on `KR6q0359` were already exhausted; the human operator explicitly redirected the work to one fresh step-2 corroborative pass for the remaining nine loci rather than to a general witness hunt
+- Evidence: `current-state.md`, `unresolved-loci.md`, the saved holdout workbench, the completed `KR6q0359` exception, and the user instruction opening this fresh nine-locus bounded pass
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user+assistant
+
+## D-023 2026-05-04 - Reject further T1 repairs after the fresh nine-locus corroborative source-set pass
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l02`, `T1-p029.l06`, or `T1-p030.l08` after the bounded `X2` corroborative pass
+- Why: the new source set strengthens contextual or phrase-level overlap around the `趙州 / 五年分疏不下`, `吾不見時何不見吾不見之處`, and `一片月生海幾家人上樓` bands, but the local `T1` image basis still does not isolate full safe line readings at those nine loci without forcing non-local reconstruction
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with the bounded `X2` corroborative source set
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
