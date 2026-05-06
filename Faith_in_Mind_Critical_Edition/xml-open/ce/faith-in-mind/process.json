@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_human_reauthorized_post_X166_no_X167_remaining_8",
+      "slug": "manual_correction_slice_T1_second_pass_human_directed_workspace_local_recheck_no_external_access_remaining_8",
       "witnesses": [
         "T1",
         "T4",
@@ -319,9 +319,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_human_reauthorized_post_X168_no_X169_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_retested_external_access_post_X168_no_X169_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_human_reauthorized_post_X168_no_X169_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_external_retest_no_X169_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -336,7 +336,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "A fresh human-directed broader continuation was pushed one farther step beyond the already logged post-`X166` no-`X167` frontier, and two genuinely fresh branches did survive title-level de-duplication: `X167 = 燮雲璣禪師國清無畏堂語錄`, preserving the exact `口欲談而辭喪。心欲緣而慮亡。` pair behind `T1-p012.l02`, and `X168 = 拈八方珠玉集`, preserving the linked-reply variant `在舍只言為客易。臨筌方覺取魚難。` behind `T1-p030.l08`. Even with `X167/X168`, no overlooked local threshold was crossed and no `T1` text change is justified. One immediate follow-up broader outward check after them again reduced the strongest fresh-looking survivors to already opened `景德傳燈錄`, `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, `禪林僧寶傳`, `佛祖綱目/卷第三十四`, `五家參詳要路門`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `聯燈會要/卷第十八`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `全唐詩/卷796`, and related already broad phrase families, duplicate-access routes, or non-primary explanatory surfaces rather than a farther genuine `X169`. The live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across plausible avenues opened through `X168`; no further autonomous corroborative action remains unless new source material or a new human-directed phase is introduced."
+    "next_required_action": "Fresh external-source access was reopened after the workspace-local `400dpi` stop and one more broader corroborative sweep was run across the same eight unresolved loci. No genuine `X169` survived title-level de-duplication: the fresh-looking leads collapsed into already logged `X*` branches, duplicate-access routes, or non-primary explanatory surfaces, and no overlooked local threshold was crossed on `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030`. No further `T1` text change is justified, and the live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. The overnight unconstrained corroborative hunt for those eight loci has therefore now again been genuinely exhausted across the plausible broader external avenues re-tested beyond `X168`; further progress requires genuinely new source material or human redirection rather than another pass over the already logged branches."
   }
 }
 
