@@ -14256,6 +14256,75 @@
       }
     },
     {
+      "id": "FIM-419",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the post-X154 no-X155 frontier and logged X155 to X158",
+      "summary": "The broader overnight hunt still did not stop at the earlier post-X154 no-X155 verification claim. A renewed outward pass surfaced four genuinely fresh corroborative branches not yet recorded in the package state after title-level de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X155 = 禪林僧寶傳 for the full 陳尚書 / 雲門 / 教意 exchange behind T1-p012.l02, X156 = 聯燈會要/卷第十八 for the exact tail 一片月生海。幾家人上樓。 behind T1-p030.l08, X157 = 佛祖綱目/卷第三十四 for a second fresh 佛祖綱目 preservation of the same T1-p012 quotation wall, and X158 = 佛祖綱目/卷第三十五 for one more direct 十方無壁落。四面亦無門。古人向甚麼處見客。 wall behind the damaged T1-p007 cluster.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://deerpark.app/cbeta/X1560/2",
+        "https://deerpark.app/reader/X1557/18",
+        "https://deerpark.app/cbeta/X1594/34",
+        "https://deerpark.app/cbeta/X1594/35",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-187",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_continued_broader_post_X154_opened_X155_to_X158_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_continued_broader_post_X154_opened_X155_to_X158_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-420",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation after X155 to X158 without further T1 text changes and without opening X159",
+      "summary": "X155 to X158 materially broaden the T1-p012, T1-p030, and T1-p007 walls through fresh 禪林僧寶傳, 聯燈會要 volume-branch, and 佛祖綱目 volume-branch evidence, but they remain corroborative only: the local T1-p007, T1-p012, and T1-p030 holdout surfaces still do not isolate safe line-level readings, and one immediate follow-up broader outward check after X158 again reduced the strongest fresh-looking survivors to already opened 雲門匡真禪師廣錄, 居士分燈錄, 先覺宗乘, 古林清茂禪師語錄, 五家參詳要路門, 續傳燈錄/卷第二, 五燈全書/卷第三十三, 御製揀魔辨異錄, 楞嚴經宗通, 古尊宿語錄/卷第四十六, 佛光國師語録, 常光國師語録, 全唐詩/卷796, and the already broad 趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海 families rather than a farther genuine X159.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://deerpark.app/cbeta/X1560/2",
+        "https://deerpark.app/reader/X1557/18",
+        "https://deerpark.app/cbeta/X1594/34",
+        "https://deerpark.app/cbeta/X1594/35",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-188",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_broader_post_X154_opened_X155_to_X158_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_continued_broader_post_X154_opened_X155_to_X158_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
       "id": "FIM-417",
       "date": "2026-05-06",
       "phase": "manual_correction_pass_2",

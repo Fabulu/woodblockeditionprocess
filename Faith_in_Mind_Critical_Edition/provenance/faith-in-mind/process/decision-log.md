@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-188 2026-05-06 - Reject further T1 repairs after X155 to X158 and re-close the overnight corroborative continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X155/X156/X157/X158` continuation
+- Why: `X155 = 禪林僧寶傳` materially broadens the `T1-p012` quotation wall through one more full `陳尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮忘。 / 口欲談而辭喪。為對有言。心欲緣而慮忘。為對妄想。` preservation; `X156 = 聯燈會要/卷第十八` materially broadens the `T1-p030` tail family through one more fresh `一片月生海。幾家人上樓。` preservation; `X157 = 佛祖綱目/卷第三十四` materially broadens the same `T1-p012` wall through a second fresh `佛祖綱目` volume branch preserving the full `陳操 / 雲門 / 教意` exchange; and `X158 = 佛祖綱目/卷第三十五` materially broadens the `T1-p007` wall through one more fresh `佛祖綱目` volume branch preserving `十方無壁落。四面亦無門。古人向甚麼處見客。` But all four remain corroborative only. Direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces still does not isolate safe line-level `T1` readings, and one immediate follow-up broader outward check after `X158` again reduced the strongest fresh-looking survivors to already opened `雲門匡真禪師廣錄`, `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, `五家參詳要路門`, `續傳燈錄/卷第二`, `五燈全書/卷第三十三`, `御製揀魔辨異錄`, `楞嚴經宗通`, `古尊宿語錄/卷第四十六`, `佛光國師語録`, `常光國師語録`, `全唐詩/卷796`, and the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families rather than a farther genuine `X159`. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X155 = 禪林僧寶傳` at `https://deerpark.app/cbeta/X1560/2`, `X156 = 聯燈會要/卷第十八` at `https://deerpark.app/reader/X1557/18`, `X157 = 佛祖綱目/卷第三十四` at `https://deerpark.app/cbeta/X1594/34`, `X158 = 佛祖綱目/卷第三十五` at `https://deerpark.app/cbeta/X1594/35`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-187 2026-05-06 - Continue beyond the post-X154 no-X155 stop under the same overnight authorization and open X155 to X158
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X154` no-`X155` frontier by opening `X155 = 禪林僧寶傳` and `X157 = 佛祖綱目/卷第三十四` for `T1-p012.l02`, `X156 = 聯燈會要/卷第十八` for `T1-p030.l08`, and `X158 = 佛祖綱目/卷第三十五` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced four genuinely fresh corroborative branches not yet recorded anywhere in the package state after title-level de-duplication against the already logged `X1-X154` chain, already-opened branch paths, and duplicate access routes. `X155` preserves the full `陳尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮忘。 / 為對有言 / 為對妄想` exchange in a fresh `禪林僧寶傳` branch distinct from the already logged `南宋元明禪林僧寶傳`; `X156` preserves the exact tail `一片月生海。幾家人上樓。` in a fresh `聯燈會要` volume branch distinct from the already logged `聯燈會要/卷第十`; `X157` preserves the same full `陳操 / 雲門 / 教意` exchange in a fresh `佛祖綱目/卷第三十四` branch distinct from the already logged `佛祖綱目/卷第三十`; and `X158` preserves `十方無壁落。四面亦無門。古人向甚麼處見客。` in a fresh `佛祖綱目/卷第三十五` branch behind the damaged `T1-p007` cluster. Renewed outward exact and near-exact checking on the remaining queue during the same pass did not surface a farther genuine fresh title-level survivor beyond these four branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X154`, the saved `T1-p007`, `T1-p012`, and `T1-p030` holdout surfaces, and the fresh targeted hits at `https://deerpark.app/cbeta/X1560/2`, `https://deerpark.app/reader/X1557/18`, `https://deerpark.app/cbeta/X1594/34`, and `https://deerpark.app/cbeta/X1594/35`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-186 2026-05-06 - Reject further T1 repairs after X154 and re-close the overnight corroborative continuation on the remaining eight holdouts with no X155
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X154` continuation

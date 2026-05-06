@@ -1877,6 +1877,46 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged repeated post-`X153` no-`X154` stop; not promoted into the normal witness queue
 
+## X155
+
+- Witness: 禪林僧寶傳
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://deerpark.app/cbeta/X1560/2
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X154` no-`X155` stop; not promoted into the normal witness queue
+
+## X156
+
+- Witness: 聯燈會要/卷第十八
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://deerpark.app/reader/X1557/18
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X154` no-`X155` stop; not promoted into the normal witness queue
+
+## X157
+
+- Witness: 佛祖綱目/卷第三十四
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://deerpark.app/cbeta/X1594/34
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X154` no-`X155` stop; not promoted into the normal witness queue
+
+## X158
+
+- Witness: 佛祖綱目/卷第三十五
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://deerpark.app/cbeta/X1594/35
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X154` no-`X155` stop; not promoted into the normal witness queue
+
 ## X149
 
 - Witness: 佛光國師語録

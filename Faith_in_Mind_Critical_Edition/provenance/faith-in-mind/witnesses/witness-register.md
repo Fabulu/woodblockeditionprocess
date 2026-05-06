@@ -1301,6 +1301,34 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh `續傳燈錄` volume-branch preservation of `十方無壁落。四面亦無門。古人向甚麼處見客。` through the `襄州延慶山子榮禪師` entry
 - Role: fresh lamp-history volume-branch corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
 
+### X155
+
+- Witness: `禪林僧寶傳`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh historical-biographical preservation of the full `陳尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮忘。 / 口欲談而辭喪。為對有言。心欲緣而慮忘。為對妄想。` exchange behind the still-damaged quotation wall
+- Role: fresh historical-biographical corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X156
+
+- Witness: `聯燈會要/卷第十八`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh `聯燈會要` volume-branch preservation of the exact tail `一片月生海。幾家人上樓。` behind the damaged local wall
+- Role: fresh anthology or lamp-history volume-branch corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X157
+
+- Witness: `佛祖綱目/卷第三十四`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh `佛祖綱目` volume-branch preservation of the full `陳操 / 雲門 / 教意 / 口欲談而詞喪(辭喪)。心欲緣而慮亡。 / 尚書且莫草草。` exchange behind the still-damaged quotation wall
+- Role: fresh historical-anthology volume-branch corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X158
+
+- Witness: `佛祖綱目/卷第三十五`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh `佛祖綱目` volume-branch preservation of `十方無壁落。四面亦無門。古人向甚麼處見客。` behind the damaged local cluster
+- Role: fresh historical-anthology volume-branch corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
 ### X150
 
 - Witness: `常光國師語録`
