@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8",
+      "slug": "manual_correction_slice_T1_second_pass_promote_p007_l09_from_human_segmentation_review",
       "witnesses": [
         "T1",
         "T4",
@@ -326,9 +326,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8",
-      "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8"
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_promote_p007_l09_from_human_segmentation_review",
+      "last_text_changed_event": "FIM-456",
+      "next_required_slice": "manual_correction_slice_T1_second_pass_continue_p007_l04_l08_review_remaining_7"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -343,7 +343,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The broader overnight corroborative continuation was pushed beyond the earlier post-`X173` frontier and newly logged `X174 = 頻吉祥禪師語錄` for the `T1-p007` wall and `X175 = 聖朝破邪集卷第八` for `T1-p012.l02`. Both broaden corroboration, but direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces still does not isolate any safe line-level `T1` reading at the eight remaining loci, and one immediate wider follow-up after `X175` again reduced the strongest apparent survivors to already opened branches or duplicate-access routes rather than to a farther genuine `X176`. No `T1` text change is justified, `last_text_changed_event` therefore remains `FIM-260`, and the overnight unconstrained corroborative hunt for the remaining eight loci is now again genuinely exhausted across the plausibly productive broader avenues opened through `X175`. The next required work therefore returns to a bounded manual segmentation review of the `T1-p007` cluster before any further text-change decision."
+    "next_required_action": "The bounded human-directed `T1-p007` manual segmentation review has now yielded one conservative local gain: `T1-p007.l09 = 師云住總有語言是揀擇`, accepted from direct page inspection plus convergent Paddle support on the speech-frame `師云住...有語言是擇`. The OCR tail `是明日三祖大` remains below threshold as spillover or collapse rather than certifiable continuation. `T1-p007.l08` is now narrower around `徹髓透這一轉公案` but still unresolved, and the next required work is therefore a bounded continuation of the `T1-p007` manual review focused on `l04` and `l08` together with the remaining unresolved loci `T1-p007.l03`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`."
   }
 }
 

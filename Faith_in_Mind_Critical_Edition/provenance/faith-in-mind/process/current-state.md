@@ -10,8 +10,8 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8`
-- Next required phase: `manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8`
+- Last completed phase: `manual_correction_slice_T1_second_pass_promote_p007_l09_from_human_segmentation_review`
+- Next required phase: `manual_correction_slice_T1_second_pass_continue_p007_l04_l08_review_remaining_7`
 
 ## Current overnight continuation status
 
@@ -20,6 +20,8 @@ Edition slug: `faith-in-mind`
 - Both new branches remain corroborative only. Direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces still does not isolate any safe line-level `T1` reading at the eight remaining loci.
 - One immediate wider follow-up after `X175` again reduced the strongest apparent survivors to already opened branches or duplicate-access routes rather than to a farther genuine `X176`.
 - The overnight unconstrained corroborative hunt for the remaining eight loci is therefore now again genuinely exhausted across the plausibly productive broader avenues opened through `X175`, and the live package frontier returns to the bounded local `T1-p007` manual-segmentation review.
+- That local `T1-p007` review has now yielded one conservative text gain: `T1-p007.l09 = 師云住總有語言是揀擇`, accepted from direct page inspection plus convergent Paddle support on the speech-frame `師云住...有語言是擇`.
+- `T1-p007.l08` is now narrower in substance around `徹髓透這一轉公案`, but it still does not isolate a full safe line-level reading and remains unresolved together with `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`.
 
 ## What is already done
 

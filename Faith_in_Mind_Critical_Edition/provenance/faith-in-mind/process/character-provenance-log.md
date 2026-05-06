@@ -684,3 +684,9 @@ Faith in Mind adoption rule:
 | `T1-p029.l02` | 12 | `裏` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
 | `T1-p029.l02` | 14 | `躶` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
 | `T1-p029.l02` | 17 | `洒` | `image inspection plus X5 corroboration` | `moderate` | `T1/X5` |
+| `T1-p007.l09` | 1 | `師` | `image inspection plus Paddle local frame` | `moderate` | `T1` |
+| `T1-p007.l09` | 3 | `住` | `image inspection plus Paddle local frame` | `moderate` | `T1` |
+| `T1-p007.l09` | 4 | `總` | `image inspection` | `moderate` | `T1` |
+| `T1-p007.l09` | 6 | `語` | `image inspection plus Paddle local frame` | `moderate` | `T1` |
+| `T1-p007.l09` | 9 | `揀` | `image inspection plus Paddle local frame` | `moderate` | `T1` |
+| `T1-p007.l09` | 10 | `擇` | `image inspection plus Paddle local frame` | `moderate` | `T1` |
