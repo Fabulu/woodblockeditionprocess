@@ -1,5 +1,41 @@
 # Decision Log: Faith in Mind
 
+## D-124 2026-05-06 - Reject further T1 repairs after X100 to X102 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X100-X102` continuation
+- Why: `X100 = 天隱修禪師語錄` preserves `十方無壁落。四面亦無門。淨躶躶赤灑灑沒可把。` together with the linked `大梵天王與帝釋商量什麼事` in a fresh later case-commentarial reprise of the damaged `T1-p007` cluster; `X101 = 南石文琇禪師語錄` preserves `淨躶躶絕承當。赤灑灑沒可把。三世十方空蕩蕩。無佛無祖無眾生。` in a fresh later-yulu branch behind `T1-p029.l06`; and `X102 = 御定全唐詩 (四庫全書本) / 全覽28` preserves the older `貫休` poem-family line `一片月出海幾家人上樓` in a fresh anthology-preservation branch behind `T1-p030.l08`. Even taken together, those three fresh sources remain corroborative only. The local `T1-p007`, `T1-p029`, and `T1-p030` holdout surfaces still do not isolate safe line-level readings, `X102` sharpens rejection rather than repair, and no `T1` repair threshold was crossed anywhere in the remaining eight-locus queue
+- Evidence: the local `T1-p007`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X100 = 天隱修禪師語錄` at `https://www.kanripo.org/ed/KR6q0603/L/004`, `X101 = 南石文琇禪師語錄` at `https://www.kanripo.org/text/KR6q0355/001`, `X102 = 御定全唐詩 (四庫全書本) / 全覽28` at `https://zh.wikisource.org/zh-hant/%E5%BE%A1%E5%AE%9A%E5%85%A8%E5%94%90%E8%A9%A9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD28`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-123 2026-05-06 - Continue beyond the logged X99 frontier under the same overnight authorization and open X100 to X102
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X99` frontier by opening `X100 = 天隱修禪師語錄`, `X101 = 南石文琇禪師語錄`, and `X102 = 御定全唐詩 (四庫全書本) / 全覽28`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced three genuinely fresh source branches not yet recorded anywhere in the package state. `X100` is a fresh later case-commentarial reprise of the `十方無壁落。四面亦無門。淨躶躶赤灑灑沒可把。` cluster behind the damaged `T1-p007` wall; `X101` is a fresh later-yulu branch preserving `淨躶躶絕承當。赤灑灑沒可把。三世十方空蕩蕩。無佛無祖無眾生。` behind `T1-p029.l06`; and `X102` is a fresh anthology-preservation branch for the older `貫休` poem-family line `一片月出海幾家人上樓` behind `T1-p030.l08`. None collapses into the already logged `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, or prior poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X99`, the saved `T1-p007`, `T1-p029`, and `T1-p030` holdout surfaces, and the fresh phrase-level and poem-tail hits at `https://www.kanripo.org/ed/KR6q0603/L/004`, `https://www.kanripo.org/text/KR6q0355/001`, and `https://zh.wikisource.org/zh-hant/%E5%BE%A1%E5%AE%9A%E5%85%A8%E5%94%90%E8%A9%A9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD28`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-122 2026-05-06 - Reject further T1 repairs after X95 to X99 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X95-X99` continuation
+- Why: `X95 = 雲門匡真禪師廣錄` extends the direct `雲門` branch behind the damaged `T1-p007` cluster with the exact `十方無壁落。四面亦無門。淨裸裸赤灑灑沒可把。` wall and the linked `大梵天王與帝釋商量箇什麼事`; `X96 = 即非禪師全錄` preserves `十方無壁落四面亦無門。古人向甚處見客。答：誰在門外。`; `X97 = 神鼎雲外澤禪師語錄` preserves `十方無壁落四面亦無門。為什麼又有東西南北。`; `X98 = 楚石梵琦禪師語錄` preserves `淨倮倮絕承當。赤洒洒沒可把。`; and `X99 = 劍關子益禪師語錄` preserves `沒可把。孤逈逈。峭巍巍。露躶躶。赤洒洒。四序不能遷。` Even taken together, those five fresh sources remain phrase-level or contextual corroboration only. The local `T1-p007` and `T1-p029` holdout surfaces still do not separate into safe line-level readings, and renewed outward exact and near-exact searching after `X99` on `T1-p012.l02` and `T1-p030.l08` again collapsed into already logged `證道歌`, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families rather than a further genuine fresh branch
+- Evidence: the local `T1-p007` and `T1-p029` page images and saved holdout surfaces, together with `X95 = 雲門匡真禪師廣錄` at `https://www.kanripo.org/edition/T%40MING/KR6q0073/003`, `X96 = 即非禪師全錄` at `https://www.kanripo.org/text/KR6q0231/006`, `X97 = 神鼎雲外澤禪師語錄` at `https://krx.kanripo.org/text/KR6q0463/005`, `X98 = 楚石梵琦禪師語錄` at `https://krx.kanripo.org/text/KR6q0353/017`, `X99 = 劍關子益禪師語錄` at `https://www.kanripo.org/text/KR6q0320/001`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-121 2026-05-06 - Continue beyond the logged X94 frontier under the same overnight authorization and open X95 to X99
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X94` frontier by opening `X95 = 雲門匡真禪師廣錄`, `X96 = 即非禪師全錄`, `X97 = 神鼎雲外澤禪師語錄`, `X98 = 楚石梵琦禪師語錄`, and `X99 = 劍關子益禪師語錄`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced five genuinely fresh source branches not yet recorded anywhere in the package state. `X95` is a fresh direct `雲門` branch distinct from the already logged `X88 = 雲門匡真禪師語錄`; `X96` and `X97` are fresh later-yulu / `垂語` continuations of the same `十方無壁落。四面亦無門。` case family; and `X98` plus `X99` are fresh later-yulu branches extending the surviving `淨倮倮 / 赤洒洒 / 沒可把` phrase family behind `T1-p029.l06`. None collapses into the already logged `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, or tail-poem families
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X94`, the saved `T1-p007` and `T1-p029` holdout surfaces, and the fresh phrase-level hits at `https://www.kanripo.org/edition/T%40MING/KR6q0073/003`, `https://www.kanripo.org/text/KR6q0231/006`, `https://krx.kanripo.org/text/KR6q0463/005`, `https://krx.kanripo.org/text/KR6q0353/017`, and `https://www.kanripo.org/text/KR6q0320/001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-120 2026-05-06 - Reject further T1 repairs after X93 and X94 and re-close the restored external-access continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X93-X94` continuation

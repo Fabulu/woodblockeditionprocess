@@ -12190,6 +12190,140 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X83_logged_X94_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-353",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X94 frontier under the same overnight authorization and logged X95 to X99",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X94. A renewed broader pass surfaced five genuinely fresh witnesses not yet recorded in the package state: X95 = 雲門匡真禪師廣錄, extending the direct 雲門 branch with 十方無壁落。四面亦無門。淨裸裸赤灑灑沒可把。; X96 = 即非禪師全錄, preserving 十方無壁落四面亦無門。古人向甚處見客。; X97 = 神鼎雲外澤禪師語錄, preserving 十方無壁落四面亦無門。為什麼又有東西南北。; X98 = 楚石梵琦禪師語錄, preserving 淨倮倮絕承當。赤洒洒沒可把。; and X99 = 劍關子益禪師語錄, preserving 沒可把。孤逈逈。峭巍巍。露躶躶。赤洒洒。四序不能遷。",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/edition/T%40MING/KR6q0073/003",
+        "https://www.kanripo.org/text/KR6q0231/006",
+        "https://krx.kanripo.org/text/KR6q0463/005",
+        "https://krx.kanripo.org/text/KR6q0353/017",
+        "https://www.kanripo.org/text/KR6q0320/001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-121",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X94_logged_X99_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X94_logged_X99_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-354",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the restored external-access continuation on the remaining eight holdouts without further T1 text changes after X95 to X99",
+      "summary": "X95 to X97 broaden the T1-p007 wall through fresh direct 雲門, later-yulu, and 垂語 reuse of the 十方無壁落。四面亦無門。 family, while X98 and X99 broaden the T1-p029 wall through fresh later-yulu 淨倮倮 / 赤洒洒 / 沒可把 preservation. Even taken together they remain corroborative only: the local holdout surfaces still do not isolate safe line-level readings, and renewed outward checking after X99 on T1-p012.l02 and T1-p030.l08 again surfaced only already opened 證道歌, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, duplicate access paths, or non-primary modern pages, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X99.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/edition/T%40MING/KR6q0073/003",
+        "https://www.kanripo.org/text/KR6q0231/006",
+        "https://krx.kanripo.org/text/KR6q0463/005",
+        "https://krx.kanripo.org/text/KR6q0353/017",
+        "https://www.kanripo.org/text/KR6q0320/001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-122",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X94_logged_X99_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X94_logged_X99_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-355",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X99 frontier under the same overnight authorization and logged X100 to X102",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X99. A renewed broader pass surfaced three genuinely fresh witnesses not yet recorded in the package state: X100 = 天隱修禪師語錄, preserving 十方無壁落。四面亦無門。淨躶躶赤灑灑沒可把。 together with 大梵天王與帝釋商量什麼事 in a fresh later case-commentarial branch; X101 = 南石文琇禪師語錄, preserving 淨躶躶絕承當。赤灑灑沒可把。三世十方空蕩蕩。無佛無祖無眾生。 in a fresh later-yulu branch behind T1-p029.l06; and X102 = 御定全唐詩 (四庫全書本) / 全覽28, preserving the older 貫休 poem-family line 一片月出海幾家人上樓 in a fresh anthology-preservation branch behind T1-p030.l08.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/ed/KR6q0603/L/004",
+        "https://www.kanripo.org/text/KR6q0355/001",
+        "https://zh.wikisource.org/zh-hant/%E5%BE%A1%E5%AE%9A%E5%85%A8%E5%94%90%E8%A9%A9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD28",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-123",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X99_logged_X102_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X99_logged_X102_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-356",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the restored external-access continuation on the remaining eight holdouts without further T1 text changes after X100 to X102",
+      "summary": "X100 broadened the T1-p007 wall through a fresh later case-commentarial reprise, X101 broadened the T1-p029 wall through a fresh later-yulu branch, and X102 further sharpened the rejection case at T1-p030.l08 by preserving the older 貫休 poem-family 月出海 line rather than the later broad 月生海 stream. None of those fresh branches lifted the local T1 images above repair threshold, and the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted on the present basis through X102.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/ed/KR6q0603/L/004",
+        "https://www.kanripo.org/text/KR6q0355/001",
+        "https://zh.wikisource.org/zh-hant/%E5%BE%A1%E5%AE%9A%E5%85%A8%E5%94%90%E8%A9%A9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD28",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-124",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X99_logged_X102_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X99_logged_X102_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

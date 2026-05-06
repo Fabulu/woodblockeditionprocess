@@ -679,6 +679,27 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later yulu preservation of the exact `淨躶躶無依。赤洒洒全露。` phrase behind the damaged local wall
 - Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
 
+### X100
+
+- Witness: `天隱修禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later case-commentarial reprise of `十方無壁落。四面亦無門。淨躶躶赤灑灑沒可把。` together with the follow-on `大梵天王與帝釋商量什麼事` behind the damaged local cluster
+- Role: fresh later case-commentarial corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X101
+
+- Witness: `南石文琇禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of `淨躶躶絕承當。赤灑灑沒可把。三世十方空蕩蕩。無佛無祖無眾生。` behind the damaged local wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X102
+
+- Witness: `御定全唐詩 (四庫全書本) / 全覽28`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh anthology-preservation of the older `貫休` poem-family line `一片月出海幾家人上樓` behind the damaged local wall
+- Role: fresh anthology-preservation corroboration sharpening rejection for the remaining `T1-p030` holdout, not a reopened comparison witness
+
 ### X65
 
 - Witness: `僧寶正續傳`
@@ -888,3 +909,38 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh doctrinal-commentarial preservation of `此土他方不容揀擇。十方無壁落。四面亦無門。` behind the damaged local cluster
 - Role: fresh doctrinal-commentarial corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X95
+
+- Witness: `雲門匡真禪師廣錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh direct `雲門` preservation of `十方無壁落。四面亦無門。淨裸裸赤灑灑沒可把。` together with the linked `大梵天王與帝釋商量箇什麼事` behind the damaged local cluster
+- Role: fresh direct `雲門` corroboration for the remaining `T1-p007` holdouts, distinct from the already logged `X88 = 雲門匡真禪師語錄`
+
+### X96
+
+- Witness: `即非禪師全錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later-yulu / `垂語` preservation of `十方無壁落四面亦無門。古人向甚處見客。答：誰在門外。`
+- Role: fresh later-yulu / `垂語` corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X97
+
+- Witness: `神鼎雲外澤禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later-yulu preservation of `十方無壁落四面亦無門。為什麼又有東西南北。`
+- Role: fresh later-yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X98
+
+- Witness: `楚石梵琦禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of `淨倮倮絕承當。赤洒洒沒可把。` behind the damaged local wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X99
+
+- Witness: `劍關子益禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of `沒可把。孤逈逈。峭巍巍。露躶躶。赤洒洒。四序不能遷。` behind the damaged local wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
