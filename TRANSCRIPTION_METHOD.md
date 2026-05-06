@@ -132,6 +132,19 @@ Use a stable section shape:
 - ...
 ```
 
+### 6a. Verify page-turn continuations before section labels
+
+When a witness uses recurring internal markers such as `公案`, `無門曰`, or `頌曰`, do not label the tail of one leaf in isolation.
+
+Required rule:
+
+- before closing one of those sections, inspect the next sequential leaf or page
+- assign the outermost opening columns on the next leaf before using a cleaner on-page marker farther down as the section start
+- confirm from the image whether the text continues or a new header actually begins
+- if the next leaf or page is unclear, leave the boundary open in the draft notes
+
+Record the continuation check in the notes, including the next leaf or page consulted and the result.
+
 ### 7. Mark uncertainty honestly
 
 Use explicit uncertainty where needed.

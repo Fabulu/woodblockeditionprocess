@@ -479,6 +479,31 @@ Also update `page-map.csv` with page-role classification before treating the wit
 
 Also write OCR consensus rows to `ocr-consensus-log.md` as soon as the compared engine evidence is actually available for a locus. Do not leave OCR consensus only implicit in raw engine folders.
 
+For case-format or internally marked witnesses, also run a page-turn continuation check before treating a section boundary as settled.
+
+Minimum required check:
+
+- inspect the next sequential leaf or page at each suspected section ending
+- record whether the next leaf or page:
+  - continues the same section
+  - begins a new marked section
+  - remains unresolved
+- name the boundary under review, for example `公案`, `無門曰`, `頌曰`, commentary body, or appendix
+- cite the evidence basis:
+  - image
+  - OCR
+  - contents-order spine
+  - corroborating witness
+  - mixed
+
+Minimum required recording:
+
+- `process-log.md`
+- also `decision-log.md` if the boundary judgment is non-trivial or reverses an earlier assignment
+- also `timeline.json` as `text_changed` if the judgment changes visible edition text
+
+Do not let a clean-looking section split exist only in the draft text without a recorded continuation check.
+
 ### When a visible reading changes
 
 Always write to:

@@ -50,14 +50,15 @@ This is a practical completion spine for the remaining witness work, not a final
 風穴和尚因僧問：
 語默涉離微，
 如何通不犯。
+穴云：
+長憶江南三月裏，
+鷓鴣啼處百花香。
 ```
 
 - Secure witness line:
 
 ```text
-頌曰：
-不露風骨句，
-未語先分付。
+無門曰：
 ```
 
 ### 三座說法

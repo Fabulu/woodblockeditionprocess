@@ -31,6 +31,10 @@
   - confidence
   - consolidated readable text
   - notes
+- Before assigning text to `公案`, `無門曰`, `頌曰`, or another marked unit, inspect the next sequential leaf or page and verify whether the section continues or a new header actually begins there.
+- Assign the top carry-over columns on the next leaf before trusting a cleaner marker lower on the page.
+- If the next leaf or page is unclear or unavailable, keep the boundary open and note it as unresolved or provisional.
+- Record the continuation check in the notes or verification ledger.
 
 ## Corroborate
 

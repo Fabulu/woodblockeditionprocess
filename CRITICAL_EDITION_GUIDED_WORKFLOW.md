@@ -227,6 +227,25 @@ Each step log entry should record:
 
 If the step changed text, also create the matching `text_changed` event in `timeline.json`.
 
+## Section-Boundary Continuation Rule
+
+For case-format or internally marked witnesses, verify page-turn continuation before assigning any passage to `公案`, `無門曰`, `頌曰`, commentary body, appendix, or similar structural buckets.
+
+Required method:
+
+- inspect the current leaf and the next sequential leaf or page together
+- do not assume a section break at the page turn
+- assign the top carry-over columns on the next leaf before trusting a cleaner marker lower on the page
+- use at least one structural anchor to confirm the boundary:
+  - visible marker
+  - case or section number
+  - contents-order spine
+  - end-of-unit formula
+  - corroborating witness
+- if the next leaf or page is missing, unreadable, or still uncertain, mark the boundary unresolved or provisional rather than forcing a neat split
+
+Log the boundary check as a discrete step in `process-log.md`. If the judgment changes visible text, also create the matching `text_changed` event in `timeline.json`.
+
 ## Page-Role Rule
 
 Do not assume the whole scanned witness is the target text body.

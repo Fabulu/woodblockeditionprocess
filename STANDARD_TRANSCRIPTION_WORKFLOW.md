@@ -237,6 +237,22 @@ Either:
 
 But whichever choice is made must be documented.
 
+For page or leaf turns inside a live textual unit, run a continuation check before assigning a new structural bucket.
+
+Minimum rule:
+
+- do not assume a section break because a leaf ends
+- inspect the next sequential leaf or page before closing `公案`, `無門曰`, `頌曰`, commentary body, appendix, or similar marked units
+- verify the continuation with at least one structural anchor:
+  - visible header or marker
+  - case or section number
+  - contents-order spine
+  - end-of-unit formula
+  - corroborating witness
+- if the next leaf or page remains unclear, keep the boundary open and mark it provisional rather than forcing a clean split
+
+For structurally marked texts, also reconcile assembled case or section order against any surviving contents spine before closing a slice. If the reconstructed order diverges from the contents witness, record an explicit override rather than letting the mismatch propagate silently.
+
 ---
 
 ## 8. Keep the reading edition clean

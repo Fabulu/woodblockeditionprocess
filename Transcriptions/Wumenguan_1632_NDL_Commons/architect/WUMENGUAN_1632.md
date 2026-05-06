@@ -1524,17 +1524,22 @@
 
 #### Notes
 
-- The opening koan line is secure, but the rest of the leaf is too compressed for fuller recovery on this pass.
-- The following leaf carries stronger support for the verse and commentary shape.
+- The opening koan line is secure.
+- The following leaf continues the same koan before `無門曰` begins.
 
 ### PDF p.029 right leaf
 
-- Role: verse/commentary on `離卻語言`
+- Role: continuation of `離卻語言`, then `無門曰` and `頌`
 - Confidence: medium
 
 #### Consolidated Readable Text
 
 ```text
+通不犯。
+穴云：
+長憶江南三月裏，
+鷓鴣啼處百花香。
+
 無門曰：
 風穴機如掣電，
 得路便行。
@@ -1547,14 +1552,13 @@
 未語先分付。
 進步口喃喃，
 知君大罨缶。
-長憶江南三月裏，
-鷓鴣啼處百花香。
 ```
 
 #### Notes
 
+- The rightmost two columns continue the koan: `通不犯。穴云：長憶江南三月裏，鷓鴣啼處百花香。`
+- `無門曰` begins only after that continuation.
 - The verse opening `不露風骨句，未語先分付` is strong in both image and OCR.
-- The last two lines are readable in the witness, though not as dark as the opening couplet.
 
 ### PDF p.029 left leaf
 
