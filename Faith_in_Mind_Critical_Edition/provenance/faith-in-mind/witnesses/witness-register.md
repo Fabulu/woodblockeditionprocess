@@ -1432,3 +1432,10 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later-yulu preservation of `雪竇 / 十方無壁落。四面亦無門。畢竟向什麼處見客。若道得接手句。許你天上天下。` behind the damaged local wall
 - Role: fresh later-yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X173
+
+- Witness: `沙彌律儀毗尼日用合參`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later vinaya-commentarial preservation of the full `陳尚書 / 雲門 / 教意 / 口欲言而辭喪。心欲緣而慮忘。 / 尚書且莫草草` exchange behind the damaged local wall
+- Role: fresh later vinaya-commentarial corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness

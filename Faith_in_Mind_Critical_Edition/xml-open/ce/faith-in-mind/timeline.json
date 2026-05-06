@@ -15292,6 +15292,68 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X171_logged_X172_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-449",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged post-X172 no-X173 state under the same overnight authorization and logged X173",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X172. A renewed broader pass surfaced one genuinely fresh corroborative branch not yet recorded in the package state after title-level de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X173 = 沙彌律儀毗尼日用合參, preserving the full 陳尚書 / 雲門 / 教意 / 口欲言而辭喪。心欲緣而慮忘。 / 尚書且莫草草 exchange in a new later vinaya-commentarial quotation branch behind the damaged T1-p012.l02 wall.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://deerpark.app/cbeta/X1120/3",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-217",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_continued_external_access_post_X172_logged_X173_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_continued_external_access_post_X172_logged_X173_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-450",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation on the remaining eight holdouts without further T1 text changes after X173 and without opening X174",
+      "summary": "X173 materially broadens the T1-p012 quotation wall through one more fresh later vinaya-commentarial preservation of the full 陳尚書 / 雲門 / 教意 / 口欲言而辭喪。心欲緣而慮忘。 / 尚書且莫草草 exchange, but it remains corroborative only: direct reinspection of the saved T1-p012 holdout surface still does not isolate safe line-level readings, and one immediate follow-up broader outward check after X173 again reduced the strongest fresh-looking survivors to already opened 居士分燈錄, 先覺宗乘, 古林清茂禪師語錄, direct 雲門, 佛祖綱目/卷第三十四, 禪宗頌古聯珠通集, and 御製揀魔辨異錄 rather than a farther genuine X174.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://deerpark.app/cbeta/X1120/3",
+        "https://tripitaka.cbeta.org/en/X86n1607_001",
+        "https://tripitaka.cbeta.org/zh-cn/X87n1620_004",
+        "https://www.kanripo.org/edition/X/KR6q0345/004",
+        "https://deerpark.app/cbeta/X1594/34",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-218",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X172_logged_X173_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X172_logged_X173_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

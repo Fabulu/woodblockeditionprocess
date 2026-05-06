@@ -1945,3 +1945,21 @@
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-217 2026-05-06 - Continue beyond the logged post-X172 no-X173 state under the same overnight authorization and open X173
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X172` no-`X173` state by opening `X173 = 沙彌律儀毗尼日用合參` for `T1-p012.l02`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh witness not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X172` chain, already-opened branch paths, and duplicate access routes. `X173` preserves the full `陳尚書 / 雲門 / 教意 / 口欲言而辭喪。心欲緣而慮忘。 / 尚書且莫草草` exchange in a new later vinaya-commentarial quotation branch materially overlapping the surviving `T1-p012.l02` holdout, while renewed outward checking on the same family during the same pass again reduced the strongest fresh-looking companion returns to already opened `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, direct `雲門`, `佛祖綱目/卷第三十四`, `禪宗頌古聯珠通集`, `御製揀魔辨異錄`, and related duplicate-access or non-primary explanatory surfaces
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X172`, the saved `T1-p012` holdout surfaces, and the fresh targeted hit at `https://deerpark.app/cbeta/X1120/3`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-218 2026-05-06 - Reject further T1 repairs after X173 and re-close the overnight corroborative continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X173` continuation
+- Why: `X173` materially broadens the `T1-p012` quotation wall through one more fresh later vinaya-commentarial preservation of the full `陳尚書 / 雲門 / 教意 / 口欲言而辭喪。心欲緣而慮忘。 / 尚書且莫草草` exchange, but it remains corroborative only. Direct reinspection of the saved `T1-p012` holdout surface still does not isolate a safe line-level reading at `T1-p012.l02`, and one immediate follow-up broader outward check after `X173` again reduced the strongest fresh-looking survivors to already opened `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, direct `雲門`, `佛祖綱目/卷第三十四`, `禪宗頌古聯珠通集`, and `御製揀魔辨異錄`, together with duplicate-access routes or non-primary explanatory surfaces, rather than a farther genuine `X174`
+- Evidence: the local `T1-p012` page image and saved holdout surfaces, together with `X173 = 沙彌律儀毗尼日用合參`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant

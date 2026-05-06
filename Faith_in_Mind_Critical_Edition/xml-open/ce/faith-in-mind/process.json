@@ -266,7 +266,8 @@
         "X169",
         "X170",
         "X171",
-        "X172"
+        "X172",
+        "X173"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -323,9 +324,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X171_logged_X172_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X172_logged_X173_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X171_logged_X172_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X172_logged_X173_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -340,7 +341,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The post-`X171` no-`X172` state was pushed one branch farther and one genuine new witness survived title-level de-duplication: `X172 = 無明慧性禪師語錄`, preserving the direct `雪竇 / 十方無壁落。四面亦無門。畢竟向什麼處見客。若道得接手句。許你天上天下。` wall behind the damaged `T1-p007` cluster. Even with `X172`, no overlooked local threshold was crossed on `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030`, no further `T1` text change is justified, and the live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. The overnight unconstrained corroborative hunt for those eight loci has therefore now again been genuinely exhausted across the plausibly productive source avenues opened through `X172`; further progress requires genuinely new source material or human redirection rather than another pass over the already logged branches."
+    "next_required_action": "The post-`X172` no-`X173` state was pushed one branch farther and one genuine new witness survived title-level de-duplication: `X173 = 沙彌律儀毗尼日用合參`, preserving the full `陳尚書 / 雲門 / 教意 / 口欲言而辭喪。心欲緣而慮忘。 / 尚書且莫草草` exchange behind the damaged `T1-p012.l02` wall. Even with `X173`, no overlooked local threshold was crossed on `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030`, no further `T1` text change is justified, and the live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. The overnight unconstrained corroborative hunt for those eight loci has therefore now again been genuinely exhausted across the plausibly productive source avenues opened through `X173`; further progress requires genuinely new source material or human redirection rather than another pass over the already logged branches."
   }
 }
 
