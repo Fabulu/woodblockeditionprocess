@@ -1439,3 +1439,17 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later vinaya-commentarial preservation of the full `陳尚書 / 雲門 / 教意 / 口欲言而辭喪。心欲緣而慮忘。 / 尚書且莫草草` exchange behind the damaged local wall
 - Role: fresh later vinaya-commentarial corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X174
+
+- Witness: `頻吉祥禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later-yulu preservation of the full `雪竇 / 十方無壁落。四面亦無門。古人向什麼處見客。若道得接手句。也是頭上安頭。` wall behind the damaged local cluster
+- Role: fresh later-yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X175
+
+- Witness: `聖朝破邪集卷第八`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh doctrinal-controversial quotation preservation of the exact `口欲言而詞喪。心欲緣而慮忘。` pair behind the damaged local wall
+- Role: fresh phrase-level doctrinal quotation corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness

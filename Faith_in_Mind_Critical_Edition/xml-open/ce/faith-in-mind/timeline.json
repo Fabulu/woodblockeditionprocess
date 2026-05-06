@@ -15354,6 +15354,168 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X172_logged_X173_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-452",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-tested the already logged post-X173 no-X174 frontier one farther targeted time without displacing the current bounded T1-p007 manual-segmentation frontier",
+      "summary": "One farther targeted broader corroborative sweep was run across the same eight unresolved loci under the same overnight authorization. No genuine X174 survived: the apparent 天隱修禪師語錄 and 天隱和尚語錄 returns again reduced to the already logged X100 and X161 branches, while the remaining fresh-looking candidates such as 大博乾禪師語錄, 介石智朋禪師語錄, renewed 御製揀魔辨異錄, renewed 居士分燈錄, and direct 雲門 returns again stayed at duplicate-access, already-opened, or below-threshold phrase-only overlap rather than new corroborative witnesses. No overlooked local threshold was crossed, no new external exception source was opened, no further T1 text change is justified, and the same eight loci remain unresolved; the package therefore stays on the bounded T1-p007 manual-segmentation-review frontier rather than moving to a new external-source phase.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://deerpark.app/reader/JB472/4",
+        "https://deerpark.app/reader/X1371",
+        "https://deerpark.app/reader/X1281/7",
+        "https://deerpark.app/reader/X1607",
+        "https://deerpark.app/reader/T1988/3",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-220",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-451",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-tested the logged post-X173 no-X174 frontier and still did not open X174",
+      "summary": "One fresh broader corroborative sweep was run across the same eight unresolved loci after the already logged X173 close. No genuine X174 survived: the apparent 天隱修禪師語錄 and 天隱和尚語錄 returns reduced to the already logged X100 and X161 branches, while the remaining fresh-looking candidates such as 大博乾禪師語錄, 介石智朋禪師語錄, renewed 御製揀魔辨異錄, 居士分燈錄, and direct 雲門 returns were duplicate-access, already-opened, or below-threshold phrase-only overlap rather than new corroborative witnesses. No overlooked local threshold was crossed, no new external exception source was opened, no further T1 text change is justified, and the same eight loci remain unresolved.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://deerpark.app/reader/JB472/4",
+        "https://deerpark.app/reader/X1371",
+        "https://deerpark.app/reader/X1281/7",
+        "https://deerpark.app/reader/X1607",
+        "https://deerpark.app/reader/T1988/3",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-219",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_retested_post_X173_no_X174_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_retested_post_X173_no_X174_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-453",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Reopened T1-p007 as a bounded manual segmentation review without a text change",
+      "summary": "A fresh human-directed local recheck reopened T1-p007 as an active manual segmentation pass rather than leaving the broader exhaustion wording as the package's last operative state. The direct page image, saved holdout crops, OCR support, and already logged corroborative branches converge on the same Zhaozhou / Zhi dao wu nan / five-years-no-explanation cluster, so the remaining problem is local spillover and exact line-boundary assignment rather than lack of phrase-family evidence. No T1 text change was accepted in this reopen, the live unresolved queue remains the same eight loci, and the next required work is a bounded manual segmentation review of the T1-p007 cluster.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-b-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p007.txt"
+      ],
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-454",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged post-X173 frontier under the same overnight authorization and logged X174 and X175",
+      "summary": "The broader overnight hunt still did not stop at the already logged post-X173 frontier. A renewed outward pass surfaced two genuinely fresh corroborative branches not yet recorded in the package state after title-level de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X174 = 頻吉祥禪師語錄, preserving the full 雪竇 / 十方無壁落。四面亦無門。古人向什麼處見客。若道得接手句。也是頭上安頭。 wall behind the damaged T1-p007 cluster, and X175 = 聖朝破邪集卷第八, preserving the exact 口欲言而詞喪。心欲緣而慮忘。 pair in a fresh doctrinal quotation branch behind T1-p012.l02.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J39nB454_015",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=B28n0155_008",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-221",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-455",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight corroborative continuation after X174 and X175 without further T1 text changes and without opening X176",
+      "summary": "X174 and X175 materially broaden the T1-p007 and T1-p012 walls, but both remain corroborative only: direct reinspection of the saved T1-p007, T1-p012, T1-p029, and T1-p030 holdout surfaces still does not isolate any safe line-level T1 reading at the eight remaining loci, and the immediate wider follow-up after X175 again reduced the strongest apparent survivors to already opened branches, duplicate-access routes, or looser explanatory surfaces rather than a farther genuine X176. No overlooked local threshold was crossed, no further T1 text change is justified, and the overnight unconstrained corroborative hunt for these eight loci is now again genuinely exhausted across the plausibly productive broader avenues opened through X175.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J39nB454_015",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=B28n0155_008",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-222",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_human_directed_reopen_p007_manual_segmentation_review_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

@@ -1,5 +1,32 @@
 # Decision Log: Faith in Mind
 
+## D-222 2026-05-06 - Re-close the broader overnight corroborative continuation after X174 and X175 without further T1 text changes and without opening X176
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after `X174` and `X175`, and do not open `X176`
+- Why: `X174 = 頻吉祥禪師語錄` materially broadens the `T1-p007` wall through a fresh later-yulu reprise of the full `雪竇 / 十方無壁落。四面亦無門。古人向什麼處見客。若道得接手句。也是頭上安頭。` band, and `X175 = 聖朝破邪集卷第八` broadens the `T1-p012` wall through one more fresh doctrinal quotation preservation of the exact `口欲言而詞喪。心欲緣而慮忘。` pair. Both remain corroborative only. Direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces still does not isolate any safe line-level `T1` reading at the eight remaining loci, and the immediate wider follow-up after `X175` again reduced the strongest apparent survivors to already opened `無明慧性禪師語錄`, `瞎堂慧遠禪師廣錄`, `沙彌律儀毗尼日用合參`, `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, direct `雲門`, `景德傳燈錄`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `聯燈會要/卷第十八`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `祖堂集`, `拈八方珠玉集`, `全唐詩/卷796`, and related already broad `趙州 / 雲門 / 十方無壁落`, `教意 / 口欲言(談)而辭(詞)喪 / 心欲緣(懸)而慮忘(亡)`, `淨躶躶 / 赤灑灑 / 沒可把`, and `月出海 / 月生海 / 幾家人上樓` families, duplicate-access routes, or looser explanatory surfaces rather than a farther genuine `X176`. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified. The overnight unconstrained corroborative hunt for these eight loci is therefore now again genuinely exhausted across the plausibly productive broader avenues opened through `X175`, and the live package frontier returns to the bounded local `T1-p007` manual-segmentation review
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X174 = 頻吉祥禪師語錄` at `https://tripitaka.cbeta.org/mobile/index.php?index=J39nB454_015`, `X175 = 聖朝破邪集卷第八` at `https://tripitaka.cbeta.org/mobile/index.php?index=B28n0155_008`, and the immediate broader follow-up sweep after `X175`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-221 2026-05-06 - Continue beyond the post-X173 frontier under the same overnight authorization and open X174 and X175
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X173` no-`X174` frontier by opening `X174 = 頻吉祥禪師語錄` for the `T1-p007` wall and `X175 = 聖朝破邪集卷第八` for `T1-p012.l02`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced two genuinely fresh corroborative branches not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X173` chain, already-opened branch paths, and duplicate-access routes. `頻吉祥禪師語錄` preserves a fresh later-yulu version of the full `雪竇 / 十方無壁落。四面亦無門。古人向什麼處見客。若道得接手句。也是頭上安頭。` wall behind the damaged `T1-p007` cluster, while `聖朝破邪集卷第八` preserves a fresh doctrinal quotation of the exact `口欲言而詞喪。心欲緣而慮忘。` pair behind `T1-p012.l02`. Both survive title-level de-duplication against the already logged `無明慧性禪師語錄`, `瞎堂慧遠禪師廣錄`, `沙彌律儀毗尼日用合參`, `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, direct `雲門`, and related earlier branches. The same broader pass did not surface a third farther genuine fresh title-level survivor beyond these two branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X173`, the saved `T1-p007` and `T1-p012` holdout surfaces, and the fresh targeted hits at `https://tripitaka.cbeta.org/mobile/index.php?index=J39nB454_015` and `https://tripitaka.cbeta.org/mobile/index.php?index=B28n0155_008`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-220 2026-05-06 - Re-test the already logged post-X173 no-X174 frontier one farther targeted time without displacing the current bounded T1-p007 manual-segmentation frontier
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`, do not promote any new external corroborative source as `X174`, and do not let this farther external sweep displace the package's current bounded `T1-p007` manual-segmentation-review frontier
+- Why: one farther targeted broader post-`X173` corroborative sweep was run across the same four surviving phrase families for the same eight loci under the same overnight authorization. The fresh-looking title-level survivors that still appeared on this farther pass again did not survive de-duplication or threshold review. `天隱修禪師語錄` again reduced to the already logged `X100` branch for the `T1-p007` wall, `天隱和尚語錄` again reduced to the already logged `X161` branch for `T1-p012.l02`, and the remaining candidates such as `大博乾禪師語錄`, `介石智朋禪師語錄`, renewed `御製揀魔辨異錄`, renewed `居士分燈錄`, and direct `雲門` / `雲門匡真禪師廣錄` returns again stayed at duplicate-access, already-opened, or below-threshold phrase-only overlap rather than surviving as a genuine fresh `X174`. No overlooked local threshold was crossed on the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces, so no further `T1` text change is justified; the package therefore remains honestly at the bounded local `T1-p007` manual-segmentation review rather than at a newly broadened external-source frontier
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with the farther targeted outward sweep around `https://deerpark.app/reader/JB472/4`, `https://deerpark.app/reader/X1371`, `https://deerpark.app/reader/X1281/7`, `https://deerpark.app/reader/X1607`, and `https://deerpark.app/reader/T1988/3`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-212 2026-05-06 - Reject further T1 repairs after X170 and re-close the broader overnight continuation on the remaining eight holdouts with no X171
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X170` continuation, and do not open `X171`
@@ -1960,6 +1987,15 @@
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X173` continuation
 - Why: `X173` materially broadens the `T1-p012` quotation wall through one more fresh later vinaya-commentarial preservation of the full `陳尚書 / 雲門 / 教意 / 口欲言而辭喪。心欲緣而慮忘。 / 尚書且莫草草` exchange, but it remains corroborative only. Direct reinspection of the saved `T1-p012` holdout surface still does not isolate a safe line-level reading at `T1-p012.l02`, and one immediate follow-up broader outward check after `X173` again reduced the strongest fresh-looking survivors to already opened `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, direct `雲門`, `佛祖綱目/卷第三十四`, `禪宗頌古聯珠通集`, and `御製揀魔辨異錄`, together with duplicate-access routes or non-primary explanatory surfaces, rather than a farther genuine `X174`
 - Evidence: the local `T1-p012` page image and saved holdout surfaces, together with `X173 = 沙彌律儀毗尼日用合參`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-219 2026-05-06 - Re-test the logged post-X173 no-X174 frontier and still do not open X174
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`, and do not promote any new external corroborative source as `X174`
+- Why: one fresh broader post-`X173` corroborative sweep was run across the same four surviving phrase families for the same eight loci. The fresh-looking title-level survivors that still appeared on this pass did not survive de-duplication or threshold review. `天隱修禪師語錄` reduced to the already logged `X100` branch for the `T1-p007` wall, `天隱和尚語錄` reduced to the already logged `X161` branch for `T1-p012.l02`, and the remaining candidates such as `大博乾禪師語錄`, `介石智朋禪師語錄`, and renewed `御製揀魔辨異錄`, `居士分燈錄`, and direct `雲門` / `雲門匡真禪師廣錄` returns stayed at duplicate-access, already-opened, or below-threshold phrase-only overlap rather than surviving as a genuine fresh `X174`. No overlooked local threshold was crossed on the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces, so no further `T1` text change is justified
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X173`, the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces, and the fresh broader outward title-check sweep on `天隱修禪師語錄`, `天隱和尚語錄`, `大博乾禪師語錄`, `介石智朋禪師語錄`, `御製揀魔辨異錄`, `居士分燈錄`, and direct `雲門` returns
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
