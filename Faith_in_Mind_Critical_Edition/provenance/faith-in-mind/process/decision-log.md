@@ -1189,3 +1189,21 @@
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-133 2026-05-06 - Continue beyond the logged X116 frontier under the same overnight authorization and open X117 to X120
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X116` frontier by opening `X117 = 介為舟禪師語錄` and `X118 = 幻住明禪師語錄` for `T1-p029.l06`, `X119 = 雨山和尚語錄` for the damaged `T1-p007` cluster, and `X120 = 天樂鳴空集` for `T1-p012.l02`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface four genuinely fresh witnesses not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X116` chain. `X117` preserves the exact phrase-family `淨裸裸，赤灑灑；絕遮攔，沒可把。` in a fresh later-yulu branch; `X118` preserves `淨裸裸赤灑灑沒可把` in a second fresh later-yulu branch; `X119` preserves `十方無壁落。四面亦無門。淨裸裸。赤灑灑。沒可把。` in a fresh later-yulu branch behind the damaged `T1-p007` cluster; and `X120` preserves the shorter `或是或非人不識逆行順行天莫測` band in a fresh later doctrinal-essay branch behind `T1-p012.l02`. Renewed outward checking on `T1-p030.l08` during the same pass again reduced to already opened poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families rather than a further genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X116`, the saved `T1-p007`, `T1-p012`, and `T1-p029` holdout surfaces, and the fresh targeted hits at `https://tripitaka.cbeta.org/mobile/index.php?index=J28nB205_001`, `https://tripitaka.cbeta.org/J38nB432_002`, `https://tripitaka.cbeta.org/mobile/index.php?index=J40nB494_002`, and `https://www.kanripo.org/ed/KR6q0185/CBETA/001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-134 2026-05-06 - Reject further T1 repairs after X117 to X120 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X117/X118/X119/X120` continuation
+- Why: `X117` and `X118` further broaden the `T1-p029` wall through fresh later-yulu exact or near-exact `淨裸裸 / 赤灑灑 / 沒可把` reuse, `X119` further broadens the `T1-p007` wall through a fresh later-yulu reprise of `十方無壁落。四面亦無門。淨裸裸。赤灑灑。沒可把。`, and `X120` gives one more fresh doctrinal-essay preservation of the shorter `或是或非人不識逆行順行天莫測` band behind `T1-p012.l02`; but all four remain corroborative only. Direct reinspection of the saved `T1-p007`, `T1-p012`, and `T1-p029` holdout surfaces still leaves mixed spillover or unstable local scraps rather than safe line-level `T1` readings, and renewed outward checking after `X120` on `T1-p030.l08` again surfaced only already opened poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families rather than a further genuine fresh branch
+- Evidence: the local `T1-p007`, `T1-p012`, and `T1-p029` page images and saved holdout surfaces, together with `X117 = 介為舟禪師語錄`, `X118 = 幻住明禪師語錄`, `X119 = 雨山和尚語錄`, `X120 = 天樂鳴空集`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant

@@ -1041,3 +1041,31 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later `參禪警語` preservation of `淨躶躶。赤灑灑。沒可把。` behind the damaged local wall
 - Role: fresh `參禪警語` corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X117
+
+- Witness: `介為舟禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of `淨裸裸，赤灑灑；絕遮攔，沒可把。` behind the damaged local wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X118
+
+- Witness: `幻住明禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of `淨裸裸赤灑灑沒可把` behind the damaged local wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X119
+
+- Witness: `雨山和尚語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later-yulu preservation of `十方無壁落。四面亦無門。淨裸裸。赤灑灑。沒可把。` behind the damaged local cluster
+- Role: fresh later-yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X120
+
+- Witness: `天樂鳴空集`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later doctrinal-essay preservation of the shorter `或是或非人不識逆行順行天莫測` band behind the still-damaged quotation wall
+- Role: fresh doctrinal-essay corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
