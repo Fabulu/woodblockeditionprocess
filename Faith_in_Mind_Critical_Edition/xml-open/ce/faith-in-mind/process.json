@@ -262,7 +262,8 @@
         "X165",
         "X166",
         "X167",
-        "X168"
+        "X168",
+        "X169"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -319,9 +320,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_retested_external_access_post_X168_no_X169_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X168_logged_X169_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_external_retest_no_X169_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X168_logged_X169_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -336,7 +337,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "Fresh external-source access was reopened after the workspace-local `400dpi` stop and one more broader corroborative sweep was run across the same eight unresolved loci. No genuine `X169` survived title-level de-duplication: the fresh-looking leads collapsed into already logged `X*` branches, duplicate-access routes, or non-primary explanatory surfaces, and no overlooked local threshold was crossed on `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030`. No further `T1` text change is justified, and the live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. The overnight unconstrained corroborative hunt for those eight loci has therefore now again been genuinely exhausted across the plausible broader external avenues re-tested beyond `X168`; further progress requires genuinely new source material or human redirection rather than another pass over the already logged branches."
+    "next_required_action": "The fresh external-access post-`X168` no-`X169` state was pushed one branch farther and one genuine new witness survived title-level de-duplication: `X169 = 天如惟則禪師語錄`, preserving `淨躶躶赤洒洒。孤逈逈峭巍巍地。` with linked `逆行順行無所行而不到。` context behind `T1-p029.l06`. Even with `X169`, no overlooked local threshold was crossed on `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030`, no further `T1` text change is justified, and the live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. The overnight unconstrained corroborative hunt for those eight loci has therefore now again been genuinely exhausted across the plausibly productive source avenues opened through `X169`; further progress requires genuinely new source material or human redirection rather than another pass over the already logged branches."
   }
 }
 

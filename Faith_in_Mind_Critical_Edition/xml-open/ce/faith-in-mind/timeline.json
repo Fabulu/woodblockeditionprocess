@@ -15046,6 +15046,68 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_retested_external_access_post_X168_no_X169_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-441",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the fresh external-access post-X168 no-X169 state under the same overnight authorization and logged X169",
+      "summary": "The broader overnight hunt still did not stop at the earlier fresh external-access post-X168 no-X169 state. A renewed outward pass surfaced one genuinely fresh corroborative branch not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X169 = 天如惟則禪師語錄, preserving the fresh later-yulu phrase-family line 淨躶躶赤洒洒。孤逈逈峭巍巍地。 together with linked 逆行順行無所行而不到。 context behind T1-p029.l06.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/edition/J/KR6q0336/002",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-209",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_continued_external_access_post_X168_logged_X169_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_continued_external_access_post_X168_logged_X169_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-442",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation on the remaining eight holdouts without further T1 text changes after X169 and without opening X170",
+      "summary": "X169 materially broadens the T1-p029 wall through one more fresh later-yulu phrase-family branch, but it remains corroborative only: direct reinspection of the saved T1-p029.l06 holdout surface still does not isolate a safe line-level reading, and one immediate follow-up broader outward check after X169 again reduced the strongest fresh-looking survivors to already opened 介為舟禪師語錄, 大慧普覺禪師語錄, 劍關子益禪師語錄, 真歇清了禪師語錄, 古尊宿語錄/卷第四十六, 古尊宿語錄/卷第四十七, 佛國禪師語錄, 佛光國師語録, 常光國師語録, 居士分燈錄, 教外別傳, 佛果圜悟禪師碧巖錄, and related already broad phrase families rather than a farther genuine branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/edition/J/KR6q0336/002",
+        "https://www.kanripo.org/edition/CBETA/KR6q0424/001",
+        "https://www.kanripo.org/edition/CBETA/KR6q0060/021",
+        "https://www.kanripo.org/text/KR6q0320/001",
+        "https://tripitaka.cbeta.org/X71n1426_002",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-210",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X168_logged_X169_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X168_logged_X169_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

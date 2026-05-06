@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-210 2026-05-06 - Reject further T1 repairs after X169 and re-close the broader overnight continuation on the remaining eight holdouts with no X170
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X169` continuation, and do not open `X170`
+- Why: `X169 = 天如惟則禪師語錄` materially broadens the `T1-p029` wall through one more fresh later-yulu phrase-family preservation of `淨躶躶赤洒洒。孤逈逈峭巍巍地。` together with linked `逆行順行無所行而不到。` context, but it remains corroborative only. Direct reinspection of the saved `T1-p029.l06` holdout surface still does not isolate a safe line-level `T1` reading, and one immediate broader outward check after `X169` again reduced the strongest fresh-looking survivors to already opened `介為舟禪師語錄`, `大慧普覺禪師語錄`, `劍關子益禪師語錄`, `真歇清了禪師語錄`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `居士分燈錄`, `教外別傳`, `佛果圜悟禪師碧巖錄`, and related already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, duplicate-access routes, or non-primary explanatory surfaces rather than a farther genuine `X170`. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X169 = 天如惟則禪師語錄` at `https://www.kanripo.org/edition/J/KR6q0336/002`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-209 2026-05-06 - Continue beyond the fresh external-access post-X168 no-X169 state under the same overnight authorization and open X169
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged fresh external-access post-`X168` no-`X169` state by opening `X169 = 天如惟則禪師語錄` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X168` chain, already-opened branch paths, duplicate-access routes, and the already rejected lower-overlap spillover around the same `淨躶躶 / 赤洒洒` family. `天如惟則禪師語錄` preserves the fresh later-yulu phrase-family line `淨躶躶赤洒洒。孤逈逈峭巍巍地。` and on the same consulted page carries linked `逆行順行無所行而不到。` context that still bears materially on the damaged `T1-p029.l06` wall. Renewed outward exact and near-exact checking on the remaining queue during the same pass did not surface a second farther genuine fresh title-level survivor beyond this branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X168`, the saved `T1-p029` holdout surfaces, and the fresh targeted hit at `https://www.kanripo.org/edition/J/KR6q0336/002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-208 2026-05-06 - Reopen fresh external-source access after the workspace-local stop, run one broader corroborative sweep, and still do not open X169
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`, and do not open `X169`
