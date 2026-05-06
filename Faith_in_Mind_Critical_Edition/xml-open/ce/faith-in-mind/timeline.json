@@ -13727,6 +13727,333 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_rechecked_post_X141_no_X142_final_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-401",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the repeated post-X141 no-X142 stop under the same overnight authorization and logged X142",
+      "summary": "The broader overnight hunt still did not stop at the already repeated post-X141 no-X142 frontier. A renewed outward pass surfaced one genuinely fresh corroborative branch not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X142 = 竺峰敏禪師語錄, preserving the full 雲門 / 陳尚書 教意 exchange including 口欲談而辭喪。心欲緣而慮忘。 and the linked 尚書且莫草草 close behind T1-p012.l02.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/en/J40nB483_006",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-169",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X141_logged_X142_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X141_logged_X142_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-402",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation on the remaining eight holdouts without further T1 text changes after X142 and without opening X143",
+      "summary": "X142 materially broadens the T1-p012 quotation wall through a fresh later-yulu preservation of the full 陳尚書 / 教意 band, but it remains corroborative only: the local T1-p012.l02 holdout surface still does not isolate a safe line-level T1 reading, and one immediate follow-up broader outward check after X142 again reduced the strongest fresh-looking survivors to already opened 佛果圜悟禪師碧巖錄, the already logged 五燈全書/卷第九十二, 續古尊宿語要 第四集, and the already broad 趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海 families rather than a farther genuine fresh branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/en/J40nB483_006",
+        "https://www.kanripo.org/ed/KR6q0078/T%40NEI/004",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X82n1571_092",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X68n1318_004",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-170",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X141_logged_X142_no_X143_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X141_logged_X142_no_X143_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-407",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged post-X145 no-X146 stop under the same overnight authorization and logged X146",
+      "summary": "The broader overnight hunt still did not stop at the earlier post-X145 no-X146 verification claim. A renewed outward pass surfaced one genuinely fresh corroborative branch not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X146 = 古林清茂禪師語錄, preserving the full 陳尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮忘。 / 尚書且莫草草 exchange behind T1-p012.l02.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/edition/X/KR6q0345/004",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-175",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X145_logged_X146_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X145_logged_X146_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-408",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation on the remaining eight holdouts without further T1 text changes after X146 and without opening X147",
+      "summary": "X146 materially broadens the T1-p012 quotation wall through a fresh later-yulu preservation of the full 陳尚書 / 雲門 / 教意 band, but it remains corroborative only: the local T1-p012.l02 holdout surface still does not isolate a safe line-level T1 reading, and one immediate follow-up broader outward check after X146 again reduced the strongest fresh-looking survivors to already opened 竺峰敏禪師語錄, 居士分燈錄, 先覺宗乘, direct 雲門, 景德傳燈錄, 教外別傳, and the already broad 趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海 families rather than a farther genuine fresh branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/edition/X/KR6q0345/004",
+        "https://tripitaka.cbeta.org/en/J40nB483_006",
+        "https://tripitaka.cbeta.org/en/X86n1607_001",
+        "https://tripitaka.cbeta.org/zh-cn/X87n1620_004",
+        "https://www.kanripo.org/edition/T%40HARA/KR6q0003/030",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-176",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X145_logged_X146_no_X147_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X145_logged_X146_no_X147_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-405",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged post-X144 no-X145 stop under the same overnight authorization and logged X145",
+      "summary": "The broader overnight hunt still did not stop at the earlier post-X144 no-X145 verification claim. A renewed outward pass surfaced one genuinely fresh corroborative branch not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X145 = 古尊宿語錄/卷第四十六, preserving the exact tail 一片月生海。幾家人上樓。 through the 瑯琊廣照禪師語錄 entry behind T1-p030.l08.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://krx.kanripo.org/ed/KR6q0261/CBETA/046",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-173",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X144_logged_X145_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X144_logged_X145_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-406",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation on the remaining eight holdouts without further T1 text changes after X145 and without opening X146",
+      "summary": "X145 materially broadens the T1-p030 wall through a fresh 古尊宿語錄 volume branch preserving the exact tail 一片月生海。幾家人上樓。, but it remains corroborative only: the local T1-p030.l08 holdout surface still preserves only the unstable ...轉親轉遠轉近...後來直得... cadence rather than a safe line-level T1 reading, and one immediate follow-up broader outward check after X145 again reduced the strongest fresh-looking survivors to already opened 五燈會元/卷第十七, 全唐詩/卷796, 密菴和尚語錄, 淮海原肇禪師語錄, 偃溪廣聞禪師語錄, and related later poem-tail, yulu, lamp-history, anthology, doctrinal, poetics, or non-primary explanatory pages rather than a farther genuine fresh branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://krx.kanripo.org/ed/KR6q0261/CBETA/046",
+        "https://www.shidianguji.com/zh/book/SK2145/chapter/1kfp644v3kdfu",
+        "https://zh.wikisource.org/wiki/全唐詩/卷796",
+        "https://www.kanripo.org/text/KR6q0064/001",
+        "https://www.kanripo.org/text/KR6q0460/002",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X69n1368_001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-174",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X144_logged_X145_no_X146_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X144_logged_X145_no_X146_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-403",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged post-X142 no-X143 stop under the same overnight authorization and logged X143 and X144",
+      "summary": "The broader overnight hunt still did not stop at the earlier post-X142 no-X143 verification claim. A renewed outward pass surfaced two genuinely fresh corroborative branches not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X143 = 居士分燈錄, preserving the full 陳操 / 雲門 教意 exchange including 口欲談而辭喪。心欲緣而慮亡。 and the linked 尚書且莫草草 close behind T1-p012.l02, and X144 = 先覺宗乘, preserving the same full 陳尚書 / 雲門 exchange in a second fresh branch for the same damaged quotation wall.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/en/X86n1607_001",
+        "https://tripitaka.cbeta.org/zh-cn/X87n1620_004",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-171",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X142_logged_X144_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X142_logged_X144_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-404",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation on the remaining eight holdouts without further T1 text changes after X143 and X144 and without opening X145",
+      "summary": "X143 and X144 materially broaden the T1-p012 quotation wall through fresh 居士 anthology and 先覺宗乘 preservation branches, but both remain corroborative only: the local T1-p012.l02 holdout surface still does not isolate a safe line-level T1 reading, and one immediate follow-up broader outward check after X144 again reduced the strongest fresh-looking survivors to already opened or already rejected branches such as 竺峰敏禪師語錄, 景德傳燈錄, 五燈會元/卷第十七, 全唐詩/卷796, 御製揀魔辨異錄, and derivative modern quotation or explanatory pages rather than a farther genuine fresh branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/en/X86n1607_001",
+        "https://tripitaka.cbeta.org/zh-cn/X87n1620_004",
+        "https://tripitaka.cbeta.org/en/J40nB483_006",
+        "https://tripitaka.cbeta.org/en/X86n1607_001",
+        "https://tripitaka.cbeta.org/zh-cn/X87n1620_004",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-172",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X142_logged_X144_no_X145_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X142_logged_X144_no_X145_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-409",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged post-X146 no-X147 stop under the same overnight authorization and logged X147",
+      "summary": "The broader overnight hunt still did not stop at the earlier post-X146 no-X147 verification claim. A renewed outward pass surfaced one genuinely fresh corroborative branch not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X147 = 佛國禪師語錄, preserving the exact tail 一片月生海幾家人上樓 through the 中秋上堂 line behind T1-p030.l08.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/en/D51n8948_001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-177",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X146_logged_X147_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X146_logged_X147_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-410",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation on the remaining eight holdouts without further T1 text changes after X147 and without opening X148",
+      "summary": "X147 materially broadens the T1-p030 tail family through a fresh primary 佛國禪師語錄 preservation, but it remains corroborative only: the local T1-p030.l08 holdout surface still preserves only the unstable ...轉親轉遠轉近...後來直得... cadence rather than a safe line-level T1 reading, X147 broadens only the already broad later 月生海 stream rather than displacing the older 月出海 rejection evidence, and one immediate follow-up broader outward check again reduced the strongest fresh-looking survivors to already opened 全唐詩/卷796, 古尊宿語錄/卷第四十六, 密菴和尚語錄, 淮海原肇禪師語錄, 偃溪廣聞禪師語錄, direct 雲門, 景德傳燈錄, 證道歌, 金剛 / 心經 / 淨躶躶赤灑灑沒可把, and related yulu, lamp-history, anthology, doctrinal, poetics, duplicate-access, or non-primary modern pages rather than a farther genuine fresh branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/en/D51n8948_001",
+        "https://zh.wikisource.org/wiki/%E5%85%A8%E5%94%90%E8%A9%A9/%E5%8D%B7796",
+        "https://krx.kanripo.org/ed/KR6q0261/CBETA/046",
+        "https://www.kanripo.org/text/KR6q0064/001",
+        "https://www.kanripo.org/text/KR6q0460/002",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X69n1368_001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-178",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X146_logged_X147_no_X148_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X146_logged_X147_no_X148_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

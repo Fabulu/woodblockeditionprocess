@@ -1,5 +1,95 @@
 # Decision Log: Faith in Mind
 
+## D-178 2026-05-06 - Reject further T1 repairs after X147 and re-close the overnight hunt on the remaining eight holdouts with no X148
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X147` continuation
+- Why: `X147 = 佛國禪師語錄` materially broadens the `T1-p030` tail family through a fresh primary `中秋上堂` preservation of `一片月生海幾家人上樓`, but it remains corroborative only. Direct reinspection of the saved `T1-p030.l08` holdout surface still preserves only the unstable `...轉親轉遠轉近...後來直得...` cadence rather than a safe line-level `T1` reading, and `X147` broadens only the already broad later `月生海` stream rather than displacing the older `月出海` rejection evidence. One immediate follow-up broader outward check after `X147` again reduced the strongest fresh-looking survivors to already opened `全唐詩/卷796`, `古尊宿語錄/卷第四十六`, `密菴和尚語錄`, `淮海原肇禪師語錄`, `偃溪廣聞禪師語錄`, direct `雲門`, `景德傳燈錄`, `證道歌`, `金剛 / 心經 / 淨躶躶赤灑灑沒可把`, and related yulu, lamp-history, anthology, doctrinal, poetics, duplicate-access, or non-primary modern pages rather than a farther genuine fresh branch
+- Evidence: the local `T1-p030` page image and saved holdout surface, together with `X147 = 佛國禪師語錄` at `https://tripitaka.cbeta.org/en/D51n8948_001`, the fresh search-surfaced corroboration of the exact tail, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-177 2026-05-06 - Continue beyond the logged post-X146 no-X147 stop under the same overnight authorization and open X147
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X146` no-`X147` stop by opening `X147 = 佛國禪師語錄` for `T1-p030.l08`
+- Why: the overnight authorization remained in force, and one renewed outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X146` chain, already-opened branch paths, and duplicate access routes. `X147` preserves the exact tail `一片月生海幾家人上樓` in a fresh primary `佛國禪師語錄` branch through the `中秋上堂` line. Renewed outward checking on `T1-p007`, `T1-p012.l02`, and `T1-p029.l06` during the same pass again reduced to already opened `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤灑灑沒可把`, `月出海 / 月生海` poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, duplicate access paths, or non-primary modern pages rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X146`, the saved `T1-p030` holdout surface, and the fresh targeted hit at `https://tripitaka.cbeta.org/en/D51n8948_001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-176 2026-05-06 - Reject further T1 repairs after X146 and re-close the overnight hunt on the remaining eight holdouts with no X147
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X146` continuation
+- Why: `X146 = 古林清茂禪師語錄` materially broadens the `T1-p012` quotation wall through one more fresh later-yulu preservation of the full `陳尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮忘。 / 尚書且莫草草` exchange, but it remains corroborative only. Direct reinspection of the saved `T1-p012.l02` holdout surface still does not isolate a safe line-level `T1` reading, and one immediate follow-up broader outward check after `X146` again reduced the strongest fresh-looking survivors to already opened `竺峰敏禪師語錄`, `居士分燈錄`, `先覺宗乘`, direct `雲門`, `景德傳燈錄`, `教外別傳`, the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, duplicate access paths, or non-primary modern quotation and explanatory pages rather than a farther genuine fresh branch
+- Evidence: the local `T1-p012` page image and saved holdout surface, together with `X146 = 古林清茂禪師語錄` at `https://www.kanripo.org/edition/X/KR6q0345/004`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-175 2026-05-06 - Continue beyond the logged post-X145 no-X146 stop under the same overnight authorization and open X146
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X145` no-`X146` stop by opening `X146 = 古林清茂禪師語錄` for `T1-p012.l02`
+- Why: the overnight authorization remained in force, and one renewed outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X145` chain, already-opened branch paths, and duplicate access routes. `X146` preserves the full `陳尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮忘。 / 尚書且莫草草` exchange in a fresh later-yulu branch. Renewed outward checking on `T1-p007`, `T1-p029.l06`, and `T1-p030.l08` during the same pass again reduced to already opened `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, yulu, lamp-history, anthology, doctrinal, commentarial, poetics, duplicate-access, or non-primary modern families rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X145`, the saved `T1-p012` holdout surface, and the fresh targeted hit at `https://www.kanripo.org/edition/X/KR6q0345/004`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-174 2026-05-06 - Reject further T1 repairs after X145 and re-close the overnight hunt on the remaining eight holdouts with no X146
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X145` continuation
+- Why: `X145 = 古尊宿語錄/卷第四十六` materially broadens the `T1-p030` wall through a fresh `古尊宿語錄` volume branch preserving the exact tail `一片月生海。幾家人上樓。` in the `瑯琊廣照禪師語錄` entry, but it remains corroborative only. Direct reinspection of the saved `T1-p030.l08` holdout surface still preserves only the unstable `...轉親轉遠轉近...後來直得...` cadence rather than a safe line-level `T1` reading, and one immediate follow-up broader outward check after `X145` again reduced the strongest fresh-looking survivors to already opened `五燈會元/卷第十七`, `全唐詩/卷796`, `密菴和尚語錄`, `淮海原肇禪師語錄`, `偃溪廣聞禪師語錄`, and related later poem-tail, yulu, lamp-history, anthology, doctrinal, poetics, or non-primary explanatory pages rather than a farther genuine fresh branch
+- Evidence: the local `T1-p030` page image and saved holdout surface, together with `X145 = 古尊宿語錄/卷第四十六` at `https://krx.kanripo.org/ed/KR6q0261/CBETA/046`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-173 2026-05-06 - Continue beyond the logged post-X144 no-X145 stop under the same overnight authorization and open X145
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X144` no-`X145` stop by opening `X145 = 古尊宿語錄/卷第四十六` for `T1-p030.l08`
+- Why: the overnight authorization remained in force, and one renewed outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X144` chain, already-opened branch paths, and duplicate access routes. `X145` preserves the exact tail `一片月生海。幾家人上樓。` in a fresh `古尊宿語錄` volume branch through the `瑯琊廣照禪師語錄` entry. Renewed outward checking on `T1-p007`, `T1-p012.l02`, and `T1-p029.l06` during the same pass again reduced to already opened `趙州`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海` poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, duplicate access paths, or non-primary modern pages rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X144`, the saved `T1-p030` holdout surface, and the fresh targeted hit at `https://krx.kanripo.org/ed/KR6q0261/CBETA/046`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-172 2026-05-06 - Reject further T1 repairs after X143 and X144 and re-close the overnight hunt on the remaining eight holdouts with no X145
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X143` and `X144` continuation, and do not open `X145`
+- Why: `X143 = 居士分燈錄` and `X144 = 先覺宗乘` both survive title-level de-duplication and materially broaden the damaged `T1-p012.l02` quotation wall through two fresh non-duplicate preservations of the full `陳尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮亡(忘)。 / 尚書且莫草草` band. But they remain corroborative only. The local `T1-p012.l02` holdout surface still does not isolate a safe line-level reading, and one immediate broader outward check after `X144` again reduced the strongest fresh-looking survivors to already opened or already rejected branches such as `竺峰敏禪師語錄`, `景德傳燈錄`, `五燈會元/卷第十七`, `全唐詩/卷796`, `御製揀魔辨異錄`, and derivative modern quotation or explanatory pages rather than a farther genuine fresh branch. No overlooked local threshold was crossed anywhere in the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X143 = 居士分燈錄` at `https://tripitaka.cbeta.org/en/X86n1607_001`, `X144 = 先覺宗乘` at `https://tripitaka.cbeta.org/zh-cn/X87n1620_004`, and the immediate renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-171 2026-05-06 - Continue beyond the logged post-X142 no-X143 stop under the same overnight authorization and open X143 and X144
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X142` no-`X143` stop by opening `X143 = 居士分燈錄` and `X144 = 先覺宗乘` for `T1-p012.l02`
+- Why: restored broader search access remained available, the overnight authorization still covered continued outward checking while plausible branches remained, and one renewed outward pass did still surface two genuinely fresh corroborative branches not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X142` chain, already-opened branch paths, and duplicate access routes. `X143` preserves the full `陳操 / 雲門` `教意` exchange including `口欲談而辭喪。心欲緣而慮亡。` together with the linked `尚書且莫草草` close in a fresh `居士` anthology branch, and `X144` preserves the same full `陳尚書 / 雲門` exchange in a fresh `先覺宗乘` branch. Renewed outward checking during the same pass did not surface a third genuine new title-level survivor on the remaining `T1-p007`, `T1-p029.l06`, or `T1-p030.l08` walls
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X142`, the saved `T1-p012` holdout surface, and the fresh targeted hits at `https://tripitaka.cbeta.org/en/X86n1607_001` and `https://tripitaka.cbeta.org/zh-cn/X87n1620_004`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-170 2026-05-06 - Reject further T1 repairs after X142 and re-close the overnight hunt on the remaining eight holdouts with no X143
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X142` continuation, and do not open `X143`
+- Why: `X142 = 竺峰敏禪師語錄` does survive title-level de-duplication and materially broadens the damaged `T1-p012.l02` quotation wall through a fresh later-yulu preservation of the full `陳尚書 / 教意 / 口欲談而辭喪。心欲緣而慮忘。 / 尚書且莫草草` band. But it remains corroborative only. The local `T1-p012.l02` holdout surface still does not isolate a safe line-level reading, and one immediate follow-up broader outward check after `X142` again reduced the strongest fresh-looking survivors to already opened branches such as `佛果圜悟禪師碧巖錄`, the already logged `五燈全書/卷第九十二`, `續古尊宿語要 第四集`, and the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families rather than a farther genuine fresh branch. No overlooked local threshold was crossed anywhere in the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X142 = 竺峰敏禪師語錄` at `https://tripitaka.cbeta.org/en/J40nB483_006`, and the immediate renewed broader outward exact and near-exact sweep after it including `https://www.kanripo.org/ed/KR6q0078/T%40NEI/004`, `https://tripitaka.cbeta.org/mobile/index.php?index=X82n1571_092`, and `https://tripitaka.cbeta.org/mobile/index.php?index=X68n1318_004`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-169 2026-05-06 - Continue beyond the repeated post-X141 no-X142 stop under the same overnight authorization and open X142
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged repeated post-`X141` no-`X142` stop by opening `X142 = 竺峰敏禪師語錄` for `T1-p012.l02`
+- Why: restored broader search access remained available, the overnight authorization still covered continued outward checking while plausible branches remained, and one renewed outward pass did still surface one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X141` chain, already-opened branch paths, and duplicate access routes. `X142` preserves the full `雲門 / 陳尚書` `教意` exchange including `口欲談而辭喪。心欲緣而慮忘。` together with the linked `尚書且莫草草` close in a fresh later-yulu branch behind the damaged `T1-p012.l02` quotation wall. Renewed outward checking during the same pass did not surface a second genuine new title-level survivor on the remaining `T1-p007`, `T1-p029.l06`, or `T1-p030.l08` walls
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X141`, the saved `T1-p012` holdout surface, and the fresh targeted hit at `https://tripitaka.cbeta.org/en/J40nB483_006`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-168 2026-05-06 - Run one further broader overnight corroborative sweep beyond the repeated post-X141 no-X142 stop, but still do not open X142 and do not change T1
 
 - Decision: continue the already repeated post-`X141` no-`X142` frontier for one further broader corroborative sweep across the same eight holdouts, but do not open `X142` and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`

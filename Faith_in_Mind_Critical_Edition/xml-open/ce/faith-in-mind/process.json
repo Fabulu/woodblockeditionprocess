@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X140_logged_X141_remaining_8",
+      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X146_logged_X147_remaining_8",
       "witnesses": [
         "T1",
         "T4",
@@ -235,7 +235,13 @@
         "X138",
         "X139",
         "X140",
-        "X141"
+        "X141",
+        "X142",
+        "X143",
+        "X144",
+        "X145",
+        "X146",
+        "X147"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -292,9 +298,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_rechecked_post_X141_no_X142_final_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X146_logged_X147_no_X148_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_rechecked_post_X141_no_X142_final_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X146_logged_X147_no_X148_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -309,7 +315,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "One further broader corroborative sweep has now also been completed beyond the already repeated post-`X141` no-`X142` stop. No genuine `X142` survived that farther sweep either: the strongest primary-source returns again collapsed into already logged branches such as `證道歌頌 / KR6q0177`, `禪宗雜毒海 / KR6q0166`, `五燈會元/卷第十五`, and the already logged `崇覺空` `五燈會元` reprise, while the remaining broader-web pages were non-primary quotation, explanatory, or dictionary-style surfaces rather than new corroborative witnesses. No overlooked local `T1` repair threshold was crossed, and the live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt remains genuinely exhausted with no genuine `X142` surviving this farther sweep."
+    "next_required_action": "The broader overnight corroborative continuation has now been pushed beyond the logged post-`X146` no-`X147` stop by opening `X147 = 佛國禪師語錄`, preserving the exact tail `一片月生海幾家人上樓` through a fresh primary `中秋上堂` line behind `T1-p030.l08`. Even with `X147`, the local `T1-p030.l08` holdout surface still does not isolate a safe line-level reading beyond the already known unstable `...轉親轉遠轉近...後來直得...` cadence, `X147` broadens only the already broad later `月生海` stream rather than displacing the older `月出海` rejection evidence, and the immediate follow-up broader outward check again reduced the strongest fresh-looking survivors to already opened `全唐詩/卷796`, `古尊宿語錄/卷第四十六`, `密菴和尚語錄`, `淮海原肇禪師語錄`, `偃溪廣聞禪師語錄`, direct `雲門`, `景德傳燈錄`, `證道歌`, `金剛 / 心經 / 淨躶躶赤灑灑沒可把`, and related yulu, lamp-history, anthology, doctrinal, poetics, duplicate-access, or non-primary modern pages rather than a farther genuine fresh branch. The live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt is now again genuinely exhausted across the plausibly productive source avenues opened through `X147`, with no farther genuine branch surviving as `X148`."
   }
 }
 

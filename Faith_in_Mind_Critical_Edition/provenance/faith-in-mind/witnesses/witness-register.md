@@ -1098,6 +1098,48 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh older lamp-history preservation of `十方無壁落。四畔亦無門。露裸裸。赤躧躧。無可把。` behind the damaged local cluster
 - Role: fresh older lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
 
+### X145
+
+- Witness: `古尊宿語錄/卷第四十六`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh `古尊宿語錄` volume-branch preservation of `一片月生海。幾家人上樓。` through the `瑯琊廣照禪師語錄` entry
+- Role: fresh older yulu-volume corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X146
+
+- Witness: `古林清茂禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later-yulu preservation of the full `陳尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮忘。 / 尚書且莫草草` exchange behind the still-damaged quotation wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X147
+
+- Witness: `佛國禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh primary `中秋上堂` preservation of `一片月生海幾家人上樓` behind the damaged local tail wall
+- Role: fresh primary yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X144
+
+- Witness: `先覺宗乘`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh `先覺宗乘` preservation of the full `陳尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮忘。 / 尚書且莫草草` exchange behind the still-damaged quotation wall
+- Role: fresh anthology-compilation corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X143
+
+- Witness: `居士分燈錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh `居士` anthology preservation of the full `陳操 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮亡。 / 尚書且莫草草` exchange behind the still-damaged quotation wall
+- Role: fresh anthology corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X142
+
+- Witness: `竺峰敏禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later-yulu preservation of the full `陳尚書 / 教意 / 口欲談而辭喪。心欲緣而慮忘。 / 尚書且莫草草` band behind the still-damaged quotation wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
 ### X141
 
 - Witness: `寶覺祖心禪師語錄（黃龍四家錄第二）`
