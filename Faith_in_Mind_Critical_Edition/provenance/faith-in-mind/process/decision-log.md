@@ -1,5 +1,50 @@
 # Decision Log: Faith in Mind
 
+## D-082 2026-05-06 - Reject further T1 repairs after X68 and X69 and re-close the broader overnight continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X68/X69` continuation
+- Why: `X68 = 宗門拈古彙集` broadens the `T1-p007` wall through a fresh later `拈古` compilation branch preserving `曾有人問老僧。直得五年分踈不下。` inside the same `至道無難` case wall, and `X69 = 錦江禪燈` broadens the `T1-p029` wall through a fresh later lamp-history branch preserving `淨躶躶空無一物。赤骨力貧無一錢。` in the same phrase family as the already opened `X66` variant. Even so, both branches remain phrase-level or contextual corroboration only. Direct reinspection of the saved `T1-p007` upper and lower holdout crops and the saved `T1-p029.l06` holdout crop still does not isolate a full safe local `T1` line, and renewed outward checking on `T1-p012.l02` and `T1-p030.l08` again collapsed into already opened families rather than a further genuine fresh branch
+- Evidence: the local `T1` page images and saved OCR/holdout surfaces for `T1-p007`, `T1-p029`, and `T1-p030`, plus `X68 = 宗門拈古彙集` and `X69 = 錦江禪燈`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-081 2026-05-06 - Continue beyond the logged X67 frontier under the same overnight authorization and open X68 and X69
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X67` frontier by opening `X68 = 宗門拈古彙集` for the damaged `T1-p007` cluster and `X69 = 錦江禪燈` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced two genuinely fresh branches that had not yet been recorded anywhere in the package state: `宗門拈古彙集` preserves the same `趙州 / 至道無難 / 五年分踈不下` wall in a later `拈古` compilation not yet opened in `X1-X67`, and `錦江禪燈` preserves `淨躶躶空無一物。赤骨力貧無一錢。` in a later lamp-history branch not yet opened in the `T1-p029` phrase-family chain. Competing fresh-looking leads on `T1-p012.l02` and `T1-p030.l08` did not survive the same screen and again reduced to already logged `證道歌` quotation/commentary or exact-tail `poem-tail / yulu / lamp-history / doctrinal / poetics` families
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007` and `T1-p029` holdout workbench surfaces, and the fresh external overlaps at `https://tripitaka.cbeta.org/mobile/index.php?index=X66n1296_016` and `https://tripitaka.cbeta.org/en/X85n1590_006`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-078 2026-05-06 - Reject further T1 repairs after X64 to X66 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X64-X66` continuation
+- Why: `X64 = 應菴曇華禪師語錄` broadens the `T1-p029.l06` wall through a fresh later yulu branch preserving the exact phrase `淨躶躶無依。赤洒洒全露。`, `X65 = 僧寶正續傳` broadens the same wall through a fresh transmission-history branch preserving `淨躶躶赤洒洒。是箇無底鉢盂。`, and `X66 = 南宋元明禪林僧寶傳` broadens the same family again through a fresh later historical-compilation branch preserving `淨躶躶空無一物。赤骨立貧無一錢。`. Those are all genuinely fresh post-`X63` branches and they materially strengthen the `T1-p029/T1-p030` phrase family from later yulu, transmission-history, and historical-compilation angles. Even so, all three remain phrase-level or contextual corroboration only. Direct reinspection of the saved `T1-p029.l06` and `T1-p030.l08` holdout surfaces still does not isolate a full safe local `T1` line beyond the already known unstable scraps and cadence skeletons. Renewed outward checking on the other surviving walls again collapsed into already opened `趙州`, `證道歌`, or exact-tail `poem-tail / yulu / lamp-history / doctrinal / poetics` families rather than a materially fresher productive branch
+- Evidence: the local `T1` page images and saved OCR/holdout surfaces for `T1-p029` and `T1-p030`, plus `X64 = 應菴曇華禪師語錄`, `X65 = 僧寶正續傳`, and `X66 = 南宋元明禪林僧寶傳`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-077 2026-05-06 - Continue beyond the logged X63 plus 400dpi frontier and open X64 to X66 for the surviving T1-p029/T1-p030 wall
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X63` plus package-local `400dpi` frontier by opening `X64 = 應菴曇華禪師語錄`, `X65 = 僧寶正續傳`, and `X66 = 南宋元明禪林僧寶傳` for `T1-p029.l06` and the neighboring `T1-p030.l08` phrase family only
+- Why: a renewed broader outward pass beyond the already logged post-`X63` verification did surface three genuinely fresh branches that survive de-duplication: `應菴曇華禪師語錄` preserves the exact `淨躶躶無依。赤洒洒全露。` phrase, `僧寶正續傳` preserves `淨躶躶赤洒洒。是箇無底鉢盂。`, and `南宋元明禪林僧寶傳` preserves `淨躶躶空無一物。赤骨立貧無一錢。`. None of these works had yet been opened or logged anywhere in the package state, and they do not collapse into the already recorded `真歇 / 建康普説 / 佛果 / 宗範 / 絕岸可湘` chain. Competing fresh-looking leads on the `T1-p007`, `T1-p012`, and `T1-p030` walls did not survive the same screen and reduced to already logged branches or non-primary modern pages
+- Evidence: the renewed web-search result set across the `淨躶躶赤洒洒` family; the saved local `T1-p029` and `T1-p030` page images and holdout crops; and the already logged `X1-X63` witness and acquisition records used for de-duplication
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-076 2026-05-06 - Verify the broader overnight frontier beyond X63 plus the 400dpi recheck without opening any new exception source
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after one renewed broader corroborative verification pass beyond the already logged `X63` plus package-local `400dpi` frontier
+- Why: a further exact and near-exact outward sweep was run after the already logged `X63` continuation and package-local `400dpi` OCR recheck, this time re-testing the surviving phrase families across fresh-looking CBETA, Kanripo, and related search hits for the same eight loci. No genuine `X64+` source survived de-duplication. The apparent candidates all collapsed into already logged branches: the `T1-p007` hits reduced to already opened `宏智`, `禪林類聚`, `列祖提綱錄`, `御選語錄`, or direct `趙州 / 雪竇` preservation lines; the `T1-p012.l02` hits reduced to already opened `證道歌頌`, `禪門諸祖師偈頌`, `靈巖妙空和尚註證道歌`, `證道歌註`, `阿彌陀經疏鈔演義`, or other already logged quotation/commentary branches; and the `T1-p029.l06 / T1-p030.l08` hits reduced to already opened `真心直說 / 如來香`, `續古尊宿語要`, `愚菴智及 / 淮海原肇 / 絕岸可湘`, or other already logged tail-preservation lines, plus non-primary modern explanatory pages. No new external corroborative witness was opened, no overlooked in-package repair threshold was crossed, and no further safe `T1` repair threshold was crossed
+- Evidence: the renewed web-search result set across the exact `五年分疏不下`, `吾早曾經多劫修`, `淨躶躶赤洒洒`, and `一片月生海幾家人上樓` phrase families; the saved local `T1` page images and holdout crops for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`; and the already logged `X1-X63` witness and acquisition records used for de-duplication
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-075 2026-05-06 - Reject further T1 repairs after the package-local 400dpi OCR recheck on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the package-local `400dpi` OCR support recheck
@@ -673,6 +718,24 @@
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X10/X11` continuation
 - Why: `X10` strengthens the damaged `T1-p007` cluster from direct-source overlap and downstream anthology overlap to a broader `宏智 / 聯珠 / 宗鑑` case-compilation branch preserving both `曾有人問老僧直得五年分疏不下` and `一句元無縫罅 / 寧可與曉事人相罵 / 不可共不曉事人說話`, while `X11` broadens the `T1-p012` wall from quotation/commentarial preservation to later anthology preservation through `聯燈會要` and `禪門諸祖師偈頌`; however, the local `T1` image still does not isolate full safe line readings at those loci, and renewed outward sweeps again failed to surface a materially closer fresh source family for `T1-p029.l06` or `T1-p030.l08` beyond the already exhausted `X5` branch
 - Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with `X10` and `X11`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-079 2026-05-06 - Continue beyond the logged X66 frontier under the same overnight authorization and open X67
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X66` frontier by opening `X67 = 密行忍禪師語錄` for `T1-p030.l08`
+- Why: the overnight authorization remained in force, the broader outward search still surfaced one genuinely fresh later-yulu branch not yet recorded in the package state, and that branch materially overlaps the exact surviving tail phrase `一片月生海幾家人上樓`
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p030` holdout crop, and the fresh exact phrase hit at `https://www.kanripo.org/text/KR6q0545/002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-080 2026-05-06 - Reject further T1 repairs after X67 and re-close the broader overnight continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X67` continuation
+- Why: `X67` broadens the `T1-p030` wall only at exact tail-phrase level through a fresh later yulu branch preserving `一片月生海幾家人上樓`, but the local `T1-p030.l08` image still does not isolate a full safe line and the other surviving outward candidates again collapsed into already opened families rather than a further genuine fresh branch
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with `X67`
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant

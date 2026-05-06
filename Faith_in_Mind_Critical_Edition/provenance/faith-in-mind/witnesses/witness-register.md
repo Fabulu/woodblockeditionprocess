@@ -671,3 +671,45 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later yulu preservation of the `趙州 / 曾有人問我。直得五年分疏不下` wall together with the linked `一句元無縫罅 / 寧可與曉事人相罵 / 不可共不曉事人說話` gloss material behind the damaged local cluster
 - Role: fresh later yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X64
+
+- Witness: `應菴曇華禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later yulu preservation of the exact `淨躶躶無依。赤洒洒全露。` phrase behind the damaged local wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X65
+
+- Witness: `僧寶正續傳`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh transmission-history preservation of `淨躶躶赤洒洒。是箇無底鉢盂。` behind the damaged local wall
+- Role: fresh transmission-history corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X66
+
+- Witness: `南宋元明禪林僧寶傳`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` and the neighboring `T1-p030.l08` phrase family only, specifically the fresh later historical-compilation preservation of `淨躶躶空無一物。赤骨立貧無一錢。`
+- Role: fresh later historical-compilation corroboration for the remaining `T1-p029` / `T1-p030` wall, not a reopened comparison witness
+
+### X67
+
+- Witness: `密行忍禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later yulu preservation of `一片月生海幾家人上樓`
+- Role: fresh later-yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X68
+
+- Witness: `宗門拈古彙集`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later `拈古` compilation preservation of `趙州 / 至道無難 / 曾有人問老僧直得五年分踈不下`
+- Role: fresh later `拈古` corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X69
+
+- Witness: `錦江禪燈`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later lamp-history preservation of `淨躶躶空無一物。赤骨力貧無一錢。` behind the damaged local wall
+- Role: fresh later lamp-history corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
