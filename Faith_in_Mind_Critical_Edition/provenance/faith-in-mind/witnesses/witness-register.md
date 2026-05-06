@@ -839,3 +839,52 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of the exact `淨躶躶、赤洒洒、沒可把` phrase behind the damaged local wall
 - Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X88
+
+- Witness: `雲門匡真禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh direct-case preservation of `十方無壁落。四面亦無門。淨躶躶赤灑灑沒可把。` together with the follow-on `大梵天王與帝釋商量箇什麼事` behind the damaged local cluster
+- Role: fresh direct-case corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X89
+
+- Witness: `海印昭如禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later-yulu preservation of `十方無壁落` behind the damaged local cluster
+- Role: fresh later-yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X90
+
+- Witness: `明高僧傳`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh historical-biography preservation of `十方無壁落，何不入門來` behind the damaged local cluster
+- Role: fresh historical-biography corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X91
+
+- Witness: `何一自禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later-yulu preservation of the exact `十方無壁落。四面亦無門。` opening behind the damaged local cluster
+- Role: fresh later-yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X92
+
+- Witness: `禪宗雜毒海`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh compilation / verse-family reuse of `幸得十方無壁落` behind the damaged local cluster
+- Role: fresh compilation / verse-family corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X93
+
+- Witness: `正法眼藏`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later case-anthology or commentary preservation of the exact `十方無壁落。四面亦無門。` opening behind the damaged local cluster
+- Role: fresh case-anthology or commentary corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X94
+
+- Witness: `閱經十二種 第13卷`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh doctrinal-commentarial preservation of `此土他方不容揀擇。十方無壁落。四面亦無門。` behind the damaged local cluster
+- Role: fresh doctrinal-commentarial corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness

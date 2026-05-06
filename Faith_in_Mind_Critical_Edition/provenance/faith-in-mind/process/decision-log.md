@@ -1,5 +1,77 @@
 # Decision Log: Faith in Mind
 
+## D-120 2026-05-06 - Reject further T1 repairs after X93 and X94 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X93-X94` continuation
+- Why: `X93 = 正法眼藏` preserves the exact `十方無壁落。四面亦無門。` opening in a fresh later case-anthology or commentary branch, and `X94 = 閱經十二種 第13卷` preserves the same opening inside a fresh `法華懸譚` doctrinal-commentarial branch as `此土他方不容揀擇。十方無壁落。四面亦無門。` Even taken together, those two fresh sources remain phrase-level corroboration only. The local `T1-p007` upper and lower holdout surfaces still do not separate into safe line-level readings, and renewed outward searching after `X94` again collapsed into already logged `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, poem-tail, yulu, lamp-history, anthology, doctrinal, historical-biography, case-anthology, and poetics families, duplicate access paths, or non-primary modern pages instead of a further genuine fresh branch
+- Evidence: the local `T1-p007` page image and saved holdout surfaces, together with `X93 = 正法眼藏` at `https://baus-ebs.org/sutra/fan-read/003/04-031.htm`, `X94 = 閱經十二種 第13卷` at `https://tripitaka.cbeta.org/X37n0674_013`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-119 2026-05-06 - Continue beyond the logged X92 frontier under the same overnight authorization and open X93 and X94
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X92` frontier by opening `X93 = 正法眼藏` and `X94 = 閱經十二種 第13卷` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced two genuinely fresh source branches not yet recorded anywhere in the package state. `X93` preserves the exact `十方無壁落。四面亦無門。` opening in a fresh later case-anthology or commentary branch, and `X94` preserves the same opening in a fresh `法華` doctrinal-commentarial branch as `此土他方不容揀擇。十方無壁落。四面亦無門。` Neither branch collapses into the already logged direct `雲門` branch, `趙州` continuations, `證道歌` quotation branches, the `金剛 / 心經 / 淨躶躶赤洒洒` and tail-poem families, or the later `明高僧傳 / 禪宗雜毒海 / 何一自` branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X92`, the saved `T1-p007` holdout surfaces, and the fresh phrase-level hits at `https://baus-ebs.org/sutra/fan-read/003/04-031.htm` and `https://tripitaka.cbeta.org/X37n0674_013`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-118 2026-05-06 - Reject further T1 repairs after X92 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X90-X92` continuation
+- Why: `X90 = 明高僧傳` and `X92 = 禪宗雜毒海` broaden the damaged `T1-p007` wall only through later historical-biography and compilation reuse of the `十方無壁落` phrase family, while `X91 = 何一自禪師語錄` preserves the exact `十方無壁落。四面亦無門。` opening in a fresh later-yulu branch. Even taken together, those three fresh sources remain phrase-level corroboration only. The local `T1-p007` upper and lower holdout surfaces still do not separate into safe line-level readings, and renewed outward searching after `X92` again collapsed into already logged `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, poem-tail, yulu, lamp-history, anthology, doctrinal, historical-biography, and poetics families, duplicate access paths, or non-primary modern pages instead of a further genuine fresh branch
+- Evidence: the local `T1-p007` page image and saved holdout surfaces, together with `X90 = 明高僧傳` at `https://www.shidianguji.com/zh/book/QLZ1471/chapter/1km5tee2uu616`, `X91 = 何一自禪師語錄` at `https://www.shidianguji.com/zh/book/JS2136/chapter/1jjbpgyd85afe`, `X92 = 禪宗雜毒海` at `https://www.kanripo.org/ed/KR6q0166/X/004`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-117 2026-05-06 - Continue beyond the logged X89 frontier under the same overnight authorization and open X90, X91, and X92
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X89` frontier by opening `X90 = 明高僧傳`, `X91 = 何一自禪師語錄`, and `X92 = 禪宗雜毒海` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced three genuinely fresh source branches not yet recorded anywhere in the package state. `X90` preserves `十方無壁落，何不入門來` in a fresh historical-biography branch, `X91` preserves the exact `十方無壁落。四面亦無門。` opening in a fresh later-yulu branch, and `X92` preserves `幸得十方無壁落` in a fresh compilation / verse-family branch. None of those branches collapses into the already logged direct `雲門` branch, `趙州` continuations, `證道歌` quotation branches, or the `金剛 / 心經 / 淨躶躶赤洒洒` and tail-poem families
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X89`, the saved `T1-p007` holdout surfaces, and the fresh phrase-level hits at `https://www.shidianguji.com/zh/book/QLZ1471/chapter/1km5tee2uu616`, `https://www.shidianguji.com/zh/book/JS2136/chapter/1jjbpgyd85afe`, and `https://www.kanripo.org/ed/KR6q0166/X/004`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-116 2026-05-06 - Reject further T1 repairs after X89 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X89` continuation
+- Why: `X89` is a real fresh later-yulu witness, but it remains phrase-level corroboration only. It preserves `十方無壁落` in a fresh `海印昭如` branch behind the damaged `T1-p007` wall, yet the local `T1-p007` upper and lower holdout surfaces still do not separate into safe line-level readings. Renewed outward searching after `X89` again collapsed into already logged `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, duplicate access paths, or non-primary modern pages instead of a further genuine fresh branch
+- Evidence: the local `T1-p007` page image and saved holdout surfaces, together with `X89 = 海印昭如禪師語錄` at `https://tripitaka.cbeta.org/zh-cn/X70n1398_001`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-115 2026-05-06 - Continue beyond the logged X88 frontier under the same overnight authorization and open X89
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X88` frontier by opening `X89 = 海印昭如禪師語錄` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface one genuinely fresh witness not yet recorded anywhere in the package state. `X89` preserves `十方無壁落` in a fresh later-yulu branch that does not collapse into the already logged direct `雲門` branch, `趙州` continuations, `證道歌` quotation branches, or the `金剛 / 心經 / 淨躶躶赤洒洒` and tail-poem families
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X88`, the saved `T1-p007` holdout surfaces, and the fresh phrase-level hit at `https://tripitaka.cbeta.org/zh-cn/X70n1398_001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-114 2026-05-06 - Reject further T1 repairs after X88 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X88` continuation
+- Why: `X88` is a real fresh direct-case `雲門` witness, but it remains corroborative only. Direct reinspection of the saved `T1-p007` upper and lower holdout surfaces still leaves mixed local spillover rather than safely separable line-level `T1` readings. Renewed outward searching after `X88` again collapsed into already logged `趙州`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, duplicate access paths, or non-primary modern pages instead of a further genuine fresh branch
+- Evidence: the local `T1-p007` page image and saved holdout surfaces, together with `X88 = 雲門匡真禪師語錄` at `https://www.kanripo.org/text/KR6q0392/001`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-113 2026-05-06 - Continue beyond the logged X87 frontier under the same overnight authorization and open X88
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X87` frontier by opening `X88 = 雲門匡真禪師語錄` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface one genuinely fresh witness not yet recorded anywhere in the package state. `X88` preserves the direct-case `十方無壁落。四面亦無門。淨躶躶赤灑灑沒可把。` exchange together with the follow-on `大梵天王與帝釋商量箇什麼事`, and does not collapse into the already logged `趙州`, `金剛`, `心經`, lamp-history, anthology, poem-tail, or prior yulu streams
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X87`, the saved `T1-p007` holdout surfaces, and the fresh direct-case hit at `https://www.kanripo.org/text/KR6q0392/001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-112 2026-05-06 - Reject further T1 repairs after X87 and re-close the restored external-access continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X87` continuation

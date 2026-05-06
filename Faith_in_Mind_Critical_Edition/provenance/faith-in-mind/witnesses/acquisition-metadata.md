@@ -1223,3 +1223,73 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p029.l06` only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X86` frontier; not promoted into the normal witness queue
+
+## X88
+
+- Witness: 雲門匡真禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6q0392/001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X87` frontier; not promoted into the normal witness queue
+
+## X89
+
+- Witness: 海印昭如禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/zh-cn/X70n1398_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X88` frontier; not promoted into the normal witness queue
+
+## X90
+
+- Witness: 明高僧傳
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.shidianguji.com/zh/book/QLZ1471/chapter/1km5tee2uu616
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X89` frontier; not promoted into the normal witness queue
+
+## X91
+
+- Witness: 何一自禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.shidianguji.com/zh/book/JS2136/chapter/1jjbpgyd85afe
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X89` frontier; not promoted into the normal witness queue
+
+## X92
+
+- Witness: 禪宗雜毒海
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/ed/KR6q0166/X/004
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X89` frontier; not promoted into the normal witness queue
+
+## X93
+
+- Witness: 正法眼藏
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://baus-ebs.org/sutra/fan-read/003/04-031.htm
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X92` frontier; not promoted into the normal witness queue
+
+## X94
+
+- Witness: 閱經十二種 第13卷
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/X37n0674_013
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X92` frontier; not promoted into the normal witness queue
