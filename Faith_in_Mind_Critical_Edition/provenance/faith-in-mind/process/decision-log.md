@@ -1,5 +1,41 @@
 # Decision Log: Faith in Mind
 
+## D-089 2026-05-06 - Continue beyond the logged X75 frontier under the renewed explicit overnight authorization and open X76 and X77
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X75` frontier by opening `X76 = 為霖道霈禪師餐香錄` and `X77 = 圓覺經夾頌集解講義`
+- Why: the human operator explicitly reopened the already logged post-`X75` exhaustion claim and authorized one more broader overnight continuation for the same eight loci. A renewed outward pass still surfaced two genuinely fresh phrase-family branches that had not yet been recorded anywhere in the package state: `X76` is a fresh later yulu-style branch preserving `露躶躶兮赤洒洒。十方何處不圓通。`, and `X77` is a fresh doctrinal-lecture branch preserving `圓陀陀。淨躶躶。赤洒洒。活鱍鱍。硬糾糾。黑漫漫。` behind the still-open `T1-p029.l06` wall. Competing renewed leads on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again collapsed into already logged `趙州`, `證道歌`, tail-poem, yulu, lamp-history, doctrinal, commentary, anthology, or poetics families rather than a further genuinely fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p029` holdout crop, and the fresh external overlaps at `https://tripitaka.cbeta.org/en/X72n1439_001` and `https://tripitaka.cbeta.org/mobile/index.php?index=X66n1297_002`
+- Confidence: high
+- Actor type: `hybrid`
+- Actor id: user + assistant
+
+## D-090 2026-05-06 - Reject further T1 repairs after X76 and X77 and re-close the broader overnight continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X76/X77` continuation
+- Why: `X76` and `X77` are both real fresh external branches, but they remain phrase-family corroboration only. `X76` adds a fresh later `露躶躶兮赤洒洒` preservation line and `X77` adds a fresh doctrinal lecture-chain preserving `淨躶躶。赤洒洒。`, but neither branch isolates the damaged local `T1-p029.l06` line itself. Direct reinspection of the saved `T1-p029.l06` holdout crop still leaves only unstable local scraps rather than a full safe `T1` line, and renewed broader outward checking after `X77` again collapsed into already opened `金剛`, `趙州`, `證道歌`, tail-poem, yulu, lamp-history, doctrinal, commentary, anthology, and poetics families rather than a further genuinely fresh branch
+- Evidence: the local `T1-p029` page image and saved holdout crops, together with `X76 = 為霖道霈禪師餐香錄` and `X77 = 圓覺經夾頌集解講義`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-087 2026-05-06 - Continue beyond the logged X73 frontier under the same overnight authorization and open X74 and X75
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X73` frontier by opening `X74 = 元叟行端禪師語錄` and `X75 = 了菴清欲禪師語錄`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced two genuinely fresh later yulu branches that had not yet been recorded anywhere in the package state. `X74` preserves `淨倮倮絕承當。赤洒洒無空闕。`, while `X75` preserves both `淨倮倮包含萬有。赤洒洒融攝十虗。` and `淨倮倮絕承當。赤洒洒無空闕。` behind the still-open `T1-p029.l06` wall. Competing outward-looking leads on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again collapsed into already logged `趙州`, `證道歌`, tail-poem, yulu, lamp-history, doctrinal, commentary, and poetics families rather than a further genuinely fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p029` holdout crop, and the fresh external overlaps at `https://www.kanripo.org/text/KR6q0352/004` and `https://www.kanripo.org/text/KR6q0347/003`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-088 2026-05-06 - Reject further T1 repairs after X74 and X75 and re-close the broader overnight continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X74/X75` continuation
+- Why: `X74` and `X75` are both real fresh later yulu branches, but they remain phrase-family corroboration only. Even with `淨倮倮絕承當。赤洒洒無空闕。` and `淨倮倮包含萬有。赤洒洒融攝十虗。` now added to the surviving `T1-p029` wall, the local `T1-p029.l06` holdout surface still does not isolate a safe line-level reading. Renewed broader outward checking after `X75` again collapsed into already opened `金剛`, `趙州`, `證道歌`, tail-poem, yulu, lamp-history, doctrinal, commentary, anthology, and poetics families rather than a further genuinely fresh branch
+- Evidence: the local `T1-p029` page image and saved holdout crops, together with `X74 = 元叟行端禪師語錄` and `X75 = 了菴清欲禪師語錄`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-084 2026-05-06 - Reject further T1 repairs after X70 and X71 and re-close the broader overnight continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X70/X71` continuation

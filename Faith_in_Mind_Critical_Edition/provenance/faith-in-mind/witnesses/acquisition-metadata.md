@@ -1083,3 +1083,43 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p029.l06`, with secondary quotation-family confirmation noted for `T1-p012.l02`
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X69` frontier; not promoted into the normal witness queue
+
+## X74
+
+- Witness: 元叟行端禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6q0352/004
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X73` frontier; not promoted into the normal witness queue
+
+## X75
+
+- Witness: 了菴清欲禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6q0347/003
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X73` frontier; not promoted into the normal witness queue
+
+## X76
+
+- Witness: 為霖道霈禪師餐香錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/en/X72n1439_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the renewed explicit human-authorized overnight corroborative continuation beyond the already logged `X75` frontier; not promoted into the normal witness queue
+
+## X77
+
+- Witness: 圓覺經夾頌集解講義
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X66n1297_002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the renewed explicit human-authorized overnight corroborative continuation beyond the already logged `X75` frontier; not promoted into the normal witness queue
