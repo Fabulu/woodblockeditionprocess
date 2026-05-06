@@ -1043,3 +1043,43 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p029.l06` only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X67` frontier; not promoted into the normal witness queue
+
+## X70
+
+- Witness: 金剛經註
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6c0049/001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X69` frontier; not promoted into the normal witness queue
+
+## X72
+
+- Witness: 金剛經註解
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6c0056/001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X71` frontier; not promoted into the normal witness queue
+
+## X73
+
+- Witness: 石田法薰禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6q0319/002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X71` frontier; not promoted into the normal witness queue
+
+## X71
+
+- Witness: 金剛經如是經義
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6c0089/001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06`, with secondary quotation-family confirmation noted for `T1-p012.l02`
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X69` frontier; not promoted into the normal witness queue

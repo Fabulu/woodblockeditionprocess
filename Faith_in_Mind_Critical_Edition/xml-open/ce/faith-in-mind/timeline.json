@@ -11068,6 +11068,128 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X69_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-316",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X69 frontier after renewed broader outward checking and logged X70 and X71",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X69. A renewed broader pass surfaced two genuinely fresh doctrinal-commentary witnesses not yet recorded in the package state: X70 = 金剛經註, preserving `淨躶躶。赤洒洒。沒可把。` behind T1-p029.l06, and X71 = 金剛經如是經義, preserving `淨躶躶赤洒洒。沒可把。` behind the same locus while also separately reusing `吾早曾經多劫修。不是等閒相誑惑。`",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "https://www.kanripo.org/text/KR6c0049/001",
+        "https://www.kanripo.org/text/KR6c0089/001"
+      ],
+      "decision_ref": "D-083",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X71_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X69_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-317",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight continuation on the remaining eight holdouts without further T1 text changes after X70 and X71",
+      "summary": "X70 and X71 broaden the T1-p029 wall through fresh doctrinal-commentary branches, but neither branch lifts the local T1 holdout surface above repair threshold. Renewed outward checking after X71 again surfaced only already opened 趙州, 證道歌, tail-poem, yulu, lamp-history, doctrinal, or compilation families rather than a further genuine fresh branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/",
+        "https://www.kanripo.org/text/KR6c0049/001",
+        "https://www.kanripo.org/text/KR6c0089/001"
+      ],
+      "decision_ref": "D-084",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X71_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X71_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-318",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X71 frontier after renewed broader outward checking and logged X72 and X73",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X71. A renewed broader pass surfaced two genuinely fresh witnesses not yet recorded in the package state: X72 = 金剛經註解, preserving the exact `淨躶躶赤灑灑。沒可把。` phrase behind T1-p029.l06, and X73 = 石田法薰禪師語錄, preserving the same exact phrase behind the same locus in a fresh later yulu branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "https://www.kanripo.org/text/KR6c0056/001",
+        "https://www.kanripo.org/text/KR6q0319/002"
+      ],
+      "decision_ref": "D-085",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X73_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X71_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-319",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the broader overnight continuation on the remaining eight holdouts without further T1 text changes after X72 and X73",
+      "summary": "X72 and X73 broaden the T1-p029 wall to exact phrase-family preservation through fresh doctrinal-commentary and yulu branches, but neither branch lifts the local T1 holdout surface above repair threshold. Renewed outward checking after X73 again surfaced only already opened 金剛, 趙州, 證道歌, tail-poem, yulu, lamp-history, doctrinal, or poetics families rather than a further genuine fresh branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/",
+        "https://www.kanripo.org/text/KR6c0056/001",
+        "https://www.kanripo.org/text/KR6q0319/002"
+      ],
+      "decision_ref": "D-086",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_broader_overnight_corroborative_continuation_beyond_X73_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X73_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

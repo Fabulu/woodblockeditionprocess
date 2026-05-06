@@ -1,5 +1,41 @@
 # Decision Log: Faith in Mind
 
+## D-084 2026-05-06 - Reject further T1 repairs after X70 and X71 and re-close the broader overnight continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X70/X71` continuation
+- Why: `X70 = 金剛經註` broadens the `T1-p029.l06` wall through a fresh Song-period doctrinal-commentary branch preserving `淨躶躶。赤洒洒。沒可把。`, and `X71 = 金剛經如是經義` broadens the same wall through a fresh later doctrinal-commentary branch preserving `淨躶躶赤洒洒。沒可把。` together with a separate `證道歌` quotation-family reuse of `吾早曾經多劫修。不是等閒相誑惑。`. Even so, both branches remain phrase-level corroboration only. Direct reinspection of the saved `T1-p029.l06` holdout crop still does not isolate a full safe local `T1` line, and renewed outward checking on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again collapsed into already opened families rather than a further genuine fresh branch
+- Evidence: the local `T1` page images and saved OCR/holdout surfaces for `T1-p029`, the live eight-locus queue, and `X70 = 金剛經註` plus `X71 = 金剛經如是經義`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-085 2026-05-06 - Continue beyond the logged X71 frontier under the same overnight authorization and open X72 and X73
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X71` frontier by opening `X72 = 金剛經註解` and `X73 = 石田法薰禪師語錄`
+- Why: the overnight authorization remained in force, the broader outward search still surfaced two genuinely fresh witnesses not yet recorded in the package state, and both materially overlap the exact surviving `淨躶躶赤灑灑。沒可把。` wall behind `T1-p029.l06`
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p029` holdout crop, the exact `淨躶躶赤灑灑。沒可把。` hit in `金剛經註解` at `https://www.kanripo.org/text/KR6c0056/001`, and the exact same phrase preserved in `石田法薰禪師語錄` at `https://www.kanripo.org/text/KR6q0319/002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-086 2026-05-06 - Reject further T1 repairs after X72 and X73 and re-close the broader overnight continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X72/X73` continuation
+- Why: `X72` and `X73` both sharpen the `T1-p029` phrase family to exact `淨躶躶赤灑灑。沒可把。` preservation through fresh doctrinal-commentary and yulu branches, but the local `T1-p029.l06` holdout surface still does not isolate a safe line-level reading, and renewed broader outward checking after `X73` again collapsed into already opened `金剛`, `趙州`, `證道歌`, tail-poem, yulu, lamp-history, doctrinal, or poetics families rather than a further genuine fresh branch
+- Evidence: the local `T1-p029` page image and saved holdout crops, together with `X72 = 金剛經註解` and `X73 = 石田法薰禪師語錄`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-083 2026-05-06 - Continue beyond the logged X69 frontier under the same overnight authorization and open X70 and X71
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X69` frontier by opening `X70 = 金剛經註` and `X71 = 金剛經如是經義` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced two genuinely fresh doctrinal-commentary branches that had not yet been recorded anywhere in the package state: `金剛經註` preserves the same `淨躶躶 / 赤洒洒` phrase family in a Song-period commentary stream, and `金剛經如是經義` preserves `淨躶躶赤洒洒。沒可把。` while also reusing the `吾早曾經多劫修。不是等閒相誑惑。` `證道歌` line in a separate doctrinal-commentary setting. Competing fresh-looking leads on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` did not survive the same screen and again reduced to already logged `趙州`, `證道歌`, or exact-tail `poem-tail / yulu / lamp-history / doctrinal / poetics` families
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p029` holdout workbench surfaces, and the fresh external overlaps at `https://www.kanripo.org/text/KR6c0049/001` and `https://www.kanripo.org/text/KR6c0089/001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-082 2026-05-06 - Reject further T1 repairs after X68 and X69 and re-close the broader overnight continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X68/X69` continuation

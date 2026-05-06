@@ -713,3 +713,31 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later lamp-history preservation of `淨躶躶空無一物。赤骨力貧無一錢。` behind the damaged local wall
 - Role: fresh later lamp-history corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X70
+
+- Witness: `金剛經註`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh Song-period doctrinal-commentary preservation of `淨躶躶。赤洒洒。沒可把。` behind the damaged local wall
+- Role: fresh doctrinal-commentary corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X71
+
+- Witness: `金剛經如是經義`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` primarily, and secondarily the already unresolved `T1-p012.l02` quotation family, specifically the fresh later doctrinal-commentary preservation of `淨躶躶赤洒洒。沒可把。` together with a separate reuse of `吾早曾經多劫修。不是等閒相誑惑。`
+- Role: fresh doctrinal-commentary corroboration for the remaining `T1-p029` holdout plus phrase-family-only secondary corroboration for `T1-p012.l02`, not a reopened comparison witness
+
+### X72
+
+- Witness: `金剛經註解`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later doctrinal-commentary preservation of the exact `淨躶躶赤灑灑。沒可把。` phrase behind the damaged local wall
+- Role: fresh doctrinal-commentary corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X73
+
+- Witness: `石田法薰禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later yulu preservation of the exact `淨躶躶赤灑灑。沒可把。` phrase behind the damaged local wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
