@@ -1,5 +1,32 @@
 # Decision Log: Faith in Mind
 
+## D-199 2026-05-06 - Reject opening X166 and close the broader overnight corroborative hunt after the post-X165 retest
+
+- Decision: do not open an `X166` source and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after one farther broader post-`X165` corroborative sweep
+- Why: one renewed broader outward pass was still run across the same four surviving phrase families after `X165`, but no genuinely fresh title-level branch survived de-duplication. The strongest fresh-looking exact and near-exact returns reduced again to already opened or already rejected branch paths such as `如來香`, `大川普濟禪師語錄`, `列祖提綱錄`, `禪宗正脉`, `普濟玉琳國師語錄`, `續古尊宿語要 第四集`, `大慧普覺禪師語錄`, `圓悟佛果禪師語錄`, `天聖廣燈錄`, `聯燈會要`, `五燈會元`, `雲門匡真禪師廣錄`, and the already broad `趙州 / 雲門 / 證道歌 / 金剛 / 心經 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, together with duplicate access routes or non-primary modern pages. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified and no genuine `X166` remains to log
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with the farther broader post-`X165` exact and near-exact sweep across the same surviving phrase families
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-197 2026-05-06 - Continue beyond the logged X164 frontier under the same overnight authorization and open X165
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X164` frontier by opening `X165 = 增集續傳燈錄` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface one genuinely fresh witness not yet recorded anywhere in the package state after title-level de-duplication against the already logged `X1-X164` chain, already-opened branch paths, and duplicate access routes. `增集續傳燈錄` preserves the exact later phrase-family line `淨裸裸赤灑灑沒可把` inside a fresh transmission-history branch behind `T1-p029.l06`, while renewed candidate leads on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again reduced to already opened `雲門`, `景德傳燈錄`, `居士分燈錄`, `先覺宗乘`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `百愚禪師語錄`, and the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families rather than a second fresh title worth logging
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X164`, the saved `T1-p029` holdout surface, and the fresh targeted hit at `https://www.kanripo.org/ed/KR6q0017/CBETA/001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-198 2026-05-06 - Reject further T1 repairs after X165 and re-close the broader overnight continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X165` continuation
+- Why: `X165` broadens the `T1-p029` wall through one more fresh transmission-history phrase-family preservation of `淨裸裸赤灑灑沒可把`, but it remains corroborative only. Direct reinspection of the saved `T1-p029.l06` holdout surface still leaves unstable local scraps rather than a safe line-level `T1` reading, and renewed outward exact and near-exact checking after `X165` on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again surfaced only already opened `御製揀魔辨異錄`, `大慧普覺禪師語錄`, `幻住明禪師語錄`, `費隱禪師語錄`, `景德傳燈錄`, `居士分燈錄`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `百愚禪師語錄`, and related `趙州 / 雲門 / 證道歌 / 金剛 / 心經 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, duplicate access paths, or non-primary modern pages rather than a farther genuine fresh branch. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X165 = 增集續傳燈錄` at `https://www.kanripo.org/ed/KR6q0017/CBETA/001`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-194 2026-05-06 - Reject further T1 repairs after X163 and re-close the overnight corroborative continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X163` continuation

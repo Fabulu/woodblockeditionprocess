@@ -14636,6 +14636,97 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_continued_broader_post_X163_opened_X164_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-429",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X164 frontier under the same overnight authorization and logged X165",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X164. A renewed broader pass surfaced one genuinely fresh witness not yet recorded in the package state after title-level de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X165 = 增集續傳燈錄, preserving the exact phrase-family line 淨裸裸赤灑灑沒可把 inside a fresh transmission-history branch behind T1-p029.l06.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/ed/KR6q0017/CBETA/001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-197",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_continued_broader_post_X164_opened_X165_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_continued_broader_post_X164_opened_X165_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-430",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation after X165 without further T1 text changes",
+      "summary": "X165 materially broadens the T1-p029 wall through one fresh transmission-history phrase-family preservation, but it remains corroborative only: the local T1-p029 holdout surface still does not isolate safe line-level readings, and one immediate follow-up broader outward check after X165 again reduced the strongest fresh-looking survivors to already opened 御製揀魔辨異錄, 大慧普覺禪師語錄, 幻住明禪師語錄, 費隱禪師語錄, 景德傳燈錄, 居士分燈錄, 古尊宿語錄/卷第四十六, 古尊宿語錄/卷第四十七, 百愚禪師語錄, and the already broad 趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海 families rather than a farther genuine branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/ed/KR6q0017/CBETA/001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-198",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_broader_post_X164_opened_X165_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_continued_broader_post_X164_opened_X165_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-431",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-tested the broadened post-X165 frontier and did not open X166",
+      "summary": "One farther broader corroborative sweep was run beyond the already logged `X165` frontier for the same eight unresolved loci. No genuine `X166` survived: the strongest fresh-looking exact and near-exact returns again collapsed into already opened or already rejected branches such as `如來香`, `大川普濟禪師語錄`, `列祖提綱錄`, `禪宗正脉`, `普濟玉琳國師語錄`, `續古尊宿語要 第四集`, `大慧普覺禪師語錄`, `圓悟佛果禪師語錄`, `天聖廣燈錄`, `聯燈會要`, `五燈會元`, and `雲門匡真禪師廣錄`, while the remaining broader-web pages were duplicate-access, reception-only, or non-primary explanatory surfaces. No overlooked local threshold was crossed, no new external exception source was opened, no further `T1` text change is justified, and the same eight loci remain unresolved.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-199",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_retested_broader_post_X165_no_X166_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_retested_broader_post_X165_no_X166_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }
