@@ -12324,6 +12324,72 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X99_logged_X102_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-357",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X102 frontier under the same overnight authorization and logged X103 to X105",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X102. A renewed broader pass surfaced three genuinely fresh witnesses not yet recorded in the package state: X103 = 正源略集, preserving 十方無壁落。四面亦無門。 in a fresh later doctrinal-yulu compilation branch behind the damaged T1-p007 cluster; X104 = 林泉老人評唱投子青和尚頌古空谷集, preserving 淨躶躶。赤灑灑。沒可把。 in a fresh later 頌古 commentary branch behind T1-p029.l06; and X105 = 密菴和尚語錄, preserving 一片月生海。幾家人上樓。 in a fresh later yulu branch behind T1-p030.l08.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/text/KR6q0032/011",
+        "https://www.kanripo.org/edition/CBETA/KR6q0251/005",
+        "https://www.kanripo.org/text/KR6q0064/001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-125",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X102_logged_X105_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X102_logged_X105_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-358",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the restored external-access continuation on the remaining eight holdouts without further T1 text changes after X103 to X105",
+      "summary": "X103 broadened the T1-p007 wall through a fresh later doctrinal-yulu compilation branch, X104 broadened the T1-p029 wall through a fresh later 頌古 commentary branch, and X105 broadened the T1-p030 wall through a fresh later yulu 月生海 preservation rather than overturning the older 月出海 rejection evidence. None of those fresh branches lifted the local T1 images above repair threshold, and the overnight unconstrained corroborative hunt for the remaining eight holdouts is now again genuinely exhausted on the present basis through X105.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/text/KR6q0032/011",
+        "https://www.kanripo.org/edition/CBETA/KR6q0251/005",
+        "https://www.kanripo.org/text/KR6q0064/001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-126",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X102_logged_X105_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X102_logged_X105_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

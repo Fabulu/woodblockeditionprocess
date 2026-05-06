@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-126 2026-05-06 - Reject further T1 repairs after X103 to X105 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X103-X105` continuation
+- Why: `X103 = 正源略集` preserves the exact `十方無壁落。四面亦無門。` wall in a fresh later doctrinal-yulu compilation branch behind the damaged `T1-p007` cluster; `X104 = 林泉老人評唱投子青和尚頌古空谷集` preserves the exact `淨躶躶。赤灑灑。沒可把。` phrase in a fresh later `頌古` commentary branch behind `T1-p029.l06`; and `X105 = 密菴和尚語錄` preserves `一片月生海。幾家人上樓。` in a fresh later yulu branch behind `T1-p030.l08`. Even taken together, those three fresh sources remain corroborative only. The local `T1-p007`, `T1-p029`, and `T1-p030` holdout surfaces still do not isolate safe line-level readings, `X105` broadens only the already broad later `月生海` stream rather than overruling the older `月出海` rejection evidence, and no `T1` repair threshold was crossed anywhere in the remaining eight-locus queue
+- Evidence: the local `T1-p007`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X103 = 正源略集` at `https://www.kanripo.org/text/KR6q0032/011`, `X104 = 林泉老人評唱投子青和尚頌古空谷集` at `https://www.kanripo.org/edition/CBETA/KR6q0251/005`, `X105 = 密菴和尚語錄` at `https://www.kanripo.org/text/KR6q0064/001`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-125 2026-05-06 - Continue beyond the logged X102 frontier under the same overnight authorization and open X103 to X105
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X102` frontier by opening `X103 = 正源略集`, `X104 = 林泉老人評唱投子青和尚頌古空谷集`, and `X105 = 密菴和尚語錄`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced three genuinely fresh source branches not yet recorded anywhere in the package state. `X103` is a fresh later doctrinal-yulu compilation branch preserving the exact `十方無壁落。四面亦無門。` wall behind the damaged `T1-p007` cluster; `X104` is a fresh later `頌古` commentary branch preserving the exact `淨躶躶。赤灑灑。沒可把。` phrase behind `T1-p029.l06`; and `X105` is a fresh later yulu branch preserving `一片月生海。幾家人上樓。` behind `T1-p030.l08`. None collapses into the already logged `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, or prior poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X102`, the saved `T1-p007`, `T1-p029`, and `T1-p030` holdout surfaces, and the fresh phrase-level and tail-line hits at `https://www.kanripo.org/text/KR6q0032/011`, `https://www.kanripo.org/edition/CBETA/KR6q0251/005`, and `https://www.kanripo.org/text/KR6q0064/001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-124 2026-05-06 - Reject further T1 repairs after X100 to X102 and re-close the restored external-access continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X100-X102` continuation
