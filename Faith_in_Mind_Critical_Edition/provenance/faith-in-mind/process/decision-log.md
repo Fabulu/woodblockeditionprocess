@@ -1927,3 +1927,21 @@
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-215 2026-05-06 - Continue beyond the logged post-X171 no-X172 state under the same overnight authorization and open X172
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X171` no-`X172` state by opening `X172 = 無明慧性禪師語錄` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh witness not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X171` chain, already-opened branch paths, and duplicate access routes. `X172` preserves the direct `雪竇 / 十方無壁落。四面亦無門。畢竟向什麼處見客。若道得接手句。許你天上天下。` wall in a new `無明` later-yulu branch materially overlapping the surviving `T1-p007` holdouts, while renewed outward checking on the same family during the same pass again reduced the strongest fresh-looking companion returns to already opened `瞎堂慧遠禪師廣錄`, `觀濤奇禪師語錄`, `五燈全書/卷第三十三`, `續傳燈錄/卷第二`, `即非禪師全錄`, and `天童忞和尚全錄`
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X171`, the saved `T1-p007` holdout surfaces, and the fresh targeted hit at `https://www.kanripo.org/ed/KR6q0312/CBETA/001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-216 2026-05-06 - Reject further T1 repairs after X172 and re-close the overnight corroborative continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X172` continuation
+- Why: `X172` materially broadens the `T1-p007` wall through one more fresh later-yulu reprise of the direct `雪竇 / 十方無壁落。四面亦無門。畢竟向什麼處見客。若道得接手句。許你天上天下。` band, but it remains corroborative only. Direct reinspection of the saved `T1-p007` upper and lower holdout surfaces still does not isolate safe line-level readings at `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, or `T1-p007.l12`, and one immediate follow-up broader outward check after `X172` again reduced the strongest fresh-looking survivors to already opened `瞎堂慧遠禪師廣錄`, `觀濤奇禪師語錄`, `五燈全書/卷第三十三`, `續傳燈錄/卷第二`, `即非禪師全錄`, and `天童忞和尚全錄`, together with duplicate-access routes or non-primary explanatory surfaces, rather than a farther genuine `X173`
+- Evidence: the local `T1-p007` page image and saved holdout surfaces, together with `X172 = 無明慧性禪師語錄`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
