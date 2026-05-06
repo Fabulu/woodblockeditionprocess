@@ -13621,6 +13621,41 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X140_logged_X141_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-398",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-verified the post-X141 frontier without opening X142",
+      "summary": "One further renewed broader outward verification pass was run before treating the X141 stop as final for this session. No genuine X142 source survived de-duplication: the strongest fresh-looking exact and near-exact leads reduced to already logged branches such as 雲峰體宗寧禪師語錄, 景德傳燈錄, 閱經十二種 / 法華懸譚, 楞嚴經宗通, and the 黃龍四家錄 line already logged as X141, while looser phrase-family hits such as 黔南會燈錄 remained below the package's material-overlap threshold. No overlooked local T1 repair threshold was crossed, and the same eight loci remain unresolved.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X69n1343_001",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J38nB431_001",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=T48n2014_001",
+        "https://tripitaka.cbeta.org/X37n0674_013",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X85n1591_006",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-166",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_reverified_post_X141_no_X142_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_reverified_post_X141_no_X142_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

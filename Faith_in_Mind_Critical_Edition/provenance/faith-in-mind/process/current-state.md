@@ -10,8 +10,8 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X140_logged_X141_remaining_8`
-- Next required phase: `manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X141_exhausted_remaining_8`
+- Last completed phase: `manual_correction_slice_T1_second_pass_reverified_post_X141_no_X142_remaining_8`
+- Next required phase: `manual_correction_slice_T1_second_pass_paused_after_reverified_post_X141_no_X142_remaining_8`
 
 ## What is already done
 
@@ -638,3 +638,5 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `X141` preserves the exact `十方無壁落。四面亦無門。灌溪老。出氣不得。何不向火焰裏相見。代曰。笑我者多。` wall behind the damaged `T1-p007` cluster in a fresh `黃龍四家錄` branch.
 - even with `X141`, the local `T1-p007` upper and lower holdout surfaces still do not isolate safe line-level readings, the surviving outward exact and near-exact candidates on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` again collapsed into already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, `趙州`, `雲門`, yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families, duplicate access paths, looser one-sided reuses, or non-primary modern pages, and no further `T1` text change is justified on the present basis.
 - the live unresolved queue therefore still remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through `X141`.
+- one further renewed post-`X141` outward verification pass has now also been completed against the same eight loci before treating that stop as final for this session. No genuine `X142` source survived de-duplication: the strongest fresh-looking hits collapsed back into already logged branches such as `雲峰體宗寧禪師語錄`, `景德傳燈錄`, `閱經十二種 / 法華懸譚`, `楞嚴經宗通`, and the `黃龍四家錄` `寶覺祖心禪師語錄` line already logged as `X141`, while looser phrase-family leads such as `黔南會燈錄` stayed below the package's material-overlap threshold.
+- no overlooked local threshold was crossed in that renewed post-`X141` pass, no further `T1` text change is justified, and the live unresolved queue still remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now re-verified as genuinely exhausted with no `X142`, rather than only left at the earlier `X141` stop.

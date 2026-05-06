@@ -1,5 +1,14 @@
 # Decision Log: Faith in Mind
 
+## D-166 2026-05-06 - Re-verify the post-X141 frontier and reject opening X142
+
+- Decision: do not open `X142`, and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after one further renewed outward verification pass beyond the already logged `X141` frontier
+- Why: the explicit overnight authorization still allowed one more broader pass before treating the `X141` stop as final for this session, but no genuine new witness survived de-duplication. The strongest fresh-looking exact and near-exact leads reduced to already logged branches such as `雲峰體宗寧禪師語錄`, `景德傳燈錄`, `閱經十二種 / 法華懸譚`, `楞嚴經宗通`, and the `黃龍四家錄` line already logged as `X141`; a looser `黔南會燈錄` phrase-family lead (`淨躶躶絕承當 / 赤條條沒回互`) remained below the package's material-overlap threshold. Direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces still did not isolate any new safe local line-level `T1` reading, so no `T1` repair threshold was crossed
+- Evidence: the package decision and witness chain through `X141`, the renewed broader exact and near-exact searches run after `X141`, `https://tripitaka.cbeta.org/mobile/index.php?index=X69n1343_001`, `https://tripitaka.cbeta.org/mobile/index.php?index=J38nB431_001`, `https://tripitaka.cbeta.org/mobile/index.php?index=T48n2014_001`, `https://tripitaka.cbeta.org/X37n0674_013`, `https://tripitaka.cbeta.org/mobile/index.php?index=X85n1591_006`, and the saved local holdout surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-165 2026-05-06 - Reject further T1 repairs after X141 and re-close the overnight hunt on the remaining eight holdouts with no X142
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X141` continuation, and do not open `X142`
