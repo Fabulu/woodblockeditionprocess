@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-093 2026-05-06 - Recheck the package itself for latent corroborative branches before treating the beyond-X77 state as a hard pause in this session
+
+- Decision: run one resumed workspace-local corroborative sweep after the already logged beyond-`X77` frontier, limited to saved holdout crops, `T1` OCR surfaces, and already-downloaded witness OCR text, while refusing to assign `X78` unless a genuinely fresh source branch survives de-duplication
+- Why: the package state already claimed genuine overnight exhaustion beyond `X77`, but before ending the resumed session it was still necessary to test whether the workspace itself hid any unlogged corroborative trace or overlooked in-package witness surface for the same eight loci
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved holdout workbench surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, the `T1` OCR sidecars, and the already-downloaded witness OCR traces at `A1-p015`, `C5-p014`, `C5-p022`, `C5-p048`, `C9-p016`, and `C17-p156`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-094 2026-05-06 - Do not change T1 or assign X78 in this resumed session; further fresh-source continuation now requires new external access
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`, and do not assign `X78` in this resumed session
+- Why: the resumed workspace-local sweep surfaced only already logged in-package corroborative traces and did not raise any locus above repair threshold. The package record already carries the broader overnight hunt as exhausted beyond `X77`; from this machine, any farther genuinely fresh corroborative continuation would now require new external source access or fresh human-provided source material rather than another package-local loop
+- Evidence: the saved `T1` page images, holdout crops, `T1` OCR sidecars, and already-downloaded witness OCR traces for the same phrase families, together with the absence of any new external access path in this session
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-089 2026-05-06 - Continue beyond the logged X75 frontier under the renewed explicit overnight authorization and open X76 and X77
 
 - Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X75` frontier by opening `X76 = 為霖道霈禪師餐香錄` and `X77 = 圓覺經夾頌集解講義`
@@ -14,6 +32,24 @@
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X76/X77` continuation
 - Why: `X76` and `X77` are both real fresh external branches, but they remain phrase-family corroboration only. `X76` adds a fresh later `露躶躶兮赤洒洒` preservation line and `X77` adds a fresh doctrinal lecture-chain preserving `淨躶躶。赤洒洒。`, but neither branch isolates the damaged local `T1-p029.l06` line itself. Direct reinspection of the saved `T1-p029.l06` holdout crop still leaves only unstable local scraps rather than a full safe `T1` line, and renewed broader outward checking after `X77` again collapsed into already opened `金剛`, `趙州`, `證道歌`, tail-poem, yulu, lamp-history, doctrinal, commentary, anthology, and poetics families rather than a further genuinely fresh branch
 - Evidence: the local `T1-p029` page image and saved holdout crops, together with `X76 = 為霖道霈禪師餐香錄` and `X77 = 圓覺經夾頌集解講義`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-091 2026-05-06 - Verify the overnight corroborative frontier beyond X77 without opening a genuine X78 source
+
+- Decision: run one renewed broader outward verification pass beyond the already logged `X77` frontier for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`, while refusing to assign `X78` unless a genuinely fresh source survives de-duplication against the package witness and decision chain
+- Why: the human-authorized overnight continuation remained in force, but by this point many fresh-looking exact and near-exact candidates were likely to collapse into duplicate access paths, already logged witness families, or non-primary modern explanatory pages rather than a truly new corroborative branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and acquisition metadata through `X77`, the saved `T1` holdout crops and OCR surfaces, and the renewed broader outward exact and near-exact candidate sweep
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-092 2026-05-06 - Reject further T1 repairs after the beyond-X77 verification pass and confirm broader overnight exhaustion beyond that frontier
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the renewed broader verification pass beyond `X77`
+- Why: the renewed sweep did not surface any genuinely fresh `X78+` witness. Fresh-looking candidates again collapsed into already logged `趙州`, `證道歌`, `淨躶躶赤洒洒`, and `一片月生海幾家人上樓` branches, duplicate access paths to already logged works, or non-primary modern explanatory pages. No overlooked in-package repair threshold was crossed, so the broader overnight corroborative hunt is now honestly confirmed exhausted beyond the previously logged `X77` frontier rather than only through it
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with the package witness register, acquisition metadata, decision chain, and the renewed broader outward verification sweep beyond `X77`
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
