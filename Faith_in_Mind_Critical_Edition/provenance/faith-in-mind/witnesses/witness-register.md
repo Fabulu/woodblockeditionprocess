@@ -1090,3 +1090,45 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of `淨裸裸赤灑灑沒可把` behind the damaged local wall
 - Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X124
+
+- Witness: `天聖廣燈錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh older lamp-history preservation of `十方無壁落。四畔亦無門。露裸裸。赤躧躧。無可把。` behind the damaged local cluster
+- Role: fresh older lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X125
+
+- Witness: `景德傳燈錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh lamp-record preservation of the full `或是或非人不識。逆行順行天莫測。吾早曾經多劫修。不是等閒相誑惑。` band behind the still-damaged quotation wall
+- Role: fresh lamp-record corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X126
+
+- Witness: `象田即念禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of `淨裸裸、赤洒洒、沒可把。` behind the damaged local wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X127
+
+- Witness: `聯燈會要/卷第十`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh older `灌溪` preservation of `十方無壁落。四面亦無門。露倮倮赤洒洒。沒可把。` behind the damaged local cluster
+- Role: fresh older lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X128
+
+- Witness: `五燈會元/卷第十八`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh `崇覺空` reprise of `十方無壁落。四面亦無門。淨躶躶。赤灑灑。沒可把。` together with the linked `灌溪老漢...` satire and a same-page `趙州 / 老僧直得五年分疏不下` continuation
+- Role: fresh lamp-history and case-continuation corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X129
+
+- Witness: `羅湖野錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh biographical-retrospective preservation of the `崇覺空` verse `含血潠人。先污其口。百丈野狐。失頭狂走。驀地喚回。打箇筋斗。`
+- Role: fresh biographical-retrospective corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
