@@ -629,3 +629,45 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later historical-compilation preservation of the `趙州 / 五年分疏不下 / 纔有語言是揀擇 / 何不引盡此語` wall
 - Role: fresh later historical-compilation corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X58
+
+- Witness: `偃溪廣聞禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later yulu preservation of the `一句絕離微 / 渾崙無縫罅 / 善財七日尋覓不得 / 趙州五年分疏不下` frame
+- Role: fresh later yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X59
+
+- Witness: `絕岸可湘禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` and `T1-p030.l08` only, specifically the fresh doctrinal-yulu preservation of `淨躶躶。赤洒洒` together with `一片月生海。幾家人上樓`
+- Role: fresh doctrinal-yulu corroboration for the remaining `T1-p029` / `T1-p030` holdouts, not a reopened comparison witness
+
+### X60
+
+- Witness: `詩話類編卷之二十`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later poetics-compilation preservation of `一片月生海，幾家人上樓` together with the nearby alternate `一片月生海，幾家人上雲`
+- Role: fresh later poetics-compilation corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X61
+
+- Witness: `全唐五代詩格`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the second fresh later poetics-compilation preservation of `一片月生海，幾家人上樓`
+- Role: fresh later poetics-compilation corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X62
+
+- Witness: `物初大觀禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later yulu preservation of the `趙州直得五年分疏不下` frame behind the damaged local cluster
+- Role: fresh later yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X63
+
+- Witness: `宏智禪師廣錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later yulu preservation of the `趙州 / 曾有人問我。直得五年分疏不下` wall together with the linked `一句元無縫罅 / 寧可與曉事人相罵 / 不可共不曉事人說話` gloss material behind the damaged local cluster
+- Role: fresh later yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness

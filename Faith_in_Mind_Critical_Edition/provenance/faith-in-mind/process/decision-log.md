@@ -1,5 +1,77 @@
 # Decision Log: Faith in Mind
 
+## D-073 2026-05-06 - Reject further T1 repairs after X63 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X63` continuation
+- Why: `X63` broadens the `T1-p007` wall to a fresh later yulu branch through `宏智禪師廣錄`, and it does preserve the `趙州 / 曾有人問我。直得五年分疏不下` wall together with the linked `一句元無縫罅 / 寧可與曉事人相罵 / 不可共不曉事人說話` gloss material. Even so, that branch remains phrase- and commentary-level corroboration only. Direct reinspection of the saved `T1-p007` upper and lower holdout crops still does not separate the local spillover into safe line-level readings for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, or `T1-p007.l12`. Renewed outward checking on the other surviving walls again surfaced only already opened `證道歌`, `真歇 / 建康普説 / 佛果 / 宗範`, or exact-tail `poem-tail / yulu / lamp-history / doctrinal / poetics` families, duplicate access paths, or modern explanatory pages rather than a materially fresher productive branch
+- Evidence: the local `T1` page image and saved OCR surfaces for `T1-p007`, the saved upper and lower `T1-p007` holdout crops, and `X63 = 宏智禪師廣錄`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-072 2026-05-06 - Continue beyond the logged X62 frontier and open X63 for the still-open T1-p007 wall
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X62` frontier by opening `X63 = 宏智禪師廣錄` for the damaged `T1-p007` cluster only
+- Why: a renewed broader outward pass beyond the already logged `X62` exhaustion did surface one genuinely fresh later yulu branch that survives de-duplication: `宏智禪師廣錄`, which preserves the `趙州 / 曾有人問我。直得五年分疏不下` wall together with the linked `一句元無縫罅 / 寧可與曉事人相罵 / 不可共不曉事人說話` gloss material behind the damaged `T1-p007` cluster. This work had not yet been opened or logged anywhere in the package state, and it does not collapse into the already recorded direct `趙州`, `雪竇`, `碧巖`, lamp-history, historical-compilation, `頌古 / 拈古`, or later yulu branches already carried by `X8`, `X14`, `X16`, `X17`, `X20`, `X24`, `X27`, `X31`, `X33`, `X36`, `X39`, `X40`, `X41`, `X45`, `X50`, `X57`, `X58`, or `X62`. Competing fresh-looking leads on the other surviving loci did not survive the same screen and reduced to already logged `證道歌`, `真歇 / 建康普説 / 佛果 / 宗範`, or exact-tail `poem-tail / yulu / lamp-history / doctrinal / poetics` families
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007` holdout workbench surfaces, and the fresh external overlap in `https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=1&key=%E8%BA%AB&mode=detail&nonum=1&useid=2001_%2C48%2C0046`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-071 2026-05-06 - Reject further T1 repairs after X62 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X62` continuation
+- Why: `X62` broadens the `T1-p007` wall to a fresh later yulu branch through `物初大觀禪師語錄`, and it does preserve the same `趙州直得五年分疏不下` frame behind the damaged local cluster. Even so, that branch remains phrase-level corroboration only. Direct reinspection of the saved `T1-p007` upper and lower holdout crops still does not separate the local spillover into safe line-level readings for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, or `T1-p007.l12`. Renewed outward checking on the other surviving walls again surfaced only already opened `證道歌`, `真歇 / 建康普説 / 佛果 / 宗範`, or exact-tail `poem-tail / yulu / lamp-history / doctrinal / poetics` families, duplicate access paths, or modern explanatory pages rather than a materially fresher productive branch
+- Evidence: the local `T1` page image and saved OCR surfaces for `T1-p007`, the saved upper and lower `T1-p007` holdout crops, and `X62 = 物初大觀禪師語錄`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-070 2026-05-06 - Continue beyond the logged X61 frontier and open X62 for the still-open T1-p007 wall
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X61` frontier by opening `X62 = 物初大觀禪師語錄` for the damaged `T1-p007` cluster only
+- Why: a renewed broader outward pass beyond the already logged `X61` exhaustion did surface one genuinely fresh later yulu branch that survives de-duplication: `物初大觀禪師語錄`, which preserves the same `趙州直得五年分疏不下` frame behind the damaged `T1-p007` cluster. This work had not yet been opened or logged anywhere in the package state, and it does not collapse into the already recorded direct `趙州`, `雪竇`, `碧巖`, lamp-history, historical-compilation, `頌古 / 拈古`, or later yulu branches already carried by `X8`, `X14`, `X16`, `X17`, `X20`, `X24`, `X27`, `X31`, `X33`, `X36`, `X39`, `X40`, `X41`, `X45`, `X50`, `X57`, or `X58`. Competing fresh-looking leads on the other surviving loci did not survive the same screen and reduced to already logged `證道歌`, `真歇 / 建康普説 / 佛果 / 宗範`, or exact-tail `poem-tail / yulu / lamp-history / doctrinal / poetics` families
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007` holdout workbench surfaces, and the fresh external overlap in `https://www.kanripo.org/edition/CBETA/KR6q0300/001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-069 2026-05-06 - Reject further T1 repairs after X60 and X61 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X60` and `X61` continuation
+- Why: `X60` broadens the `T1-p030` wall to a fresh later poetics-compilation branch through `詩話類編卷之二十`, and `X61` broadens the same wall to a second fresh later poetics-compilation branch through `全唐五代詩格`. Both preserve `一片月生海，幾家人上樓`, and `X60` additionally records the nearby alternate `一片月生海，幾家人上雲`, which helps confirm the later reception field of the tail line. Even so, both branches remain tail-phrase corroboration only. Direct reinspection of the saved `T1-p030.l08` holdout crop still leaves only the unstable `...轉親轉遠轉近...後來直得...` cadence on the local page rather than a full safe line. Renewed outward checking after `X61` again surfaced only already opened `真歇 / 建康普説 / 佛果 / 宗範 / poem-tail / yulu / lamp-history / doctrinal / poetics` family material, duplicate access paths, or modern explanatory pages rather than a materially fresher productive branch
+- Evidence: the local `T1` page image and saved OCR surfaces for `T1-p030`, the saved `T1-p030.l08` holdout crop, `X60 = 詩話類編卷之二十`, and `X61 = 全唐五代詩格`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-068 2026-05-06 - Continue beyond the logged X59 frontier and open X60 and X61 for the surviving T1-p030 tail branch
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X59` frontier by opening `X60 = 詩話類編卷之二十` and `X61 = 全唐五代詩格` for `T1-p030.l08` only
+- Why: a renewed broader outward pass beyond the already logged `X59` exhaustion did surface two genuinely fresh later poetics-compilation branches that survive de-duplication. `詩話類編卷之二十` preserves both `一片月生海，幾家人上雲` and `一片月生海，幾家人上樓` in a later evaluative anthology setting, and `全唐五代詩格` preserves `一片月生海，幾家人上樓` together with an explicit gloss that treats the line as a figure for worthy men awaiting enlightened rule. Neither work had previously been opened or logged anywhere in the package state, and neither collapses into a duplicate access path to the already recorded `全唐詩/卷796`, later yulu, lamp-history, doctrinal, Japanese-yulu, or anthology branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p030.l08` holdout workbench surface, and the fresh external overlaps in `https://www.shidianguji.com/zh/book/HY0517/chapter/1kegl98udw3ru` and `https://ctext.org/wiki.pl?chapter=369531&if=gb`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-067 2026-05-06 - Reject further T1 repairs after X58 and X59 and re-close the overnight hunt on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X58` and `X59` continuation
+- Why: `X58` broadens the `T1-p007` wall to a fresh later yulu-preservation branch through `偃溪廣聞禪師語錄`, and it does preserve the `一句絕離微。渾崙無縫罅。善財七日尋覓不得。趙州五年分疏不下` frame behind the same damaged cluster. `X59` broadens the `T1-p029/T1-p030` wall to a fresh doctrinal-yulu branch through `絕岸可湘禪師語錄`, and it does preserve both the `淨躶躶。赤洒洒` band and the exact tail `一片月生海。幾家人上樓`. Even so, direct reinspection of the saved `T1-p007`, `T1-p029`, and `T1-p030` holdout surfaces still does not isolate safe local line readings for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p029.l06`, or `T1-p030.l08`; and renewed outward exact and near-exact checking on `T1-p012.l02` again collapsed into already opened `證道歌` quotation, anthology, and commentary families. So the broader overnight hunt does move beyond the previously logged `X57` frontier, but not above the local repair threshold at any of the eight remaining loci
+- Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p029`, and `T1-p030`, the saved holdout workbench crops for the upper and lower `T1-p007` clusters plus the `T1-p029/T1-p030` holdouts, `X58 = 偃溪廣聞禪師語錄`, `X59 = 絕岸可湘禪師語錄`, and renewed exact and near-exact corroborative checks across the still-open `T1-p012` source families
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-066 2026-05-06 - Continue beyond the logged X57 frontier and open X58 and X59 for the still-open T1-p007 and T1-p029/T1-p030 walls
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X57` frontier by opening `X58 = 偃溪廣聞禪師語錄` for the damaged `T1-p007` cluster and `X59 = 絕岸可湘禪師語錄` for the still-open `T1-p029.l06` / `T1-p030.l08` band
+- Why: a renewed broader outward pass beyond the already logged `X57` exhaustion did surface two genuinely fresh sources that survive de-duplication. `偃溪廣聞禪師語錄` preserves the `一句絕離微。渾崙無縫罅。善財七日尋覓不得。趙州五年分疏不下` frame in a fresh later yulu branch that had not yet been opened or logged anywhere in the package state. `絕岸可湘禪師語錄` preserves both `淨躶躶。赤洒洒` and `一片月生海。幾家人上樓` in a fresh doctrinal-yulu branch that had not yet been opened or logged anywhere in the package state. Competing fresh-looking leads on `T1-p012.l02` did not survive the same screen and reduced to already logged `證道歌`, quotation, anthology, and commentary families
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p007`, `T1-p029`, and `T1-p030` holdout workbench surfaces, and the fresh external overlaps in `https://tripitaka.cbeta.org/mobile/index.php?index=X69n1368_003` and `https://tripitaka.cbeta.org/X70n1384_001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-065 2026-05-06 - Reject further T1 repairs after X57 and re-close the overnight hunt on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X57` continuation
