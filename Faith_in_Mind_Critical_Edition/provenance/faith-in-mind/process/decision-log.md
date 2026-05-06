@@ -1153,3 +1153,21 @@
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-129 2026-05-06 - Continue beyond the logged X108 frontier under the same overnight authorization and open X109 to X113
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X108` frontier by opening `X109 = 弘覺忞禪師語錄`, `X110 = 普濟玉琳國師語錄`, and `X113 = 破山禪師語錄` for the damaged `T1-p007` cluster, together with `X111 = 淮海原肇禪師語錄` and `X112 = 偃溪廣聞禪師語錄` for `T1-p030.l08`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface five genuinely fresh witnesses not yet recorded anywhere in the package state. `X109` preserves `十方無壁落四面亦無門` in a fresh later yulu branch; `X110` preserves the combined `十方無壁落四面亦無門淨倮倮赤灑灑` bridge between the `T1-p007` and `T1-p029` phrase families; `X111` and `X112` each preserve `一片月生海。幾家人上樓。` in fresh later-yulu branches behind `T1-p030.l08`; and `X113` preserves `十方無壁落。四面亦無門。` in a further fresh later-yulu branch distinct from the already logged `雲門`, `趙州`, historical-biography, lamp-history, and doctrinal-compilation lines. Renewed `T1-p012.l02` searching during the same pass again reduced to already opened `證道歌` quotation, anthology, and commentary families rather than a clearly new title-verified witness
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X108`, the saved `T1-p007` and `T1-p030` holdout surfaces, and the fresh targeted hits at `https://tripitaka.cbeta.org/mobile/index.php?index=J28nB219_013`, `https://tripitaka.cbeta.org/mobile/index.php?index=J37nB372_008`, `https://www.kanripo.org/text/KR6q0460/002`, `https://tripitaka.cbeta.org/mobile/index.php?index=X69n1368_001`, and `https://tripitaka.cbeta.org/mobile/index.php?index=J26nB177_010`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-130 2026-05-06 - Reject further T1 repairs after X109 to X113 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X109/X110/X111/X112/X113` continuation
+- Why: `X109`, `X110`, and `X113` further broaden the direct `T1-p007` `十方無壁落 / 四面亦無門` wall, while `X111` and `X112` further broaden the already wide later `月生海` stream behind `T1-p030.l08`; but all five remain corroborative only. Direct reinspection of the saved `T1-p007` and `T1-p030` holdout surfaces still leaves mixed spillover or unstable local scraps rather than safe line-level `T1` readings, `X110` sharpens phrase-family context without isolating a local `T1-p029.l06` line, renewed outward checking on `T1-p012.l02` again surfaced only already opened `證道歌` quotation, anthology, and commentary families, and no `T1` repair threshold was crossed
+- Evidence: the local `T1-p007` and `T1-p030` page images and saved holdout surfaces, together with `X109 = 弘覺忞禪師語錄`, `X110 = 普濟玉琳國師語錄`, `X111 = 淮海原肇禪師語錄`, `X112 = 偃溪廣聞禪師語錄`, `X113 = 破山禪師語錄`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant

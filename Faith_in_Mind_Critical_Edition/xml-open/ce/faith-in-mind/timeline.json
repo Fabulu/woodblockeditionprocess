@@ -12454,6 +12454,74 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X105_logged_X108_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-361",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X108 frontier under the same overnight authorization and logged X109 to X113",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X108. A renewed broader pass surfaced five genuinely fresh witnesses not yet recorded in the package state: X109 = 弘覺忞禪師語錄, preserving 十方無壁落四面亦無門 in a fresh later-yulu branch behind the damaged T1-p007 cluster; X110 = 普濟玉琳國師語錄, preserving the combined 十方無壁落四面亦無門淨倮倮赤灑灑 bridge between the T1-p007 and T1-p029 phrase families; X111 = 淮海原肇禪師語錄 and X112 = 偃溪廣聞禪師語錄, each preserving 一片月生海。幾家人上樓。 in fresh later-yulu branches behind T1-p030.l08; and X113 = 破山禪師語錄, preserving 十方無壁落。四面亦無門。 in a further fresh later-yulu branch for the same T1-p007 wall.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J28nB219_013",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J37nB372_008",
+        "https://www.kanripo.org/text/KR6q0460/002",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X69n1368_001",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J26nB177_010",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-129",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X108_logged_X113_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X108_logged_X113_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-362",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the restored external-access continuation on the remaining eight holdouts without further T1 text changes after X109 to X113",
+      "summary": "X109, X110, and X113 further broaden the direct T1-p007 十方無壁落 / 四面亦無門 wall, while X111 and X112 further broaden the already wide later 月生海 stream behind T1-p030.l08. Even taken together they remain corroborative only: the local T1-p007, T1-p029, and T1-p030 holdout surfaces still do not isolate safe line-level readings, X110 sharpens phrase-family context without isolating a local T1-p029.l06 line, and renewed outward checking after X113 on T1-p012.l02 again surfaced only already opened 證道歌 quotation, anthology, and commentary families, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X113.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J28nB219_013",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J37nB372_008",
+        "https://www.kanripo.org/text/KR6q0460/002",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X69n1368_001",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J26nB177_010",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-130",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X108_logged_X113_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X108_logged_X113_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

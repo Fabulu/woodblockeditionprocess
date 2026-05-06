@@ -985,3 +985,38 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later yulu phrase-family preservation `左右逢源淨躶躶赤灑灑露堂堂明歷歷無拘束莫可把` behind the damaged local wall
 - Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X109
+
+- Witness: `弘覺忞禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later-yulu preservation of `十方無壁落四面亦無門` behind the damaged local cluster
+- Role: fresh later-yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X110
+
+- Witness: `普濟玉琳國師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster and contextual phrase-family checking at `T1-p029.l06`, specifically the fresh later-yulu bridge phrase `十方無壁落四面亦無門淨倮倮赤灑灑`
+- Role: fresh later-yulu phrase-family bridge corroboration for the remaining `T1-p007` and `T1-p029` holdouts, not a reopened comparison witness
+
+### X111
+
+- Witness: `淮海原肇禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later-yulu preservation of `一片月生海。幾家人上樓。`
+- Role: fresh later-yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X112
+
+- Witness: `偃溪廣聞禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later-yulu preservation of `一片月生海。幾家人上樓。`
+- Role: fresh later-yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X113
+
+- Witness: `破山禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh later-yulu preservation of `十方無壁落。四面亦無門。` behind the damaged local cluster
+- Role: fresh later-yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
