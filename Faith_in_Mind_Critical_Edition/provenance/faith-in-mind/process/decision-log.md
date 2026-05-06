@@ -9,6 +9,24 @@
 - Actor type: `agent`
 - Actor id: assistant
 
+## D-156 2026-05-06 - Continue beyond the logged X137 frontier under the same overnight authorization and open X138
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X137` frontier by opening `X138 = 一山國師語録` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface one genuinely fresh witness not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X137` chain. `X138` preserves the fresh Japanese yulu-wall `十方無壁落。四面亦無門。彈指一下云者裏入得別是乾坤。` through the `住日本國相模州巨福山建長興國禪寺語錄` section. Renewed outward checking on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` during the same pass again reduced to already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, `趙州`, `雲門`, `五燈全書`, `五燈會元`, Japanese case-commentarial and yulu branches, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, or non-primary modern pages rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X137`, the saved `T1-p007` holdout surfaces, and the fresh targeted hit at `https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=&mode=detail&nonum=1&useid=2553_%2C80%2C0325`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-157 2026-05-06 - Reject further T1 repairs after X138 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X138` continuation
+- Why: `X138` further broadens the `T1-p007` wall through one more fresh Japanese yulu preservation of `十方無壁落。四面亦無門。彈指一下云者裏入得別是乾坤。`, but it remains corroborative only. Direct reinspection of the saved `T1-p007` upper and lower holdout surfaces still leaves mixed local spillover rather than safe line-level `T1` readings, and renewed outward exact and near-exact checking after `X138` on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` again surfaced only already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, `趙州`, `雲門`, `五燈全書`, `五燈會元`, Japanese case-commentarial and yulu branches, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, or non-primary modern pages rather than further genuine fresh branches
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X138 = 一山國師語録`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-154 2026-05-06 - Continue beyond the logged post-X136 no-X137 stop under the same overnight authorization and open X137
 
 - Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X136` no-`X137` verification stop by opening `X137 = 五燈全書/卷第三十三` for the damaged `T1-p007` cluster

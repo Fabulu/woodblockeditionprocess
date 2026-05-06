@@ -13301,6 +13301,67 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X136_logged_X137_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-388",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X137 frontier under the same overnight authorization and logged X138",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X137. A renewed broader pass surfaced one genuinely fresh corroborative branch not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, prior 五燈全書, prior 五燈會元, 聯燈會要, 天聖廣燈錄, 景德傳燈錄, prior 趙州 / 雲門 branches, prior 證道歌 quotation-family lines, prior 金剛 / 心經 / 淨躶躶赤洒洒 branches, prior 月出海 / 月生海 poem-tail and yulu branches, and duplicate access routes: X138 = 一山國師語録, preserving the fresh Japanese yulu-wall 十方無壁落。四面亦無門。彈指一下云者裏入得別是乾坤。 through the 住日本國相模州巨福山建長興國禪寺語錄 section.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=&mode=detail&nonum=1&useid=2553_%2C80%2C0325",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-156",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X137_logged_X138_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X137_logged_X138_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-389",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the restored external-access continuation on the remaining eight holdouts without further T1 text changes after X138",
+      "summary": "X138 further broadens the T1-p007 wall through one more fresh Japanese yulu branch, but it remains corroborative only: the local T1-p007 upper and lower holdout surfaces still do not isolate safe line-level readings, and renewed outward exact and near-exact checking after X138 on T1-p012.l02, T1-p029.l06, and T1-p030.l08 again reduced to already opened 證道歌, 金剛 / 心經 / 淨躶躶赤洒洒, 月出海 / 月生海, 趙州, 雲門, 五燈全書, 五燈會元, Japanese case-commentarial and yulu branches, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, or non-primary modern pages.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=&mode=detail&nonum=1&useid=2553_%2C80%2C0325",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-157",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X137_logged_X138_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X137_logged_X138_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

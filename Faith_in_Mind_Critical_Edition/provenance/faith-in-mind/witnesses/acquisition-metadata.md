@@ -1724,3 +1724,13 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X136` no-`X137` verification stop; not promoted into the normal witness queue
+
+## X138
+
+- Witness: 一山國師語録
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=&mode=detail&nonum=1&useid=2553_%2C80%2C0325
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X137` frontier; not promoted into the normal witness queue
