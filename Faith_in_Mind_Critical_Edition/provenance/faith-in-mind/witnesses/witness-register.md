@@ -1098,6 +1098,13 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh older lamp-history preservation of `十方無壁落。四畔亦無門。露裸裸。赤躧躧。無可把。` behind the damaged local cluster
 - Role: fresh older lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
 
+### X141
+
+- Witness: `寶覺祖心禪師語錄（黃龍四家錄第二）`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh `黃龍四家錄` preservation of `十方無壁落。四面亦無門。灌溪老。出氣不得。何不向火焰裏相見。代曰。笑我者多。`
+- Role: fresh case-family corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
 ### X140
 
 - Witness: `楞嚴經宗通`

@@ -1,5 +1,32 @@
 # Decision Log: Faith in Mind
 
+## D-165 2026-05-06 - Reject further T1 repairs after X141 and re-close the overnight hunt on the remaining eight holdouts with no X142
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X141` continuation, and do not open `X142`
+- Why: `X141 = 寶覺祖心禪師語錄（黃龍四家錄第二）` does survive title-level de-duplication and materially broadens the damaged `T1-p007` wall through the exact case-family line `十方無壁落。四面亦無門。灌溪老。出氣不得。何不向火焰裏相見。代曰。笑我者多。`; but it remains corroborative only. The local `T1-p007` upper and lower holdout surfaces still do not isolate safe line-level readings at `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, or `T1-p007.l12`, and renewed broader outward exact and near-exact checking after `X141` on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` again reduced to already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, `趙州`, `雲門`, yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families, duplicate access paths, looser one-sided reuses, or non-primary modern pages rather than a farther genuine fresh branch. No overlooked local threshold was crossed anywhere in the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X141 = 寶覺祖心禪師語錄（黃龍四家錄第二）` at `https://tripitaka.cbeta.org/mobile/index.php?index=X69n1343_001`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-164 2026-05-06 - Continue beyond the resumed post-X140 workspace-local stop under the same overnight authorization and open X141
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged resumed post-`X140` workspace-local stop by opening `X141 = 寶覺祖心禪師語錄（黃龍四家錄第二）` for the damaged `T1-p007` cluster
+- Why: restored external source access was again available, the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X140` chain, already-opened branch paths, and duplicate access routes. `X141` preserves the exact `十方無壁落。四面亦無門。灌溪老。出氣不得。何不向火焰裏相見。代曰。笑我者多。` wall in a fresh `黃龍四家錄` branch behind the damaged `T1-p007` cluster. Renewed outward checking on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` during the same pass again reduced to already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, `趙州`, `雲門`, yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families, duplicate access paths, looser one-sided reuses, or non-primary modern pages rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X140`, the saved `T1-p007` holdout surfaces, and the fresh targeted hit at `https://tripitaka.cbeta.org/mobile/index.php?index=X69n1343_001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-163 2026-05-06 - Do not open a new X141+ branch or change T1 after the resumed post-X140 workspace-local reconciliation in this environment
+
+- Decision: do not open any new `X141+` exception source and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` in this resumed post-`X140` session
+- Why: the required next bounded step after reconciling the package state was a workspace-local pass to test whether any genuinely new external candidate had already been named in the repository but never promoted into the canonical witness and decision chain. That reconciliation found none beyond the already logged `X140` plus rejected `徹悟禪師語錄 / KR6p0101` frontier, no overlooked local threshold was crossed, and carrying the overnight corroborative hunt farther from here would require renewed external source access or fresh human-provided source material that is not available in the current environment
+- Evidence: `current-state.md`, `process-log.md`, `human-log.md`, `decision-log.md`, `witness-register.md`, `acquisition-metadata.md`, `xml-open/ce/faith-in-mind/process.json`, `xml-open/ce/faith-in-mind/timeline.json`, and the scratch reconciliation in `until-done-wrapper.log`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-162 2026-05-06 - Reject further T1 repairs after X140 and re-close the overnight hunt on the remaining eight holdouts with no X141
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X140` continuation, and do not open `X141`
