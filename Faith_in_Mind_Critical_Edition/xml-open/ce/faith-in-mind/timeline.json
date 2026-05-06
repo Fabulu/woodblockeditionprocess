@@ -14054,6 +14054,73 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X146_logged_X147_no_X148_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-411",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged post-X147 no-X148 stop under the same overnight authorization and logged X148 to X150",
+      "summary": "The broader overnight hunt still did not stop at the earlier post-X147 no-X148 verification claim. A renewed outward pass surfaced three genuinely fresh corroborative branches not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X148 = 五家參詳要路門, preserving the full 陳操尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮亡。 / 尚書且莫草草 exchange behind T1-p012.l02; X149 = 佛光國師語録, preserving the exact tail 一片月生海。幾家人上樓。 behind T1-p030.l08; and X150 = 常光國師語録, preserving the same exact tail in a second fresh Japanese yulu branch for T1-p030.l08.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?key=%E5%BF%83&mode=detail&useid=2576_%2C81%2C0606",
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?key=%E5%A4%A7%E7%B6%93%E5%8D%B7&mode=detail&useid=2549_%2C80%2C0163",
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=1&key=%E9%83%A1&mode=detail&useid=2562_%2C81%2C0015",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-179",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X147_logged_X148_to_X150_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X147_logged_X148_to_X150_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-412",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation on the remaining eight holdouts without further T1 text changes after X150 and without opening X151",
+      "summary": "X148 to X150 materially broaden the T1-p012 and T1-p030 walls through one fresh Japanese 五家 anthology branch and two fresh Japanese yulu branches, but they remain corroborative only: the local T1-p012.l02 and T1-p030.l08 holdout surfaces still do not isolate safe line-level T1 readings, and one immediate follow-up broader outward check again reduced the strongest fresh-looking survivors to already opened 古林清茂禪師語錄, 竺峰敏禪師語錄, 居士分燈錄, 先覺宗乘, 佛國禪師語錄, 古尊宿語錄/卷第四十六, 全唐詩/卷796, direct 雲門, 景德傳燈錄, the already broad 趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海 families, or looser 聖一國師語録 spillover that stayed below threshold rather than a farther genuine fresh branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?key=%E5%BF%83&mode=detail&useid=2576_%2C81%2C0606",
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?key=%E5%A4%A7%E7%B6%93%E5%8D%B7&mode=detail&useid=2549_%2C80%2C0163",
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=1&key=%E9%83%A1&mode=detail&useid=2562_%2C81%2C0015",
+        "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&s=&useid=2544_%2C01",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-180",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X147_logged_X148_to_X150_no_X151_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X147_logged_X148_to_X150_no_X151_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

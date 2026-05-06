@@ -1825,3 +1825,33 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p012.l02` only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X142` no-`X143` stop; not promoted into the normal witness queue
+
+## X148
+
+- Witness: 五家參詳要路門
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?key=%E5%BF%83&mode=detail&useid=2576_%2C81%2C0606
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X147` no-`X148` stop; not promoted into the normal witness queue
+
+## X149
+
+- Witness: 佛光國師語録
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?key=%E5%A4%A7%E7%B6%93%E5%8D%B7&mode=detail&useid=2549_%2C80%2C0163
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X147` no-`X148` stop; not promoted into the normal witness queue
+
+## X150
+
+- Witness: 常光國師語録
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=1&key=%E9%83%A1&mode=detail&useid=2562_%2C81%2C0015
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X147` no-`X148` stop; not promoted into the normal witness queue

@@ -9,6 +9,24 @@
 - Actor type: `agent`
 - Actor id: assistant
 
+## D-179 2026-05-06 - Continue beyond the logged post-X147 no-X148 frontier under the same overnight authorization and open X148 to X150
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X147` no-`X148` frontier by opening `X148 = 五家參詳要路門` for `T1-p012.l02`, plus `X149 = 佛光國師語録` and `X150 = 常光國師語録` for `T1-p030.l08`
+- Why: the overnight authorization remained in force, and one renewed outward pass still surfaced three genuinely fresh witnesses not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X147` chain, already-opened branch paths, and duplicate access routes. `X148` preserves the full `陳操尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮亡。 / 尚書且莫草草` exchange in a fresh Japanese 五家 anthology branch behind `T1-p012.l02`, while `X149` and `X150` each preserve the exact tail `一片月生海。幾家人上樓。` in two distinct fresh Japanese yulu branches behind `T1-p030.l08`. The strongest same-pass spillover on `T1-p007` and `T1-p029.l06` again reduced to already opened `趙州`, `雲門`, `金剛 / 心經 / 淨躶躶赤灑灑沒可把`, and related yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families rather than farther genuine fresh branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X147`, the saved `T1-p012` and `T1-p030` holdout surfaces, and the fresh targeted hits at `https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?key=%E5%BF%83&mode=detail&useid=2576_%2C81%2C0606`, `https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?key=%E5%A4%A7%E7%B6%93%E5%8D%B7&mode=detail&useid=2549_%2C80%2C0163`, and `https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=1&key=%E9%83%A1&mode=detail&useid=2562_%2C81%2C0015`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-180 2026-05-06 - Reject further T1 repairs after X148 to X150 and re-close the overnight continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X148/X149/X150` continuation
+- Why: `X148` materially broadens the `T1-p012` quotation wall through one more full `陳操尚書 / 雲門 / 教意` preservation, and `X149` plus `X150` materially broaden the `T1-p030` wall through two more exact `一片月生海。幾家人上樓。` preservations; but all three remain corroborative only. Direct reinspection of the saved `T1-p012` and `T1-p030` holdout surfaces still does not isolate safe line-level `T1` readings, and renewed outward exact and near-exact checking after `X150` again surfaced only already opened `古林清茂禪師語錄`, `竺峰敏禪師語錄`, `居士分燈錄`, `先覺宗乘`, `佛國禪師語錄`, `古尊宿語錄/卷第四十六`, `全唐詩/卷796`, direct `雲門`, `景德傳燈錄`, the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, or looser `聖一國師語録` spillover that stayed below the package's material-overlap threshold rather than a farther genuine `X151`. No overlooked local threshold was crossed anywhere in the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X148 = 五家參詳要路門`, `X149 = 佛光國師語録`, `X150 = 常光國師語録`, the renewed broader outward exact and near-exact sweep after them, and the rejected looser `聖一國師語録` spillover at `https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&s=&useid=2544_%2C01`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-177 2026-05-06 - Continue beyond the logged post-X146 no-X147 stop under the same overnight authorization and open X147
 
 - Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X146` no-`X147` stop by opening `X147 = 佛國禪師語錄` for `T1-p030.l08`

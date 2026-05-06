@@ -1258,3 +1258,24 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh older `灌谿` volume-branch preservation of `十方無壁落。四畔亦無門。露裸裸。赤灑灑。無可把。`
 - Role: fresh older lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X148
+
+- Witness: `五家參詳要路門`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh Japanese 五家 anthology preservation of the full `陳操尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮亡。 / 尚書且莫草草` exchange behind the still-damaged quotation wall
+- Role: fresh Japanese anthology corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X149
+
+- Witness: `佛光國師語録`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh Japanese yulu preservation of the exact tail `一片月生海。幾家人上樓。` behind the damaged local tail wall
+- Role: fresh Japanese yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X150
+
+- Witness: `常光國師語録`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh Japanese yulu preservation of the exact tail `一片月生海。幾家人上樓` through a distinct `常光國師` branch behind the same damaged local wall
+- Role: fresh Japanese yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
