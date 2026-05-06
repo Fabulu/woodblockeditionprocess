@@ -12654,6 +12654,70 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X116_logged_X120_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-367",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X120 frontier under the same overnight authorization and logged X121 to X123",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X120. A renewed broader pass surfaced three genuinely fresh witnesses not yet recorded in the package state after de-duplication against already logged works: X121 = 雲峰體宗寧禪師語錄, preserving the exact 十方無壁落。四面亦無門。 opening in a fresh later-yulu branch behind the damaged T1-p007 cluster; X122 = 夔州臥龍字水禪師語錄, preserving the same opening in a second fresh later-yulu branch as 若論步步風規則十方無壁落。若論重重關鎖則四面亦無門。; and X123 = 費隱禪師語錄, preserving 淨裸裸赤灑灑沒可把 in a fresh later-yulu branch behind T1-p029.l06.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J38nB431_001",
+        "https://tripitaka.cbeta.org/ko/J29nB222_001",
+        "https://tripitaka.cbeta.org/ja/J26nB178_002",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-135",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X120_logged_X123_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X120_logged_X123_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-368",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the restored external-access continuation on the remaining eight holdouts without further T1 text changes after X121 to X123",
+      "summary": "X121 and X122 further broaden the T1-p007 wall through two more fresh later-yulu preservations of 十方無壁落。四面亦無門。, and X123 further broadens the T1-p029 wall through one more fresh later-yulu preservation of 淨裸裸赤灑灑沒可把. Even taken together they remain corroborative only: the local T1-p007 and T1-p029 holdout surfaces still do not isolate safe line-level readings, and renewed outward checking after X123 on T1-p012.l02 and T1-p030.l08 again reduced to already opened 證道歌, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families rather than further genuine fresh branches.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J38nB431_001",
+        "https://tripitaka.cbeta.org/ko/J29nB222_001",
+        "https://tripitaka.cbeta.org/ja/J26nB178_002",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-136",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X120_logged_X123_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X120_logged_X123_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

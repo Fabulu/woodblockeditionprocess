@@ -1552,3 +1552,33 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p012.l02` only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X116` frontier; not promoted into the normal witness queue
+
+## X121
+
+- Witness: 雲峰體宗寧禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=J38nB431_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X120` frontier; not promoted into the normal witness queue
+
+## X122
+
+- Witness: 夔州臥龍字水禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/ko/J29nB222_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X120` frontier; not promoted into the normal witness queue
+
+## X123
+
+- Witness: 費隱禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/ja/J26nB178_002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X120` frontier; not promoted into the normal witness queue

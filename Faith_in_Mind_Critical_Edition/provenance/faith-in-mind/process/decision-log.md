@@ -1207,3 +1207,21 @@
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-135 2026-05-06 - Continue beyond the logged X120 frontier under the same overnight authorization and open X121 to X123
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X120` frontier by opening `X121 = 雲峰體宗寧禪師語錄` and `X122 = 夔州臥龍字水禪師語錄` for the damaged `T1-p007` cluster, together with `X123 = 費隱禪師語錄` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface three genuinely fresh witnesses not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X120` chain. `X121` preserves the exact `十方無壁落。四面亦無門。` opening in a fresh later-yulu branch; `X122` preserves the same opening in a second fresh later-yulu branch as `若論步步風規則十方無壁落。若論重重關鎖則四面亦無門。`; and `X123` preserves the exact `淨裸裸赤灑灑沒可把` phrase in a fresh later-yulu branch behind `T1-p029.l06`. Renewed outward checking on `T1-p012.l02` and `T1-p030.l08` during the same pass again reduced to already opened `證道歌`, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families rather than further genuine fresh branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X120`, the saved `T1-p007` and `T1-p029` holdout surfaces, and the fresh targeted hits at `https://tripitaka.cbeta.org/mobile/index.php?index=J38nB431_001`, `https://tripitaka.cbeta.org/ko/J29nB222_001`, and `https://tripitaka.cbeta.org/ja/J26nB178_002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-136 2026-05-06 - Reject further T1 repairs after X121 to X123 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X121/X122/X123` continuation
+- Why: `X121` and `X122` further broaden the `T1-p007` wall through two more fresh later-yulu preservations of `十方無壁落。四面亦無門。`, and `X123` further broadens the `T1-p029` wall through one more fresh later-yulu preservation of `淨裸裸赤灑灑沒可把`; but all three remain corroborative only. Direct reinspection of the saved `T1-p007` and `T1-p029` holdout surfaces still leaves mixed spillover or unstable local scraps rather than safe line-level `T1` readings, and renewed outward checking after `X123` on `T1-p012.l02` and `T1-p030.l08` again surfaced only already opened `證道歌`, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families rather than further genuine fresh branches
+- Evidence: the local `T1-p007` and `T1-p029` page images and saved holdout surfaces, together with `X121 = 雲峰體宗寧禪師語錄`, `X122 = 夔州臥龍字水禪師語錄`, `X123 = 費隱禪師語錄`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
