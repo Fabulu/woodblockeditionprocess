@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X102_logged_X105_remaining_8",
+      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X105_logged_X108_remaining_8",
       "witnesses": [
         "T1",
         "T4",
@@ -199,7 +199,10 @@
         "X102",
         "X103",
         "X104",
-        "X105"
+        "X105",
+        "X106",
+        "X107",
+        "X108"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -256,9 +259,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X102_logged_X105_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X105_logged_X108_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X102_logged_X105_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X105_logged_X108_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -273,7 +276,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The overnight unconstrained corroborative hunt has now been pushed beyond the already logged X102 frontier. One renewed broader outward pass surfaced three genuinely fresh witnesses: X103 = 正源略集, X104 = 林泉老人評唱投子青和尚頌古空谷集, and X105 = 密菴和尚語錄. X103 broadens the damaged T1-p007 cluster through a fresh later doctrinal-yulu compilation preservation of 十方無壁落。四面亦無門。; X104 broadens T1-p029.l06 through a fresh later 頌古 commentary branch preserving 淨躶躶。赤灑灑。沒可把。; and X105 broadens T1-p030.l08 through a fresh later yulu branch preserving 一片月生海。幾家人上樓。 Even with X103 to X105, the local T1-p007, T1-p029, and T1-p030 holdout surfaces still do not isolate safe line-level readings, X105 broadens only the already broad later 月生海 stream rather than displacing the older 月出海 rejection evidence, no T1 repair threshold was crossed, and the live unresolved queue remains T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through X105."
+    "next_required_action": "The overnight unconstrained corroborative hunt has now been pushed beyond the already logged X105 frontier. One renewed broader outward pass surfaced three genuinely fresh witnesses: X106 = 天界覺浪盛禪師全錄, X107 = 盤山了宗禪師語錄, and X108 = 幻有傳禪師語錄. X106 materially strengthens the damaged T1-p007 cluster through a fresh later yulu-compilation preservation of the direct 灌溪 wall 十方無壁落。四面亦無門。淨躶躶。赤灑灑。沒可把。大梵天王與帝釋。商量箇甚麼。; X107 broadens that same T1-p007 wall through a fresh later yulu reprise preserving 十方無壁落。四面亦無門。來是恁麼來。去是恁麼去。; and X108 broadens T1-p029.l06 through a fresh later yulu phrase-family branch preserving 左右逢源淨躶躶赤灑灑露堂堂明歷歷無拘束莫可把. Even with X106 to X108, the local T1-p007 and T1-p029 holdout surfaces still do not isolate safe line-level readings, renewed outward checking on T1-p012.l02 and T1-p030.l08 again collapsed into already opened source families rather than a further genuine fresh branch, no T1 repair threshold was crossed, and the live unresolved queue remains T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through X108."
   }
 }
 

@@ -12390,6 +12390,70 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X102_logged_X105_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-359",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X105 frontier under the same overnight authorization and logged X106 to X108",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X105. A renewed broader pass surfaced three genuinely fresh witnesses not yet recorded in the package state: X106 = 天界覺浪盛禪師全錄, preserving the direct 灌溪 wall 十方無壁落。四面亦無門。淨躶躶。赤灑灑。沒可把。大梵天王與帝釋。商量箇甚麼。 in a fresh later yulu-compilation branch behind the damaged T1-p007 cluster; X107 = 盤山了宗禪師語錄, preserving 十方無壁落。四面亦無門。來是恁麼來。去是恁麼去。 in a fresh later yulu reprise of the same T1-p007 case-family; and X108 = 幻有傳禪師語錄, preserving 左右逢源淨躶躶赤灑灑露堂堂明歷歷無拘束莫可把 in a fresh later yulu phrase-family branch behind T1-p029.l06.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/edition/T/KR6q0221/014",
+        "https://krx.kanripo.org/text/KR6q0586/002",
+        "https://tripitaka.cbeta.org/L153n1637_002",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-127",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X105_logged_X108_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X105_logged_X108_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-360",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the restored external-access continuation on the remaining eight holdouts without further T1 text changes after X106 to X108",
+      "summary": "X106 materially strengthens the direct T1-p007 灌溪 / 十方無壁落 / 大梵天王與帝釋 wall, X107 broadens that same wall through a fresh later yulu reprise, and X108 broadens the T1-p029 wall through a fresh later yulu phrase-family branch. Even taken together they remain corroborative only: the local T1-p007 and T1-p029 holdout surfaces still do not isolate safe line-level readings, and renewed outward checking after X108 on T1-p012.l02 and T1-p030.l08 again surfaced only already opened 證道歌, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, duplicate access paths, or non-primary modern pages, so the broader overnight corroborative continuation for the remaining eight holdouts is now again genuinely exhausted on the present basis through X108.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/edition/T/KR6q0221/014",
+        "https://krx.kanripo.org/text/KR6q0586/002",
+        "https://tripitaka.cbeta.org/L153n1637_002",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-128",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X105_logged_X108_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X105_logged_X108_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

@@ -10,8 +10,8 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X102_logged_X105_remaining_8`
-- Next required phase: `manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X102_logged_X105_remaining_8`
+- Last completed phase: `manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X105_logged_X108_remaining_8`
+- Next required phase: `manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X105_logged_X108_remaining_8`
 
 ## What is already done
 

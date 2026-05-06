@@ -1135,3 +1135,21 @@
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-127 2026-05-06 - Continue beyond the logged X105 frontier under the same overnight authorization and open X106 to X108
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X105` frontier by opening `X106 = 天界覺浪盛禪師全錄` and `X107 = 盤山了宗禪師語錄` for the damaged `T1-p007` cluster, together with `X108 = 幻有傳禪師語錄` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface three genuinely fresh witnesses not yet recorded anywhere in the package state. `X106` preserves the direct `灌溪` wall `十方無壁落。四面亦無門。淨躶躶。赤灑灑。沒可把。大梵天王與帝釋。商量箇甚麼。`; `X107` preserves `十方無壁落。四面亦無門。來是恁麼來。去是恁麼去。` in a fresh later yulu reprise of the same case-family; and `X108` preserves `左右逢源淨躶躶赤灑灑露堂堂明歷歷無拘束莫可把` in a fresh later yulu phrase-family branch behind `T1-p029.l06`
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X105`, the saved `T1-p007` and `T1-p029` holdout surfaces, and the fresh targeted hits at `https://www.kanripo.org/edition/T/KR6q0221/014`, `https://krx.kanripo.org/text/KR6q0586/002`, and `https://tripitaka.cbeta.org/L153n1637_002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-128 2026-05-06 - Reject further T1 repairs after X106 to X108 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X106/X107/X108` continuation
+- Why: `X106` materially strengthens the direct `T1-p007` `灌溪 / 十方無壁落 / 大梵天王與帝釋` wall, `X107` broadens that same wall through a fresh later yulu reprise, and `X108` broadens the `T1-p029` wall through a fresh later yulu phrase-family branch, but all three remain corroborative only. Direct reinspection of the saved `T1-p007` and `T1-p029` holdout surfaces still leaves mixed spillover or unstable local scraps rather than safe line-level `T1` readings, and renewed outward exact and near-exact checking after `X108` on `T1-p012.l02` and `T1-p030.l08` again surfaced only already opened `證道歌`, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, duplicate access paths, or non-primary modern pages
+- Evidence: the local `T1-p007` and `T1-p029` page images and saved holdout surfaces, together with `X106 = 天界覺浪盛禪師全錄`, `X107 = 盤山了宗禪師語錄`, `X108 = 幻有傳禪師語錄`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
