@@ -1909,3 +1909,21 @@
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant
+
+## D-213 2026-05-06 - Continue beyond the logged post-X170 no-X171 state under the same overnight authorization and open X171
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X170` no-`X171` state by opening `X171 = 無異元來禪師廣錄` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface one genuinely fresh witness not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X170` chain, already-opened branch paths, and duplicate access routes. `X171` preserves the fresh later-yulu phrase-family band `孤逈逈。峭巍巍。淨躶躶。沒可把。` in a new `無異` branch materially overlapping the surviving `T1-p029.l06` wall, while renewed outward checking on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` during the same pass again reduced the strongest fresh-looking survivors to already opened `趙州`, `雲門`, `證道歌`, `古尊宿語錄`, `祖堂集`, `拈八方珠玉集`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `全唐詩/卷796`, and related already broad phrase families rather than another genuine fresh title
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X170`, the saved `T1-p029.l06` holdout surface, and the fresh targeted hit at `https://www.kanripo.org/ed/KR6q0365/CBETA/028`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-214 2026-05-06 - Reject further T1 repairs after X171 and re-close the overnight corroborative continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X171` continuation
+- Why: `X171` materially broadens the `T1-p029` wall through one more fresh later-yulu phrase-family preservation, but it remains corroborative only. Direct reinspection of the saved `T1-p029.l06` holdout surface still does not isolate a safe line-level `T1` reading, and one immediate follow-up broader outward check after `X171` again reduced the strongest fresh-looking survivors to already opened `天如惟則禪師語錄`, `百愚禪師語錄`, `增集續傳燈錄`, `介為舟禪師語錄`, `大慧普覺禪師語錄`, `劍關子益禪師語錄`, `真歇清了禪師語錄`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `居士分燈錄`, `教外別傳`, and `佛果圜悟禪師碧巖錄` rather than a farther genuine `X172`
+- Evidence: the local `T1-p029.l06` page image and saved holdout surface, together with `X171 = 無異元來禪師廣錄`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
