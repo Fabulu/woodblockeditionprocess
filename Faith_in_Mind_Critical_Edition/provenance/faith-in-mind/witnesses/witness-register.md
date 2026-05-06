@@ -769,3 +769,52 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh doctrinal-lecture preservation of the broader phrase-family chain `圓陀陀。淨躶躶。赤洒洒。活鱍鱍。硬糾糾。黑漫漫。`
 - Role: fresh doctrinal-lecture corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X78
+
+- Witness: `證道歌頌`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh `證道歌` commentary preservation of `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑`
+- Role: fresh `證道歌` commentary corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X79
+
+- Witness: `嘉泰普燈錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later lamp-history / anthology preservation of the exact `淨躶躶。赤洒洒。沒可把。` phrase behind the damaged local wall
+- Role: fresh later lamp-history / anthology corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X80
+
+- Witness: `般若心經註解`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh doctrinal-commentary preservation of the broader phrase family `五蘊淨盡。淨躶躶。赤洒洒。` behind the damaged local wall
+- Role: fresh doctrinal-commentary corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X81
+
+- Witness: `般若心經註解`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh `心經` commentary preservation of the exact `淨躶躶赤洒洒沒可把` phrase behind the damaged local wall
+- Role: fresh `心經`-commentary corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X82
+
+- Witness: `般若心經註解`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the second fresh adjacent `心經` commentary preservation of the exact `淨躶躶赤洒洒沒可把` phrase behind the damaged local wall
+- Role: fresh `心經`-commentary corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X83
+
+- Witness: `御製揀魔辨異錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later polemical-quotation preservation of the exact `淨躶躶。赤灑灑。沒可把。` phrase behind the damaged local wall
+- Role: fresh later quotation-branch corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X84
+
+- Witness: `大丹直指`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh cross-tradition doctrinal preservation of the exact phrase-family reuse `淨躶躶，赤洒洒，無可把蓋。` behind the damaged local wall
+- Role: fresh cross-tradition doctrinal corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness

@@ -1,5 +1,77 @@
 # Decision Log: Faith in Mind
 
+## D-106 2026-05-06 - Do not change T1 or assign X84 after the restored-external-access verification beyond X83
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`, and do not assign `X84` after the restored-external-access verification beyond the logged `X83` frontier
+- Why: renewed outside access allowed the paused environmental stop to be reopened, but the fresh-looking candidate branches still collapsed on checking into already logged sources rather than surviving as genuine `X84+` witnesses. In particular, `御選語錄` proved to be the already logged `X27` branch, `KR6c0193 / No. 574` proved to be the already logged `X81` `心經` commentary branch, and the remaining exact and near-exact leads on the `趙州`, `證道歌`, `淨躶躶赤洒洒`, and `一片月生海幾家人上樓` walls again reduced to already logged branches, duplicate access paths, or non-primary modern pages. No local locus rose above repair threshold on that broader basis
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`; the already logged witness and decision chain through `X83`; the saved `T1` page images and holdout crops for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`; `https://www.kanripo.org/edition/CBETA/KR6s0069/016`; `https://tripitaka.cbeta.org/mobile/index.php?index=X68n1319_016`; `https://www.kanripo.org/text/KR6c0193/001`; and `https://tripitaka.cbeta.org/X26n0574_001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-105 2026-05-06 - Reopen the beyond-X83 environmental stop under restored external access and verify whether any genuine X84 branch survives
+
+- Decision: reopen the paused beyond-`X83` stop under restored external access and run one broader outward corroborative verification pass across the same eight loci, refusing to assign `X84` unless a genuinely fresh source branch survives de-duplication against the already logged `X1-X83` chain
+- Why: the earlier stop after the beyond-`X83` workspace-local sweep was explicitly environmental rather than evidential. Once outside access was available again, it was necessary to test whether the remaining `趙州`, `證道歌`, `淨躶躶赤洒洒`, and `一片月生海幾家人上樓` phrase families still concealed any genuinely fresh branch beyond the recorded package state
+- Evidence: the paused state in `current-state.md`, `unresolved-loci.md`, and `process.json`; the saved holdout workbench surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`; and renewed external searches across the same exact and near-exact phrase families used in the overnight continuation
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-104 2026-05-06 - Do not change T1 or assign X84 after the beyond-X83 workspace-local sweep; this resumed continuation stops for another real reason
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`, and do not assign `X84` in this resumed continuation
+- Why: the resumed workspace-local sweep beyond the logged `X83` frontier surfaced only already logged in-package corroborative traces and did not raise any locus above repair threshold. After that sweep, no further genuinely fresh-source continuation could be executed from this environment in the present session, so the stop reason here is environmental rather than evidential
+- Evidence: the saved `T1` page images and holdout crops for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`; the `T1` `400dpi` OCR support under `ocr/T1/ocr/paddleocr-ppocrv4-400dpi-jpg/` and `ocr/T1/ocr/rapidocr-400dpi-jpg/`; the visual-workbench holdout surfaces; the already-downloaded witness OCR traces at `A1-p015`, `C5-p014`, `C5-p022`, `C5-p048`, `C9-p016`, and `C17-p156`; and the validated package state with no new external-access path available in this session
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-103 2026-05-06 - Recheck the package itself for latent corroborative branches beyond the logged X83 frontier before ending this resumed session
+
+- Decision: run one resumed workspace-local corroborative sweep after the already logged beyond-`X83` frontier, limited to saved holdout crops, `T1` page images, `400dpi` and existing OCR support surfaces, and already-downloaded witness OCR text, while refusing to assign `X84` unless a genuinely fresh source branch survives de-duplication
+- Why: the package state already carried a completed broader corroborative continuation through `X83`, but before ending the resumed session it was still necessary to test whether the workspace itself hid any unlogged corroborative trace, cached branch, or overlooked in-package witness surface for the same eight loci
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`; `provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png`, `T1-p012.png`, `T1-p029.png`, and `T1-p030.png`; `provenance/faith-in-mind/process/visual-workbench-holdouts/`; `provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4-400dpi-jpg/`; `provenance/faith-in-mind/ocr/T1/ocr/rapidocr-400dpi-jpg/`; and the already-downloaded witness OCR traces at `A1-p015`, `C5-p014`, `C5-p022`, `C5-p048`, `C9-p016`, and `C17-p156`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-099 2026-05-06 - Continue beyond the logged X80 frontier under the same overnight authorization and open X81 and X82
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X80` frontier by opening `X81 = 般若心經註解 (X26n0574_001)` and `X82 = 般若心經註解 (X26n0575_001)` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced two genuinely fresh `心經` commentary witnesses not yet recorded anywhere in the package state. `X81` preserves the exact `淨躶躶赤洒洒沒可把` phrase in a fresh `心經` commentary branch, while `X82` preserves the same exact phrase in a second fresh adjacent `心經` commentary branch. Competing renewed leads on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again reduced to already logged `趙州`, `證道歌`, `金剛 / 淨躶躶赤洒洒`, `心經`, and exact-tail families, duplicate access paths, or non-primary modern pages rather than a fresher branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p029` holdout crop, and the fresh exact phrase-family hits at `https://tripitaka.cbeta.org/X26n0574_001` and `https://tripitaka.cbeta.org/mobile/index.php?index=X26n0575_001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-100 2026-05-06 - Reject further T1 repairs after X81 and X82 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X81/X82` continuation
+- Why: `X81` and `X82` are both real fresh `心經` commentary witnesses, but they remain phrase-level corroboration only. Direct reinspection of the saved `T1-p029.l06` holdout crop still leaves only unstable local scraps rather than a full safe local `T1` line. Renewed outward searching after `X82` again collapsed into already logged `證道歌`, `趙州`, `金剛 / 淨躶躶赤洒洒`, `心經`, and exact-tail `一片月生海幾家人上樓` families, duplicate access paths, or non-primary modern pages instead of a further genuine fresh branch
+- Evidence: the local `T1-p029` page image and saved holdout surfaces, together with `X81 = 般若心經註解 (X26n0574_001)`, `X82 = 般若心經註解 (X26n0575_001)`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-095 2026-05-06 - Reopen the paused beyond-X77 stop under restored external access and open X78
+
+- Decision: reopen the resumed local-only pause by continuing the broader overnight corroborative hunt for the same eight holdouts under restored external access, and open `X78 = 證道歌頌 (X65n1291_001)` for `T1-p012.l02`
+- Why: the earlier `D-094` stop was explicitly environmental rather than evidential. With fresh outside access restored, one renewed broader outward pass again tested the surviving `證道歌` quotation wall and surfaced one genuinely fresh commentary branch not yet logged anywhere in the package state: `X78` preserves the same `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑` band behind `T1-p012.l02`, while renewed candidate leads on the `趙州`, `淨躶躶赤洒洒`, and `一片月生海幾家人上樓` walls again reduced to already logged branches, duplicate access paths, or non-primary pages
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X77`, the saved `T1-p012` holdout surfaces, and the fresh exact-band hit at `https://tripitaka.cbeta.org/X65n1291_001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-096 2026-05-06 - Reject further T1 repairs after X78 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X78` continuation
+- Why: `X78` is a real fresh `證道歌` commentary branch and materially confirms the same quotation family behind `T1-p012.l02`, but it still does not isolate the damaged local `T1-p012.l02` line above repair threshold. The saved local `T1-p012` page and holdout crop still preserve only dense quotation debris rather than a full safe copy-text line, and renewed outward searching after `X78` again collapsed into already logged `證道歌`, `趙州`, `淨躶躶赤洒洒`, or exact-tail `一片月生海幾家人上樓` families instead of a further genuine fresh branch
+- Evidence: the local `T1-p012` page image and saved holdout surfaces, together with `X78 = 證道歌頌 (X65n1291_001)` and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-093 2026-05-06 - Recheck the package itself for latent corroborative branches before treating the beyond-X77 state as a hard pause in this session
 
 - Decision: run one resumed workspace-local corroborative sweep after the already logged beyond-`X77` frontier, limited to saved holdout crops, `T1` OCR surfaces, and already-downloaded witness OCR text, while refusing to assign `X78` unless a genuinely fresh source branch survives de-duplication
@@ -844,6 +916,60 @@
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X67` continuation
 - Why: `X67` broadens the `T1-p030` wall only at exact tail-phrase level through a fresh later yulu branch preserving `一片月生海幾家人上樓`, but the local `T1-p030.l08` image still does not isolate a full safe line and the other surviving outward candidates again collapsed into already opened families rather than a further genuine fresh branch
 - Evidence: the local `T1` page images and saved OCR surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`, together with `X67`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-097 2026-05-06 - Continue beyond the logged X78 frontier under the same overnight authorization and open X79 and X80
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X78` frontier by opening `X79 = 嘉泰普燈錄 (X79n1559_028)` for `T1-p029.l06` and `X80 = 般若心經註解 (X26n0573_001)` for the same surviving phrase family
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface two genuinely fresh witnesses not yet recorded anywhere in the package state. `X79` preserves the exact `淨躶躶。赤洒洒。沒可把。` phrase in a fresh later lamp-history / anthology branch, while `X80` preserves the broader doctrinal phrase family `五蘊淨盡。淨躶躶。赤洒洒。` in a fresh heart-sutra commentary branch. At the same time, renewed candidate leads on the `趙州`, `證道歌`, and exact-tail `一片月生海幾家人上樓` walls again reduced to already logged branches, duplicate access paths, or non-primary pages
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X78`, the saved `T1-p029` holdout surfaces, and the fresh phrase-family hits at `https://tripitaka.cbeta.org/X79n1559_028` and `https://tripitaka.cbeta.org/en/X26n0573_001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-098 2026-05-06 - Reject further T1 repairs after X79 and X80 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X79/X80` continuation
+- Why: `X79` is a real fresh exact-phrase witness and `X80` is a real fresh doctrinal phrase-family witness, but both remain corroborative only. Direct reinspection of the saved `T1-p029.l06` holdout crop still leaves only unstable local scraps rather than a full safe local `T1` line. Renewed outward searching after `X80` again collapsed into already logged `證道歌`, `趙州`, `金剛 / 淨躶躶赤洒洒`, and exact-tail `一片月生海幾家人上樓` families, duplicate access paths, or non-primary modern pages instead of a further genuine fresh branch
+- Evidence: the local `T1-p029` page image and saved holdout surfaces, together with `X79 = 嘉泰普燈錄 (X79n1559_028)`, `X80 = 般若心經註解 (X26n0573_001)`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-101 2026-05-06 - Continue beyond the logged X82 frontier under the same overnight authorization and open X83
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X82` frontier by opening `X83 = 御製揀魔辨異錄 (X65n1281_007)` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface one genuinely fresh witness not yet recorded anywhere in the package state. `X83` preserves the exact `淨躶躶。赤灑灑。沒可把。` phrase in a fresh later polemical quotation branch, while renewed candidate leads on the `趙州`, `證道歌`, and exact-tail `一片月生海幾家人上樓` walls again reduced to already logged branches, duplicate access paths, or non-primary pages
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X82`, the saved `T1-p029` holdout surfaces, and the fresh phrase-level hit at `https://tripitaka.cbeta.org/ja/X65n1281_007`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-102 2026-05-06 - Reject further T1 repairs after X83 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X83` continuation
+- Why: `X83` is a real fresh exact-phrase quotation witness, but it remains corroborative only. Direct reinspection of the saved `T1-p029.l06` holdout crop still leaves only unstable local scraps rather than a full safe local `T1` line. Renewed outward searching after `X83` again collapsed into already logged `證道歌`, `趙州`, `金剛 / 淨躶躶赤洒洒`, `心經`, and exact-tail `一片月生海幾家人上樓` families, duplicate access paths, or non-primary modern pages instead of a further genuine fresh branch
+- Evidence: the local `T1-p029` page image and saved holdout surfaces, together with `X83 = 御製揀魔辨異錄 (X65n1281_007)`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-107 2026-05-06 - Continue beyond the logged beyond-X83 no-X84 verification under the same overnight authorization and open X84
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged beyond-`X83` no-`X84` verification by opening `X84 = 大丹直指` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface one genuinely fresh witness not yet recorded anywhere in the package state. `X84` preserves the exact phrase-family reuse `淨躶躶，赤洒洒，無可把蓋。` in a fresh Yuan-period inner-alchemy branch that does not collapse into the already logged `金剛`, `心經`, lamp-history, yulu, anthology, or later doctrinal-commentary streams
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X83`, the saved `T1-p029` holdout surfaces, and the fresh phrase-level hit at `https://ctext.org/wiki.pl?chapter=156494&if=gb`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-108 2026-05-06 - Reject further T1 repairs after X84 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X84` continuation
+- Why: `X84` is a real fresh exact phrase-family witness, but it remains corroborative only. Direct reinspection of the saved `T1-p029.l06` holdout crop still leaves only unstable local scraps rather than a full safe local `T1` line. Renewed outward searching after `X84` again collapsed into already logged `證道歌`, `趙州`, `金剛 / 淨躶躶赤洒洒`, `心經`, and exact-tail `一片月生海幾家人上樓` families, duplicate access paths, or non-primary modern pages instead of a further genuine fresh branch
+- Evidence: the local `T1-p029` page image and saved holdout surfaces, together with `X84 = 大丹直指`, and the renewed broader outward exact and near-exact sweep after it
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant

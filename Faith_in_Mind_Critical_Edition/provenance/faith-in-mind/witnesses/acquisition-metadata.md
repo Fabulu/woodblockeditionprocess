@@ -1123,3 +1123,73 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p029.l06` only
 - Scope restriction: opened only under the renewed explicit human-authorized overnight corroborative continuation beyond the already logged `X75` frontier; not promoted into the normal witness queue
+
+## X78
+
+- Witness: 證道歌頌
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/X65n1291_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the restored external-access continuation beyond the earlier local-only pause after the already logged `X77` frontier; not promoted into the normal witness queue
+
+## X79
+
+- Witness: 嘉泰普燈錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/X79n1559_028
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X78` frontier; not promoted into the normal witness queue
+
+## X80
+
+- Witness: 般若心經註解
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/en/X26n0573_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X78` frontier; not promoted into the normal witness queue
+
+## X81
+
+- Witness: 般若心經註解
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/X26n0574_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X80` frontier; not promoted into the normal witness queue
+
+## X82
+
+- Witness: 般若心經註解
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X26n0575_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X80` frontier; not promoted into the normal witness queue
+
+## X83
+
+- Witness: 御製揀魔辨異錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/ja/X65n1281_007
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X82` frontier; not promoted into the normal witness queue
+
+## X84
+
+- Witness: 大丹直指
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://ctext.org/wiki.pl?chapter=156494&if=gb
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged beyond-`X83` no-`X84` verification; not promoted into the normal witness queue
