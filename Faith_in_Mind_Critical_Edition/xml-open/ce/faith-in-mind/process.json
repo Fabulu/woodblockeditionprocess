@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_retested_broader_post_X165_no_X166_remaining_8",
+      "slug": "manual_correction_slice_T1_second_pass_human_reauthorized_post_X166_no_X167_remaining_8",
       "witnesses": [
         "T1",
         "T4",
@@ -259,7 +259,10 @@
         "X162",
         "X163",
         "X164",
-        "X165"
+        "X165",
+        "X166",
+        "X167",
+        "X168"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -316,9 +319,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_retested_broader_post_X165_no_X166_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_human_reauthorized_post_X168_no_X169_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_retested_broader_post_X165_no_X166_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_human_reauthorized_post_X168_no_X169_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -333,7 +336,9 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "One farther broader corroborative sweep has now also been completed beyond the already logged post-`X165` frontier, and no genuine `X166` survived. The strongest fresh-looking exact and near-exact returns again collapsed into already opened or already rejected branches such as `如來香`, `大川普濟禪師語錄`, `列祖提綱錄`, `禪宗正脉`, `普濟玉琳國師語錄`, `續古尊宿語要 第四集`, `大慧普覺禪師語錄`, `圓悟佛果禪師語錄`, `天聖廣燈錄`, `聯燈會要`, `五燈會元`, and `雲門匡真禪師廣錄`, while the remaining broader-web pages were duplicate-access, reception-only, or non-primary explanatory surfaces. No new external exception source was opened, no overlooked local threshold was crossed, and no further `T1` text change is justified. The live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now genuinely exhausted across plausible avenues beyond `X165`; no further autonomous corroborative action remains unless new source material or a new human-directed phase is introduced."
+    "next_required_action": "A fresh human-directed broader continuation was pushed one farther step beyond the already logged post-`X166` no-`X167` frontier, and two genuinely fresh branches did survive title-level de-duplication: `X167 = 燮雲璣禪師國清無畏堂語錄`, preserving the exact `口欲談而辭喪。心欲緣而慮亡。` pair behind `T1-p012.l02`, and `X168 = 拈八方珠玉集`, preserving the linked-reply variant `在舍只言為客易。臨筌方覺取魚難。` behind `T1-p030.l08`. Even with `X167/X168`, no overlooked local threshold was crossed and no `T1` text change is justified. One immediate follow-up broader outward check after them again reduced the strongest fresh-looking survivors to already opened `景德傳燈錄`, `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, `禪林僧寶傳`, `佛祖綱目/卷第三十四`, `五家參詳要路門`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `聯燈會要/卷第十八`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `全唐詩/卷796`, and related already broad phrase families, duplicate-access routes, or non-primary explanatory surfaces rather than a farther genuine `X169`. The live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across plausible avenues opened through `X168`; no further autonomous corroborative action remains unless new source material or a new human-directed phase is introduced."
   }
 }
+
+
 

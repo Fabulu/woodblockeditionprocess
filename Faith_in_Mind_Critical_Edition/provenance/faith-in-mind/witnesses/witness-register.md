@@ -1371,9 +1371,36 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of `淨裸裸絕承當。赤灑灑沒可把。` behind the damaged local wall
 - Role: fresh later-yulu phrase-family corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
 
+### X165
+
+- Witness: `增集續傳燈錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh transmission-history preservation of `淨裸裸赤灑灑沒可把` behind the damaged local wall
+- Role: fresh transmission-history phrase-family corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
 ### X150
 
 - Witness: `常光國師語録`
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh Japanese yulu preservation of the exact tail `一片月生海。幾家人上樓` through a distinct `常光國師` branch behind the same damaged local wall
 - Role: fresh Japanese yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+### X166
+
+- Witness: `瞎堂慧遠禪師廣錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh later-yulu preservation of `十方無壁落四面亦無門。古人向什麼處見客。`
+- Role: fresh later-yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X167
+
+- Witness: `燮雲璣禪師國清無畏堂語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later-yulu preservation of the exact `口欲談而辭喪。心欲緣而慮亡。` pair behind the still-damaged quotation wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X168
+
+- Witness: `拈八方珠玉集`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh case-compilation preservation of the linked-reply variant `在舍只言為客易。臨筌方覺取魚難。` behind the damaged local tail wall
+- Role: fresh case-compilation corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness

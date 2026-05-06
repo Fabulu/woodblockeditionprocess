@@ -1977,6 +1977,16 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Validation status: targeted overlap manually checked against `T1-p029.l06` only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X163` stop; not promoted into the normal witness queue
 
+## X165
+
+- Witness: 增集續傳燈錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/ed/KR6q0017/CBETA/001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X164` stop; not promoted into the normal witness queue
+
 ## X149
 
 - Witness: 佛光國師語録
@@ -1996,3 +2006,32 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p030.l08` only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X147` no-`X148` stop; not promoted into the normal witness queue
+## X166
+
+- Witness: 瞎堂慧遠禪師廣錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X69n1360_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged fresh human-reauthorized post-`X165` no-`X166` stop; not promoted into the normal witness queue
+
+## X167
+
+- Witness: 燮雲璣禪師國清無畏堂語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=J34nB303_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged fresh human-reauthorized post-`X166` no-`X167` stop; not promoted into the normal witness queue
+
+## X168
+
+- Witness: 拈八方珠玉集
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X67n1310_002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged fresh human-reauthorized post-`X166` no-`X167` stop; not promoted into the normal witness queue

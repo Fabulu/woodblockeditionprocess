@@ -1,5 +1,59 @@
 # Decision Log: Faith in Mind
 
+## D-205 2026-05-06 - Reject further T1 repairs after X167 and X168 and re-close the fresh human-reauthorized overnight continuation on the remaining eight holdouts with no X169
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X167/X168` continuation, and do not open `X169`
+- Why: `X167 = 燮雲璣禪師國清無畏堂語錄` materially broadens the `T1-p012` quotation wall through one more fresh later-yulu preservation of the exact `口欲談而辭喪。心欲緣而慮亡。` pair, while `X168 = 拈八方珠玉集` adds one fresh case-compilation reprise of the linked reply line as `在舍只言為客易。臨筌方覺取魚難。` behind `T1-p030.l08`. Both remain corroborative only. Direct reinspection of the saved `T1-p012.l02` and `T1-p030.l08` holdout surfaces still does not isolate safe line-level `T1` readings, and one immediate broader outward check after `X167/X168` again reduced the strongest fresh-looking survivors to already opened `景德傳燈錄`, `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, `禪林僧寶傳`, `佛祖綱目/卷第三十四`, `五家參詳要路門`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `聯燈會要/卷第十八`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `全唐詩/卷796`, and related already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, duplicate-access routes, or non-primary explanatory surfaces rather than a farther genuine `X169`. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X167 = 燮雲璣禪師國清無畏堂語錄` at `https://tripitaka.cbeta.org/mobile/index.php?index=J34nB303_001`, `X168 = 拈八方珠玉集` at `https://tripitaka.cbeta.org/mobile/index.php?index=X67n1310_002`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-204 2026-05-06 - Continue beyond the fresh human-reauthorized post-X166 no-X167 frontier under the same overnight authorization and open X167 and X168
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged fresh human-reauthorized post-`X166` no-`X167` frontier by opening `X167 = 燮雲璣禪師國清無畏堂語錄` for `T1-p012.l02` and `X168 = 拈八方珠玉集` for `T1-p030.l08`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced two genuinely fresh corroborative branches not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X166` chain, already-opened branch paths, and duplicate access routes. `燮雲璣禪師國清無畏堂語錄` preserves the exact `口欲談而辭喪。心欲緣而慮亡。` pair in a fresh later-yulu branch distinct from the already logged `竺峰敏禪師語錄`, `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, `禪林僧寶傳`, `佛祖綱目/卷第三十四`, `五家參詳要路門`, `紫柏尊者全集`, and `夾科肇論序注` lines. `拈八方珠玉集` preserves the fresh linked-reply variant `在舍只言為客易。臨筌方覺取魚難。` in a case-compilation branch distinct from the already logged exact-tail and linked-reply preservations in `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `聯燈會要/卷第十八`, `佛國禪師語錄`, `佛光國師語録`, and `常光國師語録`. Renewed outward exact and near-exact checking on the remaining queue during the same pass did not surface a farther genuine fresh title-level survivor beyond these two branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X166`, the saved `T1-p012` and `T1-p030` holdout surfaces, and the fresh targeted hits at `https://tripitaka.cbeta.org/mobile/index.php?index=J34nB303_001` and `https://tripitaka.cbeta.org/mobile/index.php?index=X67n1310_002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-203 2026-05-06 - Reject further T1 repairs after X166 and re-close the fresh human-reauthorized overnight continuation on the remaining eight holdouts with no X167
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X166` continuation, and do not open `X167`
+- Why: `X166 = 瞎堂慧遠禪師廣錄` materially broadens the `T1-p007` wall through one more fresh `瞎堂` yulu preservation of the direct `十方無壁落四面亦無門。古人向什麼處見客。` passage, but it remains corroborative only. Direct reinspection of the saved `T1-p007` upper and lower holdout surfaces still leaves mixed spillover rather than safe line-level readings, and one immediate follow-up broader outward check after `X166` again reduced the strongest fresh-looking survivors to already opened `五家參詳要路門`, `先覺宗乘`, `景德傳燈錄`, `續傳燈錄/卷第二`, `禪宗雜毒海`, `居士分燈錄`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `聯燈會要/卷第十八`, `密菴和尚語錄`, `佛光國師語録`, `常光國師語録`, `全唐詩/卷796`, and related already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, duplicate access paths, or non-primary explanatory surfaces rather than a farther genuine `X167`. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X166 = 瞎堂慧遠禪師廣錄` at `https://tripitaka.cbeta.org/mobile/index.php?index=X69n1360_001`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-202 2026-05-06 - Continue beyond the fresh human-reauthorized post-X165 no-X166 frontier under the same overnight authorization and open X166
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged fresh human-reauthorized post-`X165` no-`X166` frontier by opening `X166 = 瞎堂慧遠禪師廣錄` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X165` chain, already-opened branch paths, duplicate access routes, and the already rejected looser `聖一國師語録 / 黔南會燈錄` spillover. `瞎堂慧遠禪師廣錄` preserves the direct `十方無壁落四面亦無門。古人向什麼處見客。` wall through the `上堂。舉雪竇示眾云...` passage in a fresh later-yulu branch distinct from the already logged `雲門匡真禪師廣錄`, `五燈全書/卷第三十三`, `續傳燈錄/卷第二`, `佛祖綱目/卷第三十五`, and `觀濤奇禪師語錄` lines. Renewed outward exact and near-exact checking on the remaining queue during the same pass did not surface a second farther genuine fresh title-level survivor beyond this branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X165`, the saved `T1-p007` holdout surfaces, and the fresh targeted hit at `https://tripitaka.cbeta.org/mobile/index.php?index=X69n1360_001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-201 2026-05-06 - Reject opening X166 after a fresh human-reauthorized post-X165 overnight continuation
+
+- Decision: do not open an `X166` source and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after a fresh human-directed broader continuation beyond the already logged second post-`X165` no-`X166` retest
+- Why: the package state had already closed at a second fresh post-`X165` no-`X166` retest, but the human operator explicitly re-authorized a broader overnight continuation for the same eight loci rather than leaving that stop standing by default. That fresh continuation again widened exact and near-exact checking across the same four surviving phrase families, including SAT / Japanese title verification, CBETA and Kanripo returns, NTI spillover, and broader repository-title confirmation around `趙州 / 雲門 / 十方無壁落 / 五年分疏不下`, `教意 / 口欲談而辭喪 / 心欲緣而慮忘 / 尚書且莫草草`, `淨裸裸 / 赤灑灑 / 沒可把`, and `月出海 / 月生海 / 幾家人上樓`. No genuinely fresh title-level branch survived de-duplication: the strongest fresh-looking leads reduced again to already opened `五家參詳要路門`, `聖一國師語録`, `幻住明禪師語錄`, `景德傳燈錄`, `續傳燈錄/卷第二`, `大慧普覺禪師語錄`, `圓悟佛果禪師語錄`, and related already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, while looser `黔南會燈錄` spillover remained below the package's material-overlap threshold and the remaining web pages were duplicate-access or non-primary explanatory surfaces. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified and no genuine `X166` remains to log
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with the fresh human-reauthorized continuation sweep across `https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?key=%E5%BF%83&mode=detail&useid=2576_%2C81%2C0606`, `https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&s=&useid=2544_%2C01`, `https://tripitaka.cbeta.org/J38nB432_002`, `https://ntireader.org/taisho/t2077_02.html`, `https://www.baus-ebs.org/sutra/fan-read/003/04-026.htm`, and `https://www.shidianguji.com/zh/book/JS2143/chapter/1jjbpa5fc0e8q`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-200 2026-05-06 - Reject opening X166 after a second fresh post-X165 overnight re-test
+
+- Decision: do not open an `X166` source and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after a second fresh broader post-`X165` corroborative sweep
+- Why: the overnight authorization still allowed one more honest widening pass so long as the broader search space itself had not yet been freshly re-tested again. That second renewed outward pass re-ran exact and near-exact checking across the same four surviving phrase families, including direct CBETA and Kanripo returns such as `X82n1571_092`, `X68n1318_004`, `J28nB205_001`, `X64n1260_008`, `X69n1370_001`, `X73n1452_016`, `X84n1580_012`, `X65n1295_034`, `X86n1607_001`, `KR6q0060`, `KR6q0392`, `KR6q0166`, and related broader-web spillover around the same phrases. No genuinely fresh title-level branch survived de-duplication: those returns collapsed into already opened direct `雲門`, `居士分燈錄`, `大慧普覺禪師語錄`, `禪宗雜毒海`, `介為舟禪師語錄`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, and already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, duplicate access paths, or non-primary modern quotation pages. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified and no genuine `X166` remains to log
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with the second fresh broader post-`X165` exact and near-exact sweep across the same surviving phrase families, including `https://tripitaka.cbeta.org/mobile/index.php?index=X82n1571_092`, `https://tripitaka.cbeta.org/mobile/index.php?index=X68n1318_004`, `https://tripitaka.cbeta.org/mobile/index.php?index=J28nB205_001`, `https://tripitaka.cbeta.org/mobile/index.php?index=X64n1260_008`, `https://tripitaka.cbeta.org/mobile/index.php?index=X69n1370_001`, `https://tripitaka.cbeta.org/mobile/index.php?index=X73n1452_016`, `https://tripitaka.cbeta.org/mobile/index.php?index=X84n1580_012`, `https://tripitaka.cbeta.org/mobile/index.php?index=X65n1295_034`, `https://tripitaka.cbeta.org/en/X86n1607_001`, `https://www.kanripo.org/edition/CBETA/KR6q0060/021`, `https://www.kanripo.org/text/KR6q0392/001`, and `https://www.kanripo.org/ed/KR6q0166/X/004`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-199 2026-05-06 - Reject opening X166 and close the broader overnight corroborative hunt after the post-X165 retest
 
 - Decision: do not open an `X166` source and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after one farther broader post-`X165` corroborative sweep
