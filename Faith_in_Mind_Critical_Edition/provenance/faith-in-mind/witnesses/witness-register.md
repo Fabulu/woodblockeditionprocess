@@ -1273,6 +1273,34 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh Japanese yulu preservation of the exact tail `一片月生海。幾家人上樓。` behind the damaged local tail wall
 - Role: fresh Japanese yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
 
+### X151
+
+- Witness: `紫柏尊者全集`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later discussion preservation of the full `陳摻 / 雲門 / 教意 / 口欲談而辭喪。心將緣而慮忘。 / 尚書且莫草草` exchange behind the still-damaged quotation wall
+- Role: fresh later discussion corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X152
+
+- Witness: `銷釋金剛經科儀會要註解`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh `金剛` doctrinal-commentarial reuse of the exact `十方無壁落。四面亦無門。` wall still materially overlapping the damaged local phrase family
+- Role: fresh doctrinal-commentarial corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X153
+
+- Witness: `解惑編`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh anti-confusion doctrinal reuse of `口欲談而辭喪` in a reception branch that still bears on the same damaged `教意` wording
+- Role: fresh reception-side corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X154
+
+- Witness: `續傳燈錄/卷第二`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh `續傳燈錄` volume-branch preservation of `十方無壁落。四面亦無門。古人向甚麼處見客。` through the `襄州延慶山子榮禪師` entry
+- Role: fresh lamp-history volume-branch corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
 ### X150
 
 - Witness: `常光國師語録`

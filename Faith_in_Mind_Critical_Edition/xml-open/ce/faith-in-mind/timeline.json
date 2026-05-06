@@ -14121,6 +14121,202 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X147_logged_X148_to_X150_no_X151_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-413",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged post-X150 no-X151 stop under the same overnight authorization and logged X151 to X153",
+      "summary": "The broader overnight hunt still did not stop at the earlier post-X150 no-X151 verification claim. A renewed outward pass surfaced three genuinely fresh corroborative branches not yet recorded in the package state after title-level de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X151 = 紫柏尊者全集, preserving a full later-quoted 陳摻 / 雲門 / 教意 / 口欲談而辭喪。心將緣而慮忘。 / 尚書且莫草草 exchange behind T1-p012.l02; X152 = 銷釋金剛經科儀會要註解, preserving a fresh 金剛 doctrinal-commentarial reuse of the exact 十方無壁落。四面亦無門。 wall still materially overlapping the surviving T1-p029.l06 phrase family; and X153 = 解惑編, preserving a looser but still relevant doctrinal reuse of 口欲談而辭喪 in a fresh anti-confusion compilation branch behind T1-p012.l02.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X73n1452_016",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X24n0467_009",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J35nB325_001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-181",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X150_logged_X151_to_X153_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X150_logged_X151_to_X153_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-414",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation on the remaining eight holdouts without further T1 text changes after X153",
+      "summary": "X151 to X153 materially broaden the T1-p012 and T1-p029 walls through one fresh 紫柏 discussion branch, one fresh 金剛 doctrinal-commentarial branch, and one fresh anti-confusion doctrinal compilation branch, but they remain corroborative only: the local T1-p012.l02 and T1-p029.l06 holdout surfaces still do not isolate safe line-level T1 readings, and one immediate follow-up broader outward check again reduced the strongest fresh-looking survivors to already opened 禪宗正脉, 先覺宗乘, 居士分燈錄, 竺峰敏禪師語錄, 古林清茂禪師語錄, direct 雲門, 景德傳燈錄, 禪宗頌古聯珠通集, 金剛經註解, 金剛經補註, 博山禪警語, 般若心經註解, 楞嚴經宗通, 古尊宿語錄/卷第四十六, 佛光國師語録, 常光國師語録, 全唐詩/卷796, and the already broad 趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海 families rather than a farther genuine fresh branch.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X73n1452_016",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X24n0467_009",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J35nB325_001",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-182",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X150_logged_X151_to_X153_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X150_logged_X151_to_X153_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-415",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-verified the broadened post-X153 frontier without opening X154",
+      "summary": "One farther broader outward verification pass was run beyond the already logged X153 frontier for the same eight unresolved loci. The strongest fresh-looking exact and near-exact survivors again collapsed into already opened 續古尊宿語要 第四集, 淮海原肇禪師語錄, 雨山和尚語錄, 五燈全書/卷第九十二, 指月錄, 御選語錄, 詩話類編, 宗鑑法林, 博山禪警語, 教外別傳, and related already broad 趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海 families, duplicate access routes, looser reception-only reuses, or non-primary modern pages rather than a genuine X154.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X73n1452_016",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X24n0467_009",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=J35nB325_001"
+      ],
+      "decision_ref": "D-183",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_reverified_broader_post_X153_frontier_no_X154_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_reverified_broader_post_X153_frontier_no_X154_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-416",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-tested the broadened post-X153 frontier again and still did not open X154",
+      "summary": "One more broader outward verification pass was run for the same eight unresolved loci beyond the already logged reverified post-X153 no-X154 stop. The strongest fresh-looking exact and near-exact survivors again collapsed into already opened or already logged 虛堂和尚語錄, 禪宗頌古聯珠通集, 宗門拈古彙集, 列祖提綱錄, and related already broad 趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海 families rather than a genuine X154.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/",
+        "https://tripitaka.cbeta.org/ko/T47n2000_003",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=C078n1720_017",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X66n1296_035",
+        "https://tripitaka.cbeta.org/X64n1260_008"
+      ],
+      "decision_ref": "D-184",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_retested_broader_post_X153_frontier_still_no_X154_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_retested_broader_post_X153_frontier_still_no_X154_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-417",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the repeated post-X153 no-X154 frontier and logged X154",
+      "summary": "The broader overnight hunt did not stop at the repeated post-X153 no-X154 verification frontier. A farther outward pass surfaced one genuinely fresh corroborative branch not yet recorded in the package state after title-level de-duplication against already logged works, already-opened branch paths, and duplicate access routes: X154 = 續傳燈錄/卷第二, preserving the direct wall 十方無壁落。四面亦無門。古人向甚麼處見客。 through the 襄州延慶山子榮禪師 entry behind the damaged T1-p007 cluster.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://deerpark.app/reader/T2077/2",
+        "https://baus-ebs.org/sutra/fan-read/003/05-005.htm",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-185",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_continued_broader_post_X153_opened_X154_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_continued_broader_post_X153_opened_X154_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-418",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the overnight corroborative continuation after X154 without further T1 text changes and without opening X155",
+      "summary": "X154 materially broadens the T1-p007 wall through one fresh 續傳燈錄 volume branch, but it remains corroborative only: the local T1-p007 holdout surfaces still do not isolate safe line-level readings, and one immediate follow-up broader outward check after X154 again reduced the strongest fresh-looking survivors to already opened 雲門匡真禪師廣錄, 五燈全書/卷第三十三, 教外別傳, 明覺禪師語錄, 宏智禪師廣錄, 續古尊宿語要 第四集, 淮海原肇禪師語錄, 指月錄, 御選語錄, 詩話類編, 宗鑑法林, 博山禪警語, and the already broad 趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海 families rather than a farther genuine X155.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://deerpark.app/reader/T2077/2",
+        "https://baus-ebs.org/sutra/fan-read/003/05-005.htm",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-186",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_broader_post_X153_opened_X154_no_X155_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_continued_broader_post_X153_opened_X154_no_X155_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

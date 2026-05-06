@@ -1,10 +1,64 @@
 # Decision Log: Faith in Mind
 
+## D-186 2026-05-06 - Reject further T1 repairs after X154 and re-close the overnight corroborative continuation on the remaining eight holdouts with no X155
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X154` continuation
+- Why: `X154 = 續傳燈錄/卷第二` materially broadens the `T1-p007` wall through a fresh `續傳燈錄` volume branch preserving the direct `十方無壁落。四面亦無門。古人向甚麼處見客。` line, but it remains corroborative only. Direct reinspection of the saved `T1-p007` upper and lower holdout surfaces still does not isolate safe line-level readings at `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, or `T1-p007.l12`, and one immediate follow-up broader outward check after `X154` again reduced the strongest fresh-looking survivors to already opened `雲門匡真禪師廣錄`, `五燈全書/卷第三十三`, `教外別傳`, `明覺禪師語錄`, `宏智禪師廣錄`, `續古尊宿語要 第四集`, `淮海原肇禪師語錄`, `指月錄`, `御選語錄`, `詩話類編`, `宗鑑法林`, `博山禪警語`, and related already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families rather than a farther genuine fresh branch. No overlooked local threshold was crossed anywhere in the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X154 = 續傳燈錄/卷第二` at `https://deerpark.app/reader/T2077/2` and `https://baus-ebs.org/sutra/fan-read/003/05-005.htm`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-185 2026-05-06 - Continue beyond the repeated post-X153 no-X154 stop under the same overnight authorization and open X154
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged repeated post-`X153` no-`X154` frontier by opening `X154 = 續傳燈錄/卷第二` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after title-level de-duplication against the already logged `X1-X153` chain, already-opened branch paths, and duplicate access routes. `X154` preserves the direct `十方無壁落。四面亦無門。古人向甚麼處見客。` wall through the `襄州延慶山子榮禪師` entry in a fresh `續傳燈錄` volume branch behind the damaged `T1-p007` cluster. Renewed outward exact and near-exact checking on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` during the same pass again reduced to already opened `續古尊宿語要 第四集`, `淮海原肇禪師語錄`, `指月錄`, `御選語錄`, `詩話類編`, `宗鑑法林`, `博山禪警語`, and the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X153`, the saved `T1-p007` holdout surfaces, and the fresh targeted hits at `https://deerpark.app/reader/T2077/2` and `https://baus-ebs.org/sutra/fan-read/003/05-005.htm`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-184 2026-05-06 - Re-test the broadened post-X153 frontier again and still reject further T1 repairs with no X154
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after one more broader post-`X153` verification pass that still did not open a genuine `X154`
+- Why: the overnight authorization still permitted a farther broader corroborative re-test beyond the already logged post-`X153` no-`X154` stop, so the strongest remaining fresh-looking exact and near-exact survivors were checked again across the same `趙州 / 五年分疏不下`, `雲門 / 教意 / 口欲談而辭喪`, `證道歌`, `淨躶躶赤灑灑沒可把`, and `月出海 / 月生海 / 幾家人上樓` families. No genuine `X154` survived title-level checking. The strongest fresh-looking returns again collapsed into already opened or already logged `虛堂和尚語錄`, `禪宗頌古聯珠通集`, `宗門拈古彙集`, `列祖提綱錄`, and related already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, duplicate access routes, or looser reception-side reuses. No overlooked local threshold was crossed on the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with the already logged `X151 = 紫柏尊者全集`, `X152 = 銷釋金剛經科儀會要註解`, and `X153 = 解惑編` frontier, plus the fresh broader exact and near-exact re-test beyond the already logged post-`X153` no-`X154` stop and title-level de-duplication against the existing witness and decision chain
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-183 2026-05-06 - Re-verify the broadened post-X153 frontier and reject further T1 repairs with no X154
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after one renewed broader post-`X153` verification pass that did not open a genuine `X154`
+- Why: the overnight authorization still permitted one farther outward verification pass beyond the already logged `X153` frontier, so the strongest remaining fresh-looking exact and near-exact survivors were re-tested across the same `趙州 / 五年分疏不下`, `雲門 / 教意 / 口欲談而辭喪`, `證道歌`, `淨躶躶赤灑灑沒可把`, and `月出海 / 月生海 / 幾家人上樓` families. No genuine `X154` survived title-level checking. The strongest fresh-looking returns again collapsed into already opened `續古尊宿語要 第四集`, `淮海原肇禪師語錄`, `雨山和尚語錄`, `五燈全書/卷第九十二`, `指月錄`, `御選語錄`, `詩話類編`, `宗鑑法林`, `博山禪警語`, `教外別傳`, and related already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, duplicate access routes, looser reception-only reuses, or non-primary modern pages. No overlooked local threshold was crossed on the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with the already logged `X151 = 紫柏尊者全集`, `X152 = 銷釋金剛經科儀會要註解`, `X153 = 解惑編` frontier, the fresh broader outward exact and near-exact verification sweep beyond it, and the title-level de-duplication against the existing witness and decision chain
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-178 2026-05-06 - Reject further T1 repairs after X147 and re-close the overnight hunt on the remaining eight holdouts with no X148
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X147` continuation
 - Why: `X147 = 佛國禪師語錄` materially broadens the `T1-p030` tail family through a fresh primary `中秋上堂` preservation of `一片月生海幾家人上樓`, but it remains corroborative only. Direct reinspection of the saved `T1-p030.l08` holdout surface still preserves only the unstable `...轉親轉遠轉近...後來直得...` cadence rather than a safe line-level `T1` reading, and `X147` broadens only the already broad later `月生海` stream rather than displacing the older `月出海` rejection evidence. One immediate follow-up broader outward check after `X147` again reduced the strongest fresh-looking survivors to already opened `全唐詩/卷796`, `古尊宿語錄/卷第四十六`, `密菴和尚語錄`, `淮海原肇禪師語錄`, `偃溪廣聞禪師語錄`, direct `雲門`, `景德傳燈錄`, `證道歌`, `金剛 / 心經 / 淨躶躶赤灑灑沒可把`, and related yulu, lamp-history, anthology, doctrinal, poetics, duplicate-access, or non-primary modern pages rather than a farther genuine fresh branch
 - Evidence: the local `T1-p030` page image and saved holdout surface, together with `X147 = 佛國禪師語錄` at `https://tripitaka.cbeta.org/en/D51n8948_001`, the fresh search-surfaced corroboration of the exact tail, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-181 2026-05-06 - Continue beyond the logged post-X150 no-X151 stop under the same overnight authorization and open X151 to X153
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X150` no-`X151` frontier by opening `X151 = 紫柏尊者全集` for `T1-p012.l02`, `X152 = 銷釋金剛經科儀會要註解` for `T1-p029.l06`, and `X153 = 解惑編` for the same still-open `T1-p012.l02` quotation wall
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface three genuinely fresh witnesses not yet recorded anywhere in the package state after title-level de-duplication against the already logged `X1-X150` chain. `X151` preserves the full later-quoted `陳摻 / 雲門 / 教意 / 口欲談而辭喪。心將緣而慮忘。 / 尚書且莫草草` exchange in a fresh `紫柏` discussion branch behind `T1-p012.l02`; `X152` preserves a fresh doctrinal-commentarial reuse of the exact `十方無壁落。四面亦無門。` wall still materially overlapping the surviving `T1-p029` phrase family; and `X153` preserves a looser but still relevant doctrinal reuse of `口欲談而辭喪` in a fresh anti-confusion compilation branch that confirms wider reception of the same `教意` wording behind `T1-p012.l02`. The strongest competing renewed leads on `T1-p007` and `T1-p030.l08` again reduced to already opened `趙州`, `雲門`, `五燈會元`, `古尊宿語錄`, `佛光國師語録`, `常光國師語録`, `全唐詩`, and other already broad phrase families rather than farther genuine fresh branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X150`, the saved `T1-p012` and `T1-p029` holdout surfaces, and the fresh targeted hits at `https://tripitaka.cbeta.org/mobile/index.php?index=X73n1452_016`, `https://tripitaka.cbeta.org/mobile/index.php?index=X24n0467_009`, and `https://tripitaka.cbeta.org/mobile/index.php?index=J35nB325_001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-182 2026-05-06 - Reject further T1 repairs after X151 to X153 and re-close the overnight corroborative continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X151/X152/X153` continuation
+- Why: `X151` materially broadens the `T1-p012` quotation wall through one more fresh later discussion preservation of the full `陳摻 / 雲門 / 教意` band, `X152` materially broadens the `T1-p029` wall through one more fresh `金剛` doctrinal-commentarial reuse of the exact `十方無壁落。四面亦無門。` wall, and `X153` broadens the `T1-p012` wall through one more fresh doctrinal reception reuse of `口欲談而辭喪`; but all three remain corroborative only. Direct reinspection of the saved `T1-p012.l02` and `T1-p029.l06` holdout surfaces still leaves unstable local scraps rather than safe line-level `T1` readings, and one immediate follow-up broader outward check after `X153` again reduced the strongest fresh-looking survivors to already opened `禪宗正脉`, `先覺宗乘`, `居士分燈錄`, `竺峰敏禪師語錄`, `古林清茂禪師語錄`, direct `雲門`, `景德傳燈錄`, `禪宗頌古聯珠通集`, `金剛經註解`, `金剛經補註`, `博山禪警語`, `般若心經註解`, `楞嚴經宗通`, `古尊宿語錄/卷第四十六`, `佛光國師語録`, `常光國師語録`, `全唐詩/卷796`, and the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families rather than a farther genuine fresh branch
+- Evidence: the local `T1-p012` and `T1-p029` page images and saved holdout surfaces, together with `X151 = 紫柏尊者全集`, `X152 = 銷釋金剛經科儀會要註解`, `X153 = 解惑編`, and the renewed broader outward exact and near-exact sweep after them
 - Confidence: high
 - Actor type: `agent`
 - Actor id: assistant

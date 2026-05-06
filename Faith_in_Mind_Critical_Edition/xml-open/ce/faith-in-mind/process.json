@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X147_logged_X148_to_X150_remaining_8",
+      "slug": "manual_correction_slice_T1_second_pass_continued_broader_post_X153_opened_X154_no_X155_remaining_8",
       "witnesses": [
         "T1",
         "T4",
@@ -244,7 +244,11 @@
         "X147",
         "X148",
         "X149",
-        "X150"
+        "X150",
+        "X151",
+        "X152",
+        "X153",
+        "X154"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -301,9 +305,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X147_logged_X148_to_X150_no_X151_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_continued_broader_post_X153_opened_X154_no_X155_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X147_logged_X148_to_X150_no_X151_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_continued_broader_post_X153_opened_X154_no_X155_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -318,7 +322,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The broader overnight corroborative continuation has now been pushed beyond the logged post-`X147` no-`X148` stop by opening `X148 = 五家參詳要路門`, `X149 = 佛光國師語録`, and `X150 = 常光國師語録`. `X148` preserves the full `陳操尚書 / 雲門 / 教意 / 口欲談而辭喪。心欲緣而慮亡。 / 尚書且莫草草` exchange behind `T1-p012.l02`, while `X149` and `X150` each preserve the exact tail `一片月生海。幾家人上樓。` in distinct fresh Japanese yulu branches behind `T1-p030.l08`. Even with `X148` to `X150`, the local `T1-p012.l02` and `T1-p030.l08` holdout surfaces still do not isolate safe line-level readings, and the immediate follow-up broader outward check again reduced the strongest fresh-looking survivors to already opened `古林清茂禪師語錄`, `竺峰敏禪師語錄`, `居士分燈錄`, `先覺宗乘`, `佛國禪師語錄`, `古尊宿語錄/卷第四十六`, `全唐詩/卷796`, direct `雲門`, `景德傳燈錄`, the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, or looser `聖一國師語録` spillover that stayed below threshold rather than a farther genuine branch. The live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt is now again genuinely exhausted across the plausibly productive source avenues opened through `X150`, with no farther genuine branch surviving as `X151`."
+    "next_required_action": "A farther broader corroborative continuation has now been completed beyond the repeated post-`X153` no-`X154` frontier, and it did surface one genuine fresh title-level branch: `X154 = 續傳燈錄/卷第二`, preserving the direct wall `十方無壁落。四面亦無門。古人向甚麼處見客。` behind the damaged `T1-p007` cluster. That new branch still remains corroborative only: the saved `T1-p007` holdout surfaces do not isolate safe line-level readings, and an immediate follow-up outward check after `X154` again collapsed into already opened `雲門匡真禪師廣錄`, `五燈全書/卷第三十三`, `教外別傳`, `明覺禪師語錄`, `宏智禪師廣錄`, `續古尊宿語要 第四集`, `淮海原肇禪師語錄`, `指月錄`, `御選語錄`, `詩話類編`, `宗鑑法林`, `博山禪警語`, and the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families rather than a farther genuine `X155`. No further `T1` text change is justified. The live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt is now genuinely exhausted across the plausibly productive source avenues opened through `X154`."
   }
 }
 

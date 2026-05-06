@@ -1836,6 +1836,47 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Validation status: targeted overlap manually checked against `T1-p012.l02` only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X147` no-`X148` stop; not promoted into the normal witness queue
 
+## X151
+
+- Witness: 紫柏尊者全集
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X73n1452_016
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X150` no-`X151` stop; not promoted into the normal witness queue
+
+## X152
+
+- Witness: 銷釋金剛經科儀會要註解
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=X24n0467_009
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X150` no-`X151` stop; not promoted into the normal witness queue
+
+## X153
+
+- Witness: 解惑編
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=J35nB325_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X150` no-`X151` stop; not promoted into the normal witness queue
+
+## X154
+
+- Witness: 續傳燈錄/卷第二
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://deerpark.app/reader/T2077/2
+- Source page: https://baus-ebs.org/sutra/fan-read/003/05-005.htm
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged repeated post-`X153` no-`X154` stop; not promoted into the normal witness queue
+
 ## X149
 
 - Witness: 佛光國師語録
