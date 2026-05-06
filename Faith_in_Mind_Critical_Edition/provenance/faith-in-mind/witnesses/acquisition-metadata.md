@@ -1213,3 +1213,13 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p030.l08` only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X84` frontier; not promoted into the normal witness queue
+
+## X87
+
+- Witness: 兀菴普寧禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.xszmcs.com/portal/szjg/detail/id/4033.html
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X86` frontier; not promoted into the normal witness queue

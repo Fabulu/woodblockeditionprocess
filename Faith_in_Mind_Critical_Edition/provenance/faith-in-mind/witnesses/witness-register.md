@@ -832,3 +832,10 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later anthology-preservation of `一片月出海，幾家人上樓` behind the damaged local wall
 - Role: fresh anthology-preservation corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X87
+
+- Witness: `兀菴普寧禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of the exact `淨躶躶、赤洒洒、沒可把` phrase behind the damaged local wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness

@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-112 2026-05-06 - Reject further T1 repairs after X87 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X87` continuation
+- Why: `X87` is a real fresh exact-phrase later-yulu witness, but it remains corroborative only. Direct reinspection of the saved `T1-p029.l06` holdout crop still leaves only unstable local scraps rather than a full safe local `T1` line. Renewed outward searching after `X87` again collapsed into already logged `證道歌`, `趙州`, `金剛 / 心經 / 淨躶躶赤洒洒`, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, duplicate access paths, or non-primary modern pages instead of a further genuine fresh branch
+- Evidence: the local `T1-p029` page image and saved holdout surfaces, together with `X87 = 兀菴普寧禪師語錄` at `https://www.xszmcs.com/portal/szjg/detail/id/4033.html`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-111 2026-05-06 - Continue beyond the logged X86 frontier under the same overnight authorization and open X87
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X86` frontier by opening `X87 = 兀菴普寧禪師語錄` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface one genuinely fresh witness not yet recorded anywhere in the package state. `X87` preserves the exact `淨躶躶、赤洒洒、沒可把` phrase in a fresh later-yulu branch that does not collapse into the already logged `金剛`, `心經`, lamp-history, anthology, poem-tail, or prior yulu streams
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X86`, the saved `T1-p029` holdout surfaces, and the fresh phrase-level hit at `https://www.xszmcs.com/portal/szjg/detail/id/4033.html`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-110 2026-05-06 - Reject further T1 repairs after X85 and X86 and re-close the restored external-access continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X85/X86` continuation
