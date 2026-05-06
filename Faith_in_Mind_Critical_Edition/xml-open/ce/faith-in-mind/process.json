@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X83_logged_X84_remaining_8",
+      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X83_logged_X86_remaining_8",
       "witnesses": [
         "T1",
         "T4",
@@ -178,7 +178,9 @@
         "X81",
         "X82",
         "X83",
-        "X84"
+        "X84",
+        "X85",
+        "X86"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -235,9 +237,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X83_logged_X84_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X83_logged_X86_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X83_logged_X84_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X83_logged_X86_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",

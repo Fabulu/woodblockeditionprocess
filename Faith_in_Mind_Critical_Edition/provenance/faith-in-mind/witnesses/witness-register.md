@@ -818,3 +818,17 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh cross-tradition doctrinal preservation of the exact phrase-family reuse `淨躶躶，赤洒洒，無可把蓋。` behind the damaged local wall
 - Role: fresh cross-tradition doctrinal corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X85
+
+- Witness: `禪月集 (卷第七 / 旅中懷孫路)`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh direct `貫休` poem-source preservation of `一片月出海，幾家人上樓` behind the damaged local wall
+- Role: fresh direct poem-source corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X86
+
+- Witness: `全唐詩/卷829`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later anthology-preservation of `一片月出海，幾家人上樓` behind the damaged local wall
+- Role: fresh anthology-preservation corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness

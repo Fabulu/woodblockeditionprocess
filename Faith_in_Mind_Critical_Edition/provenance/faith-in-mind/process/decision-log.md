@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-110 2026-05-06 - Reject further T1 repairs after X85 and X86 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X85/X86` continuation
+- Why: `X85` and `X86` are both real fresh poem-family witnesses, but they sharpen rejection rather than repair. The older `貫休` poem family reached in this continuation now reads `一片月出海，幾家人上樓`, not the already broad later Zen and quotation-family `月生海` stream. That makes over-importing from the tail-poem family less safe, not more. Direct reinspection of the saved `T1-p030.l08` holdout crop still leaves only the unstable `...轉親轉遠轉近...後來直得...` cadence rather than a full safe local `T1` line, and renewed outward searching after `X86` again collapsed into already logged `趙州`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, duplicate access paths, or non-primary modern pages instead of a further genuine fresh branch
+- Evidence: the local `T1-p030` page image and saved holdout surfaces, together with `X85 = 禪月集 (卷第七 / 旅中懷孫路)` at `https://zh.wikisource.org/zh-hant/%E7%A6%AA%E6%9C%88%E9%9B%86_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29/%E5%8D%B7%E7%AC%AC%E4%B8%83` and `X86 = 全唐詩/卷829` at `https://zh.wikisource.org/zh-hant/%E5%85%A8%E5%94%90%E8%A9%A9/%E5%8D%B7829`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-109 2026-05-06 - Continue beyond the logged X84 frontier under the same overnight authorization and open X85 and X86
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X84` frontier by opening `X85 = 禪月集 (卷第七 / 旅中懷孫路)` and `X86 = 全唐詩/卷829` for `T1-p030.l08`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface two genuinely fresh poem-family witnesses not yet recorded anywhere in the package state. `X85` is the direct `貫休` poem-source branch and preserves `一片月出海，幾家人上樓`; `X86` preserves the same line in a separate later anthology-preservation branch. Neither collapses into the already logged `poem-tail / yulu / lamp-history / doctrinal / poetics` branches because the specific `月出海` preservation line and these exact witness pages had not yet been logged in the package state
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the saved `T1-p030` holdout crop, and the fresh exact-line hits at `https://zh.wikisource.org/zh-hant/%E7%A6%AA%E6%9C%88%E9%9B%86_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29/%E5%8D%B7%E7%AC%AC%E4%B8%83` and `https://zh.wikisource.org/zh-hant/%E5%85%A8%E5%94%90%E8%A9%A9/%E5%8D%B7829`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-106 2026-05-06 - Do not change T1 or assign X84 after the restored-external-access verification beyond X83
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`, and do not assign `X84` after the restored-external-access verification beyond the logged `X83` frontier

@@ -1193,3 +1193,23 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p029.l06` only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged beyond-`X83` no-`X84` verification; not promoted into the normal witness queue
+
+## X85
+
+- Witness: 禪月集 (卷第七 / 旅中懷孫路)
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://zh.wikisource.org/zh-hant/%E7%A6%AA%E6%9C%88%E9%9B%86_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29/%E5%8D%B7%E7%AC%AC%E4%B8%83
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X84` frontier; not promoted into the normal witness queue
+
+## X86
+
+- Witness: 全唐詩/卷829
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://zh.wikisource.org/zh-hant/%E5%85%A8%E5%94%90%E8%A9%A9/%E5%8D%B7829
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X84` frontier; not promoted into the normal witness queue

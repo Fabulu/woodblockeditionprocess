@@ -11834,6 +11834,66 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X83_logged_X84_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-341",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged X84 frontier under the same overnight authorization and logged X85 and X86",
+      "summary": "The broader overnight hunt still did not stop at the earlier exhaustion claim through X84. A renewed broader pass surfaced two genuinely fresh older poem-family witnesses not yet recorded in the package state: X85 = 禪月集 (卷第七 / 旅中懷孫路), preserving the direct 貫休 line `一片月出海，幾家人上樓`, and X86 = 全唐詩/卷829, preserving the same line in a separate later anthology-preservation branch behind T1-p030.l08.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://zh.wikisource.org/zh-hant/%E7%A6%AA%E6%9C%88%E9%9B%86_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29/%E5%8D%B7%E7%AC%AC%E4%B8%83",
+        "https://zh.wikisource.org/zh-hant/%E5%85%A8%E5%94%90%E8%A9%A9/%E5%8D%B7829",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-109",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X83_logged_X86_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X83_logged_X86_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-342",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the restored external-access continuation on the remaining eight holdouts without further T1 text changes after X85 and X86",
+      "summary": "X85 and X86 sharpen the T1-p030 wall by showing that the older 貫休 poem family reached in this continuation reads `一片月出海，幾家人上樓`, not the already broad later Zen and quotation-family `月生海` stream. The local T1-p030.l08 holdout surface still does not isolate a safe line-level reading, and renewed outward checking after X86 again surfaced only already opened 趙州, 證道歌, 金剛 / 心經 / 淨躶躶赤洒洒, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, duplicate access paths, or non-primary modern pages, so the broader overnight corroborative continuation for the remaining eight holdouts is now genuinely exhausted on the present basis through X86.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://zh.wikisource.org/zh-hant/%E7%A6%AA%E6%9C%88%E9%9B%86_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29/%E5%8D%B7%E7%AC%AC%E4%B8%83",
+        "https://zh.wikisource.org/zh-hant/%E5%85%A8%E5%94%90%E8%A9%A9/%E5%8D%B7829",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-110",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X83_logged_X86_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X83_logged_X86_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }
