@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_promote_p007_l09_from_human_segmentation_review",
+      "slug": "manual_correction_slice_T1_second_pass_five_reader_recheck_p007_p012_p029_p030_no_further_text_gain",
       "witnesses": [
         "T1",
         "T4",
@@ -326,9 +326,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_promote_p007_l09_from_human_segmentation_review",
-      "last_text_changed_event": "FIM-456",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_continue_p007_l04_l08_review_remaining_7"
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_five_reader_recheck_p007_p012_p029_p030_no_further_text_gain",
+      "last_text_changed_event": "FIM-457",
+      "next_required_slice": "manual_correction_slice_T1_second_pass_continue_p007_l04_review_remaining_6"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -343,7 +343,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The bounded human-directed `T1-p007` manual segmentation review has now yielded one conservative local gain: `T1-p007.l09 = 師云住總有語言是揀擇`, accepted from direct page inspection plus convergent Paddle support on the speech-frame `師云住...有語言是擇`. The OCR tail `是明日三祖大` remains below threshold as spillover or collapse rather than certifiable continuation. `T1-p007.l08` is now narrower around `徹髓透這一轉公案` but still unresolved, and the next required work is therefore a bounded continuation of the `T1-p007` manual review focused on `l04` and `l08` together with the remaining unresolved loci `T1-p007.l03`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`."
+    "next_required_action": "A fresh five-reader narrow recheck has now been completed across the post-promotion remainder `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` without yielding a further safe `T1` text change. The narrowed frontier is now more specific: `T1-p007.l03` remains stain-level residue, `T1-p007.l04` remains a real but internally damaged column with only the ink-safe skeleton `擬議 ? ? 停機 ? 向禪床 ? 頭伏聽處分`, `T1-p007.l12` remains weak tail residue, `T1-p012.l02` remains context-strong but locally line-weak inside the `雲門 / 教意 / 口欲談(言)而辭喪 / 心欲緣而慮忘 / 尚書且莫草草` band, `T1-p029.l06` remains boundary-secure but internally collapsed inside the `淨躶躶 / 赤灑灑 / 沒可把` family, and `T1-p030.l08` remains a strong `月生海 / 幾家人上樓` tail family only rather than a safe full local line. The next required work therefore remains a bounded continuation focused first on `T1-p007.l04` together with the remaining unresolved loci `T1-p007.l03`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`."
   }
 }
 

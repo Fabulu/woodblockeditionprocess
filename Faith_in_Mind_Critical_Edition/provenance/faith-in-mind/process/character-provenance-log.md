@@ -690,3 +690,11 @@ Faith in Mind adoption rule:
 | `T1-p007.l09` | 6 | `語` | `image inspection plus Paddle local frame` | `moderate` | `T1` |
 | `T1-p007.l09` | 9 | `揀` | `image inspection plus Paddle local frame` | `moderate` | `T1` |
 | `T1-p007.l09` | 10 | `擇` | `image inspection plus Paddle local frame` | `moderate` | `T1` |
+| `T1-p007.l08` | 1 | `徹` | `independent image-only read` | `moderate` | `T1` |
+| `T1-p007.l08` | 2 | `髓` | `independent image-only read` | `moderate` | `T1` |
+| `T1-p007.l08` | 3 | `透` | `image inspection plus OCR anchor` | `moderate` | `T1` |
+| `T1-p007.l08` | 4 | `這` | `independent image-only read` | `moderate` | `T1` |
+| `T1-p007.l08` | 5 | `一` | `image inspection plus OCR anchor` | `strong` | `T1` |
+| `T1-p007.l08` | 6 | `轉` | `image inspection plus OCR anchor` | `strong` | `T1` |
+| `T1-p007.l08` | 7 | `公` | `image inspection plus OCR anchor` | `strong` | `T1` |
+| `T1-p007.l08` | 8 | `案` | `image inspection plus OCR anchor` | `strong` | `T1` |

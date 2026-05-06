@@ -10,8 +10,8 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_promote_p007_l09_from_human_segmentation_review`
-- Next required phase: `manual_correction_slice_T1_second_pass_continue_p007_l04_l08_review_remaining_7`
+- Last completed phase: `manual_correction_slice_T1_second_pass_five_reader_recheck_p007_p012_p029_p030_no_further_text_gain`
+- Next required phase: `manual_correction_slice_T1_second_pass_continue_p007_l04_review_remaining_6`
 
 ## Current overnight continuation status
 
@@ -21,7 +21,9 @@ Edition slug: `faith-in-mind`
 - One immediate wider follow-up after `X175` again reduced the strongest apparent survivors to already opened branches or duplicate-access routes rather than to a farther genuine `X176`.
 - The overnight unconstrained corroborative hunt for the remaining eight loci is therefore now again genuinely exhausted across the plausibly productive broader avenues opened through `X175`, and the live package frontier returns to the bounded local `T1-p007` manual-segmentation review.
 - That local `T1-p007` review has now yielded one conservative text gain: `T1-p007.l09 = 師云住總有語言是揀擇`, accepted from direct page inspection plus convergent Paddle support on the speech-frame `師云住...有語言是擇`.
-- `T1-p007.l08` is now narrower in substance around `徹髓透這一轉公案`, but it still does not isolate a full safe line-level reading and remains unresolved together with `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`.
+- A second bounded local step has now accepted `T1-p007.l08 = 徹髓透這一轉公案` as an explicit human judgment call after a five-way narrow review. Two image-only reads judged the phrase readable from ink alone, while OCR converged only on `...透...一轉公案...`; the package therefore records this acceptance as image-led human judgment rather than pure OCR certainty.
+- A fresh five-reader narrow recheck has now been completed across the remaining `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdouts without yielding a further safe `T1` text change. The convergence is now tighter but still non-revisionary: `T1-p007.l03` remains stain-level residue, `T1-p007.l04` remains a real but internally damaged column with only the ink-safe skeleton `擬議 ? ? 停機 ? 向禪床 ? 頭伏聽處分`, `T1-p007.l12` remains weak tail residue, `T1-p012.l02` remains context-strong but locally line-weak inside the `雲門 / 教意 / 口欲談(言)而辭喪 / 心欲緣而慮忘 / 尚書且莫草草` band, `T1-p029.l06` remains boundary-secure but internally collapsed inside the `淨躶躶 / 赤灑灑 / 沒可把` phrase family, and `T1-p030.l08` remains a strong `月生海 / 幾家人上樓` tail family only rather than a safe full local line.
+- The live unresolved queue is now `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`.
 
 ## What is already done
 
