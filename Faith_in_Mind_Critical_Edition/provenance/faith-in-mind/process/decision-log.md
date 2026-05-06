@@ -1,5 +1,77 @@
 # Decision Log: Faith in Mind
 
+## D-194 2026-05-06 - Reject further T1 repairs after X163 and re-close the overnight corroborative continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X163` continuation
+- Why: `X163 = 夾科肇論序注` materially broadens the `T1-p012` quotation wall through one fresh doctrinal-commentarial branch preserving the exact `口欲譚而辭喪。心欲緣而慮忘。` pair, but it remains corroborative only. Direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces still does not isolate safe line-level `T1` readings, and the renewed broader outward exact and near-exact checking after `X163` again reduced the strongest fresh-looking survivors to already opened `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, `禪林僧寶傳`, `佛祖綱目/卷第三十四`, `五家參詳要路門`, direct `雲門`, `證道歌` quotation, already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, duplicate access paths, or non-primary modern pages rather than a farther genuine fresh branch. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X163 = 夾科肇論序注` at `https://krx.kanripo.org/text/KR6m0043/001`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-195 2026-05-06 - Continue beyond the logged X163 frontier under the same overnight authorization and open X164
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X163` frontier by opening `X164 = 百愚禪師語錄` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface one genuinely fresh witness not yet recorded anywhere in the package state after title-level de-duplication against the already logged `X1-X163` chain, already-opened branch paths, and duplicate access routes. `百愚禪師語錄` preserves the fresh later-yulu phrase-family line `淨裸裸絕承當。赤灑灑沒可把。` behind `T1-p029.l06`, while renewed candidate leads on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again reduced to already opened `雲門`, `景德傳燈錄`, `居士分燈錄`, `先覺宗乘`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `密行忍禪師語錄`, and the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families rather than a second fresh title worth logging
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X163`, the saved `T1-p029` holdout surface, and the fresh targeted hit at `https://www.kanripo.org/text/KR6q0498/015`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-196 2026-05-06 - Reject further T1 repairs after X164 and re-close the broader overnight continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X164` continuation
+- Why: `X164` broadens the `T1-p029` wall through one more fresh later-yulu phrase-family preservation of `淨裸裸絕承當。赤灑灑沒可把。`, but it remains corroborative only. Direct reinspection of the saved `T1-p029.l06` holdout surface still leaves unstable local scraps rather than a safe line-level `T1` reading, and renewed outward exact and near-exact checking after `X164` on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again surfaced only already opened `御製揀魔辨異錄`, `大慧普覺禪師語錄`, `幻住明禪師語錄`, `費隱禪師語錄`, `景德傳燈錄`, `居士分燈錄`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, and related `趙州 / 雲門 / 證道歌 / 金剛 / 心經 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families, duplicate access paths, or non-primary modern pages rather than a farther genuine fresh branch
+- Evidence: the local `T1-p029` page image and saved holdout surface, together with `X164 = 百愚禪師語錄`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-193 2026-05-06 - Continue beyond the post-X162 stop under the same overnight authorization and open X163
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X162` frontier by opening `X163 = 夾科肇論序注` for `T1-p012.l02`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after title-level de-duplication against the already logged `X1-X162` chain, already-opened branch paths, and duplicate access routes. `X163` preserves the exact `口欲譚而辭喪。心欲緣而慮忘。` pair in a fresh doctrinal-commentarial branch distinct from the already logged `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, `禪林僧寶傳`, `佛祖綱目/卷第三十四`, and `五家參詳要路門` lines behind the still-damaged `T1-p012.l02` quotation wall. Renewed outward exact and near-exact checking on the remaining queue during the same pass did not surface a farther genuine fresh title-level survivor beyond this branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X162`, the saved `T1-p012` holdout surface, and the fresh targeted hit at `https://krx.kanripo.org/text/KR6m0043/001`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-192 2026-05-06 - Reject further T1 repairs after X160 to X162 and re-close the overnight corroborative continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X160/X161/X162` continuation
+- Why: `X160 = 蓮峰禪師語錄` materially broadens the `T1-p030` tail family through one more fresh later-yulu preservation of the exact `一片月生海，幾家人上樓` line, `X161 = 天隱和尚語錄` materially broadens the `T1-p012` quotation wall through one more fresh later discussion-branch reprise of the full `陳操 / 雲門 / 教意 / 口欲談而辭喪。心欲懸而慮忘。 / 尚書且莫草草` exchange, and `X162 = 觀濤奇禪師語錄` materially broadens the `T1-p007` wall through one more fresh later case-commentarial preservation of `十方無壁落。四面亦無門。古人向什麼處見客。` But all three remain corroborative only. Direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces still does not isolate safe line-level `T1` readings, and one immediate follow-up broader outward check after `X162` again reduced the strongest fresh-looking survivors to already opened `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, `禪林僧寶傳`, `佛祖綱目/卷第三十四`, `佛祖綱目/卷第三十五`, `五燈全書/卷第三十三`, `續傳燈錄/卷第二`, `全唐詩/卷796`, and related already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families rather than a farther genuine fresh branch. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X160 = 蓮峰禪師語錄` at `https://www.kanripo.org/edition/CBETA/KR6q0530/001`, `X161 = 天隱和尚語錄` at `https://krx.kanripo.org/text/KR6q0397/002`, `X162 = 觀濤奇禪師語錄` at `https://www.kanripo.org/ed/KR6q0499/J/005`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-191 2026-05-06 - Continue beyond the post-X159 stop under the same overnight authorization and open X160 to X162
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X159` frontier by opening `X160 = 蓮峰禪師語錄` for `T1-p030.l08`, `X161 = 天隱和尚語錄` for `T1-p012.l02`, and `X162 = 觀濤奇禪師語錄` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced three genuinely fresh corroborative branches not yet recorded anywhere in the package state after title-level de-duplication against the already logged `X1-X159` chain, already-opened branch paths, and duplicate access routes. `X160` preserves the exact `一片月生海，幾家人上樓` tail in a fresh later-yulu branch distinct from the already logged `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `古尊宿語錄/卷第四十六`, and `古尊宿語錄/卷第四十七`; `X161` preserves the full `陳操 / 雲門 / 教意 / 口欲談而辭喪。心欲懸而慮忘。 / 尚書且莫草草` exchange in a fresh later discussion-branch distinct from the already logged `居士分燈錄`, `先覺宗乘`, `古林清茂禪師語錄`, `禪林僧寶傳`, `佛祖綱目/卷第三十四`, and `五家參詳要路門`; and `X162` preserves `十方無壁落。四面亦無門。古人向什麼處見客。` in a fresh later case-commentarial branch distinct from the already logged `五燈全書/卷第三十三`, `續傳燈錄/卷第二`, and `佛祖綱目/卷第三十五`. Renewed outward exact and near-exact checking on the remaining queue during the same pass did not surface a farther genuine fresh title-level survivor beyond these three branches
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X159`, the saved `T1-p007`, `T1-p012`, and `T1-p030` holdout surfaces, and the fresh targeted hits at `https://www.kanripo.org/edition/CBETA/KR6q0530/001`, `https://krx.kanripo.org/text/KR6q0397/002`, and `https://www.kanripo.org/ed/KR6q0499/J/005`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-190 2026-05-06 - Reject further T1 repairs after X159 and re-close the overnight corroborative continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X159` continuation
+- Why: `X159 = 古尊宿語錄/卷第四十七` materially broadens the `T1-p030` tail family through one more fresh `古尊宿語錄` volume branch preserving the exact `一片月生海。幾家人上樓。` tail together with the linked reply `在舍只言為客易。臨岐方覺告人難。` But it remains corroborative only. Direct reinspection of the saved `T1-p030` holdout surface still does not isolate a safe line-level `T1` reading beyond the already known unstable `...轉親轉遠轉近...後來直得...` cadence, and one immediate follow-up broader outward check after `X159` again reduced the strongest fresh-looking survivors to already opened `全唐詩/卷796`, `列祖提綱錄`, `居士分燈錄`, `御製揀魔辨異錄`, `禪宗頌古聯珠通集`, direct `雲門`, `古尊宿語錄/卷第四十六`, `聯燈會要/卷第十八`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, and the already broad `趙州 / 雲門 / 證道歌 / 淨躶躶赤灑灑沒可把 / 月出海月生海` families rather than a farther genuine fresh branch. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X159 = 古尊宿語錄/卷第四十七` at `https://tripitaka.cbeta.org/C077n1710_047`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-189 2026-05-06 - Continue beyond the post-X158 no-X159 stop under the same overnight authorization and open X159
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X158` no-`X159` frontier by opening `X159 = 古尊宿語錄/卷第四十七` for `T1-p030.l08`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after title-level de-duplication against the already logged `X1-X158` chain, already-opened branch paths, and duplicate access routes. `X159` preserves the exact `一片月生海。幾家人上樓。` tail together with the linked reply `在舍只言為客易。臨岐方覺告人難。` through the `瑯琊廣照禪師語錄` entry at `[0967a09]` in a fresh `古尊宿語錄/卷第四十七` branch distinct from the already logged `古尊宿語錄/卷第四十六`. Renewed outward exact and near-exact checking on the remaining queue during the same pass did not surface a farther genuine fresh title-level survivor beyond this branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X158`, the saved `T1-p030` holdout surface, and the fresh targeted hit at `https://tripitaka.cbeta.org/C077n1710_047`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-188 2026-05-06 - Reject further T1 repairs after X155 to X158 and re-close the overnight corroborative continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X155/X156/X157/X158` continuation

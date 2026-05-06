@@ -1329,6 +1329,48 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh `佛祖綱目` volume-branch preservation of `十方無壁落。四面亦無門。古人向甚麼處見客。` behind the damaged local cluster
 - Role: fresh historical-anthology volume-branch corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
 
+### X159
+
+- Witness: `古尊宿語錄/卷第四十七`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh `古尊宿語錄` volume-branch preservation of `一片月生海。幾家人上樓。` together with the linked reply `在舍只言為客易。臨岐方覺告人難。` through the `瑯琊廣照禪師語錄` entry
+- Role: fresh yulu volume-branch corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X160
+
+- Witness: `蓮峰禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later-yulu preservation of the exact tail `一片月生海，幾家人上樓`
+- Role: fresh later-yulu corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X161
+
+- Witness: `天隱和尚語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh later discussion-branch reprise of the full `陳操 / 雲門 / 教意 / 口欲談而辭喪。心欲懸而慮忘。 / 尚書且莫草草` exchange behind the still-damaged quotation wall
+- Role: fresh later discussion-branch corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X162
+
+- Witness: `觀濤奇禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh later case-commentarial preservation of `十方無壁落。四面亦無門。古人向什麼處見客。`
+- Role: fresh later case-commentarial corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X163
+
+- Witness: `夾科肇論序注`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p012.l02` only, specifically the fresh doctrinal-commentarial preservation of the exact `口欲譚而辭喪。心欲緣而慮忘。` pair behind the still-damaged quotation wall
+- Role: fresh doctrinal-commentarial corroboration for the remaining `T1-p012` holdout, not a reopened comparison witness
+
+### X164
+
+- Witness: `百愚禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of `淨裸裸絕承當。赤灑灑沒可把。` behind the damaged local wall
+- Role: fresh later-yulu phrase-family corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
 ### X150
 
 - Witness: `常光國師語録`

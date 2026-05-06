@@ -1917,6 +1917,66 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X154` no-`X155` stop; not promoted into the normal witness queue
 
+## X159
+
+- Witness: 古尊宿語錄/卷第四十七
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/C077n1710_047
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X158` no-`X159` stop; not promoted into the normal witness queue
+
+## X160
+
+- Witness: 蓮峰禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/edition/CBETA/KR6q0530/001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X159` stop; not promoted into the normal witness queue
+
+## X161
+
+- Witness: 天隱和尚語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://krx.kanripo.org/text/KR6q0397/002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X159` stop; not promoted into the normal witness queue
+
+## X162
+
+- Witness: 觀濤奇禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/ed/KR6q0499/J/005
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X159` stop; not promoted into the normal witness queue
+
+## X163
+
+- Witness: 夾科肇論序注
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://krx.kanripo.org/text/KR6m0043/001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p012.l02` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X162` stop; not promoted into the normal witness queue
+
+## X164
+
+- Witness: 百愚禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6q0498/015
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X163` stop; not promoted into the normal witness queue
+
 ## X149
 
 - Witness: 佛光國師語録
