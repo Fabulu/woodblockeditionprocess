@@ -9,6 +9,24 @@
 - Actor type: `agent`
 - Actor id: assistant
 
+## D-131 2026-05-06 - Continue beyond the logged X113 frontier under the same overnight authorization and open X114 to X116
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X113` frontier by opening `X114 = 萬松老人評唱天童覺和尚頌古從容庵錄` for the damaged `T1-p007` cluster, together with `X115 = 金剛經補註` and `X116 = 博山禪警語` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass did still surface three genuinely fresh witnesses not yet recorded anywhere in the package state after de-duplication against already logged branches such as `禪宗正脉`, `列祖提綱錄`, `教外別傳`, and `禪門諸祖師偈頌`. `X114` preserves the exact `十方無壁落。四面亦無門。` opening inside a fresh later case-commentarial branch while explicitly glossing it as `從本來元沒遮欄`; `X115` preserves the exact `淨躶躶。赤灑灑。沒可把。` phrase in a fresh `金剛經` doctrinal-commentary branch; and `X116` preserves the same exact phrase in a fresh later `參禪警語` branch while warning against getting stuck `向這裏強立主宰`
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X113`, the saved `T1-p007` and `T1-p029` holdout surfaces, and the fresh targeted hits at `https://tripitaka.cbeta.org/mobile/index.php?index=T48n2004_004`, `https://tripitaka.cbeta.org/mobile/index.php?index=X24n0469_001`, and `https://tripitaka.cbeta.org/mobile/index.php?index=X63n1257_002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-132 2026-05-06 - Reject further T1 repairs after X114 to X116 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X114/X115/X116` continuation
+- Why: `X114` further broadens the `T1-p007` wall through a fresh later `從容庵錄` case-commentarial reprise of `十方無壁落。四面亦無門。`, while `X115` and `X116` further broaden the `T1-p029` wall through fresh `金剛經` doctrinal-commentary and `參禪警語` exact-phrase reuse of `淨躶躶。赤灑灑。沒可把。`; but all three remain corroborative only. Direct reinspection of the saved `T1-p007` and `T1-p029` holdout surfaces still leaves mixed spillover or unstable local scraps rather than safe line-level `T1` readings, renewed `T1-p012.l02` and `T1-p030.l08` checking again reduced to already opened quotation, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, and the last fresh-looking leads that surfaced during this pass collapsed on checking into already logged works rather than surviving as genuine new branches
+- Evidence: the local `T1-p007` and `T1-p029` page images and saved holdout surfaces, together with `X114 = 萬松老人評唱天童覺和尚頌古從容庵錄`, `X115 = 金剛經補註`, `X116 = 博山禪警語`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-125 2026-05-06 - Continue beyond the logged X102 frontier under the same overnight authorization and open X103 to X105
 
 - Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X102` frontier by opening `X103 = 正源略集`, `X104 = 林泉老人評唱投子青和尚頌古空谷集`, and `X105 = 密菴和尚語錄`

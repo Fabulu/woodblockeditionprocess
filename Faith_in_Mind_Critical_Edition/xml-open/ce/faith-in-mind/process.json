@@ -207,7 +207,10 @@
         "X110",
         "X111",
         "X112",
-        "X113"
+        "X113",
+        "X114",
+        "X115",
+        "X116"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -264,9 +267,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X108_logged_X113_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X113_logged_X116_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X108_logged_X113_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X113_logged_X116_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -281,7 +284,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The overnight unconstrained corroborative hunt has now been pushed beyond the already logged X108 frontier. One renewed broader outward pass surfaced five genuinely fresh witnesses: X109 = 弘覺忞禪師語錄, X110 = 普濟玉琳國師語錄, X111 = 淮海原肇禪師語錄, X112 = 偃溪廣聞禪師語錄, and X113 = 破山禪師語錄. X109, X110, and X113 further broaden the damaged T1-p007 cluster through fresh later-yulu preservation of 十方無壁落 / 四面亦無門, with X110 additionally bridging into the linked 淨倮倮赤灑灑 phrase family behind T1-p029.l06; X111 and X112 further broaden the already wide later 月生海 stream behind T1-p030.l08 by preserving 一片月生海。幾家人上樓。 Even with X109 to X113, the local T1-p007, T1-p029, and T1-p030 holdout surfaces still do not isolate safe line-level readings, renewed outward checking on T1-p012.l02 again collapsed into already opened 證道歌 quotation, anthology, and commentary families rather than a further genuine fresh title-verified branch, no T1 repair threshold was crossed, and the live unresolved queue remains T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through X113."
+    "next_required_action": "The overnight unconstrained corroborative hunt has now been pushed beyond the already logged X113 frontier. One renewed broader outward pass surfaced three genuinely fresh witnesses after de-duplication against already logged works: X114 = 萬松老人評唱天童覺和尚頌古從容庵錄, X115 = 金剛經補註, and X116 = 博山禪警語. X114 further broadens the damaged T1-p007 cluster through a fresh later case-commentarial preservation of 十方無壁落。四面亦無門。, while X115 and X116 further broaden T1-p029.l06 through fresh doctrinal-commentary and 參禪警語 preservation of 淨躶躶。赤灑灑。沒可把。 Even with X114 to X116, the local T1-p007 and T1-p029 holdout surfaces still do not isolate safe line-level readings, renewed outward checking on T1-p012.l02 and T1-p030.l08 again reduced to already opened quotation, poem-tail, yulu, lamp-history, anthology, doctrinal, and poetics families, the last fresh-looking leads collapsed into already logged works rather than surviving as genuine new branches, no T1 repair threshold was crossed, and the live unresolved queue remains T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through X116."
   }
 }
 
