@@ -1,5 +1,50 @@
 # Decision Log: Faith in Mind
 
+## D-162 2026-05-06 - Reject further T1 repairs after X140 and re-close the overnight hunt on the remaining eight holdouts with no X141
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X140` continuation, and do not open `X141`
+- Why: `X140 = 楞嚴經宗通` does survive title-level de-duplication and does materially broaden the `T1-p029.l06` wall through one more fresh doctrinal-commentarial branch preserving the exact phrase `淨躶躶。赤灑灑。沒可把。`; but it remains corroborative only. The local `T1-p029.l06` holdout surface still does not isolate a safe line-level `T1` reading, and renewed broader outward exact and near-exact checking after `X140` on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again surfaced only already opened `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families, duplicate access paths, looser one-sided reuses, or non-primary modern pages rather than a farther genuine fresh branch. The strongest remaining fresh-looking `楞嚴`-adjacent lead, `徹悟禪師語錄 / KR6p0101`, preserved only the looser late variant `淨灑灑赤躶躶` without the decisive exact-band overlap needed to qualify as a new exception source for these loci. No overlooked local threshold was crossed anywhere in the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X140 = 楞嚴經宗通` at `https://tripitaka.cbeta.org/mobile/index.php?index=X16n0318_005`, the renewed broader outward exact and near-exact sweep after it, and the rejected looser `徹悟禪師語錄 / KR6p0101` `楞嚴二決定義` lead at `https://www.kanripo.org/ed/KR6p0101/X/002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-161 2026-05-06 - Continue beyond the logged post-X139 no-X140 stop under the same overnight authorization and open X140
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X139` no-`X140` verification stop by opening `X140 = 楞嚴經宗通` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X139` chain, already-opened branch paths, and duplicate access routes. `X140` preserves the exact `淨躶躶。赤灑灑。沒可把。` phrase in a fresh `楞嚴` doctrinal-commentarial setting behind the damaged `T1-p029.l06` wall. Renewed outward checking on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` during the same pass again reduced to already opened `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families, duplicate access paths, looser one-sided reuses, or non-primary modern pages rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X139`, the saved `T1-p029` holdout surface, and the fresh targeted hit at `https://tripitaka.cbeta.org/mobile/index.php?index=X16n0318_005`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-160 2026-05-06 - Reject further T1 repairs after X139 and re-close the overnight hunt on the remaining eight holdouts with no X140
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X139` continuation, and do not open `X140`
+- Why: `X139 = 古庭禪師語錄輯略` does survive title-level de-duplication and does materially broaden the `T1-p029.l06` wall through one more fresh phrase-family branch preserving `淨裸裸。赤灑灑。不載言詮。`; but it remains corroborative only. The local `T1-p029.l06` holdout surface still does not isolate a safe line-level `T1` reading, and renewed broader outward exact and near-exact checking after `X139` on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again surfaced only already opened `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families, duplicate access paths, looser one-sided reuses, or non-primary modern pages rather than a farther genuine fresh branch. No overlooked local threshold was crossed anywhere in the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X139 = 古庭禪師語錄輯略` at `https://www.kanripo.org/text/KR6q0396/001` and `https://www.kanripo.org/ed/KR6q0396/J/002`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-159 2026-05-06 - Continue beyond the logged post-X138 no-X139 stop under the same overnight authorization and open X139
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X138` no-`X139` verification stop by opening `X139 = 古庭禪師語錄輯略` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X138` chain, already-opened branch paths, and duplicate access routes. `X139` preserves the fresh `淨裸裸。赤灑灑。不載言詮。` phrase-family branch in a later `古庭` yulu-compilation setting behind the damaged `T1-p029.l06` wall. Renewed outward checking on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` during the same pass again reduced to already opened `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families, duplicate access paths, looser one-sided reuses, or non-primary modern pages rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X138`, the saved `T1-p029` holdout surface, and the fresh targeted hits at `https://www.kanripo.org/text/KR6q0396/001` and `https://www.kanripo.org/ed/KR6q0396/J/002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-158 2026-05-06 - Reopen the paused post-X138 state for one renewed broader outward verification pass, but do not open X139 and do not change T1
+
+- Decision: reopen the paused post-`X138` state for one renewed broader outward verification pass across the same eight holdouts, but do not open `X139` and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`
+- Why: the overnight authorization remained in force, so the package could not treat the logged `X138` stop as terminal without testing whether any fresh-looking post-`X138` leads survived title-level de-duplication against the already logged `X1-X138` chain, already-opened branch paths, and duplicate access routes. A renewed broader outward sweep was therefore run again across the `十方無壁落 / 四面亦無門 / 五年分疏不下` wall, the `或是或非人不識 / 逆行順行天莫測 / 吾早曾經多劫修 / 不是等閒相誑惑` quotation band, the `淨裸裸 / 赤灑灑 / 沒可把` wall, and the `月出海 / 月生海 / 幾家人上樓` tail family. No genuinely fresh `X139` source survived that pass. The strongest fresh-looking candidates all collapsed on checking into already logged works, already opened branch paths, or non-primary pages: `宗門拈古彙集/卷第三十五`, `為霖禪師旅泊菴稿 卷第四`, `頻吉祥禪師語錄`, `如來香 第13卷`, `續古尊宿語要 第四集`, `淮海原肇禪師語錄`, `雨山和尚語錄`, `象教皮編`, `宗鑑法林`, `全唐詩/卷796`, Ministry of Education idiom pages, and other duplicate or modern explanatory surfaces. No overlooked local threshold was crossed anywhere in the saved `T1-p007`, `T1-p012`, `T1-p029`, or `T1-p030` holdout surfaces
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X138`, the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces, and the renewed broader outward exact and near-exact sweep after `X138`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-155 2026-05-06 - Reject further T1 repairs after X137 and re-close the restored external-access continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X137` continuation

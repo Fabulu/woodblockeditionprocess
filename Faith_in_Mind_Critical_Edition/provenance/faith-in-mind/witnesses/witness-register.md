@@ -1098,12 +1098,26 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh older lamp-history preservation of `十方無壁落。四畔亦無門。露裸裸。赤躧躧。無可把。` behind the damaged local cluster
 - Role: fresh older lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
 
+### X140
+
+- Witness: `楞嚴經宗通`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh `楞嚴` doctrinal-commentarial preservation of `淨躶躶。赤灑灑。沒可把。` behind the damaged local wall
+- Role: fresh doctrinal-commentarial corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
 ### X138
 
 - Witness: `一山國師語録`
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh Japanese yulu-wall `十方無壁落。四面亦無門。彈指一下云者裏入得別是乾坤。` through the `住日本國相模州巨福山建長興國禪寺語錄` section
 - Role: fresh Japanese yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X139
+
+- Witness: `古庭禪師語錄輯略`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later `古庭` yulu-compilation preservation of `淨裸裸。赤灑灑。不載言詮。` behind the damaged local wall
+- Role: fresh phrase-family corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
 
 ### X135
 

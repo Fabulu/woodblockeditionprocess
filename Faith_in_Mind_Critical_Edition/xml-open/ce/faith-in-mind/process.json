@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X137_logged_X138_remaining_8",
+      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X139_logged_X140_remaining_8",
       "witnesses": [
         "T1",
         "T4",
@@ -232,7 +232,9 @@
         "X135",
         "X136",
         "X137",
-        "X138"
+        "X138",
+        "X139",
+        "X140"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -289,9 +291,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X137_logged_X138_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X140_no_X141_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X137_logged_X138_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X140_no_X141_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -306,7 +308,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The logged `X137` stop was then pushed farther rather than being treated as terminal by itself, and one renewed broader outward pass surfaced one genuinely fresh corroborative branch: `X138 = 一山國師語録` at https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?kaeri=&mode=detail&nonum=1&useid=2553_%2C80%2C0325, preserving the fresh Japanese yulu-wall `十方無壁落。四面亦無門。彈指一下云者裏入得別是乾坤。` through the `住日本國相模州巨福山建長興國禪寺語錄` section behind the damaged `T1-p007` cluster. Even with that fresh branch, the local `T1-p007` upper and lower holdout surfaces still do not isolate safe line-level readings, and renewed outward exact and near-exact checking after `X138` on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` again reduced to already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, `趙州`, `雲門`, `五燈全書`, `五燈會元`, Japanese case-commentarial and yulu branches, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, or non-primary modern pages. No overlooked local threshold was crossed, no further `T1` text change is justified, and the live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through `X138`."
+    "next_required_action": "The logged post-`X139` no-`X140` stop was then pushed farther rather than being treated as terminal by itself, and one renewed broader outward pass did surface one genuinely fresh corroborative branch not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, and duplicate access routes: `X140 = 楞嚴經宗通`, preserving the exact `淨躶躶。赤灑灑。沒可把。` phrase in a fresh `楞嚴` doctrinal-commentarial setting behind `T1-p029.l06`. Even with that fresh branch, the local `T1-p029.l06` holdout surface still does not isolate a safe line-level reading, renewed outward exact and near-exact checking after `X140` on `T1-p007`, `T1-p012.l02`, and `T1-p030.l08` again reduced to already opened `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families, duplicate access paths, looser one-sided reuses, or non-primary modern pages, the strongest remaining `楞嚴`-adjacent lead `徹悟禪師語錄 / KR6p0101` remained below the material-overlap threshold rather than surviving as `X141`, no overlooked local threshold was crossed, and the live unresolved queue remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through `X140`, with no farther genuine branch surviving as `X141`."
   }
 }
 
