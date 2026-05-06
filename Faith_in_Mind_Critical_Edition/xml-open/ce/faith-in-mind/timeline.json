@@ -13656,6 +13656,77 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_reverified_post_X141_no_X142_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-399",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Reopened the reverified post-X141 no-X142 stop for one further broader corroborative pass, but again did not open X142",
+      "summary": "A further broader corroborative pass was still run across the same eight loci because the explicit overnight authorization allowed continued outward checking while any plausible branch remained worth testing. No genuine X142 source survived that added pass either: the strongest remaining fresh-looking survivors again collapsed into already logged source-family sets, already opened branch paths, duplicate access routes, or looser reception-only reuses, including renewed checks on 指月錄, 愚菴智及禪師語錄, 詩話類編, 御選語錄, 博山禪警語, 宗鑑法林, and the 教外別傳 access-path reprise. No overlooked local T1 repair threshold was crossed, no new external exception source was opened, and the same eight loci remain unresolved.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.shidianguji.com/zh/book/HY1681/chapter/1knxbvkw4t4ja",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X71n1421_002",
+        "https://www.shidianguji.com/zh/book/HY0517/chapter/1kegl98udw3ru",
+        "https://www.shidianguji.com/zh/book/QLZ1667/chapter/1k5fibsg94c96",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X63n1257_002",
+        "https://www.shidianguji.com/zh/book/JS2255/chapter/1jjbmtvevnbbe",
+        "https://tripitaka.cbeta.org/mobile/index.php?index=X84n1580_012",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-167",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_rechecked_post_X141_no_X142_repeat_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_rechecked_post_X141_no_X142_repeat_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-400",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-tested the repeated post-X141 no-X142 stop with one further broader corroborative sweep, but still did not open X142",
+      "summary": "One more broader corroborative sweep was run across the same eight loci after the already logged repeated post-X141 no-X142 stop, re-checking exact and near-exact primary-repository returns together with broader spillover leads on the same 趙州 / 雲門 / 十方無壁落 / 五年分疏不下, 證道歌, 淨躶躶赤灑灑沒可把, and 月出海 / 月生海 / 幾家人上樓 families. No genuine X142 survived: the strongest primary-source returns again collapsed into already logged branches such as 證道歌頌 / KR6q0177, 禪宗雜毒海 / KR6q0166, 五燈會元/卷第十五, and the already logged 崇覺空 五燈會元 reprise, while the remaining broader-web pages were non-primary quotation, explanatory, or dictionary-style surfaces. No overlooked local T1 repair threshold was crossed, no new external exception source was opened, and the same eight loci remain unresolved.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/text/KR6q0177/001",
+        "https://www.kanripo.org/ed/KR6q0166/X/004",
+        "https://www.shidianguji.com/zh/book/HY1733/chapter/1knzv4ntm2bee",
+        "https://www.shidianguji.com/zh/book/QLZ1602/chapter/1km8ovsm6adcr",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-168",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_rechecked_post_X141_no_X142_final_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_rechecked_post_X141_no_X142_final_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

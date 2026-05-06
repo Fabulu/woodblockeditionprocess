@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-168 2026-05-06 - Run one further broader overnight corroborative sweep beyond the repeated post-X141 no-X142 stop, but still do not open X142 and do not change T1
+
+- Decision: continue the already repeated post-`X141` no-`X142` frontier for one further broader corroborative sweep across the same eight holdouts, but do not open `X142` and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`
+- Why: the explicit overnight authorization still allowed one more honest widening pass so long as the broader search space itself had not yet been freshly retested. This additional sweep re-ran exact and near-exact outward checking across the same `趙州 / 雲門 / 十方無壁落 / 五年分疏不下`, `證道歌`, `淨躶躶赤灑灑沒可把`, and `月出海 / 月生海 / 幾家人上樓` families, this time also checking whether fresh-looking repository returns and spillover web hits represented any title-level survivor beyond the already logged chain. They did not. The strongest primary-source returns again collapsed into already logged branches such as `證道歌頌 / KR6q0177`, `禪宗雜毒海 / KR6q0166`, `五燈會元/卷第十五`, and the already logged `崇覺空` `五燈會元` branch, while the remaining broader-web pages were non-primary modern quotation, explanatory, or dictionary-style surfaces rather than new corroborative witnesses. Direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces still did not isolate any new safe local line-level `T1` reading, so no repair threshold was crossed and no genuine `X142` survived this farther sweep either
+- Evidence: the package decision and witness chain through `X141`; the renewed broader exact and near-exact searches run after the already logged repeated post-`X141` no-`X142` stop; `https://www.kanripo.org/text/KR6q0177/001`; `https://www.kanripo.org/ed/KR6q0166/X/004`; `https://www.shidianguji.com/zh/book/HY1733/chapter/1knzv4ntm2bee`; `https://www.shidianguji.com/zh/book/QLZ1602/chapter/1km8ovsm6adcr`; and the saved local holdout surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-167 2026-05-06 - Reopen the reverified post-X141 no-X142 stop for one further broader corroborative pass, but do not open X142 and do not change T1
+
+- Decision: reopen the already reverified post-`X141` no-`X142` stop for one further broader corroborative pass across the same eight holdouts, but do not open `X142` and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`
+- Why: the explicit overnight authorization still covered continued outward checking so long as any plausible branch remained worth testing. This further pass did re-test the strongest fresh-looking survivors that were not among the immediately named `X141`-frontier collapses, including `指月錄`, `愚菴智及禪師語錄`, `詩話類編`, `御選語錄`, `博山禪警語`, `宗鑑法林`, and the `教外別傳` access-path reprise behind the same `趙州 / 證道歌 / 淨躶躶赤灑灑 / 月出海月生海` families. On checking, those candidates again collapsed into already logged source-family sets, already opened branch paths, duplicate access routes, or looser reception-only reuses rather than a genuine fresh title-level branch. Direct reinspection of the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces still did not isolate any new safe local line-level `T1` reading, so no repair threshold was crossed and no genuine `X142` survived this additional pass either
+- Evidence: the package decision and witness chain through `X141`, the renewed broader exact and near-exact searches run after the already logged post-`X141` no-`X142` verification, `https://www.shidianguji.com/zh/book/HY1681/chapter/1knxbvkw4t4ja`, `https://tripitaka.cbeta.org/mobile/index.php?index=X71n1421_002`, `https://www.shidianguji.com/zh/book/HY0517/chapter/1kegl98udw3ru`, `https://www.shidianguji.com/zh/book/QLZ1667/chapter/1k5fibsg94c96`, `https://tripitaka.cbeta.org/mobile/index.php?index=X63n1257_002`, `https://www.shidianguji.com/zh/book/JS2255/chapter/1jjbmtvevnbbe`, `https://tripitaka.cbeta.org/mobile/index.php?index=X84n1580_012`, and the saved local holdout surfaces for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-166 2026-05-06 - Re-verify the post-X141 frontier and reject opening X142
 
 - Decision: do not open `X142`, and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after one further renewed outward verification pass beyond the already logged `X141` frontier
