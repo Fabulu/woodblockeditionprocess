@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-155 2026-05-06 - Reject further T1 repairs after X137 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X137` continuation
+- Why: `X137 = 五燈全書/卷第三十三` materially broadens the damaged `T1-p007` cluster through one more fresh lamp-history volume branch preserving the direct wall `十方無壁落。四面亦無門。古人向甚麼處見客。`; but it remains corroborative only. The local `T1-p007` upper and lower holdout surfaces still do not separate into safe line-level readings, and renewed outward exact and near-exact checking after `X137` on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` again surfaced only already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, `趙州`, `雲門`, `五燈全書` duplicate-volume routes, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, or non-primary modern pages rather than a further genuine fresh branch
+- Evidence: the local `T1-p007` page image and saved upper/lower holdout surfaces, together with `X137 = 五燈全書/卷第三十三` at `https://www.kanripo.org/text/KR6q0022/033`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-154 2026-05-06 - Continue beyond the logged post-X136 no-X137 stop under the same overnight authorization and open X137
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X136` no-`X137` verification stop by opening `X137 = 五燈全書/卷第三十三` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X136` chain, already-opened branch paths, prior `五燈全書/卷第九十二`, prior `五燈會元`, `聯燈會要`, `天聖廣燈錄`, `景德傳燈錄`, prior `趙州 / 雲門` branches, prior `金剛 / 心經 / 淨躶躶赤洒洒` branches, prior `月出海 / 月生海` poem-tail and yulu branches, and duplicate access routes. `X137` preserves the direct `十方無壁落。四面亦無門。古人向甚麼處見客。` wall in a fresh `五燈全書` volume branch through the `瑞州洞山曉聰禪師` entry. Renewed outward checking on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` during the same pass again reduced to already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X136`, the saved `T1-p007` upper and lower holdout surfaces, and the fresh targeted hit at `https://www.kanripo.org/text/KR6q0022/033`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-152 2026-05-06 - Reject further T1 repairs after X135 and X136 and re-close the restored external-access continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X135/X136` continuation

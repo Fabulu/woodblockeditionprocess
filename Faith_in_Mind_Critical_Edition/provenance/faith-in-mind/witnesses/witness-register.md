@@ -1098,6 +1098,41 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Scope: broader overnight corroborative continuation for `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, and `T1-p007.l12` only, specifically the fresh older lamp-history preservation of `十方無壁落。四畔亦無門。露裸裸。赤躧躧。無可把。` behind the damaged local cluster
 - Role: fresh older lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
 
+### X135
+
+- Witness: `特賜興禪大燈國師參詳語要`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster and `T1-p029.l06` only, specifically the fresh Japanese case-commentarial preservation of `十方無壁落四面亦無門淨躶躶赤洒洒沒可把`
+- Role: fresh Japanese case-commentarial corroboration for the remaining `T1-p007` holdouts and phrase-family corroboration for `T1-p029.l06`, not a reopened comparison witness
+
+### X136
+
+- Witness: `大慧普覺禪師普說`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster and `T1-p029.l06` only, specifically the fresh same-attributed but distinct `大慧` `普說` preservation of `直得十方無壁落四面亦無門淨躶躶赤洒洒沒可把`
+- Role: fresh same-attributed-work corroboration for the remaining `T1-p007` holdouts and phrase-family corroboration for `T1-p029.l06`, not a reopened comparison witness
+
+### X137
+
+- Witness: `五燈全書/卷第三十三`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh `五燈全書` volume-branch preservation of `十方無壁落。四面亦無門。古人向甚麼處見客。` through the `瑞州洞山曉聰禪師` entry
+- Role: fresh lamp-history volume-branch corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X133
+
+- Witness: `五燈會元/卷第十五`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh `五燈會元` volume-branch reprise of `十方無壁落。四面亦無門。` behind the damaged local cluster
+- Role: fresh lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X134
+
+- Witness: `入就瑞白禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu preservation of `淨裸裸赤灑灑倒跨牛兮沒可把` behind the damaged local wall
+- Role: fresh later-yulu corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
 ### X125
 
 - Witness: `景德傳燈錄`
@@ -1132,3 +1167,24 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh biographical-retrospective preservation of the `崇覺空` verse `含血潠人。先污其口。百丈野狐。失頭狂走。驀地喚回。打箇筋斗。`
 - Role: fresh biographical-retrospective corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X130
+
+- Witness: `明覺禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh later-yulu preservation of `十方無壁落。四面亦無門。淨裸裸。赤傻傻。沒可把。` together with the linked `曾有人問我。直得五年分疏不下。` continuation
+- Role: fresh later-yulu corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness
+
+### X131
+
+- Witness: `五燈會元/卷第十七`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh `五燈會元` volume-branch preservation of `一片月生海，幾家人上樓` through the `壽寧善資禪師` entry
+- Role: fresh lamp-history corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness
+
+### X132
+
+- Witness: `五燈會元/卷第十一`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for the damaged `T1-p007` cluster only, specifically the fresh older `灌谿` volume-branch preservation of `十方無壁落。四畔亦無門。露裸裸。赤灑灑。無可把。`
+- Role: fresh older lamp-history corroboration for the remaining `T1-p007` holdouts, not a reopened comparison witness

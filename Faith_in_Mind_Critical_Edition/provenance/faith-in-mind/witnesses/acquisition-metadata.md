@@ -1643,3 +1643,84 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X126` frontier; not promoted into the normal witness queue
+
+## X130
+
+- Witness: 明覺禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: http://www.baus-ebs.org/sutra/fan-read/008/04-008.htm
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X129` frontier; not promoted into the normal witness queue
+
+## X131
+
+- Witness: 五燈會元/卷第十七
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.shidianguji.com/zh/book/SK2145/chapter/1kfp644v3kdfu
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X130` frontier; not promoted into the normal witness queue
+
+## X132
+
+- Witness: 五燈會元/卷第十一
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.shidianguji.com/zh/book/SK2145/chapter/1kfp62y9ot62x
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X131` frontier; not promoted into the normal witness queue
+
+## X133
+
+- Witness: 五燈會元/卷第十五
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.shidianguji.com/zh/book/HY1733/chapter/1knzv4ntm2bee
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X132` frontier; not promoted into the normal witness queue
+
+## X134
+
+- Witness: 入就瑞白禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/edition/CBETA/KR6q0410/011
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=J26nB188_011
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X132` frontier; not promoted into the normal witness queue
+
+## X135
+
+- Witness: 特賜興禪大燈國師參詳語要
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=D46n8930_001
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster and `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X134` frontier; not promoted into the normal witness queue
+
+## X136
+
+- Witness: 大慧普覺禪師普說
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://tripitaka.cbeta.org/mobile/index.php?index=M059n1540_002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster and `T1-p029.l06` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged `X134` frontier; not promoted into the normal witness queue
+
+## X137
+
+- Witness: 五燈全書/卷第三十三
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6q0022/033
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against the damaged `T1-p007` cluster only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X136` no-`X137` verification stop; not promoted into the normal witness queue

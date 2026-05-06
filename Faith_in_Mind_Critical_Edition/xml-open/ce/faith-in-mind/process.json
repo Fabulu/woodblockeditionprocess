@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_post_X136_no_X137_remaining_8",
+      "slug": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X136_logged_X137_remaining_8",
       "witnesses": [
         "T1",
         "T4",
@@ -230,7 +230,8 @@
         "X133",
         "X134",
         "X135",
-        "X136"
+        "X136",
+        "X137"
       ],
       "targets": [
         "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -287,9 +288,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_post_X136_no_X137_remaining_8",
+      "last_completed_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X136_logged_X137_remaining_8",
       "last_text_changed_event": "FIM-260",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_post_X136_no_X137_remaining_8"
+      "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X136_logged_X137_remaining_8"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -304,7 +305,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "The paused post-X136 state has now been reopened for one renewed broader outward verification pass across the same eight holdouts, but no genuine X137 source survived that pass. Fresh-looking candidates on the 趙州 / 雲門 / 十方無壁落 / 五年分疏不下 wall, the 證道歌 quotation band, the 淨躶躶 / 赤洒洒 / 沒可把 wall, and the 月出海 / 月生海 / 幾家人上樓 tail family collapsed on checking into already logged works or already opened branch paths, including renewed hits to 續燈正統, 大川普濟禪師語錄, 如來香 / KR6c0193, 列祖提綱錄, 閱經十二種 / 法華懸譚, 證道歌註(彥琪), 證道歌頌, 密菴和尚語錄, 密行忍禪師語錄, and 佛果克勤禪師心要卷四; the remaining pages were duplicate access routes, looser one-sided reuses, or non-primary modern quotation and explanatory pages. No overlooked local threshold was crossed, no further T1 text change is justified, and the live unresolved queue remains T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through X136."
+    "next_required_action": "The logged post-X136 no-X137 verification stop was then pushed farther rather than being treated as terminal by itself, and one renewed broader outward pass surfaced one genuinely fresh corroborative branch: X137 = 五燈全書/卷第三十三 at https://www.kanripo.org/text/KR6q0022/033, preserving 十方無壁落。四面亦無門。古人向甚麼處見客。 through the 瑞州洞山曉聰禪師 entry behind the damaged T1-p007 cluster. Even with that fresh branch, the local T1-p007 upper and lower holdout surfaces still do not isolate safe line-level readings, and renewed outward exact and near-exact checking after X137 on T1-p012.l02, T1-p029.l06, and T1-p030.l08 again reduced to already opened 證道歌, 金剛 / 心經 / 淨躶躶赤洒洒, 月出海 / 月生海, 趙州, 雲門, 五燈全書 duplicate-volume routes, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, or non-primary modern pages. No overlooked local threshold was crossed, no further T1 text change is justified, and the live unresolved queue remains T1-p007.l03, T1-p007.l04, T1-p007.l08, T1-p007.l09, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through X137."
   }
 }
 

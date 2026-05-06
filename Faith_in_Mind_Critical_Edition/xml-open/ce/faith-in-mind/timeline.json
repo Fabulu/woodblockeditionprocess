@@ -13240,6 +13240,67 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_post_X136_no_X137_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-386",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Continued beyond the logged post-X136 no-X137 stop under the same overnight authorization and logged X137",
+      "summary": "The broader overnight hunt still did not stop at the earlier post-X136 no-X137 verification claim. A renewed broader pass surfaced one genuinely fresh corroborative branch not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, prior 五燈全書/卷第九十二, prior 五燈會元, 聯燈會要, 天聖廣燈錄, 景德傳燈錄, prior 趙州 / 雲門 branches, prior 金剛 / 心經 / 淨躶躶赤洒洒 branches, prior 月出海 / 月生海 poem-tail and yulu branches, and duplicate access routes: X137 = 五燈全書/卷第三十三, preserving the direct 十方無壁落。四面亦無門。古人向甚麼處見客。 wall through the 瑞州洞山曉聰禪師 entry.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/witnesses/witness-register.md",
+        "provenance/faith-in-mind/witnesses/acquisition-metadata.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/text/KR6q0022/033",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-154",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X136_logged_X137_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X136_logged_X137_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-387",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the restored external-access continuation on the remaining eight holdouts without further T1 text changes after X137",
+      "summary": "X137 further broadens the T1-p007 wall through one more fresh 五燈全書 volume branch, but it remains corroborative only: the local T1-p007 upper and lower holdout surfaces still do not isolate safe line-level readings, and renewed outward exact and near-exact checking after X137 on T1-p012.l02, T1-p029.l06, and T1-p030.l08 again reduced to already opened 證道歌, 金剛 / 心經 / 淨躶躶赤洒洒, 月出海 / 月生海, 趙州, 雲門, 五燈全書 duplicate-volume routes, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, or non-primary modern pages.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "https://www.kanripo.org/text/KR6q0022/033",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/"
+      ],
+      "decision_ref": "D-155",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_restored_external_access_continuation_beyond_X136_logged_X137_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_restored_external_access_continuation_beyond_X136_logged_X137_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }
