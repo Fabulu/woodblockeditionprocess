@@ -1,5 +1,104 @@
 # Decision Log: Faith in Mind
 
+## D-152 2026-05-06 - Reject further T1 repairs after X135 and X136 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X135/X136` continuation
+- Why: `X135 = 特賜興禪大燈國師參詳語要` materially broadens the damaged `T1-p007` cluster through a fresh Japanese case-commentarial preservation of the direct wall `十方無壁落四面亦無門淨躶躶赤洒洒沒可把`, while also sharpening phrase-family context behind `T1-p029.l06`; and `X136 = 大慧普覺禪師普說` materially broadens the same damaged `T1-p007` cluster through a fresh same-attributed but distinct `大慧` `普說` work preserving `直得十方無壁落四面亦無門淨躶躶赤洒洒沒可把`, again bridging into the `T1-p029` phrase family; but both remain corroborative only. The local `T1-p007` upper and lower holdout surfaces still do not separate into safe line-level readings, the local `T1-p029.l06` holdout surface still does not isolate a safe line-level reading, and renewed outward exact and near-exact checking after `X136` on `T1-p012.l02` and `T1-p030.l08` again surfaced only already opened `證道歌`, `月出海 / 月生海`, `趙州`, `雲門`, `大慧` quotation-family, `金剛 / 心經 / 淨躶躶赤洒洒`, yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families, duplicate access paths, or non-primary modern pages rather than a further genuine fresh branch
+- Evidence: the local `T1-p007` and `T1-p029` page images and saved holdout surfaces, together with `X135 = 特賜興禪大燈國師參詳語要` at `https://tripitaka.cbeta.org/mobile/index.php?index=D46n8930_001`, `X136 = 大慧普覺禪師普說` at `https://tripitaka.cbeta.org/mobile/index.php?index=M059n1540_002`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-153 2026-05-06 - Reopen the paused post-X136 state for one renewed broader verification pass and reject any X137 claim
+
+- Decision: reopen the paused post-`X136` state for one renewed broader outward verification pass across the same eight holdouts, but do not open `X137` and do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08`
+- Why: renewed outward search access allowed one more honest post-`X136` corroborative sweep, and the user had explicitly authorized the broader overnight continuation rather than a one-branch stop. That renewed pass re-tested exact and near-exact leads on the `趙州 / 雲門 / 十方無壁落 / 五年分疏不下` wall, the `證道歌` quotation band, the `淨躶躶赤洒洒沒可把` wall, and the `月出海 / 月生海 / 幾家人上樓` tail family. Fresh-looking candidates did appear, but none survived title-level de-duplication: the apparent hits reduced to already logged works or already opened branch paths, including renewed hits to `續燈正統`, `大川普濟禪師語錄`, `如來香 / KR6c0193`, `列祖提綱錄`, `閱經十二種 / 法華懸譚`, `證道歌註(彥琪)`, `證道歌頌`, `密菴和尚語錄`, `密行忍禪師語錄`, and `佛果克勤禪師心要卷四`, while the remaining pages were duplicate access routes, looser one-sided reuses, or non-primary modern quotation and explanatory pages. No overlooked local threshold was crossed, so no fresh exception source and no further `T1` repair is justified
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`; the package witness register and decision chain through `X136`; the saved `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` holdout surfaces; `https://www.kanripo.org/text/KR6q0071/004`; `https://www.kanripo.org/text/KR6q0266/001`; `https://www.kanripo.org/text/KR6c0193/001`; `https://www.kanripo.org/ed/KR6q0151/CBETA/007`; `https://tripitaka.cbeta.org/X37n0674_013`; `https://tripitaka.cbeta.org/mobile/index.php?index=X63n1241_001`; `https://tripitaka.cbeta.org/X65n1291_001`; `https://www.kanripo.org/text/KR6q0064/001`; `https://www.kanripo.org/text/KR6q0545/002`; and `https://www.kanripo.org/edition/CBETA/KR6q0291/004`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-151 2026-05-06 - Continue beyond the logged X134 frontier under the same overnight authorization and open X135 and X136
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X134` frontier by opening `X135 = 特賜興禪大燈國師參詳語要` and `X136 = 大慧普覺禪師普說` for the damaged `T1-p007` cluster, with both also bearing on the surviving `T1-p029.l06` phrase family
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced two genuinely fresh corroborative branches not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X134` chain, already-opened branch paths, prior `趙州 / 雲門` branches, prior `大慧普覺禪師語錄` and other already-opened `證道歌` quotation-family lines, prior `金剛 / 心經 / 淨躶躶赤洒洒` branches, prior `月出海 / 月生海` poem-tail and yulu branches, and duplicate access routes. `X135` preserves the direct-case `十方無壁落四面亦無門淨躶躶赤洒洒沒可把` wall in a fresh Japanese case-commentarial branch, and `X136` preserves the same combined wall in a fresh same-attributed but distinct `大慧` `普說` work as `直得十方無壁落四面亦無門淨躶躶赤洒洒沒可把`. Renewed outward checking on `T1-p012.l02` and `T1-p030.l08` during the same pass again reduced to already opened `證道歌`, `月出海 / 月生海`, yulu, lamp-history, anthology, doctrinal, commentarial, Japanese, and poetics families rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X134`, the saved `T1-p007` and `T1-p029` holdout surfaces, and the fresh targeted hits at `https://tripitaka.cbeta.org/mobile/index.php?index=D46n8930_001` and `https://tripitaka.cbeta.org/mobile/index.php?index=M059n1540_002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-150 2026-05-06 - Reject further T1 repairs after X133 and X134 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X133/X134` continuation
+- Why: `X133 = 五燈會元/卷第十五` materially broadens the damaged `T1-p007` cluster through one more fresh `五燈會元` volume branch preserving `十方無壁落。四面亦無門。` in the same `灌溪/雲門` case-family, and `X134 = 入就瑞白禪師語錄` materially broadens `T1-p029.l06` through a fresh later-yulu preservation of `淨裸裸赤灑灑倒跨牛兮沒可把`; but both remain corroborative only. The local `T1-p007` upper and lower holdout surfaces still do not separate into safe line-level readings, the local `T1-p029.l06` holdout surface still does not isolate a safe line-level reading, and renewed outward exact and near-exact checking after `X134` on `T1-p012.l02` and `T1-p030.l08` again surfaced only already opened `證道歌`, `月出海 / 月生海`, `趙州`, `雲門`, `金剛 / 心經 / 淨躶躶赤洒洒`, `五燈會元`, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, or non-primary modern pages rather than a further genuine fresh branch
+- Evidence: the local `T1-p007` and `T1-p029` page images and saved holdout surfaces, together with `X133 = 五燈會元/卷第十五` at `https://www.shidianguji.com/zh/book/HY1733/chapter/1knzv4ntm2bee`, `X134 = 入就瑞白禪師語錄` at `https://www.kanripo.org/edition/CBETA/KR6q0410/011` and `https://tripitaka.cbeta.org/mobile/index.php?index=J26nB188_011`, and the renewed broader outward exact and near-exact sweep after them
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-149 2026-05-06 - Continue beyond the logged X132 frontier under the same overnight authorization and open X133 and X134
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X132` frontier by opening `X133 = 五燈會元/卷第十五` for the damaged `T1-p007` cluster and `X134 = 入就瑞白禪師語錄` for `T1-p029.l06`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced two genuinely fresh corroborative branches not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X132` chain, the already-opened `五燈會元` volume paths, prior `趙州 / 雲門` branches, prior `金剛 / 心經 / 淨躶躶赤洒洒` branches, and duplicate access routes. `X133` preserves the same damaged `T1-p007` phrase family in a fresh `五燈會元` volume branch as `十方無壁落。四面亦無門。`; `X134` preserves the same damaged `T1-p029.l06` phrase family in a fresh later-yulu branch as `淨裸裸赤灑灑倒跨牛兮沒可把`. Renewed outward checking on `T1-p012.l02` and `T1-p030.l08` during the same pass again reduced to already opened `證道歌`, `月出海 / 月生海`, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X132`, the saved `T1-p007` and `T1-p029` holdout surfaces, and the fresh targeted hits at `https://www.shidianguji.com/zh/book/HY1733/chapter/1knzv4ntm2bee` and `https://www.kanripo.org/edition/CBETA/KR6q0410/011`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-148 2026-05-06 - Reject further T1 repairs after X132 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X132` continuation
+- Why: `X132 = 五燈會元/卷第十一` materially broadens the damaged `T1-p007` cluster through a fresh older `灌谿` volume branch preserving `十方無壁落。四畔亦無門。露裸裸。赤灑灑。無可把。` Even with that fresh branch, the local `T1-p007` upper and lower holdout surfaces still do not separate into safe line-level readings, and renewed outward exact and near-exact checking after `X132` on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` again surfaced only already opened `趙州`, `雲門`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, `聯燈會要`, `天聖廣燈錄`, `宏智`, `大慧`, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, or non-primary modern pages rather than a further genuine fresh branch
+- Evidence: the local `T1-p007` page image and saved upper/lower holdout surfaces, together with `X132 = 五燈會元/卷第十一` at `https://www.shidianguji.com/zh/book/SK2145/chapter/1kfp62y9ot62x`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-147 2026-05-06 - Continue beyond the logged X131 frontier under the same overnight authorization and open X132
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X131` frontier by opening `X132 = 五燈會元/卷第十一` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X131` chain, the already-opened `五燈會元/卷第四`, `五燈會元/卷第十七`, and `五燈會元/卷第十八` branch paths, and duplicate access routes. `X132` preserves the older direct `灌谿` wall `十方無壁落。四畔亦無門。露裸裸。赤灑灑。無可把。` Renewed outward checking on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` during the same pass again reduced to already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海`, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X131`, the saved `T1-p007` upper and lower holdout surfaces, and the fresh targeted hit at `https://www.shidianguji.com/zh/book/SK2145/chapter/1kfp62y9ot62x`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-146 2026-05-06 - Reject further T1 repairs after X131 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X131` continuation
+- Why: `X131 = 五燈會元/卷第十七` materially broadens the `T1-p030` wall through a fresh lamp-history branch preserving the exact tail `一片月生海，幾家人上樓` in the `壽寧善資禪師` entry. Even with that fresh branch, the local `T1-p030.l08` holdout surface still preserves only the unstable `...轉親轉遠轉近...後來直得...` cadence rather than a safe line-level `T1` reading, while renewed outward exact and near-exact checking after `X131` on `T1-p007`, `T1-p012.l02`, and `T1-p029.l06` again surfaced only already opened `趙州`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海` poem-tail, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, looser one-sided reuses that did not materially overlap the exact loci, or non-primary modern pages rather than a further genuine fresh branch
+- Evidence: the local `T1-p030` page image and saved holdout surface, together with `X131 = 五燈會元/卷第十七` at `https://www.shidianguji.com/zh/book/SK2145/chapter/1kfp644v3kdfu`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-145 2026-05-06 - Continue beyond the logged X130 frontier under the same overnight authorization and open X131
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X130` frontier by opening `X131 = 五燈會元/卷第十七` for `T1-p030.l08`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X130` chain, already-opened `五燈會元/卷第四` and `五燈會元/卷第十八` branch paths, and duplicate access routes. `X131` preserves the exact tail `一片月生海，幾家人上樓` in a fresh `五燈會元` volume branch through the `壽寧善資禪師` entry. Renewed outward checking on `T1-p007`, `T1-p012.l02`, and `T1-p029.l06` during the same pass again reduced to already opened `趙州`, `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, and related `月出海 / 月生海` poem-tail, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X130`, the saved `T1-p030` holdout surface, and the fresh targeted hit at `https://www.shidianguji.com/zh/book/SK2145/chapter/1kfp644v3kdfu`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-144 2026-05-06 - Reject further T1 repairs after X130 and re-close the restored external-access continuation on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X130` continuation
+- Why: `X130 = 明覺禪師語錄` materially broadens the damaged `T1-p007` cluster through a fresh later-yulu preservation of `十方無壁落。四面亦無門。淨裸裸。赤傻傻。沒可把。` together with the linked `曾有人問我。直得五年分疏不下。` continuation. Even with that fresh branch, the local `T1-p007` upper and lower holdout surfaces still do not separate into safe line-level readings, and renewed outward exact and near-exact checking after `X130` on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` again surfaced only already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海` poem-tail, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families, duplicate access paths, or non-primary modern pages rather than a further genuine fresh branch
+- Evidence: the local `T1-p007` page image and saved upper/lower holdout surfaces, together with `X130 = 明覺禪師語錄` at `http://www.baus-ebs.org/sutra/fan-read/008/04-008.htm`, and the renewed broader outward exact and near-exact sweep after it
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-143 2026-05-06 - Continue beyond the logged X129 frontier under the same overnight authorization and open X130
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged `X129` frontier by opening `X130 = 明覺禪師語錄` for the damaged `T1-p007` cluster
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X129` chain, already-opened title branches, and duplicate access paths. `X130` preserves the same damaged `T1-p007` phrase family in a fresh later-yulu branch, including `十方無壁落。四面亦無門。淨裸裸。赤傻傻。沒可把。` together with the linked `曾有人問我。直得五年分疏不下。` continuation. Renewed outward checking on `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08` during the same pass again reduced to already opened `證道歌`, `金剛 / 心經 / 淨躶躶赤洒洒`, `月出海 / 月生海` poem-tail, yulu, lamp-history, anthology, doctrinal, commentarial, and poetics families rather than a farther genuine fresh branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X129`, the saved `T1-p007` upper and lower holdout surfaces, and the fresh targeted hit at `http://www.baus-ebs.org/sutra/fan-read/008/04-008.htm`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-142 2026-05-06 - Reject further T1 repairs after X127 to X129 and re-close the restored external-access continuation on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X127/X128/X129` continuation
