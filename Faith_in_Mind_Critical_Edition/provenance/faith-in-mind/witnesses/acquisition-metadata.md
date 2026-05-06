@@ -2045,3 +2045,13 @@ There is no remaining structural blocker in the locked Faith in Mind witness set
 - Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
 - Validation status: targeted overlap manually checked against `T1-p029.l06` only
 - Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged fresh external-access post-`X168` no-`X169` state; not promoted into the normal witness queue
+
+## X170
+
+- Witness: 斌雅禪師語錄
+- Acquisition date: 2026-05-06
+- Access mode: browser-opened text only; no local file acquired
+- Source page: https://www.kanripo.org/text/KR6q0423/002
+- Rights posture: source text consulted as bounded external corroborative evidence; no local redistribution asset created in-package
+- Validation status: targeted overlap manually checked against `T1-p030.l08` only
+- Scope restriction: opened only under the same human-authorized overnight corroborative continuation beyond the already logged post-`X169` no-`X170` state; not promoted into the normal witness queue

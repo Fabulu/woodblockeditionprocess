@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-212 2026-05-06 - Reject further T1 repairs after X170 and re-close the broader overnight continuation on the remaining eight holdouts with no X171
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X170` continuation, and do not open `X171`
+- Why: `X170 = 斌雅禪師語錄` materially broadens the `T1-p030` wall through one more fresh later-yulu preservation of the linked-reply variant `在舍只言為客易臨筌方覺取魚難`, but it remains corroborative only. Direct reinspection of the saved `T1-p030.l08` holdout surface still does not isolate a safe line-level `T1` reading beyond the already known unstable `...轉親轉遠轉近...後來直得...` cadence, and one immediate broader outward check after `X170` again reduced the strongest fresh-looking survivors to already opened `祖堂集`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `拈八方珠玉集`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `全唐詩/卷796`, and related already broad `月出海 / 月生海 / 幾家人上樓` families, duplicate-access routes, or non-primary explanatory surfaces rather than a farther genuine `X171`. No overlooked local threshold was crossed anywhere in the saved holdout surfaces, so no further `T1` text change is justified
+- Evidence: the local `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030` page images and saved holdout surfaces, together with `X170 = 斌雅禪師語錄` at `https://www.kanripo.org/text/KR6q0423/002`, the checked `祖堂集` branch at `https://www.kanripo.org/text/KR6q0002/009`, and the renewed broader outward exact and near-exact sweep after `X170`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-211 2026-05-06 - Continue beyond the post-X169 no-X170 state under the same overnight authorization and open X170
+
+- Decision: continue the corroborative hunt for the remaining eight holdouts beyond the already logged post-`X169` no-`X170` state by opening `X170 = 斌雅禪師語錄` for `T1-p030.l08`
+- Why: the overnight authorization remained in force, and one renewed broader outward pass still surfaced one genuinely fresh corroborative branch not yet recorded anywhere in the package state after de-duplication against the already logged `X1-X169` chain, already-opened branch paths, and duplicate-access routes. `斌雅禪師語錄` preserves the linked-reply variant `在舍只言為客易臨筌方覺取魚難` in a fresh later-yulu branch distinct from the already logged `拈八方珠玉集`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `聯燈會要/卷第十八`, `佛國禪師語錄`, `佛光國師語録`, and `常光國師語録` lines behind the still-damaged `T1-p030.l08` wall. Renewed outward exact and near-exact checking on the remaining queue during the same pass did not surface a second farther genuine fresh title-level survivor beyond this branch
+- Evidence: the live eight-locus queue in `current-state.md` and `unresolved-loci.md`, the package witness register and decision chain through `X169`, the saved `T1-p030` holdout surface, and the fresh targeted hit at `https://www.kanripo.org/text/KR6q0423/002`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-210 2026-05-06 - Reject further T1 repairs after X169 and re-close the broader overnight continuation on the remaining eight holdouts with no X170
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the `X169` continuation, and do not open `X170`

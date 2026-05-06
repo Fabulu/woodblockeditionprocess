@@ -1411,3 +1411,10 @@ These are not reopened package witnesses. They are tightly scoped external corro
 - Access mode: web text view only
 - Scope: broader overnight corroborative continuation for `T1-p029.l06` only, specifically the fresh later-yulu phrase-family preservation of `淨躶躶赤洒洒。孤逈逈峭巍巍地。` together with linked `逆行順行無所行而不到。` context behind the damaged local wall
 - Role: fresh later-yulu phrase-family corroboration for the remaining `T1-p029` holdout, not a reopened comparison witness
+
+### X170
+
+- Witness: `斌雅禪師語錄`
+- Access mode: web text view only
+- Scope: broader overnight corroborative continuation for `T1-p030.l08` only, specifically the fresh later-yulu preservation of the linked-reply variant `在舍只言為客易臨筌方覺取魚難` behind the damaged local tail wall
+- Role: fresh later-yulu linked-reply corroboration for the remaining `T1-p030` holdout, not a reopened comparison witness

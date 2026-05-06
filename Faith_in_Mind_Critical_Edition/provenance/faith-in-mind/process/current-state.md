@@ -10,8 +10,8 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_human_directed_workspace_local_recheck_no_external_access_remaining_8`
-- Next required phase: `manual_correction_slice_T1_second_pass_paused_after_workspace_local_recheck_pending_external_source_access_remaining_8`
+- Last completed phase: `manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X169_logged_X170_remaining_8`
+- Next required phase: `manual_correction_slice_T1_second_pass_paused_after_continued_external_access_post_X169_logged_X170_remaining_8`
 
 ## What is already done
 
@@ -731,3 +731,7 @@ the remaining uncovered `T1` `l01` surfaces in the audit are commentary-only or 
 - `X169` preserves the fresh later-yulu phrase-family line `淨躶躶赤洒洒。孤逈逈峭巍巍地。` together with linked `逆行順行無所行而不到。` context behind `T1-p029.l06`.
 - even with `X169`, the local `T1-p029.l06` holdout surface still does not isolate a safe line-level reading, and one immediate follow-up broader outward check after it again reduced the strongest fresh-looking survivors to already opened `介為舟禪師語錄`, `大慧普覺禪師語錄`, `劍關子益禪師語錄`, `真歇清了禪師語錄`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `居士分燈錄`, `教外別傳`, `佛果圜悟禪師碧巖錄`, and related already broad phrase families rather than a farther genuine `X170`.
 - no overlooked local threshold was crossed after `X169`, no further `T1` text change is justified, and the live unresolved queue still remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through `X169`, with no farther genuine branch surviving as `X170`.
+- that already logged post-`X169` no-`X170` state was then pushed farther rather than being left standing by inertia while one fresh `T1-p030` title-level survivor still remained. One renewed broader outward pass surfaced one genuinely fresh corroborative branch not yet recorded in the package state after de-duplication against already logged works, already-opened branch paths, and duplicate access routes: `X170 = 斌雅禪師語錄`.
+- `X170` preserves the linked-reply variant `在舍只言為客易臨筌方覺取魚難` in a fresh later-yulu branch behind `T1-p030.l08`.
+- even with `X170`, the local `T1-p030.l08` holdout surface still does not isolate a safe line-level reading, and one immediate follow-up broader outward check after it again reduced the strongest fresh-looking survivors to already opened `祖堂集`, `古尊宿語錄/卷第四十六`, `古尊宿語錄/卷第四十七`, `拈八方珠玉集`, `佛國禪師語錄`, `佛光國師語録`, `常光國師語録`, `全唐詩/卷796`, and related already broad `月出海 / 月生海 / 幾家人上樓` families rather than a farther genuine `X171`.
+- no overlooked local threshold was crossed after `X170`, no further `T1` text change is justified, and the live unresolved queue still remains `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. On the present broader basis the overnight unconstrained corroborative hunt for those eight loci is now again genuinely exhausted across the plausibly productive source avenues opened through `X170`, with no farther genuine branch surviving as `X171`.
