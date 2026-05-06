@@ -10785,6 +10785,68 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X63_remaining_8",
         "last_text_changed_event": "FIM-260"
       }
+    },
+    {
+      "id": "FIM-307",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Opened a bounded package-local 400dpi OCR support recheck on the remaining eight holdouts",
+      "summary": "The broader overnight work did not stop at the logged X63 frontier because a genuinely newer in-package OCR branch still remained untested on the current machine: fresh 400dpi JPG derivatives for T1, a separate PP-OCRv4 output directory on that basis, and local helper scripts for deriving support text and running a matching fast OCR pass. The helper derivation script was updated so nested res.rec_texts payloads could be converted into extracted and column-ordered support text, and a matching RapidOCR pass was then run on the same derivative basis.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json",
+        "scripts/t1_derive_paddle_support_text.py"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/ocr-input-400dpi-jpg/",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4-400dpi-jpg/",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr-400dpi-jpg/"
+      ],
+      "decision_ref": "D-074",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_package_local_400dpi_ocr_recheck_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_broader_overnight_corroborative_continuation_beyond_X63_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
+    },
+    {
+      "id": "FIM-308",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Re-closed the remaining eight holdouts after the package-local 400dpi OCR support recheck without further T1 text changes",
+      "summary": "The fresh 400dpi PP-OCRv4 and RapidOCR branches broadened only the local OCR support surface. T1-p007 still preserved only distorted 有語言... / 至道無... fragments, T1-p012 still did not isolate a safe full line, T1-p029.l06 still collapsed to scraps like 赤 / 是 / 天下 / 見, and T1-p030.l08 still preserved only tail-level or distorted cadence fragments such as 人樓 / 廳月生海發家 and noisy 轉親轉遠轉近...後來直得... material. No new external exception source was opened and no further T1 repair threshold was crossed, so the overnight unconstrained corroborative hunt is now again genuinely exhausted on the present basis after this fresh in-package branch as well.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/decision-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4-400dpi-jpg/extracted-text/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4-400dpi-jpg/extracted-text/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4-400dpi-jpg/extracted-text/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4-400dpi-jpg/extracted-text/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr-400dpi-jpg/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr-400dpi-jpg/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr-400dpi-jpg/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr-400dpi-jpg/T1-p030.txt"
+      ],
+      "decision_ref": "D-075",
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_paused_after_package_local_400dpi_ocr_recheck_exhaustion_remaining_8",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_package_local_400dpi_ocr_recheck_remaining_8",
+        "last_text_changed_event": "FIM-260"
+      }
     }
   ]
 }

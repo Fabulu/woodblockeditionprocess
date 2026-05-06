@@ -1,5 +1,23 @@
 # Decision Log: Faith in Mind
 
+## D-075 2026-05-06 - Reject further T1 repairs after the package-local 400dpi OCR recheck on the remaining eight holdouts
+
+- Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the package-local `400dpi` OCR support recheck
+- Why: the fresh in-workspace `400dpi` JPG derivatives, the separate `PP-OCRv4` support branch, and a matching `RapidOCR` pass do broaden the local OCR basis beyond the previously logged `X63` frontier, but they still do not lift any of the eight remaining loci above repair threshold. After a small helper repair so nested `res.rec_texts` payloads could be derived into support text, the `PP-OCRv4` `400dpi` branch still preserves only noisy fragments such as distorted `有語言... / 至道無...` material on `T1-p007`, no safe full line on `T1-p012`, scraps like `赤 / 是 / 天下 / 見` on `T1-p029`, and only tail-level or distorted cadence material on `T1-p030`. The matching `RapidOCR` `400dpi` pass likewise returns only one noisy line on `T1-p007`, no text on `T1-p012`, two noisy lines on `T1-p029`, and tail-level fragments such as `人樓` and `廳月生海發家` on `T1-p030`. No new external corroborative witness was opened in this branch, and no further safe `T1` repair threshold was crossed
+- Evidence: `provenance/faith-in-mind/ocr/T1/ocr-input-400dpi-jpg/`, `provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4-400dpi-jpg/`, `provenance/faith-in-mind/ocr/T1/ocr/rapidocr-400dpi-jpg/`, `scripts/t1_derive_paddle_support_text.py`, and the saved local page images and holdout crops for `T1-p007`, `T1-p012`, `T1-p029`, and `T1-p030`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
+## D-074 2026-05-06 - Open a bounded package-local 400dpi OCR support recheck on the remaining eight holdouts
+
+- Decision: continue the remaining-eight holdout work beyond the already logged `X63` frontier by opening a bounded package-local OCR recheck on fresh in-workspace `400dpi` JPG derivatives for `T1`
+- Why: the current workspace includes a genuinely newer in-package OCR branch that had not yet been reflected anywhere in the formal state chain: fresh `400dpi` JPG derivatives for `T1`, a separate `PP-OCRv4` output directory on that basis, and helper scripts for deriving support text and running a matching fast OCR pass. Because this is a new package-local evidence surface rather than an already exhausted external `X*` branch, it must be tested before treating the present frontier as fully spent on the current machine
+- Evidence: `provenance/faith-in-mind/ocr/T1/ocr-input-400dpi-jpg/`, `provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4-400dpi-jpg/`, `scripts/t1_render_hires_ocr_input.py`, `scripts/t1_run_fast_ocr.py`, and the live eight-locus queue in `current-state.md` and `unresolved-loci.md`
+- Confidence: high
+- Actor type: `agent`
+- Actor id: assistant
+
 ## D-073 2026-05-06 - Reject further T1 repairs after X63 and re-close the overnight hunt on the remaining eight holdouts
 
 - Decision: do not change `T1-p007.l03`, `T1-p007.l04`, `T1-p007.l08`, `T1-p007.l09`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, or `T1-p030.l08` after the fresh `X63` continuation
