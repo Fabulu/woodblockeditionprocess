@@ -1,4 +1,4 @@
-﻿{
+{
   "edition_slug": "faith-in-mind",
   "timeline_version": 1,
   "events": [
@@ -15618,6 +15618,145 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_five_reader_recheck_p007_p012_p029_p030_no_further_text_gain",
         "last_text_changed_event": "FIM-457"
       }
-    }
-  ]
+    },
+    {
+      "id": "FIM-459",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Promoted T1-p007.l04 from the final bounded image-led recheck",
+      "summary": "One final bounded T1-p007.l04 attempt was then run against the full page, the saved upper-cluster crops, the accepted neighboring lines, and the already saved OCR support surfaces only. The recheck showed that the earlier five-reader skeleton was too conservative: the local T1 column itself reads 擬議停思停機且向禪床角頭伏聽處分. OCR remained too noisy to count as direct certainty, but it still preserved the mid-column 停...機 cadence and the 向禪床...頭伏... tail frame, so the line is accepted explicitly as an image-led human correction rather than as a pure OCR-certainty fix. The live unresolved queue drops to five loci.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/process/tmp-T1-p007-bbox02.png",
+        "provenance/faith-in-mind/process/tmp-T1-p007-bbox02-rot90.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-upper-cluster-b-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p007.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p007.txt"
+      ],
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_continue_after_p007_l04_remaining_5",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_promote_p007_l04_from_final_image_led_recheck",
+        "last_text_changed_event": "FIM-459"
+      }
+    },
+    {
+      "id": "FIM-460",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Completed the ordered follow-through recheck from p012.l02 through p030.l08 without further text gain",
+      "summary": "After the image-led promotion of T1-p007.l04, the remaining later holdouts were then rechecked in order rather than being left as inherited residue. T1-p012.l02 still does not isolate a safe local line beyond the already over-corroborated 雲門 / 教意 / 口欲談(言)而辭喪 / 心欲緣而慮忘 / 尚書且莫草草 band. T1-p029.l06 still does not isolate a safe local line beyond the already over-corroborated 淨躶躶 / 赤灑灑 / 沒可把 family. T1-p030.l08 comes closest among the remaining non-p007 loci, but it still does not become a safe full local line beyond the unstable local cadence around 轉親轉遠轉近...後來直得... and the broader 月生海 / 幾家人上樓 tail family. No further T1 text change is justified on this direct follow-through basis, and the remaining unresolved queue narrows to five loci.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/T1-p029-l06-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p012.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p029.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/T1-p030.txt",
+        "provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/column-ordered-text/T1-p030.txt"
+      ],
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_pause_remaining_5_pending_stronger_local_or_external_evidence",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_recheck_p012_p029_p030_remaining_5_no_further_text_gain",
+        "last_text_changed_event": "FIM-459"
+      }
+    },
+    {
+      "id": "FIM-461",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Completed a five-reader visual-only panel across the remaining five holdouts without further text gain",
+      "summary": "Five bounded image-only reads were then run in parallel across T1-p007.l03, T1-p007.l12, T1-p012.l02, T1-p029.l06, and T1-p030.l08: full-page orientation, normal-orientation tight crops, rotated and mirrored high-contrast crops, boundary and bleed segmentation, and aggressive human reread. All five converged on the same no-gain result. T1-p007.l03 no longer supports more than a contaminated 微-like stub, T1-p007.l12 weakly stabilizes only 前 in spillover, T1-p012.l02 still does not separate into a local line beyond the already over-corroborated quotation band, T1-p029.l06 still shows phrase-family-looking ink without a safe local isolate, and T1-p030.l08 remains the strongest surviving visual candidate only at the level of a repeated 轉...轉...轉... cadence plus a weak ...後來直得... continuation rather than a safe full T1 line. No further T1 text change is justified on this visual-only basis.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p007.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p012.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p029.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/tmp-T1-p007-bbox01.png",
+        "provenance/faith-in-mind/process/tmp-T1-p007-bbox08.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p012/T1-p012-cluster-b-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p029/T1-p029-l06-wide-rot90-mirror-hi.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide-rot90-mirror-hi.png"
+      ],
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_pause_remaining_5_pending_stronger_local_or_external_evidence",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_five_visual_readers_remaining_5_no_further_text_gain",
+        "last_text_changed_event": "FIM-459"
+      }
+    },
+    {
+      "id": "FIM-462",
+      "date": "2026-05-06",
+      "phase": "manual_correction_pass_2",
+      "title": "Promoted T1-p030.l08 from a focused five-reader visual-only panel as an explicit judgment call",
+      "summary": "A focused five-reader visual-only panel was then run just on T1-p030.l08 after the broader five-locus no-gain pass, using the full page, exact and widened local crops, boundary separation, and aggressive image-only rereads rather than OCR authority. The strongest exact candidates that survived consolidation were 疏轉親轉遠轉近轉捨轉隨後來直得底 and 踈轉親轉迷轉近轉捨轉隨後來直得底. The stable core was 轉親轉...轉近轉...轉隨後來直得底, with the opening graph only 疏 or 踈-like, the fourth graph split between 遠 and 迷, and the graph before the final 轉 converging toward 捨. The first candidate is accepted explicitly as an image-led human judgment call rather than as an OCR-certainty fix, and the unresolved queue therefore drops to four loci.",
+      "files_changed": [
+        "provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/ocr-consensus-log.md",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/translation-reasoning-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p030.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-exact.png",
+        "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p030/T1-p030-l08-wide.png",
+        "provenance/faith-in-mind/process/tmp-T1-p030-l08-col-exact2-rot90.png",
+        "provenance/faith-in-mind/process/tmp-T1-p030-l08-col-exact2-rot270.png"
+      ],
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "manual_correction_slice_T1_second_pass_pause_remaining_4_pending_stronger_local_or_external_evidence",
+        "last_completed_phase": "manual_correction_slice_T1_second_pass_focused_p030_l08_visual_panel_judgment_call",
+        "last_text_changed_event": "FIM-462"
+      }
+    }  ]
 }

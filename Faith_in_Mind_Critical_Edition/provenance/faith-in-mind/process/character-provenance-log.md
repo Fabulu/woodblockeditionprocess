@@ -698,3 +698,35 @@ Faith in Mind adoption rule:
 | `T1-p007.l08` | 6 | `轉` | `image inspection plus OCR anchor` | `strong` | `T1` |
 | `T1-p007.l08` | 7 | `公` | `image inspection plus OCR anchor` | `strong` | `T1` |
 | `T1-p007.l08` | 8 | `案` | `image inspection plus OCR anchor` | `strong` | `T1` |
+| `T1-p007.l04` | 1 | `æ“¬` | `direct image inspection` | `moderate` | `T1` |
+| `T1-p007.l04` | 2 | `è­°` | `direct image inspection` | `moderate` | `T1` |
+| `T1-p007.l04` | 3 | `åœ` | `direct image inspection plus OCR cadence support` | `moderate` | `T1` |
+| `T1-p007.l04` | 4 | `æ€` | `direct image inspection` | `moderate` | `T1` |
+| `T1-p007.l04` | 5 | `åœ` | `direct image inspection plus OCR cadence support` | `moderate` | `T1` |
+| `T1-p007.l04` | 6 | `æ©Ÿ` | `direct image inspection plus OCR cadence support` | `moderate` | `T1` |
+| `T1-p007.l04` | 7 | `ä¸”` | `direct image inspection` | `moderate` | `T1` |
+| `T1-p007.l04` | 8 | `å‘` | `direct image inspection` | `moderate` | `T1` |
+| `T1-p007.l04` | 9 | `ç¦ª` | `direct image inspection plus OCR tail-frame support` | `moderate` | `T1` |
+| `T1-p007.l04` | 10 | `åºŠ` | `direct image inspection plus OCR tail-frame support` | `moderate` | `T1` |
+| `T1-p007.l04` | 11 | `è§’` | `direct image inspection` | `moderate` | `T1` |
+| `T1-p007.l04` | 12 | `é ­` | `direct image inspection plus OCR tail-frame support` | `moderate` | `T1` |
+| `T1-p007.l04` | 13 | `ä¼` | `direct image inspection plus OCR tail-frame support` | `moderate` | `T1` |
+| `T1-p007.l04` | 14 | `è½` | `direct image inspection` | `moderate` | `T1` |
+| `T1-p007.l04` | 15 | `è™•` | `direct image inspection` | `moderate` | `T1` |
+| `T1-p007.l04` | 16 | `åˆ†` | `direct image inspection` | `moderate` | `T1` |
+| `T1-p030.l08` | 1 | `疏` | `direct image inspection; normalized from 疏/踈-like opening graph in the focused visual panel` | `low` | `T1` |
+| `T1-p030.l08` | 2 | `轉` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 3 | `親` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 4 | `轉` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 5 | `遠` | `focused visual-panel judgment call; split against 迷 in the exact crop` | `low` | `T1` |
+| `T1-p030.l08` | 6 | `轉` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 7 | `近` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 8 | `轉` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 9 | `捨` | `focused visual-panel judgment call from the exact crop` | `low` | `T1` |
+| `T1-p030.l08` | 10 | `轉` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 11 | `隨` | `direct image inspection from the focused visual panel` | `moderate` | `T1` |
+| `T1-p030.l08` | 12 | `後` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 13 | `來` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 14 | `直` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 15 | `得` | `direct image inspection from full page plus exact local crop` | `strong` | `T1` |
+| `T1-p030.l08` | 16 | `底` | `focused visual-panel judgment call from the exact crop tail` | `moderate` | `T1` |
