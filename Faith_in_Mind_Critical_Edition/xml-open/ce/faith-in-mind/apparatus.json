@@ -1,0 +1,100 @@
+{
+  "status": "active",
+  "phase": "poem_first_publication_candidate",
+  "scope": "poem_only",
+  "base_witness": "T1",
+  "entries": [
+    {
+      "id": "app-001",
+      "locus": "T1-p021.l01a",
+      "kind": "supplied_line",
+      "edited_reading": "一種不通兩處失功",
+      "supporting_witnesses": [
+        "T4",
+        "T5",
+        "T2",
+        "T3"
+      ],
+      "note": "Supplied comparison-supported locus inserted between T1-p021.l01 and T1-p022.l01."
+    },
+    {
+      "id": "app-002",
+      "locus": "T1-p031.l01",
+      "kind": "image_led_correction",
+      "edited_reading": "縱有是非紛然失心",
+      "rejected_reading": "纔有是非紛然失心",
+      "supporting_witnesses": [
+        "T1"
+      ],
+      "note": "Opening graph corrected by direct image inspection with convergent OCR support."
+    },
+    {
+      "id": "app-003",
+      "locus": "T1-p036.l05",
+      "kind": "remapped_poem_locus",
+      "edited_reading": "一空同兩齊含萬象",
+      "rejected_reading": "T1-p036.l01 = 一空同兩齊含萬象",
+      "supporting_witnesses": [
+        "T1",
+        "T4",
+        "T3",
+        "A1"
+      ],
+      "note": "The poem line survives locally at l05; the earlier l01 placement was a prose-column misassignment."
+    },
+    {
+      "id": "app-004",
+      "locus": "T1-p047.l01",
+      "kind": "comparison_supported_correction",
+      "edited_reading": "法無異法妄自愛著",
+      "supporting_witnesses": [
+        "T4",
+        "T5",
+        "T2",
+        "A1"
+      ],
+      "note": "Comparison-supported repair accepted into the T1 poem spine."
+    },
+    {
+      "id": "app-005",
+      "locus": "T1-p065.l01",
+      "kind": "comparison_supported_correction",
+      "edited_reading": "非思量處識情難測",
+      "supporting_witnesses": [
+        "T4",
+        "T5",
+        "T2",
+        "A1"
+      ],
+      "note": "Comparison-supported repair accepted into the T1 poem spine."
+    },
+    {
+      "id": "app-006",
+      "locus": "T1-p075",
+      "kind": "omission_judgment",
+      "edited_reading": "若不如此必不須守",
+      "status": "omitted_in_T1",
+      "supporting_witnesses": [
+        "T4",
+        "T3",
+        "A1",
+        "A3"
+      ],
+      "note": "The broader tradition preserves this line before T1-p076.l01, but the corresponding T1 locus is commentary material rather than a secure poem line."
+    },
+    {
+      "id": "app-007",
+      "locus": "T1-p077.l01a",
+      "kind": "supplied_closing_locus",
+      "edited_reading": "但能如是何慮不畢",
+      "supporting_witnesses": [
+        "T4",
+        "T3",
+        "A1",
+        "T2",
+        "T5"
+      ],
+      "note": "Supplied closing locus inserted after T1-p077.l01."
+    }
+  ]
+}

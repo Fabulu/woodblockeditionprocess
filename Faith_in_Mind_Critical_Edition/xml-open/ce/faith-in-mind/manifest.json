@@ -1,0 +1,27 @@
+{
+  "text_id": "ce.faith-in-mind",
+  "work_name": "Faith in Mind",
+  "work_name_zh": "信心銘",
+  "work_name_alt": [
+    "Xinxin Ming",
+    "Shinjinmei"
+  ],
+  "author": "Sengcan (僧璨, d. 606)",
+  "status": "publication_candidate",
+  "edition_state": "poem_first_critical_text_extracted",
+  "scope": "poem_first_with_parallel_commentary_secondary",
+  "witness_set_state": "locked",
+  "witness_lock_rule": "locked after two consecutive recon waves with no new credible free witness",
+  "tei_file": "faith-in-mind.xml",
+  "documents_file": "documents.json",
+  "process_file": "process.json",
+  "apparatus_file": "apparatus.json",
+  "stats_file": "stats.json",
+  "production_inputs_dir": "../../../provenance/faith-in-mind/",
+  "notes": [
+    "The poem-first critical reading text has now been extracted from the corrected T1 spine.",
+    "The main TEI and apparatus files are now populated rather than scaffold placeholders.",
+    "Commentary and reception material remain preserved as a parallel secondary track.",
+    "The package preserves the omission judgment at T1-p075 instead of silently restoring the broader transmitted closing line."
+  ]
+}

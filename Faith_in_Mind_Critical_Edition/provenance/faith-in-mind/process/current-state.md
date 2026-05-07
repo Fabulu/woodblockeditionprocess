@@ -7,11 +7,18 @@ Edition slug: `faith-in-mind`
 ## Resume summary
 
 - Witness set: locked
-- Scope: broader
+- Scope: poem-first main edition with parallel commentary secondary track
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
-- Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_helper_remap_and_fragment_ocr_closeout_remaining_4`
-- Next required phase: `manual_correction_slice_T1_second_pass_pause_remaining_4_documented_fragment_wall`
+- Current phase: `poem_first_publication_candidate_prepared`
+- Last completed phase: `manual_correction_slice_T1_second_pass_pause_remaining_4_documented_fragment_wall`
+- Next required phase: `poem_first_publication_package`
+
+## Poem-first publication status
+
+- The outward-facing edition files are now populated from the stabilized poem spine rather than left as scaffold placeholders.
+- The main published target is now the `信心銘` poem, not the commentary corpus.
+- Commentary and reception witnesses remain preserved as a parallel secondary scholarly track.
+- The package now exposes a standalone poem reading text, a machine-readable apparatus, and a populated TEI publication candidate.
 
 ## Current overnight continuation status
 

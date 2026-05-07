@@ -61,6 +61,14 @@
       "path": "../../../provenance/faith-in-mind/edition/working-critical-text.md"
     },
     {
+      "kind": "editorial_method",
+      "path": "../../../provenance/faith-in-mind/edition/editorial-method.md"
+    },
+    {
+      "kind": "commentary_secondary_track",
+      "path": "../../../provenance/faith-in-mind/edition/commentary-secondary-track.md"
+    },
+    {
       "kind": "human_log",
       "path": "../../../provenance/faith-in-mind/process/human-log.md"
     },

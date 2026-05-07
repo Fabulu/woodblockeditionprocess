@@ -1,60 +1,64 @@
 # Edition Plan: Faith in Mind
 
-Date: 2026-04-14
-Status: planning
+Date: 2026-05-07
+Status: active poem-first publication track
 Slug: `faith-in-mind`
 Work name: `Faith in Mind`
 Work name zh: `信心銘`
 
 ## Goal
 
-Produce a rigorous critical-edition package for `信心銘` from the free witness set already collected in this repo, using an OCR-first workflow and explicit decision logging.
+Produce a publishable critical edition of the `信心銘` poem itself from the locked witness set already assembled in this package.
+
+## Editorial model
+
+- Base text model: best-witness critical reading text
+- Starting spine: corrected `T1` poem loci
+- Emendation rule: accept departure from raw `T1` only where comparison or image evidence has already been logged strongly enough to justify it
+- Apparatus scope: meaningful poem-level variants, supplied loci, remapped loci, and closing-branch judgments
 
 ## Current phase
 
-Phase 0: package scaffold
+Phase: poem-first critical edition assembly
 
-This workspace exists to start cleanly after removing the premature `OpenZenTexts` scaffold.
+The research package is no longer in scaffold state. Witness search, OCR, transcription, comparison, and commentary-supported recovery have advanced far enough to support a poem-first publication candidate.
 
-No OCR, transcription, collation, or TEI text production has started here.
+## Deliverables now in scope
 
-## Working scope
+1. standalone poem reading text
+2. machine-readable apparatus
+3. TEI edition of the poem
+4. editorial-method note
+5. commentary-secondary-track note
 
-- Tier 1: primary text witnesses
-- Tier 2: anthology / derivative witnesses
-- Tier 3: translation / commentary / reception controls
-- Tier 4: source-tradition controls
+## Commentary policy
 
-## Immediate tasks
+Commentary and reception witnesses remain preserved as a parallel secondary scholarly track.
 
-1. Continue witness search until the credible free pool appears saturated.
-2. Confirm rights basis, source page, and best download path for every accepted witness.
-3. Acquire or re-acquire local files where needed.
-4. Record hash, size, and local canonical filenames.
-5. Lock the witness set.
-6. Only then begin OCR and segmentation.
+They are:
 
-## Exclusions for this phase
+- valid support for poem-locus judgments
+- valid background for witness ecology and reception history
+- not the main published edition text
+- not allowed to block poem-first publication
 
-- no OCR runs
-- no manual transcription
-- no copy-text lock
-- no line-by-line collation
-- no apparatus entries beyond placeholders
-- no published reading text
+## Out of scope for this release
 
-## Governing docs
+- further rescue work on the four residual fragment walls
+- line-by-line completion of commentary prose
+- reopening the broad corroborative hunt
 
-- `CRITICAL_EDITION_GUIDED_WORKFLOW.md`
-- `CRITICAL_EDITION_ENTRYPOINT.md`
-- `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
-- `WORKFLOW.md`
-- `TRANSCRIPTION_METHOD.md`
-- `STANDARD_TRANSCRIPTION_WORKFLOW.md`
+## Source-of-truth documents
+
+- reading text source: `provenance/faith-in-mind/edition/working-critical-text.md`
+- apparatus source: `xml-open/ce/faith-in-mind/apparatus.json`
+- publication TEI: `xml-open/ce/faith-in-mind/faith-in-mind.xml`
+- witness method and freeze: `provenance/faith-in-mind/witnesses/witness-register.md`
+- comparison backbone: `provenance/faith-in-mind/collation/first-pass-variant-table.md`
 
 ## Decision policy
 
-Every decision must log:
+Every decision must still log:
 
 - what changed
 - why

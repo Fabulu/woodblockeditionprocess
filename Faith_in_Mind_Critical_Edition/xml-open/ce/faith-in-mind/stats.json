@@ -1,0 +1,21 @@
+{
+  "status": "publication_candidate",
+  "witness_counts": {
+    "tier_1_primary": 5,
+    "tier_2_anthology_derivative": 3,
+    "tier_3_translation_commentary_reception": 17,
+    "tier_4_source_tradition_controls": 5
+  },
+  "workflow_state": {
+    "witness_set_locked": true,
+    "ocr_started": true,
+    "transcription_started": true,
+    "collation_started": true
+  },
+  "publication_state": {
+    "poem_reading_text_extracted": true,
+    "apparatus_populated": true,
+    "tei_populated": true,
+    "commentary_secondary_track_documented": true
+  }
+}

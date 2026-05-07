@@ -3,12 +3,12 @@
     "slug": "faith-in-mind",
     "label": "Faith in Mind Critical Edition",
     "status": "active",
-    "phase": "manual_correction_pass_1_started",
+    "phase": "poem_first_publication_candidate_prepared",
     "witness_set_locked": true,
     "copy_text_locked": true
   },
   "scope": {
-    "mode": "broader",
+    "mode": "poem_first_with_parallel_commentary_secondary",
     "tiers": [
       "primary_text_witness",
       "anthology_or_derivative_witness",
@@ -34,11 +34,11 @@
     "ocr_started": true,
     "transcription_started": true,
     "collation_started": true,
-    "publication_candidate": false
+    "publication_candidate": true
   },
   "next_stage": {
-    "slug": "manual_correction_pass_1",
-    "status": "in_progress",
+    "slug": "poem_first_publication_package",
+    "status": "prepared",
     "copy_text": "T1",
     "copy_text_policy": {
       "status": "locked_starting_spine",
@@ -56,7 +56,7 @@
       "T5",
       "T2"
     ],
-    "plan_document": "provenance/faith-in-mind/transcription/ocr-transcription-plan.md",
+    "plan_document": "provenance/faith-in-mind/process/edition-plan.md",
     "current_state_document": "../../../provenance/faith-in-mind/process/current-state.md",
     "normalized_text": "../../../provenance/faith-in-mind/transcription/normalized/T1-normalized-pass1.txt",
     "corrected_text": "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -68,7 +68,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "manual_correction_slice_T1_second_pass_helper_remap_and_fragment_ocr_closeout_remaining_4",
+      "slug": "poem_first_publication_candidate_handoff",
       "witnesses": [
         "T1",
         "T4",
