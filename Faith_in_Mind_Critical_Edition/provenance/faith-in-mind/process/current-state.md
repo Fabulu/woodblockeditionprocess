@@ -1,6 +1,6 @@
 ﻿# Current State: Faith in Mind
 
-Date: 2026-05-06
+Date: 2026-05-07
 Status: active
 Edition slug: `faith-in-mind`
 
@@ -10,8 +10,8 @@ Edition slug: `faith-in-mind`
 - Scope: broader
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
 - Current phase: `manual_correction_pass_1_started`
-- Last completed phase: `manual_correction_slice_T1_second_pass_focused_p030_l08_visual_panel_judgment_call`
-- Next required phase: `manual_correction_slice_T1_second_pass_pause_remaining_4_pending_stronger_local_or_external_evidence`
+- Last completed phase: `manual_correction_slice_T1_second_pass_helper_remap_and_fragment_ocr_closeout_remaining_4`
+- Next required phase: `manual_correction_slice_T1_second_pass_pause_remaining_4_documented_fragment_wall`
 
 ## Current overnight continuation status
 
@@ -27,6 +27,8 @@ Edition slug: `faith-in-mind`
 - A fresh five-reader visual-only panel has now also been completed across the surviving five-locus wall: `T1-p007.l03`, `T1-p007.l12`, `T1-p012.l02`, `T1-p029.l06`, and `T1-p030.l08`. All five reads converged on the same result: no further locus crosses the corrected-text threshold from image evidence alone. The panel sharpens the wall rather than moving it. `T1-p007.l03` trends only to a contaminated `微`-like stub rather than a recoverable line, `T1-p007.l12` weakly stabilizes only `前` in spillover, `T1-p012.l02` still does not separate into a local line beyond the already over-corroborated quotation band, `T1-p029.l06` still shows phrase-family-looking ink without a safe local isolate, and `T1-p030.l08` remains the strongest surviving visual candidate only at the level of a repeated `轉...轉...轉...` cadence plus a weak `...後來直得...` continuation rather than a safe full `T1` line.
 - A farther focused five-reader visual-only panel was then run just on `T1-p030.l08` rather than leaving the strongest remaining visual candidate under the broader five-locus no-gain wording. Across full-page image review, exact and widened local crops, boundary separation, and aggressive image-only rereads, the panel converged on the local cadence `轉親轉...轉近轉...轉隨後來直得底` strongly enough to justify one last image-led human acceptance: `T1-p030.l08 = 疏轉親轉遠轉近轉捨轉隨後來直得底`. This is logged explicitly as a human judgment call rather than as OCR certainty: the opening graph remains only `疏/踈`-like and the fourth graph remained split between `遠` and `迷`, but the line is no longer treated as a visual wall.
 - The live unresolved queue is now `T1-p007.l03`, `T1-p007.l12`, `T1-p012.l02`, and `T1-p029.l06`.
+- A final helper-remap and fragment-OCR closeout has now been completed on those remaining four loci. The stale local helper crops for `T1-p012.l02` and `T1-p029.l06` were replaced with geometry-based short-fragment isolates, and both locally available fast OCR engines were then rerun directly on the regenerated exact and wide fragment variants. `RapidOCR` returned no text on any variant, and `PaddleOCR` returned only junk-level hallucinations such as `限果时易` and `天医`, so these outputs are useful only as negative evidence.
+- The package therefore now treats the remaining four loci as documented fragment walls rather than as stale-crop or stale-OCR problems. On the present in-package basis, no further `T1` text change is justified for `T1-p007.l03`, `T1-p007.l12`, `T1-p012.l02`, or `T1-p029.l06`.
 
 ## What is already done
 
