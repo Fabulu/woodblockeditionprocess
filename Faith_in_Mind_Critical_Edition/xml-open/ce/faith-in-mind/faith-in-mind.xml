@@ -5,12 +5,22 @@
       <titleStmt>
         <title>Faith in Mind</title>
         <title xml:lang="zh-Hant">信心銘</title>
+        <author>Sengcan</author>
       </titleStmt>
       <publicationStmt>
-        <p>Poem-first critical edition publication candidate assembled from the locked Faith in Mind witness package on 2026-05-07.</p>
+        <p>Poem-first critical edition publication candidate assembled from the locked Faith in Mind witness package on 2026-05-07 and refined on 2026-05-08.</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Base reading text follows the corrected T1 poem spine with explicit comparison-supported supplied loci, remapped loci, and a preserved closing omission judgment.</p>
+        <listWit>
+          <witness xml:id="T1">Base witness and starting spine.</witness>
+          <witness xml:id="T4">Primary comparison-control witness used for decisive repair support.</witness>
+          <witness xml:id="T5">Corroborative comparison-control witness.</witness>
+          <witness xml:id="T2">Corroborative comparison-control witness.</witness>
+          <witness xml:id="T3">Corroborative comparison-control witness with strong closing support.</witness>
+          <witness xml:id="A1">Anthology witness with strong corroborative closing support.</witness>
+          <witness xml:id="A2">Derivative anthology corroborator.</witness>
+          <witness xml:id="A3">Derivative anthology corroborator.</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -21,12 +31,20 @@
         <p>The edition uses a best-witness reading-text model. T1 remains the starting spine, with departures accepted only where the package already logged sufficient image or comparison evidence.</p>
       </editorialDecl>
     </encodingDesc>
+    <revisionDesc>
+      <change when="2026-05-07">First populated poem-first TEI publication candidate created from the stabilized T1 spine and logged comparison decisions.</change>
+      <change when="2026-05-08">Header, witness summary, and editorial framing refined; package aligned with the new editorial introduction draft and publication checklist.</change>
+    </revisionDesc>
   </teiHeader>
   <text>
     <front>
       <div type="editorial_note" xml:id="ed-note">
         <head>Editorial Note</head>
         <p>The present edition is poem-first. The package preserves extensive commentary and reception work as a secondary track, but the main edited text below contains only the poem loci accepted into the critical reading text.</p>
+      </div>
+      <div type="editorial_summary" xml:id="ed-summary">
+        <head>Summary of Method</head>
+        <p>The text follows the corrected T1 poem spine, preserves explicit supplied and remapped loci where already justified by the package evidence, and records the broader traditional closing line before T1-p076 as an omission judgment rather than silently restoring it in the base witness.</p>
       </div>
     </front>
     <body>
@@ -111,6 +129,10 @@
       <div type="apparatus_note" xml:id="apparatus-summary">
         <head>Apparatus Summary</head>
         <p>The machine-readable apparatus is stored separately in <ref target="apparatus.json">apparatus.json</ref>. The most important poem-level editorial actions are the supplied loci at T1-p021.l01a and T1-p077.l01a, the remapped poem locus at T1-p036.l05, and the preserved omission judgment at T1-p075.</p>
+      </div>
+      <div type="commentary_note" xml:id="commentary-secondary-note">
+        <head>Commentary Secondary Track</head>
+        <p>Commentary and reception witnesses remain preserved as a parallel secondary scholarly track for witness ecology, reception history, and poem-locus support. They do not form part of the main edited poem text.</p>
       </div>
     </back>
   </text>

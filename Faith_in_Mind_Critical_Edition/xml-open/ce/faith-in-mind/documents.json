@@ -65,6 +65,10 @@
       "path": "../../../provenance/faith-in-mind/edition/editorial-method.md"
     },
     {
+      "kind": "editorial_introduction_draft",
+      "path": "../../../provenance/faith-in-mind/edition/editorial-introduction-draft.md"
+    },
+    {
       "kind": "commentary_secondary_track",
       "path": "../../../provenance/faith-in-mind/edition/commentary-secondary-track.md"
     },

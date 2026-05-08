@@ -1,29 +1,36 @@
 # Publication Checklist: Faith in Mind
 
-Status: not ready
+Status: publication candidate, refinement still in progress
 
 ## Pre-publication gates
 
-- [ ] witness search saturated enough to justify lock
-- [ ] accepted witness set locked
-- [ ] rejected/deferred witnesses recorded
-- [ ] every accepted witness has source page, download path, rights basis, local file info
-- [ ] OCR completed for active witnesses
-- [ ] OCR failure areas logged
-- [ ] copy-text chosen and justified
-- [ ] apparatus generated from logged decisions
-- [ ] unresolved loci reviewed
-- [ ] witness-page coverage audit passes for the active non-blank witness span
-- [ ] package validation entrypoint rerun successfully
-- [ ] TEI validated
-- [ ] machine-readable package files aligned
-- [ ] required JSON files parse cleanly
+- [x] witness search saturated enough to justify lock
+- [x] accepted witness set locked
+- [x] rejected/deferred witnesses recorded
+- [x] every accepted witness has source page, download path, rights basis, local file info
+- [x] OCR completed for active witnesses
+- [x] OCR failure areas logged
+- [x] copy-text chosen and justified
+- [x] apparatus generated from logged decisions
+- [x] unresolved loci reviewed
+- [x] witness-page coverage audit passes for the active non-blank witness span
+- [x] package validation entrypoint rerun successfully
+- [ ] TEI validated against an external schema
+- [x] machine-readable package files aligned
+- [x] required JSON files parse cleanly
 - [ ] schema validation passes where available
-- [ ] document-registry and manifest file paths resolve
-- [ ] TEI note anchors and note targets resolve
-- [ ] notes, apparatus, decision log, and human log stay in distinct roles
-- [ ] provenance and process docs registered in `documents.json`
+- [x] document-registry and manifest file paths resolve
+- [x] TEI note anchors and note targets resolve
+- [x] notes, apparatus, decision log, and human log stay in distinct roles
+- [x] provenance and process docs registered in `documents.json`
+- [x] poem-first reading text extracted from commentary-heavy working state
+- [x] commentary and reception material demoted to a parallel secondary track
+- [ ] editorial introduction polished beyond first-draft state
 
 ## Current blocker
 
-The project is now in post-normalization, pre-manual-correction state. A full corrected `T1` working text, unresolved-loci review, apparatus build, and final validation pass still remain.
+The project is no longer blocked on text recovery. The remaining work is publication refinement:
+
+- tighten TEI and apparatus polish,
+- validate TEI against an external schema if desired,
+- and revise the editorial introduction draft into a final prefatory statement.
