@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0"
+         xmlns:xml="http://www.w3.org/XML/1998/namespace"
+         ns="http://www.tei-c.org/ns/1.0"
+         datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <ref name="TEI"/>
+  </start>
+
+  <define name="TEI">
+    <element name="TEI">
+      <optional>
+        <attribute name="xml:lang">
+          <text/>
+        </attribute>
+      </optional>
+      <ref name="teiHeader"/>
+      <ref name="text"/>
+    </element>
+  </define>
+
+  <define name="teiHeader">
+    <element name="teiHeader">
+      <ref name="fileDesc"/>
+      <optional>
+        <ref name="encodingDesc"/>
+      </optional>
+      <optional>
+        <ref name="revisionDesc"/>
+      </optional>
+    </element>
+  </define>
+
+  <define name="fileDesc">
+    <element name="fileDesc">
+      <ref name="titleStmt"/>
+      <ref name="publicationStmt"/>
+      <ref name="sourceDesc"/>
+    </element>
+  </define>
+
+  <define name="titleStmt">
+    <element name="titleStmt">
+      <oneOrMore>
+        <choice>
+          <ref name="title"/>
+          <ref name="author"/>
+          <ref name="editor"/>
+          <ref name="respStmt"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="title">
+    <element name="title">
+      <optional>
+        <attribute name="type">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="xml:lang">
+          <text/>
+        </attribute>
+      </optional>
+      <text/>
+    </element>
+  </define>
+
+  <define name="author">
+    <element name="author">
+      <text/>
+    </element>
+  </define>
+
+  <define name="editor">
+    <element name="editor">
+      <optional>
+        <attribute name="role">
+          <text/>
+        </attribute>
+      </optional>
+      <text/>
+    </element>
+  </define>
+
+  <define name="respStmt">
+    <element name="respStmt">
+      <oneOrMore>
+        <choice>
+          <ref name="resp"/>
+          <ref name="name"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="resp">
+    <element name="resp">
+      <text/>
+    </element>
+  </define>
+
+  <define name="name">
+    <element name="name">
+      <text/>
+    </element>
+  </define>
+
+  <define name="publicationStmt">
+    <element name="publicationStmt">
+      <oneOrMore>
+        <choice>
+          <ref name="publisher"/>
+          <ref name="pubPlace"/>
+          <ref name="date"/>
+          <ref name="availability"/>
+          <ref name="p"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="publisher">
+    <element name="publisher">
+      <text/>
+    </element>
+  </define>
+
+  <define name="pubPlace">
+    <element name="pubPlace">
+      <text/>
+    </element>
+  </define>
+
+  <define name="date">
+    <element name="date">
+      <optional>
+        <attribute name="when">
+          <text/>
+        </attribute>
+      </optional>
+      <text/>
+    </element>
+  </define>
+
+  <define name="availability">
+    <element name="availability">
+      <optional>
+        <attribute name="status">
+          <text/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <ref name="licence"/>
+          <ref name="p"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="licence">
+    <element name="licence">
+      <optional>
+        <attribute name="target">
+          <text/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <ref name="p"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="sourceDesc">
+    <element name="sourceDesc">
+      <oneOrMore>
+        <choice>
+          <ref name="listWit"/>
+          <ref name="witness"/>
+          <ref name="bibl"/>
+          <ref name="p"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="listWit">
+    <element name="listWit">
+      <oneOrMore>
+        <ref name="witness"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="witness">
+    <element name="witness">
+      <optional>
+        <attribute name="xml:id">
+          <text/>
+        </attribute>
+      </optional>
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="bibl">
+    <element name="bibl">
+      <optional>
+        <attribute name="type">
+          <text/>
+        </attribute>
+      </optional>
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="encodingDesc">
+    <element name="encodingDesc">
+      <optional>
+        <ref name="projectDesc"/>
+      </optional>
+      <optional>
+        <ref name="editorialDecl"/>
+      </optional>
+    </element>
+  </define>
+
+  <define name="projectDesc">
+    <element name="projectDesc">
+      <oneOrMore>
+        <ref name="p"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="editorialDecl">
+    <element name="editorialDecl">
+      <oneOrMore>
+        <ref name="p"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="revisionDesc">
+    <element name="revisionDesc">
+      <oneOrMore>
+        <ref name="change"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="change">
+    <element name="change">
+      <optional>
+        <attribute name="when">
+          <text/>
+        </attribute>
+      </optional>
+      <text/>
+    </element>
+  </define>
+
+  <define name="text">
+    <element name="text">
+      <optional>
+        <ref name="front"/>
+      </optional>
+      <ref name="body"/>
+      <optional>
+        <ref name="back"/>
+      </optional>
+    </element>
+  </define>
+
+  <define name="front">
+    <element name="front">
+      <oneOrMore>
+        <ref name="div"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="body">
+    <element name="body">
+      <oneOrMore>
+        <ref name="div"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="back">
+    <element name="back">
+      <oneOrMore>
+        <ref name="div"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="div">
+    <element name="div">
+      <optional>
+        <attribute name="type">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="n">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="xml:id">
+          <text/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <ref name="head"/>
+          <ref name="p"/>
+          <ref name="lg"/>
+          <ref name="div"/>
+          <ref name="lb"/>
+          <ref name="note"/>
+          <ref name="listApp"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="head">
+    <element name="head">
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="p">
+    <element name="p">
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="lg">
+    <element name="lg">
+      <optional>
+        <attribute name="type">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="n">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="xml:id">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <ref name="head"/>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <ref name="l"/>
+          <ref name="lg"/>
+          <ref name="note"/>
+          <ref name="app"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="l">
+    <element name="l">
+      <optional>
+        <attribute name="n">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="corresp">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="type">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="xml:id">
+          <text/>
+        </attribute>
+      </optional>
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="lb">
+    <element name="lb">
+      <optional>
+        <attribute name="n">
+          <text/>
+        </attribute>
+      </optional>
+      <empty/>
+    </element>
+  </define>
+
+  <define name="note">
+    <element name="note">
+      <optional>
+        <attribute name="type">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="place">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="target">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="n">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="xml:id">
+          <text/>
+        </attribute>
+      </optional>
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="ref">
+    <element name="ref">
+      <optional>
+        <attribute name="target">
+          <text/>
+        </attribute>
+      </optional>
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="hi">
+    <element name="hi">
+      <optional>
+        <attribute name="rend">
+          <text/>
+        </attribute>
+      </optional>
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="gi">
+    <element name="gi">
+      <text/>
+    </element>
+  </define>
+
+  <define name="att">
+    <element name="att">
+      <text/>
+    </element>
+  </define>
+
+  <define name="label">
+    <element name="label">
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="listApp">
+    <element name="listApp">
+      <optional>
+        <attribute name="type">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="xml:id">
+          <text/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <ref name="app"/>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="app">
+    <element name="app">
+      <optional>
+        <attribute name="type">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="xml:id">
+          <text/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <ref name="lem"/>
+          <ref name="rdg"/>
+          <ref name="note"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+
+  <define name="lem">
+    <element name="lem">
+      <optional>
+        <attribute name="wit">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="resp">
+          <text/>
+        </attribute>
+      </optional>
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="rdg">
+    <element name="rdg">
+      <optional>
+        <attribute name="wit">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="type">
+          <text/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="resp">
+          <text/>
+        </attribute>
+      </optional>
+      <mixed>
+        <zeroOrMore>
+          <ref name="inlineModel"/>
+        </zeroOrMore>
+      </mixed>
+    </element>
+  </define>
+
+  <define name="inlineModel">
+    <choice>
+      <ref name="ref"/>
+      <ref name="hi"/>
+      <ref name="gi"/>
+      <ref name="att"/>
+      <ref name="label"/>
+      <ref name="lb"/>
+      <ref name="note"/>
+      <ref name="app"/>
+    </choice>
+  </define>
+</grammar>

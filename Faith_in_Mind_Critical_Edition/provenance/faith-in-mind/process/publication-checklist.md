@@ -19,7 +19,7 @@ Status: publication candidate, refinement still in progress
 - [ ] TEI validated against an external schema
 - [x] machine-readable package files aligned
 - [x] required JSON files parse cleanly
-- [ ] schema validation passes where available
+- [x] schema validation passes where available
 - [x] document-registry and manifest file paths resolve
 - [x] TEI note anchors and note targets resolve
 - [x] notes, apparatus, decision log, and human log stay in distinct roles

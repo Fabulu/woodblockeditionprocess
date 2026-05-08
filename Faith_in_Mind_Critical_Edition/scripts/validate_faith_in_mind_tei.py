@@ -5,15 +5,25 @@ import re
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+from lxml import etree as LET
+
 
 ROOT = Path(r"C:\woodblocks\Faith_in_Mind_Critical_Edition")
 TEI_PATH = ROOT / "xml-open" / "ce" / "faith-in-mind" / "faith-in-mind.xml"
 APPARATUS_PATH = ROOT / "xml-open" / "ce" / "faith-in-mind" / "apparatus.json"
+SCHEMA_PATH = ROOT / "xml-open" / "schema" / "openzentexts-tei.rng"
 NS = {"tei": "http://www.tei-c.org/ns/1.0"}
 LOCUS_URI_RE = re.compile(r"^urn:locus:T1-p\d{3}(?:\.l\d{2}a?)?$")
 
 
 def main() -> int:
+    schema_doc = LET.parse(str(SCHEMA_PATH))
+    relaxng = LET.RelaxNG(schema_doc)
+    tei_doc = LET.parse(str(TEI_PATH))
+    if not relaxng.validate(tei_doc):
+        error = relaxng.error_log.last_error
+        raise SystemExit(f"Faith in Mind TEI schema validation failed: line {error.line}: {error.message}")
+
     root = ET.parse(TEI_PATH).getroot()
 
     line_nodes = root.findall(".//tei:body//tei:l", NS)
@@ -53,6 +63,7 @@ def main() -> int:
         if locus not in tei_loci:
             raise SystemExit(f"Apparatus locus not represented in TEI text: {locus}")
 
+    print("Faith in Mind TEI schema validation passed.")
     print("Faith in Mind TEI structural QA passed.")
     return 0
 
