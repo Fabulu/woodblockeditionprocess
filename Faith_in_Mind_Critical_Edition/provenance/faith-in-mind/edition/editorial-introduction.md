@@ -27,7 +27,7 @@ The edition follows a small set of explicit rules.
 4. Commentary prose is excluded from the published poem body even where it was useful during recovery.
 5. Omission judgments are preserved where the broader tradition is fuller than the surviving `T1` poem witness.
 
-These principles matter most at a limited number of poem loci. The edition therefore carries a concise apparatus rather than an inflated record of every workflow trace. Among the most important interventions are the supplied loci at `T1-p021.l01a` and `T1-p077.l01a`, the corrected image-led reading at `T1-p031.l01`, the remapped poem locus at `T1-p036.l05`, and the preserved omission judgment before `T1-p076`.
+These principles matter most at a limited number of poem loci. The edition therefore carries a concise apparatus rather than an inflated record of every workflow trace. In this release, that apparatus records seven material poem-level interventions and judgments only. Among the most important are the supplied loci at `T1-p021.l01a` and `T1-p077.l01a`, the corrected image-led reading at `T1-p031.l01`, the remapped poem locus at `T1-p036.l05`, and the preserved omission judgment before `T1-p076`.
 
 The negative decision at the close is especially important. Several comparison witnesses preserve `若不如此必不須守` before `若如是必不須守`, but the corresponding `T1` location does not preserve a clean poem line. The edition therefore records the broader transmitted line as an omission judgment rather than silently restoring it into the base witness.
 

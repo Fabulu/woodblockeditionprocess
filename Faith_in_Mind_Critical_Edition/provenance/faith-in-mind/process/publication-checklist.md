@@ -15,6 +15,7 @@ Status: publication candidate, refinement still in progress
 - [x] unresolved loci reviewed
 - [x] witness-page coverage audit passes for the active non-blank witness span
 - [x] package validation entrypoint rerun successfully
+- [x] local TEI structural QA passes
 - [ ] TEI validated against an external schema
 - [x] machine-readable package files aligned
 - [x] required JSON files parse cleanly

@@ -1,100 +1,106 @@
 {
-  "status": "active",
-  "phase": "poem_first_publication_candidate",
-  "scope": "poem_only",
+  "title": "Faith in Mind selective apparatus",
+  "apparatus_type": "selective_poem_level",
   "base_witness": "T1",
+  "scope_note": "Selective apparatus recording only material poem-level departures from, supplies to, remappings within, or omission judgments about the T1 base witness.",
+  "selection_principle": "Only material poem-level interventions and judgments are recorded; commentary-only recoveries and workflow history are excluded.",
+  "witness_ordering": "Supporting witnesses are listed with T sigla first in ascending numerical order, followed by A sigla in ascending numerical order.",
   "entries": [
     {
       "id": "app-001",
       "locus": "T1-p021.l01a",
-      "kind": "supplied_line",
+      "kind": "supplied",
       "edited_reading": "一種不通兩處失功",
+      "t1_status": "not_separately_preserved",
       "supporting_witnesses": [
-        "T4",
-        "T5",
         "T2",
-        "T3"
+        "T3",
+        "T4",
+        "T5"
       ],
-      "note": "Supplied comparison-supported locus inserted between T1-p021.l01 and T1-p022.l01."
+      "note": "Line supplied from comparison witnesses; not separately preserved between T1-p021.l01 and T1-p022.l01 in T1."
     },
     {
       "id": "app-002",
       "locus": "T1-p031.l01",
-      "kind": "image_led_correction",
+      "kind": "corrected",
       "edited_reading": "縱有是非紛然失心",
       "rejected_reading": "纔有是非紛然失心",
       "supporting_witnesses": [
         "T1"
       ],
-      "note": "Opening graph corrected by direct image inspection with convergent OCR support."
+      "note": "Opening graph corrected from T1 image evidence."
     },
     {
       "id": "app-003",
       "locus": "T1-p036.l05",
-      "kind": "remapped_poem_locus",
+      "kind": "remapped",
       "edited_reading": "一空同兩齊含萬象",
-      "rejected_reading": "T1-p036.l01 = 一空同兩齊含萬象",
+      "rejected_locus": "T1-p036.l01",
       "supporting_witnesses": [
         "T1",
-        "T4",
         "T3",
+        "T4",
         "A1"
       ],
-      "note": "The poem line survives locally at l05; the earlier l01 placement was a prose-column misassignment."
+      "note": "This poem line belongs at T1-p036.l05; an earlier placement at T1-p036.l01 reflected prose-column mislocation."
     },
     {
       "id": "app-004",
       "locus": "T1-p047.l01",
-      "kind": "comparison_supported_correction",
+      "kind": "corrected",
       "edited_reading": "法無異法妄自愛著",
+      "rejected_reading": "唯人自闹禅和子你但见几见垩见女是",
       "supporting_witnesses": [
+        "T2",
         "T4",
         "T5",
-        "T2",
         "A1"
       ],
-      "note": "Comparison-supported repair accepted into the T1 poem spine."
+      "note": "Reading adopted from comparison-supported correction."
     },
     {
       "id": "app-005",
       "locus": "T1-p065.l01",
-      "kind": "comparison_supported_correction",
+      "kind": "corrected",
       "edited_reading": "非思量處識情難測",
+      "rejected_reading": "元衰云穗客全教现成公案高伍普鹰日用",
       "supporting_witnesses": [
+        "T2",
         "T4",
         "T5",
-        "T2",
         "A1"
       ],
-      "note": "Comparison-supported repair accepted into the T1 poem spine."
+      "note": "Reading adopted from comparison-supported correction."
     },
     {
       "id": "app-006",
       "locus": "T1-p075",
-      "kind": "omission_judgment",
-      "edited_reading": "若不如此必不須守",
-      "status": "omitted_in_T1",
+      "kind": "omitted_in_base",
+      "comparison_reading": "若不如此必不須守",
+      "t1_status": "not_visibly_preserved",
       "supporting_witnesses": [
-        "T4",
         "T3",
+        "T4",
         "A1",
         "A3"
       ],
-      "note": "The broader tradition preserves this line before T1-p076.l01, but the corresponding T1 locus is commentary material rather than a secure poem line."
+      "note": "Line preserved in comparison witnesses but not restored to the T1 reading text, since the corresponding T1 locus does not visibly preserve a secure poem line."
     },
     {
       "id": "app-007",
       "locus": "T1-p077.l01a",
-      "kind": "supplied_closing_locus",
+      "kind": "supplied",
       "edited_reading": "但能如是何慮不畢",
+      "t1_status": "not_separately_preserved",
       "supporting_witnesses": [
-        "T4",
-        "T3",
-        "A1",
         "T2",
-        "T5"
+        "T3",
+        "T4",
+        "T5",
+        "A1"
       ],
-      "note": "Supplied closing locus inserted after T1-p077.l01."
+      "note": "Closing line supplied from comparison witnesses after T1-p077.l01; not separately preserved in T1."
     }
   ]
 }

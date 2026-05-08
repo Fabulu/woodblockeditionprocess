@@ -16,7 +16,7 @@ This edition publishes a poem-first critical reading text of the `信心銘`.
 
 1. Do not silently normalize `T1` to the broader tradition.
 2. Accept a corrected reading only where direct image evidence or logged comparison evidence already supports it.
-3. Record supplied or remapped loci explicitly in the apparatus.
+3. Record only material poem-level departures, supplies, remappings, and omission judgments explicitly in the apparatus.
 4. Keep commentary prose out of the published poem text.
 5. Preserve omission judgments where the broader tradition is fuller than the surviving `T1` witness.
 
