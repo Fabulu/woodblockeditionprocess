@@ -25,12 +25,11 @@ Status: publication candidate, refinement still in progress
 - [x] provenance and process docs registered in `documents.json`
 - [x] poem-first reading text extracted from commentary-heavy working state
 - [x] commentary and reception material demoted to a parallel secondary track
-- [ ] editorial introduction polished beyond first-draft state
+- [x] editorial introduction polished beyond first-draft state
 
 ## Current blocker
 
-The project is no longer blocked on text recovery. The remaining work is publication refinement:
+The project is no longer blocked on text recovery. The remaining work is external publication polish:
 
-- tighten TEI and apparatus polish,
 - validate TEI against an external schema if desired,
-- and revise the editorial introduction draft into a final prefatory statement.
+- and run additional schema validation where desired.

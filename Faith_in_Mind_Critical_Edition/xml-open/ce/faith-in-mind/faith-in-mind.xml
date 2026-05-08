@@ -8,7 +8,7 @@
         <author>Sengcan</author>
       </titleStmt>
       <publicationStmt>
-        <p>Poem-first critical edition publication candidate assembled from the locked Faith in Mind witness package on 2026-05-07 and refined on 2026-05-08.</p>
+        <p>Poem-first critical edition assembled from the locked Faith in Mind witness package on 2026-05-07 and refined for publication on 2026-05-08.</p>
       </publicationStmt>
       <sourceDesc>
         <listWit>
@@ -33,7 +33,7 @@
     </encodingDesc>
     <revisionDesc>
       <change when="2026-05-07">First populated poem-first TEI publication candidate created from the stabilized T1 spine and logged comparison decisions.</change>
-      <change when="2026-05-08">Header, witness summary, and editorial framing refined; package aligned with the new editorial introduction draft and publication checklist.</change>
+      <change when="2026-05-08">Header, witness summary, and editorial framing refined; package aligned with the final editorial introduction and publication checklist.</change>
     </revisionDesc>
   </teiHeader>
   <text>
