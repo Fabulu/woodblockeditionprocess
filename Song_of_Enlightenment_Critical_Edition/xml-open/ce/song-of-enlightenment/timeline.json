@@ -16,6 +16,12 @@
       "date": "2026-05-09",
       "type": "witness_hunt_started",
       "summary": "Recorded the inherited local anthology witness, scoped additional exact witness leads, and initialized all required process surfaces."
+    },
+    {
+      "event_id": "YJG-003",
+      "date": "2026-05-09",
+      "type": "witness_hunt_expanded",
+      "summary": "Confirmed a standalone 1694 NDL witness, a broader Commons exact-witness family, a second anthology-style exact lead, and early commentary controls."
     }
   ]
 }

@@ -14,3 +14,8 @@
 
 - Decision: keep commentary and translation witnesses secondary during startup.
 - Reason: the first requirement is an exact witness family map for the poem itself. Commentary and reception witnesses are useful controls but should not drive the initial copy-text decision.
+
+## D-004 `2026-05-09`
+
+- Decision: continue widening the exact witness family before copy-text lock instead of treating the first standalone NDL witness as sufficient.
+- Reason: `永嘉證道歌` appears to have a healthier exact witness ecology than the first local survey suggested, including multiple Commons-hosted exact witnesses. This justifies a wider acquisition pass before OCR begins.

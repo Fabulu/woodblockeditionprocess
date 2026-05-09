@@ -13,3 +13,8 @@
 - Confirmed the repo already holds one exact local witness through the inherited `四部録` scan and local source documentation.
 - Confirmed additional witness leads from web and scout research, including a standalone NDL witness and later commentary or reception branches.
 - Initialized the package state, witness register, acquisition metadata, and machine-readable process surfaces before any OCR or editing work.
+- Expanded the witness hunt immediately after package opening instead of freezing at one exact witness lead.
+- Confirmed a standalone NDL exact witness page for `永嘉眞覺大師證道歌1卷` (`1694`, `NDL2537802`).
+- Confirmed a Commons category with multiple additional exact `永嘉真覺大師證道歌一卷` witnesses from Wenzhou Library backup uploads.
+- Confirmed a second anthology-style exact lead in `永嘉詩人祠堂叢刻`.
+- Confirmed a dated NLC commentary witness `永嘉真覺大師證道歌注` (`1504`) and a CBETA commentary branch `證道歌頌`.

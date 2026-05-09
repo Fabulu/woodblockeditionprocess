@@ -4,6 +4,7 @@
 - [x] process and witness logs initialized
 - [x] initial local witness documented
 - [x] initial web witness hunt logged
+- [x] expanded exact-witness hunt logged
 - [x] process.json created
 - [x] timeline.json created
 - [x] validate_package.py created

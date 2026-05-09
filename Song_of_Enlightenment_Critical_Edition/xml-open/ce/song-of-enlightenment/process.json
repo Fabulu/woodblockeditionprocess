@@ -7,10 +7,10 @@
     "scope_mode": "poem_first"
   },
   "current_phase": "witness-hunt-and-edition-startup",
-  "current_slice": "witness_hunt_slice_initial_local_and_web_scout",
-  "last_completed_slice": "package_scaffold_and_initial_witness_hunt_setup",
-  "next_required_action": "Acquire the strongest exact standalone witnesses, classify witness families, and decide the first copy-text family before OCR begins.",
-  "next_required_slice": "witness_hunt_slice_acquire_exact_witnesses_and_lock_family_map",
+  "current_slice": "witness_hunt_slice_expand_exact_family_after_startup",
+  "last_completed_slice": "witness_hunt_slice_expand_exact_and_secondary_witness_docket",
+  "next_required_action": "Ingest the strongest standalone exact witnesses, keep widening the exact witness family, then classify witness families before the first copy-text lock.",
+  "next_required_slice": "witness_hunt_slice_ingest_exact_witnesses_and_build_family_map",
   "last_text_changed_event": null,
   "base_witness": {
     "status": "unlocked",
@@ -19,7 +19,7 @@
   "witness_families": [
     {
       "family_id": "exact-poem",
-      "status": "open"
+      "status": "expanding"
     },
     {
       "family_id": "commentary-reception",

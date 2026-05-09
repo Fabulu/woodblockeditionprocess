@@ -9,3 +9,11 @@ This package starts from a strong poem-first assumption:
 The initial task is not OCR or editing. It is to build a trustworthy witness family map for `永嘉證道歌`.
 
 The first acquisition priority is the strongest standalone exact witness beyond the inherited `四部録` anthology copy.
+
+Do not stop after one acquisition.
+
+For this text, the startup rule is:
+
+1. pin the strongest standalone witness
+2. immediately widen the exact witness family
+3. only then stabilize the family map and consider copy-text lock
