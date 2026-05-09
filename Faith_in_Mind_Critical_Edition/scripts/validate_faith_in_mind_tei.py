@@ -11,7 +11,7 @@ from lxml import etree as LET
 ROOT = Path(r"C:\woodblocks\Faith_in_Mind_Critical_Edition")
 TEI_PATH = ROOT / "xml-open" / "ce" / "faith-in-mind" / "faith-in-mind.xml"
 APPARATUS_PATH = ROOT / "xml-open" / "ce" / "faith-in-mind" / "apparatus.json"
-SCHEMA_PATH = ROOT / "xml-open" / "schema" / "openzentexts-tei.rng"
+SCHEMA_PATH = ROOT.parent / "schemas" / "openzentexts-tei.rng"
 NS = {"tei": "http://www.tei-c.org/ns/1.0"}
 LOCUS_URI_RE = re.compile(r"^urn:locus:T1-p\d{3}(?:\.l\d{2}a?)?$")
 

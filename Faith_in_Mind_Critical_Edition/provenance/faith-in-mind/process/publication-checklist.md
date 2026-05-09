@@ -13,6 +13,7 @@ Status: publication candidate, refinement still in progress
 - [x] copy-text chosen and justified
 - [x] apparatus generated from logged decisions
 - [x] unresolved loci reviewed
+- [x] translation diff coverage kept in sync with accepted Chinese text changes
 - [x] witness-page coverage audit passes for the active non-blank witness span
 - [x] package validation entrypoint rerun successfully
 - [x] local TEI structural QA passes
