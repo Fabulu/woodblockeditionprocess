@@ -42,6 +42,27 @@
 - Immediate use:
   - mine for additional exact witnesses before OCR begins
 
+#### Current file-level child leads under `YJG-W4`
+
+- `YJG-W4A`
+  - `WZLib-DB-433410 永嘉真覺大師證道歌一卷.pdf`
+  - single-volume candidate
+- `YJG-W4F`
+  - `WZLib-DB-433359 永嘉真覺大師證道歌一卷.pdf`
+  - single-volume candidate
+- `YJG-W4B`
+  - `WZLib-DB-433457 永嘉真覺大師證道歌一卷.pdf`
+  - single-volume candidate
+- `YJG-W4C`
+  - `WZLib-DB-433459 永嘉真覺大師證道歌一卷.pdf`
+  - short single-volume candidate
+- `YJG-W4D`
+  - `WZLib-DB-433430` + `WZLib-DB-433429`
+  - split two-volume manifestation
+- `YJG-W4E`
+  - `WZLib-DB-433358` + `WZLib-DB-433360`
+  - split two-volume manifestation
+
 - Witness ID: `YJG-W5`
 - Title: `永嘉詩人祠堂叢刻` first volume containing `永嘉證道歌一卷`
 - Status: anthology-style exact lead
@@ -49,6 +70,14 @@
   - listed in the Wenzhou Library backup file list
 - Lead page:
   - `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/WZLib-DB/01`
+
+- Witness ID: `YJG-W6`
+- Title: `禪宗永嘉集一卷附證道歌`
+- Status: near-exact anthology lead
+- Lead page:
+  - `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/WZLib-DB/01`
+- Note:
+  - treat as a distinct anthology / appended-text witness until the family map proves otherwise
 
 ### Digital control
 
@@ -84,3 +113,17 @@
 - Status: CBETA commentary / response control
 - Direct page:
   - `https://tripitaka.cbeta.org/ko/X65n1291_001?order=title&sort=asc`
+
+### Second-wave commentary-family leads
+
+The broader tradition survey surfaced additional commentary or sequel branches worth later acquisition work:
+
+- `舒州梵天琪和尚註證道歌`
+- `永嘉真覺禪師證道歌`
+- `南明泉和尚頌證道歌事實`
+- `靈巖妙空和尚註證道歌`
+- `永嘉真覺大師證道歌`
+
+Current status:
+- title-family leads only
+- not yet converted into package witness IDs because the current pass focused first on exact poem witnesses

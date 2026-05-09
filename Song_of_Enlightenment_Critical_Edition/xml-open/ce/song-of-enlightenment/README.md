@@ -12,6 +12,7 @@ Current state:
 - package scaffold opened
 - inherited local anthology witness recorded
 - additional web witness leads identified and expanded
+- file-level witness folders opened for current leads
 - copy-text not yet selected
 
 Use `process.json` and `timeline.json` for machine-readable resumability.

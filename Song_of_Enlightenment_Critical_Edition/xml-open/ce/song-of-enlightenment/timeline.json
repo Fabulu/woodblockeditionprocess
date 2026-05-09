@@ -22,6 +22,18 @@
       "date": "2026-05-09",
       "type": "witness_hunt_expanded",
       "summary": "Confirmed a standalone 1694 NDL witness, a broader Commons exact-witness family, a second anthology-style exact lead, and early commentary controls."
+    },
+    {
+      "event_id": "YJG-004",
+      "date": "2026-05-09",
+      "type": "witness_objects_opened",
+      "summary": "Converted the current witness leads into dedicated witness folders and split the Wenzhou exact family into file-level child witnesses."
+    },
+    {
+      "event_id": "YJG-005",
+      "date": "2026-05-09",
+      "type": "witness_hunt_extended",
+      "summary": "Added the remaining surfaced Wenzhou exact file and logged a second-wave commentary-family docket for future acquisition."
     }
   ]
 }

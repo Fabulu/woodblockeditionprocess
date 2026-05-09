@@ -9,6 +9,7 @@
 | `YJG-W3` | `held` | `digital canonical control` | `modern CBETA encoding` | `T48n2014 永嘉證道歌` | canonical digital control only | `https://tripitaka.cbeta.org/T48n2014` | digital control, not an image witness |
 | `YJG-W4` | `lead` | `exact witness family` | `undated in startup survey` | `永嘉真覺大師證道歌` Commons category family | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Category:%E6%B0%B8%E5%98%89%E7%9C%9F%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C` | category currently lists eight exact-file candidates, likely a mixture of distinct prints and multipart manifestations |
 | `YJG-W5` | `lead` | `exact anthology witness` | `library-backup lead` | `永嘉詩人祠堂叢刻（第一冊永嘉集一卷；永嘉證道歌一卷；儒志編一卷）` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/WZLib-DB/01` | anthology-style exact lead distinct from `四部録` |
+| `YJG-W6` | `lead` | `near-exact anthology witness` | `library-backup lead` | `禪宗永嘉集一卷附證道歌` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/WZLib-DB/01` | near-exact anthology lead bundling `永嘉集` and appended `證道歌` |
 
 ## Secondary related witnesses
 

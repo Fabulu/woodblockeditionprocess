@@ -19,3 +19,8 @@
 
 - Decision: continue widening the exact witness family before copy-text lock instead of treating the first standalone NDL witness as sufficient.
 - Reason: `永嘉證道歌` appears to have a healthier exact witness ecology than the first local survey suggested, including multiple Commons-hosted exact witnesses. This justifies a wider acquisition pass before OCR begins.
+
+## D-005 `2026-05-09`
+
+- Decision: treat the Wenzhou Commons category as a structured exact-witness family with file-level child witnesses rather than one vague lead.
+- Reason: the category already exposes enough file-level differentiation to support early manifestation analysis before download and OCR.

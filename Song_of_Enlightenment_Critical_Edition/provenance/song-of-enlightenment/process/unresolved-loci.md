@@ -8,3 +8,5 @@ The current unresolved questions are pre-transcription startup questions:
 2. Which later commentary witnesses materially preserve the poem text rather than only paraphrasing or quoting it?
 3. Which witness families are exact, near-exact, commentary, anthology, or translation-only?
 4. Which of the newly found Commons exact witnesses are independent and which are duplicate or multi-volume manifestations of the same underlying print?
+5. Is `禪宗永嘉集一卷附證道歌` close enough in transmission behavior to treat as an exact secondary witness or only as a related anthology control?
+6. Which commentary-family titles from the broader `證道歌` tradition have image witnesses that are practical to acquire next?
