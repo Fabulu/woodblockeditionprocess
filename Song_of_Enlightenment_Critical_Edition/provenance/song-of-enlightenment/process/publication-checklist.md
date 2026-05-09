@@ -9,12 +9,15 @@
 - [x] second-wave exact and commentary leads logged
 - [x] five-agent exact-witness expansion logged
 - [x] second five-agent witness expansion logged
+- [x] first-tier ranking and duplicate-risk pruning logged
+- [x] targeted five-agent scan-gap hunt logged
 - [x] process.json created
 - [x] timeline.json created
 - [x] validate_package.py created
 - [x] local package validation passes
 - [ ] exact witness acquisition complete
 - [ ] witness family map locked
+- [ ] first-tier exact witness downloads ingested
 - [ ] OCR-first transcription started
 - [ ] comparison and correction started
 - [ ] translation sync started

@@ -14,7 +14,7 @@
 - Confirmed additional witness leads from web and scout research, including a standalone NDL witness and later commentary or reception branches.
 - Initialized the package state, witness register, acquisition metadata, and machine-readable process surfaces before any OCR or editing work.
 - Expanded the witness hunt immediately after package opening instead of freezing at one exact witness lead.
-- Confirmed a standalone NDL exact witness page for `永嘉眞覺大師證道歌1卷` (`1694`, `NDL2537802`).
+- Confirmed a standalone NDL exact witness page for `永嘉真覺大師證道歌1卷` (`1694`, `NDL2537802`).
 - Confirmed a Commons category with multiple additional exact `永嘉真覺大師證道歌一卷` witnesses from Wenzhou Library backup uploads.
 - Confirmed a second anthology-style exact lead in `永嘉詩人祠堂叢刻`.
 - Confirmed a dated NLC commentary witness `永嘉真覺大師證道歌注` (`1504`) and additional non-image commentary-family leads.
@@ -26,12 +26,12 @@
 - Logged a second-wave commentary docket from the broader `證道歌` tradition so future witness hunting can continue beyond the first file pages.
 - Found an additional exact Wenzhou file `WZLib-DB-433439 證道歌一卷.pdf` outside the narrower category slice that first seeded the Wenzhou family.
 - Logged a `1935` DCCB bibliographic exact lead describing a photographic reproduction of a Yuan carved woodblock edition.
-- Logged an `1896` CiNii commentary print lead `永嘉眞覺大師證道歌 1巻附音釋`.
+- Logged an `1896` CiNii commentary print lead `永嘉真覺大師證道歌 1巻附音釋`.
 - Ran a further rights-safe witness search limited to Commons, NDL, and Japanese library mirrors.
 - Confirmed a Waseda digital mirror for `五味禅` containing `永嘉真覺大師證道歌`.
 - Confirmed from the Commons Wenzhou upload log that `WZLib-DB-433455 永嘉真覺禪師證道歌一卷.pdf` was marked as a duplicate of `WUL-ha05 00539 五味禅 1.pdf`.
 - Removed the previously logged prohibited canonical web control from the package witness surfaces.
-- Ran a five-agent witness wave with strict no-CBETA instructions.
+- Ran a five-agent witness wave with strict prohibited-source exclusions in force.
 - Confirmed a strong Korean exact family:
   - `1474` exact witness
   - `1647` exact witness
@@ -43,7 +43,21 @@
   - Kyoto `四部録` `1631`
   - Waseda `四部録`
 - Confirmed an undated Japanese manuscript exact witness.
-- Ran a second five-agent wave with the same no-CBETA and scan-first constraints.
+- Ran a second five-agent wave with the same prohibited-source exclusions and scan-first constraints.
 - Added three more Korean exact-title scan leads from the Korea backup lists.
 - Added a derivative anthology branch `四部録抄` with a direct NDL scan.
 - Added an older Japanese commentary-print lead `証道歌註` (`1641`) from NDL Search.
+- Collapsed the current witness field into a first ranking pass before OCR.
+- Marked `YJG-W2`, `YJG-W8`, `YJG-W9`, `YJG-W4G`, and `YJG-W12` as the initial first-tier independent exact targets.
+- Demoted `YJG-W4D`, `YJG-W4E`, `YJG-A1`, `YJG-A5`, `YJG-W13`, `YJG-W14`, and `YJG-W15` to duplicate-risk, derivative, or backup-only status pending stronger independence evidence.
+- Reframed the next hunt phase as targeted scan-gap filling rather than undifferentiated witness accumulation.
+- Ran a targeted five-agent scan-gap hunt after ranking.
+- Confirmed that `YJG-W4B` is effectively edition-coincident with `YJG-W2` rather than an independent gain.
+- Confirmed that `YJG-W4D` and `YJG-W4E` are genuine multipart manifestations with distinct dated edition statements, not broken duplicates.
+- Confirmed that `YJG-W4C`, `YJG-W4F`, and `YJG-W4G` materially improve exact-family independence coverage.
+- Confirmed that `YJG-W14` and `YJG-W15` are most likely calligraphic Zhao-Mengfu manifestations rather than fresh textual witnesses.
+- Confirmed that `YJG-A1` is a real anthology-family branch, `YJG-A2` is the strongest early `四部録` control, `YJG-A3` is useful but overlapping, and `YJG-A5` is derivative.
+- Confirmed that `YJG-W7` remains bibliographic only with no open scan yet surfaced.
+- Added two further image-backed exact Japanese standalone witnesses:
+  - `YJG-W16` Toyo
+  - `YJG-W17` Berkeley

@@ -33,9 +33,19 @@
 ## D-007 `2026-05-09`
 
 - Decision: promote the Korean exact family and the newly surfaced Japanese anthology/manuscript leads into first-class witness objects.
-- Reason: the five-agent witness wave shows that the text’s exact transmission is broader than the original NDL + Wenzhou picture and should be modeled before copy-text lock.
+- Reason: the five-agent witness wave shows that the text's exact transmission is broader than the original NDL + Wenzhou picture and should be modeled before copy-text lock.
 
 ## D-008 `2026-05-09`
 
 - Decision: track `四部録抄` and the newly surfaced Korean exact-title leads as separate branches rather than collapsing them prematurely into the earlier anthology and Korean clusters.
 - Reason: the second five-agent wave surfaced enough branch-specific evidence that premature collapsing would erase potentially important witness-family distinctions.
+
+## D-009 `2026-05-09`
+
+- Decision: rank the witness field now and treat only a small first-tier exact set as the immediate acquisition/OCR queue.
+- Reason: the package has moved past the stage where more undifferentiated witness names are helpful. A ranked queue preserves breadth while keeping OCR and later editorial work tied to the strongest independent scan-backed exact families.
+
+## D-010 `2026-05-09`
+
+- Decision: revise the first-tier queue after the targeted scan-gap hunt instead of keeping the earlier placeholder ranking fixed.
+- Reason: the targeted five-agent pass showed that some previously demoted Wenzhou witnesses are genuinely independent while one previously promoted Wenzhou file collapses into the NDL `1694` line. It also surfaced two additional image-backed exact Japanese standalones that deserve witness-object status.

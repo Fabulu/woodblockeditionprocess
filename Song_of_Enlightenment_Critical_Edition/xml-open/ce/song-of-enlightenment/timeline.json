@@ -58,6 +58,18 @@
       "date": "2026-05-09",
       "type": "witness_hunt_extended",
       "summary": "A second five-agent witness wave added further Korean exact-title leads, a derivative anthology branch, and an older Japanese commentary lead."
+    },
+    {
+      "event_id": "YJG-010",
+      "date": "2026-05-09",
+      "type": "witness_hunt_ranked",
+      "summary": "Ranked the independent exact witness families, established a first-tier acquisition queue, and demoted duplicate-risk and derivative branches before the next targeted scan hunt."
+    },
+    {
+      "event_id": "YJG-011",
+      "date": "2026-05-09",
+      "type": "witness_hunt_targeted",
+      "summary": "A targeted five-agent scan-gap hunt revised the first-tier queue, confirmed new Japanese image-backed exact standalones, and clarified which Wenzhou and Korean branches are truly independent."
     }
   ]
 }

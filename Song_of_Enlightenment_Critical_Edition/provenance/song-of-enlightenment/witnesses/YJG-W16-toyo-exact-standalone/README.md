@@ -1,0 +1,20 @@
+# YJG-W16
+
+- Witness ID: `YJG-W16`
+- Work: `永嘉證道歌`
+- Type: `exact standalone image witness`
+- Date: not surfaced on the exposed list page
+- Holding / network:
+  - Toyo University / NIJL image network
+- Source page:
+  - `https://kokusho.nijl.ac.jp/page/list-toyodaitetsugakudo.html`
+- Surfaced row metadata:
+  - `BID 300094276`
+  - call no. `け7左33`
+  - image / digital id `DIG-TOYU-73731`
+- Current status:
+  - ranked first-tier exact witness
+  - not yet ingested locally
+- Notes:
+  - image-backed standalone exact holding outside the current NDL/Kyoto/Waseda cluster
+  - candidate for the first OCR tranche once direct image capture or package-local ingestion is arranged

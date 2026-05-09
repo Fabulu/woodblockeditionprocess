@@ -7,10 +7,10 @@
     "scope_mode": "poem_first"
   },
   "current_phase": "witness-hunt-and-edition-startup",
-  "current_slice": "witness_hunt_slice_separate_exact_families_after_five_agent_wave",
-  "last_completed_slice": "witness_hunt_slice_five_agent_expansion_korea_japan_and_manuscript_leads",
-  "next_required_action": "Differentiate the Wenzhou exact manifestations, separate the Korean and Japanese independent families, and rank the independent exact families before choosing the first download / OCR targets.",
-  "next_required_slice": "witness_hunt_slice_rank_independent_exact_families_before_download",
+  "current_slice": "witness_hunt_slice_ingest_first_tier_exact_scans_for_ocr",
+  "last_completed_slice": "witness_hunt_slice_targeted_scan_hunt_after_family_ranking",
+  "next_required_action": "Ingest the first-tier scan-backed exact witnesses into the package, keep the bibliographic-only and commentary-bearing lines secondary, and continue witness hunting only where a family or region gap still remains after first-tier acquisition.",
+  "next_required_slice": "witness_hunt_slice_ingest_first_tier_exact_scans_for_ocr",
   "last_text_changed_event": null,
   "base_witness": {
     "status": "unlocked",
@@ -19,7 +19,7 @@
   "witness_families": [
     {
       "family_id": "exact-poem",
-      "status": "expanding-differentiating-and-ready-for-ranking"
+      "status": "ranked-and-ready-for-acquisition"
     },
     {
       "family_id": "commentary-reception",
