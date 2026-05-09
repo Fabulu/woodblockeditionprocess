@@ -6,6 +6,7 @@
 - [x] initial web witness hunt logged
 - [x] expanded exact-witness hunt logged
 - [x] dedicated witness folders opened for current exact and commentary leads
+- [x] second-wave exact and commentary leads logged
 - [x] process.json created
 - [x] timeline.json created
 - [x] validate_package.py created

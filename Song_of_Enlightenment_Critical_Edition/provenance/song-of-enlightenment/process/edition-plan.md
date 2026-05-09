@@ -2,7 +2,7 @@
 
 ## Scope
 
-Produce a poem-first OpenZen critical edition of `永嘉證道歌` (`T48n2014`) with:
+Produce a poem-first OpenZen critical edition of `永嘉證道歌` with:
 
 - witness provenance
 - scan and source-rights tracking

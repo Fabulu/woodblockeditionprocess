@@ -17,5 +17,6 @@ For this text, the startup rule is:
 1. pin the strongest standalone witness
 2. immediately widen the exact witness family
 3. split category-level witness families into file-level witness objects
-4. log second-wave commentary-family leads while the hunt is still warm
-5. only then stabilize the family map and consider copy-text lock
+4. keep watching for exact witnesses outside the first category clusters
+5. log second-wave commentary-family leads while the hunt is still warm
+6. only then stabilize the family map and consider copy-text lock

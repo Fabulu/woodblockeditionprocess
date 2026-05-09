@@ -5,7 +5,7 @@
 - Phase: `witness-hunt-and-edition-startup`
 - Current slice: `witness_hunt_slice_initial_local_and_web_scout`
 - Last completed slice: `witness_hunt_slice_expand_exact_and_secondary_witness_docket`
-- Next required action: continue acquiring and differentiating exact witness manifestations, especially within the Wenzhou exact family, before locking the first copy-text family
+- Next required action: continue acquiring and differentiating exact witness manifestations, especially within and around the Wenzhou exact family, while tracking additional exact bibliographic leads beyond Commons before locking the first copy-text family
 - Next required slice: `witness_hunt_slice_differentiate_exact_manifestations_and_keep_expanding`
 - Copy-text status: not yet selected
 - Translation status: not yet started
@@ -18,10 +18,12 @@
 - Web and scout research now identify:
   - one strong standalone NDL exact witness
   - a Commons category containing multiple additional exact witnesses
+  - an additional exact Wenzhou file outside the first category slice
   - a second anthology-like exact lead
   - a `永嘉集附證道歌` near-exact anthology lead
+  - a `1935` bibliographic exact lead outside the immediate Commons image cluster
   - a dated NLC commentary witness
-  - CBETA commentary and reception controls
+  - CiNii and reception controls
 
 ## Immediate priorities
 

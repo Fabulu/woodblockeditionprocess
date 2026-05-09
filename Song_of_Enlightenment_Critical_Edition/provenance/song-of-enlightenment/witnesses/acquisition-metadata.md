@@ -62,6 +62,9 @@
 - `YJG-W4E`
   - `WZLib-DB-433358` + `WZLib-DB-433360`
   - split two-volume manifestation
+- `YJG-W4G`
+  - `WZLib-DB-433439 證道歌一卷.pdf`
+  - direct exact-file lead outside the narrower category slice
 
 - Witness ID: `YJG-W5`
 - Title: `永嘉詩人祠堂叢刻` first volume containing `永嘉證道歌一卷`
@@ -79,14 +82,24 @@
 - Note:
   - treat as a distinct anthology / appended-text witness until the family map proves otherwise
 
+- Witness ID: `YJG-W7`
+- Title: `永嘉真覺大師證道歌`
+- Date: `1935`
+- Status: bibliographic exact lead
+- Source:
+  - `https://crta.info/wiki/%E6%B0%B8%E5%98%89%E7%9C%9F%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C_-_DCCB0339`
+- Note:
+  - photographic reproduction of a Yuan carved woodblock edition
+  - useful as an exact-family extension even if no direct scan has yet been pinned here
+
 ### Digital control
 
 - Witness ID: `YJG-W3`
-- Title: `T48n2014 永嘉證道歌`
-- URL:
-  - `https://tripitaka.cbeta.org/T48n2014`
+- Title: `Taishō canonical row for 永嘉證道歌`
+- Reference:
+  - `T48n2014`
 - Role:
-  - canonical digital control for witness comparison and locus planning
+  - catalog control for witness comparison and locus planning
 
 ### Secondary related witness
 
@@ -108,11 +121,14 @@
 - Note:
   - confirmed directly in startup survey; treat as commentary control rather than exact base witness
 
-- Witness ID: `YJG-C3`
-- Title: `證道歌頌`
-- Status: CBETA commentary / response control
-- Direct page:
-  - `https://tripitaka.cbeta.org/ko/X65n1291_001?order=title&sort=asc`
+- Witness ID: `YJG-C5`
+- Title: `永嘉眞覺大師證道歌 1巻附音釋`
+- Date: `1896`
+- Status: commentary bibliographic lead
+- Source:
+  - `https://cir.nii.ac.jp/crid/1130000795795114752`
+- Note:
+  - late commentary print; useful for reception mapping
 
 ### Second-wave commentary-family leads
 

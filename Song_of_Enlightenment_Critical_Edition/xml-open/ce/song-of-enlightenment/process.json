@@ -9,7 +9,7 @@
   "current_phase": "witness-hunt-and-edition-startup",
   "current_slice": "witness_hunt_slice_expand_exact_family_after_startup",
   "last_completed_slice": "witness_hunt_slice_expand_exact_and_secondary_witness_docket",
-  "next_required_action": "Differentiate exact witness manifestations inside the Wenzhou family, ingest the strongest standalone exact witnesses, then classify witness families before the first copy-text lock.",
+  "next_required_action": "Differentiate exact witness manifestations inside and adjacent to the Wenzhou family, keep searching for more exact witnesses beyond the current clusters, then classify witness families before the first copy-text lock.",
   "next_required_slice": "witness_hunt_slice_differentiate_exact_manifestations_and_ingest_priority_witnesses",
   "last_text_changed_event": null,
   "base_witness": {
@@ -19,7 +19,7 @@
   "witness_families": [
     {
       "family_id": "exact-poem",
-      "status": "expanding-and-differentiating"
+      "status": "expanding-differentiating-and-searching"
     },
     {
       "family_id": "commentary-reception",
