@@ -20,4 +20,5 @@ For this text, the startup rule is:
 4. keep watching for exact witnesses outside the first category clusters
 5. log second-wave commentary-family leads while the hunt is still warm
 6. widen into Korean, anthology, and manuscript families before copy-text lock
-7. only then stabilize the family map and consider copy-text lock
+7. keep derivative anthology branches separate from the main anthology line
+8. only then stabilize the family map and consider copy-text lock

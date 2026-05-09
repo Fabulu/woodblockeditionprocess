@@ -8,6 +8,7 @@
 - [x] dedicated witness folders opened for current exact and commentary leads
 - [x] second-wave exact and commentary leads logged
 - [x] five-agent exact-witness expansion logged
+- [x] second five-agent witness expansion logged
 - [x] process.json created
 - [x] timeline.json created
 - [x] validate_package.py created

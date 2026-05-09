@@ -43,3 +43,7 @@
   - Kyoto `四部録` `1631`
   - Waseda `四部録`
 - Confirmed an undated Japanese manuscript exact witness.
+- Ran a second five-agent wave with the same no-CBETA and scan-first constraints.
+- Added three more Korean exact-title scan leads from the Korea backup lists.
+- Added a derivative anthology branch `四部録抄` with a direct NDL scan.
+- Added an older Japanese commentary-print lead `証道歌註` (`1641`) from NDL Search.

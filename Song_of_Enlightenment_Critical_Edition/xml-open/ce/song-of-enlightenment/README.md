@@ -14,6 +14,7 @@ Current state:
 - file-level witness folders opened for current leads
 - second-wave exact and commentary leads logged
 - five-agent witness wave added Korean, anthology, and manuscript families
+- second five-agent witness wave added more Korean exact-title leads and a derivative anthology branch
 - copy-text not yet selected
 
 Use `process.json` and `timeline.json` for machine-readable resumability.

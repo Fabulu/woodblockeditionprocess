@@ -52,6 +52,12 @@
       "date": "2026-05-09",
       "type": "witness_hunt_extended",
       "summary": "A five-agent witness wave added Korean exact leads, independent Japanese anthology witnesses, and a Japanese manuscript exact witness."
+    },
+    {
+      "event_id": "YJG-009",
+      "date": "2026-05-09",
+      "type": "witness_hunt_extended",
+      "summary": "A second five-agent witness wave added further Korean exact-title leads, a derivative anthology branch, and an older Japanese commentary lead."
     }
   ]
 }

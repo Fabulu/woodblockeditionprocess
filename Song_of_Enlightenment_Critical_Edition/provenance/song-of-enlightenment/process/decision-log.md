@@ -34,3 +34,8 @@
 
 - Decision: promote the Korean exact family and the newly surfaced Japanese anthology/manuscript leads into first-class witness objects.
 - Reason: the five-agent witness wave shows that the text’s exact transmission is broader than the original NDL + Wenzhou picture and should be modeled before copy-text lock.
+
+## D-008 `2026-05-09`
+
+- Decision: track `四部録抄` and the newly surfaced Korean exact-title leads as separate branches rather than collapsing them prematurely into the earlier anthology and Korean clusters.
+- Reason: the second five-agent wave surfaced enough branch-specific evidence that premature collapsing would erase potentially important witness-family distinctions.

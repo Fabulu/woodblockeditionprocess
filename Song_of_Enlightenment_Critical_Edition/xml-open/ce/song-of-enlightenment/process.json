@@ -9,7 +9,7 @@
   "current_phase": "witness-hunt-and-edition-startup",
   "current_slice": "witness_hunt_slice_separate_exact_families_after_five_agent_wave",
   "last_completed_slice": "witness_hunt_slice_five_agent_expansion_korea_japan_and_manuscript_leads",
-  "next_required_action": "Differentiate the Wenzhou exact manifestations, separate the Korean and Japanese independent families, and keep searching for more exact witnesses before the first copy-text lock.",
+  "next_required_action": "Differentiate the Wenzhou exact manifestations, separate the Korean and Japanese independent families, and rank the independent exact families before choosing the first download / OCR targets.",
   "next_required_slice": "witness_hunt_slice_rank_independent_exact_families_before_download",
   "last_text_changed_event": null,
   "base_witness": {
@@ -19,7 +19,7 @@
   "witness_families": [
     {
       "family_id": "exact-poem",
-      "status": "expanding-differentiating-and-family-splitting"
+      "status": "expanding-differentiating-and-ready-for-ranking"
     },
     {
       "family_id": "commentary-reception",

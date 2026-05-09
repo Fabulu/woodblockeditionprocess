@@ -13,3 +13,5 @@ The current unresolved questions are pre-transcription startup questions:
 7. Can the `1935` DCCB exact lead be connected to an accessible scan witness, or should it remain bibliographic only?
 8. Are the `1474` and `1647` Korean exact witnesses directly image-accessible now, or only catalog-visible from the current surfaces?
 9. Which of the Japanese anthology witnesses are genuinely independent textual witnesses rather than close reissues of the same anthology line?
+10. Are `YJG-W13`, `YJG-W14`, and `YJG-W15` separate Korean textual witnesses or only formal / calligraphic manifestations of a smaller number of underlying texts?
+11. How far should `四部録抄` be treated as a reception branch versus a textual control on the poem itself?

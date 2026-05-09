@@ -15,6 +15,9 @@
 | `YJG-W10` | `lead` | `exact heritage witness line` | `1209 / 1239 or 1299 line` | `永嘉眞覺大師證道歌` | not yet acquired into this package | `https://encykorea.aks.ac.kr/Article/E0037177` | very old Korean transmission line |
 | `YJG-W11` | `lead` | `exact standalone witness` | `1455-1494` | `永嘉眞覺大師證道歌` | not yet acquired into this package | `https://www.heritage.go.kr/heri/cul/culSelectDetail.do?VdkVgwKey=12%2C17760000%2C11` | Korean metal-type line |
 | `YJG-W12` | `lead` | `exact manuscript witness` | `undated [1---]` | `永嘉眞覺大師證道歌` | not yet acquired into this package | `https://ci.nii.ac.jp/ncid/BB18616814` | manuscript / copy witness |
+| `YJG-W13` | `lead` | `exact standalone witness` | `date not surfaced` | `證道가` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/35` | additional Korean exact-title lead |
+| `YJG-W14` | `lead` | `exact standalone witness` | `date not surfaced` | `證道歌` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/35` | Korean exact-title lead associated with `趙孟頫` in the source snippet |
+| `YJG-W15` | `lead` | `exact standalone witness` | `date not surfaced` | `證道가` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/44` | additional Korean exact-title lead |
 
 ## Independent anthology witnesses
 
@@ -24,6 +27,7 @@
 | `YJG-A2` | `lead` | `near-exact anthology witness` | `1629` | `四部録` | not yet acquired into this package | `https://rmda.kulib.kyoto-u.ac.jp/item/rb00009461` | Kyoto anthology witness |
 | `YJG-A3` | `lead` | `near-exact anthology witness` | `1631` | `四部録` | not yet acquired into this package | `https://rmda.kulib.kyoto-u.ac.jp/item/rb00012929` | second Kyoto anthology witness |
 | `YJG-A4` | `lead` | `near-exact anthology witness` | `undated` | `四部録` | not yet acquired into this package | `https://www.wul.waseda.ac.jp/kotenseki/html/bunko31/bunko31_e1087/index.html` | Waseda anthology witness |
+| `YJG-A5` | `lead` | `near-exact derivative anthology witness` | `1647-1648` | `四部録抄` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/File:NDL2537799_%E5%9B%9B%E9%83%A8%E9%8C%B2%E6%8A%84.pdf` | derivative anthology branch containing `證道歌抄` |
 
 ## Secondary related witnesses
 
@@ -33,3 +37,4 @@
 | `YJG-C2` | `lead` | `commentary witness` | `1504` | `永嘉真覺大師證道歌注` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/File:NLC892-411999015042-116728_%E6%B0%B8%E5%98%89%E7%9C%9F%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C%E6%B3%A8_%E7%AC%AC1%E5%86%8A.pdf` | high-value early commentary lead; startup pass only confirmed vol. 1 page directly |
 | `YJG-C4` | `lead` | `translation / reception witness` | `1913` | Japanese translation anthology witness | not yet acquired into this package | `在家曹洞宗聖典` lead from scout research | reception witness only |
 | `YJG-C5` | `lead` | `commentary bibliographic lead` | `1896` | `永嘉眞覺大師證道歌 1巻附音釋` | not yet acquired into this package | `https://cir.nii.ac.jp/crid/1130000795795114752` | late commentary print lead; not a base witness |
+| `YJG-C6` | `lead` | `commentary scan-convertible lead` | `1641` | `証道歌註` | not yet acquired into this package | `https://ndlsearch.ndl.go.jp/books/R100000133-IorgnB111617492` | older Japanese commentary-print lead |

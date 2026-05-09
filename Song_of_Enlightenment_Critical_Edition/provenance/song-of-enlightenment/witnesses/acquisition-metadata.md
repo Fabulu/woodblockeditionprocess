@@ -128,6 +128,24 @@
   - `https://ci.nii.ac.jp/ncid/BB18616814`
   - `https://jpsearch.go.jp/item/nme_lib_books-HL00466363`
 
+- Witness ID: `YJG-W13`
+- Title: `證道가`
+- Date: not surfaced in current list snippet
+- Source:
+  - `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/35`
+
+- Witness ID: `YJG-W14`
+- Title: `證道歌`
+- Date: not surfaced in current list snippet
+- Source:
+  - `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/35`
+
+- Witness ID: `YJG-W15`
+- Title: `證道가`
+- Date: not surfaced in current list snippet
+- Source:
+  - `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/44`
+
 ### Independent anthology witnesses
 
 - Witness ID: `YJG-A1`
@@ -158,6 +176,16 @@
 - Source:
   - `https://www.wul.waseda.ac.jp/kotenseki/html/bunko31/bunko31_e1087/index.html`
 
+- Witness ID: `YJG-A5`
+- Title: `四部録抄`
+- Date: `1647-1648`
+- Sources:
+  - `https://commons.wikimedia.org/wiki/File:NDL2537799_%E5%9B%9B%E9%83%A8%E9%8C%B2%E6%8A%84.pdf`
+  - `https://ci.nii.ac.jp/ncid/BB07922477`
+  - `https://ci.nii.ac.jp/ncid/BD09506795`
+- Note:
+  - derivative anthology branch with `證道歌抄`
+
 ### Secondary related witness
 
 - Witness ID: `YJG-C1`
@@ -186,6 +214,14 @@
   - `https://cir.nii.ac.jp/crid/1130000795795114752`
 - Note:
   - late commentary print; useful for reception mapping
+
+- Witness ID: `YJG-C6`
+- Title: `証道歌註`
+- Date: `1641`
+- Source:
+  - `https://ndlsearch.ndl.go.jp/books/R100000133-IorgnB111617492`
+- Note:
+  - older Japanese commentary-print lead
 
 ### Second-wave commentary-family leads
 
