@@ -40,6 +40,18 @@
       "date": "2026-05-09",
       "type": "witness_hunt_extended",
       "summary": "Added a further exact Wenzhou file outside the initial category slice, a 1935 bibliographic exact lead, and a late commentary bibliographic lead."
+    },
+    {
+      "event_id": "YJG-007",
+      "date": "2026-05-09",
+      "type": "witness_hunt_refined",
+      "summary": "Added a Waseda digital mirror lead, recorded a Wenzhou-to-Waseda duplicate relation from Commons logs, and removed the prohibited canonical web control from package witness surfaces."
+    },
+    {
+      "event_id": "YJG-008",
+      "date": "2026-05-09",
+      "type": "witness_hunt_extended",
+      "summary": "A five-agent witness wave added Korean exact leads, independent Japanese anthology witnesses, and a Japanese manuscript exact witness."
     }
   ]
 }

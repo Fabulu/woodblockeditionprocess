@@ -11,3 +11,5 @@ The current unresolved questions are pre-transcription startup questions:
 5. Is `禪宗永嘉集一卷附證道歌` close enough in transmission behavior to treat as an exact secondary witness or only as a related anthology control?
 6. Which commentary-family titles from the broader `證道歌` tradition have image witnesses that are practical to acquire next?
 7. Can the `1935` DCCB exact lead be connected to an accessible scan witness, or should it remain bibliographic only?
+8. Are the `1474` and `1647` Korean exact witnesses directly image-accessible now, or only catalog-visible from the current surfaces?
+9. Which of the Japanese anthology witnesses are genuinely independent textual witnesses rather than close reissues of the same anthology line?

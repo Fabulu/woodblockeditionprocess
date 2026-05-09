@@ -92,14 +92,71 @@
   - photographic reproduction of a Yuan carved woodblock edition
   - useful as an exact-family extension even if no direct scan has yet been pinned here
 
-### Digital control
+### Korean exact family
 
-- Witness ID: `YJG-W3`
-- Title: `Taishō canonical row for 永嘉證道歌`
-- Reference:
-  - `T48n2014`
-- Role:
-  - catalog control for witness comparison and locus planning
+- Witness ID: `YJG-W8`
+- Title: `證道歌`
+- Date: `1474`
+- Source:
+  - `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/24`
+- Note:
+  - strongest Korean exact witness surfaced in the five-agent wave
+
+- Witness ID: `YJG-W9`
+- Title: `永嘉玄覺大師證道歌`
+- Date: `1647`
+- Source:
+  - `https://www.nl.go.kr/korcis/search/simpleResultList.do?searchCondition=all&searchKeyword=%EA%B0%81%EC%A0%80%ED%95%98%EB%8B%A4`
+
+- Witness ID: `YJG-W10`
+- Title: `永嘉眞覺大師證道歌`
+- Date: `1209` original publication stated; later recut inferred `1239` or `1299`
+- Sources:
+  - `https://encykorea.aks.ac.kr/Article/E0037177`
+  - `https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=1121108890000`
+
+- Witness ID: `YJG-W11`
+- Title: `永嘉眞覺大師證道歌`
+- Date: estimated `1455-1494`
+- Source:
+  - `https://www.heritage.go.kr/heri/cul/culSelectDetail.do?VdkVgwKey=12%2C17760000%2C11`
+
+- Witness ID: `YJG-W12`
+- Title: `永嘉眞覺大師證道歌`
+- Date: undated `[1---]`
+- Sources:
+  - `https://ci.nii.ac.jp/ncid/BB18616814`
+  - `https://jpsearch.go.jp/item/nme_lib_books-HL00466363`
+
+### Independent anthology witnesses
+
+- Witness ID: `YJG-A1`
+- Title: `五味禅` containing `永嘉真覺大師證道歌`
+- Date: `室町年間`; linked metadata gives `1392`
+- Sources:
+  - `https://archive.wul.waseda.ac.jp/kosho/ha05/ha05_00539/`
+  - `https://ndlsearch.ndl.go.jp/books/R000000050-I000012098`
+- Independence note:
+  - Commons upload logs record `WZLib-DB-433455 永嘉真覺禪師證道歌一卷.pdf` as a duplicate of `WUL-ha05 00539 五味禅 1.pdf`
+  - treat this mirror as potentially the same branch as that suppressed Wenzhou upload, not as automatically independent from it
+
+- Witness ID: `YJG-A2`
+- Title: `四部録`
+- Date: `1629`
+- Source:
+  - `https://rmda.kulib.kyoto-u.ac.jp/item/rb00009461`
+
+- Witness ID: `YJG-A3`
+- Title: `四部録`
+- Date: `1631`
+- Source:
+  - `https://rmda.kulib.kyoto-u.ac.jp/item/rb00012929`
+
+- Witness ID: `YJG-A4`
+- Title: `四部録`
+- Date: undated in current survey
+- Source:
+  - `https://www.wul.waseda.ac.jp/kotenseki/html/bunko31/bunko31_e1087/index.html`
 
 ### Secondary related witness
 

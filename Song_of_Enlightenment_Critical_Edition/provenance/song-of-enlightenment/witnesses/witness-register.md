@@ -6,11 +6,24 @@
 |---|---|---|---|---|---|---|---|
 | `YJG-W1` | `held` | `exact anthology witness` | `1631` | `四部録` containing `永嘉眞覺大師證道歌一卷` | inherited local scan via `Sengcan_Faith_in_Mind_NDL_Shibulu` | `https://commons.wikimedia.org/wiki/File:NDL2537640_%E5%9B%9B%E9%83%A8%E9%8C%B2.pdf` | first exact local witness already on disk; anthology, not standalone |
 | `YJG-W2` | `lead` | `exact standalone witness` | `1694` | `永嘉眞覺大師證道歌1卷` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/File:NDL2537802_%E6%B0%B8%E5%98%89%E7%9C%9E%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C1%E5%8D%B7.pdf` | strongest immediate standalone acquisition target beyond the inherited anthology witness |
-| `YJG-W3` | `held` | `catalog control` | `modern canonical catalog row` | `Taishō canonical row for 永嘉證道歌` | catalog control only | `T48n2014` | catalog control, not a source witness |
 | `YJG-W4` | `lead` | `exact witness family` | `undated in startup survey` | `永嘉真覺大師證道歌` Commons category family | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Category:%E6%B0%B8%E5%98%89%E7%9C%9F%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C` | category currently lists eight exact-file candidates, likely a mixture of distinct prints and multipart manifestations |
 | `YJG-W5` | `lead` | `exact anthology witness` | `library-backup lead` | `永嘉詩人祠堂叢刻（第一冊永嘉集一卷；永嘉證道歌一卷；儒志編一卷）` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/WZLib-DB/01` | anthology-style exact lead distinct from `四部録` |
 | `YJG-W6` | `lead` | `near-exact anthology witness` | `library-backup lead` | `禪宗永嘉集一卷附證道歌` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/WZLib-DB/01` | near-exact anthology lead bundling `永嘉集` and appended `證道歌` |
 | `YJG-W7` | `lead` | `exact bibliographic lead` | `1935` | `永嘉真覺大師證道歌` | not yet acquired into this package | `https://crta.info/wiki/%E6%B0%B8%E5%98%89%E7%9C%9F%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C_-_DCCB0339` | bibliographic lead for a photographic reproduction of a Yuan carved woodblock edition |
+| `YJG-W8` | `lead` | `exact standalone witness` | `1474` | `證道歌` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/24` | strong Korean exact witness line |
+| `YJG-W9` | `lead` | `exact standalone witness` | `1647` | `永嘉玄覺大師證道歌` | not yet acquired into this package | `https://www.nl.go.kr/korcis/search/simpleResultList.do?searchCondition=all&searchKeyword=%EA%B0%81%EC%A0%80%ED%95%98%EB%8B%A4` | strong Korean exact line |
+| `YJG-W10` | `lead` | `exact heritage witness line` | `1209 / 1239 or 1299 line` | `永嘉眞覺大師證道歌` | not yet acquired into this package | `https://encykorea.aks.ac.kr/Article/E0037177` | very old Korean transmission line |
+| `YJG-W11` | `lead` | `exact standalone witness` | `1455-1494` | `永嘉眞覺大師證道歌` | not yet acquired into this package | `https://www.heritage.go.kr/heri/cul/culSelectDetail.do?VdkVgwKey=12%2C17760000%2C11` | Korean metal-type line |
+| `YJG-W12` | `lead` | `exact manuscript witness` | `undated [1---]` | `永嘉眞覺大師證道歌` | not yet acquired into this package | `https://ci.nii.ac.jp/ncid/BB18616814` | manuscript / copy witness |
+
+## Independent anthology witnesses
+
+| Witness ID | Status | Type | Date | Title | Local Basis | Source / URL | Notes |
+|---|---|---|---|---|---|---|---|
+| `YJG-A1` | `lead` | `near-exact anthology witness` | `Muromachi / 1392 in library metadata` | `五味禅` containing `永嘉真覺大師證道歌` | not yet acquired into this package | `https://archive.wul.waseda.ac.jp/kosho/ha05/ha05_00539/` | likely tied to a suppressed Wenzhou duplicate upload; still useful as a Japanese mirror |
+| `YJG-A2` | `lead` | `near-exact anthology witness` | `1629` | `四部録` | not yet acquired into this package | `https://rmda.kulib.kyoto-u.ac.jp/item/rb00009461` | Kyoto anthology witness |
+| `YJG-A3` | `lead` | `near-exact anthology witness` | `1631` | `四部録` | not yet acquired into this package | `https://rmda.kulib.kyoto-u.ac.jp/item/rb00012929` | second Kyoto anthology witness |
+| `YJG-A4` | `lead` | `near-exact anthology witness` | `undated` | `四部録` | not yet acquired into this package | `https://www.wul.waseda.ac.jp/kotenseki/html/bunko31/bunko31_e1087/index.html` | Waseda anthology witness |
 
 ## Secondary related witnesses
 

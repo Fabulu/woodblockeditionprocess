@@ -27,3 +27,19 @@
 - Found an additional exact Wenzhou file `WZLib-DB-433439 證道歌一卷.pdf` outside the narrower category slice that first seeded the Wenzhou family.
 - Logged a `1935` DCCB bibliographic exact lead describing a photographic reproduction of a Yuan carved woodblock edition.
 - Logged an `1896` CiNii commentary print lead `永嘉眞覺大師證道歌 1巻附音釋`.
+- Ran a further rights-safe witness search limited to Commons, NDL, and Japanese library mirrors.
+- Confirmed a Waseda digital mirror for `五味禅` containing `永嘉真覺大師證道歌`.
+- Confirmed from the Commons Wenzhou upload log that `WZLib-DB-433455 永嘉真覺禪師證道歌一卷.pdf` was marked as a duplicate of `WUL-ha05 00539 五味禅 1.pdf`.
+- Removed the previously logged prohibited canonical web control from the package witness surfaces.
+- Ran a five-agent witness wave with strict no-CBETA instructions.
+- Confirmed a strong Korean exact family:
+  - `1474` exact witness
+  - `1647` exact witness
+  - a heritage line with original publication stated as `1209`
+  - a metal-type line estimated `1455-1494`
+- Confirmed independent Japanese anthology lines:
+  - Waseda `五味禅`
+  - Kyoto `四部録` `1629`
+  - Kyoto `四部録` `1631`
+  - Waseda `四部録`
+- Confirmed an undated Japanese manuscript exact witness.

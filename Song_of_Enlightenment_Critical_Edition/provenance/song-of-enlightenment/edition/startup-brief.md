@@ -19,4 +19,5 @@ For this text, the startup rule is:
 3. split category-level witness families into file-level witness objects
 4. keep watching for exact witnesses outside the first category clusters
 5. log second-wave commentary-family leads while the hunt is still warm
-6. only then stabilize the family map and consider copy-text lock
+6. widen into Korean, anthology, and manuscript families before copy-text lock
+7. only then stabilize the family map and consider copy-text lock

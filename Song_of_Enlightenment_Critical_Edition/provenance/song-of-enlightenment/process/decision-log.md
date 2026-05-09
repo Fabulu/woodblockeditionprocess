@@ -24,3 +24,13 @@
 
 - Decision: treat the Wenzhou Commons category as a structured exact-witness family with file-level child witnesses rather than one vague lead.
 - Reason: the category already exposes enough file-level differentiation to support early manifestation analysis before download and OCR.
+
+## D-006 `2026-05-09`
+
+- Decision: remove prohibited canonical web controls from the `證道歌` package and rely only on rights-safe image/PDF witnesses plus neutral bibliographic leads.
+- Reason: the package should not depend on or point to the excluded source family; exact image/PDF witnesses and library metadata are sufficient for the present hunt phase.
+
+## D-007 `2026-05-09`
+
+- Decision: promote the Korean exact family and the newly surfaced Japanese anthology/manuscript leads into first-class witness objects.
+- Reason: the five-agent witness wave shows that the text’s exact transmission is broader than the original NDL + Wenzhou picture and should be modeled before copy-text lock.
