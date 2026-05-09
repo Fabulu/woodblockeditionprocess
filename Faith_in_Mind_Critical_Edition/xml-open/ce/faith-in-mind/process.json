@@ -27,7 +27,8 @@
     "required_protocol_documents": [
       "../../../../EDITION_AGENT_MASTER_INSTRUCTIONS.md",
       "../../../../EDITION_FORENSIC_PROVENANCE_PROTOCOL.md",
-      "../../../../EDITION_TRANSLATION_DIFF_PROTOCOL.md"
+      "../../../../EDITION_TRANSLATION_DIFF_PROTOCOL.md",
+      "../../../../EDITION_EVENTED_ANCHOR_PROTOCOL.md"
     ]
   },
   "current_state": {
@@ -57,6 +58,7 @@
       "T2"
     ],
     "plan_document": "provenance/faith-in-mind/process/edition-plan.md",
+    "time_travel_anchor_backfill_plan": "../../../provenance/faith-in-mind/process/time-travel-anchor-backfill-plan.md",
     "current_state_document": "../../../provenance/faith-in-mind/process/current-state.md",
     "normalized_text": "../../../provenance/faith-in-mind/transcription/normalized/T1-normalized-pass1.txt",
     "corrected_text": "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
