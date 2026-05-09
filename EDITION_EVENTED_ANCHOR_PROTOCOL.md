@@ -273,3 +273,41 @@ Future package validation should fail if:
 - a changed locus has no synchronized translation before/after
 
 This requirement is now part of edition workflow law.
+
+---
+
+## ReadZen Integration Requirements
+
+This section defines what the evented-anchor layer must satisfy for ReadZen's character-click → witness viewer feature.
+
+**Reference:** See `EDITION_WITNESS_COORDINATE_SPEC.md` for complete coordinate field definitions.
+
+### TEI Requirements
+
+Every `<l>` element in the poem TEI must have:
+- `n` attribute: sequential line number (ReadZen creates segment keys `l|{n}`)
+- `corresp` attribute: locus URN (e.g., `corresp="urn:locus:T1-p031.l01"`)
+
+ReadZen's LociMappingService scans these at load time to build the click → locus mapping chain.
+
+### apparatus.json Alignment
+
+- `locus_id` values in apparatus.json MUST match the `corresp` URN values (without the `urn:locus:` prefix)
+- Every apparatus `locus_id` MUST have a corresponding entry in `anchor-base-register.jsonl`
+
+### manifest.json Witness URLs
+
+Each witness in `witnesses_consulted[]` must have `upstream_url` pointing to:
+- Wikimedia Commons redirect URL (for PDF witnesses)
+- Kyoto RMDA item URL (for IIIF witnesses)
+- Other IIIF Image API v3 endpoint
+
+ReadZen's WitnessDownloadService uses these URLs for on-demand witness file downloads.
+
+### Validation
+
+Before declaring an edition ready for ReadZen handoff:
+1. Every apparatus locus has an anchor-base entry with valid `locus_bbox`
+2. Every anchor-event entry has synchronized `before_text`/`after_text` and `translation_before`/`translation_after`
+3. Every anchor-base entry's `source_asset_path` resolves to an actual file
+4. JSONL files parse cleanly (one valid JSON per non-empty line)

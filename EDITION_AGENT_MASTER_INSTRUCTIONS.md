@@ -158,3 +158,31 @@ Before declaring any phase complete:
 Every empty cell in your logs is a blank panel in the reader's UI. The reproducibility promise depends on your discipline in maintaining these files.
 
 This is the standard. Follow it.
+
+---
+
+## Part 8: Witness Coordinate Capture (Mandatory)
+
+Every critical edition MUST produce witness coordinate data for ReadZen integration.
+
+**Reference:** See `EDITION_WITNESS_COORDINATE_SPEC.md` for complete field definitions, coordinate system, and examples.
+
+**Core requirements:**
+
+1. **Every accepted text-changing correction** must have a matching `anchor-base-register.jsonl` entry with `locus_bbox` coordinates AND an `anchor-event-log.jsonl` entry with before/after text
+2. **Every apparatus.json entry** must have a corresponding anchor-base entry pointing to the witness page
+3. **Coordinate capture happens during edition production**, not as a post-hoc backfill
+4. **TEI `<l>` elements** must have both `n` (sequential number) and `corresp` (locus URN) attributes
+5. **manifest.json** witnesses must include `upstream_url` for on-demand witness download
+
+**What the app does with this data:**
+
+| Data | Feature |
+|------|---------|
+| `anchor-base-register.jsonl` | Ctrl+click → witness page viewer zoomed to locus bbox |
+| `anchor-event-log.jsonl` | Time-travel slider with bilingual before/after |
+| `apparatus.json` + locus_bbox | Footnotes panel + flyout with witness buttons |
+| TEI `corresp` attributes | Click position → locus → apparatus/anchor lookup |
+| `upstream_url` in manifest | On-demand witness download (PDF or IIIF JPEG) |
+
+If coordinate data is missing, the character-click → witness zoom feature will not work for that edition.
