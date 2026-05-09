@@ -1,7 +1,7 @@
 # Time-Travel Anchor Backfill Plan: Faith in Mind Poem Edition
 
 **Date:** 2026-05-09  
-**Status:** planned  
+**Status:** completed for poem-first v1  
 **Scope:** poem-first publication layer only
 
 ---
@@ -83,7 +83,7 @@ Backfill per-character boxes only for loci where the accepted reading actually t
 
 ## Output files
 
-Create:
+Created:
 
 - `provenance/faith-in-mind/process/anchor-base-register.jsonl`
 - `provenance/faith-in-mind/process/anchor-event-log.jsonl`
@@ -165,6 +165,20 @@ This backfill is complete when:
 2. each poem event can open a supporting page or crop
 3. major judgment-call loci can show selective character-level anchors
 4. the remaining non-anchored loci are explicitly documented as page-level only
+
+---
+
+## Completion note
+
+On `2026-05-09`, the poem-first v1 backfill was completed in the bounded form defined above:
+
+- `anchor-base-register.jsonl` now records the stable page or boundary anchors for the poem-level apparatus loci
+- `anchor-event-log.jsonl` now records the material poem-event deltas needed for bilingual time travel
+- the backfill stays selective and poem-first
+- coarse page or band geometry is used wherever finer boxing would have been fake in retroactive reconstruction
+- supplied and omission-judgment loci now carry support-witness anchors instead of pretending to have direct T1 line geometry
+
+Character-box capture remains deferred for any future UI work that truly needs per-graph drilldown on selected poem loci.
 
 ---
 

@@ -3,7 +3,7 @@
     "slug": "faith-in-mind",
     "label": "Faith in Mind Critical Edition",
     "status": "active",
-    "phase": "poem_first_publication_candidate_prepared",
+    "phase": "poem_first_publication_candidate_with_anchor_backfill",
     "witness_set_locked": true,
     "copy_text_locked": true
   },
@@ -59,6 +59,8 @@
     ],
     "plan_document": "provenance/faith-in-mind/process/edition-plan.md",
     "time_travel_anchor_backfill_plan": "../../../provenance/faith-in-mind/process/time-travel-anchor-backfill-plan.md",
+    "anchor_base_register": "../../../provenance/faith-in-mind/process/anchor-base-register.jsonl",
+    "anchor_event_log": "../../../provenance/faith-in-mind/process/anchor-event-log.jsonl",
     "current_state_document": "../../../provenance/faith-in-mind/process/current-state.md",
     "normalized_text": "../../../provenance/faith-in-mind/transcription/normalized/T1-normalized-pass1.txt",
     "corrected_text": "../../../provenance/faith-in-mind/transcription/corrected/T1-corrected-pass1-working.txt",
@@ -70,7 +72,7 @@
     "character_provenance_log": "../../../provenance/faith-in-mind/process/character-provenance-log.md",
     "unresolved_loci": "../../../provenance/faith-in-mind/process/unresolved-loci.md",
     "current_slice": {
-      "slug": "poem_first_publication_candidate_handoff",
+      "slug": "poem_first_publication_anchor_backfill_completed",
       "witnesses": [
         "T1",
         "T4",
@@ -328,9 +330,9 @@
         "../../../provenance/faith-in-mind/ocr/C11/ocr/paddleocr-ppocrv4/extracted-text/C11-p074.txt"
       ],
       "status": "completed",
-      "last_completed_slice": "manual_correction_slice_T1_second_pass_helper_remap_and_fragment_ocr_closeout_remaining_4",
+      "last_completed_slice": "poem_first_time_travel_anchor_backfill_poem_v1",
       "last_text_changed_event": "FIM-462",
-      "next_required_slice": "manual_correction_slice_T1_second_pass_pause_remaining_4_documented_fragment_wall"
+      "next_required_slice": "poem_first_readzen_handoff_and_rendering"
     },
     "support_ocr_dirs": [
       "../../../provenance/faith-in-mind/ocr/T1/ocr/paddleocr-ppocrv4/extracted-text/",
@@ -345,7 +347,7 @@
     "raw_ocr_dir": "provenance/faith-in-mind/ocr/T1/ocr/rapidocr/",
     "timeline_file": "timeline.json",
     "human_log_file": "../../../provenance/faith-in-mind/process/human-log.md",
-    "next_required_action": "A final helper-remap and fragment-OCR closeout was then completed on the remaining four loci. The stale local helper crops for `T1-p012.l02` and `T1-p029.l06` were first replaced with geometry-based short-fragment isolates, after which both locally available fast OCR engines were rerun directly on the regenerated exact and wide fragment variants. `RapidOCR` returned no text on any variant, and `PaddleOCR` returned only junk-level hallucinations such as `限果时易` and `天医`, which are useful only as negative evidence. Together with the corrected fragment crops, this confirms that `T1-p007.l03`, `T1-p007.l12`, `T1-p012.l02`, and `T1-p029.l06` now stand as documented fragment walls rather than stale-crop problems. No further `T1` text change is justified on the present in-package basis; the package is therefore paused at the remaining four unresolved loci pending genuinely stronger local evidence, genuinely new corroborative evidence, or editorial decision to leave them unresolved."
+    "next_required_action": "The poem-first package now has a bounded retroactive evented-anchor layer for the material publication events. `anchor-base-register.jsonl` records stable page or boundary anchors for the poem-level loci carried into the selective apparatus, and `anchor-event-log.jsonl` records the bilingual before-or-after deltas needed for synchronized Chinese and English time travel. No `T1` text changed in this backfill; `last_text_changed_event` therefore remains `FIM-462`. The next required work is frontend-facing: hand off the poem-first TEI, apparatus, and anchor layers for ReadZen rendering, selective apparatus display, and event-driven time travel."
   }
 }
 

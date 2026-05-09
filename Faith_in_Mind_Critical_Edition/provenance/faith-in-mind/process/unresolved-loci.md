@@ -1,6 +1,6 @@
 ﻿# Unresolved Loci: Faith in Mind
 
-Date: 2026-05-07
+Date: 2026-05-09
 Status: active
 
 ## Open loci
@@ -34,6 +34,7 @@ Status: active
 - one farther focused five-reader visual-only panel was then run just on `T1-p030.l08`, because it remained the only surviving locus that no longer looked like a true visual wall. The panel converged on two close exact candidates, with the strongest spine `轉親轉...轉近轉...轉隨後來直得底`. The accepted line is now `T1-p030.l08 = 疏轉親轉遠轉近轉捨轉隨後來直得底`, logged explicitly as an image-led human judgment call rather than as OCR certainty: the opening graph remains only `疏/踈`-like and the fourth graph remained split between `遠` and `迷`, but the local page now reads strongly enough to justify acceptance. The live unresolved queue therefore drops to four loci: `T1-p007.l03`, `T1-p007.l12`, `T1-p012.l02`, and `T1-p029.l06`.
 - a final helper-remap and fragment-OCR closeout has now also been completed on those remaining four loci. The stale helper crops for `T1-p012.l02` and `T1-p029.l06` were replaced first by locus-specific aliases and then by RapidOCR-geometry-based short-fragment isolates. A direct fragment OCR rerun on the regenerated exact and wide helpers then returned no text at all from `RapidOCR` and only junk-level hallucinations such as `限果时易` and `天医` from `PaddleOCR`. These outputs are useful only as negative evidence.
 - the package therefore now treats `T1-p007.l03`, `T1-p007.l12`, `T1-p012.l02`, and `T1-p029.l06` as documented fragment walls rather than as stale-crop or stale-OCR problems. No further `T1` text change is justified on the present in-package basis without genuinely stronger local evidence, genuinely new corroborative evidence, or an explicit editorial decision to leave them unresolved.
+- a bounded poem-first time-travel anchor backfill has now also been completed, but it does not reopen or change any of these loci. The unresolved set remains the same four fragment walls; the new anchor layer only adds publication-facing event and evidence navigation for the material poem-level changes that were already accepted.
 
 - one farther targeted broader corroborative sweep was then run again beyond the already logged post-`X173` no-`X174` re-test, but it was recorded without displacing the package's now-current bounded `T1-p007` manual-segmentation-review frontier.
 - no genuine `X174` survived that farther targeted sweep either. `天隱修禪師語錄` and `天隱和尚語錄` again reduced on checking to the already logged `X100` and `X161` branches rather than to new witness identities, while `大博乾禪師語錄`, `介石智朋禪師語錄`, renewed `御製揀魔辨異錄`, renewed `居士分燈錄`, and direct `雲門` / `雲門匡真禪師廣錄` returns again stayed at duplicate-access, already-opened, or below-threshold phrase-only overlap rather than surviving as a genuine fresh corroborative branch.

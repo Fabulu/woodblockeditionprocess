@@ -15790,5 +15790,45 @@
         "last_completed_phase": "manual_correction_slice_T1_second_pass_helper_remap_and_fragment_ocr_closeout_remaining_4",
         "last_text_changed_event": "FIM-462"
       }
+    },
+    {
+      "id": "FIM-464",
+      "date": "2026-05-09",
+      "phase": "poem_first_publication",
+      "title": "Backfilled the poem-only evented-anchor layer for bilingual time travel and evidence navigation",
+      "summary": "A bounded retroactive evented-anchor backfill was completed for the poem-first publication layer only. Two new process files were created: anchor-base-register.jsonl and anchor-event-log.jsonl. The backfill covers the material poem apparatus events rather than the whole commentary archive: the comparison-supported corrections and supplies at T1-p021.l01a, T1-p047.l01, T1-p065.l01, and T1-p077.l01a; the T1-p075 rollback and omission judgment; and the later T1 image-led poem-level corrections at T1-p031.l01 and T1-p036.l05. Coarse page or page-band geometry is used wherever finer retroactive boxing would have been fake, and supplied or omitted loci are anchored through both the T1 boundary page and the supporting T4 page band rather than pretending to direct preserved T1 line geometry. No T1 text changed in this backfill; it is publication-support infrastructure for synchronized Chinese-and-English time travel and source jumps.",
+      "files_changed": [
+        "provenance/faith-in-mind/process/anchor-base-register.jsonl",
+        "provenance/faith-in-mind/process/anchor-event-log.jsonl",
+        "provenance/faith-in-mind/process/time-travel-anchor-backfill-plan.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "provenance/faith-in-mind/process/unresolved-loci.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p021.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p031.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p036.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p047.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p065.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p075.png",
+        "provenance/faith-in-mind/ocr/T1/page-images/T1-p077.png",
+        "provenance/faith-in-mind/ocr/T4/Faith_in_Mind_Kyoto_RB00009461_Shiburoku/images/RB00009461_00002.jpg",
+        "provenance/faith-in-mind/ocr/T4/Faith_in_Mind_Kyoto_RB00009461_Shiburoku/images/RB00009461_00003.jpg",
+        "provenance/faith-in-mind/ocr/T4/Faith_in_Mind_Kyoto_RB00009461_Shiburoku/images/RB00009461_00004.jpg",
+        "provenance/faith-in-mind/process/translation-diff-log.md",
+        "provenance/faith-in-mind/process/correction-log.md",
+        "provenance/faith-in-mind/process/character-provenance-log.md",
+        "xml-open/ce/faith-in-mind/apparatus.json"
+      ],
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "poem_first_readzen_handoff_and_rendering",
+        "last_completed_phase": "poem_first_time_travel_anchor_backfill_poem_v1",
+        "last_text_changed_event": "FIM-462"
+      }
     }  ]
 }

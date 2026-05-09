@@ -1,6 +1,6 @@
 ﻿# Current State: Faith in Mind
 
-Date: 2026-05-07
+Date: 2026-05-09
 Status: active
 Edition slug: `faith-in-mind`
 
@@ -9,9 +9,9 @@ Edition slug: `faith-in-mind`
 - Witness set: locked
 - Scope: poem-first main edition with parallel commentary secondary track
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
-- Current phase: `poem_first_publication_candidate_prepared`
-- Last completed phase: `manual_correction_slice_T1_second_pass_pause_remaining_4_documented_fragment_wall`
-- Next required phase: `poem_first_publication_package`
+- Current phase: `poem_first_publication_candidate_with_anchor_backfill`
+- Last completed phase: `poem_first_time_travel_anchor_backfill_poem_v1`
+- Next required phase: `poem_first_readzen_handoff_and_rendering`
 
 ## Poem-first publication status
 
@@ -19,6 +19,14 @@ Edition slug: `faith-in-mind`
 - The main published target is now the `信心銘` poem, not the commentary corpus.
 - Commentary and reception witnesses remain preserved as a parallel secondary scholarly track.
 - The package now exposes a standalone poem reading text, a machine-readable apparatus, and a populated TEI publication candidate.
+
+## Time-travel anchor status
+
+- The poem-first package now has a bounded retroactive evented-anchor layer for the material poem apparatus events.
+- `anchor-base-register.jsonl` records stable page or boundary anchors for the poem-level loci carried into publication.
+- `anchor-event-log.jsonl` records the material poem-event deltas needed for synchronized Chinese and English time travel.
+- The backfill is intentionally selective: supplied lines, omission judgment, and poem-level corrected or remapped loci are anchored now; untouched stable poem loci remain page-addressable only until a later UI need forces more geometry.
+- No `T1` text changed in this backfill. `last_text_changed_event` remains `FIM-462`.
 
 ## Current overnight continuation status
 
