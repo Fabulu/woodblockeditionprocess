@@ -12,3 +12,5 @@ The current unresolved questions are pre-transcription startup questions:
 6. Which Japanese anthology witnesses are genuinely independent textual witnesses rather than close reissues of the same anthology line?
 7. Is `YJG-W13` a true additional Korean textual witness or only a less fully described manifestation inside the wider Korean family?
 8. How far should `四部録抄` be treated as a reception branch versus a textual control on the poem itself?
+9. Does `YJG-W18` add a genuinely independent exact Japanese line, or is it closer to one of the already surfaced NIJL/NDL standalones?
+10. How many materially distinct Japanese anthology sub-branches should be kept active once `四部録`, `首書四部録`, and `片カナ付四部録` are all in view?

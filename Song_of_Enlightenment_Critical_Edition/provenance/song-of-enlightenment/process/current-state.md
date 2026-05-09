@@ -28,8 +28,13 @@
   - a `四部録抄` derivative anthology branch with `證道歌抄`
   - an undated manuscript exact witness in Japanese holdings
   - two further exact image-backed Japanese standalone holdings in the NIJL image network
+  - one further exact digital-content holding in the Okura network
   - a dated NLC commentary witness
   - an older Japanese commentary-print lead `証道歌註` (`1641`)
+  - an image-backed `四部録` holding in the NMOE network
+  - an image-backed `首書四部録` annotated branch in the Yutoku network
+  - a `1689` kana-marked `四部録` branch
+  - stronger surfaced Korean near-exact `南明` family lines with digital access
   - CiNii and reception controls
   - one Commons upload-log duplicate relation tying a suppressed Wenzhou `證道歌` upload to the Waseda `五味禅` mirror
 
@@ -58,6 +63,7 @@
   - `YJG-W16`
   - `YJG-W17`
 - The following are now second-tier exact or family controls:
+  - `YJG-W18`
   - `YJG-W4D`
   - `YJG-W4E`
   - `YJG-W10`
@@ -68,6 +74,9 @@
   - `YJG-A2`
   - `YJG-A3`
   - `YJG-A4`
+  - `YJG-A6`
+  - `YJG-A7`
+  - `YJG-A8`
 - The following are currently treated as duplicate-risk, derivative, bibliographic-only, or backup-only branches:
   - `YJG-W4A`
   - `YJG-W4B`

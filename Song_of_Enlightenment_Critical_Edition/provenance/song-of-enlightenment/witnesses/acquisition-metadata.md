@@ -90,6 +90,63 @@
 - `YJG-W17`
   - image-backed NIJL listing, but direct image capture path still needs to be pinned
 
+## 2026-05-09 additional online witness sweep
+
+### New exact or near-exact leads
+
+- `YJG-W18`
+  - exact Okura digital-content holding
+  - source: `https://jpsearch.go.jp/item/okura-R100000147_I15073`
+  - role:
+    - second-tier exact holding outside the current NDL/Kyoto/Waseda cluster
+
+- `YJG-A6`
+  - image-backed NMOE `四部録`
+  - source: `https://kokusho.nijl.ac.jp/page/list-nmoe.html`
+  - row metadata:
+    - `BID 100436141`
+    - `DIGNMOE00007`
+
+- `YJG-A7`
+  - image-backed `首書四部録` branch
+  - source: `https://kokusho.nijl.ac.jp/page/list-yutoku.html`
+  - note:
+    - multiple image-backed holdings in the annotated `四部録` line
+
+- `YJG-A8`
+  - `1689` kana-marked `四部録`
+  - source: `https://ci.nii.ac.jp/ncid/BB2049625X`
+  - role:
+    - compact pedagogical anthology branch distinct from plain and annotated `四部録`
+
+### Additional control witnesses
+
+- `YJG-C7`
+  - `永嘉禪宗集註二卷`
+  - scan-backed Wenzhou lead from:
+    - `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/WZLib-DB/01`
+
+- `YJG-C8`
+  - `영가대사남명천선사계송. 권하`
+  - `1482`
+  - KORCIS digital surface:
+    - `https://www.nl.go.kr/korcis/search/simpleResultList.do?searchCondition=all&searchKeyword=%EB%82%A8%EB%AA%85`
+
+- `YJG-C9`
+  - `영가대사증도가남명천선사계송`
+  - `1482`
+  - KORCIS digital surface:
+    - `https://www.nl.go.kr/korcis/search/simpleResultList.do?searchCondition=all&searchKeyword=%EB%82%A8%EB%AA%85`
+
+### Strengthened already-known surfaces
+
+- `YJG-W8`
+  - stronger institutional digital surface confirmed through KORCIS
+- `YJG-W9`
+  - stronger institutional digital surface confirmed through KORCIS
+- `YJG-C2`
+  - two-scan set confirmed through the NLC file list
+
 ### Second-tier family controls
 
 - `YJG-W4D`

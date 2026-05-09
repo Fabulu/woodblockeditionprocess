@@ -76,6 +76,12 @@
       "date": "2026-05-09",
       "type": "witness_ingest_partial",
       "summary": "Downloaded the directly accessible Commons-backed first-tier exact tranche into the package and isolated the remaining first-tier witnesses as capture-path blockers rather than witness-discovery gaps."
+    },
+    {
+      "event_id": "YJG-013",
+      "date": "2026-05-09",
+      "type": "witness_hunt_extended",
+      "summary": "A further five-agent online witness sweep added additional Japanese anthology and exact leads, stronger Korean digital surfaces, and more scan-backed control witnesses without changing the first-tier exact core."
     }
   ]
 }

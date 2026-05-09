@@ -73,3 +73,18 @@
   - `YJG-W16`
   - `YJG-W17`
 - Reframed the next step from broad witness hunting to capture-path resolution for the remaining first-tier non-Commons scans.
+- Ran another five-agent online witness sweep before moving deeper into acquisition.
+- Added one further exact digital-content holding outside the current Japanese standalone cluster:
+  - `YJG-W18` Okura exact holding
+- Added stronger Japanese anthology-family online witnesses:
+  - `YJG-A6` NMOE image-backed `四部録`
+  - `YJG-A7` Yutoku image-backed `首書四部録` branch
+  - `YJG-A8` `1689` kana-marked `四部録`
+- Confirmed stronger scan surfaces for the already-known Korean exact family:
+  - clearer institutional digital surfaces for `YJG-W8` and `YJG-W9`
+- Added stronger Korean near-exact `南明` family controls with digital access:
+  - `YJG-C8`
+  - `YJG-C9`
+- Confirmed that the NLC `1504` commentary witness survives as a two-scan set rather than only a single opener.
+- Added a later scanned annotation control:
+  - `YJG-C7` `永嘉禪宗集註`

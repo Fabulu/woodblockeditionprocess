@@ -20,6 +20,7 @@
 | `YJG-W15` | `duplicate-risk-calligraphic` | `exact standalone witness` | `date not surfaced` | `證道가` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/44` | likely Zhao-Mengfu calligraphic manifestation rather than a fresh textual witness |
 | `YJG-W16` | `ranked-first-tier-capture-pending` | `exact standalone image witness` | `date not surfaced on exposed list` | `永嘉眞覺大師證道歌` | image-backed lead not yet locally captured | `https://kokusho.nijl.ac.jp/page/list-toyodaitetsugakudo.html` | image-backed Toyo witness; row metadata `BID 300094276`, `DIG-TOYU-73731` |
 | `YJG-W17` | `ranked-first-tier-capture-pending` | `exact standalone image witness` | `date not surfaced on exposed list` | `永嘉眞覺大師證道歌` | image-backed lead not yet locally captured | `https://kokusho.nijl.ac.jp/page/list-berkeleymitsui.html` | image-backed Berkeley witness; row metadata `BID 100175027`, film `225-0239-001` |
+| `YJG-W18` | `ranked-second-tier` | `exact standalone digital-content witness` | `date not surfaced on exposed record` | `永嘉眞覺大師證道歌` | digital-content lead not yet locally captured | `https://jpsearch.go.jp/item/okura-R100000147_I15073` | exact Okura holding outside the current NDL/Kyoto/Waseda cluster |
 
 ## Wenzhou child manifestations under `YJG-W4`
 
@@ -42,13 +43,19 @@
 | `YJG-A3` | `ranked-second-tier-overlap` | `near-exact anthology witness` | `1631` | `四部録` | not yet acquired into this package | `https://rmda.kulib.kyoto-u.ac.jp/item/rb00012929` | useful corrected `1631` line, but overlaps the already-held `1631` branch |
 | `YJG-A4` | `later-annotated-secondary` | `near-exact anthology witness` | `undated` | `四部録` | not yet acquired into this package | `https://www.wul.waseda.ac.jp/kotenseki/html/bunko31/bunko31_e1087/index.html` | likely later annotated `首書四部録` branch |
 | `YJG-A5` | `derivative-branch` | `near-exact derivative anthology witness` | `1647-1648` | `四部録抄` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/File:NDL2537799_%E5%9B%9B%E9%83%A8%E9%8C%B2%E6%8A%84.pdf` | derivative anthology branch containing `證道歌抄` |
+| `YJG-A6` | `ranked-second-tier` | `near-exact anthology witness` | `date not surfaced on exposed image list` | `四部録` | image-backed lead not yet locally captured | `https://kokusho.nijl.ac.jp/page/list-nmoe.html` | image-backed NMOE `四部録` holding; row metadata `BID 100436141`, `DIGNMOE00007` |
+| `YJG-A7` | `ranked-second-tier` | `annotated anthology branch` | `1698` lineage; later reprints` | `首書四部録` | image-backed lead not yet locally captured | `https://kokusho.nijl.ac.jp/page/list-yutoku.html` | image-backed annotated `四部録` branch with multiple holdings |
+| `YJG-A8` | `ranked-second-tier` | `kana-marked anthology branch` | `1689` | `四部録 : 片カナ付` | catalog-backed lead not yet locally captured | `https://ci.nii.ac.jp/ncid/BB2049625X` | compact kana-marked anthology branch distinct from plain and annotated `四部録` lines |
 
 ## Secondary related witnesses
 
 | Witness ID | Status | Type | Date | Title | Local Basis | Source / URL | Notes |
 |---|---|---|---|---|---|---|---|
 | `YJG-C1` | `held` | `related exact work by same authorial tradition` | `later print witness` | `禪宗永嘉集` | `Chan_School_Yongjia_Collection_Korea_Commons` | local plus Korea Commons lead | not the same text, but doctrinally and authorially related |
-| `YJG-C2` | `lead` | `commentary witness` | `1504` | `永嘉真覺大師證道歌注` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/File:NLC892-411999015042-116728_%E6%B0%B8%E5%98%89%E7%9C%9F%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C%E6%B3%A8_%E7%AC%AC1%E5%86%8A.pdf` | high-value early commentary lead; startup pass only confirmed vol. 1 page directly |
+| `YJG-C2` | `lead` | `commentary witness` | `1504` | `永嘉真覺大師證道歌注` | not yet acquired into this package | `https://commons.wikimedia.org/wiki/File:NLC892-411999015042-116728_%E6%B0%B8%E5%98%89%E7%9C%9F%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C%E6%B3%A8_%E7%AC%AC1%E5%86%8A.pdf` | high-value early commentary lead; now confirmed as a two-scan set through the NLC file list |
 | `YJG-C4` | `lead` | `translation / reception witness` | `1913` | Japanese translation anthology witness | not yet acquired into this package | `在家曹洞宗聖典` lead from scout research | reception witness only |
 | `YJG-C5` | `lead` | `commentary bibliographic lead` | `1896` | `永嘉真覺大師證道歌 1巻附音釋` | not yet acquired into this package | `https://cir.nii.ac.jp/crid/1130000795795114752` | late commentary print lead; not a base witness |
 | `YJG-C6` | `lead` | `commentary scan-convertible lead` | `1641` | `証道歌註` | not yet acquired into this package | `https://ndlsearch.ndl.go.jp/books/R100000133-IorgnB111617492` | older Japanese commentary-print lead |
+| `YJG-C7` | `lead` | `annotated related witness` | `1896` | `永嘉禪宗集註二卷` | scan-backed lead not yet locally captured | `https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/WZLib-DB/01` | later scanned annotation control |
+| `YJG-C8` | `lead` | `Korean near-exact control witness` | `1482` | `영가대사남명천선사계송. 권하` | digital surface not yet locally captured | `https://www.nl.go.kr/korcis/search/simpleResultList.do?searchCondition=all&searchKeyword=%EB%82%A8%EB%AA%85` | stronger Korean near-exact `南明` family control |
+| `YJG-C9` | `lead` | `Korean near-exact control witness` | `1482` | `영가대사증도가남명천선사계송` | digital surface not yet locally captured | `https://www.nl.go.kr/korcis/search/simpleResultList.do?searchCondition=all&searchKeyword=%EB%82%A8%EB%AA%85` | second Korean near-exact `南明` family control |

@@ -49,3 +49,8 @@
 
 - Decision: revise the first-tier queue after the targeted scan-gap hunt instead of keeping the earlier placeholder ranking fixed.
 - Reason: the targeted five-agent pass showed that some previously demoted Wenzhou witnesses are genuinely independent while one previously promoted Wenzhou file collapses into the NDL `1694` line. It also surfaced two additional image-backed exact Japanese standalones that deserve witness-object status.
+
+## D-011 `2026-05-09`
+
+- Decision: keep widening online witness coverage even after the first-tier queue is set, but treat most new additions as second-tier controls unless they materially threaten copy-text-family coverage.
+- Reason: the latest five-agent sweep found real additional witnesses, but mostly in anthology, annotated, or parallel-control branches. They are worth logging now without letting the edition drift away from the ranked exact core.

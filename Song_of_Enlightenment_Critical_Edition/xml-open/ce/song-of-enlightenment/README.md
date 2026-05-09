@@ -18,6 +18,7 @@ Current state:
 - first-tier independent exact witnesses ranked before OCR
 - targeted five-agent scan-gap hunt completed
 - direct Commons-backed first-tier ingest tranche completed
+- additional online witness sweep completed and logged
 - copy-text not yet selected
 
 Use `process.json` and `timeline.json` for machine-readable resumability.
