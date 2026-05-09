@@ -14,7 +14,11 @@
   - film no. `225-0239-001`
 - Current status:
   - ranked first-tier exact witness
-  - capture path still pending; not yet locally ingested
+  - IIIF manifest locally captured
+- Local file:
+  - `source/YJG-W17-berkeley-exact-standalone-manifest.json`
+- Direct manifest:
+  - `https://kokusho.nijl.ac.jp/biblio/100175027/manifest`
 - Notes:
   - image-backed exact holding outside the current NDL/Kyoto/Waseda cluster
   - candidate for the first OCR tranche once direct image capture or package-local ingestion is arranged

@@ -88,3 +88,10 @@
 - Confirmed that the NLC `1504` commentary witness survives as a two-scan set rather than only a single opener.
 - Added a later scanned annotation control:
   - `YJG-C7` `永嘉禪宗集註`
+- Ran a six-agent scan-capture push focused on the remaining first-tier blockers.
+- Captured `YJG-W8` locally as a direct PDF from the institutional Commons-backed surface.
+- Captured direct IIIF manifests for:
+  - `YJG-W16`
+  - `YJG-W17`
+- Confirmed that `YJG-W9` has a real institutional viewer path but no surfaced public PDF endpoint yet.
+- Confirmed that `YJG-W12` still has no public digital content and requires an institutional request path rather than a hidden open scan.

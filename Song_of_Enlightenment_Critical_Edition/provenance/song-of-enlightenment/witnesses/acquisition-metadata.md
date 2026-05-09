@@ -79,16 +79,34 @@
 
 ### Remaining first-tier capture blockers
 
-- `YJG-W8`
-  - scan-backed through the Korea backup surface, but direct package-local file capture path still needs to be pinned
 - `YJG-W9`
   - scan-backed catalog surface, but direct package-local file capture path still needs to be pinned
 - `YJG-W12`
   - manuscript metadata held; no direct public file surfaced yet
 - `YJG-W16`
-  - image-backed NIJL listing, but direct image capture path still needs to be pinned
+  - IIIF manifest captured locally, but page-image tranche not yet harvested
 - `YJG-W17`
-  - image-backed NIJL listing, but direct image capture path still needs to be pinned
+  - IIIF manifest captured locally, but page-image tranche not yet harvested
+
+### Six-agent capture push results
+
+- `YJG-W8`
+  - local file: `YJG-W8-korcis-1474-samhwasa/source/YJG-W8-korcis-1474-samhwasa.pdf`
+  - direct source:
+    - `https://upload.wikimedia.org/wikipedia/commons/8/86/CNTS-00047968014_%E8%AD%89%E9%81%93%E6%AD%8C.pdf`
+- `YJG-W16`
+  - local file: `YJG-W16-toyo-exact-standalone/source/YJG-W16-toyo-exact-standalone-manifest.json`
+  - direct manifest:
+    - `https://kokusho.nijl.ac.jp/biblio/300094276/manifest`
+- `YJG-W17`
+  - local file: `YJG-W17-berkeley-exact-standalone/source/YJG-W17-berkeley-exact-standalone-manifest.json`
+  - direct manifest:
+    - `https://kokusho.nijl.ac.jp/biblio/100175027/manifest`
+- `YJG-W9`
+  - viewer path pinned but no public PDF endpoint surfaced:
+    - `https://viewer.nl.go.kr/nlmivs/viewWonmun_js.jsp?cno=KOL000023634`
+- `YJG-W12`
+  - no public digital content exposed; institutional request route remains necessary
 
 ## 2026-05-09 additional online witness sweep
 

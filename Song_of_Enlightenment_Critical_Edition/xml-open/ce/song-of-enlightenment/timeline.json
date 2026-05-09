@@ -82,6 +82,12 @@
       "date": "2026-05-09",
       "type": "witness_hunt_extended",
       "summary": "A further five-agent online witness sweep added additional Japanese anthology and exact leads, stronger Korean digital surfaces, and more scan-backed control witnesses without changing the first-tier exact core."
+    },
+    {
+      "event_id": "YJG-014",
+      "date": "2026-05-09",
+      "type": "witness_capture_extended",
+      "summary": "A six-agent capture push brought in the Korean 1474 exact PDF and the Toyo and Berkeley IIIF manifests, while isolating YJG-W9 and YJG-W12 as the remaining first-tier capture blockers."
     }
   ]
 }

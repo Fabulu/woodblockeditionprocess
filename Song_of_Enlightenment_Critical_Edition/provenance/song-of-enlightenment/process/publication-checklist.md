@@ -13,6 +13,7 @@
 - [x] targeted five-agent scan-gap hunt logged
 - [x] direct first-tier Commons scan tranche ingested
 - [x] additional five-agent online witness sweep logged
+- [x] six-agent non-Commons first-tier capture push logged
 - [x] process.json created
 - [x] timeline.json created
 - [x] validate_package.py created

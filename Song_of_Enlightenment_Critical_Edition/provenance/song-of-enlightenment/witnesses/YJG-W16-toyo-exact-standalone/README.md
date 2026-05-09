@@ -14,7 +14,11 @@
   - image / digital id `DIG-TOYU-73731`
 - Current status:
   - ranked first-tier exact witness
-  - capture path still pending; not yet locally ingested
+  - IIIF manifest locally captured
+- Local file:
+  - `source/YJG-W16-toyo-exact-standalone-manifest.json`
+- Direct manifest:
+  - `https://kokusho.nijl.ac.jp/biblio/300094276/manifest`
 - Notes:
   - image-backed standalone exact holding outside the current NDL/Kyoto/Waseda cluster
   - candidate for the first OCR tranche once direct image capture or package-local ingestion is arranged

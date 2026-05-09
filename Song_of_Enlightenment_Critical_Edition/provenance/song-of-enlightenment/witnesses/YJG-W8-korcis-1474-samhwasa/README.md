@@ -8,4 +8,6 @@
 - Notes:
   - strong Korean exact witness line from the five-agent wave
   - likely independent from the current NDL + Wenzhou cluster
-  - capture path still pending; not yet locally ingested
+  - direct scan ingested into this package
+- Local file:
+  - `source/YJG-W8-korcis-1474-samhwasa.pdf`

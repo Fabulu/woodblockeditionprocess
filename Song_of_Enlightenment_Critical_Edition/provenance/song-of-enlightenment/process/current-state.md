@@ -5,7 +5,7 @@
 - Phase: `witness-hunt-and-edition-startup`
 - Current slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
 - Last completed slice: `witness_hunt_slice_ingest_direct_first_tier_commons_scans_partial`
-- Next required action: capture the remaining first-tier non-Commons exact witnesses into the package, using catalog or image-network paths where direct PDF download is not available, before OCR starts
+- Next required action: finish capturing the remaining first-tier non-Commons exact witnesses into the package; `YJG-W9` still needs viewer extraction and `YJG-W12` still requires a non-public institutional request path
 - Next required slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
 - Copy-text status: not yet selected
 - Translation status: not yet started
@@ -56,12 +56,13 @@
   - `YJG-W4C`
   - `YJG-W4F`
   - `YJG-W4G`
+- Additional first-tier capture from the latest sweep is now already held in-package:
+  - `YJG-W8` full PDF
+  - `YJG-W16` IIIF manifest
+  - `YJG-W17` IIIF manifest
 - The remaining first-tier witnesses still require non-Commons capture or catalog/image-network extraction:
-  - `YJG-W8`
   - `YJG-W9`
   - `YJG-W12`
-  - `YJG-W16`
-  - `YJG-W17`
 - The following are now second-tier exact or family controls:
   - `YJG-W18`
   - `YJG-W4D`
