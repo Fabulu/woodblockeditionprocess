@@ -9,9 +9,9 @@ Edition slug: `faith-in-mind`
 - Witness set: locked
 - Scope: poem-first main edition with parallel commentary secondary track
 - Copy-text: `T1` locked as starting spine, switch allowed only by logged evidence-based decision
-- Current phase: `poem_first_publication_candidate_with_anchor_backfill`
-- Last completed phase: `poem_first_time_travel_anchor_backfill_poem_v1`
-- Next required phase: `poem_first_readzen_handoff_and_rendering`
+- Current phase: `poem_first_readzen_handoff_prepared`
+- Last completed phase: `poem_first_readzen_handoff_spec_v1`
+- Next required phase: `poem_first_readzen_render_integration`
 
 ## Poem-first publication status
 
@@ -27,6 +27,13 @@ Edition slug: `faith-in-mind`
 - `anchor-event-log.jsonl` records the material poem-event deltas needed for synchronized Chinese and English time travel.
 - The backfill is intentionally selective: supplied lines, omission judgment, and poem-level corrected or remapped loci are anchored now; untouched stable poem loci remain page-addressable only until a later UI need forces more geometry.
 - No `T1` text changed in this backfill. `last_text_changed_event` remains `FIM-462`.
+
+## ReadZen handoff status
+
+- A dedicated ReadZen handoff spec now exists and names the authoritative files, UI layers, and honesty boundaries for this package.
+- A small machine-readable `render-manifest.json` now tells a frontend consumer that this is a poem-first critical edition with selective apparatus and event-driven time travel.
+- The stale scaffold `README.md` inside the package has been replaced with a current package-facing summary.
+- The package is now ready for frontend integration work rather than further internal edition shaping.
 
 ## Current overnight continuation status
 

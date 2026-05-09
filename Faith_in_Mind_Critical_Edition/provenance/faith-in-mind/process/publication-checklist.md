@@ -1,6 +1,6 @@
 # Publication Checklist: Faith in Mind
 
-Status: publication candidate, refinement still in progress
+Status: publication candidate with frontend handoff in progress
 
 ## Pre-publication gates
 
@@ -28,10 +28,15 @@ Status: publication candidate, refinement still in progress
 - [x] poem-first reading text extracted from commentary-heavy working state
 - [x] commentary and reception material demoted to a parallel secondary track
 - [x] editorial introduction polished beyond first-draft state
+- [x] poem-only evented-anchor backfill completed for material publication events
+- [x] ReadZen handoff spec prepared
+- [x] frontend render manifest prepared
 
 ## Current blocker
 
-The project is no longer blocked on text recovery. The remaining work is external publication polish:
+The project is no longer blocked on text recovery or package-internal publication prep. The remaining work is frontend integration:
 
-- validate TEI against an external schema if desired,
-- and run additional schema validation where desired.
+- render the poem-first edition in ReadZen
+- expose the selective apparatus cleanly
+- wire synchronized Chinese and English time travel to the evented-anchor layer
+- wire page or band-level evidence jumps and source links

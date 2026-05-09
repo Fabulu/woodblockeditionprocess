@@ -15830,5 +15830,39 @@
         "last_completed_phase": "poem_first_time_travel_anchor_backfill_poem_v1",
         "last_text_changed_event": "FIM-462"
       }
+    },
+    {
+      "id": "FIM-465",
+      "date": "2026-05-09",
+      "phase": "poem_first_publication",
+      "title": "Prepared the ReadZen handoff package for rendering and interactive delivery",
+      "summary": "The frontend handoff layer was prepared on top of the stabilized poem-first publication package. A dedicated readzen-handoff.md now states the intended reader experience, the authoritative files, the three UI layers, the selective apparatus behavior, the event-driven synchronized Chinese-and-English time-travel rules, and the honesty boundary on evidence jumps and character-level drilldown. A machine-readable render-manifest.json was also added so a consumer can treat the package as a poem-first critical edition with selective apparatus and bounded evidence navigation rather than as a commentary archive or scaffold. The stale ce.faith-in-mind README was replaced with a current package summary, and the handoff document was registered in documents.json. No T1 text changed in this packaging step.",
+      "files_changed": [
+        "xml-open/ce/faith-in-mind/README.md",
+        "xml-open/ce/faith-in-mind/render-manifest.json",
+        "xml-open/ce/faith-in-mind/documents.json",
+        "provenance/faith-in-mind/edition/readzen-handoff.md",
+        "provenance/faith-in-mind/process/publication-checklist.md",
+        "provenance/faith-in-mind/process/current-state.md",
+        "provenance/faith-in-mind/process/process-log.md",
+        "provenance/faith-in-mind/process/human-log.md",
+        "xml-open/ce/faith-in-mind/process.json",
+        "xml-open/ce/faith-in-mind/timeline.json"
+      ],
+      "evidence_links": [
+        "xml-open/ce/faith-in-mind/faith-in-mind.xml",
+        "xml-open/ce/faith-in-mind/apparatus.json",
+        "provenance/faith-in-mind/process/anchor-base-register.jsonl",
+        "provenance/faith-in-mind/process/anchor-event-log.jsonl",
+        "provenance/faith-in-mind/edition/editorial-introduction.md",
+        "provenance/faith-in-mind/edition/editorial-method.md",
+        "provenance/faith-in-mind/edition/commentary-secondary-track.md"
+      ],
+      "status": "completed",
+      "state_effect": {
+        "next_required_slice": "poem_first_readzen_render_integration",
+        "last_completed_phase": "poem_first_readzen_handoff_spec_v1",
+        "last_text_changed_event": "FIM-462"
+      }
     }  ]
 }

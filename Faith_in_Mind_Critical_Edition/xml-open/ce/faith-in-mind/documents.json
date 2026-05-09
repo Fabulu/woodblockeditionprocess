@@ -69,6 +69,10 @@
       "path": "../../../provenance/faith-in-mind/edition/editorial-introduction.md"
     },
     {
+      "kind": "readzen_handoff",
+      "path": "../../../provenance/faith-in-mind/edition/readzen-handoff.md"
+    },
+    {
       "kind": "commentary_secondary_track",
       "path": "../../../provenance/faith-in-mind/edition/commentary-secondary-track.md"
     },
