@@ -1,0 +1,60 @@
+{
+  "edition_slug": "faith-in-mind",
+  "display_mode": "poem_first_critical_edition",
+  "status": "readzen_handoff_prepared",
+  "primary_text": {
+    "tei_path": "faith-in-mind.xml",
+    "apparatus_path": "apparatus.json",
+    "intro_path": "../../../provenance/faith-in-mind/edition/editorial-introduction.md",
+    "method_path": "../../../provenance/faith-in-mind/edition/editorial-method.md"
+  },
+  "time_travel": {
+    "enabled": true,
+    "event_log_path": "../../../provenance/faith-in-mind/process/anchor-event-log.jsonl",
+    "anchor_base_path": "../../../provenance/faith-in-mind/process/anchor-base-register.jsonl",
+    "timeline_path": "timeline.json",
+    "synchronized_translation": true,
+    "granularity": "event_delta"
+  },
+  "evidence_navigation": {
+    "page_jump_enabled": true,
+    "band_jump_enabled": true,
+    "source_download_links_enabled": true,
+    "character_level_universal": false
+  },
+  "ui_layers": {
+    "reading": {
+      "default_visible": true,
+      "includes": [
+        "poem_text",
+        "line_numbers"
+      ],
+      "excludes": [
+        "commentary_prose",
+        "workflow_archaeology",
+        "x_source_chain_history"
+      ]
+    },
+    "editorial": {
+      "default_visible": true,
+      "includes": [
+        "editorial_introduction",
+        "editorial_method",
+        "selective_apparatus"
+      ]
+    },
+    "research": {
+      "default_visible": false,
+      "includes": [
+        "process_logs",
+        "witness_register",
+        "commentary_secondary_track"
+      ]
+    }
+  },
+  "notes": [
+    "The apparatus is selective and poem-level only.",
+    "Supplied and omitted loci may resolve through both the T1 boundary page and a comparison witness page band.",
+    "The evented-anchor layer is intentionally poem-first and selective rather than commentary-universal."
+  ]
+}
