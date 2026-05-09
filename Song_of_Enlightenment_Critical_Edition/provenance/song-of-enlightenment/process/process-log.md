@@ -61,3 +61,15 @@
 - Added two further image-backed exact Japanese standalone witnesses:
   - `YJG-W16` Toyo
   - `YJG-W17` Berkeley
+- Downloaded the directly accessible Commons-backed first-tier tranche into the package:
+  - `YJG-W2`
+  - `YJG-W4C`
+  - `YJG-W4F`
+  - `YJG-W4G`
+- Confirmed that the remaining first-tier witnesses are real but not yet directly ingestible by the same route:
+  - `YJG-W8`
+  - `YJG-W9`
+  - `YJG-W12`
+  - `YJG-W16`
+  - `YJG-W17`
+- Reframed the next step from broad witness hunting to capture-path resolution for the remaining first-tier non-Commons scans.

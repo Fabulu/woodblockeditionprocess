@@ -11,6 +11,7 @@
 - [x] second five-agent witness expansion logged
 - [x] first-tier ranking and duplicate-risk pruning logged
 - [x] targeted five-agent scan-gap hunt logged
+- [x] direct first-tier Commons scan tranche ingested
 - [x] process.json created
 - [x] timeline.json created
 - [x] validate_package.py created

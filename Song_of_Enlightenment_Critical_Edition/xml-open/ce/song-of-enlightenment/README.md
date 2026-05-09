@@ -17,6 +17,7 @@ Current state:
 - second five-agent witness wave added more Korean exact-title leads and a derivative anthology branch
 - first-tier independent exact witnesses ranked before OCR
 - targeted five-agent scan-gap hunt completed
+- direct Commons-backed first-tier ingest tranche completed
 - copy-text not yet selected
 
 Use `process.json` and `timeline.json` for machine-readable resumability.

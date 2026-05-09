@@ -8,3 +8,4 @@
 - Notes:
   - strong Korean exact witness line from the five-agent wave
   - likely independent from the current NDL + Wenzhou cluster
+  - capture path still pending; not yet locally ingested

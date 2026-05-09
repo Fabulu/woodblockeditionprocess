@@ -10,3 +10,4 @@
 - Notes:
   - manuscript / copy witness
   - likely independent Japanese reception-copy family
+  - metadata held, but no direct public file has yet been ingested

@@ -3,10 +3,10 @@
 - Work: `永嘉證道歌` / `song-of-enlightenment`
 - Date: `2026-05-09`
 - Phase: `witness-hunt-and-edition-startup`
-- Current slice: `witness_hunt_slice_targeted_scan_hunt_after_family_ranking`
-- Last completed slice: `witness_hunt_slice_targeted_scan_hunt_after_family_ranking`
-- Next required action: ingest the first-tier scan-backed exact witnesses into the package, keep the bibliographic-only and commentary-bearing lines secondary, and only continue hunting where a family or region gap still remains after first-tier acquisition
-- Next required slice: `witness_hunt_slice_ingest_first_tier_exact_scans_for_ocr`
+- Current slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
+- Last completed slice: `witness_hunt_slice_ingest_direct_first_tier_commons_scans_partial`
+- Next required action: capture the remaining first-tier non-Commons exact witnesses into the package, using catalog or image-network paths where direct PDF download is not available, before OCR starts
+- Next required slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
 - Copy-text status: not yet selected
 - Translation status: not yet started
 
@@ -46,6 +46,17 @@
   - `YJG-W12` manuscript witness
   - `YJG-W16` Toyo exact standalone image witness
   - `YJG-W17` Berkeley exact standalone image witness
+- The direct Commons tranche is now already held in-package:
+  - `YJG-W2`
+  - `YJG-W4C`
+  - `YJG-W4F`
+  - `YJG-W4G`
+- The remaining first-tier witnesses still require non-Commons capture or catalog/image-network extraction:
+  - `YJG-W8`
+  - `YJG-W9`
+  - `YJG-W12`
+  - `YJG-W16`
+  - `YJG-W17`
 - The following are now second-tier exact or family controls:
   - `YJG-W4D`
   - `YJG-W4E`
@@ -68,7 +79,7 @@
 
 ## Immediate priorities
 
-1. Ingest the first-tier scan-backed exact witnesses before any OCR starts.
+1. Capture the remaining first-tier non-Commons exact witnesses before any OCR starts.
 2. Keep separating likely duplicate or recut Wenzhou manifestations from genuinely independent exact witnesses.
 3. Preserve Korean exact backup leads without letting them crowd out the already ranked first-tier queue.
 4. Treat anthology and derivative branches as controls unless they prove needed for a family gap.

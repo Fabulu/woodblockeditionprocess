@@ -14,7 +14,7 @@
   - image / digital id `DIG-TOYU-73731`
 - Current status:
   - ranked first-tier exact witness
-  - not yet ingested locally
+  - capture path still pending; not yet locally ingested
 - Notes:
   - image-backed standalone exact holding outside the current NDL/Kyoto/Waseda cluster
   - candidate for the first OCR tranche once direct image capture or package-local ingestion is arranged

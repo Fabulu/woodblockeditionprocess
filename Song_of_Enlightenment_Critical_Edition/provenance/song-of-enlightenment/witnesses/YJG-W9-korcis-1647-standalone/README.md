@@ -8,3 +8,4 @@
 - Notes:
   - second Korean standalone exact line
   - likely independent from both `YJG-W8` and the Japanese anthology cluster
+  - capture path still pending; not yet locally ingested

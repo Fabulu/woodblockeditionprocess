@@ -70,6 +70,12 @@
       "date": "2026-05-09",
       "type": "witness_hunt_targeted",
       "summary": "A targeted five-agent scan-gap hunt revised the first-tier queue, confirmed new Japanese image-backed exact standalones, and clarified which Wenzhou and Korean branches are truly independent."
+    },
+    {
+      "event_id": "YJG-012",
+      "date": "2026-05-09",
+      "type": "witness_ingest_partial",
+      "summary": "Downloaded the directly accessible Commons-backed first-tier exact tranche into the package and isolated the remaining first-tier witnesses as capture-path blockers rather than witness-discovery gaps."
     }
   ]
 }

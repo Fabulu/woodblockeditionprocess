@@ -62,6 +62,34 @@
    - Berkeley exact standalone image witness
    - image-backed overseas holding outside the current NDL/Kyoto/Waseda cluster
 
+### Direct Commons tranche now ingested locally
+
+- `YJG-W2`
+  - local file: `YJG-W2-ndl-1694-standalone/source/YJG-W2-ndl-1694-standalone.pdf`
+  - size: `202736072` bytes
+- `YJG-W4C`
+  - local file: `YJG-W4C-wzlib-433459/source/YJG-W4C-wzlib-433459.pdf`
+  - size: `2088143` bytes
+- `YJG-W4F`
+  - local file: `YJG-W4F-wzlib-433359/source/YJG-W4F-wzlib-433359.pdf`
+  - size: `105847974` bytes
+- `YJG-W4G`
+  - local file: `YJG-W4G-wzlib-433439/source/YJG-W4G-wzlib-433439.pdf`
+  - size: `43593015` bytes
+
+### Remaining first-tier capture blockers
+
+- `YJG-W8`
+  - scan-backed through the Korea backup surface, but direct package-local file capture path still needs to be pinned
+- `YJG-W9`
+  - scan-backed catalog surface, but direct package-local file capture path still needs to be pinned
+- `YJG-W12`
+  - manuscript metadata held; no direct public file surfaced yet
+- `YJG-W16`
+  - image-backed NIJL listing, but direct image capture path still needs to be pinned
+- `YJG-W17`
+  - image-backed NIJL listing, but direct image capture path still needs to be pinned
+
 ### Second-tier family controls
 
 - `YJG-W4D`
