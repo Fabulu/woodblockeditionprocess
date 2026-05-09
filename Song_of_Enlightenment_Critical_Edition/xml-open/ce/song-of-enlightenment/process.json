@@ -1,0 +1,35 @@
+{
+  "project": {
+    "slug": "song-of-enlightenment",
+    "title_zh": "永嘉證道歌",
+    "title_en": "Song of Enlightenment",
+    "edition_type": "critical_edition",
+    "scope_mode": "poem_first"
+  },
+  "current_phase": "witness-hunt-and-edition-startup",
+  "current_slice": "witness_hunt_slice_initial_local_and_web_scout",
+  "last_completed_slice": "package_scaffold_and_initial_witness_hunt_setup",
+  "next_required_action": "Acquire the strongest exact standalone witnesses, classify witness families, and decide the first copy-text family before OCR begins.",
+  "next_required_slice": "witness_hunt_slice_acquire_exact_witnesses_and_lock_family_map",
+  "last_text_changed_event": null,
+  "base_witness": {
+    "status": "unlocked",
+    "note": "No copy-text selected yet; inherited anthology witness recorded as startup basis only."
+  },
+  "witness_families": [
+    {
+      "family_id": "exact-poem",
+      "status": "open"
+    },
+    {
+      "family_id": "commentary-reception",
+      "status": "secondary-open"
+    }
+  ],
+  "translation_sync": {
+    "status": "not_started"
+  },
+  "evented_anchor_protocol": {
+    "status": "required_from_first_text_change"
+  }
+}

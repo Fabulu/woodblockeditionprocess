@@ -1,0 +1,21 @@
+{
+  "project": {
+    "slug": "song-of-enlightenment",
+    "title_zh": "永嘉證道歌",
+    "title_en": "Song of Enlightenment"
+  },
+  "events": [
+    {
+      "event_id": "YJG-001",
+      "date": "2026-05-09",
+      "type": "project_opened",
+      "summary": "Opened a dedicated critical-edition package for Song of Enlightenment."
+    },
+    {
+      "event_id": "YJG-002",
+      "date": "2026-05-09",
+      "type": "witness_hunt_started",
+      "summary": "Recorded the inherited local anthology witness, scoped additional exact witness leads, and initialized all required process surfaces."
+    }
+  ]
+}

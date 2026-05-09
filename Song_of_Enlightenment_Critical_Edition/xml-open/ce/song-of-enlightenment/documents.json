@@ -1,0 +1,19 @@
+{
+  "documents": [
+    {
+      "id": "startup-brief",
+      "title": "Startup Brief",
+      "path": "provenance/song-of-enlightenment/edition/startup-brief.md"
+    },
+    {
+      "id": "witness-register",
+      "title": "Witness Register",
+      "path": "provenance/song-of-enlightenment/witnesses/witness-register.md"
+    },
+    {
+      "id": "acquisition-metadata",
+      "title": "Acquisition Metadata",
+      "path": "provenance/song-of-enlightenment/witnesses/acquisition-metadata.md"
+    }
+  ]
+}
