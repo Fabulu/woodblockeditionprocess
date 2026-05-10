@@ -84,3 +84,8 @@
 
 - Decision: treat the next `song-of-enlightenment` slice as OCR-first preflight with mandatory tiered evidence capture, not as generic OCR startup.
 - Reason: the ReadZen side can now consume evidence tiers and character-level boxes directly. That means the edition process must capture page/line anchors for every poem locus and require PaddleOCR word-box output for loci that may later need character-level apparatus evidence.
+
+## D-018 `2026-05-10`
+
+- Decision: promote `YJG-W22` into the active first-tier exact queue, admit `YJG-W23`/`W24`/`W25` and `YJG-W28` as real new branch evidence, and collapse `YJG-W18` as non-independent from `YJG-W2`.
+- Reason: the five-agent post-preflight witness wave surfaced one genuinely strong early Japanese exact print line and several real fragmentary or branch-significant witnesses, while also resolving that the Okura lead does not widen the exact family independently.

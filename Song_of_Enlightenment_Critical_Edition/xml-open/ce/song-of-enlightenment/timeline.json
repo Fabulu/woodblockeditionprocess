@@ -124,6 +124,18 @@
       "date": "2026-05-10",
       "type": "protocol_adopted",
       "summary": "Re-read the binding edition protocols after ReadZen-side critical-edition support advanced and moved the package into OCR-first preflight with mandatory tiered evidence capture, anchor transparency fields, and Paddle word-box support requirements."
+    },
+    {
+      "event_id": "YJG-021",
+      "date": "2026-05-10",
+      "type": "witness_hunt_extended",
+      "summary": "A five-agent post-preflight witness wave added a new 1641 NIJL exact standalone lead, three exact fragmentary NIJL witnesses, one new Korean metadata-only exact line, one image-backed Korean exact branch lead, and several new Kyushu / Kyoto control branches while also resolving stronger direct asset paths for older Korean backup leads."
+    },
+    {
+      "event_id": "YJG-022",
+      "date": "2026-05-10",
+      "type": "witness_hunt_refined",
+      "summary": "The same wave established that YJG-W18 is not independent from the held 1694 line, and that YJG-W12 and YJG-W7 remain blocked or bibliographic-only rather than latent public-scan wins."
     }
   ]
 }

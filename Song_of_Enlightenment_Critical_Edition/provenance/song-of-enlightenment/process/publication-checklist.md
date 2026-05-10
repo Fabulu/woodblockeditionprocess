@@ -21,6 +21,7 @@
 - [x] second-tier image harvest completed for `YJG-W20`
 - [x] post-harvest rank/prune pass logged
 - [x] OCR preflight evidence requirements logged
+- [x] post-preflight five-agent witness expansion logged
 - [x] process.json created
 - [x] timeline.json created
 - [x] validate_package.py created

@@ -258,6 +258,127 @@
 - `YJG-A3`
 - `YJG-A4`
 
+## 2026-05-10 five-agent post-preflight witness expansion
+
+### New exact Japanese leads
+
+- `YJG-W22`
+  - `1641` (`寛永18`)
+  - NIJL direct manifest:
+    - `https://kokusho.nijl.ac.jp/biblio/200009070/manifest`
+  - role:
+    - strong independent early Japanese exact print line outside the current Wenzhou / Commons cluster
+
+- `YJG-W23`
+  - undated exact fragmentary witness
+  - NIJL direct manifest:
+    - `https://kokusho.nijl.ac.jp/biblio/200015793/manifest`
+  - exposed canvases:
+    - `8`
+  - role:
+    - fragmentary exact-title witness with distinct NIJL shelfmark `ヤ5-468`
+
+- `YJG-W24`
+  - undated exact fragmentary witness
+  - NIJL direct manifest:
+    - `https://kokusho.nijl.ac.jp/biblio/200010121/manifest`
+  - exposed canvases:
+    - `6`
+  - role:
+    - fragmentary exact-title witness with distinct image lineage `0110-223408`
+
+- `YJG-W25`
+  - undated exact fragmentary witness
+  - NIJL direct manifest:
+    - `https://kokusho.nijl.ac.jp/biblio/200011899/manifest`
+  - exposed canvases:
+    - `8`
+  - role:
+    - fragmentary exact-title witness with distinct NIJL shelfmark `ヤ5-412`
+
+### New Korean leads and branch clarifications
+
+- `YJG-W27`
+  - `1574`
+  - Dongguk bibliographic portal:
+    - `https://buddhaland.dongguk.edu/bulVoca/view?dataId=KBDI0002396`
+  - role:
+    - metadata-only Korean exact line between `YJG-W21` (`1576`) and `YJG-W9` (`1647`)
+
+- `YJG-W28`
+  - `15th-16th century`
+  - image-backed KABC record:
+    - `https://kabc.dongguk.edu/inLinkFromBulSJ?dataId=ABC_NC_03115`
+  - role:
+    - strengthens the Zhao-Mengfu / calligraphic-recut Korean branch with a real image-backed exact witness
+
+- `YJG-W11` branch strengthening
+  - Ulsan Museum / Yangdeoksa public heritage record:
+    - `https://www.heritage.go.kr/heri/cul/culSelectDetail.do?assetnamel=&ccbaAsno=00190000&ccbaCpno=2112600190000&ccbaCtcd=26&ccbaKdcd=21&ccbaLcto=00&culPageNo=4&header=region&pageNo=1_1_2_0&pageNo__=1_3_1_1&returnUrl=%2Fheri%2Fcul%2FculSelectRegionList.do&s_ctcd=26&s_kdcd=`
+  - AKS encyclopedic support:
+    - `https://encykorea.aks.ac.kr/Article/E0072995`
+  - role:
+    - stronger public institutional holding for the `을해자` line already represented in `YJG-W11`
+
+### Stronger public asset paths for existing Korean backup leads
+
+- `YJG-W13`
+  - direct Commons file page:
+    - `https://commons.wikimedia.org/wiki/File:CNTS-00047980747_%E8%AD%89%E9%81%93%EA%B0%80.pdf`
+
+- `YJG-W14`
+  - direct Commons file page:
+    - `https://commons.wikimedia.org/wiki/File:CNTS-00047980639_%E8%AD%89%E9%81%93%E6%AD%8C.pdf`
+
+- `YJG-W15`
+  - direct Commons file page:
+    - `https://commons.wikimedia.org/wiki/File:CNTS-00047989192_%E8%AD%89%E9%81%93%EA%B0%80.pdf`
+
+### New anthology and appended controls
+
+- `YJG-A10`
+  - `1631`
+  - `四部録抄`
+  - Kyushu digital facsimile:
+    - `https://catalog.lib.kyushu-u.ac.jp/ja/recordID/7378013`
+
+- `YJG-A11`
+  - `1648`
+  - `校正四部録`
+  - Kyushu digital facsimile:
+    - `https://catalog.lib.kyushu-u.ac.jp/ja/recordID/7326258`
+
+- `YJG-A12`
+  - `1647`
+  - `四部録抄`
+  - Nagoya / NIJL-linked image-backed witness:
+    - `https://ci.nii.ac.jp/ncid/BB07922477`
+
+- `YJG-A13`
+  - undated manuscript
+  - `入衆日用` with appended `證道歌`
+  - Kyoto RMDA witness:
+    - `https://rmda.kulib.kyoto-u.ac.jp/en/item/rb00016909`
+
+### Dead-end or collapse conclusions from the same wave
+
+- `YJG-W12`
+  - current public status:
+    - metadata only
+    - no digital content
+  - confirmation:
+    - `https://jpsearch.go.jp/item/nme_lib_books-HL00466363`
+
+- `YJG-W18`
+  - collapsed as non-independent from `YJG-W2`
+  - viewer-only Okura holding:
+    - `https://okuraken-lib.opac.jp/opac/Holding_list/detail?rgtn=15073`
+  - reason:
+    - direct detail matches the same `1694` imprint line already represented by `YJG-W2`
+
+- `YJG-W7`
+  - remains bibliographic only with no public scan surfaced
+
 ### Duplicate-risk, derivative, bibliographic-only, or backup-only for now
 
 - `YJG-W4A`

@@ -140,3 +140,27 @@
   - explicit `evidence_tier` and `char_coverage` capture in future anchor rows
 - Confirmed that PaddleOCR must be configured with `return_word_box: True` when the first OCR tranche starts so character-level evidence can be emitted when needed.
 - Shifted the package from pure witness-hunt startup into OCR-and-evidence-capture preflight while keeping `YJG-W12` open as a capture blocker rather than a blocker on all OCR.
+- Ran a fresh five-agent witness wave after the OCR-preflight adoption commit instead of rushing into OCR.
+- Added a new high-value Japanese exact standalone lead:
+  - `YJG-W22` `1641` NIJL `證道歌` with direct public IIIF manifest
+- Added three new exact fragmentary NIJL witnesses with direct public manifests:
+  - `YJG-W23`
+  - `YJG-W24`
+  - `YJG-W25`
+- Added a new Korean metadata-only exact line:
+  - `YJG-W27` `1574`
+- Added a new image-backed Korean exact lead strengthening the Zhao-Mengfu / calligraphic-recut branch:
+  - `YJG-W28`
+- Confirmed a stronger public institutional holding for the older Korean `을해자` line already represented by `YJG-W11`.
+- Surfaced stronger direct public PDF file pages for:
+  - `YJG-W13`
+  - `YJG-W14`
+  - `YJG-W15`
+- Added new anthology and appended control branches:
+  - `YJG-A10` `1631` `四部録抄`
+  - `YJG-A11` `1648` `校正四部録`
+  - `YJG-A12` `1647` `四部録抄`
+  - `YJG-A13` `入衆日用` with appended `證道歌`
+- Confirmed that `YJG-W12` remains metadata-only with no public digital content.
+- Confirmed that `YJG-W18` is viewer-only and not independent from the already held `1694` line represented by `YJG-W2`.
+- Confirmed that `YJG-W7` remains a bibliographic-only dead end with no public scan surfaced.

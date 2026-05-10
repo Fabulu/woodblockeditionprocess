@@ -2,11 +2,11 @@
 
 - Work: `永嘉證道歌` / `song-of-enlightenment`
 - Date: `2026-05-10`
-- Phase: `ocr-startup-and-evidence-capture-preparation`
-- Current slice: `ocr_startup_slice_adopt_tiered_evidence_capture_and_first_tier_core_preflight`
-- Last completed slice: `witness_hunt_slice_rank_and_prune_after_second_tier_harvest`
-- Next required action: keep `YJG-W12` as the lone first-tier capture blocker, but move the package into OCR-first preflight for the already held first-tier exact core; before the first OCR run, require page-plus-line anchors for every poem locus, require character-tier anchors for any apparatus-contested locus, and run PaddleOCR with `return_word_box: True` so future character boxes can be emitted when needed
-- Next required slice: `ocr_startup_slice_first_tier_exact_core_with_tiered_evidence_capture`
+- Phase: `witness-hunt-and-ocr-preflight-overlap`
+- Current slice: `witness_hunt_slice_five_agent_expansion_after_tiered_preflight_adoption`
+- Last completed slice: `witness_hunt_slice_five_agent_expansion_after_tiered_preflight_adoption`
+- Next required action: treat `YJG-W22` as a newly surfaced first-tier Japanese exact lead, keep `YJG-W23`/`YJG-W24`/`YJG-W25` as fragmentary exact second-tier leads, open `YJG-W28` and the new Kyushu / Kyoto control branches as real witness objects, and treat `YJG-W12`, `YJG-W18`, and `YJG-W7` as currently blocked or non-independent rather than live near-term acquisition wins
+- Next required slice: `witness_hunt_slice_capture_new_nijl_and_kyushu_leads_before_first_ocr_tranche`
 - Copy-text status: not yet selected
 - Translation status: not yet started
 
@@ -35,6 +35,15 @@
   - one newly opened `1672` Berkeley `四部録` control with a direct public IIIF manifest
   - one second-tier exact witness `YJG-W19` is now fully harvested as a local image tranche
   - one second-tier manuscript container `YJG-W20` is now fully harvested as a local image tranche after a slower resumable pull
+  - one newly surfaced `1641` NIJL exact standalone witness with a direct public manifest
+  - three newly surfaced NIJL exact fragmentary witnesses with direct public manifests
+  - one new Korean `1574` metadata-only exact lead
+  - one new image-backed Korean exact lead strengthening the Zhao-Mengfu / calligraphic-recut branch
+  - one stronger public institutional holding for the older Korean `을해자` line
+  - one `1631` Kyushu `四部録抄` derivative branch with manifest-backed digital facsimile
+  - one `1648` Kyushu `校正四部録` corrected branch with manifest-backed digital facsimile
+  - one `1647` Nagoya / NIJL-linked `四部録抄` derivative branch
+  - one Kyoto manuscript `入衆日用` container with appended `證道歌`
   - a dated NLC commentary witness
   - an older Japanese commentary-print lead `証道歌註` (`1641`)
   - an image-backed `四部録` holding in the NMOE network
@@ -61,6 +70,7 @@
   - `YJG-W4C` early exact Wenzhou/Korean line
   - `YJG-W4F` `1341` Yuan exact line
   - `YJG-W4G` `1474` Korean exact line in the Wenzhou backup family
+  - `YJG-W22` NIJL `1641` standalone exact witness
   - `YJG-W12` manuscript witness
   - `YJG-W16` Toyo exact standalone image witness
   - `YJG-W17` Berkeley exact standalone image witness
@@ -78,13 +88,18 @@
 - The remaining first-tier witnesses still require non-Commons capture or catalog/image-network extraction:
   - `YJG-W12`
 - The following are now second-tier exact or family controls:
-  - `YJG-W18`
+  - `YJG-W18` viewer-only and not independent from `YJG-W2`
   - `YJG-W19` held as a direct public IIIF v3 manifest plus full local image tranche
   - `YJG-W20` held as a direct public Gallica IIIF v2 manifest plus full local image tranche
   - `YJG-W4D`
   - `YJG-W4E`
   - `YJG-W10`
   - `YJG-W11`
+  - `YJG-W23`
+  - `YJG-W24`
+  - `YJG-W25`
+  - `YJG-W27`
+  - `YJG-W28`
   - `YJG-W5`
   - `YJG-W6`
   - `YJG-A1`
@@ -92,10 +107,14 @@
   - `YJG-A6`
   - `YJG-A7`
   - `YJG-A9`
+  - `YJG-A10`
+  - `YJG-A11`
+  - `YJG-A12`
+  - `YJG-A13`
 - The following are currently treated as duplicate-risk, derivative, bibliographic-only, or backup-only branches:
   - `YJG-W4A`
   - `YJG-W4B`
-  - `YJG-W7`
+  - `YJG-W7` dead-end bibliographic only
   - `YJG-W13`
   - `YJG-W14`
   - `YJG-W15`
@@ -106,10 +125,10 @@
 
 ## Immediate priorities
 
-1. Keep `YJG-W12` open as a first-tier scan blocker, but do not let it prevent OCR preflight on the already held exact core.
+1. Capture or manifest-ingest the newly surfaced NIJL and Kyushu leads before the first OCR tranche, especially `YJG-W22`, `YJG-A10`, and `YJG-A11`.
 2. Keep separating likely duplicate or recut Wenzhou manifestations from genuinely independent exact witnesses.
-3. Preserve Korean exact backup leads without letting them crowd out the already ranked first-tier queue.
-4. Treat anthology and derivative branches as controls unless they prove needed for a family gap.
+3. Preserve Korean exact backup leads without letting them crowd out the already ranked first-tier queue, but keep `YJG-W28` active as a real image-backed branch gain.
+4. Treat anthology and derivative branches as controls unless they prove needed for a family gap, while admitting the new Kyushu and Kyoto control branches into the live map.
 5. Continue exact-witness hunting only where a scan gap still threatens family coverage.
 6. Distinguish exact text witnesses from commentary, anthology, translation, and reception-only controls.
 7. Treat the witness family map as secure enough for OCR preflight, while leaving copy-text lock and deeper editorial adjudication for after the first OCR tranche.
