@@ -132,3 +132,11 @@
   - `185` images
 - Ran one more five-agent wave and confirmed that no clearly independent new exact branch had surfaced beyond the current exact-family core.
 - Pruned the anthology-control layer so only the strongest non-overlapping image-backed container states remain active.
+- Re-read the binding edition protocols after ReadZen-side critical-edition support advanced.
+- Confirmed that the next `song-of-enlightenment` phase must not begin OCR as geometry-blind transcription.
+- Confirmed the package now owes:
+  - page-tier and line-tier anchor planning for every poem line
+  - character-tier planning for apparatus or character-contested loci
+  - explicit `evidence_tier` and `char_coverage` capture in future anchor rows
+- Confirmed that PaddleOCR must be configured with `return_word_box: True` when the first OCR tranche starts so character-level evidence can be emitted when needed.
+- Shifted the package from pure witness-hunt startup into OCR-and-evidence-capture preflight while keeping `YJG-W12` open as a capture blocker rather than a blocker on all OCR.

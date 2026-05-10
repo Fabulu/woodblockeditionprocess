@@ -2,11 +2,11 @@
 
 - Work: `永嘉證道歌` / `song-of-enlightenment`
 - Date: `2026-05-10`
-- Phase: `witness-hunt-and-edition-startup`
-- Current slice: `witness_hunt_slice_rank_and_prune_after_second_tier_harvest`
+- Phase: `ocr-startup-and-evidence-capture-preparation`
+- Current slice: `ocr_startup_slice_adopt_tiered_evidence_capture_and_first_tier_core_preflight`
 - Last completed slice: `witness_hunt_slice_rank_and_prune_after_second_tier_harvest`
-- Next required action: keep `YJG-W12` as the lone first-tier capture blocker, treat `YJG-W19` and `YJG-W20` as held second-tier image witnesses, and only reopen broad witness hunting if a clearly independent scan-backed exact branch surfaces
-- Next required slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
+- Next required action: keep `YJG-W12` as the lone first-tier capture blocker, but move the package into OCR-first preflight for the already held first-tier exact core; before the first OCR run, require page-plus-line anchors for every poem locus, require character-tier anchors for any apparatus-contested locus, and run PaddleOCR with `return_word_box: True` so future character boxes can be emitted when needed
+- Next required slice: `ocr_startup_slice_first_tier_exact_core_with_tiered_evidence_capture`
 - Copy-text status: not yet selected
 - Translation status: not yet started
 
@@ -47,6 +47,13 @@
 ## Ranked exact-family posture
 
 - The package is no longer in undifferentiated witness expansion mode.
+- The package has now adopted the ReadZen-facing tiered evidence rule for the next edition phase:
+  - Tier 1 `page` anchor for every poem locus
+  - Tier 2 `line` anchor for every poem locus
+  - Tier 3 `character` anchor for any apparatus or character-contested locus
+  - Tier 4 `cross_witness_character` only where true cross-witness alignment is later performed
+- The next OCR/transcription phase must record `evidence_tier` and `char_coverage` in `anchor-base-register.jsonl` and `anchor-event-log.jsonl` from the start rather than backfilling them later.
+- The next OCR/transcription phase must treat PaddleOCR word-box return as mandatory support for future character-level evidence display in ReadZen.
 - The current first-tier scan-backed exact acquisition queue is:
   - `YJG-W2` standalone `1694` witness
   - `YJG-W8` Korean `1474` witness
@@ -99,16 +106,18 @@
 
 ## Immediate priorities
 
-1. Capture the remaining first-tier non-Commons exact witnesses before any OCR starts.
+1. Keep `YJG-W12` open as a first-tier scan blocker, but do not let it prevent OCR preflight on the already held exact core.
 2. Keep separating likely duplicate or recut Wenzhou manifestations from genuinely independent exact witnesses.
 3. Preserve Korean exact backup leads without letting them crowd out the already ranked first-tier queue.
 4. Treat anthology and derivative branches as controls unless they prove needed for a family gap.
 5. Continue exact-witness hunting only where a scan gap still threatens family coverage.
 6. Distinguish exact text witnesses from commentary, anthology, translation, and reception-only controls.
-7. Build the witness family map before any OCR or editorial adjudication starts.
+7. Treat the witness family map as secure enough for OCR preflight, while leaving copy-text lock and deeper editorial adjudication for after the first OCR tranche.
 8. Exclude prohibited canonical web mirrors from this package entirely.
 9. Treat harvested IIIF page-image tranches as real held witness assets, not merely manifest placeholders.
 10. Treat the newly captured `1576` Korean exact witness as a real stemmatic gain rather than a loose backup-title duplicate.
 11. Treat manifest-backed second-tier witnesses as materially better than catalog-only leads once their local manifest JSON is held.
 12. Treat throttled partial image harvests honestly as partial rather than silently rounding them up to complete holdings.
 13. Prune overlapping anthology controls once their branch role is clear instead of keeping every scanned container active by default.
+14. Before OCR starts, write package-local OCR preflight so every poem line gets at least page-plus-line geometry and every likely apparatus locus is marked for character-tier capture.
+15. Treat PaddleOCR `return_word_box: True` as mandatory for this edition's OCR startup because the ReadZen side can now consume character-level evidence directly.

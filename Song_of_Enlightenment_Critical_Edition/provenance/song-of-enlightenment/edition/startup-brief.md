@@ -22,3 +22,13 @@ For this text, the startup rule is:
 6. widen into Korean, anthology, and manuscript families before copy-text lock
 7. keep derivative anthology branches separate from the main anthology line
 8. only then stabilize the family map and consider copy-text lock
+
+That startup rule has now been satisfied far enough to enter OCR preflight.
+
+The next startup rule is:
+
+1. start OCR from the held first-tier exact core, not from commentary or derivative controls
+2. require page-plus-line anchors for every poem locus from the first OCR tranche
+3. require PaddleOCR `return_word_box: True` so character-level evidence can be retained for contested loci
+4. require `evidence_tier` and `char_coverage` fields in anchor planning from the start
+5. keep `YJG-W12` open as a capture blocker without letting it block OCR on the already held core

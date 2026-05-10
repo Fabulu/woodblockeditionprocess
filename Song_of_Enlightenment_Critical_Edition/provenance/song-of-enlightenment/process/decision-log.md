@@ -79,3 +79,8 @@
 
 - Decision: promote `YJG-W20` to a held second-tier image witness and prune the overlapping anthology-control set after the latest hunt.
 - Reason: the slower resumable Gallica pull eventually completed, and the newest five-agent search did not uncover a materially new exact branch. The next honest move is to keep the strongest exact core and a smaller, non-overlapping control layer.
+
+## D-017 `2026-05-10`
+
+- Decision: treat the next `song-of-enlightenment` slice as OCR-first preflight with mandatory tiered evidence capture, not as generic OCR startup.
+- Reason: the ReadZen side can now consume evidence tiers and character-level boxes directly. That means the edition process must capture page/line anchors for every poem locus and require PaddleOCR word-box output for loci that may later need character-level apparatus evidence.

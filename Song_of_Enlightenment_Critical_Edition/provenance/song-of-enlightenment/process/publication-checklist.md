@@ -20,6 +20,7 @@
 - [x] second-tier image-harvest attempt logged honestly
 - [x] second-tier image harvest completed for `YJG-W20`
 - [x] post-harvest rank/prune pass logged
+- [x] OCR preflight evidence requirements logged
 - [x] process.json created
 - [x] timeline.json created
 - [x] validate_package.py created
@@ -27,6 +28,8 @@
 - [ ] exact witness acquisition complete
 - [ ] witness family map locked
 - [ ] first-tier exact witness downloads ingested
+- [ ] page-plus-line anchor plan prepared for every poem locus
+- [ ] PaddleOCR word-box OCR startup configured
 - [ ] OCR-first transcription started
 - [ ] comparison and correction started
 - [ ] translation sync started

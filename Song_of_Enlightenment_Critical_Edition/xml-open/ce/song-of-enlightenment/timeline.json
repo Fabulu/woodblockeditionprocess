@@ -118,6 +118,12 @@
       "date": "2026-05-10",
       "type": "witness_hunt_ranked",
       "summary": "A final five-agent scan review failed to uncover a materially new exact branch, so the package re-ranked the held exact core and pruned overlapping anthology controls."
+    },
+    {
+      "event_id": "YJG-020",
+      "date": "2026-05-10",
+      "type": "protocol_adopted",
+      "summary": "Re-read the binding edition protocols after ReadZen-side critical-edition support advanced and moved the package into OCR-first preflight with mandatory tiered evidence capture, anchor transparency fields, and Paddle word-box support requirements."
     }
   ]
 }

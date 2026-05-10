@@ -35,3 +35,7 @@ Produce a poem-first OpenZen critical edition of `永嘉證道歌` with:
 - commentary remains secondary until the poem witness base is secure
 - translation must stay synchronized with every accepted Chinese change
 - every accepted or rejected text-changing decision must carry an anchor packet
+- the OCR-first phase must satisfy ReadZen tiered evidence capture:
+  - page and line anchors for every poem line
+  - character-tier evidence for apparatus or character-contested loci
+  - PaddleOCR `return_word_box: True` when OCR is run on active witnesses
