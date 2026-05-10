@@ -2,11 +2,11 @@
 
 - Work: `永嘉證道歌` / `song-of-enlightenment`
 - Date: `2026-05-10`
-- Phase: `witness-hunt-and-ocr-preflight-overlap`
-- Current slice: `witness_hunt_slice_five_agent_expansion_after_tiered_preflight_adoption`
-- Last completed slice: `witness_hunt_slice_five_agent_expansion_after_tiered_preflight_adoption`
-- Next required action: treat `YJG-W22` as a newly surfaced first-tier Japanese exact lead, keep `YJG-W23`/`YJG-W24`/`YJG-W25` as fragmentary exact second-tier leads, open `YJG-W28` and the new Kyushu / Kyoto control branches as real witness objects, and treat `YJG-W12`, `YJG-W18`, and `YJG-W7` as currently blocked or non-independent rather than live near-term acquisition wins
-- Next required slice: `witness_hunt_slice_capture_new_nijl_and_kyushu_leads_before_first_ocr_tranche`
+- Phase: `ocr-startup-and-evidence-capture-preparation`
+- Current slice: `ocr_startup_slice_expand_first_tranche_with_yjg_w22`
+- Last completed slice: `witness_hunt_slice_capture_new_nijl_and_kyushu_leads_before_first_ocr_tranche`
+- Next required action: treat `YJG-W22` as a held first-tier exact image witness and include it in OCR tranche 1; keep `YJG-A10` and `YJG-A11` as held second-tier control witnesses; keep `YJG-W23`/`YJG-W24`/`YJG-W25` out of tranche 1 because they are fragmentary; continue to treat `YJG-W12`, `YJG-W18`, and `YJG-W7` as blocked or non-independent rather than latent quick wins
+- Next required slice: `ocr_startup_slice_begin_first_tier_exact_core_including_yjg_w22`
 - Copy-text status: not yet selected
 - Translation status: not yet started
 
@@ -35,13 +35,13 @@
   - one newly opened `1672` Berkeley `四部録` control with a direct public IIIF manifest
   - one second-tier exact witness `YJG-W19` is now fully harvested as a local image tranche
   - one second-tier manuscript container `YJG-W20` is now fully harvested as a local image tranche after a slower resumable pull
-  - one newly surfaced `1641` NIJL exact standalone witness with a direct public manifest
+  - one newly surfaced `1641` NIJL exact standalone witness now fully harvested as a local image tranche
   - three newly surfaced NIJL exact fragmentary witnesses with direct public manifests
   - one new Korean `1574` metadata-only exact lead
   - one new image-backed Korean exact lead strengthening the Zhao-Mengfu / calligraphic-recut branch
   - one stronger public institutional holding for the older Korean `을해자` line
-  - one `1631` Kyushu `四部録抄` derivative branch with manifest-backed digital facsimile
-  - one `1648` Kyushu `校正四部録` corrected branch with manifest-backed digital facsimile
+  - one `1631` Kyushu `四部録抄` derivative branch now fully held as a local image tranche
+  - one `1648` Kyushu `校正四部録` corrected branch now fully held as a local image tranche
   - one `1647` Nagoya / NIJL-linked `四部録抄` derivative branch
   - one Kyoto manuscript `入衆日用` container with appended `證道歌`
   - a dated NLC commentary witness
@@ -83,6 +83,7 @@
   - `YJG-W8` full PDF
   - `YJG-W9` full PDF
   - `YJG-W21` full PDF
+  - `YJG-W22` IIIF manifest plus `68` harvested local page images
   - `YJG-W16` IIIF manifest plus `55` harvested local page images
   - `YJG-W17` IIIF manifest plus `57` harvested local page images
 - The remaining first-tier witnesses still require non-Commons capture or catalog/image-network extraction:
@@ -125,7 +126,7 @@
 
 ## Immediate priorities
 
-1. Capture or manifest-ingest the newly surfaced NIJL and Kyushu leads before the first OCR tranche, especially `YJG-W22`, `YJG-A10`, and `YJG-A11`.
+1. Open OCR tranche 1 on the held exact core now that `YJG-W22` has been captured and promoted into the tranche.
 2. Keep separating likely duplicate or recut Wenzhou manifestations from genuinely independent exact witnesses.
 3. Preserve Korean exact backup leads without letting them crowd out the already ranked first-tier queue, but keep `YJG-W28` active as a real image-backed branch gain.
 4. Treat anthology and derivative branches as controls unless they prove needed for a family gap, while admitting the new Kyushu and Kyoto control branches into the live map.

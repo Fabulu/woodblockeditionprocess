@@ -136,6 +136,18 @@
       "date": "2026-05-10",
       "type": "witness_hunt_refined",
       "summary": "The same wave established that YJG-W18 is not independent from the held 1694 line, and that YJG-W12 and YJG-W7 remain blocked or bibliographic-only rather than latent public-scan wins."
+    },
+    {
+      "event_id": "YJG-023",
+      "date": "2026-05-10",
+      "type": "witness_capture_extended",
+      "summary": "Captured and fully harvested the NIJL 1641 exact witness YJG-W22, and manifest-ingested plus fully harvested the Kyushu control witnesses YJG-A10 and YJG-A11."
+    },
+    {
+      "event_id": "YJG-024",
+      "date": "2026-05-10",
+      "type": "witness_hunt_ranked",
+      "summary": "Expanded OCR tranche 1 to include the newly held exact witness YJG-W22 while keeping YJG-A10 and YJG-A11 as second-tier controls and keeping the fragmentary NIJL exact witnesses out of tranche 1."
     }
   ]
 }

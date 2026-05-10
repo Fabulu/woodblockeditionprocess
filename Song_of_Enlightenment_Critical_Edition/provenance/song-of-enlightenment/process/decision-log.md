@@ -89,3 +89,8 @@
 
 - Decision: promote `YJG-W22` into the active first-tier exact queue, admit `YJG-W23`/`W24`/`W25` and `YJG-W28` as real new branch evidence, and collapse `YJG-W18` as non-independent from `YJG-W2`.
 - Reason: the five-agent post-preflight witness wave surfaced one genuinely strong early Japanese exact print line and several real fragmentary or branch-significant witnesses, while also resolving that the Okura lead does not widen the exact family independently.
+
+## D-019 `2026-05-10`
+
+- Decision: after actual capture, expand OCR tranche 1 to include `YJG-W22`, but keep `YJG-A10` and `YJG-A11` as held second-tier controls and keep `YJG-W23`/`W24`/`W25` out of the first OCR tranche.
+- Reason: `YJG-W22` is now a fully held exact image witness with strong independence and full page coverage. `YJG-A10` and `YJG-A11` are valuable control branches, but they are derivative or corrected anthology witnesses rather than first-pass exact base surfaces. `YJG-W23`/`W24`/`W25` are real but fragmentary and should not drive tranche-1 OCR.

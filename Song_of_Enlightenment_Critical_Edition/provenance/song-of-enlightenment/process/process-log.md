@@ -164,3 +164,16 @@
 - Confirmed that `YJG-W12` remains metadata-only with no public digital content.
 - Confirmed that `YJG-W18` is viewer-only and not independent from the already held `1694` line represented by `YJG-W2`.
 - Confirmed that `YJG-W7` remains a bibliographic-only dead end with no public scan surfaced.
+- Captured `YJG-W22` locally from its direct NIJL IIIF manifest.
+- Harvested the full local image tranche for `YJG-W22`:
+  - `68` images
+- Captured `YJG-A10` locally from its direct Kyushu manifest-backed digital facsimile.
+- Harvested the full local image tranche for `YJG-A10`:
+  - `30` images
+- Captured `YJG-A11` locally from its direct Kyushu manifest-backed digital facsimile.
+- Harvested the full local image tranche for `YJG-A11`:
+  - `27` images
+- Reached the tranche decision that follows from the new captures:
+  - expand OCR tranche 1 to include `YJG-W22`
+  - keep `YJG-A10` and `YJG-A11` as held second-tier controls outside OCR tranche 1
+  - keep `YJG-W23`, `YJG-W24`, and `YJG-W25` out of OCR tranche 1 because they are fragmentary exact witnesses, useful later but not the right first transcription surface

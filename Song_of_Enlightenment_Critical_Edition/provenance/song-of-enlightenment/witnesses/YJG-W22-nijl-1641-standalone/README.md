@@ -9,6 +9,8 @@
 - Public asset:
   - `https://kokusho.nijl.ac.jp/biblio/200009070/manifest`
 - Status:
-  - ranked first-tier capture pending
+  - held first-tier images
 - Notes:
   - strong independent early Japanese exact print line outside the current Wenzhou / Commons cluster
+  - local manifest held under `source/`
+  - `68` local page JPGs held under `images/`

@@ -9,6 +9,8 @@
 - Public record:
   - `https://catalog.lib.kyushu-u.ac.jp/ja/recordID/7326258`
 - Status:
-  - ranked second-tier
+  - held second-tier images
 - Notes:
   - corrected `四部録` branch distinct from the existing Kyoto / Waseda / NDL control cluster
+  - direct manifest: `https://catalog.lib.kyushu-u.ac.jp/image/manifest/1/820/7326258.json`
+  - `27` local page JPGs held under `images/`

@@ -6,11 +6,11 @@
     "edition_type": "critical_edition",
     "scope_mode": "poem_first"
   },
-  "current_phase": "witness-hunt-and-ocr-preflight-overlap",
-  "current_slice": "witness_hunt_slice_five_agent_expansion_after_tiered_preflight_adoption",
-  "last_completed_slice": "witness_hunt_slice_five_agent_expansion_after_tiered_preflight_adoption",
-  "next_required_action": "Treat YJG-W22 as a newly surfaced first-tier Japanese exact lead, keep YJG-W23/YJG-W24/YJG-W25 as fragmentary exact second-tier leads, open YJG-W28 and the new Kyushu/Kyoto control branches as real witness objects, and treat YJG-W12, YJG-W18, and YJG-W7 as currently blocked or non-independent rather than near-term acquisition wins.",
-  "next_required_slice": "witness_hunt_slice_capture_new_nijl_and_kyushu_leads_before_first_ocr_tranche",
+  "current_phase": "ocr-startup-and-evidence-capture-preparation",
+  "current_slice": "ocr_startup_slice_expand_first_tranche_with_yjg_w22",
+  "last_completed_slice": "witness_hunt_slice_capture_new_nijl_and_kyushu_leads_before_first_ocr_tranche",
+  "next_required_action": "Treat YJG-W22 as a held first-tier exact image witness and include it in OCR tranche 1; keep YJG-A10 and YJG-A11 as held second-tier control witnesses; keep YJG-W23/YJG-W24/YJG-W25 out of tranche 1 because they are fragmentary; continue to treat YJG-W12, YJG-W18, and YJG-W7 as blocked or non-independent rather than latent quick wins.",
+  "next_required_slice": "ocr_startup_slice_begin_first_tier_exact_core_including_yjg_w22",
   "last_text_changed_event": null,
   "base_witness": {
     "status": "unlocked",

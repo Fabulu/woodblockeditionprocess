@@ -379,6 +379,38 @@
 - `YJG-W7`
   - remains bibliographic only with no public scan surfaced
 
+### Capture results after the same wave
+
+- `YJG-W22`
+  - local file:
+    - `YJG-W22-nijl-1641-standalone/source/YJG-W22-nijl-1641-standalone-manifest.json`
+  - local directory:
+    - `YJG-W22-nijl-1641-standalone/images/`
+  - local image count:
+    - `68`
+  - result:
+    - strong new first-tier exact image witness now held locally
+
+- `YJG-A10`
+  - local file:
+    - `YJG-A10-kyushu-shiburokusho-1631/source/YJG-A10-kyushu-shiburokusho-1631-manifest.json`
+  - local directory:
+    - `YJG-A10-kyushu-shiburokusho-1631/images/`
+  - local image count:
+    - `30`
+  - result:
+    - derivative anthology control now held locally as a real image tranche
+
+- `YJG-A11`
+  - local file:
+    - `YJG-A11-kyushu-kosei-shiburoku-1648/source/YJG-A11-kyushu-kosei-shiburoku-1648-manifest.json`
+  - local directory:
+    - `YJG-A11-kyushu-kosei-shiburoku-1648/images/`
+  - local image count:
+    - `27`
+  - result:
+    - corrected anthology control now held locally as a real image tranche
+
 ### Duplicate-risk, derivative, bibliographic-only, or backup-only for now
 
 - `YJG-W4A`
