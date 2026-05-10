@@ -1,7 +1,7 @@
 {
   "project": {
     "slug": "song-of-enlightenment",
-    "title_zh": "永嘉證道歌",
+    "title_zh": "æ°¸å˜‰è­‰é“æ­Œ",
     "title_en": "Song of Enlightenment"
   },
   "events": [
@@ -105,7 +105,7 @@
       "event_id": "YJG-017",
       "date": "2026-05-10",
       "type": "witness_capture_extended",
-      "summary": "A further five-agent hunt confirmed YJG-W12 remains metadata-only, captured direct public manifests for YJG-W19 and YJG-W20, and opened a new Berkeley 1672 四部録 control."
+      "summary": "A further five-agent hunt confirmed YJG-W12 remains metadata-only, captured direct public manifests for YJG-W19 and YJG-W20, and opened a new Berkeley 1672 å››éƒ¨éŒ² control."
     },
     {
       "event_id": "YJG-018",
@@ -148,6 +148,36 @@
       "date": "2026-05-10",
       "type": "witness_hunt_ranked",
       "summary": "Expanded OCR tranche 1 to include the newly held exact witness YJG-W22 while keeping YJG-A10 and YJG-A11 as second-tier controls and keeping the fragmentary NIJL exact witnesses out of tranche 1."
+    },
+    {
+      "event_id": "YJG-025",
+      "date": "2026-05-10",
+      "type": "ocr_startup_opened",
+      "summary": "Opened a package-local OCR workspace, added reusable OCR runners, and began live four-engine OCR baseline work on the held exact image tranche headed by YJG-W22."
+    },
+    {
+      "event_id": "YJG-026",
+      "date": "2026-05-10",
+      "type": "ocr_startup_corrected",
+      "summary": "The first live OCR startup pass revealed the required runtime split: PaddleOCR must run under Python 3.12, Tesseract must use an explicit chi_tra tessdata path, and the OCR runners must initialize engines once per run rather than once per page."
+    },
+    {
+      "event_id": "YJG-027",
+      "date": "2026-05-10",
+      "type": "ocr_startup_resumed",
+      "summary": "Resumed tranche-1 OCR from the existing partial workspace, completed RapidOCR across YJG-W16/YJG-W17/YJG-W22, and moved the still-incomplete PaddleOCR, EasyOCR, and Tesseract jobs under a bounded package-local background scheduler so the baseline can continue without discarding prior outputs."
+    },
+    {
+      "event_id": "YJG-028",
+      "date": "2026-05-10",
+      "type": "ocr_startup_resumed",
+      "summary": "A later OCR checkpoint confirmed RapidOCR across the tranche and PaddleOCR on YJG-W16, then reopened the remaining incomplete EasyOCR and Tesseract jobs manually under the same package-local runner and log surfaces so tranche 1 would not stay serialized behind the original four-slot recovery batch."
+    },
+    {
+      "event_id": "YJG-029",
+      "date": "2026-05-11",
+      "type": "ocr_startup_completed",
+      "summary": "Completed the four-engine tranche-1 OCR image baseline across YJG-W16, YJG-W17, and YJG-W22, with the recorded zero-text completions limited to YJG-W16 RapidOCR page-0055 and YJG-W22 page-0068 under RapidOCR and EasyOCR rather than any engine blocker."
     }
   ]
 }

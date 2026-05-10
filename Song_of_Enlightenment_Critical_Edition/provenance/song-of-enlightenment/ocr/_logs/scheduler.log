@@ -1,0 +1,24 @@
+2026-05-10T14:37:46 scheduler started
+2026-05-10T14:37:46 started witness=YJG-W16 engine=paddleocr pid=35324
+2026-05-10T14:37:46 started witness=YJG-W22 engine=rapidocr pid=27992
+2026-05-10T14:37:46 started witness=YJG-W17 engine=rapidocr pid=5996
+2026-05-10T14:37:46 started witness=YJG-W22 engine=paddleocr pid=6592
+2026-05-10T14:57:38 finished witness=YJG-W22 engine=rapidocr pid=27992 code=
+2026-05-10T14:57:38 started witness=YJG-W16 engine=easyocr pid=28632
+2026-05-10T15:20:28 finished witness=YJG-W17 engine=rapidocr pid=5996 code=
+2026-05-10T15:20:28 started witness=YJG-W22 engine=tesseract pid=21980
+2026-05-10T15:45:14 finished witness=YJG-W16 engine=paddleocr pid=35324 code=
+2026-05-10T15:45:14 started witness=YJG-W17 engine=paddleocr pid=16232
+2026-05-10T19:12:57 finished witness=YJG-W22 engine=tesseract pid=21980 code=
+2026-05-10T19:12:57 started witness=YJG-W17 engine=easyocr pid=16256
+2026-05-10T20:34:58 finished witness=YJG-W16 engine=easyocr pid=28632 code=
+2026-05-10T20:34:58 started witness=YJG-W16 engine=tesseract pid=13732
+2026-05-10T20:35:03 finished witness=YJG-W16 engine=tesseract pid=13732 code=
+2026-05-10T20:35:04 started witness=YJG-W22 engine=easyocr pid=8840
+2026-05-10T21:12:46 finished witness=YJG-W17 engine=easyocr pid=16256 code=
+2026-05-10T21:12:46 started witness=YJG-W17 engine=tesseract pid=15588
+2026-05-10T21:12:51 finished witness=YJG-W17 engine=tesseract pid=15588 code=
+2026-05-10T21:21:40 finished witness=YJG-W22 engine=paddleocr pid=6592 code=
+2026-05-10T21:25:08 finished witness=YJG-W17 engine=paddleocr pid=16232 code=
+2026-05-11T00:34:23 finished witness=YJG-W22 engine=easyocr pid=8840 code=
+2026-05-11T00:34:28 scheduler completed
