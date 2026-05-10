@@ -156,6 +156,28 @@
   - role:
     - second-tier manuscript-family control outside the current Japanese and Korean network
 
+### Manifest capture results from the next five-agent hunt
+
+- `YJG-W19`
+  - local file:
+    - `YJG-W19-osdl-1531-exact/source/YJG-W19-osdl-1531-exact-manifest.json`
+  - direct manifest:
+    - `https://toyjack.github.io/toho-html-data/M051.json`
+  - exposed canvas count:
+    - `33`
+
+- `YJG-W20`
+  - local file:
+    - `YJG-W20-bnf-chinois-6606/source/YJG-W20-bnf-chinois-6606-manifest.json`
+  - direct manifest:
+    - `https://gallica.bnf.fr/iiif/ark:/12148/btv1b9006326f/manifest.json`
+
+- `YJG-A9`
+  - direct manifest:
+    - `https://kokusho.nijl.ac.jp/biblio/100175056/manifest`
+  - role:
+    - Berkeley `1672` `四部録` control worth keeping active as a non-overlapping image-backed anthology branch
+
 - `YJG-A6`
   - image-backed NMOE `四部録`
   - source: `https://kokusho.nijl.ac.jp/page/list-nmoe.html`
@@ -234,6 +256,8 @@
 - `YJG-W14` and `YJG-W15` most likely represent calligraphic Zhao-Mengfu manifestations rather than fresh textual witnesses.
 - `YJG-W7` remains bibliographic only; no open scan has yet been pinned.
 - `YJG-W16` and `YJG-W17` now count as locally held image witnesses because their full currently exposed IIIF page-image tranches have been harvested into the package.
+- `YJG-W19` and `YJG-W20` are now materially beyond the lead-only stage because their direct public manifests are locally held.
+- `YJG-W12` remains request-only with no public digital content exposed.
 - `YJG-W9` is no longer a first-tier capture blocker because the Commons-hosted Korean backup file path proved directly capturable.
 - `YJG-W21` materially changes the Korean family map and should stay active as a held first-tier exact witness.
 

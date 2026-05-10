@@ -100,6 +100,12 @@
       "date": "2026-05-10",
       "type": "witness_capture_extended",
       "summary": "Captured the Korean 1647 exact witness through its direct public PDF path and added a newly surfaced Korean 1576 exact witness to the held first-tier family."
+    },
+    {
+      "event_id": "YJG-017",
+      "date": "2026-05-10",
+      "type": "witness_capture_extended",
+      "summary": "A further five-agent hunt confirmed YJG-W12 remains metadata-only, captured direct public manifests for YJG-W19 and YJG-W20, and opened a new Berkeley 1672 四部録 control."
     }
   ]
 }

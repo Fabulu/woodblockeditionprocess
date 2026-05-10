@@ -22,6 +22,7 @@ Current state:
 - six-agent first-tier capture push completed and logged
 - IIIF page-image harvest completed for Toyo and Berkeley exact witnesses
 - additional Korean exact scan capture completed and logged
+- second-tier manifest capture wave completed and logged
 - copy-text not yet selected
 
 Use `process.json` and `timeline.json` for machine-readable resumability.

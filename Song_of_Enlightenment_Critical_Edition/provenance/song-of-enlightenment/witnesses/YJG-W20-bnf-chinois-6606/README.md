@@ -10,8 +10,12 @@
 - Source page:
   - `https://iiif.biblissima.fr/collections/manifest/f6ea17f17f9c143fbba6b3437b77ab8acb6162a7`
 - Current status:
-  - ranked second-tier near-exact witness
-  - scan-backed lead not yet locally captured into this package
+  - held second-tier near-exact witness
+  - direct Gallica IIIF v2 manifest locally captured into this package
+- Local file:
+  - `source/YJG-W20-bnf-chinois-6606-manifest.json`
+- Direct manifest:
+  - `https://gallica.bnf.fr/iiif/ark:/12148/btv1b9006326f/manifest.json`
 - Notes:
   - scan-backed non-Japanese manuscript container with the poem explicitly listed
   - useful as a manuscript-family control outside the current Japanese and Korean witness network

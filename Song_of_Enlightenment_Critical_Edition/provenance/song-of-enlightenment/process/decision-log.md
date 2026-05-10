@@ -64,3 +64,8 @@
 
 - Decision: promote the newly captured `1576` Korean exact witness into the active first-tier held exact family rather than parking it as a second-tier backup.
 - Reason: it is an exact standalone witness with a real scan-backed asset in hand and it fills the chronological Korean family gap between `1474` and `1647`, so its stemmatic value is stronger than that of the looser calligraphic backup-title branch.
+
+## D-014 `2026-05-10`
+
+- Decision: treat `YJG-W19` and `YJG-W20` as materially advanced held second-tier witnesses now that their direct public manifests are captured locally, even before full page-image harvest.
+- Reason: a held manifest is enough to make later selective image harvesting deterministic and reproducible, which is a clear gain over mere catalog citation.

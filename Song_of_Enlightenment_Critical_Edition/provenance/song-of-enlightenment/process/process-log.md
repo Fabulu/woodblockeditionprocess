@@ -117,3 +117,9 @@
 - Surfaced and captured one additional exact Korean witness:
   - `YJG-W21` `1576`
 - Confirmed that `YJG-W21` fills the chronological Korean family gap between `1474` and `1647` rather than merely repeating the already known calligraphic branch.
+- Ran another five-agent scan hunt focused on the remaining asset gaps, early Chinese exact lines, and second-tier manifest capture.
+- Confirmed that `YJG-W12` still remains metadata-only with no public digital asset exposed.
+- Confirmed that `YJG-W19` has a direct public IIIF v3 manifest and captured it locally.
+- Confirmed that `YJG-W20` has a direct public Gallica IIIF v2 manifest and captured it locally.
+- Opened a new image-backed anthology control:
+  - `YJG-A9` Berkeley `四部録` (`1672`)

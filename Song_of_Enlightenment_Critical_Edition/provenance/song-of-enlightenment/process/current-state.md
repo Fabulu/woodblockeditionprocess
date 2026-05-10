@@ -4,8 +4,8 @@
 - Date: `2026-05-10`
 - Phase: `witness-hunt-and-edition-startup`
 - Current slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
-- Last completed slice: `witness_hunt_slice_capture_additional_korean_exact_scans`
-- Next required action: finish capturing the remaining first-tier non-Commons exact witnesses into the package; `YJG-W12` still requires a non-public institutional request path, while `YJG-W19` now needs a promotion decision after scan-backed surfacing
+- Last completed slice: `witness_hunt_slice_capture_second_tier_manifests_and_controls`
+- Next required action: finish capturing the remaining first-tier non-Commons exact witnesses into the package; `YJG-W12` still requires a non-public institutional request path, while `YJG-W19` and `YJG-W20` now need promotion decisions after direct manifest capture
 - Next required slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
 - Copy-text status: not yet selected
 - Translation status: not yet started
@@ -32,6 +32,7 @@
   - one further scan-backed exact `1531` witness in the OSDL / ToyoJack network
   - one scan-backed non-Japanese manuscript container in the BnF IIIF network that explicitly includes `永嘉證道歌`
   - one newly captured Korean exact `1576` witness that now fills the family gap between `1474` and `1647`
+  - one newly opened `1672` Berkeley `四部録` control with a direct public IIIF manifest
   - a dated NLC commentary witness
   - an older Japanese commentary-print lead `証道歌註` (`1641`)
   - an image-backed `四部録` holding in the NMOE network
@@ -69,8 +70,8 @@
   - `YJG-W12`
 - The following are now second-tier exact or family controls:
   - `YJG-W18`
-  - `YJG-W19`
-  - `YJG-W20`
+  - `YJG-W19` held as a direct public IIIF v3 manifest
+  - `YJG-W20` held as a direct public Gallica IIIF v2 manifest
   - `YJG-W4D`
   - `YJG-W4E`
   - `YJG-W10`
@@ -84,6 +85,7 @@
   - `YJG-A6`
   - `YJG-A7`
   - `YJG-A8`
+  - `YJG-A9`
 - The following are currently treated as duplicate-risk, derivative, bibliographic-only, or backup-only branches:
   - `YJG-W4A`
   - `YJG-W4B`
@@ -105,3 +107,4 @@
 8. Exclude prohibited canonical web mirrors from this package entirely.
 9. Treat harvested IIIF page-image tranches as real held witness assets, not merely manifest placeholders.
 10. Treat the newly captured `1576` Korean exact witness as a real stemmatic gain rather than a loose backup-title duplicate.
+11. Treat manifest-backed second-tier witnesses as materially better than catalog-only leads once their local manifest JSON is held.

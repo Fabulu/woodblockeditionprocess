@@ -10,9 +10,14 @@
 - Source page:
   - `https://toyjack.github.io/toho-html-data/`
 - Current status:
-  - ranked second-tier exact witness
-  - scan-backed lead not yet locally captured into this package
+  - held second-tier exact witness
+  - direct IIIF v3 manifest locally captured into this package
+- Local file:
+  - `source/YJG-W19-osdl-1531-exact-manifest.json`
+- Direct manifest:
+  - `https://toyjack.github.io/toho-html-data/M051.json`
 - Notes:
   - exact scan-backed witness with unusually specific surfaced metadata
   - described with an older calligraphic / Korean-print transmission note in the surfaced catalog family
+  - `33` canvases surfaced in the direct manifest
   - merits later comparison against the already held exact core before any promotion into the first OCR tranche
