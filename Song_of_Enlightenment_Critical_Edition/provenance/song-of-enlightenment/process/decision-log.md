@@ -69,3 +69,8 @@
 
 - Decision: treat `YJG-W19` and `YJG-W20` as materially advanced held second-tier witnesses now that their direct public manifests are captured locally, even before full page-image harvest.
 - Reason: a held manifest is enough to make later selective image harvesting deterministic and reproducible, which is a clear gain over mere catalog citation.
+
+## D-015 `2026-05-10`
+
+- Decision: mark `YJG-W19` as a held image witness, but keep `YJG-W20` below that level until the Gallica harvest actually completes.
+- Reason: `YJG-W19` harvested cleanly, while `YJG-W20` currently only yields a partial local image tranche before host throttling interrupts the run.

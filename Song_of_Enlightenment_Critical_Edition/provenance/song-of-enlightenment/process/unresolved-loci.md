@@ -17,3 +17,4 @@ The current unresolved questions are pre-transcription startup questions:
 11. Does `YJG-W19` merit promotion into the first-tier exact core once its scan-backed `1531` line is compared against the already held exact witnesses?
 12. Should the newly captured `YJG-W21` be treated as a stable first-tier Korean stemmatic anchor or only as a strong auxiliary comparator beside `YJG-W8` and `YJG-W9`?
 13. Does `YJG-W20` deserve active manuscript-family harvesting now, or should it remain a held second-tier container until the exact family core is fully compared?
+14. Is it worth continuing a slow resumable public harvest for `YJG-W20`, or is the held manifest plus partial local image tranche already enough for its current role?

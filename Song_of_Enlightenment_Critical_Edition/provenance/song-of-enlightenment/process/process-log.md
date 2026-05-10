@@ -123,3 +123,9 @@
 - Confirmed that `YJG-W20` has a direct public Gallica IIIF v2 manifest and captured it locally.
 - Opened a new image-backed anthology control:
   - `YJG-A9` Berkeley `四部録` (`1672`)
+- Upgraded the local IIIF harvest helper so it can read both IIIF v2 and IIIF v3 manifest structures.
+- Harvested the full local image tranche for `YJG-W19`:
+  - `33` images
+- Attempted a full local image harvest for `YJG-W20`.
+- Confirmed that `YJG-W20` is currently only partially harvestable from the public host during sustained runs because Gallica begins returning `429 Too Many Requests`.
+- Logged the current honest partial state for `YJG-W20` rather than falsely marking the witness as fully held in images.

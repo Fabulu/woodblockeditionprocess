@@ -23,6 +23,7 @@ Current state:
 - IIIF page-image harvest completed for Toyo and Berkeley exact witnesses
 - additional Korean exact scan capture completed and logged
 - second-tier manifest capture wave completed and logged
+- second-tier image harvest completed for `YJG-W19` and partially attempted for `YJG-W20`
 - copy-text not yet selected
 
 Use `process.json` and `timeline.json` for machine-readable resumability.

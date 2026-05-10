@@ -17,6 +17,7 @@
 - [x] IIIF page-image harvest for first-tier image-backed witnesses logged
 - [x] additional Korean exact capture wave logged
 - [x] second-tier manifest capture wave logged
+- [x] second-tier image-harvest attempt logged honestly
 - [x] process.json created
 - [x] timeline.json created
 - [x] validate_package.py created

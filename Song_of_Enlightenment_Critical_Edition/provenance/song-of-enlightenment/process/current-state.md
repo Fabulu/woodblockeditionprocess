@@ -4,8 +4,8 @@
 - Date: `2026-05-10`
 - Phase: `witness-hunt-and-edition-startup`
 - Current slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
-- Last completed slice: `witness_hunt_slice_capture_second_tier_manifests_and_controls`
-- Next required action: finish capturing the remaining first-tier non-Commons exact witnesses into the package; `YJG-W12` still requires a non-public institutional request path, while `YJG-W19` and `YJG-W20` now need promotion decisions after direct manifest capture
+- Last completed slice: `witness_hunt_slice_partial_second_tier_image_harvest`
+- Next required action: finish capturing the remaining first-tier non-Commons exact witnesses into the package; `YJG-W12` still requires a non-public institutional request path, `YJG-W19` is now a held image witness, and `YJG-W20` remains partially harvested under Gallica throttling
 - Next required slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
 - Copy-text status: not yet selected
 - Translation status: not yet started
@@ -33,6 +33,8 @@
   - one scan-backed non-Japanese manuscript container in the BnF IIIF network that explicitly includes `永嘉證道歌`
   - one newly captured Korean exact `1576` witness that now fills the family gap between `1474` and `1647`
   - one newly opened `1672` Berkeley `四部録` control with a direct public IIIF manifest
+  - one second-tier exact witness `YJG-W19` is now fully harvested as a local image tranche
+  - one second-tier manuscript container `YJG-W20` remains only partially image-harvested because the host throttles repeated requests
   - a dated NLC commentary witness
   - an older Japanese commentary-print lead `証道歌註` (`1641`)
   - an image-backed `四部録` holding in the NMOE network
@@ -70,8 +72,8 @@
   - `YJG-W12`
 - The following are now second-tier exact or family controls:
   - `YJG-W18`
-  - `YJG-W19` held as a direct public IIIF v3 manifest
-  - `YJG-W20` held as a direct public Gallica IIIF v2 manifest
+  - `YJG-W19` held as a direct public IIIF v3 manifest plus full local image tranche
+  - `YJG-W20` held as a direct public Gallica IIIF v2 manifest plus partial local image tranche
   - `YJG-W4D`
   - `YJG-W4E`
   - `YJG-W10`
@@ -108,3 +110,4 @@
 9. Treat harvested IIIF page-image tranches as real held witness assets, not merely manifest placeholders.
 10. Treat the newly captured `1576` Korean exact witness as a real stemmatic gain rather than a loose backup-title duplicate.
 11. Treat manifest-backed second-tier witnesses as materially better than catalog-only leads once their local manifest JSON is held.
+12. Treat throttled partial image harvests honestly as partial rather than silently rounding them up to complete holdings.

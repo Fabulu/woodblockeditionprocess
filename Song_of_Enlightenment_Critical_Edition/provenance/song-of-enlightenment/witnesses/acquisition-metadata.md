@@ -178,6 +178,26 @@
   - role:
     - Berkeley `1672` `四部録` control worth keeping active as a non-overlapping image-backed anthology branch
 
+### Image harvest results from the same tranche
+
+- `YJG-W19`
+  - local directory:
+    - `YJG-W19-osdl-1531-exact/images/`
+  - local image count:
+    - `33`
+  - result:
+    - full currently exposed image tranche held locally
+
+- `YJG-W20`
+  - local directory:
+    - `YJG-W20-bnf-chinois-6606/images/`
+  - current local image count:
+    - `10`
+  - result:
+    - partial local image tranche only
+  - blocker:
+    - Gallica begins returning `429 Too Many Requests` during sustained runs
+
 - `YJG-A6`
   - image-backed NMOE `四部録`
   - source: `https://kokusho.nijl.ac.jp/page/list-nmoe.html`
@@ -258,6 +278,8 @@
 - `YJG-W16` and `YJG-W17` now count as locally held image witnesses because their full currently exposed IIIF page-image tranches have been harvested into the package.
 - `YJG-W19` and `YJG-W20` are now materially beyond the lead-only stage because their direct public manifests are locally held.
 - `YJG-W12` remains request-only with no public digital content exposed.
+- `YJG-W19` is now fully usable as a held second-tier image witness.
+- `YJG-W20` should still be treated as manifest-held with only a partial local image tranche until a slower resumable harvest proves workable.
 - `YJG-W9` is no longer a first-tier capture blocker because the Commons-hosted Korean backup file path proved directly capturable.
 - `YJG-W21` materially changes the Korean family map and should stay active as a held first-tier exact witness.
 

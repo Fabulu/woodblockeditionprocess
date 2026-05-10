@@ -12,8 +12,11 @@
 - Current status:
   - held second-tier exact witness
   - direct IIIF v3 manifest locally captured into this package
+  - full currently exposed local image tranche harvested
 - Local file:
   - `source/YJG-W19-osdl-1531-exact-manifest.json`
+- Local images:
+  - `images/page-0001.jpg` through `images/page-0033.jpg`
 - Direct manifest:
   - `https://toyjack.github.io/toho-html-data/M051.json`
 - Notes:
