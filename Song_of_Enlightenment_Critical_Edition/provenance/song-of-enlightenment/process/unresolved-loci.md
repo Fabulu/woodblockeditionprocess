@@ -16,5 +16,4 @@ The current unresolved questions are pre-transcription startup questions:
 10. How many materially distinct Japanese anthology sub-branches should be kept active once `四部録`, `首書四部録`, and `片カナ付四部録` are all in view?
 11. Does `YJG-W19` merit promotion into the first-tier exact core once its scan-backed `1531` line is compared against the already held exact witnesses?
 12. Should the newly captured `YJG-W21` be treated as a stable first-tier Korean stemmatic anchor or only as a strong auxiliary comparator beside `YJG-W8` and `YJG-W9`?
-13. Does `YJG-W20` deserve active manuscript-family harvesting now, or should it remain a held second-tier container until the exact family core is fully compared?
-14. Is it worth continuing a slow resumable public harvest for `YJG-W20`, or is the held manifest plus partial local image tranche already enough for its current role?
+13. Does `YJG-W20` deserve promotion into the active comparison tranche now that its full image set is locally held, or should it remain a manuscript-family reserve?

@@ -7,9 +7,9 @@
     "scope_mode": "poem_first"
   },
   "current_phase": "witness-hunt-and-edition-startup",
-  "current_slice": "witness_hunt_slice_capture_remaining_first_tier_non_commons_scans",
-  "last_completed_slice": "witness_hunt_slice_partial_second_tier_image_harvest",
-  "next_required_action": "Treat YJG-W12 as the lone remaining first-tier capture blocker, treat YJG-W19 as a held image witness, and decide whether to keep pushing through Gallica throttling for YJG-W20 or leave it manifest-held for now.",
+  "current_slice": "witness_hunt_slice_rank_and_prune_after_second_tier_harvest",
+  "last_completed_slice": "witness_hunt_slice_rank_and_prune_after_second_tier_harvest",
+  "next_required_action": "Treat YJG-W12 as the lone remaining first-tier capture blocker, treat YJG-W19 and YJG-W20 as held second-tier image witnesses, and only reopen broad witness hunting if a clearly independent scan-backed exact branch surfaces.",
   "next_required_slice": "witness_hunt_slice_capture_remaining_first_tier_non_commons_scans",
   "last_text_changed_event": null,
   "base_witness": {

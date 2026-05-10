@@ -18,6 +18,8 @@
 - [x] additional Korean exact capture wave logged
 - [x] second-tier manifest capture wave logged
 - [x] second-tier image-harvest attempt logged honestly
+- [x] second-tier image harvest completed for `YJG-W20`
+- [x] post-harvest rank/prune pass logged
 - [x] process.json created
 - [x] timeline.json created
 - [x] validate_package.py created

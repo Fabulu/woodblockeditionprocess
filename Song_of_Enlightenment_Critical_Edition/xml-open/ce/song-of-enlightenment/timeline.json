@@ -111,7 +111,13 @@
       "event_id": "YJG-018",
       "date": "2026-05-10",
       "type": "witness_capture_extended",
-      "summary": "Harvested the full exposed image tranche for YJG-W19, upgraded the IIIF helper for v2 and v3 manifests, and logged YJG-W20 as only partially harvested under Gallica throttling."
+      "summary": "Harvested the full exposed image tranche for YJG-W19, upgraded the IIIF helper for v2 and v3 manifests, and completed the slower resumable image harvest for YJG-W20."
+    },
+    {
+      "event_id": "YJG-019",
+      "date": "2026-05-10",
+      "type": "witness_hunt_ranked",
+      "summary": "A final five-agent scan review failed to uncover a materially new exact branch, so the package re-ranked the held exact core and pruned overlapping anthology controls."
     }
   ]
 }

@@ -192,11 +192,11 @@
   - local directory:
     - `YJG-W20-bnf-chinois-6606/images/`
   - current local image count:
-    - `10`
+    - `185`
   - result:
-    - partial local image tranche only
-  - blocker:
-    - Gallica begins returning `429 Too Many Requests` during sustained runs
+    - full currently exposed image tranche held locally
+  - note:
+    - the public host initially throttled sustained runs, but a slower resumable pull completed successfully
 
 - `YJG-A6`
   - image-backed NMOE `四部録`
@@ -279,7 +279,23 @@
 - `YJG-W19` and `YJG-W20` are now materially beyond the lead-only stage because their direct public manifests are locally held.
 - `YJG-W12` remains request-only with no public digital content exposed.
 - `YJG-W19` is now fully usable as a held second-tier image witness.
-- `YJG-W20` should still be treated as manifest-held with only a partial local image tranche until a slower resumable harvest proves workable.
+- `YJG-W20` should now be treated as a held second-tier image witness rather than only a manifest-held manuscript-family container.
+
+### Post-harvest rank/prune conclusions
+
+- No clearly independent new exact branch surfaced beyond the current held exact core plus the already logged `YJG-W19` and `YJG-W20` additions.
+- Keep active anthology/container controls:
+  - `YJG-A1`
+  - `YJG-A2`
+  - `YJG-A6`
+  - `YJG-A7`
+  - `YJG-A9`
+  - `YJG-W6`
+- Prune as overlapping, derivative, or lower-value controls for now:
+  - `YJG-A3`
+  - `YJG-A4`
+  - `YJG-A5`
+  - `YJG-A8`
 - `YJG-W9` is no longer a first-tier capture blocker because the Commons-hosted Korean backup file path proved directly capturable.
 - `YJG-W21` materially changes the Korean family map and should stay active as a held first-tier exact witness.
 

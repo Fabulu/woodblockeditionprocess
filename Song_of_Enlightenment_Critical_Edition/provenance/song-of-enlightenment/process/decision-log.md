@@ -74,3 +74,8 @@
 
 - Decision: mark `YJG-W19` as a held image witness, but keep `YJG-W20` below that level until the Gallica harvest actually completes.
 - Reason: `YJG-W19` harvested cleanly, while `YJG-W20` currently only yields a partial local image tranche before host throttling interrupts the run.
+
+## D-016 `2026-05-10`
+
+- Decision: promote `YJG-W20` to a held second-tier image witness and prune the overlapping anthology-control set after the latest hunt.
+- Reason: the slower resumable Gallica pull eventually completed, and the newest five-agent search did not uncover a materially new exact branch. The next honest move is to keep the strongest exact core and a smaller, non-overlapping control layer.

@@ -3,9 +3,9 @@
 - Work: `永嘉證道歌` / `song-of-enlightenment`
 - Date: `2026-05-10`
 - Phase: `witness-hunt-and-edition-startup`
-- Current slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
-- Last completed slice: `witness_hunt_slice_partial_second_tier_image_harvest`
-- Next required action: finish capturing the remaining first-tier non-Commons exact witnesses into the package; `YJG-W12` still requires a non-public institutional request path, `YJG-W19` is now a held image witness, and `YJG-W20` remains partially harvested under Gallica throttling
+- Current slice: `witness_hunt_slice_rank_and_prune_after_second_tier_harvest`
+- Last completed slice: `witness_hunt_slice_rank_and_prune_after_second_tier_harvest`
+- Next required action: keep `YJG-W12` as the lone first-tier capture blocker, treat `YJG-W19` and `YJG-W20` as held second-tier image witnesses, and only reopen broad witness hunting if a clearly independent scan-backed exact branch surfaces
 - Next required slice: `witness_hunt_slice_capture_remaining_first_tier_non_commons_scans`
 - Copy-text status: not yet selected
 - Translation status: not yet started
@@ -34,7 +34,7 @@
   - one newly captured Korean exact `1576` witness that now fills the family gap between `1474` and `1647`
   - one newly opened `1672` Berkeley `四部録` control with a direct public IIIF manifest
   - one second-tier exact witness `YJG-W19` is now fully harvested as a local image tranche
-  - one second-tier manuscript container `YJG-W20` remains only partially image-harvested because the host throttles repeated requests
+  - one second-tier manuscript container `YJG-W20` is now fully harvested as a local image tranche after a slower resumable pull
   - a dated NLC commentary witness
   - an older Japanese commentary-print lead `証道歌註` (`1641`)
   - an image-backed `四部録` holding in the NMOE network
@@ -73,7 +73,7 @@
 - The following are now second-tier exact or family controls:
   - `YJG-W18`
   - `YJG-W19` held as a direct public IIIF v3 manifest plus full local image tranche
-  - `YJG-W20` held as a direct public Gallica IIIF v2 manifest plus partial local image tranche
+  - `YJG-W20` held as a direct public Gallica IIIF v2 manifest plus full local image tranche
   - `YJG-W4D`
   - `YJG-W4E`
   - `YJG-W10`
@@ -82,11 +82,8 @@
   - `YJG-W6`
   - `YJG-A1`
   - `YJG-A2`
-  - `YJG-A3`
-  - `YJG-A4`
   - `YJG-A6`
   - `YJG-A7`
-  - `YJG-A8`
   - `YJG-A9`
 - The following are currently treated as duplicate-risk, derivative, bibliographic-only, or backup-only branches:
   - `YJG-W4A`
@@ -95,7 +92,10 @@
   - `YJG-W13`
   - `YJG-W14`
   - `YJG-W15`
+  - `YJG-A3`
+  - `YJG-A4`
   - `YJG-A5`
+  - `YJG-A8`
 
 ## Immediate priorities
 
@@ -111,3 +111,4 @@
 10. Treat the newly captured `1576` Korean exact witness as a real stemmatic gain rather than a loose backup-title duplicate.
 11. Treat manifest-backed second-tier witnesses as materially better than catalog-only leads once their local manifest JSON is held.
 12. Treat throttled partial image harvests honestly as partial rather than silently rounding them up to complete holdings.
+13. Prune overlapping anthology controls once their branch role is clear instead of keeping every scanned container active by default.

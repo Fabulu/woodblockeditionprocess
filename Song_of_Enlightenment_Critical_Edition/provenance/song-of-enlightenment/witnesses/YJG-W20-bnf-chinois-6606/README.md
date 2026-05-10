@@ -12,14 +12,14 @@
 - Current status:
   - held second-tier near-exact witness
   - direct Gallica IIIF v2 manifest locally captured into this package
-  - only a partial local image tranche currently harvested
+  - full currently exposed local image tranche harvested
 - Local file:
   - `source/YJG-W20-bnf-chinois-6606-manifest.json`
 - Local images:
-  - partial tranche currently through `images/page-0010.jpg`
+  - `images/page-0001.jpg` through `images/page-0185.jpg`
 - Direct manifest:
   - `https://gallica.bnf.fr/iiif/ark:/12148/btv1b9006326f/manifest.json`
 - Notes:
   - scan-backed non-Japanese manuscript container with the poem explicitly listed
   - useful as a manuscript-family control outside the current Japanese and Korean witness network
-  - public host currently throttles sustained image harvests
+  - public host initially throttled sustained image harvests, but the slower resumable pull eventually completed

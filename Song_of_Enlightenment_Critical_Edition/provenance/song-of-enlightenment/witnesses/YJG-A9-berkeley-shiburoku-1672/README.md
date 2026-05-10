@@ -10,7 +10,9 @@
   - `https://kokusho.nijl.ac.jp/biblio/100175056`
 - Current status:
   - held second-tier anthology control
-  - direct IIIF manifest publicly exposed
+  - direct IIIF manifest locally captured
+- Local file:
+  - `source/YJG-A9-berkeley-shiburoku-1672-manifest.json`
 - Direct manifest:
   - `https://kokusho.nijl.ac.jp/biblio/100175056/manifest`
 - Notes:

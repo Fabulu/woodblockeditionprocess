@@ -127,5 +127,8 @@
 - Harvested the full local image tranche for `YJG-W19`:
   - `33` images
 - Attempted a full local image harvest for `YJG-W20`.
-- Confirmed that `YJG-W20` is currently only partially harvestable from the public host during sustained runs because Gallica begins returning `429 Too Many Requests`.
-- Logged the current honest partial state for `YJG-W20` rather than falsely marking the witness as fully held in images.
+- Confirmed that `YJG-W20` initially hit `429 Too Many Requests` during sustained runs.
+- Re-ran `YJG-W20` with a slower resumable pull and completed the full local image tranche:
+  - `185` images
+- Ran one more five-agent wave and confirmed that no clearly independent new exact branch had surfaced beyond the current exact-family core.
+- Pruned the anthology-control layer so only the strongest non-overlapping image-backed container states remain active.
