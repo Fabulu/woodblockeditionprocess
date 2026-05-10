@@ -15,10 +15,13 @@
 - Current status:
   - ranked first-tier exact witness
   - IIIF manifest locally captured
+  - full currently exposed page-image tranche locally harvested
 - Local file:
   - `source/YJG-W17-berkeley-exact-standalone-manifest.json`
+- Local images:
+  - `images/page-0001.jpg` through `images/page-0057.jpg`
 - Direct manifest:
   - `https://kokusho.nijl.ac.jp/biblio/100175027/manifest`
 - Notes:
   - image-backed exact holding outside the current NDL/Kyoto/Waseda cluster
-  - candidate for the first OCR tranche once direct image capture or package-local ingestion is arranged
+  - effective first-tier held image witness after local IIIF harvest

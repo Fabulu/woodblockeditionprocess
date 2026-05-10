@@ -8,8 +8,8 @@
   },
   "current_phase": "witness-hunt-and-edition-startup",
   "current_slice": "witness_hunt_slice_capture_remaining_first_tier_non_commons_scans",
-  "last_completed_slice": "witness_hunt_slice_six_agent_capture_push_remaining_first_tier_blockers",
-  "next_required_action": "Finish the remaining first-tier capture work for YJG-W9 and YJG-W12 and consider harvesting page-image tranches from the newly captured IIIF manifests for YJG-W16 and YJG-W17.",
+  "last_completed_slice": "witness_hunt_slice_capture_additional_korean_exact_scans",
+  "next_required_action": "Treat YJG-W12 as the lone remaining first-tier capture blocker, keep widening scan-backed exact coverage, and decide whether YJG-W19 should be promoted into the first OCR tranche after local acquisition.",
   "next_required_slice": "witness_hunt_slice_capture_remaining_first_tier_non_commons_scans",
   "last_text_changed_event": null,
   "base_witness": {

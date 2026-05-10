@@ -61,6 +61,9 @@
 9. `YJG-W17`
    - Berkeley exact standalone image witness
    - image-backed overseas holding outside the current NDL/Kyoto/Waseda cluster
+10. `YJG-W21`
+   - Korean `1576` witness
+   - fills the stemmatic gap between `1474` and `1647`
 
 ### Direct Commons tranche now ingested locally
 
@@ -83,10 +86,6 @@
   - scan-backed catalog surface, but direct package-local file capture path still needs to be pinned
 - `YJG-W12`
   - manuscript metadata held; no direct public file surfaced yet
-- `YJG-W16`
-  - IIIF manifest captured locally, but page-image tranche not yet harvested
-- `YJG-W17`
-  - IIIF manifest captured locally, but page-image tranche not yet harvested
 
 ### Six-agent capture push results
 
@@ -94,6 +93,14 @@
   - local file: `YJG-W8-korcis-1474-samhwasa/source/YJG-W8-korcis-1474-samhwasa.pdf`
   - direct source:
     - `https://upload.wikimedia.org/wikipedia/commons/8/86/CNTS-00047968014_%E8%AD%89%E9%81%93%E6%AD%8C.pdf`
+- `YJG-W9`
+  - local file: `YJG-W9-korcis-1647-standalone/source/YJG-W9-korcis-1647-standalone.pdf`
+  - direct source:
+    - `https://commons.wikimedia.org/wiki/Special:Redirect/file/CNTS-00047983492_%E6%B0%B8%E5%98%89%E7%8E%84%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C.pdf`
+- `YJG-W21`
+  - local file: `YJG-W21-korcis-1576-seobongsa/source/YJG-W21-korcis-1576-seobongsa.pdf`
+  - direct source:
+    - `https://commons.wikimedia.org/wiki/Special:Redirect/file/CNTS-00047967985_%E6%B0%B8%E5%98%89%E7%9C%9E%E8%A6%BA%E7%A6%AA%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C.pdf`
 - `YJG-W16`
   - local file: `YJG-W16-toyo-exact-standalone/source/YJG-W16-toyo-exact-standalone-manifest.json`
   - direct manifest:
@@ -102,11 +109,26 @@
   - local file: `YJG-W17-berkeley-exact-standalone/source/YJG-W17-berkeley-exact-standalone-manifest.json`
   - direct manifest:
     - `https://kokusho.nijl.ac.jp/biblio/100175027/manifest`
-- `YJG-W9`
-  - viewer path pinned but no public PDF endpoint surfaced:
-    - `https://viewer.nl.go.kr/nlmivs/viewWonmun_js.jsp?cno=KOL000023634`
 - `YJG-W12`
   - no public digital content exposed; institutional request route remains necessary
+
+### IIIF harvest results
+
+- `YJG-W16`
+  - local directory:
+    - `YJG-W16-toyo-exact-standalone/images/`
+  - local image count:
+    - `55`
+  - result:
+    - the full currently exposed page-image tranche is now held locally
+
+- `YJG-W17`
+  - local directory:
+    - `YJG-W17-berkeley-exact-standalone/images/`
+  - local image count:
+    - `57`
+  - result:
+    - the full currently exposed page-image tranche is now held locally
 
 ## 2026-05-09 additional online witness sweep
 
@@ -117,6 +139,22 @@
   - source: `https://jpsearch.go.jp/item/okura-R100000147_I15073`
   - role:
     - second-tier exact holding outside the current NDL/Kyoto/Waseda cluster
+
+- `YJG-W19`
+  - exact OSDL / ToyoJack scan-backed witness
+  - reported date:
+    - `1531`
+  - source:
+    - `https://toyjack.github.io/toho-html-data/`
+  - role:
+    - second-tier exact holding that may deserve promotion once compared against the already held exact core
+
+- `YJG-W20`
+  - scan-backed non-Japanese manuscript container explicitly listing `永嘉證道歌`
+  - source:
+    - `https://iiif.biblissima.fr/collections/manifest/f6ea17f17f9c143fbba6b3437b77ab8acb6162a7`
+  - role:
+    - second-tier manuscript-family control outside the current Japanese and Korean network
 
 - `YJG-A6`
   - image-backed NMOE `四部録`
@@ -195,9 +233,19 @@
 - `YJG-W4C`, `YJG-W4F`, and `YJG-W4G` all add real independence value.
 - `YJG-W14` and `YJG-W15` most likely represent calligraphic Zhao-Mengfu manifestations rather than fresh textual witnesses.
 - `YJG-W7` remains bibliographic only; no open scan has yet been pinned.
-- `YJG-W16` and `YJG-W17` are new image-backed exact standalone holdings and should enter the first OCR tranche once captured locally.
+- `YJG-W16` and `YJG-W17` now count as locally held image witnesses because their full currently exposed IIIF page-image tranches have been harvested into the package.
+- `YJG-W9` is no longer a first-tier capture blocker because the Commons-hosted Korean backup file path proved directly capturable.
+- `YJG-W21` materially changes the Korean family map and should stay active as a held first-tier exact witness.
 
 ### Active hunt rule after ranking
 
 - New witness hunting should now target scan gaps and family gaps only.
 - Do not widen the package with more near-duplicate anthology or Korean title-list items unless they plausibly improve independence coverage.
+- `YJG-W21`
+  - exact Korean scan-backed witness
+  - reported date:
+    - `1576`
+  - source:
+    - `https://commons.wikimedia.org/wiki/File:CNTS-00047967985_%E6%B0%B8%E5%98%89%E7%9C%9E%E8%A6%BA%E7%A6%AA%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C.pdf`
+  - role:
+    - newly held first-tier Korean exact witness filling the chronological family gap between `1474` and `1647`

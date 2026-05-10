@@ -20,6 +20,8 @@ Current state:
 - direct Commons-backed first-tier ingest tranche completed
 - additional online witness sweep completed and logged
 - six-agent first-tier capture push completed and logged
+- IIIF page-image harvest completed for Toyo and Berkeley exact witnesses
+- additional Korean exact scan capture completed and logged
 - copy-text not yet selected
 
 Use `process.json` and `timeline.json` for machine-readable resumability.

@@ -3,7 +3,7 @@
 - Witness ID: `YJG-W16`
 - Work: `永嘉證道歌`
 - Type: `exact standalone image witness`
-- Date: not surfaced on the exposed list page
+- Date: `1694`
 - Holding / network:
   - Toyo University / NIJL image network
 - Source page:
@@ -15,10 +15,13 @@
 - Current status:
   - ranked first-tier exact witness
   - IIIF manifest locally captured
+  - full currently exposed page-image tranche locally harvested
 - Local file:
   - `source/YJG-W16-toyo-exact-standalone-manifest.json`
+- Local images:
+  - `images/page-0001.jpg` through `images/page-0055.jpg`
 - Direct manifest:
   - `https://kokusho.nijl.ac.jp/biblio/300094276/manifest`
 - Notes:
   - image-backed standalone exact holding outside the current NDL/Kyoto/Waseda cluster
-  - candidate for the first OCR tranche once direct image capture or package-local ingestion is arranged
+  - effective first-tier held image witness after local IIIF harvest

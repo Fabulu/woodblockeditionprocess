@@ -54,3 +54,13 @@
 
 - Decision: keep widening online witness coverage even after the first-tier queue is set, but treat most new additions as second-tier controls unless they materially threaten copy-text-family coverage.
 - Reason: the latest five-agent sweep found real additional witnesses, but mostly in anthology, annotated, or parallel-control branches. They are worth logging now without letting the edition drift away from the ranked exact core.
+
+## D-012 `2026-05-10`
+
+- Decision: treat harvested IIIF page-image tranches as meaningful acquisition milestones even when the institutional source does not expose a single downloadable local PDF.
+- Reason: once the full currently exposed page-image tranche is held locally, the witness is materially in hand for OCR, comparison, and later coordinate work, so the package should record it as a held image witness rather than a manifest-only placeholder.
+
+## D-013 `2026-05-10`
+
+- Decision: promote the newly captured `1576` Korean exact witness into the active first-tier held exact family rather than parking it as a second-tier backup.
+- Reason: it is an exact standalone witness with a real scan-backed asset in hand and it fills the chronological Korean family gap between `1474` and `1647`, so its stemmatic value is stronger than that of the looser calligraphic backup-title branch.

@@ -95,3 +95,25 @@
   - `YJG-W17`
 - Confirmed that `YJG-W9` has a real institutional viewer path but no surfaced public PDF endpoint yet.
 - Confirmed that `YJG-W12` still has no public digital content and requires an institutional request path rather than a hidden open scan.
+
+## 2026-05-10
+
+- Added a local IIIF harvest helper script for first-tier image-backed witnesses:
+  - `scripts/harvest_iiif_manifest_images.py`
+- Harvested the full currently exposed page-image tranche for `YJG-W16` from its locally held IIIF manifest:
+  - `55` page JPGs
+- Harvested the full currently exposed page-image tranche for `YJG-W17` from its locally held IIIF manifest:
+  - `57` page JPGs
+- Treated the Toyo and Berkeley exact witnesses as held image tranches rather than manifest-only placeholders after local image capture completed.
+- Ran another five-agent scan search wave in parallel while the package logs were being synchronized.
+- Surfaced one further scan-backed exact witness:
+  - `YJG-W19` `1531` OSDL / ToyoJack exact holding
+- Surfaced one further scan-backed non-Japanese manuscript container:
+  - `YJG-W20` `BnF Chinois 6606`
+- Reconfirmed that `YJG-W9` still exposes only an institutional viewer path with no surfaced public PDF endpoint.
+- Reconfirmed that `YJG-W12` remains request-only with no public digital content exposed.
+- Confirmed that the Commons-hosted Korean backup path for `YJG-W9` is directly capturable after all.
+- Captured `YJG-W9` locally as a direct exact PDF from the Korean Commons-backed surface.
+- Surfaced and captured one additional exact Korean witness:
+  - `YJG-W21` `1576`
+- Confirmed that `YJG-W21` fills the chronological Korean family gap between `1474` and `1647` rather than merely repeating the already known calligraphic branch.

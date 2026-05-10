@@ -85,9 +85,21 @@
     },
     {
       "event_id": "YJG-014",
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "type": "witness_capture_extended",
       "summary": "A six-agent capture push brought in the Korean 1474 exact PDF and the Toyo and Berkeley IIIF manifests, while isolating YJG-W9 and YJG-W12 as the remaining first-tier capture blockers."
+    },
+    {
+      "event_id": "YJG-015",
+      "date": "2026-05-10",
+      "type": "witness_capture_extended",
+      "summary": "Harvested full IIIF page-image tranches for the Toyo and Berkeley exact witnesses and logged additional scan-backed witness leads from the concurrent five-agent search wave."
+    },
+    {
+      "event_id": "YJG-016",
+      "date": "2026-05-10",
+      "type": "witness_capture_extended",
+      "summary": "Captured the Korean 1647 exact witness through its direct public PDF path and added a newly surfaced Korean 1576 exact witness to the held first-tier family."
     }
   ]
 }
