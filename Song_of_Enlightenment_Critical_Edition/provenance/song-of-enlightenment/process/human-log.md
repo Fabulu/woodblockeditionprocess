@@ -63,3 +63,11 @@
 
 - The next bounded slice is now narrower and better defined: real exact-witness comparison/transcription should start against the opened loci, with the mixed opening pages and `YJG-W22` `page-0063` as the first tightening targets.
 
+
+- The first exact-witness comparison slice did not merely tighten a few line edges. It exposed that the startup opening span had been opened three pages too early in all three active exact witnesses.
+
+- The important correction is now in place: YJG-W16, YJG-W17, and YJG-W22 all begin the poem on mixed opening page page-0007, while their earlier page-0004 to page-0006 leaves are title or prefatory prose rather than poem body.
+
+- The slice also did the bounded closing work it was supposed to do. YJG-W17 page-0057 still stands as the terminal poem-bearing leaf in the held capture, and YJG-W22 page-0063 still stands as the final mixed poem boundary before the explicit afterword on page-0064.
+
+- That means the package now honestly reflects a real first comparison/transcription batch rather than only a startup opening: the base register, line map, anchor-planning document, machine-readable state, and evidence logs all agree on the corrected opening and closing loci.

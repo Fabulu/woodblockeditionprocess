@@ -1,20 +1,20 @@
-# Current State
+﻿# Current State
 
 
 
-- Work: `永嘉證道歌` / `song-of-enlightenment`
+- Work: `æ°¸å˜‰è­‰é“æ­Œ` / `song-of-enlightenment`
 
 - Date: `2026-05-11`
 
-- Phase: `ocr-startup-base-anchor-opening-complete`
+- Phase: `ocr-startup-first-exact-comparison-slice-1-complete`
 
-- Current slice: `ocr_startup_slice_prepare_first_exact_comparison_from_opened_poem_loci`
+- Current slice: `ocr_startup_slice_continue_exact_comparison_from_corrected_openings`
 
-- Last completed slice: `ocr_startup_slice_derive_first_poem_locus_segmentation_and_open_base_anchors`
+- Last completed slice: `ocr_startup_slice_first_exact_comparison_mixed_openings_and_w22_p0063`
 
-- Next required action: begin the first exact-witness comparison/transcription slice against the opened poem loci in `anchor-base-register.jsonl`, starting with the mixed opening pages in `YJG-W16`, `YJG-W17`, and `YJG-W22` plus the closing boundary page `YJG-W22` `page-0063`; tighten provisional line edges only where direct page evidence requires it; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
+- Next required action: continue exact-witness comparison/transcription from the corrected true opening pages `page-0007` in `YJG-W16`, `YJG-W17`, and `YJG-W22`; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` as active boundary loci; proceed into adjacent early interior poem pages without reopening witness hunt or drifting into commentary-only material; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
 
-- Next required slice: `ocr_startup_slice_prepare_first_exact_comparison_from_opened_poem_loci`
+- Next required slice: `ocr_startup_slice_continue_exact_comparison_from_corrected_openings`
 
 - Copy-text status: not yet selected
 
@@ -26,11 +26,11 @@
 
 
 
-- A new critical-edition package has been opened specifically for `永嘉證道歌`.
+- A new critical-edition package has been opened specifically for `æ°¸å˜‰è­‰é“æ­Œ`.
 
 - The work is being treated as a poem-first Chan critical edition with later commentary and translation witnesses as secondary controls.
 
-- The inherited local `四部録` witness is already on disk and is the first recorded exact witness.
+- The inherited local `å››éƒ¨éŒ²` witness is already on disk and is the first recorded exact witness.
 
 - Web and scout research now identify:
 
@@ -42,17 +42,17 @@
 
   - a second anthology-like exact lead
 
-  - a `永嘉集附證道歌` near-exact anthology lead
+  - a `æ°¸å˜‰é›†é™„è­‰é“æ­Œ` near-exact anthology lead
 
   - a `1935` bibliographic exact lead outside the immediate Commons image cluster
 
   - a Korean exact family with `1474`, `1647`, heritage, metal-type, and later backup-title lines
 
-  - a Waseda `五味禅` anthology witness containing `永嘉真覺大師證道歌`
+  - a Waseda `äº”å‘³ç¦…` anthology witness containing `æ°¸å˜‰çœŸè¦ºå¤§å¸«è­‰é“æ­Œ`
 
-  - Kyoto and Waseda `四部録` anthology witnesses beyond the inherited local branch
+  - Kyoto and Waseda `å››éƒ¨éŒ²` anthology witnesses beyond the inherited local branch
 
-  - a `四部録抄` derivative anthology branch with `證道歌抄`
+  - a `å››éƒ¨éŒ²æŠ„` derivative anthology branch with `è­‰é“æ­ŒæŠ„`
 
   - an undated manuscript exact witness in Japanese holdings
 
@@ -62,11 +62,11 @@
 
   - one further scan-backed exact `1531` witness in the OSDL / ToyoJack network
 
-  - one scan-backed non-Japanese manuscript container in the BnF IIIF network that explicitly includes `永嘉證道歌`
+  - one scan-backed non-Japanese manuscript container in the BnF IIIF network that explicitly includes `æ°¸å˜‰è­‰é“æ­Œ`
 
   - one newly captured Korean exact `1576` witness that now fills the family gap between `1474` and `1647`
 
-  - one newly opened `1672` Berkeley `四部録` control with a direct public IIIF manifest
+  - one newly opened `1672` Berkeley `å››éƒ¨éŒ²` control with a direct public IIIF manifest
 
   - one second-tier exact witness `YJG-W19` is now fully harvested as a local image tranche
 
@@ -80,31 +80,31 @@
 
   - one new image-backed Korean exact lead strengthening the Zhao-Mengfu / calligraphic-recut branch
 
-  - one stronger public institutional holding for the older Korean `을해자` line
+  - one stronger public institutional holding for the older Korean `ì„í•´ìž` line
 
-  - one `1631` Kyushu `四部録抄` derivative branch now fully held as a local image tranche
+  - one `1631` Kyushu `å››éƒ¨éŒ²æŠ„` derivative branch now fully held as a local image tranche
 
-  - one `1648` Kyushu `校正四部録` corrected branch now fully held as a local image tranche
+  - one `1648` Kyushu `æ ¡æ­£å››éƒ¨éŒ²` corrected branch now fully held as a local image tranche
 
-  - one `1647` Nagoya / NIJL-linked `四部録抄` derivative branch
+  - one `1647` Nagoya / NIJL-linked `å››éƒ¨éŒ²æŠ„` derivative branch
 
-  - one Kyoto manuscript `入衆日用` container with appended `證道歌`
+  - one Kyoto manuscript `å…¥è¡†æ—¥ç”¨` container with appended `è­‰é“æ­Œ`
 
   - a dated NLC commentary witness
 
-  - an older Japanese commentary-print lead `証道歌註` (`1641`)
+  - an older Japanese commentary-print lead `è¨¼é“æ­Œè¨»` (`1641`)
 
-  - an image-backed `四部録` holding in the NMOE network
+  - an image-backed `å››éƒ¨éŒ²` holding in the NMOE network
 
-  - an image-backed `首書四部録` annotated branch in the Yutoku network
+  - an image-backed `é¦–æ›¸å››éƒ¨éŒ²` annotated branch in the Yutoku network
 
-  - a `1689` kana-marked `四部録` branch
+  - a `1689` kana-marked `å››éƒ¨éŒ²` branch
 
-  - stronger surfaced Korean near-exact `南明` family lines with digital access
+  - stronger surfaced Korean near-exact `å—æ˜Ž` family lines with digital access
 
   - CiNii and reception controls
 
-  - one Commons upload-log duplicate relation tying a suppressed Wenzhou `證道歌` upload to the Waseda `五味禅` mirror
+  - one Commons upload-log duplicate relation tying a suppressed Wenzhou `è­‰é“æ­Œ` upload to the Waseda `äº”å‘³ç¦…` mirror
 
 
 
@@ -184,25 +184,25 @@
 
   - `provenance/song-of-enlightenment/process/anchor-planning.md`
 
-- The confirmed poem-bearing spans are:
+- The corrected poem-bearing spans after first exact review are:
 
-  - `YJG-W16`: `page-0004` through `page-0054`
+  - `YJG-W16`: `page-0007` through `page-0054`
 
-  - `YJG-W17`: `page-0004` through `page-0057`
+  - `YJG-W17`: `page-0007` through `page-0057`
 
-  - `YJG-W22`: `page-0004` through `page-0063`
+  - `YJG-W22`: `page-0007` through `page-0063`
 
-- Witness-specific planning constraints are now fixed before transcription:
+- Witness-specific comparison constraints are now fixed before further transcription:
 
-  - `YJG-W16` opens on a mixed opening page and closes on a still-poem-bearing final page with no separate afterword inside the witnessed span
+  - `YJG-W16` opens on the mixed page `page-0007`; `page-0004` to `page-0006` are prefatory title or prose matter and no separate afterword appears inside the witnessed closing span
 
-  - `YJG-W17` opens on a mixed opening page and remains poem-bearing through its terminal captured page
+  - `YJG-W17` opens on the mixed page `page-0007`; `page-0004` to `page-0006` are prefatory title or prose matter and `page-0057` remains poem-bearing through the terminal captured page
 
-  - `YJG-W22` closes on a mixed boundary page where the poem remains inside the main frame on `page-0063`, while `page-0064` begins explicit afterword matter
+  - `YJG-W22` opens on the mixed page `page-0007`; `page-0004` to `page-0006` are prefatory title or prose matter, and the poem closes on the mixed boundary page `page-0063` before the explicit afterword on `page-0064`
 
 - The first comparison/transcription pass now has a bounded early character-tier watchlist:
 
-  - opening title/body transition pages `page-0004` in `YJG-W16`, `YJG-W17`, and `YJG-W22`
+  - opening title/body transition pages `page-0007` in `YJG-W16`, `YJG-W17`, and `YJG-W22`
 
   - closing boundary page `YJG-W22` `page-0063`
 
@@ -212,21 +212,21 @@
 
 - The base anchor register is now genuinely opened for every confirmed tranche-1 poem locus:
 
-  - `165` page-tier `.poem-band` rows
+  - `156` page-tier `.poem-band` rows
 
-  - `760` line-tier `.l##` rows
+  - `721` line-tier `.l##` rows
 
-  - `925` total rows in `anchor-base-register.jsonl`
+  - `877` total rows in `anchor-base-register.jsonl`
 
 - Mixed opening or closing pages remain explicitly provisional at line tier rather than falsely over-resolved:
 
-  - `YJG-W16` `page-0004`
+  - `YJG-W16` `page-0007`
 
-  - `YJG-W17` `page-0004`
+  - `YJG-W17` `page-0007`
 
   - `YJG-W17` `page-0057`
 
-  - `YJG-W22` `page-0004`
+  - `YJG-W22` `page-0007`
 
   - `YJG-W22` `page-0063`
 
@@ -362,9 +362,9 @@
 
 
 
-1. Begin the first exact-witness comparison/transcription slice from the opened poem loci in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
+1. Continue exact-witness comparison/transcription from the corrected true opening pages in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
 
-2. Tighten only the mixed or boundary loci that remain explicitly provisional: `YJG-W16` `page-0004`, `YJG-W17` `page-0004` and `page-0057`, and `YJG-W22` `page-0004` and `page-0063`.
+2. Tighten only the mixed or boundary loci that remain explicitly provisional: `YJG-W16` `page-0007`, `YJG-W17` `page-0007` and `page-0057`, and `YJG-W22` `page-0007` and `page-0063`.
 
 3. Keep separating likely duplicate or recut Wenzhou manifestations from genuinely independent exact witnesses.
 
@@ -379,6 +379,7 @@
 8. Treat the witness family map as secure enough for OCR startup, while leaving copy-text lock and deeper editorial adjudication for after the first OCR tranche.
 
 9. Exclude prohibited canonical web mirrors from this package entirely.
+
 
 
 

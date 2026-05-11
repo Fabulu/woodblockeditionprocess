@@ -587,3 +587,45 @@
 
 - Kept character-tier evidence unopened for this slice and did not fabricate graph boxes where page-plus-line planning was sufficient.
 
+
+- Ran the first exact-witness comparison/transcription pass against the startup opening and closing watchlist instead of taking the provisional opening span on trust.
+
+- Direct page review overturned the startup opening overreach in all three active exact witnesses:
+
+  - YJG-W16 page-0004 to page-0006 are title or prefatory prose, not poem body
+
+  - YJG-W17 page-0004 to page-0006 are title or prefatory prose, not poem body
+
+  - YJG-W22 page-0004 to page-0006 are title, prefatory prose, or note-heavy non-poem matter, not poem body
+
+- Re-fixed the true mixed opening page in each active exact witness at page-0007 after direct image confirmation of the title column plus the first poem block.
+
+- Corrected the tranche-1 poem-bearing spans accordingly:
+
+  - YJG-W16: page-0007 through page-0054
+
+  - YJG-W17: page-0007 through page-0057
+
+  - YJG-W22: page-0007 through page-0063
+
+- Confirmed the closing-boundary loci that survived the first exact pass without needing span extension:
+
+  - YJG-W17 page-0057 remains poem-bearing through the terminal captured page
+
+  - YJG-W22 page-0063 remains the final mixed poem boundary, with upper prose and page-0064 afterword matter excluded
+
+- Rewrote the base-anchor opening to match the corrected opening evidence:
+
+  - removed all page-0004 to page-0006 anchor rows for YJG-W16, YJG-W17, and YJG-W22
+
+  - reclassified page-0007 in all three witnesses as the true mixed opening page
+
+  - preserved YJG-W17 page-0057 and YJG-W22 page-0063 as active provisional boundary loci
+
+- The corrected base-anchor totals are now:
+
+  - 156 page-tier .poem-band rows
+
+  - 721 line-tier .l## rows
+
+  - 877 total anchor rows

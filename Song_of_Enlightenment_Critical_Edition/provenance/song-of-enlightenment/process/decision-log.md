@@ -260,3 +260,10 @@
 
 - Reason: the package already has enough direct page evidence to open honest poem-band and line-tier loci for the tranche-1 exact witnesses. Leaving the register empty would stall the comparison workflow, while pretending the mixed boundary pages were already graph-resolved would overclaim what this slice actually established.
 
+
+
+## D-027 2026-05-11
+
+- Decision: override the startup opening-span assumption for YJG-W16, YJG-W17, and YJG-W22 and reset the true mixed opening page in all three witnesses from page-0004 to page-0007, while keeping YJG-W17 page-0057 and YJG-W22 page-0063 as the live closing-boundary loci.
+
+- Reason: the first exact-witness comparison pass against the actual page images showed that page-0004 to page-0006 in all three active witnesses are title or prefatory prose surfaces rather than poem body. Leaving those rows open as poem loci would overstate the evidence and contaminate the first transcription tranche.
