@@ -68,7 +68,7 @@
 
 - [ ] first-tier exact witness downloads ingested
 
-- [ ] page-plus-line anchor plan prepared for every poem locus
+- [x] page-plus-line anchor plan prepared for every poem locus
 
 - [x] OCR-first transcription started
 

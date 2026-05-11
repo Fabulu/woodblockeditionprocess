@@ -54,3 +54,5 @@
 
 - With the engine baseline complete, the next honest move is no longer more startup OCR. It is page-span identification and anchor planning on top of the completed OCR surfaces.
 
+- That anchor-planning move has now been completed for the active exact image tranche. The package has confirmed where the poem actually lives in `YJG-W16`, `YJG-W17`, and `YJG-W22`, and it has converted those spans into a witness-by-witness page-tier and line-tier plan without faking final geometry.
+

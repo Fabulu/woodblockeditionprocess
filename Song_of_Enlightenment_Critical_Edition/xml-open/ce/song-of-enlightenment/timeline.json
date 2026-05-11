@@ -178,6 +178,12 @@
       "date": "2026-05-11",
       "type": "ocr_startup_completed",
       "summary": "Completed the four-engine tranche-1 OCR image baseline across YJG-W16, YJG-W17, and YJG-W22, with the recorded zero-text completions limited to YJG-W16 RapidOCR page-0055 and YJG-W22 page-0068 under RapidOCR and EasyOCR rather than any engine blocker."
+    },
+    {
+      "event_id": "YJG-030",
+      "date": "2026-05-11",
+      "type": "ocr_anchor_planning_completed",
+      "summary": "Identified the poem-bearing page spans in YJG-W16, YJG-W17, and YJG-W22 from the completed OCR baseline plus direct page review, fixed those spans at YJG-W16 page-0004 to page-0054, YJG-W17 page-0004 to page-0057, and YJG-W22 page-0004 to page-0063, and recorded witness-specific page-tier and line-tier planning in a dedicated anchor-planning document while reserving actual anchor-base rows for the first comparison or transcription slice."
     }
   ]
 }

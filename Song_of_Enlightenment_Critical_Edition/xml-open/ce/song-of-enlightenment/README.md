@@ -26,6 +26,7 @@ Current state:
 - second-tier image harvest completed for `YJG-W19` and partially attempted for `YJG-W20`
 - second-tier image harvest completed for `YJG-W20`
 - post-harvest rank/prune pass completed
+- page-span and page-plus-line anchor planning completed for `YJG-W16`, `YJG-W17`, and `YJG-W22`
 - copy-text not yet selected
 
 Use `process.json` and `timeline.json` for machine-readable resumability.

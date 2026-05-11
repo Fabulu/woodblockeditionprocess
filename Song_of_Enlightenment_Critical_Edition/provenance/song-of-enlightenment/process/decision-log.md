@@ -244,3 +244,12 @@
 
 - Reason: the startup goal for this slice is engine-complete baseline coverage with honest evidence capture, not forced non-empty text on every page. The recorded zero-text results on `YJG-W16` `RapidOCR` page `page-0055` and `YJG-W22` page `page-0068` under `RapidOCR` and `EasyOCR` are completed blank-page results, not runtime blockers.
 
+
+## D-025 `2026-05-11`
+
+
+
+- Decision: complete the current OCR-derived planning slice by fixing poem-bearing page spans and page-plus-line planning in a dedicated package-local planning document, but do not yet open speculative line rows in `anchor-base-register.jsonl`.
+
+- Reason: the completed four-engine baseline and direct image checks are strong enough to identify the true poem spans and the mixed opening or closing boundary pages. They are not, by themselves, a license to pretend that every final line locus has already been adjudicated. The honest next move is to lock the spans and page classes now, then open actual anchor rows during the first comparison or transcription slice.
+

@@ -14,6 +14,11 @@
       "id": "acquisition-metadata",
       "title": "Acquisition Metadata",
       "path": "provenance/song-of-enlightenment/witnesses/acquisition-metadata.md"
+    },
+    {
+      "id": "anchor-planning",
+      "title": "Poem Anchor Planning",
+      "path": "provenance/song-of-enlightenment/process/anchor-planning.md"
     }
   ]
 }

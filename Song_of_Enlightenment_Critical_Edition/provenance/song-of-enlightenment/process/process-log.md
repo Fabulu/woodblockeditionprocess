@@ -524,3 +524,39 @@
 
   - derive page-plus-line anchor planning from the completed image-tranche baseline
 
+- Identified the active exact-witness poem-bearing page spans directly from the witness images and the completed OCR baseline:
+
+  - `YJG-W16`: `page-0004` through `page-0054`
+
+  - `YJG-W17`: `page-0004` through `page-0057`
+
+  - `YJG-W22`: `page-0004` through `page-0063`
+
+- Confirmed the non-poem boundary evidence needed to close the planning slice honestly:
+
+  - `YJG-W16` `page-0001` to `page-0003` are pre-poem surfaces and `page-0055` is back matter
+
+  - `YJG-W17` `page-0001` to `page-0003` are slip, catalog, or title surfaces and `page-0057` is still poem-bearing
+
+  - `YJG-W22` `page-0064` begins explicit afterword matter, `page-0065` continues prose, `page-0066` is glossary matter, and `page-0067` to `page-0068` are end matter or cover surfaces
+
+- Added a dedicated planning document at `provenance/song-of-enlightenment/process/anchor-planning.md`.
+
+- Converted the completed OCR baseline into witness-specific page-tier and line-tier planning instead of pretending that final line anchors already exist:
+
+  - mixed opening pages are now flagged for poem-band-only page anchoring
+
+  - interior poem pages are now flagged for full framed text-block line anchoring
+
+  - mixed closing pages are now flagged where poem and non-poem matter share a leaf, especially `YJG-W22` `page-0063`
+
+- Recorded the first bounded early character-tier watchlist rather than inflating it prematurely:
+
+  - `page-0004` opening title/body transitions in `YJG-W16`, `YJG-W17`, and `YJG-W22`
+
+  - `YJG-W22` `page-0063` final poem boundary against adjacent prose
+
+- Kept `anchor-base-register.jsonl` at initialization-stub state for now because this slice completed planning, not final line adjudication or apparatus capture.
+
+- Shifted the package state forward to the first comparison/transcription slice that should open real page-band and line-tier anchor rows from the confirmed plan.
+
