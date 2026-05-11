@@ -253,3 +253,10 @@
 
 - Reason: the completed four-engine baseline and direct image checks are strong enough to identify the true poem spans and the mixed opening or closing boundary pages. They are not, by themselves, a license to pretend that every final line locus has already been adjudicated. The honest next move is to lock the spans and page classes now, then open actual anchor rows during the first comparison or transcription slice.
 
+
+## D-026 `2026-05-11`
+
+- Decision: convert the completed poem-span plan into a first stable page-plus-line base-anchor opening now, but keep the mixed opening and closing pages explicitly provisional rather than forcing character-tier precision.
+
+- Reason: the package already has enough direct page evidence to open honest poem-band and line-tier loci for the tranche-1 exact witnesses. Leaving the register empty would stall the comparison workflow, while pretending the mixed boundary pages were already graph-resolved would overclaim what this slice actually established.
+

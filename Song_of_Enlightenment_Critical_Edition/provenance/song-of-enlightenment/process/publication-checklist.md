@@ -70,7 +70,9 @@
 
 - [x] page-plus-line anchor plan prepared for every poem locus
 
-- [x] OCR-first transcription started
+- [x] first poem-locus segmentation and base-anchor opening completed
+
+- [ ] OCR-first transcription started
 
 - [ ] comparison and correction started
 

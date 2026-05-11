@@ -88,3 +88,19 @@ It does **not** pretend that final line segmentation or character boxing has alr
 - The next comparison or transcription slice can now open line loci only inside the confirmed poem-bearing spans instead of wasting work on covers, afterwords, or glossary pages.
 - The first anchor rows should be opened from this plan witness by witness, starting with page-band rows and then line rows for the actual poem lines encountered.
 - No character boxes should be fabricated during that opening pass; only the watchlist loci above should be considered early candidates for Tier 3 capture.
+
+## Execution result on `2026-05-11`
+
+- This plan has now been executed into the first tranche-bounded line map at `provenance/song-of-enlightenment/process/poem-line-map.md`.
+- `anchor-base-register.jsonl` is now opened at page-plus-line tier for all confirmed poem loci in `YJG-W16`, `YJG-W17`, and `YJG-W22`.
+- Opened row totals:
+  - `165` page-tier `.poem-band` rows
+  - `760` line-tier `.l##` rows
+  - `925` total anchor rows
+- The still-provisional mixed or boundary pages remain:
+  - `YJG-W16` `page-0004`
+  - `YJG-W17` `page-0004`
+  - `YJG-W17` `page-0057`
+  - `YJG-W22` `page-0004`
+  - `YJG-W22` `page-0063`
+- The next bounded slice is first exact-witness comparison/transcription against those opened loci, not further witness expansion.

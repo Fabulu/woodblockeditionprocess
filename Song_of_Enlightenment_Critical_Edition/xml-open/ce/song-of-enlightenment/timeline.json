@@ -184,6 +184,12 @@
       "date": "2026-05-11",
       "type": "ocr_anchor_planning_completed",
       "summary": "Identified the poem-bearing page spans in YJG-W16, YJG-W17, and YJG-W22 from the completed OCR baseline plus direct page review, fixed those spans at YJG-W16 page-0004 to page-0054, YJG-W17 page-0004 to page-0057, and YJG-W22 page-0004 to page-0063, and recorded witness-specific page-tier and line-tier planning in a dedicated anchor-planning document while reserving actual anchor-base rows for the first comparison or transcription slice."
+    },
+    {
+      "event_id": "YJG-031",
+      "date": "2026-05-11",
+      "type": "ocr_anchor_opening_completed",
+      "summary": "Derived the first stable poem-locus segmentation and line map from the confirmed poem-bearing spans in YJG-W16, YJG-W17, and YJG-W22, then opened anchor-base-register.jsonl with 165 page-tier poem-band rows and 760 line-tier loci while keeping the mixed opening and closing pages explicitly provisional."
     }
   ]
 }

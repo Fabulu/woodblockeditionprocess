@@ -56,3 +56,10 @@
 
 - That anchor-planning move has now been completed for the active exact image tranche. The package has confirmed where the poem actually lives in `YJG-W16`, `YJG-W17`, and `YJG-W22`, and it has converted those spans into a witness-by-witness page-tier and line-tier plan without faking final geometry.
 
+
+- That planning result has now been cashed out into the first actual poem-locus opening rather than left as a paper plan. The package has derived a stable tranche-bounded line map from the confirmed spans and opened the base register at page-plus-line tier across `YJG-W16`, `YJG-W17`, and `YJG-W22`.
+
+- The opening stays honest about mixed boundaries. `page-0004` in all three active witnesses, `page-0057` in `YJG-W17`, and `page-0063` in `YJG-W22` are recorded as provisional line-tier loci inside the confirmed poem frame rather than being promoted to fake final segmentation or unnecessary character boxes.
+
+- The next bounded slice is now narrower and better defined: real exact-witness comparison/transcription should start against the opened loci, with the mixed opening pages and `YJG-W22` `page-0063` as the first tightening targets.
+

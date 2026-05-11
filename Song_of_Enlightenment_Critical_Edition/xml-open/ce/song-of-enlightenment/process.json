@@ -6,11 +6,11 @@
     "edition_type": "critical_edition",
     "scope_mode": "poem_first"
   },
-  "current_phase": "ocr-startup-anchor-planning-complete",
-  "current_slice": "ocr_startup_slice_prepare_first_comparison_and_transcription_from_anchor_plan",
-  "last_completed_slice": "ocr_startup_slice_identify_poem_page_spans_from_completed_image_tranche_baselines",
-  "next_required_action": "Open the first exact-witness comparison/transcription slice from the completed page-plus-line anchor plan for YJG-W16, YJG-W17, and YJG-W22; begin writing real anchor-base-register.jsonl page-band and line-tier loci only inside the confirmed poem-bearing spans; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep YJG-A10 and YJG-A11 as second-tier controls outside OCR tranche 1; keep YJG-W12 blocked rather than pretending it is a latent OCR quick win.",
-  "next_required_slice": "ocr_startup_slice_prepare_first_comparison_and_transcription_from_anchor_plan",
+  "current_phase": "ocr-startup-base-anchor-opening-complete",
+  "current_slice": "ocr_startup_slice_prepare_first_exact_comparison_from_opened_poem_loci",
+  "last_completed_slice": "ocr_startup_slice_derive_first_poem_locus_segmentation_and_open_base_anchors",
+  "next_required_action": "Begin the first exact-witness comparison/transcription slice against the opened poem loci in anchor-base-register.jsonl, starting with the mixed opening pages in YJG-W16, YJG-W17, and YJG-W22 plus the closing boundary page YJG-W22 page-0063; tighten provisional line edges only where direct page evidence requires it; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep YJG-A10 and YJG-A11 as second-tier controls outside OCR tranche 1; keep YJG-W12 blocked rather than pretending it is a latent OCR quick win.",
+  "next_required_slice": "ocr_startup_slice_prepare_first_exact_comparison_from_opened_poem_loci",
   "last_text_changed_event": null,
   "base_witness": {
     "status": "unlocked",
@@ -36,7 +36,7 @@
     "status": "required_before_first_comparison_handoff"
   },
   "anchor_planning": {
-    "status": "page-span-and-line-plan-complete",
+    "status": "page-span-plan-and-first-base-anchor-opening-complete",
     "planning_document": "../../../provenance/song-of-enlightenment/process/anchor-planning.md",
     "active_exact_image_witnesses": [
       {
@@ -65,6 +65,13 @@
           "page-0063"
         ]
       }
-    ]
+    ],
+    "line_map_document": "../../../provenance/song-of-enlightenment/process/poem-line-map.md",
+    "anchor_base_register": "../../../provenance/song-of-enlightenment/process/anchor-base-register.jsonl",
+    "opened_row_totals": {
+      "page_tier": 165,
+      "line_tier": 760,
+      "total": 925
+    }
   }
 }

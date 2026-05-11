@@ -560,3 +560,30 @@
 
 - Shifted the package state forward to the first comparison/transcription slice that should open real page-band and line-tier anchor rows from the confirmed plan.
 
+
+- Derived the first stable poem-locus segmentation and line map from the already confirmed poem-bearing spans for `YJG-W16`, `YJG-W17`, and `YJG-W22`.
+
+- Opened `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` with real tranche-1 page-plus-line base anchors:
+
+  - `165` page-tier `.poem-band` rows
+
+  - `760` line-tier `.l##` rows
+
+  - `925` total anchor rows
+
+- Recorded the mixed or still-provisional boundary loci explicitly instead of pretending they were already comparison-resolved:
+
+  - `YJG-W16` `page-0004`
+
+  - `YJG-W17` `page-0004`
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0004`
+
+  - `YJG-W22` `page-0063`
+
+- Added a dedicated tranche-bounded line-map document at `provenance/song-of-enlightenment/process/poem-line-map.md` to explain the witness-by-witness opening geometry and the next tightening targets.
+
+- Kept character-tier evidence unopened for this slice and did not fabricate graph boxes where page-plus-line planning was sufficient.
+

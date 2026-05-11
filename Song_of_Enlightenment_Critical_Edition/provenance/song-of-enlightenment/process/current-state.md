@@ -6,15 +6,15 @@
 
 - Date: `2026-05-11`
 
-- Phase: `ocr-startup-anchor-planning-complete`
+- Phase: `ocr-startup-base-anchor-opening-complete`
 
-- Current slice: `ocr_startup_slice_prepare_first_comparison_and_transcription_from_anchor_plan`
+- Current slice: `ocr_startup_slice_prepare_first_exact_comparison_from_opened_poem_loci`
 
-- Last completed slice: `ocr_startup_slice_identify_poem_page_spans_from_completed_image_tranche_baselines`
+- Last completed slice: `ocr_startup_slice_derive_first_poem_locus_segmentation_and_open_base_anchors`
 
-- Next required action: open the first exact-witness comparison/transcription slice from the completed page-plus-line anchor plan for `YJG-W16`, `YJG-W17`, and `YJG-W22`; begin writing real `anchor-base-register.jsonl` line loci only inside the confirmed poem-bearing spans; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
+- Next required action: begin the first exact-witness comparison/transcription slice against the opened poem loci in `anchor-base-register.jsonl`, starting with the mixed opening pages in `YJG-W16`, `YJG-W17`, and `YJG-W22` plus the closing boundary page `YJG-W22` `page-0063`; tighten provisional line edges only where direct page evidence requires it; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
 
-- Next required slice: `ocr_startup_slice_prepare_first_comparison_and_transcription_from_anchor_plan`
+- Next required slice: `ocr_startup_slice_prepare_first_exact_comparison_from_opened_poem_loci`
 
 - Copy-text status: not yet selected
 
@@ -206,6 +206,30 @@
 
   - closing boundary page `YJG-W22` `page-0063`
 
+- The first stable poem-locus segmentation and line map now exists at:
+
+  - `provenance/song-of-enlightenment/process/poem-line-map.md`
+
+- The base anchor register is now genuinely opened for every confirmed tranche-1 poem locus:
+
+  - `165` page-tier `.poem-band` rows
+
+  - `760` line-tier `.l##` rows
+
+  - `925` total rows in `anchor-base-register.jsonl`
+
+- Mixed opening or closing pages remain explicitly provisional at line tier rather than falsely over-resolved:
+
+  - `YJG-W16` `page-0004`
+
+  - `YJG-W17` `page-0004`
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0004`
+
+  - `YJG-W22` `page-0063`
+
 - The package had to recover from interactive launcher time limits honestly:
 
   - a direct shell-bound tranche run would advance real OCR work but could time out before the full slice finished
@@ -338,9 +362,9 @@
 
 
 
-1. Open the first exact-witness comparison/transcription slice from the completed plan in `provenance/song-of-enlightenment/process/anchor-planning.md`.
+1. Begin the first exact-witness comparison/transcription slice from the opened poem loci in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
 
-2. Begin writing real page-band and line-tier `anchor-base-register.jsonl` rows only inside the confirmed poem-bearing spans.
+2. Tighten only the mixed or boundary loci that remain explicitly provisional: `YJG-W16` `page-0004`, `YJG-W17` `page-0004` and `page-0057`, and `YJG-W22` `page-0004` and `page-0063`.
 
 3. Keep separating likely duplicate or recut Wenzhou manifestations from genuinely independent exact witnesses.
 
