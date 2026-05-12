@@ -666,3 +666,23 @@
 
 - Kept `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary loci after direct re-check rather than falsely marking the closing tranche resolved.
 
+
+- Continued into the next bounded early-interior tranche from the shared clean `page-0009` surface in `YJG-W16` and `YJG-W17`.
+
+- Stabilized only the first clearly recoverable continuation after `六度萬行體中圓`:
+
+  - `夢裏明明有六趣 覺後空空無大千`
+
+  - `無罪福 無損益 寂滅性中莫問覓`
+
+  - `比來塵鏡未曾磨 今日分明須剖析`
+
+- Kept OCR in a support role for that batch because the engine outputs on `page-0009` remained noisy and fragmentary rather than strong enough to stand alone.
+
+- Relied on the direct witness-image agreement of `YJG-W16 page-0009` and `YJG-W17 page-0009`, while deliberately not forcing `YJG-W22` into the early-interior comparison because the local NIJL image surface is still interfered by the inserted manuscript leaf.
+
+- Re-kept the closing-boundary watchpoints live during the interior continuation:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`

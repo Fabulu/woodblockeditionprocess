@@ -202,6 +202,12 @@
             "date": "2026-05-12",
             "type": "ocr_opening_transcription_batch_completed",
             "summary": "Continued exact comparison from the corrected openings by stabilizing the shared opening text through 六度萬行體中圓 from direct image comparison on YJG-W16 page-0007 to page-0008 and YJG-W17 page-0007 to page-0008, while retaining YJG-W22 page-0007 as an opening-control witness and keeping YJG-W17 page-0057 plus YJG-W22 page-0063 active as boundary loci."
+        },
+        {
+            "event_id": "YJG-034",
+            "date": "2026-05-12",
+            "type": "ocr_early_interior_transcription_batch_completed",
+            "summary": "Continued exact comparison beyond 六度萬行體中圓 by stabilizing the first clearly recoverable shared page-0009 continuation through 比來塵鏡未曾磨 今日分明須剖析 from direct image comparison on YJG-W16 and YJG-W17, while keeping YJG-W22 out of forced early-interior use and retaining YJG-W17 page-0057 plus YJG-W22 page-0063 as active boundary loci."
         }
     ]
 }

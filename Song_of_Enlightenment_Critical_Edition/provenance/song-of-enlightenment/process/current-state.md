@@ -6,15 +6,15 @@
 
 - Date: `2026-05-12`
 
-- Phase: `ocr-startup-opening-transcription-batch-1-complete`
+- Phase: `ocr-startup-early-interior-transcription-batch-2-complete`
 
-- Current slice: `ocr_startup_slice_continue_exact_comparison_after_opening_batch_1`
+- Current slice: `ocr_startup_slice_continue_exact_comparison_after_early_interior_batch_2`
 
-- Last completed slice: `ocr_startup_slice_continue_exact_comparison_from_corrected_openings`
+- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_opening_batch_1`
 
-- Next required action: continue exact-witness comparison/transcription after the stabilized shared opening batch through `六度萬行體中圓`; carry the next early interior tranche forward without reopening witness hunt; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
+- Next required action: continue exact-witness comparison/transcription after the now-stabilized early interior continuation through `比來塵鏡未曾磨 今日分明須剖析`; carry the adjacent shared interior tranche forward without reopening witness hunt; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
 
-- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_opening_batch_1`
+- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_early_interior_batch_2`
 
 - Copy-text status: not yet selected
 
@@ -273,6 +273,22 @@
 
 - `YJG-W22 page-0007` remains a real corrected-opening control witness, but the locally held immediate early-interior image surface is visually interfered by an inserted manuscript leaf and was not forced into false certainty for this batch.
 
+- The next bounded early-interior continuation now reaches through:
+
+  - `夢裏明明有六趣`
+
+  - `覺後空空無大千`
+
+  - `無罪福`
+
+  - `無損益`
+
+  - `寂滅性中莫問覓`
+
+  - `比來塵鏡未曾磨`
+
+  - `今日分明須剖析`
+
 - The package had to recover from interactive launcher time limits honestly:
 
   - a direct shell-bound tranche run would advance real OCR work but could time out before the full slice finished
@@ -405,7 +421,7 @@
 
 
 
-1. Continue exact-witness comparison/transcription from the now-stabilized shared opening batch into the next adjacent early interior tranche in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
+1. Continue exact-witness comparison/transcription from the now-stabilized early interior continuation into the next adjacent shared tranche in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
 
 2. Tighten only the mixed or boundary loci that remain explicitly provisional: `YJG-W16` `page-0007`, `YJG-W17` `page-0007` and `page-0057`, and `YJG-W22` `page-0007` and `page-0063`.
 

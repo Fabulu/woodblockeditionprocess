@@ -274,3 +274,9 @@
 
 - Reason: the corrected true openings now support real line-content comparison. `YJG-W16` and `YJG-W17` provide the cleanest immediately legible early interior surfaces, while the locally held `YJG-W22` early-interior image surface is visually interfered by an inserted manuscript leaf and is therefore better used in this batch as an opening-control witness rather than a forced primary interior transcription surface.
 
+
+## D-029 `2026-05-12`
+
+- Decision: continue the next bounded early-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0009` surface, but only for the first clearly recoverable continuation after `六度萬行體中圓`.
+
+- Reason: the package can extend the stabilized poem text honestly on the clean Toyo and Berkeley interior page without pretending that the whole adjacent tranche is already solved. `YJG-W22` still does not supply a comparably clean local early-interior control, so the honest move is a conservative shared-page continuation rather than a larger forced synthesis.
