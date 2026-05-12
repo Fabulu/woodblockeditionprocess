@@ -72,9 +72,9 @@
 
 - [x] first poem-locus segmentation and base-anchor opening completed
 
-- [ ] OCR-first transcription started
+- [x] OCR-first transcription started
 
-- [ ] comparison and correction started
+- [x] comparison and correction started
 
 - [ ] translation sync started
 

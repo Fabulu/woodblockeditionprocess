@@ -71,3 +71,12 @@
 - The slice also did the bounded closing work it was supposed to do. YJG-W17 page-0057 still stands as the terminal poem-bearing leaf in the held capture, and YJG-W22 page-0063 still stands as the final mixed poem boundary before the explicit afterword on page-0064.
 
 - That means the package now honestly reflects a real first comparison/transcription batch rather than only a startup opening: the base register, line map, anchor-planning document, machine-readable state, and evidence logs all agree on the corrected opening and closing loci.
+
+## 2026-05-12
+
+- The next honest move after correcting the spans was not another span note. It was to begin transcribing the opening text itself from the corrected true openings.
+
+- That opening work has now actually started. The package has stabilized the shared opening passage through `六度萬行體中圓` from direct image comparison on `YJG-W16` and `YJG-W17`, while keeping `YJG-W22` in play at the corrected opening page instead of forcing confidence from a visually interfered early-interior leaf.
+
+- The closing watchpoints were not dropped while doing that work. `YJG-W17 page-0057` and `YJG-W22 page-0063` were re-checked directly and remain live boundary loci for the next tranche rather than silently assumed solved.
+

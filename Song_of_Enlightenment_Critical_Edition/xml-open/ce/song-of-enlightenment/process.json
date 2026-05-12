@@ -1,77 +1,77 @@
 {
-    "project":  {
-                    "slug":  "song-of-enlightenment",
-                    "title_zh":  "Ã¦Â°Â¸Ã¥Ëœâ€°Ã¨Â­â€°Ã©Ââ€œÃ¦Â­Å’",
-                    "title_en":  "Song of Enlightenment",
-                    "edition_type":  "critical_edition",
-                    "scope_mode":  "poem_first"
-                },
-    "current_phase":  "ocr-startup-first-exact-comparison-slice-1-complete",
-    "current_slice":  "ocr_startup_slice_continue_exact_comparison_from_corrected_openings",
-    "last_completed_slice":  "ocr_startup_slice_first_exact_comparison_mixed_openings_and_w22_p0063",
-    "next_required_action":  "Continue exact-witness comparison/transcription from the corrected true opening pages page-0007 in YJG-W16, YJG-W17, and YJG-W22; keep YJG-W17 page-0057 and YJG-W22 page-0063 as active boundary loci; proceed into adjacent early interior poem pages without reopening witness hunt or commentary drift.",
-    "next_required_slice":  "ocr_startup_slice_continue_exact_comparison_from_corrected_openings",
-    "last_text_changed_event":  null,
-    "base_witness":  {
-                         "status":  "unlocked",
-                         "note":  "No copy-text selected yet; inherited anthology witness recorded as startup basis only."
-                     },
-    "witness_families":  [
-                             {
-                                 "family_id":  "exact-poem",
-                                 "status":  "ranked-and-ready-for-acquisition"
-                             },
-                             {
-                                 "family_id":  "commentary-reception",
-                                 "status":  "secondary-open"
-                             }
-                         ],
-    "translation_sync":  {
-                             "status":  "not_started"
-                         },
-    "evented_anchor_protocol":  {
-                                    "status":  "required_from_first_ocr_and_first_text_change"
-                                },
-    "witness_coordinate_spec":  {
-                                    "status":  "required_before_first_comparison_handoff"
-                                },
-    "anchor_planning":  {
-                            "status":  "page-span-plan-and-first-base-anchor-opening-complete",
-                            "planning_document":  "../../../provenance/song-of-enlightenment/process/anchor-planning.md",
-                            "active_exact_image_witnesses":  [
-                                                                 {
-                                                                     "witness_id":  "YJG-W16",
-                                                                     "poem_span_start":  "page-0007",
-                                                                     "poem_span_end":  "page-0054",
-                                                                     "early_character_capture_watchlist":  [
-                                                                                                               "page-0007"
-                                                                                                           ]
-                                                                 },
-                                                                 {
-                                                                     "witness_id":  "YJG-W17",
-                                                                     "poem_span_start":  "page-0007",
-                                                                     "poem_span_end":  "page-0057",
-                                                                     "early_character_capture_watchlist":  [
-                                                                                                               "page-0007",
-                                                                                                               "page-0057"
-                                                                                                           ]
-                                                                 },
-                                                                 {
-                                                                     "witness_id":  "YJG-W22",
-                                                                     "poem_span_start":  "page-0007",
-                                                                     "poem_span_end":  "page-0063",
-                                                                     "early_character_capture_watchlist":  [
-                                                                                                               "page-0007",
-                                                                                                               "page-0063"
-                                                                                                           ]
-                                                                 }
-                                                             ],
-                            "line_map_document":  "../../../provenance/song-of-enlightenment/process/poem-line-map.md",
-                            "anchor_base_register":  "../../../provenance/song-of-enlightenment/process/anchor-base-register.jsonl",
-                            "opened_row_totals":  {
-                                                      "page_tier":  156,
-                                                      "line_tier":  721,
-                                                      "total":  877
-                                                  }
-                        }
+    "project": {
+        "slug": "song-of-enlightenment",
+        "title_zh": "ÃƒÂ¦Ã‚Â°Ã‚Â¸ÃƒÂ¥Ã‹Å“Ã¢â‚¬Â°ÃƒÂ¨Ã‚Â­Ã¢â‚¬Â°ÃƒÂ©Ã‚ÂÃ¢â‚¬Å“ÃƒÂ¦Ã‚Â­Ã…â€™",
+        "title_en": "Song of Enlightenment",
+        "edition_type": "critical_edition",
+        "scope_mode": "poem_first"
+    },
+    "current_phase": "ocr-startup-opening-transcription-batch-1-complete",
+    "current_slice": "ocr_startup_slice_continue_exact_comparison_after_opening_batch_1",
+    "last_completed_slice": "ocr_startup_slice_continue_exact_comparison_from_corrected_openings",
+    "next_required_action": "Continue exact-witness comparison/transcription after the stabilized shared opening batch through 六度萬行體中圓; carry the next early interior tranche forward without reopening witness hunt; keep YJG-W17 page-0057 and YJG-W22 page-0063 active as boundary loci.",
+    "next_required_slice": "ocr_startup_slice_continue_exact_comparison_after_opening_batch_1",
+    "last_text_changed_event": "YJG-033",
+    "base_witness": {
+        "status": "unlocked",
+        "note": "No copy-text selected yet; inherited anthology witness recorded as startup basis only."
+    },
+    "witness_families": [
+        {
+            "family_id": "exact-poem",
+            "status": "ranked-and-ready-for-acquisition"
+        },
+        {
+            "family_id": "commentary-reception",
+            "status": "secondary-open"
+        }
+    ],
+    "translation_sync": {
+        "status": "not_started"
+    },
+    "evented_anchor_protocol": {
+        "status": "required_from_first_ocr_and_first_text_change"
+    },
+    "witness_coordinate_spec": {
+        "status": "required_before_first_comparison_handoff"
+    },
+    "anchor_planning": {
+        "status": "page-span-plan-and-first-base-anchor-opening-complete",
+        "planning_document": "../../../provenance/song-of-enlightenment/process/anchor-planning.md",
+        "active_exact_image_witnesses": [
+            {
+                "witness_id": "YJG-W16",
+                "poem_span_start": "page-0007",
+                "poem_span_end": "page-0054",
+                "early_character_capture_watchlist": [
+                    "page-0007"
+                ]
+            },
+            {
+                "witness_id": "YJG-W17",
+                "poem_span_start": "page-0007",
+                "poem_span_end": "page-0057",
+                "early_character_capture_watchlist": [
+                    "page-0007",
+                    "page-0057"
+                ]
+            },
+            {
+                "witness_id": "YJG-W22",
+                "poem_span_start": "page-0007",
+                "poem_span_end": "page-0063",
+                "early_character_capture_watchlist": [
+                    "page-0007",
+                    "page-0063"
+                ]
+            }
+        ],
+        "line_map_document": "../../../provenance/song-of-enlightenment/process/poem-line-map.md",
+        "anchor_base_register": "../../../provenance/song-of-enlightenment/process/anchor-base-register.jsonl",
+        "opened_row_totals": {
+            "page_tier": 156,
+            "line_tier": 721,
+            "total": 877
+        }
+    }
 }

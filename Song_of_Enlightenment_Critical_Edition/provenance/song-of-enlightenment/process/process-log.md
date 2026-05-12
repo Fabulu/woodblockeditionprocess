@@ -629,3 +629,40 @@
   - 721 line-tier .l## rows
 
   - 877 total anchor rows
+
+## 2026-05-12
+
+- Resumed the package from the corrected true opening state rather than reopening witness hunt or OCR startup.
+
+- Re-read all required process, synchronization, anchor, and machine-readable gate files before continuing exact comparison.
+
+- Re-checked the corrected opening pages directly in:
+
+  - `YJG-W16` `page-0007`
+
+  - `YJG-W17` `page-0007`
+
+  - `YJG-W22` `page-0007`
+
+- Re-checked the active closing-boundary loci directly in:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`
+
+- Continued the first exact-witness transcription tranche from the corrected openings instead of stopping at span repair.
+
+- Opened a bounded shared opening-text batch from the direct page images:
+
+  - `君不見 絕學無爲閑道人 不除妄想不求真 無明實性即佛性 幻化空身即法身`
+
+  - `法身覺了無一物 本源自性天真佛 五蘊浮雲空去來 三毒水泡虛出沒`
+
+  - `證實相 無人法 刹那滅却阿鼻業 若將妄語誑眾生 自招拔舌塵沙劫 頓覺了 如來禪 六度萬行體中圓`
+
+- Used OCR only as support evidence for that batch and did not let noisy engine output override the witness images.
+
+- Relied primarily on `YJG-W16 page-0007` to `page-0008` and `YJG-W17 page-0007` to `page-0008` for the early interior stabilization, while keeping `YJG-W22 page-0007` as an opening-control witness because the locally held immediate early-interior `YJG-W22` surface is visually interfered by an inserted manuscript leaf.
+
+- Kept `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary loci after direct re-check rather than falsely marking the closing tranche resolved.
+

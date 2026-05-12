@@ -267,3 +267,10 @@
 - Decision: override the startup opening-span assumption for YJG-W16, YJG-W17, and YJG-W22 and reset the true mixed opening page in all three witnesses from page-0004 to page-0007, while keeping YJG-W17 page-0057 and YJG-W22 page-0063 as the live closing-boundary loci.
 
 - Reason: the first exact-witness comparison pass against the actual page images showed that page-0004 to page-0006 in all three active witnesses are title or prefatory prose surfaces rather than poem body. Leaving those rows open as poem loci would overstate the evidence and contaminate the first transcription tranche.
+
+## D-028 `2026-05-12`
+
+- Decision: open the first corrected-opening transcription batch from the shared opening passage visible on `YJG-W16` and `YJG-W17`, while retaining `YJG-W22 page-0007` as a corrected-opening control and keeping `YJG-W17 page-0057` plus `YJG-W22 page-0063` active as unresolved boundary watchpoints.
+
+- Reason: the corrected true openings now support real line-content comparison. `YJG-W16` and `YJG-W17` provide the cleanest immediately legible early interior surfaces, while the locally held `YJG-W22` early-interior image surface is visually interfered by an inserted manuscript leaf and is therefore better used in this batch as an opening-control witness rather than a forced primary interior transcription surface.
+

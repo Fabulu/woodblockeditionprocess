@@ -1,2 +1,5 @@
 | Date | Locus | Change type | Before | After | Basis | Status |
 |---|---|---|---|---|---|---|
+| `2026-05-12` | `opening-shared-a` | `opening-transcription-start` | `not yet transcribed` | `君不見 絕學無爲閑道人 不除妄想不求真 無明實性即佛性 幻化空身即法身` | direct image comparison across `YJG-W16 page-0007` and `YJG-W17 page-0007`, with `YJG-W22 page-0007` kept as a corrected-opening support witness | `accepted` |
+| `2026-05-12` | `opening-shared-b` | `opening-transcription-start` | `not yet transcribed` | `法身覺了無一物 本源自性天真佛 五蘊浮雲空去來 三毒水泡虛出沒` | direct image comparison across the corrected true opening pages, with OCR used only as support evidence | `accepted` |
+| `2026-05-12` | `opening-shared-c` | `opening-transcription-start` | `not yet transcribed` | `證實相 無人法 刹那滅却阿鼻業 若將妄語誑眾生 自招拔舌塵沙劫 頓覺了 如來禪 六度萬行體中圓` | direct image comparison across `YJG-W16 page-0008` and `YJG-W17 page-0008`; `YJG-W22` remains active at the corrected opening while its immediate early interior is visually interfered by an inserted manuscript leaf | `accepted` |
