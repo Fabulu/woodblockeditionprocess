@@ -84,3 +84,8 @@
 - The package has now carried the next early-interior tranche forward conservatively rather than trying to clear the whole adjacent page at once. The clean shared `YJG-W16` / `YJG-W17` `page-0009` surface supports the continuation through `比來塵鏡未曾磨 今日分明須剖析`.
 
 - `YJG-W22` remains useful at the corrected opening and closing boundary, but it still does not provide a clean local early-interior comparison page because the inserted manuscript leaf continues to interfere with that surface.
+
+
+- The package has now carried the next adjacent shared interior page forward as a separate bounded batch. The clean shared `YJG-W16` / `YJG-W17` `page-0010` surface supports the continuation through `決定說 表真僧 有人不肯任情徵`.
+
+- `YJG-W22` remains useful at the corrected opening and closing boundary, but it still was not forced into the shared `page-0010` transcription because the package only needed the clean Toyo and Berkeley witness agreement for this batch.

@@ -6,15 +6,15 @@
 
 - Date: `2026-05-12`
 
-- Phase: `ocr-startup-early-interior-transcription-batch-2-complete`
+- Phase: `ocr-startup-adjacent-interior-transcription-batch-3-complete`
 
-- Current slice: `ocr_startup_slice_continue_exact_comparison_after_early_interior_batch_2`
+- Current slice: `ocr_startup_slice_continue_exact_comparison_after_adjacent_interior_batch_3`
 
-- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_opening_batch_1`
+- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_early_interior_batch_2`
 
-- Next required action: continue exact-witness comparison/transcription after the now-stabilized early interior continuation through `比來塵鏡未曾磨 今日分明須剖析`; carry the adjacent shared interior tranche forward without reopening witness hunt; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
+- Next required action: continue exact-witness comparison/transcription after the now-stabilized adjacent interior continuation through `決定說 表真僧 有人不肯任情徵`; carry the next shared interior tranche forward without reopening witness hunt; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
 
-- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_early_interior_batch_2`
+- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_adjacent_interior_batch_3`
 
 - Copy-text status: not yet selected
 
@@ -289,6 +289,34 @@
 
   - `今日分明須剖析`
 
+- The next bounded adjacent shared interior continuation now reaches through:
+
+  - `èª°ç¡å¿µ`
+
+  - `èª°ç¡ç`
+
+  - `è¥å¯¦ç¡çç¡ä¸ç`
+
+  - `ååæ©éæ¨äººå`
+
+  - `æ±ä½æ½åæ©ææ`
+
+  - `æ¾åå¤§`
+
+  - `è«ææ`
+
+  - `å¯æ»æ§ä¸­é¨é£²å`
+
+  - `è«¸è¡ç¡å¸¸ä¸åç©º`
+
+  - `å³æ¯å¦ä¾å¤§åè¦º`
+
+  - `æ±ºå®èªª`
+
+  - `è¡¨çå§`
+
+  - `æäººä¸è¯ä»»æå¾µ`
+
 - The package had to recover from interactive launcher time limits honestly:
 
   - a direct shell-bound tranche run would advance real OCR work but could time out before the full slice finished
@@ -421,7 +449,7 @@
 
 
 
-1. Continue exact-witness comparison/transcription from the now-stabilized early interior continuation into the next adjacent shared tranche in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
+1. Continue exact-witness comparison/transcription from the now-stabilized adjacent interior continuation into the next shared tranche in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
 
 2. Tighten only the mixed or boundary loci that remain explicitly provisional: `YJG-W16` `page-0007`, `YJG-W17` `page-0007` and `page-0057`, and `YJG-W22` `page-0007` and `page-0063`.
 

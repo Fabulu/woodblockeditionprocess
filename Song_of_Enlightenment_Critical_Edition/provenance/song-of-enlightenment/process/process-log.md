@@ -686,3 +686,27 @@
   - `YJG-W17` `page-0057`
 
   - `YJG-W22` `page-0063`
+
+- Continued into the next bounded adjacent shared interior tranche from the clean `page-0010` surface in `YJG-W16` and `YJG-W17`.
+
+- Stabilized the next shared continuation after `比來塵鏡未曾磨 今日分明須剖析`:
+
+  - `誰無念 誰無生 若實無生無不生`
+
+  - `喚取機關木人問 求佛施功早晚成`
+
+  - `放四大 莫把捉 寂滅性中隨飲啄`
+
+  - `諸行無常一切空 即是如來大圓覺`
+
+  - `決定說 表真僧 有人不肯任情徵`
+
+- Kept OCR in a support role for that batch because the engine outputs on `page-0010` remained noisy and unstable rather than strong enough to stand alone.
+
+- Relied on the direct witness-image agreement of `YJG-W16 page-0010` and `YJG-W17 page-0010`, while deliberately not forcing `YJG-W22` into the adjacent-interior comparison because the package did not need to overclaim beyond the clean shared Toyo and Berkeley page.
+
+- Re-kept the closing-boundary watchpoints live during the adjacent interior continuation:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`

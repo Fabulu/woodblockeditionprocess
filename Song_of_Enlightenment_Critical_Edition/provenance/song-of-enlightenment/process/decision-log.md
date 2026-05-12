@@ -280,3 +280,10 @@
 - Decision: continue the next bounded early-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0009` surface, but only for the first clearly recoverable continuation after `六度萬行體中圓`.
 
 - Reason: the package can extend the stabilized poem text honestly on the clean Toyo and Berkeley interior page without pretending that the whole adjacent tranche is already solved. `YJG-W22` still does not supply a comparably clean local early-interior control, so the honest move is a conservative shared-page continuation rather than a larger forced synthesis.
+
+
+## D-030 `2026-05-12`
+
+- Decision: continue the next bounded adjacent-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0010` surface through `誰無念 誰無生 若實無生無不生`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
+
+- Reason: the clean Toyo and Berkeley `page-0010` images support one more honest shared-page continuation after `比來塵鏡未曾磨 今日分明須剖析` without reopening witness hunt or forcing the locally interfered `YJG-W22` adjacent-interior surface into false certainty.
