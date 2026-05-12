@@ -289,6 +289,12 @@
 - Reason: the clean Toyo and Berkeley `page-0010` images support one more honest shared-page continuation after `比來塵鏡未曾磨 今日分明須剖析` without reopening witness hunt or forcing the locally interfered `YJG-W22` adjacent-interior surface into false certainty.
 ## D-031 `2026-05-12`
 
-- Decision: continue the next bounded shared-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0011` surface through `??????? ???????`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
+- Decision: continue the next bounded shared-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0011` surface through `常獨行 常獨步 達者同遊涅槃路`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
 
-- Reason: the clean Toyo and Berkeley `page-0011` images support one more honest shared-page continuation after `??? ??? ???????` without reopening witness hunt or forcing the locally interfered `YJG-W22` shared-interior surface into false certainty.
+- Reason: the clean Toyo and Berkeley `page-0011` images support one more honest shared-page continuation after `有人不肯任情徵` without reopening witness hunt or forcing the locally interfered `YJG-W22` shared-interior surface into false certainty.
+
+## D-032 `2026-05-12`
+
+- Decision: continue the next bounded shared-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0012` surface through `三身四智體中圓 八解六通心地印`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
+
+- Reason: the clean Toyo and Berkeley `page-0012` images support another honest shared-page continuation after `常獨行 常獨步 達者同遊涅槃路` without reopening witness hunt or forcing the locally interfered `YJG-W22` shared-interior surface into false certainty.

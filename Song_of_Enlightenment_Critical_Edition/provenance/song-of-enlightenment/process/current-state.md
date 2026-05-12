@@ -6,15 +6,15 @@
 
 - Date: `2026-05-12`
 
-- Phase: `ocr-startup-shared-interior-transcription-batch-4-complete`
+- Phase: `ocr-startup-shared-interior-transcription-batch-5-complete`
 
-- Current slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_4`
+- Current slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_5`
 
-- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_adjacent_interior_batch_3`
+- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_4`
 
-- Next required action: continue exact-witness comparison/transcription after the now-stabilized shared interior continuation through `??????? ???????`; carry the next shared interior tranche forward without reopening witness hunt; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
+- Next required action: continue exact-witness comparison/transcription after the now-stabilized shared interior continuation through `三身四智體中圓 八解六通心地印`; carry the next shared interior tranche forward without reopening witness hunt; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
 
-- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_4`
+- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_5`
 
 - Copy-text status: not yet selected
 
@@ -320,29 +320,53 @@
 
 - The next bounded shared interior continuation now reaches through:
 
-  - `???????`
+  - `我心自空罪福無主`
 
-  - `???????`
+  - `觀善惡如空華`
 
-  - `???`
+  - `智者無畏疑者懼`
 
-  - `???`
+  - `猶如虛空豈有涯`
 
-  - `???????`
+  - `還如木人看花鳥`
 
-  - `???????`
+  - `何妨萬物假圍繞`
 
-  - `???????`
+  - `釋迦種裏收不得`
 
-  - `???`
+  - `卻羨神仙不肯要`
 
-  - `???`
+  - `常獨行`
 
-  - `???????`
+  - `常獨步`
 
-  - `???????`
+  - `達者同遊涅槃路`
 
-  - `???????`
+- The next bounded shared interior continuation after that now reaches through:
+
+  - `調古神清風自高`
+
+  - `貌悴骨剛人不顧`
+
+  - `窮釋子`
+
+  - `口稱貧`
+
+  - `實是身貧道不貧`
+
+  - `貧則身常披縷褐`
+
+  - `道則心藏無價珍`
+
+  - `無價珍`
+
+  - `用無盡`
+
+  - `利物應機終不吝`
+
+  - `三身四智體中圓`
+
+  - `八解六通心地印`
 
 - The package had to recover from interactive launcher time limits honestly:
 
@@ -476,7 +500,7 @@
 
 
 
-1. Continue exact-witness comparison/transcription from the now-stabilized shared interior continuation into the next shared tranche in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
+1. Continue exact-witness comparison/transcription from the now-stabilized shared interior continuation after `三身四智體中圓 八解六通心地印` into the next shared tranche in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
 
 2. Tighten only the mixed or boundary loci that remain explicitly provisional: `YJG-W16` `page-0007`, `YJG-W17` `page-0007` and `page-0057`, and `YJG-W22` `page-0007` and `page-0063`.
 

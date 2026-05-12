@@ -712,21 +712,45 @@
   - `YJG-W22` `page-0063`
 - Continued into the next bounded shared interior tranche from the clean `page-0011` surface in `YJG-W16` and `YJG-W17`.
 
-- Stabilized the next shared continuation after `??? ??? ???????`:
+- Stabilized the next shared continuation after `有人不肯任情徵`:
 
-  - `??????? ???????`
+  - `我心自空罪福無主 觀善惡如空華`
 
-  - `??? ??? ???????`
+  - `智者無畏疑者懼 猶如虛空豈有涯`
 
-  - `??????? ???????`
+  - `還如木人看花鳥 何妨萬物假圍繞`
 
-  - `??? ??? ???????`
+  - `釋迦種裏收不得 卻羨神仙不肯要`
 
-  - `??????? ???????`
+  - `常獨行 常獨步 達者同遊涅槃路`
 
 - Kept OCR in a support role for that batch because the engine outputs on `page-0011` remained noisy and unstable rather than strong enough to stand alone.
 
 - Relied on the direct witness-image agreement of `YJG-W16 page-0011` and `YJG-W17 page-0011`, while deliberately not forcing `YJG-W22` into the shared-interior comparison because the package did not need to overclaim beyond the clean shared Toyo and Berkeley page.
+
+- Re-kept the closing-boundary watchpoints live during the shared interior continuation:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`
+
+- Continued into the next bounded shared interior tranche from the clean `page-0012` surface in `YJG-W16` and `YJG-W17`.
+
+- Stabilized the next shared continuation after `常獨行 常獨步 達者同遊涅槃路`:
+
+  - `調古神清風自高 貌悴骨剛人不顧`
+
+  - `窮釋子 口稱貧 實是身貧道不貧`
+
+  - `貧則身常披縷褐 道則心藏無價珍`
+
+  - `無價珍 用無盡 利物應機終不吝`
+
+  - `三身四智體中圓 八解六通心地印`
+
+- Kept OCR in a support role for that batch because the engine outputs on `page-0012` remained noisy and unstable rather than strong enough to stand alone.
+
+- Relied on the direct witness-image agreement of `YJG-W16 page-0012` and `YJG-W17 page-0012`, while deliberately not forcing `YJG-W22` into the shared-interior comparison because the package did not need to overclaim beyond the clean shared Toyo and Berkeley page.
 
 - Re-kept the closing-boundary watchpoints live during the shared interior continuation:
 

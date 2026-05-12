@@ -6,12 +6,12 @@
         "edition_type": "critical_edition",
         "scope_mode": "poem_first"
     },
-    "current_phase": "ocr-startup-shared-interior-transcription-batch-4-complete",
-    "current_slice": "ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_4",
-    "last_completed_slice": "ocr_startup_slice_continue_exact_comparison_after_adjacent_interior_batch_3",
-    "next_required_action": "Continue exact-witness comparison/transcription after the now-stabilized shared interior continuation through ??????? ???????; carry the next shared interior tranche forward without reopening witness hunt; keep YJG-W17 page-0057 and YJG-W22 page-0063 active as boundary loci.",
-    "next_required_slice": "ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_4",
-    "last_text_changed_event": "YJG-036",
+    "current_phase": "ocr-startup-shared-interior-transcription-batch-5-complete",
+    "current_slice": "ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_5",
+    "last_completed_slice": "ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_4",
+    "next_required_action": "Continue exact-witness comparison/transcription after the now-stabilized shared interior continuation through 三身四智體中圓 八解六通心地印; carry the next shared interior tranche forward without reopening witness hunt; keep YJG-W17 page-0057 and YJG-W22 page-0063 active as boundary loci.",
+    "next_required_slice": "ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_5",
+    "last_text_changed_event": "YJG-037",
     "base_witness": {
         "status": "unlocked",
         "note": "No copy-text selected yet; inherited anthology witness recorded as startup basis only."
