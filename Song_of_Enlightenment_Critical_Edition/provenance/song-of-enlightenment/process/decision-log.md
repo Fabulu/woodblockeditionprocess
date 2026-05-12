@@ -287,3 +287,8 @@
 - Decision: continue the next bounded adjacent-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0010` surface through `誰無念 誰無生 若實無生無不生`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
 
 - Reason: the clean Toyo and Berkeley `page-0010` images support one more honest shared-page continuation after `比來塵鏡未曾磨 今日分明須剖析` without reopening witness hunt or forcing the locally interfered `YJG-W22` adjacent-interior surface into false certainty.
+## D-031 `2026-05-12`
+
+- Decision: continue the next bounded shared-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0011` surface through `??????? ???????`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
+
+- Reason: the clean Toyo and Berkeley `page-0011` images support one more honest shared-page continuation after `??? ??? ???????` without reopening witness hunt or forcing the locally interfered `YJG-W22` shared-interior surface into false certainty.

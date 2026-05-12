@@ -214,6 +214,12 @@
             "date": "2026-05-12",
             "type": "ocr_adjacent_interior_transcription_batch_completed",
             "summary": "Continued exact comparison beyond 比來塵鏡未曾磨 今日分明須剖析 by stabilizing the shared page-0010 continuation through 決定說 表真僧 有人不肯任情徵 from direct image comparison on YJG-W16 and YJG-W17, while keeping YJG-W22 out of forced adjacent-interior use and retaining YJG-W17 page-0057 plus YJG-W22 page-0063 as active boundary loci."
+        },
+        {
+            "event_id": "YJG-036",
+            "date": "2026-05-12",
+            "type": "ocr_shared_interior_transcription_batch_completed",
+            "summary": "Continued exact comparison beyond ??? ??? ??????? by stabilizing the shared page-0011 continuation through ??????? ??????? from direct image comparison on YJG-W16 and YJG-W17, while keeping YJG-W22 out of forced shared-interior use and retaining YJG-W17 page-0057 plus YJG-W22 page-0063 as active boundary loci."
         }
     ]
 }

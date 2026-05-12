@@ -710,3 +710,26 @@
   - `YJG-W17` `page-0057`
 
   - `YJG-W22` `page-0063`
+- Continued into the next bounded shared interior tranche from the clean `page-0011` surface in `YJG-W16` and `YJG-W17`.
+
+- Stabilized the next shared continuation after `??? ??? ???????`:
+
+  - `??????? ???????`
+
+  - `??? ??? ???????`
+
+  - `??????? ???????`
+
+  - `??? ??? ???????`
+
+  - `??????? ???????`
+
+- Kept OCR in a support role for that batch because the engine outputs on `page-0011` remained noisy and unstable rather than strong enough to stand alone.
+
+- Relied on the direct witness-image agreement of `YJG-W16 page-0011` and `YJG-W17 page-0011`, while deliberately not forcing `YJG-W22` into the shared-interior comparison because the package did not need to overclaim beyond the clean shared Toyo and Berkeley page.
+
+- Re-kept the closing-boundary watchpoints live during the shared interior continuation:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`
