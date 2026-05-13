@@ -118,3 +118,13 @@
 - The NIJL closing page also tightened honestly rather than being forced shut. `YJG-W22 page-0063` remains the final poem page before the explicit afterword on `page-0064`, but only at page tier; its internal closing geometry still needs later non-boundary editorial work if line or character disputes matter.
 
 - The practical consequence is that the package should now stop pretending boundary-focused closing is still open. The next honest bounded phase is copy-text selection, while the PDF-backed first-tier witnesses remain queued for a separate render-preparation slice and `YJG-W12` stays blocked honestly.
+
+## 2026-05-14
+
+- The next honest move after the boundary closeout was not more closing. It was finally to lock the copy-text.
+
+- The package has now done that. `YJG-W22` is selected as copy-text because it is the earliest complete independent exact witness already in active local image comparison with a verified poem span, not because every one of its surfaces is cleaner than every later witness.
+
+- The package is staying honest about what that does and does not mean. The early shared-interior surface in `YJG-W22` was still not forced where `YJG-W16` and `YJG-W17` were cleaner, and the closing page `page-0063` is still only fixed at page tier.
+
+- So the next real queue item is straightforward: prepare the already held PDF-backed first-tier exact witnesses for direct use, while keeping `YJG-W12` blocked and leaving the derivative anthology controls out of that first-tier render tranche.

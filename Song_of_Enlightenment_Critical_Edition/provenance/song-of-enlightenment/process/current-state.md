@@ -4,21 +4,21 @@
 
 - Work: `永嘉證道歌` / `song-of-enlightenment`
 
-- Date: `2026-05-13`
+- Date: `2026-05-14`
 
-- Phase: `ocr-startup-boundary-focused-closing-phase-exhausted-at-active-exact-witness-set`
+- Phase: `copy-text-selection-completed-render-preparation-queued`
 
-- Current slice: `ocr_startup_slice_boundary_focused_closing_work_completed_for_active_exact_witness_set`
+- Current slice: `copy_text_selection_completed_at_active_image_backed_exact_core`
 
-- Last completed slice: `ocr_startup_slice_boundary_focused_closing_work_after_shared_interior_exhaustion`
+- Last completed slice: `copy_text_selection_after_active_boundary_closure`
 
-- Next required action: preserve the completed boundary result honestly: `YJG-W17 page-0057` is now closed out of the poem span as a dated terminal note and `YJG-W22 page-0063` is fixed as the final poem page at page tier; the next bounded work is therefore non-boundary copy-text selection, while keeping the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice, `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1, and `YJG-W12` blocked honestly
+- Next required action: preserve the copy-text result honestly: `YJG-W22` is now selected as the package copy-text because it is the earliest complete independent image-backed exact witness already active in direct comparison; the next bounded work is therefore render-preparation on the held PDF-backed first-tier exact witnesses `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, `YJG-W9`, and `YJG-W21`, while keeping `YJG-A10` and `YJG-A11` as second-tier controls outside that tranche and `YJG-W12` blocked honestly
 
-- Boundary-closing result: direct recheck now shows `YJG-W17 page-0057` is a dated terminal note rather than a surviving poem leaf, so the Berkeley poem span closes honestly at `page-0056`; `YJG-W22 page-0063` remains the final poem page at page tier before the explicit afterword on `page-0064`, but its internal line segmentation stays provisional; the next honest work is therefore a non-boundary phase, starting with copy-text selection while keeping the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice and `YJG-W12` blocked honestly
+- Copy-text result: `YJG-W22` is now selected as the package copy-text at witness level. This does not erase the fact that its early shared-interior surface was locally interfered and that `page-0063` remains only page-tier-stable at the close; it means instead that the package now prefers the earliest complete independent active exact witness as its base, while continuing to rely on cleaner `YJG-W16` / `YJG-W17` page surfaces where they remain the strongest local comparison aids and leaving the PDF-backed first-tier exact witnesses queued for render preparation rather than pretending they are already comparison-ready
 
-- Next required slice: `copy_text_selection_after_active_boundary_closure`
+- Next required slice: `pdf_first_tier_render_preparation_after_copy_text_selection`
 
-- Copy-text status: not yet selected
+- Copy-text status: selected as `YJG-W22`
 
 - Translation status: not yet started
 
@@ -149,6 +149,14 @@
   - `YJG-W17`
 
   - `YJG-W22`
+
+- Copy-text has now been selected from that active exact image subset:
+
+  - `YJG-W22` is the chosen copy-text because it is the earliest complete independent exact witness already held as a full local image tranche and already page-span-checked inside the active direct-comparison workflow
+
+  - `YJG-W16` and `YJG-W17` remain essential clean comparison witnesses rather than failed copy-text candidates
+
+  - the package is not pretending that the unrendered PDF-backed first-tier exact witnesses have already been brought into the same comparison readiness class
 
 - Live baseline output has already begun on `YJG-W22` across all four engines.
 
@@ -697,15 +705,15 @@
 
 
 
-1. Preserve the boundary-closing result as fixed for the active exact witness set: `YJG-W17` closes at `page-0056`, and `YJG-W22` closes at `page-0063` at page tier.
+1. Preserve the copy-text lock honestly: `YJG-W22` is the selected copy-text, while `YJG-W16` and `YJG-W17` remain active clean comparison witnesses and `YJG-W22 page-0063` remains only page-tier-stable at the close.
 
-2. Move the next bounded slice to copy-text selection rather than reopening boundary-focused closing or shared-interior continuation.
+2. Open the next bounded slice as render-preparation on the held PDF-backed first-tier exact witnesses rather than reopening boundary-focused closing or the already exhausted shared-interior tranche.
 
-3. Keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice without folding that work into copy-text selection prematurely.
+3. Keep that render-preparation tranche limited to already held first-tier exact witnesses `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, `YJG-W9`, and `YJG-W21`.
 
 4. Keep `YJG-W12` blocked honestly and do not reopen witness hunt merely to avoid the phase change.
 
-5. Preserve the ranked witness-family posture and the exact/control distinction for later editorial adjudication.
+5. Preserve the ranked witness-family posture and the exact/control distinction for later editorial adjudication, including `YJG-A10` and `YJG-A11` as second-tier controls outside the first-tier render tranche.
 
 
 

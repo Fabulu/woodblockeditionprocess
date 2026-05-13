@@ -734,6 +734,16 @@
 
   - `YJG-W22` `page-0063`
 
+## 2026-05-14
+
+- The package has now completed the next non-boundary slice instead of lingering on the already exhausted closing tranche. Copy-text is selected.
+
+- `YJG-W22` is now the package copy-text because it is the earliest complete independent exact witness already held as a full local image tranche and already verified through direct page-span checking inside the active comparison workflow.
+
+- That selection is honest about local limits rather than pretending them away. `YJG-W22` still had an interfered early shared-interior surface and still closes only at page tier on `page-0063`; those constraints remain recorded, while `YJG-W16` and `YJG-W17` continue to stand as the cleanest local comparison witnesses for the already stabilized shared-body tranche.
+
+- The consequence is a phase change, not a false completion claim: the next bounded local work is render-preparation on the already held PDF-backed first-tier exact witnesses `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, `YJG-W9`, and `YJG-W21`, with `YJG-A10` and `YJG-A11` kept outside that tranche and `YJG-W12` still blocked honestly.
+
 - Re-opened only the active closing-boundary loci after the shared interior body was explicitly closed:
 
   - `YJG-W17` `page-0057`

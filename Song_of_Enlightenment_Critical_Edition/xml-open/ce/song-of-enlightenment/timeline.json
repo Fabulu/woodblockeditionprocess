@@ -268,6 +268,12 @@
             "date": "2026-05-13",
             "type": "ocr_boundary_focused_closing_tranche_completed",
             "summary": "Completed the active boundary-focused closing tranche by resolving YJG-W17 page-0057 out of the poem span as a dated terminal note, fixing YJG-W22 page-0063 as the final poem page only at page tier before the explicit page-0064 afterword, updating the anchor base and event logs accordingly, and exhausting this boundary slice for the current exact witness set."
+        },
+        {
+            "event_id": "YJG-045",
+            "date": "2026-05-14",
+            "type": "copy_text_selected",
+            "summary": "Selected YJG-W22 as the package copy-text after active boundary closure because it is the earliest complete independent exact witness already held as a full local image tranche and already active in direct comparison, while keeping its localized limits honest: the early shared-interior surface still was not forced where YJG-W16 and YJG-W17 were cleaner, and page-0063 remains only page-tier-stable at the close."
         }
     ]
 }

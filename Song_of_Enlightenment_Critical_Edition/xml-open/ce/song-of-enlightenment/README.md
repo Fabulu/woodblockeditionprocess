@@ -35,8 +35,8 @@ Current state:
 - shared interior exact-comparison batches completed through `我今解此如意珠 信受之者皆相應`
 - the shared interior body is now treated as exhausted for the active exact witness set
 - the boundary-focused closing tranche has now been completed for the active exact witness set: `YJG-W17 page-0057` resolved out of the poem span, and `YJG-W22 page-0063` fixed as the final poem page at page tier
-- the next bounded slice is therefore no longer boundary-focused closing work but copy-text selection
-- copy-text not yet selected
+- copy-text is now selected as `YJG-W22`
+- the next bounded slice is render-preparation on the held PDF-backed first-tier exact witnesses
 - translation not yet started
 
 Use these for resumability:
