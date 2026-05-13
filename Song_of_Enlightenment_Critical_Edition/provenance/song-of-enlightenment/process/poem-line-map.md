@@ -1,7 +1,7 @@
 # First Poem Line Map
 
 Date: `2026-05-13`
-Status: corrected-opening line map remains active while shared interior comparison has advanced through `page-0017`
+Status: corrected-opening line map remains active after shared interior comparison reached `我今解此如意珠 信受之者皆相應`
 
 ## Scope
 
@@ -54,5 +54,6 @@ Status: corrected-opening line map remains active while shared interior comparis
 
 ## Current consequence
 
-- Shared interior comparison has already advanced beyond the corrected openings through the clean `YJG-W16` / `YJG-W17` `page-0017` tranche.
-- The next bounded slice is the next shared interior continuation after `無量法門咸在目前 咫尺匪遙蹔時岐隔`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary pages.
+- Shared interior comparison has already advanced beyond the corrected openings through `我今解此如意珠 信受之者皆相應`.
+- Direct review of the next poem-band-filtered left-frame surfaces in `YJG-W16 page-0019` and `YJG-W17 page-0021` showed commentary-style prose and back-references to already stabilized lines rather than one more adjacent stable shared poem continuation.
+- The next bounded slice is therefore boundary-focused closing work, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary pages.

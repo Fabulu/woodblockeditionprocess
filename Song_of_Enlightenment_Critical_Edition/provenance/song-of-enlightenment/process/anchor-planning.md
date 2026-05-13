@@ -1,7 +1,7 @@
 # Poem Anchor Planning
 
 Date: `2026-05-13`
-Status: active planning basis after corrected-opening review and shared interior batches through `page-0017`
+Status: active planning basis after corrected-opening review and shared interior comparison through `我今解此如意珠 信受之者皆相應`
 
 ## Purpose
 
@@ -78,4 +78,6 @@ It no longer uses the superseded startup assumption that the poem opened on `pag
 ## Current consequence
 
 - Shared interior exact comparison has already advanced through the clean `YJG-W16` / `YJG-W17` `page-0017` tranche, ending at `無量法門咸在目前 咫尺匪遙蹔時岐隔`.
-- The next bounded slice is the next shared interior continuation after that stabilized frontier, not a return to witness hunt or OCR startup.
+- The later shared-body continuation has now been carried through `我今解此如意珠 信受之者皆相應`.
+- Direct review of the next poem-band-filtered left-frame surfaces in `YJG-W16 page-0019` and `YJG-W17 page-0021` showed commentary-style prose and back-references to already stabilized lines rather than one more adjacent stable shared poem continuation.
+- The next bounded slice is therefore boundary-focused closing work, not another shared interior continuation or a return to witness hunt or OCR startup.

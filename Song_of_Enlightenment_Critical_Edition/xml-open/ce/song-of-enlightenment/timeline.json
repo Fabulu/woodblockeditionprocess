@@ -256,6 +256,12 @@
             "date": "2026-05-13",
             "type": "ocr_shared_interior_transcription_batch_completed",
             "summary": "Continued exact comparison beyond 無量法門咸在目前 咫尺匪遙蹔時岐隔 by stabilizing five more consecutive shared-interior loci through 我今解此如意珠 信受之者皆相應 from poem-band-filtered OCR comparison on the active Toyo and Berkeley exact witnesses, while keeping YJG-W22 out of forced shared-interior use and retaining YJG-W17 page-0057 plus YJG-W22 page-0063 as active boundary loci."
+        },
+        {
+            "event_id": "YJG-043",
+            "date": "2026-05-13",
+            "type": "ocr_shared_interior_phase_closed",
+            "summary": "Confirmed that the shared interior exact-comparison body stops at 我今解此如意珠 信受之者皆相應: direct review of the next poem-band-filtered left-frame surfaces in YJG-W16 page-0019 and YJG-W17 page-0021 showed commentary-style prose and back-references to already stabilized lines rather than one more adjacent stable poem continuation, so the package retargeted the next slice to boundary-focused closing work while keeping YJG-W17 page-0057 and YJG-W22 page-0063 active as boundary loci."
         }
     ]
 }

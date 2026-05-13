@@ -108,3 +108,7 @@
 - That filtered shared-body continuation now reaches through `我今解此如意珠 信受之者皆相應`, with the post-`無量法門咸在目前 咫尺匪遙蹔時岐隔` run held to the repeated `師子吼`, `無畏`, `一句了然超百億`, and `河沙` recoveries that remained stable across the active exact witnesses.
 
 - `YJG-W22` remains useful at the corrected opening and closing boundary, but it still was not forced into this post-`page-0017` shared-body continuation because the NIJL shared-interior surface did not become comparably clean after poem-band filtering.
+
+- Direct review of the next registered left-frame surfaces in `YJG-W16 page-0019` and `YJG-W17 page-0021` has now shown that the package really did hit the honest stopping point at `我今解此如意珠 信受之者皆相應`.
+
+- Those post-frontier surfaces break into commentary-style prose and back-references to already stabilized lines such as `行亦禪`, `坐亦禪`, `體安然`, and `忍辱`, so the next correct slice is boundary-focused closing work rather than one more fabricated shared-interior continuation.

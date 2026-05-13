@@ -6,15 +6,15 @@
 
 - Date: `2026-05-13`
 
-- Phase: `ocr-startup-shared-interior-transcription-batch-14-complete`
+- Phase: `ocr-startup-shared-interior-phase-closed-at-batch-14-frontier`
 
-- Current slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_14`
+- Current slice: `ocr_startup_slice_retarget_boundary_focused_work_after_shared_interior_exhaustion`
 
-- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_9`
+- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_14`
 
-- Next required action: continue exact-witness comparison/transcription after the now-stabilized shared interior continuation through `我今解此如意珠 信受之者皆相應`; carry the next shared interior tranche forward only where the poem-band-filtered shared exact-witness evidence remains equally stable; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
+- Next required action: stop shared-interior continuation at the now-confirmed frontier through `我今解此如意珠 信受之者皆相應`; direct review of the next poem-band-filtered left-frame surfaces in `YJG-W16 page-0019` and `YJG-W17 page-0021` shows commentary-style prose and back-references to already stabilized lines rather than one more clean shared-body continuation, so the next honest work is boundary-focused closing work while keeping `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
 
-- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_14`
+- Next required slice: `ocr_startup_slice_boundary_focused_closing_work_after_shared_interior_exhaustion`
 
 - Copy-text status: not yet selected
 
@@ -684,13 +684,21 @@
 
   - `信受之者皆相應`
 
+- Direct post-frontier review has now shown that the next poem-band-filtered left-frame surfaces do not continue that shared body cleanly:
+
+  - `YJG-W16 page-0019` and `YJG-W17 page-0021` break into commentary-style prose and back-reference clusters such as `行亦禪`, `坐亦禪`, `體安然`, and `忍辱`, rather than yielding one more adjacent stable shared poem continuation
+
+  - the stop after `我今解此如意珠 信受之者皆相應` was therefore substantive rather than arbitrary
+
+  - the package should now leave the shared interior slice class and move to boundary-focused closing work instead of forcing fabricated continuation
+
 ## Immediate priorities
 
 
 
-1. Continue exact-witness comparison/transcription from the now-stabilized shared interior continuation after `我今解此如意珠 信受之者皆相應` into the next shared tranche in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
+1. Treat the shared interior exact-comparison body as exhausted at the current active frontier through `我今解此如意珠 信受之者皆相應` and do not force one more tranche out of commentary-style post-frontier surfaces.
 
-2. Tighten only the mixed or boundary loci that remain explicitly provisional: `YJG-W16` `page-0007`, `YJG-W17` `page-0007` and `page-0057`, and `YJG-W22` `page-0007` and `page-0063`.
+2. Retarget the next bounded slice to the mixed or boundary loci that remain explicitly provisional: `YJG-W16` `page-0007`, `YJG-W17` `page-0007` and `page-0057`, and `YJG-W22` `page-0007` and `page-0063`.
 
 3. Keep separating likely duplicate or recut Wenzhou manifestations from genuinely independent exact witnesses.
 

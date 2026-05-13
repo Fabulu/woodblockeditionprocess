@@ -32,7 +32,8 @@ Current state:
 - corrected true opening spans stabilized at `page-0007` for `YJG-W16`, `YJG-W17`, and `YJG-W22`
 - first exact-witness startup comparison completed
 - corrected-opening continuation completed
-- early and shared interior exact-comparison batches completed through `三身四智體中圓 八解六通心地印`
+- shared interior exact-comparison batches completed through `我今解此如意珠 信受之者皆相應`
+- the shared interior body is now treated as exhausted for the active exact witness set, so the next bounded slice is boundary-focused closing work
 - copy-text not yet selected
 - translation not yet started
 

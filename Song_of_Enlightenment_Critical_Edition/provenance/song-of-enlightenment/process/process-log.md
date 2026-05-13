@@ -734,6 +734,20 @@
 
   - `YJG-W22` `page-0063`
 
+- Re-checked the next poem-band-filtered left-frame surfaces after `我今解此如意珠 信受之者皆相應` in the active exact witnesses:
+
+  - `YJG-W16` `page-0019`
+
+  - `YJG-W17` `page-0021`
+
+- Found commentary-style prose and back-reference clusters rather than one more adjacent stable shared poem continuation:
+
+  - repeated earlier line material such as `行亦禪`, `坐亦禪`, `體安然`, and `忍辱`
+
+  - no equally clean next shared-body tranche after the current frontier
+
+- Closed the shared-interior slice class at that point and retargeted the package to boundary-focused closing work rather than forcing fabricated continuation.
+
 - Continued into the next bounded shared interior tranche after `無量法門咸在目前 咫尺匪遙蹔時岐隔`, but only after tightening the evidence basis from full-page OCR to poem-band-filtered OCR on the active exact witnesses.
 
 - Stabilized five more consecutive shared loci from the filtered shared continuation:
