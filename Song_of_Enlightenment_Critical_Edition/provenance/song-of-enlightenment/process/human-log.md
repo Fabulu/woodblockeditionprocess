@@ -102,3 +102,9 @@
 - The package has now carried the next two consecutive shared interior pages forward in one uninterrupted run. The clean shared `YJG-W16` / `YJG-W17` `page-0016` to `page-0017` surfaces support the continuation through `無量法門咸在目前 咫尺匪遙蹔時岐隔`.
 
 - `YJG-W22` remains useful at the corrected opening and closing boundary, but it still was not forced into the shared `page-0016` to `page-0017` transcription because the package only needed the clean Toyo and Berkeley witness agreement for this shared-body run.
+
+- The package has now carried five more consecutive shared-interior loci forward without leaving the shared body, but the evidence basis had to tighten. The active exact witnesses no longer exposed the next continuation cleanly at full-page OCR level, so the tranche was stabilized only after restricting the OCR to the registered `poem-band` surfaces.
+
+- That filtered shared-body continuation now reaches through `我今解此如意珠 信受之者皆相應`, with the post-`無量法門咸在目前 咫尺匪遙蹔時岐隔` run held to the repeated `師子吼`, `無畏`, `一句了然超百億`, and `河沙` recoveries that remained stable across the active exact witnesses.
+
+- `YJG-W22` remains useful at the corrected opening and closing boundary, but it still was not forced into this post-`page-0017` shared-body continuation because the NIJL shared-interior surface did not become comparably clean after poem-band filtering.

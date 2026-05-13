@@ -734,6 +734,30 @@
 
   - `YJG-W22` `page-0063`
 
+- Continued into the next bounded shared interior tranche after `無量法門咸在目前 咫尺匪遙蹔時岐隔`, but only after tightening the evidence basis from full-page OCR to poem-band-filtered OCR on the active exact witnesses.
+
+- Stabilized five more consecutive shared loci from the filtered shared continuation:
+
+  - `師子吼 無畏說 深嗟懵懂頑皮靼 只知犯重障菩提 不見如來開祕訣`
+
+  - `有二比丘犯淫殺 波離螢光增罪結 維摩大士頓除疑 猶如赫日消霜雪`
+
+  - `不思議 解脫力 妙用恒沙也無極 四事供養敢辭勞 萬兩黃金亦銷得`
+
+  - `粉骨碎身未足酬 一句了然超百億 法中王 最高勝 河沙如來同共證`
+
+  - `我今解此如意珠 信受之者皆相應`
+
+- Kept OCR in a support role for that run because the uncropped post-`page-0017` engine outputs remained too noisy and spill-prone to stand alone.
+
+- Relied on the shared exact-witness continuation that remained stable only after restricting the OCR to the registered poem-band in `YJG-W16` and `YJG-W17`, while deliberately not forcing `YJG-W22` into the shared-interior comparison because the NIJL shared-body surface did not become equally clean after that filtering pass.
+
+- Re-kept the closing-boundary watchpoints live during the shared interior continuation:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`
+
 - Continued in one uninterrupted shared-body run across the clean `page-0016` to `page-0017` surfaces in `YJG-W16` and `YJG-W17`.
 
 - Stabilized the next shared continuation after `爭似無為實相門 一超直入如來地`:

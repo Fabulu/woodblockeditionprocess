@@ -6,15 +6,15 @@
 
 - Date: `2026-05-13`
 
-- Phase: `ocr-startup-shared-interior-transcription-batch-9-complete`
+- Phase: `ocr-startup-shared-interior-transcription-batch-14-complete`
 
-- Current slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_9`
+- Current slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_14`
 
-- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_8`
+- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_9`
 
-- Next required action: continue exact-witness comparison/transcription after the now-stabilized shared interior continuation through `無量法門咸在目前 咫尺匪遙蹔時岐隔`; carry the next shared interior tranche forward without reopening witness hunt; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
+- Next required action: continue exact-witness comparison/transcription after the now-stabilized shared interior continuation through `我今解此如意珠 信受之者皆相應`; carry the next shared interior tranche forward only where the poem-band-filtered shared exact-witness evidence remains equally stable; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
 
-- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_9`
+- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_14`
 
 - Copy-text status: not yet selected
 
@@ -640,11 +640,55 @@
 
   - `無量法門咸在目前 咫尺匪遙蹔時岐隔`
 
+- The next bounded shared interior continuation after that now reaches through:
+
+  - `師子吼`
+
+  - `無畏說`
+
+  - `深嗟懵懂頑皮靼`
+
+  - `只知犯重障菩提`
+
+  - `不見如來開祕訣`
+
+  - `有二比丘犯淫殺`
+
+  - `波離螢光增罪結`
+
+  - `維摩大士頓除疑`
+
+  - `猶如赫日消霜雪`
+
+  - `不思議`
+
+  - `解脫力`
+
+  - `妙用恒沙也無極`
+
+  - `四事供養敢辭勞`
+
+  - `萬兩黃金亦銷得`
+
+  - `粉骨碎身未足酬`
+
+  - `一句了然超百億`
+
+  - `法中王`
+
+  - `最高勝`
+
+  - `河沙如來同共證`
+
+  - `我今解此如意珠`
+
+  - `信受之者皆相應`
+
 ## Immediate priorities
 
 
 
-1. Continue exact-witness comparison/transcription from the now-stabilized shared interior continuation after `無量法門咸在目前 咫尺匪遙蹔時岐隔` into the next shared tranche in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
+1. Continue exact-witness comparison/transcription from the now-stabilized shared interior continuation after `我今解此如意珠 信受之者皆相應` into the next shared tranche in `provenance/song-of-enlightenment/process/anchor-base-register.jsonl` and `provenance/song-of-enlightenment/process/poem-line-map.md`.
 
 2. Tighten only the mixed or boundary loci that remain explicitly provisional: `YJG-W16` `page-0007`, `YJG-W17` `page-0007` and `page-0057`, and `YJG-W22` `page-0007` and `page-0063`.
 
