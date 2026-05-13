@@ -734,6 +734,74 @@
 
   - `YJG-W22` `page-0063`
 
+- Continued in one uninterrupted shared-body run across the clean `page-0016` to `page-0017` surfaces in `YJG-W16` and `YJG-W17`.
+
+- Stabilized the next shared continuation after `爭似無為實相門 一超直入如來地`:
+
+  - `但得本 莫愁末 如淨琉璃含寶月`
+
+  - `既能解此如意珠 自利利他終不竭`
+
+  - `江月照 松風吹 永夜清宵何所為`
+
+  - `佛性戒珠心地印 霧露雲霞體上衣`
+
+  - `降龍鉢 解虎錫 兩鈷金環鳴歷歷`
+
+  - `不是標形虛事持 如來寶杖親蹤跡`
+
+  - `不求真 不斷妄 了知二法空無相`
+
+  - `無相無空無不空 即是如來真實相`
+
+  - `心鏡明 鑑無礙 廓然瑩徹周沙界`
+
+  - `萬象森羅影現中 一顆圓光非內外`
+
+  - `豁達空 撥因果 莽莽蕩蕩招殃禍`
+
+  - `棄有著空病亦然 還如避溺而投火`
+
+  - `捨妄心 取真理 取捨之心成巧僞`
+
+  - `學人不了用修行 深成認賊將為子`
+
+  - `損法財 滅功德 莫不由斯心意識`
+
+  - `所以禪門了卻心 頓入無生知見力`
+
+  - `大丈夫 秉慧劍 般若鋒兮金剛焰`
+
+  - `非但空摧外道心 早曾落却天魔膽`
+
+  - `震法雷 擊法鼓 布慈雲兮灑甘露`
+
+  - `龍象蹴蹋潤無邊 三乘五性皆醒悟`
+
+  - `雪山肥膩更無雜 純出醍醐我常納`
+
+  - `一性圓通一切性 一法遍含一切法`
+
+  - `一月普現一切水 一切水月一月攝`
+
+  - `諸佛法身入我性 我性同共如來合`
+
+  - `一地具足一切地 非色非心非行業`
+
+  - `彈指圓成八萬門 剎那滅卻三祇劫`
+
+  - `無量法門咸在目前 咫尺匪遙蹔時岐隔`
+
+- Kept OCR in a support role for that run because the engine outputs on `page-0016` and `page-0017` remained noisy and unstable rather than strong enough to stand alone.
+
+- Relied on the direct witness-image agreement of `YJG-W16 page-0016` to `page-0017` and `YJG-W17 page-0016` to `page-0017`, while deliberately not forcing `YJG-W22` into the shared-interior comparison because the package did not need to overclaim beyond the clean shared Toyo and Berkeley pages.
+
+- Re-kept the closing-boundary watchpoints live during the shared interior continuation:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`
+
 - Continued into the next bounded shared interior tranche from the clean `page-0013` surface in `YJG-W16` and `YJG-W17`.
 
 - Stabilized the next shared continuation after `三身四智體中圓 八解六通心地印`:

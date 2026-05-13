@@ -1,7 +1,7 @@
 # First Poem Line Map
 
 Date: `2026-05-13`
-Status: corrected-opening line map remains active while shared interior comparison has advanced through `page-0015`
+Status: corrected-opening line map remains active while shared interior comparison has advanced through `page-0017`
 
 ## Scope
 
@@ -54,5 +54,5 @@ Status: corrected-opening line map remains active while shared interior comparis
 
 ## Current consequence
 
-- Shared interior comparison has already advanced beyond the corrected openings through the clean `YJG-W16` / `YJG-W17` `page-0015` tranche.
-- The next bounded slice is the next shared interior continuation after `??????? ???????`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary pages.
+- Shared interior comparison has already advanced beyond the corrected openings through the clean `YJG-W16` / `YJG-W17` `page-0017` tranche.
+- The next bounded slice is the next shared interior continuation after `無量法門咸在目前 咫尺匪遙蹔時岐隔`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary pages.

@@ -1,11 +1,11 @@
 # Poem Anchor Planning
 
 Date: `2026-05-13`
-Status: active planning basis after corrected-opening review and shared interior batches through `page-0015`
+Status: active planning basis after corrected-opening review and shared interior batches through `page-0017`
 
 ## Purpose
 
-This document records the live page-tier and line-tier planning basis for the active exact image witnesses `YJG-W16`, `YJG-W17`, and `YJG-W22` after the OCR tranche-1 baseline, corrected-opening review, and the shared-interior continuation through `??????? ???????`.
+This document records the live page-tier and line-tier planning basis for the active exact image witnesses `YJG-W16`, `YJG-W17`, and `YJG-W22` after the OCR tranche-1 baseline, corrected-opening review, and the shared-interior continuation through `無量法門咸在目前 咫尺匪遙蹔時岐隔`.
 
 It no longer uses the superseded startup assumption that the poem opened on `page-0004`. The authoritative corrected openings are now `page-0007` for `YJG-W16`, `YJG-W17`, and `YJG-W22`.
 
@@ -77,5 +77,5 @@ It no longer uses the superseded startup assumption that the poem opened on `pag
 
 ## Current consequence
 
-- Shared interior exact comparison has already advanced through the clean `YJG-W16` / `YJG-W17` `page-0015` tranche, ending at `??????? ???????`.
+- Shared interior exact comparison has already advanced through the clean `YJG-W16` / `YJG-W17` `page-0017` tranche, ending at `無量法門咸在目前 咫尺匪遙蹔時岐隔`.
 - The next bounded slice is the next shared interior continuation after that stabilized frontier, not a return to witness hunt or OCR startup.

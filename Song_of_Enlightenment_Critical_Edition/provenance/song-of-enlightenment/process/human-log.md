@@ -98,3 +98,7 @@
 - The package has now carried three more consecutive shared interior pages forward without leaving the stable shared body. The clean shared `YJG-W16` / `YJG-W17` `page-0013` to `page-0015` surfaces support the continuation through `爭似無為實相門 一超直入如來地`.
 
 - `YJG-W22` remains useful at the corrected opening and closing boundary, but it still was not forced into the shared `page-0013` to `page-0015` transcription because the package only needed the clean Toyo and Berkeley witness agreement for these batches.
+
+- The package has now carried the next two consecutive shared interior pages forward in one uninterrupted run. The clean shared `YJG-W16` / `YJG-W17` `page-0016` to `page-0017` surfaces support the continuation through `無量法門咸在目前 咫尺匪遙蹔時岐隔`.
+
+- `YJG-W22` remains useful at the corrected opening and closing boundary, but it still was not forced into the shared `page-0016` to `page-0017` transcription because the package only needed the clean Toyo and Berkeley witness agreement for this shared-body run.

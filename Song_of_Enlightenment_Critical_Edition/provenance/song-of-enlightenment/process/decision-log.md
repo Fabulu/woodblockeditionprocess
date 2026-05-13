@@ -316,3 +316,9 @@
 - Decision: continue the next bounded shared-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0015` surface through `爭似無為實相門 一超直入如來地`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
 
 - Reason: the clean Toyo and Berkeley `page-0015` images support another honest shared-page continuation after `自從頓悟了無生 於諸榮辱何憂喜` without reopening witness hunt or forcing the locally interfered `YJG-W22` shared-interior surface into false certainty.
+
+## D-036 `2026-05-13`
+
+- Decision: continue the next bounded shared-interior transcription batch as one uninterrupted run across the shared `YJG-W16` / `YJG-W17` `page-0016` to `page-0017` surfaces through `無量法門咸在目前 咫尺匪遙蹔時岐隔`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
+
+- Reason: the clean Toyo and Berkeley `page-0016` to `page-0017` images support a longer honest shared-body continuation after `爭似無為實相門 一超直入如來地`; the package does not need to fragment that same slice class into tiny stops, and it still does not need to force the locally interfered `YJG-W22` shared-interior surface into false certainty.
