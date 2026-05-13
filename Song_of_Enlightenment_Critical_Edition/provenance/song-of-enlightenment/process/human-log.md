@@ -134,3 +134,11 @@
 - One witness did not cooperate, and the package is recording that bluntly instead of smoothing it over. The held `YJG-W21` PDF opens as a PDF but yields no renderable pages under the local renderer, so it stays blocked inside this slice until a better local source can be produced.
 
 - That means the package has reached the next honest handoff: renewed exact-witness work on the six newly render-prepared first-tier witnesses, not more render-preparation theater.
+
+- The first honest re-entry batch on that newly opened subset was opening-boundary work, not fake full-span certainty. Direct page review now fixes `YJG-W4C` at mixed opening `page-0001`, `YJG-W2` / `YJG-W4F` / `YJG-W4G` at mixed opening `page-0005`, and `YJG-W8` / `YJG-W9` at mixed opening `page-0002`.
+
+- That opening pass also changed the practical posture of the subset. `YJG-W2` and `YJG-W4F` do not look like clean poem-only codices once reopened as local image tranches; both preserve prefatory prose before the poem and continue later into commentary or prose matter, so they should not be handled as if their poem necessarily runs to the physical end of the codex.
+
+- `YJG-W4C` is the opposite kind of complication. The held render tranche begins directly on the poem with no prefatory leaves preserved locally, and the short `23`-page image set now looks more like a short or differently packaged witness than a normal full poem-plus-paratext codex.
+
+- The next honest bounded step is therefore no longer "re-enter exact witnesses" in the abstract. It is closing/span tightening and witness-class differentiation on this render-prepared subset while keeping `YJG-W21` and `YJG-W12` blocked for different reasons.

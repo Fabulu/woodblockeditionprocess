@@ -280,6 +280,12 @@
             "date": "2026-05-14",
             "type": "pdf_render_preparation_completed",
             "summary": "Completed render-preparation on the renderable held first-tier PDFs by generating local page-JPG tranches for YJG-W2, YJG-W4C, YJG-W4F, YJG-W4G, YJG-W8, and YJG-W9, while also recording that the held YJG-W21 PDF still exposes no renderable pages under the local renderer and therefore remains blocked inside the same tranche."
+        },
+        {
+            "event_id": "YJG-047",
+            "date": "2026-05-14",
+            "type": "render_prepared_exact_opening_boundaries_checked",
+            "summary": "Re-entered exact-witness work on the newly render-prepared first-tier subset by fixing the first poem-bearing pages at YJG-W4C page-0001, YJG-W2/YJG-W4F/YJG-W4G page-0005, and YJG-W8/YJG-W9 page-0002, while also recording that YJG-W2 and YJG-W4F behave as commentary-bearing or prose-surrounded manifestations rather than clean poem-only codices."
         }
     ]
 }

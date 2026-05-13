@@ -734,6 +734,40 @@
 
   - `YJG-W22` `page-0063`
 
+- Re-entered exact-witness work on the newly render-prepared first-tier subset by checking opening boundaries directly on the new local page tranches instead of treating render preparation as the endpoint.
+
+- Fixed the first poem-bearing pages on that subset:
+
+  - `YJG-W4C`: `page-0001`
+
+  - `YJG-W2`: `page-0005`
+
+  - `YJG-W4F`: `page-0005`
+
+  - `YJG-W4G`: `page-0005`
+
+  - `YJG-W8`: `page-0002`
+
+  - `YJG-W9`: `page-0002`
+
+- Recorded the witness-specific opening constraints exposed by that pass:
+
+  - `YJG-W2 page-0004` is prefatory prose and `page-0005` is the mixed title-plus-opening page
+
+  - `YJG-W4C` begins immediately on a mixed opening page inside the held short tranche, with no prefatory leaves preserved locally
+
+  - `YJG-W4F page-0004` is prefatory prose parallel to `YJG-W2`, and `page-0005` is the mixed opening page
+
+  - `YJG-W4G page-0004` is a blank or cover-like leaf and `page-0005` is the mixed opening page
+
+  - `YJG-W8 page-0001` and `YJG-W9 page-0001` are title leaves, and both poem bodies begin on mixed `page-0002`
+
+- Tightened the subset posture for the next slice:
+
+  - `YJG-W2` and `YJG-W4F` now need closing/span work under a commentary-bearing or prose-surrounded posture rather than a simple poem-only-codex assumption
+
+  - `YJG-W4C` now needs closing/span work under a short-tranche or differently packaged witness posture rather than a normal full-codex assumption
+
 ## 2026-05-14
 
 - The package has now completed the next non-boundary slice instead of lingering on the already exhausted closing tranche. Copy-text is selected.

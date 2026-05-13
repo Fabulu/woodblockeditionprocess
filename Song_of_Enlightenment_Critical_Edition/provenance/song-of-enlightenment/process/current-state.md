@@ -6,17 +6,19 @@
 
 - Date: `2026-05-14`
 
-- Phase: `pdf-render-preparation-completed-with-w21-source-blocked`
+- Phase: `exact-witness-reentry-openings-stabilized-on-render-prepared-first-tier-subset`
 
-- Current slice: `pdf_first_tier_render_preparation_completed_for_renderable_held_exact_set`
+- Current slice: `render_prepared_first_tier_opening_boundary_reentry_completed`
 
-- Last completed slice: `pdf_first_tier_render_preparation_after_copy_text_selection`
+- Last completed slice: `pdf_first_tier_render_preparation_completed_for_renderable_held_exact_set`
 
-- Next required action: preserve the completed render-preparation result honestly: `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9` now have full local page-JPG tranches, while `YJG-W21` remains blocked inside this slice because the held PDF opens as a PDF but exposes no renderable pages in the local renderer. The next bounded work is therefore exact-witness re-entry on the newly render-prepared first-tier subset, while keeping `YJG-A10` and `YJG-A11` as second-tier controls and `YJG-W12` blocked honestly
+- Next required action: preserve the opening-boundary re-entry honestly: `YJG-W4C` opens immediately on `page-0001`; `YJG-W2`, `YJG-W4F`, and `YJG-W4G` open on mixed `page-0005`; `YJG-W8` and `YJG-W9` open on mixed `page-0002`. `YJG-W2` and `YJG-W4F` now also show commentary-bearing or prose continuation around the poem rather than a clean poem-only codex, so the next bounded work is closing/span tightening plus witness-class differentiation on this render-prepared subset, while keeping `YJG-A10` and `YJG-A11` as second-tier controls, `YJG-W21` source-blocked, and `YJG-W12` blocked honestly
 
 - Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
 
-- Next required slice: `exact_witness_reentry_on_render_prepared_first_tier_subset`
+- Opening-boundary re-entry result: direct image review on the newly render-prepared first-tier subset now fixes the first poem-bearing pages at `YJG-W2 page-0005`, `YJG-W4C page-0001`, `YJG-W4F page-0005`, `YJG-W4G page-0005`, `YJG-W8 page-0002`, and `YJG-W9 page-0002`. The tranche also exposed an important packaging split: `YJG-W2` and `YJG-W4F` do not behave like bare poem-only booklets but like commentary-bearing or prose-surrounded manifestations, while `YJG-W4C` begins immediately in a short or differently packaged tranche
+
+- Next required slice: `render_prepared_first_tier_closing_and_span_tightening`
 
 - Copy-text status: selected as `YJG-W22`
 
@@ -173,6 +175,20 @@
   - `YJG-W9`: `61` local page JPGs
 
   - `YJG-W21`: held PDF still blocks render preparation locally because it opens as PDF `1.4` but exposes no renderable pages
+
+- Direct opening-boundary re-entry has now actually begun on that render-prepared subset rather than being left as a queue item:
+
+  - `YJG-W2`: mixed poem opening now fixed at `page-0005`; `page-0004` is prefatory prose, and the later codex clearly continues into commentary or prose matter beyond the poem rather than closing near the physical end
+
+  - `YJG-W4C`: the held render tranche already opens on mixed poem page `page-0001`, with no prefatory leaves preserved ahead of it in the local image set
+
+  - `YJG-W4F`: mixed poem opening now fixed at `page-0005`; `page-0004` is prefatory prose parallel to `YJG-W2`, and the manifestation appears commentary-bearing rather than a bare poem-only booklet
+
+  - `YJG-W4G`: `page-0004` is a blank or cover-like leaf and the mixed poem opening starts on `page-0005`
+
+  - `YJG-W8`: `page-0001` is the title leaf and the mixed poem opening starts on `page-0002`
+
+  - `YJG-W9`: `page-0001` is the title leaf and the mixed poem opening starts on `page-0002`
 
 - Live baseline output has already begun on `YJG-W22` across all four engines.
 
@@ -723,7 +739,7 @@
 
 1. Preserve the copy-text lock honestly: `YJG-W22` remains the selected copy-text, while `YJG-W16` and `YJG-W17` remain active clean comparison witnesses and `YJG-W22 page-0063` remains only page-tier-stable at the close.
 
-2. Re-enter exact-witness work on the newly render-prepared first-tier subset `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9` rather than pretending the package is still waiting on render preparation.
+2. Carry the render-prepared first-tier subset from opening-boundary re-entry into closing/span tightening, especially where `YJG-W2` and `YJG-W4F` now clearly behave as commentary-bearing or prose-surrounded manifestations rather than simple poem-only codices.
 
 3. Keep `YJG-W21` explicitly blocked inside the former render tranche until a genuinely renderable or repaired local source can be produced, and do not let that one malformed PDF erase the progress on the six witnesses already opened successfully.
 
