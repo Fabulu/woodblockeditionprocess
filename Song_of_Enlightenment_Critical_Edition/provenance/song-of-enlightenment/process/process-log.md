@@ -734,6 +734,36 @@
 
   - `YJG-W22` `page-0063`
 
+- Re-opened only the active closing-boundary loci after the shared interior body was explicitly closed:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`
+
+- Direct witness-image recheck changed the Berkeley closing result materially:
+
+  - `YJG-W17 page-0057` is not a surviving poem leaf but a dated terminal note beginning `庚辰秋仲住蔣山...`
+
+  - the Berkeley poem span therefore closes honestly on `page-0056`
+
+- Direct witness-image comparison also tightened the NIJL closing result materially:
+
+  - `YJG-W22 page-0063` remains the final poem page at page tier
+
+  - `YJG-W22 page-0064` is explicit afterword matter
+
+  - line-tier segmentation on `page-0063` still remains provisional rather than falsely over-resolved
+
+- Synchronized the boundary result across the base anchor register, event log, witness READMEs, witness register, package state, line map, unresolved loci surface, machine-readable process state, and timeline.
+
+- Shifted the package out of boundary-focused closing for this exact witness set:
+
+  - `YJG-W17 page-0057` resolved out of span
+
+  - `YJG-W22 page-0063` fixed at page tier only
+
+  - the next honest bounded slice is copy-text selection rather than more boundary work
+
 - Re-checked the next poem-band-filtered left-frame surfaces after `我今解此如意珠 信受之者皆相應` in the active exact witnesses:
 
   - `YJG-W16` `page-0019`

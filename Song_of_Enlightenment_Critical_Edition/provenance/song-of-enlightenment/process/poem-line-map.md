@@ -30,12 +30,12 @@ Status: corrected-opening line map remains active after shared interior comparis
 
 ### `YJG-W17`
 
-- Page-tier rows opened: `51`
-- Line-tier rows opened: `267`
+- Page-tier rows opened: `50`
+- Line-tier rows opened: `263`
 - Source asset directory: `provenance/song-of-enlightenment/witnesses/YJG-W17-berkeley-exact-standalone/images`
 - Corrected opening page: `page-0007`
-- Interior page range: `page-0008` through `page-0056`
-- Closing boundary page: `page-0057`
+- Interior page range: `page-0008` through `page-0055`
+- Closing page: `page-0056`
 
 ### `YJG-W22`
 
@@ -48,12 +48,13 @@ Status: corrected-opening line map remains active after shared interior comparis
 
 ## Row totals
 
-- Page-tier rows after corrected-opening review: `156`
-- Line-tier rows after corrected-opening review: `721`
-- Total rows opened after corrected-opening review: `877`
+- Page-tier rows after boundary-focused closing review: `155`
+- Line-tier rows after boundary-focused closing review: `717`
+- Total rows opened after boundary-focused closing review: `872`
 
 ## Current consequence
 
 - Shared interior comparison has already advanced beyond the corrected openings through `我今解此如意珠 信受之者皆相應`.
 - Direct review of the next poem-band-filtered left-frame surfaces in `YJG-W16 page-0019` and `YJG-W17 page-0021` showed commentary-style prose and back-references to already stabilized lines rather than one more adjacent stable shared poem continuation.
-- The next bounded slice is therefore boundary-focused closing work, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary pages.
+- Boundary-focused recheck now resolves `YJG-W17 page-0057` out of the poem map as a dated terminal note and keeps `YJG-W22 page-0063` as the final poem page only at page tier.
+- The active closing-boundary tranche is therefore exhausted for this witness set.

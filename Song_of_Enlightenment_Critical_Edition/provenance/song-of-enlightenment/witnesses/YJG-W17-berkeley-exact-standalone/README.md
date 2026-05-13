@@ -28,4 +28,4 @@
   - image-backed exact holding outside the current NDL/Kyoto/Waseda cluster
   - effective first-tier held image witness after local IIIF harvest
   - corrected poem opening now begins on `page-0007`
-  - `page-0057` remains an active closing-boundary locus
+  - direct boundary-focused recheck now shows `page-0057` is a dated terminal note outside the poem span, so the poem closes on `page-0056`

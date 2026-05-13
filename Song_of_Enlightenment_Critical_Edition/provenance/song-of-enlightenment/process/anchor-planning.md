@@ -1,7 +1,7 @@
 # Poem Anchor Planning
 
 Date: `2026-05-13`
-Status: active planning basis after corrected-opening review and shared interior comparison through `我今解此如意珠 信受之者皆相應`
+Status: active planning basis after boundary-focused closing tranche completed through `我今解此如意珠 信受之者皆相應`
 
 ## Purpose
 
@@ -40,14 +40,14 @@ It no longer uses the superseded startup assumption that the poem opened on `pag
 
 ### `YJG-W17`
 
-- Poem-bearing page span: `page-0007` through `page-0057`
+- Poem-bearing page span: `page-0007` through `page-0056`
 - Non-poem confirmation:
   - `page-0001` through `page-0006` are slip, title, or prefatory matter
-  - `page-0057` is the terminal captured page and still poem-bearing
+  - `page-0057` is the terminal captured page but now confirmed as a dated note outside the poem span
 - Planning posture:
   - `page-0007` is the mixed opening page and remains on the early character-tier watchlist
-  - `page-0008` through `page-0056` are interior poem pages
-  - `page-0057` is the live closing-boundary page and remains on the early character-tier watchlist
+  - `page-0008` through `page-0055` are interior poem pages
+  - `page-0056` is the Berkeley closing page
 
 ### `YJG-W22`
 
@@ -59,19 +59,18 @@ It no longer uses the superseded startup assumption that the poem opened on `pag
 - Planning posture:
   - `page-0007` is the mixed opening page and remains on the early character-tier watchlist
   - `page-0008` through `page-0062` are interior poem pages
-  - `page-0063` is the live closing-boundary page and remains on the early character-tier watchlist
+  - `page-0063` is the final poem page at page tier, but its mixed closing geometry remains on the early character-tier watchlist
 
 ## Execution result
 
 - `anchor-base-register.jsonl` is opened at page-plus-line tier for the confirmed poem loci in `YJG-W16`, `YJG-W17`, and `YJG-W22`.
-- Opened row totals after corrected-opening review:
-  - `156` page-tier `.poem-band` rows
-  - `721` line-tier `.l##` rows
-  - `877` total anchor rows
+- Opened row totals after the boundary-focused closing recheck:
+  - `155` page-tier `.poem-band` rows
+  - `717` line-tier `.l##` rows
+  - `872` total anchor rows
 - Still-provisional mixed or boundary pages remain:
   - `YJG-W16` `page-0007`
   - `YJG-W17` `page-0007`
-  - `YJG-W17` `page-0057`
   - `YJG-W22` `page-0007`
   - `YJG-W22` `page-0063`
 
@@ -80,4 +79,7 @@ It no longer uses the superseded startup assumption that the poem opened on `pag
 - Shared interior exact comparison has already advanced through the clean `YJG-W16` / `YJG-W17` `page-0017` tranche, ending at `無量法門咸在目前 咫尺匪遙蹔時岐隔`.
 - The later shared-body continuation has now been carried through `我今解此如意珠 信受之者皆相應`.
 - Direct review of the next poem-band-filtered left-frame surfaces in `YJG-W16 page-0019` and `YJG-W17 page-0021` showed commentary-style prose and back-references to already stabilized lines rather than one more adjacent stable shared poem continuation.
-- The next bounded slice is therefore boundary-focused closing work, not another shared interior continuation or a return to witness hunt or OCR startup.
+- The next bounded slice was therefore boundary-focused closing work, not another shared interior continuation or a return to witness hunt or OCR startup.
+- That closing recheck has now resolved `YJG-W17 page-0057` out of the poem span and fixed `YJG-W22 page-0063` as the last poem page only at page tier.
+- The active closing-boundary tranche is therefore exhausted for this witness set, and the next honest phase is copy-text selection.
+- The active closing-boundary tranche is therefore exhausted for this witness set.

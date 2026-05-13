@@ -17,4 +17,4 @@
   - local manifest held under `source/`
   - `68` local page JPGs held under `images/`
   - corrected poem opening now begins on `page-0007`
-  - `page-0063` remains an active closing-boundary locus
+  - direct boundary-focused recheck now confirms `page-0063` as the final poem page at page tier before the explicit afterword on `page-0064`, while line-tier segmentation remains provisional

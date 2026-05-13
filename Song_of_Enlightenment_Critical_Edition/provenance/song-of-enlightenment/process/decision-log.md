@@ -322,3 +322,9 @@
 - Decision: continue the next bounded shared-interior transcription batch as one uninterrupted run across the shared `YJG-W16` / `YJG-W17` `page-0016` to `page-0017` surfaces through `無量法門咸在目前 咫尺匪遙蹔時岐隔`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
 
 - Reason: the clean Toyo and Berkeley `page-0016` to `page-0017` images support a longer honest shared-body continuation after `爭似無為實相門 一超直入如來地`; the package does not need to fragment that same slice class into tiny stops, and it still does not need to force the locally interfered `YJG-W22` shared-interior surface into false certainty.
+
+## D-037 `2026-05-13`
+
+- Decision: close the active boundary-focused tranche by removing `YJG-W17 page-0057` from the poem span and fixing `YJG-W22 page-0063` as the final poem page at page tier, then hand the package forward to copy-text selection rather than reopening boundary work.
+
+- Reason: direct witness-image recheck shows that Berkeley `page-0057` is a dated terminal note beginning `庚辰秋仲住蔣山...` rather than a surviving poem leaf, while NIJL `page-0063` remains the last poem-bearing page before the explicit afterword on `page-0064`. No further honest progress remains in this exact boundary slice without changing phase.

@@ -6,15 +6,17 @@
 
 - Date: `2026-05-13`
 
-- Phase: `ocr-startup-shared-interior-phase-closed-at-batch-14-frontier`
+- Phase: `ocr-startup-boundary-focused-closing-phase-exhausted-at-active-exact-witness-set`
 
-- Current slice: `ocr_startup_slice_retarget_boundary_focused_work_after_shared_interior_exhaustion`
+- Current slice: `ocr_startup_slice_boundary_focused_closing_work_completed_for_active_exact_witness_set`
 
-- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_14`
+- Last completed slice: `ocr_startup_slice_boundary_focused_closing_work_after_shared_interior_exhaustion`
 
-- Next required action: stop shared-interior continuation at the now-confirmed frontier through `我今解此如意珠 信受之者皆相應`; direct review of the next poem-band-filtered left-frame surfaces in `YJG-W16 page-0019` and `YJG-W17 page-0021` shows commentary-style prose and back-references to already stabilized lines rather than one more clean shared-body continuation, so the next honest work is boundary-focused closing work while keeping `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
+- Next required action: preserve the completed boundary result honestly: `YJG-W17 page-0057` is now closed out of the poem span as a dated terminal note and `YJG-W22 page-0063` is fixed as the final poem page at page tier; the next bounded work is therefore non-boundary copy-text selection, while keeping the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice, `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1, and `YJG-W12` blocked honestly
 
-- Next required slice: `ocr_startup_slice_boundary_focused_closing_work_after_shared_interior_exhaustion`
+- Boundary-closing result: direct recheck now shows `YJG-W17 page-0057` is a dated terminal note rather than a surviving poem leaf, so the Berkeley poem span closes honestly at `page-0056`; `YJG-W22 page-0063` remains the final poem page at page tier before the explicit afterword on `page-0064`, but its internal line segmentation stays provisional; the next honest work is therefore a non-boundary phase, starting with copy-text selection while keeping the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice and `YJG-W12` blocked honestly
+
+- Next required slice: `copy_text_selection_after_active_boundary_closure`
 
 - Copy-text status: not yet selected
 
@@ -188,7 +190,7 @@
 
   - `YJG-W16`: `page-0007` through `page-0054`
 
-  - `YJG-W17`: `page-0007` through `page-0057`
+  - `YJG-W17`: `page-0007` through `page-0056`
 
   - `YJG-W22`: `page-0007` through `page-0063`
 
@@ -196,7 +198,7 @@
 
   - `YJG-W16` opens on the mixed page `page-0007`; `page-0004` to `page-0006` are prefatory title or prose matter and no separate afterword appears inside the witnessed closing span
 
-  - `YJG-W17` opens on the mixed page `page-0007`; `page-0004` to `page-0006` are prefatory title or prose matter and `page-0057` remains poem-bearing through the terminal captured page
+  - `YJG-W17` opens on the mixed page `page-0007`; `page-0004` to `page-0006` are prefatory title or prose matter, and direct boundary recheck now shows the terminal leaf `page-0057` is a dated note outside the poem span, so the poem closes on `page-0056`
 
   - `YJG-W22` opens on the mixed page `page-0007`; `page-0004` to `page-0006` are prefatory title or prose matter, and the poem closes on the mixed boundary page `page-0063` before the explicit afterword on `page-0064`
 
@@ -212,11 +214,11 @@
 
 - The base anchor register is now genuinely opened for every confirmed tranche-1 poem locus:
 
-  - `156` page-tier `.poem-band` rows
+  - `155` page-tier `.poem-band` rows
 
-  - `721` line-tier `.l##` rows
+  - `717` line-tier `.l##` rows
 
-  - `877` total rows in `anchor-base-register.jsonl`
+  - `872` total rows in `anchor-base-register.jsonl`
 
 - Mixed opening or closing pages remain explicitly provisional at line tier rather than falsely over-resolved:
 
@@ -224,7 +226,6 @@
 
   - `YJG-W17` `page-0007`
 
-  - `YJG-W17` `page-0057`
 
   - `YJG-W22` `page-0007`
 
@@ -696,23 +697,15 @@
 
 
 
-1. Treat the shared interior exact-comparison body as exhausted at the current active frontier through `我今解此如意珠 信受之者皆相應` and do not force one more tranche out of commentary-style post-frontier surfaces.
+1. Preserve the boundary-closing result as fixed for the active exact witness set: `YJG-W17` closes at `page-0056`, and `YJG-W22` closes at `page-0063` at page tier.
 
-2. Retarget the next bounded slice to the mixed or boundary loci that remain explicitly provisional: `YJG-W16` `page-0007`, `YJG-W17` `page-0007` and `page-0057`, and `YJG-W22` `page-0007` and `page-0063`.
+2. Move the next bounded slice to copy-text selection rather than reopening boundary-focused closing or shared-interior continuation.
 
-3. Keep separating likely duplicate or recut Wenzhou manifestations from genuinely independent exact witnesses.
+3. Keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice without folding that work into copy-text selection prematurely.
 
-4. Preserve Korean exact backup leads without letting them crowd out the already ranked first-tier queue, but keep `YJG-W28` active as a real image-backed branch gain.
+4. Keep `YJG-W12` blocked honestly and do not reopen witness hunt merely to avoid the phase change.
 
-5. Treat anthology and derivative branches as controls unless they prove needed for a family gap, while admitting the new Kyushu and Kyoto control branches into the live map.
-
-6. Continue exact-witness hunting only where a scan gap still threatens family coverage.
-
-7. Distinguish exact text witnesses from commentary, anthology, translation, and reception-only controls.
-
-8. Treat the witness family map as secure enough for OCR startup, while leaving copy-text lock and deeper editorial adjudication for after the first OCR tranche.
-
-9. Exclude prohibited canonical web mirrors from this package entirely.
+5. Preserve the ranked witness-family posture and the exact/control distinction for later editorial adjudication.
 
 
 

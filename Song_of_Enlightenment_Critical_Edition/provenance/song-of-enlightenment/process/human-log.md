@@ -112,3 +112,9 @@
 - Direct review of the next registered left-frame surfaces in `YJG-W16 page-0019` and `YJG-W17 page-0021` has now shown that the package really did hit the honest stopping point at `我今解此如意珠 信受之者皆相應`.
 
 - Those post-frontier surfaces break into commentary-style prose and back-references to already stabilized lines such as `行亦禪`, `坐亦禪`, `體安然`, and `忍辱`, so the next correct slice is boundary-focused closing work rather than one more fabricated shared-interior continuation.
+
+- That boundary-focused closing work has now been completed for the active exact witness set. The Berkeley terminal page `YJG-W17 page-0057` turned out not to be poem text at all but a dated terminal note, so the real Berkeley closing page is `page-0056`.
+
+- The NIJL closing page also tightened honestly rather than being forced shut. `YJG-W22 page-0063` remains the final poem page before the explicit afterword on `page-0064`, but only at page tier; its internal closing geometry still needs later non-boundary editorial work if line or character disputes matter.
+
+- The practical consequence is that the package should now stop pretending boundary-focused closing is still open. The next honest bounded phase is copy-text selection, while the PDF-backed first-tier witnesses remain queued for a separate render-preparation slice and `YJG-W12` stays blocked honestly.
