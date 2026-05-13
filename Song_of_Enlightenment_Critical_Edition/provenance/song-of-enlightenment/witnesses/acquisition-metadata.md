@@ -8,7 +8,7 @@
 - Title: `四部録` containing `永嘉真覺大師證道歌一卷`
 - Local basis:
   - inherited local scan under the same witness family already used during `信心銘`
-  - documented in [SOURCES.md](/abs/path/C:/woodblocks/SOURCES.md:450)
+  - documented in the local `SOURCES.md` inventory
 - Source page:
   - `https://commons.wikimedia.org/wiki/File:NDL2537640_%E5%9B%9B%E9%83%A8%E9%8C%B2.pdf`
 - Rights basis:

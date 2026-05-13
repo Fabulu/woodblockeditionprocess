@@ -16,6 +16,8 @@
   - ranked first-tier exact witness
   - IIIF manifest locally captured
   - full currently exposed page-image tranche locally harvested
+  - OCR tranche 1 witness; four-engine OCR baseline completed
+  - active exact-comparison witness in the current startup transcription phase
 - Local file:
   - `source/YJG-W16-toyo-exact-standalone-manifest.json`
 - Local images:
@@ -25,3 +27,4 @@
 - Notes:
   - image-backed standalone exact holding outside the current NDL/Kyoto/Waseda cluster
   - effective first-tier held image witness after local IIIF harvest
+  - corrected poem opening now begins on `page-0007`

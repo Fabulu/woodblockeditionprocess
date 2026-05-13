@@ -1,19 +1,11 @@
 # Unresolved Loci
 
-No text-level unresolved loci are recorded yet.
+No durable text-level unresolved loci are recorded yet, but the package is no longer in pre-transcription startup.
 
-The current unresolved questions are pre-transcription startup questions:
+The current active open questions are:
 
-1. Can `YJG-W12` be captured as a usable first-tier exact scan from its current institutional surface without manual request-only intervention?
-2. Which remaining Wenzhou exact files beyond `YJG-W4C/W4F/W4G` are genuinely independent prints rather than later reprints, mirrors, or multipart forms of already represented lines?
-3. Is `禪宗永嘉集一卷附證道歌` close enough in transmission behavior to treat as an exact secondary witness or only as a related anthology control?
-4. Can the `1935` DCCB exact lead be connected to an accessible scan witness, or should it remain bibliographic only?
-5. Which commentary-family titles from the broader `證道歌` tradition have image witnesses that are practical to acquire next?
-6. Which Japanese anthology witnesses are genuinely independent textual witnesses rather than close reissues of the same anthology line?
-7. Is `YJG-W13` a true additional Korean textual witness or only a less fully described manifestation inside the wider Korean family?
-8. How far should `四部録抄` be treated as a reception branch versus a textual control on the poem itself?
-9. Does `YJG-W18` add a genuinely independent exact Japanese line, or is it closer to one of the already surfaced NIJL/NDL standalones?
-10. How many materially distinct Japanese anthology sub-branches should be kept active once `四部録`, `首書四部録`, and `片カナ付四部録` are all in view?
-11. Does `YJG-W19` merit promotion into the first-tier exact core once its scan-backed `1531` line is compared against the already held exact witnesses?
-12. Should the newly captured `YJG-W21` be treated as a stable first-tier Korean stemmatic anchor or only as a strong auxiliary comparator beside `YJG-W8` and `YJG-W9`?
-13. Does `YJG-W20` deserve promotion into the active comparison tranche now that its full image set is locally held, or should it remain a manuscript-family reserve?
+1. Continue the active shared interior exact-comparison tranche after the current stabilized frontier through `三身四智體中圓 八解六通心地印`.
+2. Keep `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary loci while the shared interior body remains the primary tranche.
+3. Decide when the next bounded phase should stop being shared-interior continuation and become a boundary-focused close, copy-text selection, or translation-start slice.
+4. Keep `YJG-W12` blocked honestly rather than pretending it is a latent OCR quick win.
+5. Keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice instead of blurring them into the active image-backed OCR tranche.

@@ -2,7 +2,7 @@
 
 Slug: `song-of-enlightenment`
 
-This package is in startup witness-hunt mode.
+This package is in active OCR-first exact-comparison mode.
 
 Primary work:
 - `永嘉證道歌`
@@ -26,7 +26,18 @@ Current state:
 - second-tier image harvest completed for `YJG-W19` and partially attempted for `YJG-W20`
 - second-tier image harvest completed for `YJG-W20`
 - post-harvest rank/prune pass completed
+- OCR tranche 1 image baseline completed for `YJG-W16`, `YJG-W17`, and `YJG-W22`
 - page-span and page-plus-line anchor planning completed for `YJG-W16`, `YJG-W17`, and `YJG-W22`
+- first poem-locus segmentation and base-anchor opening completed
+- corrected true opening spans stabilized at `page-0007` for `YJG-W16`, `YJG-W17`, and `YJG-W22`
+- first exact-witness startup comparison completed
+- corrected-opening continuation completed
+- early and shared interior exact-comparison batches completed through `三身四智體中圓 八解六通心地印`
 - copy-text not yet selected
+- translation not yet started
 
-Use `process.json` and `timeline.json` for machine-readable resumability.
+Use these for resumability:
+
+- `process.json`
+- `timeline.json`
+- `provenance/song-of-enlightenment/process/current-state.md`

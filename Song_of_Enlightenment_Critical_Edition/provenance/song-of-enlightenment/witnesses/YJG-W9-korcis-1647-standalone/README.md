@@ -8,4 +8,6 @@
 - Notes:
   - second Korean standalone exact line
   - likely independent from both `YJG-W8` and the Japanese anthology cluster
-  - capture path still pending; not yet locally ingested
+  - direct public PDF path confirmed
+  - local source PDF now ingested into the witness folder
+  - held first-tier exact witness, but not part of the current OCR tranche because the active startup OCR tranche is restricted to the image-backed exact set `YJG-W16`, `YJG-W17`, and `YJG-W22`

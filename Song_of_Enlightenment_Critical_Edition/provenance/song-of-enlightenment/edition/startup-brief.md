@@ -32,3 +32,10 @@ The next startup rule is:
 3. require PaddleOCR `return_word_box: True` so character-level evidence can be retained for contested loci
 4. require `evidence_tier` and `char_coverage` fields in anchor planning from the start
 5. keep `YJG-W12` open as a capture blocker without letting it block OCR on the already held core
+
+That OCR startup rule is now materially underway:
+
+1. OCR tranche 1 is complete on `YJG-W16`, `YJG-W17`, and `YJG-W22`
+2. corrected true opening spans are now fixed at `page-0007` for all three active exact image witnesses
+3. first exact-witness comparison has already moved beyond the openings into shared interior transcription
+4. the live resumability surface is now `process/current-state.md`, not this startup brief

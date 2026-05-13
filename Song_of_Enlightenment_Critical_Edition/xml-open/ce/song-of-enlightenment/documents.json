@@ -1,9 +1,34 @@
 {
   "documents": [
     {
+      "id": "current-state",
+      "title": "Current State",
+      "path": "provenance/song-of-enlightenment/process/current-state.md"
+    },
+    {
+      "id": "process-log",
+      "title": "Process Log",
+      "path": "provenance/song-of-enlightenment/process/process-log.md"
+    },
+    {
+      "id": "decision-log",
+      "title": "Decision Log",
+      "path": "provenance/song-of-enlightenment/process/decision-log.md"
+    },
+    {
+      "id": "human-log",
+      "title": "Human Log",
+      "path": "provenance/song-of-enlightenment/process/human-log.md"
+    },
+    {
       "id": "startup-brief",
       "title": "Startup Brief",
       "path": "provenance/song-of-enlightenment/edition/startup-brief.md"
+    },
+    {
+      "id": "edition-plan",
+      "title": "Edition Plan",
+      "path": "provenance/song-of-enlightenment/process/edition-plan.md"
     },
     {
       "id": "witness-register",
@@ -19,6 +44,51 @@
       "id": "anchor-planning",
       "title": "Poem Anchor Planning",
       "path": "provenance/song-of-enlightenment/process/anchor-planning.md"
+    },
+    {
+      "id": "poem-line-map",
+      "title": "Poem Line Map",
+      "path": "provenance/song-of-enlightenment/process/poem-line-map.md"
+    },
+    {
+      "id": "anchor-base-register",
+      "title": "Anchor Base Register",
+      "path": "provenance/song-of-enlightenment/process/anchor-base-register.jsonl"
+    },
+    {
+      "id": "anchor-event-log",
+      "title": "Anchor Event Log",
+      "path": "provenance/song-of-enlightenment/process/anchor-event-log.jsonl"
+    },
+    {
+      "id": "ocr-startup-evidence-requirements",
+      "title": "OCR Startup Evidence Requirements",
+      "path": "provenance/song-of-enlightenment/process/ocr-startup-evidence-requirements.md"
+    },
+    {
+      "id": "ocr-tranche-1-manifest",
+      "title": "OCR Tranche 1 Manifest",
+      "path": "provenance/song-of-enlightenment/process/ocr-tranche-1-manifest.md"
+    },
+    {
+      "id": "publication-checklist",
+      "title": "Publication Checklist",
+      "path": "provenance/song-of-enlightenment/process/publication-checklist.md"
+    },
+    {
+      "id": "unresolved-loci",
+      "title": "Unresolved Loci",
+      "path": "provenance/song-of-enlightenment/process/unresolved-loci.md"
+    },
+    {
+      "id": "ocr-consensus-log",
+      "title": "OCR Consensus Log",
+      "path": "provenance/song-of-enlightenment/process/ocr-consensus-log.md"
+    },
+    {
+      "id": "translation-diff-log",
+      "title": "Translation Diff Log",
+      "path": "provenance/song-of-enlightenment/process/translation-diff-log.md"
     }
   ]
 }
