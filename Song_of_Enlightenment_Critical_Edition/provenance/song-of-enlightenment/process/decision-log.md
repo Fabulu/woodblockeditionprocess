@@ -298,3 +298,21 @@
 - Decision: continue the next bounded shared-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0012` surface through `三身四智體中圓 八解六通心地印`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
 
 - Reason: the clean Toyo and Berkeley `page-0012` images support another honest shared-page continuation after `常獨行 常獨步 達者同遊涅槃路` without reopening witness hunt or forcing the locally interfered `YJG-W22` shared-interior surface into false certainty.
+
+## D-033 `2026-05-13`
+
+- Decision: continue the next bounded shared-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0013` surface through `鏡裏看形見不難 水中捉月爭拈得`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
+
+- Reason: the clean Toyo and Berkeley `page-0013` images support another honest shared-page continuation after `三身四智體中圓 八解六通心地印` without reopening witness hunt or forcing the locally interfered `YJG-W22` shared-interior surface into false certainty.
+
+## D-034 `2026-05-13`
+
+- Decision: continue the next bounded shared-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0014` surface through `自從頓悟了無生 於諸榮辱何憂喜`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
+
+- Reason: the clean Toyo and Berkeley `page-0014` images support another honest shared-page continuation after `鏡裏看形見不難 水中捉月爭拈得` without reopening witness hunt or forcing the locally interfered `YJG-W22` shared-interior surface into false certainty.
+
+## D-035 `2026-05-13`
+
+- Decision: continue the next bounded shared-interior transcription batch from the shared `YJG-W16` / `YJG-W17` `page-0015` surface through `爭似無為實相門 一超直入如來地`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary watchpoints.
+
+- Reason: the clean Toyo and Berkeley `page-0015` images support another honest shared-page continuation after `自從頓悟了無生 於諸榮辱何憂喜` without reopening witness hunt or forcing the locally interfered `YJG-W22` shared-interior surface into false certainty.

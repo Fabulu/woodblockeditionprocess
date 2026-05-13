@@ -2,19 +2,19 @@
 
 
 
-- Work: `æ°¸å˜‰è­‰é“æ­Œ` / `song-of-enlightenment`
+- Work: `永嘉證道歌` / `song-of-enlightenment`
 
-- Date: `2026-05-12`
+- Date: `2026-05-13`
 
-- Phase: `ocr-startup-shared-interior-transcription-batch-5-complete`
+- Phase: `ocr-startup-shared-interior-transcription-batch-8-complete`
 
-- Current slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_5`
+- Current slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_8`
 
-- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_4`
+- Last completed slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_7`
 
-- Next required action: continue exact-witness comparison/transcription after the now-stabilized shared interior continuation through `三身四智體中圓 八解六通心地印`; carry the next shared interior tranche forward without reopening witness hunt; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
+- Next required action: continue exact-witness comparison/transcription after the now-stabilized shared interior continuation through `爭似無為實相門 一超直入如來地`; carry the next shared interior tranche forward without reopening witness hunt; keep `YJG-W17` `page-0057` and `YJG-W22` `page-0063` active as boundary loci; keep the PDF-backed first-tier exact witnesses queued for a separate render-preparation slice; keep `YJG-A10` and `YJG-A11` as second-tier controls outside OCR tranche 1; keep `YJG-W12` blocked rather than pretending it is a latent OCR quick win
 
-- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_5`
+- Next required slice: `ocr_startup_slice_continue_exact_comparison_after_shared_interior_batch_8`
 
 - Copy-text status: not yet selected
 
@@ -305,7 +305,8 @@
 
   - `è«ææ`
 
-  - `å¯æ»æ§ä¸­é¨é£²å`
+  - `å¯æ»
+æ§ä¸­é¨é£²å`
 
   - `è«¸è¡ç¡å¸¸ä¸åç©º`
 
@@ -315,7 +316,8 @@
 
   - `è¡¨çå§`
 
-  - `æäººä¸è¯ä»»æå¾µ`
+  - `æäººä¸è¯ä»»æ
+å¾µ`
 
 
 - The next bounded shared interior continuation now reaches through:
@@ -495,6 +497,90 @@
   - `YJG-A8`
 
 
+
+- The next bounded shared interior continuation after that now reaches through:
+
+  - `高低普應前後無差`
+
+  - `尋枝摘葉我不能也`
+
+  - `摩尼珠人不識`
+
+  - `如來藏裏親收得`
+
+  - `六般神用空不空`
+
+  - `一顆圓光色非色`
+
+  - `淨五眼`
+
+  - `得五力`
+
+  - `惟證乃知難可測`
+
+  - `鏡裏看形見不難`
+
+  - `水中捉月爭拈得`
+
+- The next bounded shared interior continuation after that now reaches through:
+
+  - `作麼生`
+
+  - `行亦禪`
+
+  - `坐亦禪`
+
+  - `語默動靜體安然`
+
+  - `縱遇鋒刀常坦坦`
+
+  - `假饒毒藥也閑閑`
+
+  - `我師得見燃燈佛`
+
+  - `多劫曾為忍辱仙`
+
+  - `幾回生`
+
+  - `幾回死`
+
+  - `生死悠悠無定止`
+
+  - `自從頓悟了無生`
+
+  - `於諸榮辱何憂喜`
+
+- The next bounded shared interior continuation after that now reaches through:
+
+  - `入深山`
+
+  - `住蘭若`
+
+  - `岑崟幽邃長松下`
+
+  - `優游靜坐野僧家`
+
+  - `闃寂安居實瀟灑`
+
+  - `覺即了`
+
+  - `不施功`
+
+  - `一切有為法不同`
+
+  - `住相布施生天福`
+
+  - `猶如仰箭射虛空`
+
+  - `勢力盡`
+
+  - `箭還墜`
+
+  - `招得來生不如意`
+
+  - `爭似無為實相門`
+
+  - `一超直入如來地`
 
 ## Immediate priorities
 

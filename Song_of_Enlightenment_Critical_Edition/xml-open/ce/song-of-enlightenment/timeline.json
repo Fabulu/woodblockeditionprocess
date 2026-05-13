@@ -1,7 +1,7 @@
 {
     "project": {
         "slug": "song-of-enlightenment",
-        "title_zh": "Ã¦Â°Â¸Ã¥Ëœâ€°Ã¨Â­â€°Ã©Ââ€œÃ¦Â­Å’",
+        "title_zh": "永嘉證道歌",
         "title_en": "Song of Enlightenment"
     },
     "events": [
@@ -226,6 +226,24 @@
             "date": "2026-05-12",
             "type": "ocr_shared_interior_transcription_batch_completed",
             "summary": "Continued exact comparison beyond 常獨行 常獨步 達者同遊涅槃路 by stabilizing the shared page-0012 continuation through 三身四智體中圓 八解六通心地印 from direct image comparison on YJG-W16 and YJG-W17, while keeping YJG-W22 out of forced shared-interior use and retaining YJG-W17 page-0057 plus YJG-W22 page-0063 as active boundary loci."
+        },
+        {
+            "event_id": "YJG-038",
+            "date": "2026-05-13",
+            "type": "ocr_shared_interior_transcription_batch_completed",
+            "summary": "Continued exact comparison beyond 三身四智體中圓 八解六通心地印 by stabilizing the shared page-0013 continuation through 鏡裏看形見不難 水中捉月爭拈得 from direct image comparison on YJG-W16 and YJG-W17, while keeping YJG-W22 out of forced shared-interior use and retaining YJG-W17 page-0057 plus YJG-W22 page-0063 as active boundary loci."
+        },
+        {
+            "event_id": "YJG-039",
+            "date": "2026-05-13",
+            "type": "ocr_shared_interior_transcription_batch_completed",
+            "summary": "Continued exact comparison beyond 鏡裏看形見不難 水中捉月爭拈得 by stabilizing the shared page-0014 continuation through 自從頓悟了無生 於諸榮辱何憂喜 from direct image comparison on YJG-W16 and YJG-W17, while keeping YJG-W22 out of forced shared-interior use and retaining YJG-W17 page-0057 plus YJG-W22 page-0063 as active boundary loci."
+        },
+        {
+            "event_id": "YJG-040",
+            "date": "2026-05-13",
+            "type": "ocr_shared_interior_transcription_batch_completed",
+            "summary": "Continued exact comparison beyond 自從頓悟了無生 於諸榮辱何憂喜 by stabilizing the shared page-0015 continuation through 爭似無為實相門 一超直入如來地 from direct image comparison on YJG-W16 and YJG-W17, while keeping YJG-W22 out of forced shared-interior use and retaining YJG-W17 page-0057 plus YJG-W22 page-0063 as active boundary loci."
         }
     ]
 }

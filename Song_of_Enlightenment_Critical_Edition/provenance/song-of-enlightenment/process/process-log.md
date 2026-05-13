@@ -734,6 +734,84 @@
 
   - `YJG-W22` `page-0063`
 
+- Continued into the next bounded shared interior tranche from the clean `page-0013` surface in `YJG-W16` and `YJG-W17`.
+
+- Stabilized the next shared continuation after `三身四智體中圓 八解六通心地印`:
+
+  - `高低普應前後無差`
+
+  - `尋枝摘葉我不能也`
+
+  - `摩尼珠人不識 如來藏裏親收得`
+
+  - `六般神用空不空 一顆圓光色非色`
+
+  - `淨五眼 得五力 惟證乃知難可測`
+
+  - `鏡裏看形見不難 水中捉月爭拈得`
+
+- Kept OCR in a support role for that batch because the engine outputs on `page-0013` remained noisy and unstable rather than strong enough to stand alone.
+
+- Relied on the direct witness-image agreement of `YJG-W16 page-0013` and `YJG-W17 page-0013`, while deliberately not forcing `YJG-W22` into the shared-interior comparison because the package did not need to overclaim beyond the clean shared Toyo and Berkeley page.
+
+- Re-kept the closing-boundary watchpoints live during the shared interior continuation:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`
+
+- Continued into the next bounded shared interior tranche from the clean `page-0014` surface in `YJG-W16` and `YJG-W17`.
+
+- Stabilized the next shared continuation after `鏡裏看形見不難 水中捉月爭拈得`:
+
+  - `作麼生 行亦禪 坐亦禪`
+
+  - `語默動靜體安然`
+
+  - `縱遇鋒刀常坦坦 假饒毒藥也閑閑`
+
+  - `我師得見燃燈佛 多劫曾為忍辱仙`
+
+  - `幾回生 幾回死 生死悠悠無定止`
+
+  - `自從頓悟了無生 於諸榮辱何憂喜`
+
+- Kept OCR in a support role for that batch because the engine outputs on `page-0014` remained noisy and unstable rather than strong enough to stand alone.
+
+- Relied on the direct witness-image agreement of `YJG-W16 page-0014` and `YJG-W17 page-0014`, while deliberately not forcing `YJG-W22` into the shared-interior comparison because the package did not need to overclaim beyond the clean shared Toyo and Berkeley page.
+
+- Re-kept the closing-boundary watchpoints live during the shared interior continuation:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`
+
+- Continued into the next bounded shared interior tranche from the clean `page-0015` surface in `YJG-W16` and `YJG-W17`.
+
+- Stabilized the next shared continuation after `自從頓悟了無生 於諸榮辱何憂喜`:
+
+  - `入深山 住蘭若 岑崟幽邃長松下`
+
+  - `優游靜坐野僧家 闃寂安居實瀟灑`
+
+  - `覺即了 不施功 一切有為法不同`
+
+  - `住相布施生天福 猶如仰箭射虛空`
+
+  - `勢力盡 箭還墜 招得來生不如意`
+
+  - `爭似無為實相門 一超直入如來地`
+
+- Kept OCR in a support role for that batch because the engine outputs on `page-0015` remained noisy and unstable rather than strong enough to stand alone.
+
+- Relied on the direct witness-image agreement of `YJG-W16 page-0015` and `YJG-W17 page-0015`, while deliberately not forcing `YJG-W22` into the shared-interior comparison because the package did not need to overclaim beyond the clean shared Toyo and Berkeley page.
+
+- Re-kept the closing-boundary watchpoints live during the shared interior continuation:
+
+  - `YJG-W17` `page-0057`
+
+  - `YJG-W22` `page-0063`
+
 - Continued into the next bounded shared interior tranche from the clean `page-0012` surface in `YJG-W16` and `YJG-W17`.
 
 - Stabilized the next shared continuation after `常獨行 常獨步 達者同遊涅槃路`:
