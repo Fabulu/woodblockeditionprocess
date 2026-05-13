@@ -10,4 +10,5 @@
   - likely independent from both `YJG-W8` and the Japanese anthology cluster
   - direct public PDF path confirmed
   - local source PDF now ingested into the witness folder
-  - held first-tier exact witness, but not part of the current OCR tranche because the active startup OCR tranche is restricted to the image-backed exact set `YJG-W16`, `YJG-W17`, and `YJG-W22`
+  - render-prepared locally as `images/page-0001.jpg` through `images/page-0061.jpg`
+  - held first-tier exact witness, but not part of the original image-backed startup OCR tranche limited to `YJG-W16`, `YJG-W17`, and `YJG-W22`

@@ -274,6 +274,12 @@
             "date": "2026-05-14",
             "type": "copy_text_selected",
             "summary": "Selected YJG-W22 as the package copy-text after active boundary closure because it is the earliest complete independent exact witness already held as a full local image tranche and already active in direct comparison, while keeping its localized limits honest: the early shared-interior surface still was not forced where YJG-W16 and YJG-W17 were cleaner, and page-0063 remains only page-tier-stable at the close."
+        },
+        {
+            "event_id": "YJG-046",
+            "date": "2026-05-14",
+            "type": "pdf_render_preparation_completed",
+            "summary": "Completed render-preparation on the renderable held first-tier PDFs by generating local page-JPG tranches for YJG-W2, YJG-W4C, YJG-W4F, YJG-W4G, YJG-W8, and YJG-W9, while also recording that the held YJG-W21 PDF still exposes no renderable pages under the local renderer and therefore remains blocked inside the same tranche."
         }
     ]
 }

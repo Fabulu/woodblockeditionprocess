@@ -36,7 +36,9 @@ Current state:
 - the shared interior body is now treated as exhausted for the active exact witness set
 - the boundary-focused closing tranche has now been completed for the active exact witness set: `YJG-W17 page-0057` resolved out of the poem span, and `YJG-W22 page-0063` fixed as the final poem page at page tier
 - copy-text is now selected as `YJG-W22`
-- the next bounded slice is render-preparation on the held PDF-backed first-tier exact witnesses
+- the deferred first-tier PDF tranche is now render-prepared locally for `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9`
+- `YJG-W21` remains blocked inside render-preparation because the held PDF exposes no renderable pages locally
+- the next bounded slice is exact-witness re-entry on the newly render-prepared first-tier subset
 - translation not yet started
 
 Use these for resumability:

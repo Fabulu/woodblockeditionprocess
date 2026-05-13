@@ -6,11 +6,11 @@
         "edition_type": "critical_edition",
         "scope_mode": "poem_first"
     },
-    "current_phase": "copy-text-selection-completed-render-preparation-queued",
-    "current_slice": "copy_text_selection_completed_at_active_image_backed_exact_core",
-    "last_completed_slice": "copy_text_selection_after_active_boundary_closure",
-    "next_required_action": "Preserve the copy-text result honestly: YJG-W22 is now selected as the package copy-text because it is the earliest complete independent image-backed exact witness already active in direct comparison. The next bounded local work is render-preparation on the held PDF-backed first-tier exact witnesses YJG-W2, YJG-W4C, YJG-W4F, YJG-W4G, YJG-W8, YJG-W9, and YJG-W21, while keeping YJG-A10 and YJG-A11 as second-tier controls outside that tranche and keeping YJG-W12 blocked honestly.",
-    "next_required_slice": "pdf_first_tier_render_preparation_after_copy_text_selection",
+    "current_phase": "pdf-render-preparation-completed-with-w21-source-blocked",
+    "current_slice": "pdf_first_tier_render_preparation_completed_for_renderable_held_exact_set",
+    "last_completed_slice": "pdf_first_tier_render_preparation_after_copy_text_selection",
+    "next_required_action": "Preserve the completed render-preparation result honestly: YJG-W2, YJG-W4C, YJG-W4F, YJG-W4G, YJG-W8, and YJG-W9 now have full local page-JPG tranches, while YJG-W21 remains blocked inside this slice because the held PDF opens as a PDF but exposes no renderable pages in the local renderer. The next bounded local work is exact-witness re-entry on the newly render-prepared first-tier subset, while keeping YJG-A10 and YJG-A11 as second-tier controls and keeping YJG-W12 blocked honestly.",
+    "next_required_slice": "exact_witness_reentry_on_render_prepared_first_tier_subset",
     "last_text_changed_event": "YJG-045",
     "base_witness": {
         "status": "selected",

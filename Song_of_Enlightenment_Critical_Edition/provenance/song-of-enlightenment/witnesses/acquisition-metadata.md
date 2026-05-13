@@ -464,3 +464,39 @@
     - `https://commons.wikimedia.org/wiki/File:CNTS-00047967985_%E6%B0%B8%E5%98%89%E7%9C%9E%E8%A6%BA%E7%A6%AA%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C.pdf`
   - role:
     - newly held first-tier Korean exact witness filling the chronological family gap between `1474` and `1647`
+
+## 2026-05-14 PDF render-preparation tranche
+
+### Render-prepared first-tier exact witnesses
+
+- `YJG-W2`
+  - local render result:
+    - `54` page JPGs under `YJG-W2-ndl-1694-standalone/images/`
+
+- `YJG-W4C`
+  - local render result:
+    - `23` page JPGs under `YJG-W4C-wzlib-433459/images/`
+
+- `YJG-W4F`
+  - local render result:
+    - `52` page JPGs under `YJG-W4F-wzlib-433359/images/`
+
+- `YJG-W4G`
+  - local render result:
+    - `67` page JPGs under `YJG-W4G-wzlib-433439/images/`
+
+- `YJG-W8`
+  - local render result:
+    - `61` page JPGs under `YJG-W8-korcis-1474-samhwasa/images/`
+
+- `YJG-W9`
+  - local render result:
+    - `61` page JPGs under `YJG-W9-korcis-1647-standalone/images/`
+
+### Render blocker inside the same tranche
+
+- `YJG-W21`
+  - local render result:
+    - blocked
+  - reason:
+    - the held local PDF opens as PDF `1.4` but exposes `0` renderable pages under the local `PyMuPDF` renderer

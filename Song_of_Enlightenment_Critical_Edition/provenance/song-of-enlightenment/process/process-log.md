@@ -744,6 +744,12 @@
 
 - The consequence is a phase change, not a false completion claim: the next bounded local work is render-preparation on the already held PDF-backed first-tier exact witnesses `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, `YJG-W9`, and `YJG-W21`, with `YJG-A10` and `YJG-A11` kept outside that tranche and `YJG-W12` still blocked honestly.
 
+- That render-preparation tranche has now actually been executed instead of merely queued. Local `images/page-####.jpg` outputs now exist for `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) at `300` DPI under a package-local runner.
+
+- The tranche also surfaced one honest local blocker rather than a fake success. `YJG-W21` remains held, but its current local PDF opens as PDF `1.4` while exposing `0` renderable pages to the local renderer, so the package must keep that witness blocked inside render-preparation until a workable local source is available.
+
+- The next bounded local work is therefore no longer render-preparation. It is exact-witness re-entry on the newly render-prepared first-tier subset, while preserving the copy-text lock on `YJG-W22` and keeping `YJG-W12` and `YJG-W21` blocked honestly for different reasons.
+
 - Re-opened only the active closing-boundary loci after the shared interior body was explicitly closed:
 
   - `YJG-W17` `page-0057`

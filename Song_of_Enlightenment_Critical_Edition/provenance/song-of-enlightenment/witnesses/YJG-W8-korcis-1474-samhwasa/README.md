@@ -11,3 +11,5 @@
   - direct scan ingested into this package
 - Local file:
   - `source/YJG-W8-korcis-1474-samhwasa.pdf`
+- Local images:
+  - `images/page-0001.jpg` through `images/page-0061.jpg`

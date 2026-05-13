@@ -6,17 +6,17 @@
 
 - Date: `2026-05-14`
 
-- Phase: `copy-text-selection-completed-render-preparation-queued`
+- Phase: `pdf-render-preparation-completed-with-w21-source-blocked`
 
-- Current slice: `copy_text_selection_completed_at_active_image_backed_exact_core`
+- Current slice: `pdf_first_tier_render_preparation_completed_for_renderable_held_exact_set`
 
-- Last completed slice: `copy_text_selection_after_active_boundary_closure`
+- Last completed slice: `pdf_first_tier_render_preparation_after_copy_text_selection`
 
-- Next required action: preserve the copy-text result honestly: `YJG-W22` is now selected as the package copy-text because it is the earliest complete independent image-backed exact witness already active in direct comparison; the next bounded work is therefore render-preparation on the held PDF-backed first-tier exact witnesses `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, `YJG-W9`, and `YJG-W21`, while keeping `YJG-A10` and `YJG-A11` as second-tier controls outside that tranche and `YJG-W12` blocked honestly
+- Next required action: preserve the completed render-preparation result honestly: `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9` now have full local page-JPG tranches, while `YJG-W21` remains blocked inside this slice because the held PDF opens as a PDF but exposes no renderable pages in the local renderer. The next bounded work is therefore exact-witness re-entry on the newly render-prepared first-tier subset, while keeping `YJG-A10` and `YJG-A11` as second-tier controls and `YJG-W12` blocked honestly
 
-- Copy-text result: `YJG-W22` is now selected as the package copy-text at witness level. This does not erase the fact that its early shared-interior surface was locally interfered and that `page-0063` remains only page-tier-stable at the close; it means instead that the package now prefers the earliest complete independent active exact witness as its base, while continuing to rely on cleaner `YJG-W16` / `YJG-W17` page surfaces where they remain the strongest local comparison aids and leaving the PDF-backed first-tier exact witnesses queued for render preparation rather than pretending they are already comparison-ready
+- Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
 
-- Next required slice: `pdf_first_tier_render_preparation_after_copy_text_selection`
+- Next required slice: `exact_witness_reentry_on_render_prepared_first_tier_subset`
 
 - Copy-text status: selected as `YJG-W22`
 
@@ -157,6 +157,22 @@
   - `YJG-W16` and `YJG-W17` remain essential clean comparison witnesses rather than failed copy-text candidates
 
   - the package is not pretending that the unrendered PDF-backed first-tier exact witnesses have already been brought into the same comparison readiness class
+
+- The deferred PDF-backed first-tier exact witnesses have now been render-prepared locally where the held source files actually permit it:
+
+  - `YJG-W2`: `54` local page JPGs
+
+  - `YJG-W4C`: `23` local page JPGs
+
+  - `YJG-W4F`: `52` local page JPGs
+
+  - `YJG-W4G`: `67` local page JPGs
+
+  - `YJG-W8`: `61` local page JPGs
+
+  - `YJG-W9`: `61` local page JPGs
+
+  - `YJG-W21`: held PDF still blocks render preparation locally because it opens as PDF `1.4` but exposes no renderable pages
 
 - Live baseline output has already begun on `YJG-W22` across all four engines.
 
@@ -705,11 +721,11 @@
 
 
 
-1. Preserve the copy-text lock honestly: `YJG-W22` is the selected copy-text, while `YJG-W16` and `YJG-W17` remain active clean comparison witnesses and `YJG-W22 page-0063` remains only page-tier-stable at the close.
+1. Preserve the copy-text lock honestly: `YJG-W22` remains the selected copy-text, while `YJG-W16` and `YJG-W17` remain active clean comparison witnesses and `YJG-W22 page-0063` remains only page-tier-stable at the close.
 
-2. Open the next bounded slice as render-preparation on the held PDF-backed first-tier exact witnesses rather than reopening boundary-focused closing or the already exhausted shared-interior tranche.
+2. Re-enter exact-witness work on the newly render-prepared first-tier subset `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9` rather than pretending the package is still waiting on render preparation.
 
-3. Keep that render-preparation tranche limited to already held first-tier exact witnesses `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, `YJG-W9`, and `YJG-W21`.
+3. Keep `YJG-W21` explicitly blocked inside the former render tranche until a genuinely renderable or repaired local source can be produced, and do not let that one malformed PDF erase the progress on the six witnesses already opened successfully.
 
 4. Keep `YJG-W12` blocked honestly and do not reopen witness hunt merely to avoid the phase change.
 

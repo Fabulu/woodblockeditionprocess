@@ -11,6 +11,7 @@
   - `https://commons.wikimedia.org/wiki/File:CNTS-00047967985_%E6%B0%B8%E5%98%89%E7%9C%9E%E8%A6%BA%E7%A6%AA%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C.pdf`
 - Current status:
   - held first-tier exact witness
+  - local render preparation currently blocked because the held PDF exposes no renderable pages under the local renderer
 - Local file:
   - `source/YJG-W21-korcis-1576-seobongsa.pdf`
 - Notes:

@@ -5,9 +5,11 @@
 - Role: `exact standalone witness candidate`
 - Title: `WZLib-DB-433459 永嘉真覺大師證道歌一卷.pdf`
 - Source family: Commons category `永嘉真覺大師證道歌`
-- Current status: direct scan ingested into this package
+- Current status: direct scan ingested into this package and render-prepared as local page JPGs
 - Local file:
   - `source/YJG-W4C-wzlib-433459.pdf`
+- Local images:
+  - `images/page-0001.jpg` through `images/page-0023.jpg`
 - Notes:
   - shortest of the currently surfaced exact-file candidates
   - page count in category listing: `23`

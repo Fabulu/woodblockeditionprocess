@@ -128,3 +128,9 @@
 - The package is staying honest about what that does and does not mean. The early shared-interior surface in `YJG-W22` was still not forced where `YJG-W16` and `YJG-W17` were cleaner, and the closing page `page-0063` is still only fixed at page tier.
 
 - So the next real queue item is straightforward: prepare the already held PDF-backed first-tier exact witnesses for direct use, while keeping `YJG-W12` blocked and leaving the derivative anthology controls out of that first-tier render tranche.
+
+- That preparation step has now been done for the renderable files rather than postponed again. `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9` now have local page-image tranches and can re-enter direct witness work as actual image surfaces.
+
+- One witness did not cooperate, and the package is recording that bluntly instead of smoothing it over. The held `YJG-W21` PDF opens as a PDF but yields no renderable pages under the local renderer, so it stays blocked inside this slice until a better local source can be produced.
+
+- That means the package has reached the next honest handoff: renewed exact-witness work on the six newly render-prepared first-tier witnesses, not more render-preparation theater.
