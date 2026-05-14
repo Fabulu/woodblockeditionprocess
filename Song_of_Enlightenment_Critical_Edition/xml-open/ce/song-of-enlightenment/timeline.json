@@ -304,6 +304,12 @@
             "date": "2026-05-14",
             "type": "render_prepared_commentary_pair_spans_checked",
             "summary": "Completed the remaining commentary-bearing render-pair span tightening by fixing YJG-W2 and YJG-W4F as opening on mixed page-0005 and closing on mixed page-0048, with page-0049 and later leaves in both witnesses shifting into paratextual, dated, prose, calligraphic, or colophon matter rather than continuing the main poem-bearing section; this exhausts the boundary-focused re-entry tranche on the renderable held first-tier PDFs."
+        },
+        {
+            "event_id": "YJG-051",
+            "date": "2026-05-14",
+            "type": "apparatus_opening_started",
+            "summary": "Opened the first package-local apparatus/consolidation surface after exact-comparison stabilization and render-prepared span closure, recording the stable witness-span basis, the copy-text and clean-comparison posture, the mixed opening and closing geometry watchlist, and the current rule that commentary-bearing render-prepared witnesses remain span controls until a later tighter pass justifies fuller apparatus use."
         }
     ]
 }

@@ -792,6 +792,20 @@
 
 - The next honest local phase is therefore no longer render-prepared span tightening. It is poem-first editorial consolidation or apparatus-opening from the now stabilized body and witness-span evidence, with `YJG-W21` and `YJG-W12` still blocked for separate reasons and `YJG-A10` / `YJG-A11` still held back as second-tier controls.
 
+- Opened the first package-local apparatus/consolidation surface rather than leaving the phase transition implicit:
+
+  - `provenance/song-of-enlightenment/process/apparatus-opening.md`
+
+- Fixed what that opening does and does not authorize:
+
+  - the first selective apparatus pass can now start from the already stabilized shared loci and the now-complete render-prepared witness spans
+
+  - mixed opening loci in `YJG-W16`, `YJG-W17`, and `YJG-W22`, plus the page-tier-only closing watchpoint at `YJG-W22 page-0063`, remain the first apparatus-sensitive geometry zones
+
+  - `YJG-W2` and `YJG-W4F` remain commentary-bearing span controls rather than forced line-by-line apparatus surfaces
+
+  - `YJG-A10`, `YJG-A11`, `YJG-W21`, and `YJG-W12` remain deferred for the reasons already recorded elsewhere
+
 - Re-entered exact-witness work on the newly render-prepared first-tier subset by checking opening boundaries directly on the new local page tranches instead of treating render preparation as the endpoint.
 
 - Fixed the first poem-bearing pages on that subset:

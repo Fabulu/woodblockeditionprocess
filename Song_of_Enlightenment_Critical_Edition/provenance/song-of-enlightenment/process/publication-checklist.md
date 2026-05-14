@@ -78,9 +78,10 @@
 
 - [ ] translation sync started
 
+- [x] apparatus opening created
+
 - [ ] apparatus drafted
 
 - [ ] TEI edition built
 
 - [ ] ReadZen handoff prepared
-

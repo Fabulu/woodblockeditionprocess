@@ -43,7 +43,8 @@ Current state:
 - the same closing-boundary tranche now also fixes `YJG-W4C` as closing on mixed `page-0021` before commentary-style or editorial prose on `page-0022+`, and `YJG-W4G` as closing on mixed `page-0058` before post-poem quotation, prose, or colophon matter on `page-0059+`
 - the remaining commentary-bearing pair is now also page-span-stable: `YJG-W2` and `YJG-W4F` both close on mixed `page-0048`, with `page-0049+` shifting into paratextual, dated, prose, calligraphic, or colophon matter rather than continuing the main poem-bearing section
 - the render-prepared first-tier re-entry tranche is now exhausted for the renderable held PDFs
-- the next bounded slice is poem-first editorial consolidation or apparatus-opening from the stabilized body and witness-span evidence
+- a package-local apparatus opening now exists at `provenance/song-of-enlightenment/process/apparatus-opening.md`
+- the next bounded slice is first selective apparatus drafting from the stabilized body and witness-span evidence
 - translation not yet started
 
 Use these for resumability:

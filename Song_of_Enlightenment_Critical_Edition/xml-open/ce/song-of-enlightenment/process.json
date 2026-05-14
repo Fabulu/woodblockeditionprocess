@@ -6,11 +6,11 @@
         "edition_type": "critical_edition",
         "scope_mode": "poem_first"
     },
-    "current_phase": "exact-witness-reentry-render-prepared-first-tier-spans-stabilized",
-    "current_slice": "remaining_commentary_bearing_render_pair_span_tightening_completed",
-    "last_completed_slice": "render_prepared_w4c_w4g_closing_boundary_tightening_completed",
-    "next_required_action": "Preserve the now-exhausted render-prepared first-tier re-entry tranche honestly: YJG-W2 and YJG-W4F now both open on mixed page-0005 and close on mixed page-0048; YJG-W4C opens on mixed page-0001 and closes on mixed page-0021; YJG-W4G opens on mixed page-0005 and closes on mixed page-0058; YJG-W8 and YJG-W9 both open on mixed page-0002 and close on mixed page-0055. The next bounded local work is therefore poem-first editorial consolidation or apparatus-opening from the stabilized body and witness-span evidence, while keeping YJG-A10 and YJG-A11 as second-tier controls, YJG-W21 source-blocked, and YJG-W12 blocked honestly.",
-    "next_required_slice": "poem_first_editorial_consolidation_or_apparatus_opening",
+    "current_phase": "poem-first-editorial-consolidation-opened",
+    "current_slice": "apparatus_opening_started",
+    "last_completed_slice": "remaining_commentary_bearing_render_pair_span_tightening_completed",
+    "next_required_action": "Preserve the opened apparatus posture honestly: the renderable first-tier subset now has stable page spans, the copy-text remains YJG-W22, and a package-local apparatus opening now exists for the first selective drafting pass. The next bounded local work is therefore first selective apparatus drafting on the already stabilized poem body, starting with the mixed opening loci, the YJG-W22 page-0063 closing watchpoint, and any witness-span-sensitive control use from YJG-W2, YJG-W4C, YJG-W4F, YJG-W4G, YJG-W8, and YJG-W9, while keeping YJG-A10 and YJG-A11 as second-tier controls, YJG-W21 source-blocked, and YJG-W12 blocked honestly.",
+    "next_required_slice": "first_selective_apparatus_drafting",
     "last_text_changed_event": "YJG-050",
     "base_witness": {
         "status": "selected",

@@ -154,3 +154,5 @@
 - That remaining commentary-bearing pair has now been tightened at page-span level without faking internal commentary geometry. `YJG-W2` and `YJG-W4F` both still carry the main text through mixed `page-0048`, while `page-0049` and later leaves in each witness break into paratextual, dated, calligraphic, prose, or colophon matter instead of continuing the stabilized main section.
 
 - The practical consequence is another honest phase change. The render-prepared first-tier re-entry tranche is no longer open work: all six renderable held first-tier PDFs now have opening-and-closing page spans, so the next local phase is poem-first editorial consolidation or apparatus-opening, not more boundary chasing inside this subset.
+
+- That next phase has now actually been opened instead of left as a handoff sentence. The package now has a dedicated apparatus-opening surface that records the stable witness-span basis, the copy-text posture around `YJG-W22`, the mixed opening and closing geometry watchlist, and the current rule that commentary-bearing render-prepared witnesses stay span controls until a later tighter pass justifies more.
