@@ -340,6 +340,12 @@
             "date": "2026-05-14",
             "type": "late_receipt_cluster_translation_sync_continuation_completed",
             "summary": "Finished the remaining local translation-sync tranche at the current stabilized frontier by adding first-pass English renderings for the late poem-band-filtered receipt cluster through 我今解此如意珠 信受之者皆相應, after which the productive Song package continuation queue became locally exhausted without reopening finer closing adjudication or blocked witnesses."
+        },
+        {
+            "event_id": "YJG-057",
+            "date": "2026-05-14",
+            "type": "remaining_first_tier_ocr_tranche_completed",
+            "summary": "Completed the remaining render-prepared held first-tier OCR tranche across YJG-W2, YJG-W4C, YJG-W4F, YJG-W4G, YJG-W8, and YJG-W9 inside the package-local runner stack, including a local truncated-JPG repair on YJG-W2 page-0038 and a page-specific Paddle fallback without word boxes on YJG-W4G page-0008 and page-0067 after a reproducible engine KeyError; YJG-W21 was reprobed and remains honestly blocked because the held PDF still opens as PDF 1.4 with 0 renderable pages locally."
         }
     ]
 }

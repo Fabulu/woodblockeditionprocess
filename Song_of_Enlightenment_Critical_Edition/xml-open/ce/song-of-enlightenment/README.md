@@ -2,7 +2,7 @@
 
 Slug: `song-of-enlightenment`
 
-This package is in active OCR-first exact-comparison mode.
+This package is now at a post-OCR consolidation frontier.
 
 Primary work:
 - `永嘉證道歌`
@@ -43,6 +43,9 @@ Current state:
 - the same closing-boundary tranche now also fixes `YJG-W4C` as closing on mixed `page-0021` before commentary-style or editorial prose on `page-0022+`, and `YJG-W4G` as closing on mixed `page-0058` before post-poem quotation, prose, or colophon matter on `page-0059+`
 - the remaining commentary-bearing pair is now also page-span-stable: `YJG-W2` and `YJG-W4F` both close on mixed `page-0048`, with `page-0049+` shifting into paratextual, dated, prose, calligraphic, or colophon matter rather than continuing the main poem-bearing section
 - the render-prepared first-tier re-entry tranche is now exhausted for the renderable held PDFs
+- the remaining render-prepared held first-tier OCR tranche is now complete across all four engines for `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9`
+- `YJG-W21` remains honestly outside that ordinary OCR tranche because the held PDF still opens locally as PDF `1.4` with `0` renderable pages
+- `YJG-W4G` PaddleOCR required a page-specific local fallback without word boxes on `page-0008` and `page-0067` after `return_word_box=True` hit a reproducible engine `KeyError`
 - a package-local apparatus opening now exists at `provenance/song-of-enlightenment/process/apparatus-opening.md`
 - a first selective apparatus draft now exists at `provenance/song-of-enlightenment/process/apparatus-draft.md`
 - ordinary apparatus continuation is now exhausted

@@ -6,15 +6,17 @@
 
 - Date: `2026-05-14`
 
-- Phase: `translation-sync-opened`
+- Phase: `remaining-first-tier-ocr-completed`
 
-- Current slice: `late_receipt_cluster_translation_sync_continuation_completed`
+- Current slice: `remaining_first_tier_ocr_tranche_completed`
 
-- Last completed slice: `main_shared_interior_translation_sync_continuation_completed`
+- Last completed slice: `remaining_first_tier_ocr_tranche_completed`
 
-- Next required action: preserve the package honestly at the now-synchronized frontier. Translation sync now runs through the last stabilized poem locus `我今解此如意珠 信受之者皆相應`, and no further local continuation remains inside the current Song package evidence without reopening finer closing adjudication on `YJG-W22 page-0063`, fresh locus-by-locus apparatus judgment, or blocked witness work on `YJG-W21` / `YJG-W12`
+- Next required action: preserve the package honestly at the newly OCR-complete frontier. The render-prepared held first-tier OCR tranche is now complete for `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9`, while `YJG-W21` remains honestly blocked because the held PDF still opens as PDF `1.4` with `0` renderable pages locally. The next necessary local work is no longer OCR completion but fresh editorial apparatus judgment, inter-edition comparison, or another post-OCR consolidation phase
 
 - Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
+
+- Remaining first-tier OCR completion result: package-local four-engine OCR baselines are now complete across the full render-prepared held tranche for `YJG-W2` (`54/54` pages per engine), `YJG-W4C` (`23/23`), `YJG-W4F` (`52/52`), `YJG-W4G` (`67/67`), `YJG-W8` (`61/61`), and `YJG-W9` (`61/61`). Honest zero-text results remain on some weaker RapidOCR and EasyOCR surfaces, `YJG-W2 page-0038` required a local truncated-JPEG tolerance repair before the remaining engines could complete, and `YJG-W4G PaddleOCR` required a page-specific local fallback without word boxes on `page-0008` and `page-0067` after `return_word_box=True` hit a reproducible engine `KeyError` on those two leaves
 
 - Opening-boundary re-entry result: direct image review on the newly render-prepared first-tier subset now fixes the first poem-bearing pages at `YJG-W2 page-0005`, `YJG-W4C page-0001`, `YJG-W4F page-0005`, `YJG-W4G page-0005`, `YJG-W8 page-0002`, and `YJG-W9 page-0002`. The tranche also exposed an important packaging split: `YJG-W2` and `YJG-W4F` do not behave like bare poem-only booklets but like commentary-bearing or prose-surrounded manifestations, while `YJG-W4C` begins immediately in a short or differently packaged tranche
 
@@ -36,7 +38,7 @@
 
 - Late receipt translation continuation result: the translation surfaces now also carry first-pass English renderings for the poem-band-filtered late receipt cluster from `師子吼 無畏說` through `我今解此如意珠 信受之者皆相應`
 
-- Next required slice: `productive_local_queue_exhausted_after_translation_frontier_sync`
+- Next required slice: `fresh_editorial_apparatus_judgment_or_inter_edition_comparison`
 
 - Copy-text status: selected as `YJG-W22`
 
