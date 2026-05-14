@@ -342,3 +342,9 @@
 
 - Reason: ordinary apparatus continuation is exhausted, and the package already has an accepted Chinese text basis for these loci. Translation is the next honest local phase because it can now proceed from the stabilized poem text without forcing new witness adjudication or reopening blocked witnesses.
 
+## D-040 `2026-05-14`
+
+- Decision: continue the same translation-sync phase immediately through the main clean shared interior run, ending at `無量法門咸在目前 咫尺匪遙蹔時岐隔`.
+
+- Reason: after the first translation tranche, the next required slice remained a normal local continuation on already stabilized loci. The clean shared interior run is the largest adjacent same-class batch still supported by the current evidence without requiring new apparatus selection or blocked-witness reopening.
+

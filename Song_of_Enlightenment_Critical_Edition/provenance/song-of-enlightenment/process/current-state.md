@@ -8,11 +8,11 @@
 
 - Phase: `translation-sync-opened`
 
-- Current slice: `first_translation_sync_tranche_completed`
+- Current slice: `main_shared_interior_translation_sync_continuation_completed`
 
-- Last completed slice: `ordinary_selective_apparatus_continuation_completed`
+- Last completed slice: `first_translation_sync_tranche_completed`
 
-- Next required action: continue translation sync across the already stabilized poem body. The opening plus the first clean interior continuation through `決定說 表真僧 有人不肯任情徵` now carry first-pass English renderings in the package logs, while the larger clean shared interior run, the late poem-band-filtered receipt cluster, and the copy-text closing watchpoint still need synchronized English continuation. `YJG-A10` and `YJG-A11` remain second-tier controls and `YJG-W21` / `YJG-W12` remain blocked honestly
+- Next required action: continue translation sync across the remaining stabilized poem body. The package now carries first-pass English renderings from the opening through the main clean shared interior run ending at `無量法門咸在目前 咫尺匪遙蹔時岐隔`; the late poem-band-filtered receipt cluster through `我今解此如意珠 信受之者皆相應` and the copy-text closing watchpoint still need synchronized English continuation. `YJG-A10` and `YJG-A11` remain second-tier controls and `YJG-W21` / `YJG-W12` remain blocked honestly
 
 - Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
 
@@ -32,7 +32,9 @@
 
 - Translation opening result: the package has now left the exhausted ordinary-apparatus gate and opened live translation sync in the existing translation surfaces. English renderings are now present for the stabilized opening, the first clean early-interior continuation, and the adjacent clean interior continuation through `決定說 表真僧 有人不肯任情徵`
 
-- Next required slice: `main_shared_interior_translation_sync_continuation`
+- Main clean translation continuation result: the translation surfaces now also carry first-pass English renderings for the main clean shared interior run from `我心自空罪福無主 觀善惡如空華` through `無量法門咸在目前 咫尺匪遙蹔時岐隔`, with the denser doctrinal choices logged in `translation-reasoning-log.md`
+
+- Next required slice: `late_receipt_cluster_translation_sync_continuation`
 
 - Copy-text status: selected as `YJG-W22`
 

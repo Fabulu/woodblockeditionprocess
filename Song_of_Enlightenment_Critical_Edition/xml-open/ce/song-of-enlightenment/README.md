@@ -46,7 +46,7 @@ Current state:
 - a package-local apparatus opening now exists at `provenance/song-of-enlightenment/process/apparatus-opening.md`
 - a first selective apparatus draft now exists at `provenance/song-of-enlightenment/process/apparatus-draft.md`
 - ordinary apparatus continuation is now exhausted
-- translation sync is now opened through the stabilized opening and first clean interior continuation, ending at `決定說 表真僧 有人不肯任情徵`
+- translation sync is now opened through the stabilized main clean shared interior run, ending at `無量法門咸在目前 咫尺匪遙蹔時岐隔`
 
 Use these for resumability:
 

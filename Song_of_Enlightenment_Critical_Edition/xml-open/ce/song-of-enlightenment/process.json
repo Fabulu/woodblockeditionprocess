@@ -7,11 +7,11 @@
         "scope_mode": "poem_first"
     },
     "current_phase": "translation-sync-opened",
-    "current_slice": "first_translation_sync_tranche_completed",
-    "last_completed_slice": "ordinary_selective_apparatus_continuation_completed",
-    "next_required_action": "Continue translation sync across the already stabilized poem body. The opening plus the first clean interior continuation through 決定說 表真僧 有人不肯任情徵 now carry first-pass English renderings in the package logs, while the larger clean shared interior run, the late poem-band-filtered receipt cluster, and the copy-text closing watchpoint still need synchronized English continuation. YJG-A10 and YJG-A11 remain second-tier controls and YJG-W21 / YJG-W12 remain blocked honestly.",
-    "next_required_slice": "main_shared_interior_translation_sync_continuation",
-    "last_text_changed_event": "YJG-054",
+    "current_slice": "main_shared_interior_translation_sync_continuation_completed",
+    "last_completed_slice": "first_translation_sync_tranche_completed",
+    "next_required_action": "Continue translation sync across the remaining stabilized poem body. The package now carries first-pass English renderings from the opening through the main clean shared interior run ending at 無量法門咸在目前 咫尺匪遙蹔時岐隔; the late poem-band-filtered receipt cluster through 我今解此如意珠 信受之者皆相應 and the copy-text closing watchpoint still need synchronized English continuation. YJG-A10 and YJG-A11 remain second-tier controls and YJG-W21 / YJG-W12 remain blocked honestly.",
+    "next_required_slice": "late_receipt_cluster_translation_sync_continuation",
+    "last_text_changed_event": "YJG-055",
     "base_witness": {
         "status": "selected",
         "witness_id": "YJG-W22",

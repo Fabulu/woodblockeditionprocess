@@ -328,6 +328,12 @@
             "date": "2026-05-14",
             "type": "translation_sync_opened",
             "summary": "Opened live translation sync after the ordinary apparatus tranche was exhausted, and completed a first bounded English tranche from the stabilized opening through 決定說 表真僧 有人不肯任情徵 in the existing translation-diff and translation-reasoning logs without reopening witness comparison or forcing blocked controls."
+        },
+        {
+            "event_id": "YJG-055",
+            "date": "2026-05-14",
+            "type": "main_shared_interior_translation_sync_continuation_completed",
+            "summary": "Continued the same translation-sync phase across the main clean shared interior run, adding first-pass English renderings from 我心自空罪福無主 觀善惡如空華 through 無量法門咸在目前 咫尺匪遙蹔時岐隔 and recording the denser doctrinal choices in the translation-reasoning log without reopening apparatus-level witness adjudication."
         }
     ]
 }
