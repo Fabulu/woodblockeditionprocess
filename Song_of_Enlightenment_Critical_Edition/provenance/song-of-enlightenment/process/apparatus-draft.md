@@ -44,9 +44,92 @@
 - Note:
   `YJG-W22` remains the copy-text, and its final poem-bearing page is fixed at `page-0063` before the explicit afterword on `page-0064`. This is a real apparatus-sensitive watchpoint: the page boundary is stable, but the internal line-tier geometry on `page-0063` remains provisional and should not be over-claimed until a later tighter pass.
 
+## Entry 4: early clean interior continuation without forced NIJL use
+
+- Locus basis:
+  - `early-interior-shared-d`
+  - `early-interior-shared-e`
+  - `early-interior-shared-f`
+  - `adjacent-interior-shared-g`
+  - `adjacent-interior-shared-h`
+  - `adjacent-interior-shared-i`
+  - `adjacent-interior-shared-j`
+  - `adjacent-interior-shared-k`
+- Clean exact basis:
+  - `YJG-W16 page-0009`
+  - `YJG-W16 page-0010`
+  - `YJG-W17 page-0009`
+  - `YJG-W17 page-0010`
+- Note:
+  The first interior continuation after the corrected opening was stabilized from direct image agreement on the clean Toyo and Berkeley pages, not from the copy-text interior surface alone. `YJG-W22` remained an honest witness-level control at the corrected opening and closing boundary, but its immediate early-interior surface was not forced into this apparatus class because the locally held image remains visually interfered by an inserted manuscript leaf. This batch therefore records an evidence-class fact rather than a claimed interior variant split: the accepted poem text through `決定說 表真僧 有人不肯任情徵` rests on clean shared exact comparison in `YJG-W16` and `YJG-W17`.
+
+## Entry 5: main clean shared interior run
+
+- Locus basis:
+  - `shared-interior-shared-l`
+  - `shared-interior-shared-m`
+  - `shared-interior-shared-n`
+  - `shared-interior-shared-o`
+  - `shared-interior-shared-p`
+  - `shared-interior-shared-q`
+  - `shared-interior-shared-r`
+  - `shared-interior-shared-s`
+  - `shared-interior-shared-t`
+  - `shared-interior-shared-u`
+  - `shared-interior-shared-v`
+  - `shared-interior-shared-w`
+  - `shared-interior-shared-x`
+  - `shared-interior-shared-y`
+  - `shared-interior-shared-z`
+  - `shared-interior-shared-aa`
+  - `shared-interior-shared-ab`
+  - `shared-interior-shared-ac`
+  - `shared-interior-shared-ad`
+  - `shared-interior-shared-ae`
+  - `shared-interior-shared-af`
+  - `shared-interior-shared-ag`
+  - `shared-interior-shared-ah`
+  - `shared-interior-shared-ai`
+  - `shared-interior-shared-aj`
+  - `shared-interior-shared-ak`
+  - `shared-interior-shared-al`
+  - `shared-interior-shared-am`
+  - `shared-interior-shared-an`
+  - `shared-interior-shared-ao`
+  - `shared-interior-shared-ap`
+  - `shared-interior-shared-aq`
+  - `shared-interior-shared-ar`
+  - `shared-interior-shared-as`
+  - `shared-interior-shared-at`
+- Clean exact basis:
+  - `YJG-W16 page-0011` through `page-0017`
+  - `YJG-W17 page-0011` through `page-0017`
+- Note:
+  The main shared interior run from `我心自空罪福無主 觀善惡如空華` through `無量法門咸在目前 咫尺匪遙蹔時岐隔` is presently a clean direct-image exact-comparison zone. Across this tranche, `YJG-W16` and `YJG-W17` provided the stable reading order and OCR stayed in a support role only. The apparatus consequence is restrained: this tranche can be cited as a clean shared exact basis for the adopted poem text, but it does not yet justify finer copy-text-against-comparator variant extraction from `YJG-W22`, nor any forced deployment of commentary-bearing render-prepared controls.
+
+## Entry 6: poem-band-filtered late receipt cluster and stop point
+
+- Locus basis:
+  - `shared-interior-shared-au`
+  - `shared-interior-shared-av`
+  - `shared-interior-shared-aw`
+  - `shared-interior-shared-ax`
+  - `shared-interior-shared-ay`
+- Late shared basis:
+  - `YJG-W16 page-0018`
+  - `YJG-W17 page-0018`
+  - `YJG-W17 page-0019`
+  - `YJG-W17 page-0020`
+- Stop-point controls:
+  - `YJG-W16 page-0019`
+  - `YJG-W17 page-0021`
+- Note:
+  The late receipt cluster from `師子吼 無畏說` through `我今解此如意珠 信受之者皆相應` required a tighter evidence posture than the earlier clean interior run. It became stable only after restricting OCR support to the registered `poem-band`, and the package therefore keeps this tranche at poem level rather than promoting it to character-tier certainty. The same bounded review also fixed the honest stop point: the next left-frame surfaces at `YJG-W16 page-0019` and `YJG-W17 page-0021` break into commentary-style prose and back-reference material rather than one more stable adjacent poem continuation.
+
 ## Current limits
 
 - This draft does not yet attempt full variant collation.
 - Commentary-bearing render-prepared witnesses remain span controls first.
 - Second-tier controls `YJG-A10` and `YJG-A11` remain deferred.
 - `YJG-W21` and `YJG-W12` remain blocked.
+- Further interior apparatus beyond these grouped entries would now require fresh locus-by-locus editorial judgment rather than ordinary continuation.

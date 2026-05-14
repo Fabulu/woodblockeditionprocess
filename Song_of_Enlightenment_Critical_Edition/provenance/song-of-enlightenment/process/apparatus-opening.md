@@ -4,7 +4,7 @@
 
 - Date opened: `2026-05-14`
 - Phase posture: first selective apparatus opening after exact-comparison stabilization and render-prepared span closure
-- Draft status: opening only; no full apparatus drafted yet
+- Draft status: opening refined after the initial boundary-sensitive draft and one bounded ordinary continuation tranche
 
 ## Editorial basis now stable enough to support apparatus work
 
@@ -18,6 +18,10 @@
   - `YJG-W8`: `page-0002` to `page-0055`
   - `YJG-W9`: `page-0002` to `page-0055`
 - The stabilized poem body already reaches the closing cluster through `我今解此如意珠 信受之者皆相應` in the existing transcription and translation-diff surfaces.
+- The already stabilized interior body also now falls into three usable apparatus evidence classes without forcing fresh character-tier adjudication:
+  - clean direct-image shared interiors on `YJG-W16` and `YJG-W17` from `page-0009` through `page-0017`
+  - a later poem-band-filtered shared continuation through `shared-interior-shared-ay`
+  - copy-text-only or boundary-only control use in `YJG-W22`
 
 ## Immediate apparatus-opening watchlist
 
@@ -34,6 +38,11 @@
    and align them against:
    `provenance/song-of-enlightenment/process/poem-line-map.md`
    plus the witness-span facts above.
+5. Ordinary continuation remains allowed only where several adjacent loci can be bundled by one stable evidence class:
+   clean shared Toyo/Berkeley image agreement,
+   later poem-band-filtered shared continuation,
+   or witness-class / boundary-class control use.
+   Anything finer now would exceed ordinary continuation and require fresh editorial judgment.
 
 ## Deferred until a later apparatus pass
 
@@ -41,3 +50,4 @@
 - Full line extraction from commentary-bearing render-prepared witnesses.
 - Second-tier control deployment from `YJG-A10` and `YJG-A11`.
 - Any work on `YJG-W21` or `YJG-W12`, which remain blocked for separate reasons.
+- Fresh locus-by-locus interior variant selection beyond the grouped evidence classes already recorded in the draft.

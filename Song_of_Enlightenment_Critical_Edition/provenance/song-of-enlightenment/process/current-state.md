@@ -8,11 +8,11 @@
 
 - Phase: `poem-first-editorial-consolidation-opened`
 
-- Current slice: `first_selective_apparatus_drafting_completed`
+- Current slice: `ordinary_selective_apparatus_continuation_completed`
 
-- Last completed slice: `apparatus_opening_started`
+- Last completed slice: `first_selective_apparatus_drafting_completed`
 
-- Next required action: preserve the initial selective apparatus draft honestly: the package now has explicit apparatus notes for the mixed opening boundary, the final stabilized closing cluster, and the copy-text closing watchpoint at `YJG-W22 page-0063`, all grounded in the stabilized witness-span posture. The next bounded local work would be broader apparatus expansion or eventual translation-sync opening, but those steps now require fresh locus-by-locus editorial selection rather than ordinary phase carry-forward, while `YJG-A10` and `YJG-A11` remain second-tier controls and `YJG-W21` / `YJG-W12` remain blocked honestly
+- Next required action: preserve the expanded selective apparatus honestly: the package now has grouped poem-level apparatus notes for the mixed opening boundary, the early clean interior continuation, the main clean shared interior run, the poem-band-filtered late receipt cluster and stop point, the final stabilized closing cluster, and the copy-text closing watchpoint at `YJG-W22 page-0063`. Any further apparatus beyond those grouped evidence classes would now require fresh locus-by-locus editorial judgment or a different phase such as translation opening, while `YJG-A10` and `YJG-A11` remain second-tier controls and `YJG-W21` / `YJG-W12` remain blocked honestly
 
 - Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
 
@@ -28,7 +28,9 @@
 
 - Apparatus draft result: the package now also has a first selective apparatus draft at `provenance/song-of-enlightenment/process/apparatus-draft.md` covering the mixed opening boundary, the final stabilized closing cluster, and the copy-text closing watchpoint
 
-- Next required slice: `broader_apparatus_expansion_or_translation_sync_opening`
+- Apparatus continuation result: the draft now also carries one bounded ordinary continuation tranche covering the early clean interior continuation through `決定說 表真僧 有人不肯任情徵`, the main clean shared interior run through `無量法門咸在目前 咫尺匪遙蹔時岐隔`, and the later poem-band-filtered receipt cluster through `我今解此如意珠 信受之者皆相應`, together with the honest stop point where the next left-frame surfaces break into commentary-style prose rather than one more stable poem continuation
+
+- Next required slice: `fresh_editorial_judgment_gate_before_further_apparatus_or_translation_opening`
 
 - Copy-text status: selected as `YJG-W22`
 
@@ -753,15 +755,15 @@
 
 
 
-1. Preserve the copy-text lock honestly: `YJG-W22` remains the selected copy-text, while `YJG-W16` and `YJG-W17` remain active clean comparison witnesses and `YJG-W22 page-0063` remains only page-tier-stable at the close.
+1. Preserve the copy-text lock honestly: `YJG-W22` remains the selected copy-text, while `YJG-W16` and `YJG-W17` remain the cleanest local comparison witnesses for much of the stabilized shared interior and `YJG-W22 page-0063` remains only page-tier-stable at the close.
 
-2. Carry the remaining render-prepared witnesses `YJG-W2`, `YJG-W4C`, `YJG-W4F`, and `YJG-W4G` from opening-boundary re-entry into closing/span tightening, especially where `YJG-W2` and `YJG-W4F` now clearly behave as commentary-bearing or prose-surrounded manifestations rather than simple poem-only codices.
+2. Preserve the expanded selective apparatus as a grouped poem-level draft rather than over-promoting it into fresh fine-grained variant adjudication.
 
-3. Keep `YJG-W21` explicitly blocked inside the former render tranche until a genuinely renderable or repaired local source can be produced, and do not let that one malformed PDF erase the progress on the six witnesses already opened successfully.
+3. Treat any further apparatus beyond the grouped opening, interior, late receipt, and closing entries as a fresh editorial judgment gate rather than routine continuation.
 
-4. Keep `YJG-W12` blocked honestly and do not reopen witness hunt merely to avoid the phase change.
+4. Keep `YJG-W21` and `YJG-W12` blocked honestly for their separate source-access reasons.
 
-5. Preserve the ranked witness-family posture and the exact/control distinction for later editorial adjudication, including `YJG-A10` and `YJG-A11` as second-tier controls outside the first-tier render tranche.
+5. Preserve the ranked witness-family posture and the exact/control distinction for later editorial adjudication, including `YJG-A10` and `YJG-A11` as second-tier controls outside the active apparatus tranche.
 
 
 

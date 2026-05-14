@@ -158,3 +158,9 @@
 - That next phase has now actually been opened instead of left as a handoff sentence. The package now has a dedicated apparatus-opening surface that records the stable witness-span basis, the copy-text posture around `YJG-W22`, the mixed opening and closing geometry watchlist, and the current rule that commentary-bearing render-prepared witnesses stay span controls until a later tighter pass justifies more.
 
 - The first selective apparatus pass has now also been drafted in a bounded way rather than postponed behind a demand for full collation. The draft currently records three note classes only: the mixed opening boundary, the final stabilized closing cluster, and the copy-text closing watchpoint at `YJG-W22 page-0063`.
+
+- The package has now tested whether any honest ordinary apparatus continuation still remained after that first draft. One more tranche did remain, but only if it stayed grouped and poem-level.
+
+- That continuation has now been completed in a restrained way. The draft now records the early clean interior continuation, the main clean shared interior run, and the later poem-band-filtered receipt cluster without pretending that the package has already done fresh character-tier adjudication or full variant collation.
+
+- The important consequence is a clearer stop condition. Further apparatus work is no longer a routine carry-forward from the present state; it now needs fresh editorial judgment or an actual phase change.

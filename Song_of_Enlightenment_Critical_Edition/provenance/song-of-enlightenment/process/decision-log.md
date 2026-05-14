@@ -328,3 +328,11 @@
 - Decision: close the active boundary-focused tranche by removing `YJG-W17 page-0057` from the poem span and fixing `YJG-W22 page-0063` as the final poem page at page tier, then hand the package forward to copy-text selection rather than reopening boundary work.
 
 - Reason: direct witness-image recheck shows that Berkeley `page-0057` is a dated terminal note beginning `庚辰秋仲住蔣山...` rather than a surviving poem leaf, while NIJL `page-0063` remains the last poem-bearing page before the explicit afterword on `page-0064`. No further honest progress remains in this exact boundary slice without changing phase.
+
+
+## D-038 `2026-05-14`
+
+- Decision: allow one more selective apparatus continuation tranche, but only as grouped poem-level entries built from already stabilized evidence classes rather than as fresh locus-by-locus variant adjudication.
+
+- Reason: the existing stabilized surfaces still support one ordinary continuation pass across the clean early interior, the main shared interior run, and the later poem-band-filtered receipt cluster. Beyond those grouped classes, the next apparatus work would no longer be simple continuation; it would require fresh editorial selection or a different phase such as translation opening.
+

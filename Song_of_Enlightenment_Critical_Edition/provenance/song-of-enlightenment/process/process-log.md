@@ -734,6 +734,7 @@
 
   - `YJG-W22` `page-0063`
 
+
 - Continued the same render-prepared closing-boundary tranche beyond the already stabilized Korean pair rather than fragmenting the work into witness-by-witness micromoves.
 
 - Tightened the short-tranche witness `YJG-W4C` at the poem close:
@@ -825,6 +826,22 @@
   - no forced line extraction from commentary-bearing render-prepared witnesses
 
   - no second-tier control deployment yet
+
+- Re-entered the apparatus phase once more only to test whether any honest ordinary continuation still remained inside the already stabilized evidence surfaces instead of assuming either indefinite expansion or an immediate forced phase change.
+
+- Confirmed one more bounded ordinary continuation tranche is still supportable if it stays grouped by evidence class rather than pretending to perform fresh locus-by-locus variant adjudication.
+
+- Expanded the apparatus draft accordingly in three restrained grouped entries:
+
+  - the early clean interior continuation from `夢裏明明有六趣 覺後空空無大千` through `決定說 表真僧 有人不肯任情徵` on direct `YJG-W16` / `YJG-W17` image agreement without forced NIJL early-interior use
+
+  - the main clean shared interior run from `我心自空罪福無主 觀善惡如空華` through `無量法門咸在目前 咫尺匪遙蹔時岐隔` on clean Toyo/Berkeley shared-page agreement with OCR held to a support role
+
+  - the later poem-band-filtered receipt cluster from `師子吼 無畏說` through `我今解此如意珠 信受之者皆相應`, together with the stop point where the next left-frame surfaces in `YJG-W16 page-0019` and `YJG-W17 page-0021` break into commentary-style prose or back-reference material
+
+- Refined the apparatus-opening surface so it no longer understates the current state. It now records that ordinary continuation is allowed only where adjacent loci can be bundled by one already stable evidence class: clean shared exact image agreement, later poem-band-filtered shared continuation, or witness-class / boundary-class control use.
+
+- Closed the tranche at that point instead of manufacturing further apparatus work. Any next interior apparatus beyond these grouped entries would require fresh editorial judgment rather than ordinary continuation.
 
 - Re-entered exact-witness work on the newly render-prepared first-tier subset by checking opening boundaries directly on the new local page tranches instead of treating render preparation as the endpoint.
 
