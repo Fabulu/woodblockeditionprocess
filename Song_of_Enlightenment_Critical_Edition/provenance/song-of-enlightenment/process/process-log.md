@@ -758,6 +758,40 @@
 
   - only the commentary-bearing pair `YJG-W2` and `YJG-W4F` still require full-span tightening inside this bounded phase
 
+- Completed the remaining commentary-bearing render-pair span tightening without pretending to resolve every internal prose-versus-commentary micro-boundary.
+
+- Tightened `YJG-W2` at the poem-bearing close:
+
+  - mixed `page-0048` still belongs to the main poem-bearing section
+
+  - `page-0049` and later leaves shift into titled prose, dated notes, institutional or codicological matter, and then terminal leaves rather than continuing the main poem-bearing section
+
+  - the honest local result is that `YJG-W2` opens on mixed `page-0005` and closes on mixed `page-0048`
+
+- Tightened `YJG-W4F` at the poem-bearing close:
+
+  - mixed `page-0048` still belongs to the main poem-bearing section
+
+  - `page-0049` and later leaves shift into colophon-like, dated, calligraphic, prose, or other paratextual matter rather than continuing the main poem-bearing section
+
+  - the honest local result is that `YJG-W4F` opens on mixed `page-0005` and closes on mixed `page-0048`
+
+- Exhausted the boundary-focused re-entry tranche on the renderable held first-tier PDFs:
+
+  - `YJG-W2`: `page-0005` to `page-0048`
+
+  - `YJG-W4C`: `page-0001` to `page-0021`
+
+  - `YJG-W4F`: `page-0005` to `page-0048`
+
+  - `YJG-W4G`: `page-0005` to `page-0058`
+
+  - `YJG-W8`: `page-0002` to `page-0055`
+
+  - `YJG-W9`: `page-0002` to `page-0055`
+
+- The next honest local phase is therefore no longer render-prepared span tightening. It is poem-first editorial consolidation or apparatus-opening from the now stabilized body and witness-span evidence, with `YJG-W21` and `YJG-W12` still blocked for separate reasons and `YJG-A10` / `YJG-A11` still held back as second-tier controls.
+
 - Re-entered exact-witness work on the newly render-prepared first-tier subset by checking opening boundaries directly on the new local page tranches instead of treating render preparation as the endpoint.
 
 - Fixed the first poem-bearing pages on that subset:

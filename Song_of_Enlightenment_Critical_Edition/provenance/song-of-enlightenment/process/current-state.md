@@ -6,13 +6,13 @@
 
 - Date: `2026-05-14`
 
-- Phase: `exact-witness-reentry-four-rendered-spans-stabilized`
+- Phase: `exact-witness-reentry-render-prepared-first-tier-spans-stabilized`
 
-- Current slice: `render_prepared_w4c_w4g_closing_boundary_tightening_completed`
+- Current slice: `remaining_commentary_bearing_render_pair_span_tightening_completed`
 
-- Last completed slice: `render_prepared_korean_pair_closing_boundary_tightening_completed`
+- Last completed slice: `render_prepared_w4c_w4g_closing_boundary_tightening_completed`
 
-- Next required action: preserve the narrowed render-prepared subset honestly: `YJG-W4C` now opens on mixed `page-0001` and closes on mixed `page-0021`; `YJG-W4G` opens on mixed `page-0005` and closes on mixed `page-0058`; `YJG-W8` and `YJG-W9` both open on mixed `page-0002` and close on mixed `page-0055`. The remaining bounded work is therefore full-span tightening on the harder commentary-bearing pair `YJG-W2` and `YJG-W4F`, while keeping `YJG-A10` and `YJG-A11` as second-tier controls, `YJG-W21` source-blocked, and `YJG-W12` blocked honestly
+- Next required action: preserve the now-exhausted render-prepared first-tier re-entry result honestly: `YJG-W2` and `YJG-W4F` now both open on mixed `page-0005` and close on mixed `page-0048`; `YJG-W4C` opens on mixed `page-0001` and closes on mixed `page-0021`; `YJG-W4G` opens on mixed `page-0005` and closes on mixed `page-0058`; `YJG-W8` and `YJG-W9` both open on mixed `page-0002` and close on mixed `page-0055`. The boundary-focused re-entry phase on the renderable first-tier subset is therefore honestly exhausted, and the next bounded local work is poem-first editorial consolidation or apparatus-opening from the stabilized body and span evidence, while keeping `YJG-A10` and `YJG-A11` as second-tier controls, `YJG-W21` source-blocked, and `YJG-W12` blocked honestly
 
 - Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
 
@@ -22,7 +22,9 @@
 
 - Wenzhou render-pair closing result: direct re-entry review now also fixes `YJG-W4C` as opening on mixed `page-0001` and closing on mixed `page-0021`, with `page-0022` and later leaves moving into commentary-style or editorial prose; `YJG-W4G` now opens on mixed `page-0005` and closes on mixed `page-0058`, with `page-0059` and later leaves shifting into post-poem quotation, prose, or colophon matter
 
-- Next required slice: `remaining_commentary_bearing_render_pair_span_tightening`
+- Commentary-bearing render-pair closing result: direct re-entry review now also fixes `YJG-W2` and `YJG-W4F` as opening on mixed `page-0005` and closing on mixed `page-0048`. In both witnesses, `page-0049` and later leaves shift out of the main poem-bearing section into paratextual, dated, calligraphic, prose, or colophon matter rather than continuing the stabilized main text
+
+- Next required slice: `poem_first_editorial_consolidation_or_apparatus_opening`
 
 - Copy-text status: selected as `YJG-W22`
 

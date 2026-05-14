@@ -150,3 +150,7 @@
 - The same closing-boundary tranche has now been carried forward onto two more render-prepared witnesses. `YJG-W4C` closes on mixed `page-0021`, with `page-0022` and later leaves shifting into commentary-style or editorial prose; `YJG-W4G` closes on mixed `page-0058`, with `page-0059` and later leaves shifting into post-poem quotation, prose, or colophon matter.
 
 - That leaves only the genuinely harder commentary-bearing pair inside this local phase. `YJG-W2` and `YJG-W4F` still need full-span tightening, while `YJG-A10` and `YJG-A11` remain second-tier controls and `YJG-W21` / `YJG-W12` stay blocked honestly.
+
+- That remaining commentary-bearing pair has now been tightened at page-span level without faking internal commentary geometry. `YJG-W2` and `YJG-W4F` both still carry the main text through mixed `page-0048`, while `page-0049` and later leaves in each witness break into paratextual, dated, calligraphic, prose, or colophon matter instead of continuing the stabilized main section.
+
+- The practical consequence is another honest phase change. The render-prepared first-tier re-entry tranche is no longer open work: all six renderable held first-tier PDFs now have opening-and-closing page spans, so the next local phase is poem-first editorial consolidation or apparatus-opening, not more boundary chasing inside this subset.
