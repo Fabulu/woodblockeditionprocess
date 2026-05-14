@@ -40,6 +40,10 @@ Every critical edition must also maintain the six forensic provenance logs:
 - `translation-reasoning-log.md`
 - `character-provenance-log.md`
 
+Before final completion declaration, every critical edition must also run the inter-critical-edition comparison gate defined in:
+
+- `INTER_CRITICAL_EDITION_COMPARISON_PROTOCOL.md`
+
 ## Authority hierarchy
 
 The system has multiple recording layers, but not all layers answer the same question.
@@ -358,6 +362,48 @@ Register here:
 
 Do not rely on markdown autodiscovery.
 
+### `prior-editions-register.md`
+
+Use for the set of prior completed critical editions checked during the mandatory inter-critical-edition comparison gate.
+
+Record here:
+
+- comparandum slug
+- title
+- completion status
+- date metadata used
+- files consulted
+- whether meaningful overlap was found
+
+### `interedition-overlap-log.md`
+
+Use for prose-readable overlap and citation findings against prior completed critical editions.
+
+Record here:
+
+- current locus
+- prior edition slug and locus
+- overlap class
+- wording summary
+- evidence strength
+- chronology status
+- editorial consequence
+
+### `interedition-precedence-table.json`
+
+Use for machine-readable chronology-aware comparison records.
+
+Record here:
+
+- current edition slug and locus
+- prior edition slug and locus
+- relationship type
+- overlap strength
+- precedence status
+- influence status
+- evidence basis
+- decision effect
+
 ### Witness `README.md`
 
 Use for source and rights facts.
@@ -598,6 +644,39 @@ Confirm:
 - cross-file ids resolve
 - every witness declared for viewer comparison has a definitive delivered text artifact
 - note, apparatus, and journaling layers are not being misused or duplicated
+
+### When the inter-critical-edition comparison gate runs
+
+Write to:
+
+- `prior-editions-register.md`
+- `interedition-overlap-log.md`
+- `interedition-precedence-table.json`
+- `decision-log.md` when a comparison materially affects judgment
+- `human-log.md` for readable narrative summary
+- `timeline.json` for gate-opened, gate-completed, and any text-changing consequences
+- `process.json` for the current phase / next slice update
+
+If visible text changes because of the gate, also write:
+
+- `correction-log.md`
+- `translation-diff-log.md`
+- `rejected-readings-log.md` when a previously live alternative is discarded
+- `anchor-event-log.jsonl`
+
+Do not hide cross-edition comparison only in prose if it affects apparatus, chronology, or visible text.
+
+### When declaring a critical edition complete
+
+Before appending the edition to the global registry:
+
+- complete the inter-critical-edition comparison gate
+- declare completion in package-local `timeline.json`
+- move package-local `process.json` to a terminal completion state
+
+Then append one entry to:
+
+- `xml-open/ce/completed-editions.json`
 
 ## Text-change law
 

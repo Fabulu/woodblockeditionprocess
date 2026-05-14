@@ -1,0 +1,35 @@
+{
+  "registry_version": 1,
+  "completed_editions": [
+    {
+      "slug": "faith-in-mind",
+      "title": {
+        "en": "Faith in Mind",
+        "zh": "信心銘"
+      },
+      "edition_type": "critical_edition",
+      "scope_mode": "poem_first",
+      "completion": {
+        "status": "declared_complete",
+        "declaration_date": "2026-05-07",
+        "declaration_commit": "95bf25d",
+        "declaration_note": "Poem-first critical edition closed with four residual fragment-wall loci frozen."
+      },
+      "text_date_profile": {
+        "traditional_attribution": "Jianzhi Sengcan (traditional attribution)",
+        "date_note": "Consult package-local editorial method and introduction for dating cautions and discussion."
+      },
+      "artifacts": {
+        "package_root": "Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind",
+        "process_json": "Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/process.json",
+        "timeline_json": "Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json",
+        "documents_json": "Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/documents.json",
+        "apparatus_json": "Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/apparatus.json",
+        "tei_xml": "Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/faith-in-mind.xml",
+        "current_state_md": "Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md",
+        "editorial_method_md": "Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/edition/editorial-method.md",
+        "editorial_introduction_md": "Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/edition/editorial-introduction.md"
+      }
+    }
+  ]
+}

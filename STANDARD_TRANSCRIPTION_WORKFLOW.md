@@ -37,6 +37,12 @@ This means the edition should be described as:
 not:
 - a full witness-universal edition unless that is actually true
 
+The mandatory late inter-critical-edition comparison gate does not override this policy.
+
+- prior completed critical editions may be used as philological comparanda
+- they may not be used as hidden substitute witnesses
+- non-open materials remain non-open even if they are discussed by an earlier edition
+
 ---
 
 ## 3. Keep a running process log during the work
@@ -338,6 +344,27 @@ At minimum verify:
 - handoff file set complete
 
 If a known issue is left in place, record that it is intentional.
+
+---
+
+## 11A. Run the mandatory inter-critical-edition comparison gate before final completion
+
+Before declaring a critical edition complete, compare it against every prior **completed** critical edition in:
+
+- `xml-open/ce/completed-editions.json`
+
+This gate is governed by:
+
+- `INTER_CRITICAL_EDITION_COMPARISON_PROTOCOL.md`
+
+At minimum:
+
+- identify overlaps, citations, reuse, parallels, or meaningful non-overlap
+- apply chronology-aware precedence control
+- record the result in prose and machine-readable form
+- feed any real consequences back into apparatus, decisions, unresolved loci, or visible text
+
+Only after this gate closes may the current edition be declared complete and added to the completed-editions registry.
 
 ---
 

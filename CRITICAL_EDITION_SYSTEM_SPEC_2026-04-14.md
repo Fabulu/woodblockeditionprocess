@@ -720,9 +720,37 @@ Each unresolved item must include:
   - `must-resolve-before-publication`
   - `publishable-with-note`
 
-### Stage 9. Publication package
+### Stage 9. Inter-critical-edition comparison gate
 
-Only after stages 0-8:
+After the current edition has completed its own witness, OCR, collation, boundary, and unresolved-loci work, compare it against every prior **completed** critical edition in the repo.
+
+This stage is mandatory and governed by:
+
+- `INTER_CRITICAL_EDITION_COMPARISON_PROTOCOL.md`
+
+Required outputs:
+
+- `process/prior-editions-register.md`
+- `process/interedition-overlap-log.md`
+- `process/interedition-precedence-table.json`
+
+This stage may produce:
+
+- apparatus notes
+- commentary notes
+- chronology-aware precedence warnings
+- decision support
+- visible text changes if warranted
+
+If visible text changes occur here, they must pass through the normal `text_changed`, correction, translation, and anchor machinery before completion can be declared.
+
+Only after this gate closes may the edition be declared complete and appended to:
+
+- `xml-open/ce/completed-editions.json`
+
+### Stage 10. Publication package
+
+Only after stages 0-9:
 
 - generate TEI
 - generate manifest

@@ -139,6 +139,9 @@ Before declaring any phase complete:
 - [ ] `python scripts/validate_package.py` passes
 - [ ] No prose-only entries where structured data is expected
 - [ ] All text fields in markdown tables use backtick delimiters
+- [ ] If the edition itself is being declared complete, the inter-critical-edition comparison gate in `INTER_CRITICAL_EDITION_COMPARISON_PROTOCOL.md` has been run against all prior completed editions in `xml-open/ce/completed-editions.json`
+- [ ] If the edition itself is being declared complete, `prior-editions-register.md`, `interedition-overlap-log.md`, and `interedition-precedence-table.json` exist
+- [ ] If the edition itself is being declared complete, completion was declared in package-local `timeline.json` and `process.json` before appending the edition to `xml-open/ce/completed-editions.json`
 
 ---
 
@@ -184,5 +187,17 @@ Every critical edition MUST produce witness coordinate data for ReadZen integrat
 | `apparatus.json` + locus_bbox | Footnotes panel + flyout with witness buttons |
 | TEI `corresp` attributes | Click position → locus → apparatus/anchor lookup |
 | `upstream_url` in manifest | On-demand witness download (PDF or IIIF JPEG) |
+
+**Evidence transparency (tiered system):**
+
+Every anchor-base entry MUST declare `evidence_tier` and `char_coverage` fields. See `EDITION_WITNESS_COORDINATE_SPEC.md` Section 7.5 for the full definition and consistency rules.
+
+The tiered system defines minimum evidence granularity:
+
+- **Tier 1 (page) + Tier 2 (line):** MANDATORY for all poem lines. Every locus must have at least a line-region bbox.
+- **Tier 3 (character):** MANDATORY for apparatus loci. Best-effort for all others.
+- **Tier 4 (cross-witness character):** OPTIONAL. Only for multi-witness character alignment.
+
+For the next edition, run PaddleOCR with `return_word_box: True` to capture per-character bounding boxes for apparatus loci. This produces the char-level geometry needed to satisfy Tier 3 requirements without manual bbox annotation.
 
 If coordinate data is missing, the character-click → witness zoom feature will not work for that edition.

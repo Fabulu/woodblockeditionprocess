@@ -98,23 +98,25 @@ Read these in this order:
 3. `EDITION_AGENT_MASTER_INSTRUCTIONS.md`
 4. `EDITION_FORENSIC_PROVENANCE_PROTOCOL.md`
 5. `EDITION_TRANSLATION_DIFF_PROTOCOL.md`
-6. `critical_edition_evaluation.md`
-7. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
-8. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
-9. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
-10. `WORKFLOW.md`
-11. `REPO_INTAKE_PIPELINE.md`
-12. `TRANSCRIPTION_METHOD.md`
-13. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
-14. `OpenZenTexts/MANIFEST_SCHEMA.md`
-15. `CBETA-Translator/Text/TeiRenderer.cs`
-16. `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
+6. `INTER_CRITICAL_EDITION_COMPARISON_PROTOCOL.md`
+7. `critical_edition_evaluation.md`
+8. `OPENZENTEXTS_PROVENANCE_AUDIT_2026-04-14.md`
+9. `CRITICAL_EDITION_SYSTEM_SPEC_2026-04-14.md`
+10. `PROGRAMMER_AGENT_MASTER_IMPLEMENTATION_BRIEF_2026-04-14.md`
+11. `WORKFLOW.md`
+12. `REPO_INTAKE_PIPELINE.md`
+13. `TRANSCRIPTION_METHOD.md`
+14. `STANDARD_TRANSCRIPTION_WORKFLOW.md`
+15. `OpenZenTexts/MANIFEST_SCHEMA.md`
+16. `CBETA-Translator/Text/TeiRenderer.cs`
+17. `CBETA-Translator/Views/ProvenancePanel.axaml.cs`
 
 These three edition-protocol files are now mandatory for every critical edition session:
 
 - `EDITION_AGENT_MASTER_INSTRUCTIONS.md`
 - `EDITION_FORENSIC_PROVENANCE_PROTOCOL.md`
 - `EDITION_TRANSLATION_DIFF_PROTOCOL.md`
+- `INTER_CRITICAL_EDITION_COMPARISON_PROTOCOL.md`
 
 Do not treat them as optional implementation notes. They are workflow law.
 
@@ -282,6 +284,28 @@ Rules:
 - edition may present stabilized results, but it must still preserve uncertainty and traceability back to transcription and collation
 
 If a slice crosses a stage boundary, declare that explicitly before starting it and update `current-state.md` and `process.json` at the same time.
+
+### Step 6b. Run the final inter-critical-edition comparison gate
+
+Before final completion declaration, compare the current critical edition against every prior completed critical edition listed in:
+
+- `xml-open/ce/completed-editions.json`
+
+Use:
+
+- `INTER_CRITICAL_EDITION_COMPARISON_PROTOCOL.md`
+
+This gate is mandatory.
+
+It may produce:
+
+- apparatus additions
+- commentary notes
+- chronology-aware precedence findings
+- decision support
+- text changes if warranted
+
+Only after the gate closes may the current edition be declared complete and appended to the completed-editions registry.
 
 ### Step 7. Generate the OpenZen package
 

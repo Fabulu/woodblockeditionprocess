@@ -339,6 +339,35 @@ At minimum confirm:
 - TEI note anchors and note targets resolve
 - timeline references and apparatus references resolve
 - footnotes are not carrying process-log or human-log content by mistake
+- the mandatory inter-critical-edition comparison gate has been run against all prior completed critical editions in `xml-open/ce/completed-editions.json`
+- any comparison-driven consequences were recorded in apparatus, decisions, unresolved loci, or visible text layers as appropriate
+
+## Mandatory Final Inter-Critical-Edition Comparison Pass
+
+Before calling a critical edition complete, compare it against every prior **completed** critical edition in the repo.
+
+This is governed by:
+
+- `INTER_CRITICAL_EDITION_COMPARISON_PROTOCOL.md`
+
+You must produce, at minimum:
+
+- `prior-editions-register.md`
+- `interedition-overlap-log.md`
+- `interedition-precedence-table.json`
+
+Then decide whether the comparison causes:
+
+- no effect
+- apparatus note
+- commentary note
+- unresolved warning
+- decision support
+- visible text change
+
+Only after the gate closes may the current edition be declared complete and added to:
+
+- `xml-open/ce/completed-editions.json`
 
 ## Files To Read
 
