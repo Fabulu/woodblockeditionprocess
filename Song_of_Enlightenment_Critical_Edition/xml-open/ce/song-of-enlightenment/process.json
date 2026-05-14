@@ -6,12 +6,12 @@
         "edition_type": "critical_edition",
         "scope_mode": "poem_first"
     },
-    "current_phase": "exact-witness-reentry-korean-render-pair-spans-stabilized",
-    "current_slice": "render_prepared_korean_pair_closing_boundary_tightening_completed",
-    "last_completed_slice": "render_prepared_first_tier_opening_boundary_reentry_completed",
-    "next_required_action": "Preserve the first completed closing-boundary tightening result inside the render-prepared subset honestly: the cleaner Korean pair YJG-W8 and YJG-W9 now both open on mixed page-0002 and close on mixed page-0055, with page-0056 and later pages shifting into post-poem prose or colophon matter. The next bounded local work is therefore remaining closing/span tightening plus witness-class differentiation on YJG-W2, YJG-W4C, YJG-W4F, and YJG-W4G, while keeping YJG-A10 and YJG-A11 as second-tier controls, YJG-W21 source-blocked, and YJG-W12 blocked honestly.",
-    "next_required_slice": "remaining_render_prepared_subset_closing_and_span_tightening",
-    "last_text_changed_event": "YJG-045",
+    "current_phase": "exact-witness-reentry-four-rendered-spans-stabilized",
+    "current_slice": "render_prepared_w4c_w4g_closing_boundary_tightening_completed",
+    "last_completed_slice": "render_prepared_korean_pair_closing_boundary_tightening_completed",
+    "next_required_action": "Preserve the narrowed render-prepared subset honestly: YJG-W4C now opens on mixed page-0001 and closes on mixed page-0021; YJG-W4G now opens on mixed page-0005 and closes on mixed page-0058; YJG-W8 and YJG-W9 both open on mixed page-0002 and close on mixed page-0055. The remaining bounded local work is therefore full-span tightening on the harder commentary-bearing pair YJG-W2 and YJG-W4F, while keeping YJG-A10 and YJG-A11 as second-tier controls, YJG-W21 source-blocked, and YJG-W12 blocked honestly.",
+    "next_required_slice": "remaining_commentary_bearing_render_pair_span_tightening",
+    "last_text_changed_event": "YJG-049",
     "base_witness": {
         "status": "selected",
         "witness_id": "YJG-W22",

@@ -146,3 +146,7 @@
 - One part of that closing work has now actually completed rather than staying hypothetical. The cleaner Korean pair `YJG-W8` and `YJG-W9` both carry the late final-poem cluster through mixed `page-0055`, and `page-0056` breaks into post-poem prose or colophon matter instead of continuing the poem.
 
 - That means the render-prepared subset is no longer one undifferentiated queue. `YJG-W8` and `YJG-W9` now have honest opening-and-closing page spans, while `YJG-W2`, `YJG-W4C`, `YJG-W4F`, and `YJG-W4G` still need their remaining closing or full-span tightening.
+
+- The same closing-boundary tranche has now been carried forward onto two more render-prepared witnesses. `YJG-W4C` closes on mixed `page-0021`, with `page-0022` and later leaves shifting into commentary-style or editorial prose; `YJG-W4G` closes on mixed `page-0058`, with `page-0059` and later leaves shifting into post-poem quotation, prose, or colophon matter.
+
+- That leaves only the genuinely harder commentary-bearing pair inside this local phase. `YJG-W2` and `YJG-W4F` still need full-span tightening, while `YJG-A10` and `YJG-A11` remain second-tier controls and `YJG-W21` / `YJG-W12` stay blocked honestly.

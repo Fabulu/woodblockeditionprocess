@@ -292,6 +292,12 @@
             "date": "2026-05-14",
             "type": "render_prepared_korean_pair_closing_boundaries_checked",
             "summary": "Completed the first closing-boundary tightening inside the render-prepared subset by fixing YJG-W8 and YJG-W9 as opening on mixed page-0002 and closing on mixed page-0055, with page-0056 and later leaves shifting into post-poem prose, bibliographic, or colophon matter."
+        },
+        {
+            "event_id": "YJG-049",
+            "date": "2026-05-14",
+            "type": "render_prepared_wenzhou_pair_closing_boundaries_checked",
+            "summary": "Continued the same render-prepared closing-boundary tranche by fixing YJG-W4C as opening on mixed page-0001 and closing on mixed page-0021 before commentary-style or editorial prose on page-0022 and later, and by fixing YJG-W4G as opening on mixed page-0005 and closing on mixed page-0058 before post-poem quotation, prose, or colophon matter on page-0059 and later."
         }
     ]
 }

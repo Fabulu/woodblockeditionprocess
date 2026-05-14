@@ -734,6 +734,30 @@
 
   - `YJG-W22` `page-0063`
 
+- Continued the same render-prepared closing-boundary tranche beyond the already stabilized Korean pair rather than fragmenting the work into witness-by-witness micromoves.
+
+- Tightened the short-tranche witness `YJG-W4C` at the poem close:
+
+  - `page-0021` still carries the late final cluster through `æˆ‘ä»Šè§£æ­¤å¦‚æ„ç  ä¿¡å—ä¹‹è€…çš†ç›¸æ‡‰`
+
+  - `page-0022` and later leaves shift into commentary-style or editorial prose rather than continuing the poem body
+
+  - the honest local result is that `YJG-W4C` opens on mixed `page-0001` and closes on mixed `page-0021`
+
+- Tightened the larger Wenzhou / Korean-line witness `YJG-W4G` at the poem close:
+
+  - `page-0058` still carries the late final cluster including the `è¶…ç™¾å„„` / `å¦‚æ„ç ` zone
+
+  - `page-0059` and later leaves shift into post-poem quotation, prose, and then colophon matter rather than continuing the poem body
+
+  - the honest local result is that `YJG-W4G` opens on mixed `page-0005` and closes on mixed `page-0058`
+
+- Narrowed the remaining render-prepared re-entry queue accordingly:
+
+  - `YJG-W8`, `YJG-W9`, `YJG-W4C`, and `YJG-W4G` now have honest opening-and-closing page spans
+
+  - only the commentary-bearing pair `YJG-W2` and `YJG-W4F` still require full-span tightening inside this bounded phase
+
 - Re-entered exact-witness work on the newly render-prepared first-tier subset by checking opening boundaries directly on the new local page tranches instead of treating render preparation as the endpoint.
 
 - Fixed the first poem-bearing pages on that subset:

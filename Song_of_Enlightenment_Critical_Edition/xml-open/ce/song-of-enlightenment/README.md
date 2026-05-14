@@ -40,8 +40,9 @@ Current state:
 - `YJG-W21` remains blocked inside render-preparation because the held PDF exposes no renderable pages locally
 - opening-boundary re-entry is now completed on the newly render-prepared first-tier subset: `YJG-W4C` opens on `page-0001`, `YJG-W2` / `YJG-W4F` / `YJG-W4G` on `page-0005`, and `YJG-W8` / `YJG-W9` on `page-0002`
 - closing-boundary tightening is now completed for the cleaner Korean pair: `YJG-W8` and `YJG-W9` both close on mixed `page-0055`, with `page-0056` and later leaves shifting into post-poem prose or colophon matter
+- the same closing-boundary tranche now also fixes `YJG-W4C` as closing on mixed `page-0021` before commentary-style or editorial prose on `page-0022+`, and `YJG-W4G` as closing on mixed `page-0058` before post-poem quotation, prose, or colophon matter on `page-0059+`
 - `YJG-W2` and `YJG-W4F` now require closing/span work under a commentary-bearing or prose-surrounded posture rather than a simple poem-only-codex assumption
-- the next bounded slice is remaining closing/span tightening on `YJG-W2`, `YJG-W4C`, `YJG-W4F`, and `YJG-W4G`
+- the next bounded slice is remaining full-span tightening on the harder commentary-bearing pair `YJG-W2` and `YJG-W4F`
 - translation not yet started
 
 Use these for resumability:
