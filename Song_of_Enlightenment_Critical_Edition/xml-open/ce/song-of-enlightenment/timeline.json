@@ -310,6 +310,12 @@
             "date": "2026-05-14",
             "type": "apparatus_opening_started",
             "summary": "Opened the first package-local apparatus/consolidation surface after exact-comparison stabilization and render-prepared span closure, recording the stable witness-span basis, the copy-text and clean-comparison posture, the mixed opening and closing geometry watchlist, and the current rule that commentary-bearing render-prepared witnesses remain span controls until a later tighter pass justifies fuller apparatus use."
+        },
+        {
+            "event_id": "YJG-052",
+            "date": "2026-05-14",
+            "type": "first_selective_apparatus_drafting_completed",
+            "summary": "Completed a bounded first selective apparatus draft from the already stabilized evidence base by recording notes for the mixed opening boundary, the final stabilized closing cluster through 我今解此如意珠 信受之者皆相應, and the copy-text closing watchpoint at YJG-W22 page-0063, while deliberately deferring fuller variant collation, commentary-bearing line extraction, and second-tier control deployment."
         }
     ]
 }

@@ -7,10 +7,10 @@
         "scope_mode": "poem_first"
     },
     "current_phase": "poem-first-editorial-consolidation-opened",
-    "current_slice": "apparatus_opening_started",
-    "last_completed_slice": "remaining_commentary_bearing_render_pair_span_tightening_completed",
-    "next_required_action": "Preserve the opened apparatus posture honestly: the renderable first-tier subset now has stable page spans, the copy-text remains YJG-W22, and a package-local apparatus opening now exists for the first selective drafting pass. The next bounded local work is therefore first selective apparatus drafting on the already stabilized poem body, starting with the mixed opening loci, the YJG-W22 page-0063 closing watchpoint, and any witness-span-sensitive control use from YJG-W2, YJG-W4C, YJG-W4F, YJG-W4G, YJG-W8, and YJG-W9, while keeping YJG-A10 and YJG-A11 as second-tier controls, YJG-W21 source-blocked, and YJG-W12 blocked honestly.",
-    "next_required_slice": "first_selective_apparatus_drafting",
+    "current_slice": "first_selective_apparatus_drafting_completed",
+    "last_completed_slice": "apparatus_opening_started",
+    "next_required_action": "Preserve the initial selective apparatus draft honestly: the package now has explicit apparatus notes for the mixed opening boundary, the final stabilized closing cluster, and the copy-text closing watchpoint at YJG-W22 page-0063, all grounded in the stabilized witness-span posture. Broader apparatus expansion or eventual translation-sync opening would now require fresh locus-by-locus editorial selection rather than ordinary phase carry-forward, while YJG-A10 and YJG-A11 remain second-tier controls and YJG-W21 / YJG-W12 remain blocked honestly.",
+    "next_required_slice": "broader_apparatus_expansion_or_translation_sync_opening",
     "last_text_changed_event": "YJG-050",
     "base_witness": {
         "status": "selected",

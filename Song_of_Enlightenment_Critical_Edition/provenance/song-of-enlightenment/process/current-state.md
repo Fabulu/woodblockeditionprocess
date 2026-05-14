@@ -8,11 +8,11 @@
 
 - Phase: `poem-first-editorial-consolidation-opened`
 
-- Current slice: `apparatus_opening_started`
+- Current slice: `first_selective_apparatus_drafting_completed`
 
-- Last completed slice: `remaining_commentary_bearing_render_pair_span_tightening_completed`
+- Last completed slice: `apparatus_opening_started`
 
-- Next required action: preserve the opened apparatus posture honestly: the renderable first-tier subset now has stable page spans, the copy-text remains `YJG-W22`, and a package-local apparatus opening now exists for the first selective drafting pass. The next bounded local work is therefore first selective apparatus drafting on the already stabilized poem body, starting with the mixed opening loci, the `YJG-W22 page-0063` closing watchpoint, and any witness-span-sensitive control use from `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9`, while keeping `YJG-A10` and `YJG-A11` as second-tier controls, `YJG-W21` source-blocked, and `YJG-W12` blocked honestly
+- Next required action: preserve the initial selective apparatus draft honestly: the package now has explicit apparatus notes for the mixed opening boundary, the final stabilized closing cluster, and the copy-text closing watchpoint at `YJG-W22 page-0063`, all grounded in the stabilized witness-span posture. The next bounded local work would be broader apparatus expansion or eventual translation-sync opening, but those steps now require fresh locus-by-locus editorial selection rather than ordinary phase carry-forward, while `YJG-A10` and `YJG-A11` remain second-tier controls and `YJG-W21` / `YJG-W12` remain blocked honestly
 
 - Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
 
@@ -26,7 +26,9 @@
 
 - Apparatus opening result: the package now has a dedicated apparatus-opening surface at `provenance/song-of-enlightenment/process/apparatus-opening.md` that records the stabilized witness-span basis, the copy-text and clean-comparison posture, the mixed-boundary watchlist, and the deferred commentary-bearing / second-tier control limits for the first selective apparatus pass
 
-- Next required slice: `first_selective_apparatus_drafting`
+- Apparatus draft result: the package now also has a first selective apparatus draft at `provenance/song-of-enlightenment/process/apparatus-draft.md` covering the mixed opening boundary, the final stabilized closing cluster, and the copy-text closing watchpoint
+
+- Next required slice: `broader_apparatus_expansion_or_translation_sync_opening`
 
 - Copy-text status: selected as `YJG-W22`
 

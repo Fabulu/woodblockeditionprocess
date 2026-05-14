@@ -156,3 +156,5 @@
 - The practical consequence is another honest phase change. The render-prepared first-tier re-entry tranche is no longer open work: all six renderable held first-tier PDFs now have opening-and-closing page spans, so the next local phase is poem-first editorial consolidation or apparatus-opening, not more boundary chasing inside this subset.
 
 - That next phase has now actually been opened instead of left as a handoff sentence. The package now has a dedicated apparatus-opening surface that records the stable witness-span basis, the copy-text posture around `YJG-W22`, the mixed opening and closing geometry watchlist, and the current rule that commentary-bearing render-prepared witnesses stay span controls until a later tighter pass justifies more.
+
+- The first selective apparatus pass has now also been drafted in a bounded way rather than postponed behind a demand for full collation. The draft currently records three note classes only: the mixed opening boundary, the final stabilized closing cluster, and the copy-text closing watchpoint at `YJG-W22 page-0063`.

@@ -10,8 +10,8 @@ The current active open questions are:
    `YJG-W4C` opens on mixed `page-0001` and closes on mixed `page-0021`;
    `YJG-W4G` opens on mixed `page-0005` and closes on mixed `page-0058`;
    `YJG-W8` and `YJG-W9` both open on mixed `page-0002` and close on mixed `page-0055`.
-3. The next local open question is now the first selective apparatus pass:
-   the apparatus-opening surface exists, but the package has not yet drafted the first actual selective apparatus from the already stabilized shared loci and mixed-boundary watchpoints.
+3. The next local open question is now broader apparatus expansion beyond the opening draft:
+   the package has an initial selective apparatus draft, but fuller variant selection or translation-sync opening would require fresh locus-by-locus editorial judgment rather than simple continuation from already stabilized boundary notes.
 4. Keep `YJG-W21` blocked honestly until the held PDF can be rendered or replaced by a genuinely workable local source file.
 5. Keep `YJG-W12` blocked honestly rather than pretending it is a latent OCR quick win.
 6. Keep `YJG-A10` and `YJG-A11` as second-tier controls outside the first-tier exact re-entry tranche.

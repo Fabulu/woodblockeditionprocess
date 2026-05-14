@@ -806,6 +806,26 @@
 
   - `YJG-A10`, `YJG-A11`, `YJG-W21`, and `YJG-W12` remain deferred for the reasons already recorded elsewhere
 
+- Carried that apparatus-opening phase into one bounded first selective draft instead of leaving it as a pure placeholder:
+
+  - `provenance/song-of-enlightenment/process/apparatus-draft.md`
+
+- Restricted the first draft to apparatus notes that were already justified by the stabilized evidence base:
+
+  - the mixed opening boundary across the active exact witnesses and render-prepared controls
+
+  - the final stabilized closing cluster through `æˆ‘ä»Šè§£æ­¤å¦‚æ„ç  ä¿¡å—ä¹‹è€…çš†ç›¸æ‡‰`
+
+  - the copy-text closing watchpoint at `YJG-W22 page-0063`
+
+- Deliberately did not over-claim beyond that:
+
+  - no full variant collation yet
+
+  - no forced line extraction from commentary-bearing render-prepared witnesses
+
+  - no second-tier control deployment yet
+
 - Re-entered exact-witness work on the newly render-prepared first-tier subset by checking opening boundaries directly on the new local page tranches instead of treating render preparation as the endpoint.
 
 - Fixed the first poem-bearing pages on that subset:

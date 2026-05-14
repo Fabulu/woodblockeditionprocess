@@ -80,7 +80,7 @@
 
 - [x] apparatus opening created
 
-- [ ] apparatus drafted
+- [x] apparatus drafted
 
 - [ ] TEI edition built
 
