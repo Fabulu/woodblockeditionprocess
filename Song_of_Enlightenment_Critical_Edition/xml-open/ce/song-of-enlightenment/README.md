@@ -45,8 +45,8 @@ Current state:
 - the render-prepared first-tier re-entry tranche is now exhausted for the renderable held PDFs
 - a package-local apparatus opening now exists at `provenance/song-of-enlightenment/process/apparatus-opening.md`
 - a first selective apparatus draft now exists at `provenance/song-of-enlightenment/process/apparatus-draft.md`
-- further apparatus expansion or translation-sync opening now requires fresh locus-by-locus editorial selection rather than simple boundary continuation
-- translation not yet started
+- ordinary apparatus continuation is now exhausted
+- translation sync is now opened through the stabilized opening and first clean interior continuation, ending at `決定說 表真僧 有人不肯任情徵`
 
 Use these for resumability:
 

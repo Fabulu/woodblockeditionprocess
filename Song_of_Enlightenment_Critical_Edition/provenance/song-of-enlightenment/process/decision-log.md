@@ -336,3 +336,9 @@
 
 - Reason: the existing stabilized surfaces still support one ordinary continuation pass across the clean early interior, the main shared interior run, and the later poem-band-filtered receipt cluster. Beyond those grouped classes, the next apparatus work would no longer be simple continuation; it would require fresh editorial selection or a different phase such as translation opening.
 
+## D-039 `2026-05-14`
+
+- Decision: open translation sync now, beginning with a bounded tranche from the stabilized opening through the first clean interior continuation.
+
+- Reason: ordinary apparatus continuation is exhausted, and the package already has an accepted Chinese text basis for these loci. Translation is the next honest local phase because it can now proceed from the stabilized poem text without forcing new witness adjudication or reopening blocked witnesses.
+

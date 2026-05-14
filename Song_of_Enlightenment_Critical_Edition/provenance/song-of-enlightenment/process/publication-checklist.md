@@ -76,7 +76,7 @@
 
 - [x] comparison and correction started
 
-- [ ] translation sync started
+- [x] translation sync started
 
 - [x] apparatus opening created
 

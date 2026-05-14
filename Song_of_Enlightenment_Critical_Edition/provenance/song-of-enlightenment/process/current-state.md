@@ -6,13 +6,13 @@
 
 - Date: `2026-05-14`
 
-- Phase: `poem-first-editorial-consolidation-opened`
+- Phase: `translation-sync-opened`
 
-- Current slice: `ordinary_selective_apparatus_continuation_completed`
+- Current slice: `first_translation_sync_tranche_completed`
 
-- Last completed slice: `first_selective_apparatus_drafting_completed`
+- Last completed slice: `ordinary_selective_apparatus_continuation_completed`
 
-- Next required action: preserve the expanded selective apparatus honestly: the package now has grouped poem-level apparatus notes for the mixed opening boundary, the early clean interior continuation, the main clean shared interior run, the poem-band-filtered late receipt cluster and stop point, the final stabilized closing cluster, and the copy-text closing watchpoint at `YJG-W22 page-0063`. Any further apparatus beyond those grouped evidence classes would now require fresh locus-by-locus editorial judgment or a different phase such as translation opening, while `YJG-A10` and `YJG-A11` remain second-tier controls and `YJG-W21` / `YJG-W12` remain blocked honestly
+- Next required action: continue translation sync across the already stabilized poem body. The opening plus the first clean interior continuation through `決定說 表真僧 有人不肯任情徵` now carry first-pass English renderings in the package logs, while the larger clean shared interior run, the late poem-band-filtered receipt cluster, and the copy-text closing watchpoint still need synchronized English continuation. `YJG-A10` and `YJG-A11` remain second-tier controls and `YJG-W21` / `YJG-W12` remain blocked honestly
 
 - Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
 
@@ -30,11 +30,13 @@
 
 - Apparatus continuation result: the draft now also carries one bounded ordinary continuation tranche covering the early clean interior continuation through `決定說 表真僧 有人不肯任情徵`, the main clean shared interior run through `無量法門咸在目前 咫尺匪遙蹔時岐隔`, and the later poem-band-filtered receipt cluster through `我今解此如意珠 信受之者皆相應`, together with the honest stop point where the next left-frame surfaces break into commentary-style prose rather than one more stable poem continuation
 
-- Next required slice: `fresh_editorial_judgment_gate_before_further_apparatus_or_translation_opening`
+- Translation opening result: the package has now left the exhausted ordinary-apparatus gate and opened live translation sync in the existing translation surfaces. English renderings are now present for the stabilized opening, the first clean early-interior continuation, and the adjacent clean interior continuation through `決定說 表真僧 有人不肯任情徵`
+
+- Next required slice: `main_shared_interior_translation_sync_continuation`
 
 - Copy-text status: selected as `YJG-W22`
 
-- Translation status: not yet started
+- Translation status: started
 
 
 
@@ -759,7 +761,7 @@
 
 2. Preserve the expanded selective apparatus as a grouped poem-level draft rather than over-promoting it into fresh fine-grained variant adjudication.
 
-3. Treat any further apparatus beyond the grouped opening, interior, late receipt, and closing entries as a fresh editorial judgment gate rather than routine continuation.
+3. Continue translation sync on the already stabilized Chinese body rather than reopening routine apparatus continuation that is now honestly exhausted.
 
 4. Keep `YJG-W21` and `YJG-W12` blocked honestly for their separate source-access reasons.
 
