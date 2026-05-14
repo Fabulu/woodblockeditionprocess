@@ -7,11 +7,11 @@
         "scope_mode": "poem_first"
     },
     "current_phase": "translation-sync-opened",
-    "current_slice": "main_shared_interior_translation_sync_continuation_completed",
-    "last_completed_slice": "first_translation_sync_tranche_completed",
-    "next_required_action": "Continue translation sync across the remaining stabilized poem body. The package now carries first-pass English renderings from the opening through the main clean shared interior run ending at 無量法門咸在目前 咫尺匪遙蹔時岐隔; the late poem-band-filtered receipt cluster through 我今解此如意珠 信受之者皆相應 and the copy-text closing watchpoint still need synchronized English continuation. YJG-A10 and YJG-A11 remain second-tier controls and YJG-W21 / YJG-W12 remain blocked honestly.",
-    "next_required_slice": "late_receipt_cluster_translation_sync_continuation",
-    "last_text_changed_event": "YJG-055",
+    "current_slice": "late_receipt_cluster_translation_sync_continuation_completed",
+    "last_completed_slice": "main_shared_interior_translation_sync_continuation_completed",
+    "next_required_action": "Preserve the package honestly at the now-synchronized frontier. Translation sync now runs through the last stabilized poem locus 我今解此如意珠 信受之者皆相應, and no further local continuation remains inside the current Song package evidence without reopening finer closing adjudication on YJG-W22 page-0063, fresh locus-by-locus apparatus judgment, or blocked witness work on YJG-W21 / YJG-W12.",
+    "next_required_slice": "productive_local_queue_exhausted_after_translation_frontier_sync",
+    "last_text_changed_event": "YJG-056",
     "base_witness": {
         "status": "selected",
         "witness_id": "YJG-W22",
@@ -29,7 +29,7 @@
         }
     ],
     "translation_sync": {
-        "status": "started"
+        "status": "synced_through_current_frontier"
     },
     "evented_anchor_protocol": {
         "status": "required_from_first_ocr_and_first_text_change"

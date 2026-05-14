@@ -348,3 +348,9 @@
 
 - Reason: after the first translation tranche, the next required slice remained a normal local continuation on already stabilized loci. The clean shared interior run is the largest adjacent same-class batch still supported by the current evidence without requiring new apparatus selection or blocked-witness reopening.
 
+## D-041 `2026-05-14`
+
+- Decision: complete one final translation-sync tranche through the late poem-band-filtered receipt cluster at `我今解此如意珠 信受之者皆相應`, then stop the local continuation queue there for now.
+
+- Reason: this was the last already stabilized Chinese frontier that still lacked synchronized English rendering. Beyond it, no further honest local continuation remains inside the present package evidence without reopening finer closing adjudication, blocked witnesses, or fresh apparatus-level judgment.
+
