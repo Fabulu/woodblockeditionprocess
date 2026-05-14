@@ -286,6 +286,12 @@
             "date": "2026-05-14",
             "type": "render_prepared_exact_opening_boundaries_checked",
             "summary": "Re-entered exact-witness work on the newly render-prepared first-tier subset by fixing the first poem-bearing pages at YJG-W4C page-0001, YJG-W2/YJG-W4F/YJG-W4G page-0005, and YJG-W8/YJG-W9 page-0002, while also recording that YJG-W2 and YJG-W4F behave as commentary-bearing or prose-surrounded manifestations rather than clean poem-only codices."
+        },
+        {
+            "event_id": "YJG-048",
+            "date": "2026-05-14",
+            "type": "render_prepared_korean_pair_closing_boundaries_checked",
+            "summary": "Completed the first closing-boundary tightening inside the render-prepared subset by fixing YJG-W8 and YJG-W9 as opening on mixed page-0002 and closing on mixed page-0055, with page-0056 and later leaves shifting into post-poem prose, bibliographic, or colophon matter."
         }
     ]
 }

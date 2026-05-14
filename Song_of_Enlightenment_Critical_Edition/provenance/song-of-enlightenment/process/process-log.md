@@ -768,6 +768,18 @@
 
   - `YJG-W4C` now needs closing/span work under a short-tranche or differently packaged witness posture rather than a normal full-codex assumption
 
+- Completed the first direct closing-boundary tightening inside that render-prepared subset on the cleaner Korean pair:
+
+  - `YJG-W8` now opens on `page-0002` and closes on mixed `page-0055`
+
+  - `YJG-W9` now opens on `page-0002` and closes on mixed `page-0055`
+
+- Recorded the direct boundary evidence for that pair:
+
+  - `page-0055` in both witnesses still carries the late final-poem cluster including the `一句了然超百億` / `我今解此如意珠 信受之者皆相應` zone
+
+  - `page-0056` and later leaves in both witnesses shift into post-poem prose, bibliographic, or colophon material rather than continuing the poem body
+
 ## 2026-05-14
 
 - The package has now completed the next non-boundary slice instead of lingering on the already exhausted closing tranche. Copy-text is selected.

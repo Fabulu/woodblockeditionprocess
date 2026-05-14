@@ -142,3 +142,7 @@
 - `YJG-W4C` is the opposite kind of complication. The held render tranche begins directly on the poem with no prefatory leaves preserved locally, and the short `23`-page image set now looks more like a short or differently packaged witness than a normal full poem-plus-paratext codex.
 
 - The next honest bounded step is therefore no longer "re-enter exact witnesses" in the abstract. It is closing/span tightening and witness-class differentiation on this render-prepared subset while keeping `YJG-W21` and `YJG-W12` blocked for different reasons.
+
+- One part of that closing work has now actually completed rather than staying hypothetical. The cleaner Korean pair `YJG-W8` and `YJG-W9` both carry the late final-poem cluster through mixed `page-0055`, and `page-0056` breaks into post-poem prose or colophon matter instead of continuing the poem.
+
+- That means the render-prepared subset is no longer one undifferentiated queue. `YJG-W8` and `YJG-W9` now have honest opening-and-closing page spans, while `YJG-W2`, `YJG-W4C`, `YJG-W4F`, and `YJG-W4G` still need their remaining closing or full-span tightening.

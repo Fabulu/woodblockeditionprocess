@@ -6,19 +6,21 @@
 
 - Date: `2026-05-14`
 
-- Phase: `exact-witness-reentry-openings-stabilized-on-render-prepared-first-tier-subset`
+- Phase: `exact-witness-reentry-korean-render-pair-spans-stabilized`
 
-- Current slice: `render_prepared_first_tier_opening_boundary_reentry_completed`
+- Current slice: `render_prepared_korean_pair_closing_boundary_tightening_completed`
 
-- Last completed slice: `pdf_first_tier_render_preparation_completed_for_renderable_held_exact_set`
+- Last completed slice: `render_prepared_first_tier_opening_boundary_reentry_completed`
 
-- Next required action: preserve the opening-boundary re-entry honestly: `YJG-W4C` opens immediately on `page-0001`; `YJG-W2`, `YJG-W4F`, and `YJG-W4G` open on mixed `page-0005`; `YJG-W8` and `YJG-W9` open on mixed `page-0002`. `YJG-W2` and `YJG-W4F` now also show commentary-bearing or prose continuation around the poem rather than a clean poem-only codex, so the next bounded work is closing/span tightening plus witness-class differentiation on this render-prepared subset, while keeping `YJG-A10` and `YJG-A11` as second-tier controls, `YJG-W21` source-blocked, and `YJG-W12` blocked honestly
+- Next required action: preserve the first completed closing-boundary tightening result inside the render-prepared subset honestly: the cleaner Korean pair `YJG-W8` and `YJG-W9` now both open on mixed `page-0002` and close on mixed `page-0055`, with `page-0056` and later pages shifting into post-poem prose or colophon matter. The next bounded work is therefore remaining closing/span tightening plus witness-class differentiation on `YJG-W2`, `YJG-W4C`, `YJG-W4F`, and `YJG-W4G`, while keeping `YJG-A10` and `YJG-A11` as second-tier controls, `YJG-W21` source-blocked, and `YJG-W12` blocked honestly
 
 - Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
 
 - Opening-boundary re-entry result: direct image review on the newly render-prepared first-tier subset now fixes the first poem-bearing pages at `YJG-W2 page-0005`, `YJG-W4C page-0001`, `YJG-W4F page-0005`, `YJG-W4G page-0005`, `YJG-W8 page-0002`, and `YJG-W9 page-0002`. The tranche also exposed an important packaging split: `YJG-W2` and `YJG-W4F` do not behave like bare poem-only booklets but like commentary-bearing or prose-surrounded manifestations, while `YJG-W4C` begins immediately in a short or differently packaged tranche
 
-- Next required slice: `render_prepared_first_tier_closing_and_span_tightening`
+- Korean render-pair closing result: direct re-entry review now also fixes `YJG-W8` and `YJG-W9` as opening on mixed `page-0002` and closing on mixed `page-0055`, with `page-0056` and later leaves breaking into post-poem prose, bibliographic, or colophon material rather than continuing the poem body
+
+- Next required slice: `remaining_render_prepared_subset_closing_and_span_tightening`
 
 - Copy-text status: selected as `YJG-W22`
 
@@ -189,6 +191,12 @@
   - `YJG-W8`: `page-0001` is the title leaf and the mixed poem opening starts on `page-0002`
 
   - `YJG-W9`: `page-0001` is the title leaf and the mixed poem opening starts on `page-0002`
+
+- The first closing-boundary tightening on that subset is now completed for the cleaner Korean pair:
+
+  - `YJG-W8` closes on mixed poem page `page-0055`; `page-0056` and later leaves move into post-poem prose or colophon matter
+
+  - `YJG-W9` closes on mixed poem page `page-0055`; `page-0056` and later leaves move into post-poem prose or colophon matter
 
 - Live baseline output has already begun on `YJG-W22` across all four engines.
 
@@ -739,7 +747,7 @@
 
 1. Preserve the copy-text lock honestly: `YJG-W22` remains the selected copy-text, while `YJG-W16` and `YJG-W17` remain active clean comparison witnesses and `YJG-W22 page-0063` remains only page-tier-stable at the close.
 
-2. Carry the render-prepared first-tier subset from opening-boundary re-entry into closing/span tightening, especially where `YJG-W2` and `YJG-W4F` now clearly behave as commentary-bearing or prose-surrounded manifestations rather than simple poem-only codices.
+2. Carry the remaining render-prepared witnesses `YJG-W2`, `YJG-W4C`, `YJG-W4F`, and `YJG-W4G` from opening-boundary re-entry into closing/span tightening, especially where `YJG-W2` and `YJG-W4F` now clearly behave as commentary-bearing or prose-surrounded manifestations rather than simple poem-only codices.
 
 3. Keep `YJG-W21` explicitly blocked inside the former render tranche until a genuinely renderable or repaired local source can be produced, and do not let that one malformed PDF erase the progress on the six witnesses already opened successfully.
 
