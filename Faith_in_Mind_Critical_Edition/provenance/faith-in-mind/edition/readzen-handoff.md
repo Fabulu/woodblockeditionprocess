@@ -1,6 +1,6 @@
 # ReadZen Handoff: Faith in Mind
 
-Date: 2026-05-09  
+Date: 2026-05-12  
 Status: prepared for frontend integration
 
 ## 1. Primary reader experience
@@ -15,15 +15,17 @@ The reader should see:
 - the edited poem text as the main visual object
 - restrained note controls for material poem-level interventions
 
-Do not foreground:
+Do not surface in the reader-facing product:
 
-- commentary-body recovery
+- Japanese commentary / reception material
 - OCR archaeology
 - witness-hunt history
 - `X*` source-opening chains
 - unresolved commentary residue
 
-Those belong in a research or provenance layer, not in the default reading surface.
+Those belong in provenance/admin views, not in the reader-facing surface.
+
+The currently assembled commentary corpus is largely Japanese-side reception/commentary material and should be ignored in the reader-facing product.
 
 ## 2. Authoritative files
 
@@ -53,6 +55,7 @@ Those belong in a research or provenance layer, not in the default reading surfa
 ### Research / secondary layer
 
 - `provenance/faith-in-mind/edition/commentary-secondary-track.md`
+- `provenance/faith-in-mind/edition/readzen-commentary-integration-brief.md`
 - `provenance/faith-in-mind/process/process-log.md`
 - `provenance/faith-in-mind/process/human-log.md`
 - `provenance/faith-in-mind/witnesses/witness-register.md`
@@ -67,7 +70,7 @@ Use:
 - line numbering from the TEI `l/@n`
 - `corresp` loci as stable drilldown ids
 
-The main reading layer should not include commentary prose.
+The main reading layer should not include commentary prose inline by default.
 
 ## 4. Apparatus-layer rules
 
@@ -88,7 +91,19 @@ Preferred behavior:
 - click or expand to show the note
 - show supporting witnesses and the kind of intervention
 
-## 5. Time-travel rules
+## 5. Commentary rules
+
+The current commentary archive is retained for provenance and research only.
+
+Do not build the product around the assembled Japanese commentary/reception corpus.
+
+If any commentary material is exposed for internal tooling, it must:
+
+- stay outside the normal reader flow
+- be clearly labeled as commentary/reception rather than base-text authority
+- remain visually distinct from the poem and apparatus
+
+## 6. Time-travel rules
 
 Time travel should be event-driven, not full-snapshot driven.
 
@@ -108,7 +123,7 @@ For each event step, the UI should be able to show:
 
 The Chinese and English must move together by event id.
 
-## 6. Evidence-jump rules
+## 7. Evidence-jump rules
 
 Support three levels of evidence jump:
 
@@ -122,7 +137,7 @@ Current package honesty boundary:
 - supplied or omitted loci may anchor through the T1 boundary page plus a comparison witness page band
 - universal exact character boxing is not yet present and should not be implied
 
-## 7. Character-click expectations
+## 8. Character-click expectations
 
 Do not promise universal character-level witness drilldown yet.
 
@@ -134,7 +149,7 @@ What is safe now:
 
 Character-level UX should be exposed only where future selective character boxes actually exist.
 
-## 8. Display model
+## 9. Display model
 
 Use three conceptual layers:
 
@@ -158,14 +173,14 @@ Use three conceptual layers:
 - commentary secondary track
 - deep provenance
 
-## 9. Package-specific cautions
+## 10. Package-specific cautions
 
 - `T1-p075` is an omission judgment, not a silently restored line
-- commentary-secondary material remains valuable but should stay out of the main reading body
+- commentary remains preserved in provenance, but should stay out of the reader experience entirely unless a later curated Chinese commentary layer is added
 - event anchors are intentionally selective and poem-first, not commentary-universal
 - coarse page or band geometry is deliberate where finer retroactive boxing would have been fake
 
-## 10. Ready-now frontend goals
+## 11. Ready-now frontend goals
 
 The package is ready for:
 
@@ -177,5 +192,4 @@ The package is ready for:
 The package is not yet claiming:
 
 - universal per-character witness coordinates
-- full commentary-layer time travel
 - all-witness character-variant matrices

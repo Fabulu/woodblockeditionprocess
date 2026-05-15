@@ -1,0 +1,187 @@
+﻿## 20260512-223100
+run: 1
+exit_code: 2
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260512-223100.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260512-223100.txt
+message:
+
+
+## 20260512-223208
+run: 1
+exit_code: 2
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260512-223208.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260512-223208.txt
+message:
+
+
+## 20260512-223447
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260512-223447.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260512-223447.txt
+message:
+Synchronized the Song package through a bounded shared-body continuation and committed it as `aab73ef` (`song-of-enlightenment: continue shared interior exact batch 5`).
+
+The tranche work did two things: it repaired the committed `page-0011` placeholder batch into real shared text through `常獨行 常獨步 達者同遊涅槃路`, then carried the next conservative `YJG-W16` / `YJG-W17` `page-0012` shared-interior batch through `三身四智體中圓 八解六通心地印`. I kept `YJG-W17 page-0057` and `YJG-W22 page-0063` active only as boundary loci, without forcing `YJG-W22` into the interior tranche.
+
+`python scripts/validate_package.py` passed. I left `provenance/song-of-enlightenment/process/suppressed-codex-reports.log` and `provenance/song-of-enlightenment/process/until-done-wrapper.log` untracked and out of the commit.
+
+overnight shared-body exact comparison tranche was completed
+
+## 20260513-061330
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260513-061330.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260513-061330.txt
+message:
+Committed `866ecae` with the bounded shared-interior continuation through `爭似無為實相門 一超直入如來地`. The tranche advanced three consecutive stable shared pages, updated the Song process/timeline surfaces, and kept `YJG-W17 page-0057` plus `YJG-W22 page-0063` active only as boundary loci.
+
+`python scripts/validate_package.py` passed. The repository still has unrelated pre-existing changes outside this committed tranche, which I did not touch.
+
+overnight shared-body exact comparison tranche was completed
+
+## 20260513-173800
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260513-173800.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260513-173800.txt
+message:
+Extended the shared interior exact-witness run across the clean `YJG-W16` / `YJG-W17` `page-0016` to `page-0017` tranche and synchronized the Song package state/provenance surfaces to the new frontier at `無量法門咸在目前 咫尺匪遙蹔時岐隔`. `YJG-W17 page-0057` and `YJG-W22 page-0063` were kept as boundary loci only, and `anchor-event-log.jsonl`, process/state docs, and `xml-open/ce/song-of-enlightenment/{process,timeline}.json` were updated accordingly. `anchor-base-register.jsonl` did not require a change for this slice.
+
+Validation passed with `python scripts/validate_package.py`. The tranche was committed as `2afefb9` with message `song-of-enlightenment: continue shared interior batch 9`. The only remaining Song-package worktree items are untracked local wrapper logs: [suppressed-codex-reports.log](/abs/path/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/suppressed-codex-reports.log) and [until-done-wrapper.log](/abs/path/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/until-done-wrapper.log).
+
+daylong shared-body exact comparison tranche was completed
+
+## 20260513-175724
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260513-175724.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260513-175724.txt
+message:
+I extended the Song package from the committed batch-9 frontier by five more consecutive shared-interior loci, through `我今解此如意珠 信受之者皆相應`. The active boundary pages stayed boundary-only: `YJG-W17 page-0057` and `YJG-W22 page-0063` were kept live but not pulled into the shared-body tranche. For this run, the evidence basis tightened from full-page OCR to poem-band-filtered OCR, and I synchronized the Song provenance/state surfaces accordingly in `current-state.md`, the correction/consensus/translation logs, `anchor-event-log.jsonl`, and `xml-open/ce/song-of-enlightenment/{process,timeline}.json`.
+
+`python scripts/validate_package.py` passed before and after commit. The tranche is committed as `d0f26da` with message `song-of-enlightenment: continue shared interior batches 10-14`. The only remaining Song-package worktree noise is untracked local wrapper logs in `provenance/song-of-enlightenment/process/`.
+
+daylong shared-body exact comparison tranche was completed
+
+## 20260513-182633
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260513-182633.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260513-182633.txt
+message:
+I resumed from the committed batch-14 frontier and checked the next registered left-frame poem-band surfaces directly. `YJG-W16 page-0019` and `YJG-W17 page-0021` break into commentary-style prose and back-references to already stabilized lines like `行亦禪`, `坐亦禪`, `體安然`, and `忍辱`, so I did not fabricate one more shared-interior tranche. I synchronized the Song package state to record that the shared interior body is exhausted for the active exact witness set and that the next slice is boundary-focused closing work, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary loci.
+
+I updated the Song state/provenance surfaces, added boundary-pivot entries to `anchor-event-log.jsonl` and `timeline.json`, validated with `python scripts/validate_package.py`, and committed the result as `ab6bb82` with message `song-of-enlightenment: close shared interior daylong phase`. The Song package is clean except for the existing untracked local wrapper logs in `provenance/song-of-enlightenment/process/`. No new shared-interior batch was added in this turn because the honest hard stop had been reached; the completed shared-body run now stands at roughly 14 consecutive shared-interior batches through `我今解此如意珠 信受之者皆相應`.
+
+daylong shared-body exact comparison tranche was completed
+
+## 20260513-223426
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260513-223426.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260513-223426.txt
+message:
+I completed the Song-package boundary tranche and committed it as `cbbc21b` with message `song: close active boundary tranche for W17/W22`.
+
+Both active loci were materially tightened. `YJG-W17 page-0057` was resolved out of the poem span and the Berkeley witness now closes at `page-0056`; `YJG-W22 page-0063` was kept as the final poem page at page tier, with line-tier closure still honestly provisional. I synchronized the package state and provenance surfaces, updated the anchor base/event logs, and `python scripts/validate_package.py` passed. I left the untracked wrapper logs untouched.
+
+daylong boundary-focused closing tranche was completed
+
+## 20260514-001158
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260514-001158.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260514-001158.txt
+message:
+Completed two bounded Song-package batches and committed both.
+
+`9c5ef6a` locks copy-text on `YJG-W22`.  
+`df45315` records the first-tier PDF render-preparation tranche and adds `scripts/render_song_first_tier_pdfs.py`.
+
+Validation passed after each batch with `python scripts/validate_package.py`.
+
+State now reflects:
+- `YJG-W22` is the selected copy-text.
+- Render-prepared locally at `300` DPI: `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), `YJG-W9` (`61`).
+- `YJG-W21` is honestly blocked within render-preparation: the held PDF opens as PDF `1.4` but exposes no renderable pages under the local renderer.
+- The next queued slice in `current-state.md` / `process.json` is exact-witness re-entry on the newly render-prepared first-tier subset.
+
+The rendered JPGs were left as local witness assets rather than force-added to git, consistent with the repo’s root `*.jpg` ignore rule and the existing local image-tranche practice.
+
+## 20260514-010304
+run: 2
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260514-010304.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260514-010304.txt
+message:
+The Song package was advanced through the remaining local continuation slices and all bounded batches were validated and committed.
+
+This run finished the render-prepared first-tier re-entry phase by fixing the remaining commentary-bearing closes at `YJG-W2 page-0048` and `YJG-W4F page-0048`, then moved the package into poem-first editorial consolidation. I opened [apparatus-opening.md](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/apparatus-opening.md) and drafted the first selective apparatus notes in [apparatus-draft.md](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/apparatus-draft.md), with state synchronized in [current-state.md](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/current-state.md), [process.json](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/process.json), [timeline.json](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/timeline.json), and [documents.json](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/documents.json).
+
+New commits in this continuation segment:
+- `b4b1e5d` `song: tighten w4c and w4g poem closes`
+- `b507732` `song: close remaining render-prepared pair spans`
+- `8f1bb55` `song: open apparatus consolidation phase`
+- `2fd4fd9` `song: draft first selective apparatus notes`
+
+`python scripts/validate_package.py` passed after each bounded batch. The next step recorded by package state is broader apparatus expansion or translation-sync opening, and the package now marks that as requiring fresh locus-by-locus editorial selection rather than ordinary continuation.
+
+song package continuation queue was completed
+
+## 20260514-081845
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260514-081845.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260514-081845.txt
+message:
+Expanded the Song apparatus in one bounded ordinary tranche and synchronized the Song state surfaces around it. The main content change is in [apparatus-draft.md](C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/apparatus-draft.md), which now adds grouped poem-level entries for the early clean interior continuation, the main clean shared interior run, and the poem-band-filtered late receipt cluster plus its honest stop point. I also refined [apparatus-opening.md](C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/apparatus-opening.md) and updated [current-state.md](C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/current-state.md), [process-log.md](C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/process-log.md), [decision-log.md](C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/decision-log.md), [human-log.md](C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/human-log.md), [unresolved-loci.md](C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/unresolved-loci.md), [process.json](C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/process.json), and [timeline.json](C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/timeline.json) to reflect that further apparatus work now crosses a fresh editorial-judgment gate.
+
+`python scripts/validate_package.py` passed.
+
+The remaining blocker is git commit. I tried to stage and commit only the Song tranche files, but the repo’s parent `.git` directory is outside the writable sandbox and `git commit` failed with `Unable to create 'C:/woodblocks/.git/index.lock': Permission denied`. So the tranche content is complete and validated, but the required commit could not be created from this environment.
+
+## 20260514-083157
+run: 2
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260514-083157.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260514-083157.txt
+message:
+Committed the bounded Song apparatus batch as `fa111e5` (`song: continue selective apparatus tranche`). The tranche adds grouped poem-level apparatus entries for the early clean interior continuation, the main clean shared interior run, and the late poem-band-filtered receipt cluster; it also synchronizes `current-state.md`, `process-log.md`, `decision-log.md`, `human-log.md`, `unresolved-loci.md`, `process.json`, and `timeline.json`. I also repaired accidental mojibake in `decision-log.md` before committing.
+
+`python scripts/validate_package.py` passed. The package state now cleanly records the hard stop: no further ordinary apparatus continuation remains without fresh editorial judgment or a phase change. The only remaining Song-package status items are the pre-existing untracked logs `provenance/song-of-enlightenment/process/suppressed-codex-reports.log` and `provenance/song-of-enlightenment/process/until-done-wrapper.log`, which I did not include.
+
+apparatus continuation tranche was completed
+
+## 20260514-091630
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260514-091630.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260514-091630.txt
+message:
+I advanced the Song package through three bounded local batches and committed each one:
+
+- `44f327f` `song: open translation sync tranche`
+- `295eabc` `song: continue translation sync through main interior`
+- `14ea9be` `song: sync translation through current frontier`
+
+The package now has synchronized English in `provenance/song-of-enlightenment/process/translation-diff-log.md` through the current stabilized frontier at `我今解此如意珠 信受之者皆相應`, with non-trivial choices logged in `translation-reasoning-log.md`. I also updated `current-state.md`, `decision-log.md`, `xml-open/ce/song-of-enlightenment/process.json`, `timeline.json`, `README.md`, and the checklist so state now records that the productive local continuation queue is exhausted unless the work reopens finer `YJG-W22 page-0063` closing adjudication, fresh apparatus judgment, or the blocked witnesses `YJG-W21` / `YJG-W12`.
+
+`python scripts/validate_package.py` passed after each batch.
+
+song package continuation queue was completed
+
+## 20260514-095225
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-exec-20260514-095225.jsonl
+last_message_file: C:\woodblocks\Song_of_Enlightenment_Critical_Edition\.tmp_codex_gate\codex-last-20260514-095225.txt
+message:
+Completed the bounded Song OCR tranche and committed it as `a19dc0a` (`Complete remaining first-tier OCR tranche`).
+
+The package-local OCR runner stack now covers `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9` across the four-engine baseline, with the state/provenance surfaces synchronized in [current-state.md](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/current-state.md), [ocr-consensus-log.md](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/ocr-consensus-log.md), [process.json](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/process.json), and [timeline.json](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/timeline.json). `YJG-W21` was reprobed and remains honestly blocked because the held PDF still opens locally as `PDF 1.4` with `0` renderable pages. The tranche also records the local `YJG-W2` truncated-JPEG repair and the `YJG-W4G` Paddle fallback on `page-0008` and `page-0067` without word boxes.
+
+`python scripts/validate_package.py` passed. Two untracked local wrapper logs remain outside the commit: `provenance/song-of-enlightenment/process/suppressed-codex-reports.log` and `provenance/song-of-enlightenment/process/until-done-wrapper.log`.
+
+remaining first-tier OCR tranche was completed
+

@@ -71,6 +71,113 @@ function Test-TerminalStop {
         '(?i)\biterative broad corroborative-hunt .* was exhausted\b',
         '(?i)\balready reflects completion of the requested broad corroborative hunt\b',
         '(?i)\balready reflects completion of the requested iterative broad corroborative hunt\b',
+        '(?i)\bocr tranche 1 image baseline was completed\b',
+        '(?i)\bocr tranche 1 baseline was completed\b',
+        '(?i)\brequested ocr tranche 1 image baseline was completed\b',
+        '(?i)\balready reflects completion of the requested ocr tranche 1 image baseline\b',
+        '(?i)\balready reflects completion of the requested ocr tranche 1 baseline\b',
+        '(?i)\balready reflects completion of the requested yjg ocr tranche 1 image baseline\b',
+        '(?i)\balready contains the completed ocr tranche 1 image baseline\b',
+        '(?i)\bocr startup slice completed\b',
+        '(?i)\bocr baseline tranche is fully complete\b',
+        '(?i)\byjg ocr tranche 1 is fully complete\b',
+        '(?i)\bpoem-bearing page spans and page-plus-line anchor planning slice was completed\b',
+        '(?i)\bpoem bearing page spans and page plus line anchor planning slice was completed\b',
+        '(?i)\balready reflects completion of the requested poem-bearing page spans and page-plus-line anchor planning slice\b',
+        '(?i)\balready reflects completion of the requested poem bearing page spans and page plus line anchor planning slice\b',
+        '(?i)\byjg poem span and anchor planning slice was completed\b',
+        '(?i)\balready contains the completed poem span and anchor planning slice\b',
+        '(?i)\bpoem-locus segmentation and base-anchor opening slice was completed\b',
+        '(?i)\bpoem locus segmentation and base anchor opening slice was completed\b',
+        '(?i)\balready reflects completion of the requested poem-locus segmentation and base-anchor opening slice\b',
+        '(?i)\balready reflects completion of the requested poem locus segmentation and base anchor opening slice\b',
+        '(?i)\byjg poem-locus segmentation and base-anchor opening slice was completed\b',
+        '(?i)\balready contains the completed poem-locus segmentation and base-anchor opening slice\b',
+        '(?i)\bfirst exact-witness comparison\/transcription slice was completed\b',
+        '(?i)\bfirst exact witness comparison\/transcription slice was completed\b',
+        '(?i)\bfirst exact-witness comparison and transcription slice was completed\b',
+        '(?i)\balready reflects completion of the requested first exact-witness comparison\/transcription slice\b',
+        '(?i)\balready reflects completion of the requested first exact witness comparison\/transcription slice\b',
+        '(?i)\byjg first exact-witness comparison\/transcription slice was completed\b',
+        '(?i)\balready contains the completed first exact-witness comparison\/transcription slice\b',
+        '(?i)\bcontinued exact comparison from corrected openings slice was completed\b',
+        '(?i)\bcontinue exact comparison from corrected openings slice was completed\b',
+        '(?i)\balready reflects completion of the requested exact comparison from corrected openings slice\b',
+        '(?i)\balready reflects completion of the requested continued exact comparison from corrected openings slice\b',
+        '(?i)\byjg continued exact comparison from corrected openings slice was completed\b',
+        '(?i)\balready contains the completed exact comparison from corrected openings slice\b',
+        '(?i)\bearly interior exact comparison tranche was completed\b',
+        '(?i)\balready reflects completion of the requested early interior exact comparison tranche\b',
+        '(?i)\byjg early interior exact comparison tranche was completed\b',
+        '(?i)\balready contains the completed early interior exact comparison tranche\b',
+        '(?i)\badjacent interior exact comparison tranche was completed\b',
+        '(?i)\balready reflects completion of the requested adjacent interior exact comparison tranche\b',
+        '(?i)\byjg adjacent interior exact comparison tranche was completed\b',
+        '(?i)\balready contains the completed adjacent interior exact comparison tranche\b',
+        '(?i)\bshared interior exact comparison tranche was completed\b',
+        '(?i)\balready reflects completion of the requested shared interior exact comparison tranche\b',
+        '(?i)\byjg shared interior exact comparison tranche was completed\b',
+        '(?i)\balready contains the completed shared interior exact comparison tranche\b',
+        '(?i)\bovernight shared-body exact comparison tranche was completed\b',
+        '(?i)\bovernight shared body exact comparison tranche was completed\b',
+        '(?i)\balready reflects completion of the requested overnight shared-body exact comparison tranche\b',
+        '(?i)\balready reflects completion of the requested overnight shared body exact comparison tranche\b',
+        '(?i)\byjg overnight shared-body exact comparison tranche was completed\b',
+        '(?i)\balready contains the completed overnight shared-body exact comparison tranche\b',
+        '(?i)\bdaylong shared-body exact comparison tranche was completed\b',
+        '(?i)\bdaylong shared body exact comparison tranche was completed\b',
+        '(?i)\balready reflects completion of the requested daylong shared-body exact comparison tranche\b',
+        '(?i)\balready reflects completion of the requested daylong shared body exact comparison tranche\b',
+        '(?i)\byjg daylong shared-body exact comparison tranche was completed\b',
+        '(?i)\balready contains the completed daylong shared-body exact comparison tranche\b',
+        '(?i)\bboundary-focused closing tranche was completed\b',
+        '(?i)\bboundary focused closing tranche was completed\b',
+        '(?i)\balready reflects completion of the requested boundary-focused closing tranche\b',
+        '(?i)\balready reflects completion of the requested boundary focused closing tranche\b',
+        '(?i)\byjg boundary-focused closing tranche was completed\b',
+        '(?i)\balready contains the completed boundary-focused closing tranche\b',
+        '(?i)\bdaylong boundary-focused closing tranche was completed\b',
+        '(?i)\bdaylong boundary focused closing tranche was completed\b',
+        '(?i)\balready reflects completion of the requested daylong boundary-focused closing tranche\b',
+        '(?i)\balready reflects completion of the requested daylong boundary focused closing tranche\b',
+        '(?i)\byjg daylong boundary-focused closing tranche was completed\b',
+        '(?i)\balready contains the completed daylong boundary-focused closing tranche\b',
+        '(?i)\bcopy-text selection tranche was completed\b',
+        '(?i)\bcopy text selection tranche was completed\b',
+        '(?i)\balready reflects completion of the requested copy-text selection tranche\b',
+        '(?i)\balready reflects completion of the requested copy text selection tranche\b',
+        '(?i)\byjg copy-text selection tranche was completed\b',
+        '(?i)\balready contains the completed copy-text selection tranche\b',
+        '(?i)\bdaylong copy-text selection tranche was completed\b',
+        '(?i)\bdaylong copy text selection tranche was completed\b',
+        '(?i)\balready reflects completion of the requested daylong copy-text selection tranche\b',
+        '(?i)\balready reflects completion of the requested daylong copy text selection tranche\b',
+        '(?i)\byjg daylong copy-text selection tranche was completed\b',
+        '(?i)\balready contains the completed daylong copy-text selection tranche\b',
+        '(?i)\bscan-completion tranche was completed\b',
+        '(?i)\bscan completion tranche was completed\b',
+        '(?i)\balready reflects completion of the requested scan-completion tranche\b',
+        '(?i)\balready reflects completion of the requested scan completion tranche\b',
+        '(?i)\byjg scan-completion tranche was completed\b',
+        '(?i)\balready contains the completed scan-completion tranche\b',
+        '(?i)\bremaining first-tier OCR tranche was completed\b',
+        '(?i)\bremaining first tier OCR tranche was completed\b',
+        '(?i)\balready reflects completion of the requested remaining first-tier OCR tranche\b',
+        '(?i)\balready reflects completion of the requested remaining first tier OCR tranche\b',
+        '(?i)\byjg remaining first-tier OCR tranche was completed\b',
+        '(?i)\balready contains the completed remaining first-tier OCR tranche\b',
+        '(?i)\bsong package continuation queue was completed\b',
+        '(?i)\bsong-package continuation queue was completed\b',
+        '(?i)\balready reflects completion of the requested song package continuation queue\b',
+        '(?i)\balready contains the completed song package continuation queue\b',
+        '(?i)\bapparatus continuation tranche was completed\b',
+        '(?i)\balready reflects completion of the requested apparatus continuation tranche\b',
+        '(?i)\byjg apparatus continuation tranche was completed\b',
+        '(?i)\balready contains the completed apparatus continuation tranche\b',
+        '(?i)\btranslation continuation tranche was completed\b',
+        '(?i)\balready reflects completion of the requested translation continuation tranche\b',
+        '(?i)\byjg translation continuation tranche was completed\b',
+        '(?i)\balready contains the completed translation continuation tranche\b',
         '(?i)\balready contains the completed continuation\b',
         '(?i)\balready includes the continuation you asked for\b',
         '(?i)\bcurrent package state already includes the continuation you asked for\b',
@@ -153,8 +260,25 @@ $promptText = Get-PromptText
 $tmpDir = Join-Path $ProjectRoot ".tmp_codex_gate"
 New-Item -ItemType Directory -Force -Path $tmpDir | Out-Null
 
-$suppressedLogPath = Join-Path $ProjectRoot "provenance\faith-in-mind\process\suppressed-codex-reports.log"
-$loopLogPath = Join-Path $ProjectRoot "provenance\faith-in-mind\process\until-done-wrapper.log"
+$processDirCandidates = @(
+    (Join-Path $ProjectRoot "provenance\song-of-enlightenment\process"),
+    (Join-Path $ProjectRoot "provenance\faith-in-mind\process")
+)
+
+$processLogDir = $null
+foreach ($candidate in $processDirCandidates) {
+    if (Test-Path $candidate) {
+        $processLogDir = $candidate
+        break
+    }
+}
+
+if (-not $processLogDir) {
+    throw "Could not find a known process log directory under $ProjectRoot."
+}
+
+$suppressedLogPath = Join-Path $processLogDir "suppressed-codex-reports.log"
+$loopLogPath = Join-Path $processLogDir "until-done-wrapper.log"
 
 $runCount = 0
 $useRunCap = $MaxRuns -gt 0
@@ -177,13 +301,13 @@ while ((-not $useRunCap) -or ($runCount -lt $MaxRuns)) {
         $args += "--ephemeral"
     }
 
-    $args += $promptText
+    $args += "-"
 
     [Console]::Out.WriteLine("[$timestamp] starting run $runCount")
 
     $savedErrorAction = $ErrorActionPreference
     $ErrorActionPreference = "Continue"
-    $jsonLines = & codex @args 2>&1
+    $jsonLines = $promptText | & codex @args 2>&1
     $ErrorActionPreference = $savedErrorAction
     $exitCode = $LASTEXITCODE
     $jsonLines | Set-Content -Path $jsonlPath -Encoding UTF8

@@ -30,7 +30,6 @@
         "line_numbers"
       ],
       "excludes": [
-        "commentary_prose",
         "workflow_archaeology",
         "x_source_chain_history"
       ]
@@ -55,6 +54,7 @@
   "notes": [
     "The apparatus is selective and poem-level only.",
     "Supplied and omitted loci may resolve through both the T1 boundary page and a comparison witness page band.",
-    "The evented-anchor layer is intentionally poem-first and selective rather than commentary-universal."
+    "The evented-anchor layer is intentionally poem-first and selective rather than commentary-universal.",
+    "The currently assembled commentary corpus is largely Japanese-side reception/commentary material and should be ignored in the reader-facing product."
   ]
 }

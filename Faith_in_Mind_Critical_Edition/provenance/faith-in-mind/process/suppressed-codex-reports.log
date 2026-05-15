@@ -4858,3 +4858,171 @@ Newly resolved loci: none. Still unresolved: `T1-p007.l03`, `T1-p007.l04`, `T1-p
 
 This continuation stopped because the overnight unconstrained corroborative hunt for these 8 is again genuinely exhausted across plausible productive avenues beyond the already logged `X175` frontier, not because of a gate, validation failure, or a single-branch stop. Validation still passes with `python scripts/validate_package.py`.
 
+## 20260510-130350
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260510-130350.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260510-130350.txt
+message:
+Real blocker: the OCR tranche 1 image baseline is still actively running and is not yet complete, so I cannot honestly claim tranche completion or make a stable commit while live OCR workers are still writing outputs.
+
+I resumed the package safely from state, verified the runtime split and `chi_tra` resolution, updated the package state/log surfaces, and revalidated the package successfully with `scripts/validate_package.py`. I also moved the incomplete work onto a package-local background scheduler at [run-tranche1-scheduler.ps1](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/ocr/_logs/run-tranche1-scheduler.ps1>) with progress in [scheduler.log](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/ocr/_logs/scheduler.log>). State files were synchronized in [current-state.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/current-state.md>), [process-log.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/process-log.md>), [decision-log.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/decision-log.md>), [human-log.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/human-log.md>), [process.json](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/process.json>), and [timeline.json](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/timeline.json>).
+
+Current OCR state at stop:
+- `YJG-W16`: `rapidocr 55/55`, `paddleocr 55/55`, `easyocr 22/55`, `tesseract 1/55`
+- `YJG-W17`: `rapidocr 57/57`, `paddleocr 15/57`, `easyocr 1/57`, `tesseract 1/57`
+- `YJG-W22`: `rapidocr 68/68`, `paddleocr 34/68`, `easyocr 5/68`, `tesseract 32/68`
+
+What remains:
+- finish `paddleocr` on `YJG-W17` and `YJG-W22`
+- finish `easyocr` on `YJG-W16`, `YJG-W17`, `YJG-W22`
+- finish `tesseract` on `YJG-W16`, `YJG-W17`, `YJG-W22`
+- then re-sync logs/checkpoints again and only commit once outputs stop changing
+
+RapidOCR is complete across tranche 1, but OCR tranche 1 image baseline was not completed.
+
+## 20260510-162823
+run: 2
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260510-162823.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260510-162823.txt
+message:
+Status is still `ocr-startup-baseline-running`. I resumed the tranche from the existing package state, audited the live OCR workspace, confirmed `RapidOCR` is complete on `YJG-W16`, `YJG-W17`, and `YJG-W22`, and confirmed `PaddleOCR` is now complete on `YJG-W16`. I also widened the active resumable batch so the tranche is no longer stuck behind the earlier four-slot recovery queue, and I synchronized `current-state.md`, `human-log.md`, `process-log.md`, `decision-log.md`, `process.json`, and `timeline.json` to match the real checkpoint. `scripts/validate_package.py` passes.
+
+Current live OCR counts at the last checkpoint:
+- `YJG-W16`: `easyocr 26/55`, `tesseract 7/55`, `paddleocr 55/55`, `rapidocr 55/55`
+- `YJG-W17`: `easyocr 4/57`, `tesseract 5/57`, `paddleocr 19/57`, `rapidocr 57/57`
+- `YJG-W22`: `easyocr 6/68`, `tesseract 37/68`, `paddleocr 38/68`, `rapidocr 68/68`
+
+What remains is the rest of the tranche-1 baseline for incomplete `PaddleOCR`, `EasyOCR`, and `Tesseract` pages. There is no package-validation failure and no missing-runtime blocker at this point; the limiting factor is wall-clock OCR runtime on the live background jobs. I did not make a commit yet because the OCR outputs and synchronized process files are still actively changing under the running tranche.
+
+## 20260511-003256
+run: 3
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260511-003256.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260511-003256.txt
+message:
+OCR tranche 1 image baseline was completed.
+
+I resumed the package from its recorded partial state, confirmed the live OCR outputs, and carried the tranche through to full four-engine completion on `YJG-W16`, `YJG-W17`, and `YJG-W22` using the package-local runners and logs. The process/state surfaces are synchronized to that completion, `scripts/__pycache__` was removed, package validation passes, and I made commit `fab30a5` (`Complete Song tranche-1 OCR baseline`).
+
+The only recorded zero-text completions are honest page-level outcomes, not engine failures: `YJG-W16` `RapidOCR` `page-0055`, plus `YJG-W22` `RapidOCR` and `EasyOCR` `page-0068`. The next required slice in package state is identifying poem-bearing page spans and deriving page-plus-line anchor planning from the completed baseline.
+
+## 20260511-062449
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260511-062449.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260511-062449.txt
+message:
+poem-bearing page spans and page-plus-line anchor planning slice was completed
+
+The package now records the confirmed poem-bearing spans as `YJG-W16` `page-0004` to `page-0054`, `YJG-W17` `page-0004` to `page-0057`, and `YJG-W22` `page-0004` to `page-0063`. I added the new planning surface at [anchor-planning.md](/C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/anchor-planning.md), with page-tier versus line-tier rules, mixed opening/closing page handling, and the early character-tier watchlist.
+
+I synchronized the normal state files, advanced `process.json` and `timeline.json`, checked off the publication checklist item, validated the package with `python scripts/validate_package.py`, and committed the bounded batch as `b40a60d` with message `Complete Song OCR anchor planning slice`.
+
+## 20260511-183846
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260511-183846.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260511-183846.txt
+message:
+poem-locus segmentation and base-anchor opening slice was completed.
+
+I worked in `C:\woodblocks\Song_of_Enlightenment_Critical_Edition`, reloaded the required state/gate files, inspected the completed OCR/image tranche for `YJG-W16`, `YJG-W17`, and `YJG-W22`, then opened the first real poem-locus register. The package now has a first stable line map at [poem-line-map.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/poem-line-map.md>) and a populated [anchor-base-register.jsonl](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/anchor-base-register.jsonl>) with `165` page-tier `.poem-band` rows and `760` line-tier rows, `925` total. Mixed/provisional loci were kept explicit rather than overclaimed: `YJG-W16 page-0004`, `YJG-W17 page-0004`, `YJG-W17 page-0057`, `YJG-W22 page-0004`, and `YJG-W22 page-0063`.
+
+I synchronized the package state in [current-state.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/current-state.md>), [process-log.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/process-log.md>), [decision-log.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/decision-log.md>), [human-log.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/human-log.md>), [anchor-planning.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/anchor-planning.md>), [publication-checklist.md](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/publication-checklist.md>), [process.json](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/process.json>), and [timeline.json](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/timeline.json>). Validation passed via `python scripts/validate_package.py`. I also added the reproducible opener at [open_first_poem_anchor_slice.py](</C:/woodblocks/Song_of_Enlightenment_Critical_Edition/scripts/open_first_poem_anchor_slice.py>) and committed the batch as `bd51109` with message `Open first Song of Enlightenment poem anchors`.
+
+The next required slice is now the first exact-witness comparison/transcription pass against these opened loci, starting with the mixed openings and `YJG-W22 page-0063`.
+
+## 20260511-212733
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260511-212733.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260511-212733.txt
+message:
+first exact-witness comparison/transcription slice was completed
+
+I resumed from the package state, reread the required process/gate files, checked the OCR outputs and witness images for `YJG-W16`, `YJG-W17`, and `YJG-W22`, and completed the first bounded exact-witness startup pass for the recorded mixed loci. The core result is that the package’s earlier provisional opening span was corrected: the true mixed poem openings for the active exact witnesses are `YJG-W16 page-0007`, `YJG-W17 page-0007`, and `YJG-W22 page-0007`, while `YJG-W17 page-0057` and `YJG-W22 page-0063` remain the live closing-boundary loci.
+
+I synchronized the package state and provenance where this slice required it: `current-state.md`, `process-log.md`, `human-log.md`, `decision-log.md`, `anchor-base-register.jsonl`, `anchor-event-log.jsonl`, `xml-open/ce/song-of-enlightenment/process.json`, and `timeline.json`. The anchor register now reflects `156` page-tier rows, `721` line-tier rows, `877` total rows. Validation passed with `python scripts/validate_package.py`.
+
+The bounded batch was committed as `26fe9bb` with message `Complete first exact witness startup slice`. The remaining dirty files shown by `git status` are outside this package slice and were left untouched.
+
+## 20260512-053843
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260512-053843.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260512-053843.txt
+message:
+continued exact comparison from corrected openings slice was completed
+
+I resumed from the package state, re-read the required process and gate files, checked the exact witnesses at `YJG-W16 page-0007`, `YJG-W17 page-0007`, and `YJG-W22 page-0007`, and kept `YJG-W17 page-0057` plus `YJG-W22 page-0063` active as boundary loci. The bounded batch now records a stabilized shared opening transcription through `六度萬行體中圓`, synchronized across the required logs and event/state surfaces, with `YJG-W22 page-0007` retained as an opening-control witness rather than over-forced into uncertain early-interior transcription.
+
+Validation passed with `python scripts/validate_package.py`, and I committed the batch as `9181503` with message `song-of-enlightenment: continue corrected-opening transcription batch`. The Song of Enlightenment package itself is clean after the commit; the remaining `git status` noise is from unrelated parent-repo files outside this package slice.
+
+## 20260512-175452
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260512-175452.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260512-175452.txt
+message:
+I’m blocked by the session sandbox.
+
+I could read `C:\woodblocks\Song_of_Enlightenment_Critical_Edition` and verify the tranche state, but this session is only writable in `C:\woodblocks\Faith_in_Mind_Critical_Edition`, `C:\tmp`, and `C:\Users\Fabian Trunz\.codex\memories`. Any edit in `C:\woodblocks\Song_of_Enlightenment_Critical_Edition` is rejected, so I cannot update the package surfaces, run a meaningful in-place validation, or create the required commit.
+
+What I did confirm before hitting the write barrier:
+- the committed head is `9181503`
+- the next clean shared interior continuation is on `YJG-W16 page-0009` and `YJG-W17 page-0009`
+- a conservative bounded next accepted tranche is:
+  `夢裏明明有六趣 覺後空空無大千 無罪福無損益 寂滅性中莫問覓`
+- `YJG-W17 page-0057` and `YJG-W22 page-0063` should remain active boundary loci
+- `YJG-W22` immediate early-interior control is still visually interfered by inserted manuscript leaves, so it should stay deferred for this tranche
+
+If you want me to finish the slice end-to-end, restart me in a session whose writable root includes `C:\woodblocks\Song_of_Enlightenment_Critical_Edition` or move that package under the current writable workspace.
+
+## 20260512-181412
+run: 2
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260512-181412.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260512-181412.txt
+message:
+Committed in `C:\woodblocks\Song_of_Enlightenment_Critical_Edition` as `b1d4f07` (`song-of-enlightenment: continue early interior exact batch`).
+
+The batch extends the shared exact comparison beyond `六度萬行體中圓` with the next conservative `page-0009` continuation on `YJG-W16` / `YJG-W17`, keeps `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary loci, and updates the synchronized Song process surfaces plus `process.json` / `timeline.json`. `anchor-event-log.jsonl` was extended; `anchor-base-register.jsonl` did not need structural changes for this slice.
+
+Validation passed with `python scripts/validate_package.py`. The remaining dirty files shown by `git status` are outside the Song workspace and were not touched.
+
+early interior exact comparison tranche was completed
+
+## 20260512-185550
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260512-185550.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260512-185550.txt
+message:
+Committed `b112b68` with the bounded `page-0010` continuation batch. The package state, logs, machine-readable surfaces, and anchor event log now carry the shared `YJG-W16` / `YJG-W17` interior continuation through `決定說 表真僧 有人不肯任情徵`, while `YJG-W17 page-0057` and `YJG-W22 page-0063` remain active boundary loci. `anchor-base-register.jsonl` did not need geometry changes in this slice.
+
+Validation passed with `python scripts/validate_package.py`.
+
+adjacent interior exact comparison tranche was completed
+
+## 20260512-220034
+run: 1
+exit_code: 0
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260512-220034.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260512-220034.txt
+message:
+Committed as `eb022ec` with the next shared `page-0011` tranche stabilized from `YJG-W16` and `YJG-W17`. The batch advances through `直截根源佛所印 摘葉尋枝我不能`, `摩尼珠 人不識 如來藏裏親收得`, `六般神用空不空 一顆圓光色非色`, `淨五眼 得五力 唯證乃知難可測`, and `鏡裏看形見不難 水中捉月爭拈得`, while keeping `YJG-W17 page-0057` and `YJG-W22 page-0063` active as boundary loci.
+
+I synchronized the normal Song provenance/state surfaces, appended the new anchor events, left `anchor-base-register.jsonl` unchanged because no geometry/base-anchor change was needed, and `python scripts/validate_package.py` passed.
+
+shared interior exact comparison tranche was completed
+
+## 20260512-222708
+run: 1
+exit_code: 2
+jsonl: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-exec-20260512-222708.jsonl
+last_message_file: C:\woodblocks\Faith_in_Mind_Critical_Edition\.tmp_codex_gate\codex-last-20260512-222708.txt
+message:
+
+

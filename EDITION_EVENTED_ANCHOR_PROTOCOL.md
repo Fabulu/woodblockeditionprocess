@@ -74,6 +74,8 @@ Minimum schema:
   "polygon": null,
   "crop_asset_path": "provenance/faith-in-mind/process/visual-workbench-holdouts/T1-p007/T1-p007-lower-cluster-rot90-mirror-hi.png",
   "ocr_region_ref": "paddleocr-ppocrv4:T1-p007:dt_polys[5]",
+  "evidence_tier": "line",
+  "char_coverage": "none",
   "char_boxes": [],
   "notes": "Curated lower-cluster anchor for reopened manual segmentation review."
 }
@@ -89,6 +91,8 @@ Minimum schema:
 - `source_kind`
 - `page_bbox`
 - `locus_bbox`
+- `evidence_tier` -- granularity level: `page`, `line`, `character`, or `cross_witness_character` (see `EDITION_WITNESS_COORDINATE_SPEC.md` Section 7.5)
+- `char_coverage` -- bbox completeness: `full`, `partial`, `none`, or `not_applicable` (see `EDITION_WITNESS_COORDINATE_SPEC.md` Section 7.5)
 
 ### Optional but strongly preferred
 
@@ -132,6 +136,8 @@ Minimum schema:
   "page_id": "T1-p007",
   "page_bbox": [0.0, 0.0, 1.0, 1.0],
   "locus_bbox": [0.58, 0.22, 0.08, 0.51],
+  "evidence_tier": "character",
+  "char_coverage": "partial",
   "char_boxes": [
     {"position": 1, "char": "師", "bbox": [0.60, 0.23, 0.02, 0.05]},
     {"position": 4, "char": "總", "bbox": [0.60, 0.35, 0.02, 0.05]}
@@ -160,6 +166,8 @@ Minimum schema:
 - `page_id`
 - `page_bbox`
 - `locus_bbox`
+- `evidence_tier` -- granularity of the evidence used for this event: `page`, `line`, `character`, or `cross_witness_character`
+- `char_coverage` -- bbox completeness at time of event: `full`, `partial`, `none`, or `not_applicable`
 - `evidence_type`
 - `confidence`
 
