@@ -12,7 +12,8 @@ The current active open questions are:
    `YJG-W8` and `YJG-W9` both open on mixed `page-0002` and close on mixed `page-0055`.
 3. The grouped ordinary apparatus continuation tranche is now completed:
    the package has poem-level apparatus notes for the opening boundary, the early clean interior continuation, the main clean shared interior run, the late poem-band-filtered receipt cluster and stop point, the final stabilized closing cluster, and the copy-text closing watchpoint.
-4. Any further apparatus expansion now requires fresh locus-by-locus editorial judgment rather than simple continuation from already stabilized grouped notes.
-5. Keep `YJG-W21` blocked honestly until the held PDF can be rendered or replaced by a genuinely workable local source file.
-6. Keep `YJG-W12` blocked honestly rather than pretending it is a latent OCR quick win.
-7. Keep `YJG-A10` and `YJG-A11` as second-tier controls outside the first-tier exact re-entry tranche.
+4. The package now also has a machine-readable selective apparatus layer that records the already stabilized poem-level judgments without pretending that full variant collation is complete.
+5. Any further apparatus expansion now requires fresh locus-by-locus editorial judgment rather than simple continuation from already stabilized grouped notes.
+6. Keep `YJG-W21` blocked honestly until the held PDF can be rendered or replaced by a genuinely workable local source file.
+7. Keep `YJG-W12` blocked honestly rather than pretending it is a latent OCR quick win.
+8. Keep `YJG-A10` and `YJG-A11` as second-tier controls outside the first-tier exact re-entry tranche.

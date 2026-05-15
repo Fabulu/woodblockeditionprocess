@@ -126,6 +126,43 @@
 - Note:
   The late receipt cluster from `師子吼 無畏說` through `我今解此如意珠 信受之者皆相應` required a tighter evidence posture than the earlier clean interior run. It became stable only after restricting OCR support to the registered `poem-band`, and the package therefore keeps this tranche at poem level rather than promoting it to character-tier certainty. The same bounded review also fixed the honest stop point: the next left-frame surfaces at `YJG-W16 page-0019` and `YJG-W17 page-0021` break into commentary-style prose and back-reference material rather than one more stable adjacent poem continuation.
 
+## Entry 7: full first-tier OCR field now opened without forcing collation
+
+- Locus basis:
+  - `opening-shared-a`
+  - `shared-interior-shared-ay`
+- OCR-complete first-tier controls:
+  - `YJG-W2`
+  - `YJG-W4C`
+  - `YJG-W4F`
+  - `YJG-W4G`
+  - `YJG-W8`
+  - `YJG-W9`
+- Note:
+  The render-prepared held first-tier witnesses now also have completed four-engine OCR baselines, so they no longer sit outside the local OCR field. That changes the apparatus posture at witness-class level but not yet at full line-collation level: these witnesses can now support poem-level closure and packaging judgments from both image and OCR evidence, yet the package still refuses to over-claim full fresh variant extraction from commentary-bearing or short-tranche surfaces.
+
+## Entry 8: commentary-bearing first-tier pair remains span control first
+
+- Locus basis:
+  - `YJG-W2 page-0005`
+  - `YJG-W2 page-0048`
+  - `YJG-W4F page-0005`
+  - `YJG-W4F page-0048`
+- Witness-class basis:
+  - `YJG-W2`
+  - `YJG-W4F`
+- Note:
+  Even after OCR completion, `YJG-W2` and `YJG-W4F` remain commentary-bearing or prose-surrounded manifestations rather than clean bare poem witnesses. Their poem-bearing spans are now secure enough for apparatus-level boundary and witness-class notes, but the package still does not treat them as ordinary line-by-line collators inside the first selective apparatus layer.
+
+## Entry 9: blocked Korean exact witness remains blocked by source format, not editorial choice
+
+- Locus basis:
+  - `YJG-W21`
+- Witness basis:
+  - `YJG-W21`
+- Note:
+  `YJG-W21` was reprobed at the end of the remaining first-tier OCR tranche and remains blocked because the held local PDF still opens as `PDF 1.4` while exposing `0` renderable pages. This is recorded as a source-format failure, not as a suppressed witness or an implicit editorial rejection.
+
 ## Current limits
 
 - This draft does not yet attempt full variant collation.

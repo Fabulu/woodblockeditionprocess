@@ -346,6 +346,12 @@
             "date": "2026-05-14",
             "type": "remaining_first_tier_ocr_tranche_completed",
             "summary": "Completed the remaining render-prepared held first-tier OCR tranche across YJG-W2, YJG-W4C, YJG-W4F, YJG-W4G, YJG-W8, and YJG-W9 inside the package-local runner stack, including a local truncated-JPG repair on YJG-W2 page-0038 and a page-specific Paddle fallback without word boxes on YJG-W4G page-0008 and page-0067 after a reproducible engine KeyError; YJG-W21 was reprobed and remains honestly blocked because the held PDF still opens as PDF 1.4 with 0 renderable pages locally."
+        },
+        {
+            "event_id": "YJG-058",
+            "date": "2026-05-14",
+            "type": "machine_readable_apparatus_opened",
+            "summary": "Opened the first non-empty machine-readable selective apparatus layer in xml-open/ce/song-of-enlightenment/apparatus.json by promoting the already stabilized grouped poem-level judgments out of markdown-only status. The new layer records the mixed opening boundary, the early and main clean shared exact basis, the poem-band-filtered late receipt cluster, the late-span closure controls from the newly OCR-complete first-tier field, the copy-text closing watchpoint at YJG-W22 page-0063, the commentary-bearing witness-class status of YJG-W2/YJG-W4F, and the blocked source-format state of YJG-W21."
         }
     ]
 }

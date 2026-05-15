@@ -164,3 +164,9 @@
 - That continuation has now been completed in a restrained way. The draft now records the early clean interior continuation, the main clean shared interior run, and the later poem-band-filtered receipt cluster without pretending that the package has already done fresh character-tier adjudication or full variant collation.
 
 - The important consequence is a clearer stop condition. Further apparatus work is no longer a routine carry-forward from the present state; it now needs fresh editorial judgment or an actual phase change.
+
+- The newly completed first-tier OCR tranche has now been cashed out into the apparatus layer instead of being left as a silent background gain. The package has opened a non-empty machine-readable `apparatus.json` and moved the already stabilized poem-level judgments out of markdown-only status.
+
+- This did not suddenly make the edition fully collated. The machine-readable apparatus stays grouped and poem-level, exactly because `YJG-W2` and `YJG-W4F` are still commentary-bearing surfaces, `YJG-W4C` is still a short tranche, and `YJG-W21` is still blocked by source format rather than editorial will.
+
+- The practical gain is still real. The package now has one place where a frontend, later TEI build, or final publication pass can read the current editorial judgments without re-mining the process prose every time.

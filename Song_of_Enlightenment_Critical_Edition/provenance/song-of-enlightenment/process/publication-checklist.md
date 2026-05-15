@@ -82,6 +82,8 @@
 
 - [x] apparatus drafted
 
+- [x] machine-readable apparatus opened
+
 - [ ] TEI edition built
 
 - [ ] ReadZen handoff prepared

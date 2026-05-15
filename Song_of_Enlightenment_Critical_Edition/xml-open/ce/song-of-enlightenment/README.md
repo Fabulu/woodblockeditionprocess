@@ -48,6 +48,7 @@ Current state:
 - `YJG-W4G` PaddleOCR required a page-specific local fallback without word boxes on `page-0008` and `page-0067` after `return_word_box=True` hit a reproducible engine `KeyError`
 - a package-local apparatus opening now exists at `provenance/song-of-enlightenment/process/apparatus-opening.md`
 - a first selective apparatus draft now exists at `provenance/song-of-enlightenment/process/apparatus-draft.md`
+- `xml-open/ce/song-of-enlightenment/apparatus.json` is now populated with the first selective poem-level machine-readable apparatus layer
 - ordinary apparatus continuation is now exhausted
 - translation sync is now carried through the current stabilized frontier, ending at `我今解此如意珠 信受之者皆相應`
 

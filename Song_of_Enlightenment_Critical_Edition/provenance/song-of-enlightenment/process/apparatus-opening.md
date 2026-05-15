@@ -17,6 +17,16 @@
   - `YJG-W4G`: `page-0005` to `page-0058`
   - `YJG-W8`: `page-0002` to `page-0055`
   - `YJG-W9`: `page-0002` to `page-0055`
+- The same renderable held first-tier subset now also has package-local four-engine OCR baselines:
+  - `YJG-W2`: complete
+  - `YJG-W4C`: complete
+  - `YJG-W4F`: complete
+  - `YJG-W4G`: complete, with two page-specific Paddle fallbacks on `page-0008` and `page-0067`
+  - `YJG-W8`: complete
+  - `YJG-W9`: complete
+- `YJG-W21` remains blocked honestly:
+  - held PDF opens as `PDF 1.4`
+  - local renderer still exposes `0` pages
 - The stabilized poem body already reaches the closing cluster through `我今解此如意珠 信受之者皆相應` in the existing transcription and translation-diff surfaces.
 - The already stabilized interior body also now falls into three usable apparatus evidence classes without forcing fresh character-tier adjudication:
   - clean direct-image shared interiors on `YJG-W16` and `YJG-W17` from `page-0009` through `page-0017`
@@ -33,6 +43,7 @@
    `YJG-W2` and `YJG-W4F` remain commentary-bearing;
    `YJG-W4C` is a short tranche;
    `YJG-W4G`, `YJG-W8`, and `YJG-W9` now add honest late-span control without yet forcing full local line extraction.
+   Their completed OCR baselines now justify machine-readable poem-level apparatus entries about witness class and closure, but not yet a wholesale upgrade to full variant collation.
 4. The first selective apparatus drafting pass should start from already stabilized shared loci in:
    `provenance/song-of-enlightenment/process/translation-diff-log.md`
    and align them against:
@@ -51,3 +62,4 @@
 - Second-tier control deployment from `YJG-A10` and `YJG-A11`.
 - Any work on `YJG-W21` or `YJG-W12`, which remain blocked for separate reasons.
 - Fresh locus-by-locus interior variant selection beyond the grouped evidence classes already recorded in the draft.
+- Any attempt to pretend that `YJG-W21` belongs to the ordinary completed OCR comparison field before a real renderable local source exists.

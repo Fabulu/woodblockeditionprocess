@@ -354,3 +354,9 @@
 
 - Reason: this was the last already stabilized Chinese frontier that still lacked synchronized English rendering. Beyond it, no further honest local continuation remains inside the present package evidence without reopening finer closing adjudication, blocked witnesses, or fresh apparatus-level judgment.
 
+## D-042 `2026-05-14`
+
+- Decision: open the selective apparatus as a machine-readable layer now, but keep it grouped and poem-level rather than pretending full variant collation is complete.
+
+- Reason: the newly completed first-tier OCR field materially strengthens witness-class and closure judgments, so the apparatus should no longer live only in markdown. But the package still does not have a warrant for full line-by-line or character-tier extraction from commentary-bearing, short-tranche, or blocked witnesses.
+

@@ -734,6 +734,30 @@
 
   - `YJG-W22` `page-0063`
 
+- Promoted the first selective Song apparatus out of markdown-only status and into `xml-open/ce/song-of-enlightenment/apparatus.json`.
+
+- Kept that machine-readable layer selective and poem-level rather than pretending the newly OCR-complete first-tier field already justifies full variant collation.
+
+- Recorded there:
+
+  - the mixed opening boundary judgment
+
+  - the early clean shared exact basis
+
+  - the main clean shared exact basis
+
+  - the poem-band-filtered late receipt cluster
+
+  - the late-span closure controls from `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9`
+
+  - the copy-text closing watchpoint at `YJG-W22 page-0063`
+
+  - the commentary-bearing witness-class status of `YJG-W2` and `YJG-W4F`
+
+  - the honest blocked source-format state of `YJG-W21`
+
+- Updated the package state so the next local work is no longer more OCR or ordinary apparatus continuation, but post-OCR editorial consolidation from this machine-readable apparatus frontier.
+
 
 - Continued the same render-prepared closing-boundary tranche beyond the already stabilized Korean pair rather than fragmenting the work into witness-by-witness micromoves.
 
