@@ -1,0 +1,73 @@
+{
+  "project": {
+    "slug": "song-of-enlightenment",
+    "title_zh": "永嘉證道歌",
+    "title_en": "Song of Enlightenment"
+  },
+  "rights": {
+    "status": "witness-by-witness-rights-tracking-active",
+    "note": "Witness rights remain tracked witness by witness during acquisition, and the current poem-first edition is now complete on the present rights-safe witness basis."
+  },
+  "witnesses": [
+    {
+      "witness_id": "YJG-W1",
+      "role": "exact anthology witness",
+      "status": "held",
+      "upstream_url": "https://commons.wikimedia.org/wiki/File:NDL2537640_%E5%9B%9B%E9%83%A8%E9%8C%B2.pdf"
+    },
+    {
+      "witness_id": "YJG-W2",
+      "role": "exact standalone witness",
+      "status": "held-first-tier",
+      "upstream_url": "https://commons.wikimedia.org/wiki/File:NDL2537802_%E6%B0%B8%E5%98%89%E7%9C%9F%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C1%E5%8D%B7.pdf"
+    },
+    {
+      "witness_id": "YJG-W4",
+      "role": "exact witness family",
+      "status": "lead",
+      "upstream_url": "https://commons.wikimedia.org/wiki/Category:%E6%B0%B8%E5%98%89%E7%9C%9F%E8%A6%BA%E5%A4%A7%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C"
+    },
+    {
+      "witness_id": "YJG-W5",
+      "role": "exact anthology witness",
+      "status": "lead",
+      "upstream_url": "https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/WZLib-DB/01"
+    },
+    {
+      "witness_id": "YJG-W6",
+      "role": "near-exact anthology witness",
+      "status": "lead",
+      "upstream_url": "https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/WZLib-DB/01"
+    },
+    {
+      "witness_id": "YJG-W8",
+      "role": "exact standalone witness",
+      "status": "held-first-tier",
+      "upstream_url": "https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/Books_in_the_Digital_Library_of_the_National_Library_of_Korea/books/24"
+    },
+    {
+      "witness_id": "YJG-W16",
+      "role": "exact standalone image witness",
+      "status": "held-first-tier-images-compared",
+      "upstream_url": "https://kokusho.nijl.ac.jp/page/list-toyodaitetsugakudo.html"
+    },
+    {
+      "witness_id": "YJG-W17",
+      "role": "exact standalone image witness",
+      "status": "held-first-tier-images-compared",
+      "upstream_url": "https://kokusho.nijl.ac.jp/page/list-berkeleymitsui.html"
+    },
+    {
+      "witness_id": "YJG-W21",
+      "role": "exact standalone witness",
+      "status": "held-first-tier",
+      "upstream_url": "https://commons.wikimedia.org/wiki/File:CNTS-00047967985_%E6%B0%B8%E5%98%89%E7%9C%9E%E8%A6%BA%E7%A6%AA%E5%B8%AB%E8%AD%89%E9%81%93%E6%AD%8C.pdf"
+    },
+    {
+      "witness_id": "YJG-W22",
+      "role": "exact standalone scan-backed witness",
+      "status": "held-first-tier-images-compared",
+      "upstream_url": "https://kokusho.nijl.ac.jp/biblio/200009070/manifest"
+    }
+  ]
+}

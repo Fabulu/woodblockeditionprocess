@@ -4,15 +4,15 @@
 
 - Work: `永嘉證道歌` / `song-of-enlightenment`
 
-- Date: `2026-05-14`
+- Date: `2026-05-15`
 
-- Phase: `editorial-pass-completed`
+- Phase: `declared-complete`
 
-- Current slice: `post_ocr_editorial_pass_no_new_text_change`
+- Current slice: `completion_declaration_after_interedition_gate`
 
-- Last completed slice: `post_ocr_editorial_pass_no_new_text_change`
+- Last completed slice: `completion_declaration_after_interedition_gate`
 
-- Next required action: preserve the package honestly after the first explicit post-OCR editorial pass. The newly OCR-complete first-tier field has now been reviewed and recorded as reinforcement rather than as a source of further adopted text change: `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9` strengthen boundary, closure, and witness-class judgments, while `YJG-W21` remains honestly blocked because the held PDF still opens as PDF `1.4` with `0` renderable pages locally. The next necessary local work is no longer another ordinary editorial pass but TEI build, final publication-oriented consolidation, or the later inter-edition comparison gate
+- Next required action: preserve the completed poem-first Song package honestly. The TEI, publication-facing edition documents, and mandatory inter-critical-edition comparison gate are now all closed. Future work is optional downstream work only: ReadZen rendering, later revision, or blocked-witness recovery if the package is ever explicitly reopened.
 
 - Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
 
@@ -42,7 +42,15 @@
 
 - Late receipt translation continuation result: the translation surfaces now also carry first-pass English renderings for the poem-band-filtered late receipt cluster from `師子吼 無畏說` through `我今解此如意珠 信受之者皆相應`
 
-- Next required slice: `tei_build_or_final_publication_consolidation`
+- TEI build result: the package now has a real TEI edition at `xml-open/ce/song-of-enlightenment/song-of-enlightenment.xml`, generated from the synchronized accepted reading text rather than from ad hoc reconstruction.
+
+- Publication consolidation result: the package now has publication-facing edition documents for the working critical text, editorial method, editorial introduction, and commentary-secondary handling.
+
+- Inter-critical-edition comparison result: the mandatory late gate has now been run against the only prior completed comparandum, `Faith in Mind`. No Song poem-body text change followed from that comparison, but the package now records a real chronology-aware intertextual relationship in the secondary and commentary-facing layers.
+
+- Completion declaration result: the present poem-first Song critical edition is now declared complete on the current basis and is eligible for repo-wide completed-editions registration.
+
+- Next required slice: `readzen_render_integration_or_future_revision`
 
 - Copy-text status: selected as `YJG-W22`
 

@@ -1,0 +1,14 @@
+{
+  "project": {
+    "slug": "song-of-enlightenment"
+  },
+  "counts": {
+    "held_exact_witnesses": 8,
+    "lead_exact_witnesses": 4,
+    "secondary_related_witnesses": 4,
+    "text_change_events": 13,
+    "apparatus_entries": 10,
+    "accepted_text_units": 51,
+    "comparanda_checked": 1
+  }
+}

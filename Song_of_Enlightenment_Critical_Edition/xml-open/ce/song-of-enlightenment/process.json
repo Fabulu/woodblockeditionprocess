@@ -1,78 +1,95 @@
 {
-    "project": {
-        "slug": "song-of-enlightenment",
-        "title_zh": "Ã¦Â°Â¸Ã¥Ëœâ€°Ã¨Â­â€°Ã©Ââ€œÃ¦Â­Å’",
-        "title_en": "Song of Enlightenment",
-        "edition_type": "critical_edition",
-        "scope_mode": "poem_first"
+  "project": {
+    "slug": "song-of-enlightenment",
+    "title_zh": "永嘉證道歌",
+    "title_en": "Song of Enlightenment",
+    "edition_type": "critical_edition",
+    "scope_mode": "poem_first"
+  },
+  "current_phase": "declared-complete",
+  "current_slice": "completion_declaration_after_interedition_gate",
+  "last_completed_slice": "completion_declaration_after_interedition_gate",
+  "next_required_action": "Preserve the completed poem-first Song package honestly. The TEI, publication-facing edition documents, and mandatory inter-critical-edition comparison gate are now all closed. Future work is optional downstream work only: ReadZen rendering, later revision, or blocked-witness recovery if the package is ever explicitly reopened.",
+  "next_required_slice": "readzen_render_integration_or_future_revision",
+  "last_text_changed_event": "YJG-056",
+  "base_witness": {
+    "status": "selected",
+    "witness_id": "YJG-W22",
+    "selection_date": "2026-05-14",
+    "note": "Selected at witness level after active boundary closure because YJG-W22 is the earliest complete independent exact witness already held as a full local image tranche and already active in direct comparison. YJG-W16 and YJG-W17 remain cleaner local comparison surfaces for some already stabilized shared-interior pages, and YJG-W22 page-0063 remains only page-tier-stable at the close."
+  },
+  "witness_families": [
+    {
+      "family_id": "exact-poem",
+      "status": "active-first-comparison"
     },
-    "current_phase": "editorial-pass-completed",
-    "current_slice": "post_ocr_editorial_pass_no_new_text_change",
-    "last_completed_slice": "post_ocr_editorial_pass_no_new_text_change",
-    "next_required_action": "Preserve the package honestly after the first explicit post-OCR editorial pass. The newly OCR-complete first-tier field has now been reviewed and recorded as reinforcement rather than as a source of further adopted text change: YJG-W2, YJG-W4C, YJG-W4F, YJG-W4G, YJG-W8, and YJG-W9 strengthen boundary, closure, and witness-class judgments, while YJG-W21 remains honestly blocked because the held PDF still opens as PDF 1.4 with 0 renderable pages locally. The next necessary local work is no longer another ordinary editorial pass but TEI build, final publication-oriented consolidation, or the later inter-edition comparison gate.",
-    "next_required_slice": "tei_build_or_final_publication_consolidation",
-    "last_text_changed_event": "YJG-056",
-    "base_witness": {
-        "status": "selected",
-        "witness_id": "YJG-W22",
-        "selection_date": "2026-05-14",
-        "note": "Selected at witness level after active boundary closure because YJG-W22 is the earliest complete independent exact witness already held as a full local image tranche and already active in direct comparison. YJG-W16 and YJG-W17 remain cleaner local comparison surfaces for some already stabilized shared-interior pages, and YJG-W22 page-0063 remains only page-tier-stable at the close."
-    },
-    "witness_families": [
-        {
-            "family_id": "exact-poem",
-            "status": "active-first-comparison"
-        },
-        {
-            "family_id": "commentary-reception",
-            "status": "secondary-open"
-        }
-    ],
-    "translation_sync": {
-        "status": "synced_through_current_frontier"
-    },
-    "evented_anchor_protocol": {
-        "status": "required_from_first_ocr_and_first_text_change"
-    },
-    "witness_coordinate_spec": {
-        "status": "required_before_first_comparison_handoff"
-    },
-    "anchor_planning": {
-        "status": "page-span-plan-and-first-base-anchor-opening-complete",
-        "planning_document": "../../../provenance/song-of-enlightenment/process/anchor-planning.md",
-        "active_exact_image_witnesses": [
-            {
-                "witness_id": "YJG-W16",
-                "poem_span_start": "page-0007",
-                "poem_span_end": "page-0054",
-                "early_character_capture_watchlist": [
-                    "page-0007"
-                ]
-            },
-            {
-                "witness_id": "YJG-W17",
-                "poem_span_start": "page-0007",
-                "poem_span_end": "page-0056",
-                "early_character_capture_watchlist": [
-                    "page-0007"
-                ]
-            },
-            {
-                "witness_id": "YJG-W22",
-                "poem_span_start": "page-0007",
-                "poem_span_end": "page-0063",
-                "early_character_capture_watchlist": [
-                    "page-0007",
-                    "page-0063"
-                ]
-            }
-        ],
-        "line_map_document": "../../../provenance/song-of-enlightenment/process/poem-line-map.md",
-        "anchor_base_register": "../../../provenance/song-of-enlightenment/process/anchor-base-register.jsonl",
-        "opened_row_totals": {
-            "page_tier": 155,
-            "line_tier": 717,
-            "total": 872
-        }
+    {
+      "family_id": "commentary-reception",
+      "status": "secondary-preserved"
     }
+  ],
+  "translation_sync": {
+    "status": "synced_through_current_frontier"
+  },
+  "evented_anchor_protocol": {
+    "status": "required_from_first_ocr_and_first_text_change"
+  },
+  "witness_coordinate_spec": {
+    "status": "required_before_first_comparison_handoff"
+  },
+  "anchor_planning": {
+    "status": "page-span-plan-and-first-base-anchor-opening-complete",
+    "planning_document": "../../../provenance/song-of-enlightenment/process/anchor-planning.md",
+    "active_exact_image_witnesses": [
+      {
+        "witness_id": "YJG-W16",
+        "poem_span_start": "page-0007",
+        "poem_span_end": "page-0054",
+        "early_character_capture_watchlist": [
+          "page-0007"
+        ]
+      },
+      {
+        "witness_id": "YJG-W17",
+        "poem_span_start": "page-0007",
+        "poem_span_end": "page-0056",
+        "early_character_capture_watchlist": [
+          "page-0007"
+        ]
+      },
+      {
+        "witness_id": "YJG-W22",
+        "poem_span_start": "page-0007",
+        "poem_span_end": "page-0063",
+        "early_character_capture_watchlist": [
+          "page-0007",
+          "page-0063"
+        ]
+      }
+    ],
+    "line_map_document": "../../../provenance/song-of-enlightenment/process/poem-line-map.md",
+    "anchor_base_register": "../../../provenance/song-of-enlightenment/process/anchor-base-register.jsonl",
+    "opened_row_totals": {
+      "page_tier": 155,
+      "line_tier": 717,
+      "total": 872
+    }
+  },
+  "completion": {
+    "status": "declared_complete",
+    "declaration_date": "2026-05-15",
+    "declaration_note": "Poem-first critical edition closed after publication build and inter-critical-edition comparison gate."
+  },
+  "intercritical_edition_gate": {
+    "status": "closed",
+    "comparanda_checked": [
+      "faith-in-mind"
+    ],
+    "text_change_required": false,
+    "outputs": [
+      "../../../provenance/song-of-enlightenment/process/prior-editions-register.md",
+      "../../../provenance/song-of-enlightenment/process/interedition-overlap-log.md",
+      "../../../provenance/song-of-enlightenment/process/interedition-precedence-table.json"
+    ]
+  }
 }

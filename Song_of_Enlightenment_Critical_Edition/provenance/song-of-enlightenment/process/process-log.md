@@ -1188,3 +1188,26 @@
   - `YJG-W17` `page-0057`
 
   - `YJG-W22` `page-0063`
+
+## 2026-05-15
+
+- Built the publication-facing Song working critical text directly from the synchronized accepted Chinese and English frontier in `translation-diff-log.md`.
+
+- Built the first real Song TEI edition at `xml-open/ce/song-of-enlightenment/song-of-enlightenment.xml` from that same stabilized reading text.
+
+- Added the publication-facing edition documents:
+  - `working-critical-text.md`
+  - `editorial-method.md`
+  - `editorial-introduction.md`
+  - `commentary-secondary-track.md`
+
+- Ran the mandatory inter-critical-edition comparison gate against the only prior completed comparandum, `Faith in Mind`.
+
+- Recorded the gate outputs in:
+  - `prior-editions-register.md`
+  - `interedition-overlap-log.md`
+  - `interedition-precedence-table.json`
+
+- Closed the gate with no Song poem-body text change. The only real consequence is a chronology-aware package-level intertextual note: later `Faith in Mind` secondary or commentary-facing material can quote or reuse Song phrase families, but the two main edited poem bodies do not govern one another.
+
+- Synchronized the package state, checklist, document registry, TEI presence, and validator to the completed poem-first edition state.

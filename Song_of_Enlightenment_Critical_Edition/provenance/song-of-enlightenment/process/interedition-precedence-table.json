@@ -1,0 +1,28 @@
+{
+  "edition_slug": "song-of-enlightenment",
+  "gate_date": "2026-05-15",
+  "comparanda": [
+    {
+      "comparandum_slug": "faith-in-mind",
+      "classification_main_text": "no_meaningful_overlap",
+      "classification_secondary_track": "probable_quotation_or_reuse",
+      "current_edition_date_profile": {
+        "traditional_attribution": "Yongjia Xuanjue",
+        "date_note": "Traditionally associated with Yongjia Xuanjue (665-713); present text-form handled as early Tang orbit in this package."
+      },
+      "comparandum_date_profile": {
+        "traditional_attribution": "Sengcan",
+        "date_note": "Actual composition history remains uncertain; rely on Faith package editorial method and introduction for caution."
+      },
+      "precedence_judgment": "later_faith_commentary_can_quote_song_not_reverse",
+      "editorial_consequence": [
+        "no_text_change",
+        "context_note_only"
+      ],
+      "evidence_refs": [
+        "Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/witnesses/witness-register.md",
+        "Faith_in_Mind_Critical_Edition/xml-open/ce/faith-in-mind/timeline.json",
+        "Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/process/current-state.md"
+      ]
+    }
+  ]

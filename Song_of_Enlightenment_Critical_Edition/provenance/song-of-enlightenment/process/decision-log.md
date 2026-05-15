@@ -366,3 +366,9 @@
 
 - Reason: the remaining first-tier OCR tranche did materially improve the evidentiary posture of the edition, but only at the level of boundary, closure, and witness-class reinforcement. Leaving that result implicit would invite later overreading of those witnesses as if a silent extra correction layer were still pending.
 
+## D-044 `2026-05-15`
+
+- Decision: build the publication-facing Song edition directly from the synchronized accepted reading text and selective apparatus, then close the mandatory inter-critical-edition comparison gate before declaring completion.
+
+- Reason: after the post-OCR editorial pass, no further ordinary local correction work remained. The next honest philological work was publication build plus the repo-wide late comparison gate, not another round of hidden witness churn.
+

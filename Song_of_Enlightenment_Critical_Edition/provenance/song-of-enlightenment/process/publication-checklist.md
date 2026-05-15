@@ -84,6 +84,9 @@
 
 - [x] machine-readable apparatus opened
 
-- [ ] TEI edition built
+- [x] TEI edition built
+- [x] publication-facing edition documents built
+- [x] inter-critical-edition comparison gate closed
+- [x] completion declared
 
 - [ ] ReadZen handoff prepared

@@ -99,6 +99,46 @@
       "id": "translation-diff-log",
       "title": "Translation Diff Log",
       "path": "provenance/song-of-enlightenment/process/translation-diff-log.md"
+    },
+    {
+      "id": "working-critical-text",
+      "title": "Working Critical Text",
+      "path": "provenance/song-of-enlightenment/edition/working-critical-text.md"
+    },
+    {
+      "id": "editorial-method",
+      "title": "Editorial Method",
+      "path": "provenance/song-of-enlightenment/edition/editorial-method.md"
+    },
+    {
+      "id": "editorial-introduction",
+      "title": "Editorial Introduction",
+      "path": "provenance/song-of-enlightenment/edition/editorial-introduction.md"
+    },
+    {
+      "id": "commentary-secondary-track",
+      "title": "Commentary Secondary Track",
+      "path": "provenance/song-of-enlightenment/edition/commentary-secondary-track.md"
+    },
+    {
+      "id": "prior-editions-register",
+      "title": "Prior Editions Register",
+      "path": "provenance/song-of-enlightenment/process/prior-editions-register.md"
+    },
+    {
+      "id": "interedition-overlap-log",
+      "title": "Interedition Overlap Log",
+      "path": "provenance/song-of-enlightenment/process/interedition-overlap-log.md"
+    },
+    {
+      "id": "interedition-precedence-table",
+      "title": "Interedition Precedence Table",
+      "path": "provenance/song-of-enlightenment/process/interedition-precedence-table.json"
+    },
+    {
+      "id": "tei-song-of-enlightenment",
+      "title": "Song TEI",
+      "path": "xml-open/ce/song-of-enlightenment/song-of-enlightenment.xml"
     }
   ]
 }

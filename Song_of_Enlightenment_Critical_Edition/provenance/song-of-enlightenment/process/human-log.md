@@ -176,3 +176,15 @@
 - That is not a failure. It is the correct philological result of the pass: those witnesses now matter more securely as closure and witness-class controls than as a source of another last-minute adopted reading.
 
 - Writing that down matters because otherwise the package keeps an unhealthy ambiguity, as if more silent text change were still waiting inside `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, or `YJG-W9`. After this pass, that ambiguity is gone.
+
+## 2026-05-15
+
+- The package has now crossed the line from editorial workspace to publication-form edition package. The accepted reading text is no longer stranded inside process logs; it now exists as a working critical text and as a real TEI file.
+
+- That matters because later app work, comparison work, and registry work no longer have to reconstruct the edition from OCR, anchor, and apparatus surfaces alone. The edition now has the normal public-facing artifacts it was supposed to end with.
+
+- The required late comparison against `Faith in Mind` has also now been run. The result is useful but not destabilizing: there is no reason to rewrite the Song poem body because of `Faith in Mind`, but there is a genuine package-level intertextual relationship because the broader `Faith in Mind` commentary-secondary archive repeatedly mines `證道歌` quotation families.
+
+- That is exactly the kind of late philological note the new inter-edition law was meant to preserve: real context, chronology, and overlap classification without letting one edition become a hidden witness for another.
+
+- On the current basis, the Song package is now complete as a poem-first critical edition. What remains is downstream work only: rendering, later revision, or blocked-witness recovery if someone explicitly reopens the edition.

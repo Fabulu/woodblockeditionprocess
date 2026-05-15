@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import subprocess
 import sys
 from pathlib import Path
 
@@ -18,6 +19,9 @@ REQUIRED_FILES = [
     PROCESS_DIR / "decision-log.md",
     PROCESS_DIR / "human-log.md",
     PROCESS_DIR / "publication-checklist.md",
+    PROCESS_DIR / "prior-editions-register.md",
+    PROCESS_DIR / "interedition-overlap-log.md",
+    PROCESS_DIR / "interedition-precedence-table.json",
     PROCESS_DIR / "unresolved-loci.md",
     PROCESS_DIR / "correction-log.md",
     PROCESS_DIR / "translation-diff-log.md",
@@ -36,6 +40,11 @@ REQUIRED_FILES = [
     XML_DIR / "apparatus.json",
     XML_DIR / "documents.json",
     XML_DIR / "stats.json",
+    XML_DIR / "song-of-enlightenment.xml",
+    ROOT / "provenance" / "song-of-enlightenment" / "edition" / "working-critical-text.md",
+    ROOT / "provenance" / "song-of-enlightenment" / "edition" / "editorial-method.md",
+    ROOT / "provenance" / "song-of-enlightenment" / "edition" / "editorial-introduction.md",
+    ROOT / "provenance" / "song-of-enlightenment" / "edition" / "commentary-secondary-track.md",
 ]
 
 
@@ -86,6 +95,18 @@ def main() -> int:
 
     if "project" not in stats:
         return fail("stats.json missing project block")
+
+    validator = ROOT.parent / "tools" / "validate_openzentexts_tei.py"
+    tei_path = XML_DIR / "song-of-enlightenment.xml"
+    try:
+        subprocess.run(
+            [sys.executable, str(validator), str(tei_path)],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except subprocess.CalledProcessError as exc:
+        return fail(exc.stderr.strip() or exc.stdout.strip() or "TEI validation failed")
 
     print("VALIDATION PASSED")
     return 0

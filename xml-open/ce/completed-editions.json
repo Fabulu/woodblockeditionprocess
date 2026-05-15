@@ -30,6 +30,35 @@
         "editorial_method_md": "Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/edition/editorial-method.md",
         "editorial_introduction_md": "Faith_in_Mind_Critical_Edition/provenance/faith-in-mind/edition/editorial-introduction.md"
       }
+    },
+    {
+      "slug": "song-of-enlightenment",
+      "title": {
+        "en": "Song of Enlightenment",
+        "zh": "永嘉證道歌"
+      },
+      "edition_type": "critical_edition",
+      "scope_mode": "poem_first",
+      "completion": {
+        "status": "declared_complete",
+        "declaration_date": "2026-05-15",
+        "declaration_note": "Poem-first critical edition closed after publication build and inter-critical-edition comparison gate."
+      },
+      "text_date_profile": {
+        "traditional_attribution": "Yongjia Xuanjue (traditional attribution)",
+        "date_note": "Consult package-local editorial method and introduction for the edition date profile and cautions."
+      },
+      "artifacts": {
+        "package_root": "Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment",
+        "process_json": "Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/process.json",
+        "timeline_json": "Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/timeline.json",
+        "documents_json": "Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/documents.json",
+        "apparatus_json": "Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/apparatus.json",
+        "tei_xml": "Song_of_Enlightenment_Critical_Edition/xml-open/ce/song-of-enlightenment/song-of-enlightenment.xml",
+        "current_state_md": "Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/process/current-state.md",
+        "editorial_method_md": "Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/edition/editorial-method.md",
+        "editorial_introduction_md": "Song_of_Enlightenment_Critical_Edition/provenance/song-of-enlightenment/edition/editorial-introduction.md"
+      }
     }
   ]
 }

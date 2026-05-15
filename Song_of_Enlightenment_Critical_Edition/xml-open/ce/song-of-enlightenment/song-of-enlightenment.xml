@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../schemas/openzentexts-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh-Hant">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Song of Enlightenment</title>
+        <title xml:lang="zh-Hant">永嘉證道歌</title>
+        <author>Traditionally attributed to Yongjia Xuanjue</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Song of Enlightenment critical edition package</publisher>
+        <date when="2026-05-15">2026-05-15</date>
+        <availability status="unknown">
+          <p>Publication-form research release candidate. No separate public license statement is supplied in this TEI file.</p>
+        </availability>
+        <p>Poem-first critical edition assembled from the stabilized Song of Enlightenment witness package and synchronized translation frontier on 2026-05-15.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="YJG-W22">Selected copy-text and earliest complete independent exact witness held as a full local image tranche.</witness>
+          <witness xml:id="YJG-W16">Primary clean shared exact comparison witness for much of the stabilized interior.</witness>
+          <witness xml:id="YJG-W17">Primary clean shared exact comparison witness with strong closing control.</witness>
+          <witness xml:id="YJG-W2">Commentary-bearing first-tier exact control with stable opening and closing span.</witness>
+          <witness xml:id="YJG-W4C">Short-tranche exact control with stable opening and closing span.</witness>
+          <witness xml:id="YJG-W4F">Commentary-bearing first-tier exact control with stable opening and closing span.</witness>
+          <witness xml:id="YJG-W4G">First-tier exact closure and witness-class control.</witness>
+          <witness xml:id="YJG-W8">Korean exact closure and witness-class control.</witness>
+          <witness xml:id="YJG-W9">Korean exact closure and witness-class control.</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This TEI publishes the poem only. Commentary-bearing, derivative anthology, and reception witnesses remain preserved as secondary controls and do not drive the main poem body.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The edition uses a poem-first best-witness model. YJG-W22 is the selected copy-text at witness level, but clean shared exact agreement in YJG-W16 and YJG-W17 controls much of the stabilized interior, while additional first-tier exact witnesses reinforce boundary and witness-class judgments.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-05-15">First populated poem-first TEI edition created from the stabilized translation-synced reading text and selective apparatus layer.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="editorial_note" xml:id="ed-note">
+        <head>Editorial Note</head>
+        <p>The present edition is poem-first. The package preserves broad witness acquisition, OCR, and secondary control work, but the edited text below contains only the stabilized poem loci carried into the current critical reading text.</p>
+      </div>
+      <div type="editorial_summary" xml:id="ed-summary">
+        <head>Summary of Method</head>
+        <p>The reading text follows the selected YJG-W22 witness at witness level, but it does not mechanically follow every local page where YJG-W16 and YJG-W17 preserve a cleaner shared exact interior basis. Additional first-tier exact witnesses now reinforce opening, closing, and witness-class judgments without forcing further adopted text change.</p>
+      </div>
+    </front>
+    <body>
+      <div type="poem" xml:id="song-of-enlightenment">
+        <head>永嘉證道歌</head>
+        <lg type="poem">
+          <l n="1" corresp="urn:locus:opening-shared-a">君不見 絕學無爲閑道人 不除妄想不求真 無明實性即佛性 幻化空身即法身</l>
+          <l n="2" corresp="urn:locus:opening-shared-b">法身覺了無一物 本源自性天真佛 五蘊浮雲空去來 三毒水泡虛出沒</l>
+          <l n="3" corresp="urn:locus:opening-shared-c">證實相 無人法 刹那滅却阿鼻業 若將妄語誑眾生 自招拔舌塵沙劫 頓覺了 如來禪 六度萬行體中圓</l>
+          <l n="4" corresp="urn:locus:early-interior-shared-d">夢裏明明有六趣 覺後空空無大千</l>
+          <l n="5" corresp="urn:locus:early-interior-shared-e">無罪福 無損益 寂滅性中莫問覓</l>
+          <l n="6" corresp="urn:locus:early-interior-shared-f">比來塵鏡未曾磨 今日分明須剖析</l>
+          <l n="7" corresp="urn:locus:adjacent-interior-shared-g">誰無念 誰無生 若實無生無不生</l>
+          <l n="8" corresp="urn:locus:adjacent-interior-shared-h">喚取機關木人問 求佛施功早晚成</l>
+          <l n="9" corresp="urn:locus:adjacent-interior-shared-i">放四大 莫把捉 寂滅性中隨飲啄</l>
+          <l n="10" corresp="urn:locus:adjacent-interior-shared-j">諸行無常一切空 即是如來大圓覺</l>
+          <l n="11" corresp="urn:locus:adjacent-interior-shared-k">決定說 表真僧 有人不肯任情徵</l>
+          <l n="12" corresp="urn:locus:shared-interior-shared-l">我心自空罪福無主 觀善惡如空華</l>
+          <l n="13" corresp="urn:locus:shared-interior-shared-m">智者無畏疑者懼 猶如虛空豈有涯</l>
+          <l n="14" corresp="urn:locus:shared-interior-shared-n">還如木人看花鳥 何妨萬物假圍繞</l>
+          <l n="15" corresp="urn:locus:shared-interior-shared-o">釋迦種裏收不得 卻羨神仙不肯要</l>
+          <l n="16" corresp="urn:locus:shared-interior-shared-p">常獨行 常獨步 達者同遊涅槃路</l>
+          <l n="17" corresp="urn:locus:shared-interior-shared-q">調古神清風自高 貌悴骨剛人不顧</l>
+          <l n="18" corresp="urn:locus:shared-interior-shared-r">窮釋子 口稱貧 實是身貧道不貧</l>
+          <l n="19" corresp="urn:locus:shared-interior-shared-s">貧則身常披縷褐 道則心藏無價珍</l>
+          <l n="20" corresp="urn:locus:shared-interior-shared-t">無價珍 用無盡 利物應機終不吝</l>
+          <l n="21" corresp="urn:locus:shared-interior-shared-u">三身四智體中圓 八解六通心地印</l>
+          <l n="22" corresp="urn:locus:shared-interior-shared-v">高低普應前後無差</l>
+          <l n="23" corresp="urn:locus:shared-interior-shared-w">尋枝摘葉我不能也</l>
+          <l n="24" corresp="urn:locus:shared-interior-shared-x">摩尼珠人不識 如來藏裏親收得</l>
+          <l n="25" corresp="urn:locus:shared-interior-shared-y">六般神用空不空 一顆圓光色非色</l>
+          <l n="26" corresp="urn:locus:shared-interior-shared-z">淨五眼 得五力 惟證乃知難可測</l>
+          <l n="27" corresp="urn:locus:shared-interior-shared-aa">鏡裏看形見不難 水中捉月爭拈得</l>
+          <l n="28" corresp="urn:locus:shared-interior-shared-ab">作麼生 行亦禪 坐亦禪</l>
+          <l n="29" corresp="urn:locus:shared-interior-shared-ac">語默動靜體安然</l>
+          <l n="30" corresp="urn:locus:shared-interior-shared-ad">縱遇鋒刀常坦坦 假饒毒藥也閑閑</l>
+          <l n="31" corresp="urn:locus:shared-interior-shared-ae">我師得見燃燈佛 多劫曾為忍辱仙</l>
+          <l n="32" corresp="urn:locus:shared-interior-shared-af">幾回生 幾回死 生死悠悠無定止</l>
+          <l n="33" corresp="urn:locus:shared-interior-shared-ag">自從頓悟了無生 於諸榮辱何憂喜</l>
+          <l n="34" corresp="urn:locus:shared-interior-shared-ah">入深山 住蘭若 岑崟幽邃長松下</l>
+          <l n="35" corresp="urn:locus:shared-interior-shared-ai">優游靜坐野僧家 闃寂安居實瀟灑</l>
+          <l n="36" corresp="urn:locus:shared-interior-shared-aj">覺即了 不施功 一切有為法不同</l>
+          <l n="37" corresp="urn:locus:shared-interior-shared-ak">住相布施生天福 猶如仰箭射虛空</l>
+          <l n="38" corresp="urn:locus:shared-interior-shared-al">勢力盡 箭還墜 招得來生不如意</l>
+          <l n="39" corresp="urn:locus:shared-interior-shared-am">爭似無為實相門 一超直入如來地</l>
+          <l n="40" corresp="urn:locus:shared-interior-shared-an">但得本 莫愁末 如淨琉璃含寶月 既能解此如意珠 自利利他終不竭 江月照 松風吹 永夜清宵何所為</l>
+          <l n="41" corresp="urn:locus:shared-interior-shared-ao">佛性戒珠心地印 霧露雲霞體上衣 降龍鉢 解虎錫 兩鈷金環鳴歷歷 不是標形虛事持 如來寶杖親蹤跡</l>
+          <l n="42" corresp="urn:locus:shared-interior-shared-ap">不求真 不斷妄 了知二法空無相 無相無空無不空 即是如來真實相 心鏡明 鑑無礙 廓然瑩徹周沙界</l>
+          <l n="43" corresp="urn:locus:shared-interior-shared-aq">萬象森羅影現中 一顆圓光非內外 豁達空 撥因果 莽莽蕩蕩招殃禍 棄有著空病亦然 還如避溺而投火</l>
+          <l n="44" corresp="urn:locus:shared-interior-shared-ar">捨妄心 取真理 取捨之心成巧僞 學人不了用修行 深成認賊將為子 損法財 滅功德 莫不由斯心意識 所以禪門了卻心 頓入無生知見力</l>
+          <l n="45" corresp="urn:locus:shared-interior-shared-as">大丈夫 秉慧劍 般若鋒兮金剛焰 非但空摧外道心 早曾落却天魔膽 震法雷 擊法鼓 布慈雲兮灑甘露 龍象蹴蹋潤無邊 三乘五性皆醒悟</l>
+          <l n="46" corresp="urn:locus:shared-interior-shared-at">雪山肥膩更無雜 純出醍醐我常納 一性圓通一切性 一法遍含一切法 一月普現一切水 一切水月一月攝 諸佛法身入我性 我性同共如來合 一地具足一切地 非色非心非行業 彈指圓成八萬門 剎那滅卻三祇劫 無量法門咸在目前 咫尺匪遙蹔時岐隔</l>
+          <l n="47" corresp="urn:locus:shared-interior-shared-au">師子吼 無畏說 深嗟懵懂頑皮靼 只知犯重障菩提 不見如來開祕訣</l>
+          <l n="48" corresp="urn:locus:shared-interior-shared-av">有二比丘犯淫殺 波離螢光增罪結 維摩大士頓除疑 猶如赫日消霜雪</l>
+          <l n="49" corresp="urn:locus:shared-interior-shared-aw">不思議 解脫力 妙用恒沙也無極 四事供養敢辭勞 萬兩黃金亦銷得</l>
+          <l n="50" corresp="urn:locus:shared-interior-shared-ax">粉骨碎身未足酬 一句了然超百億 法中王 最高勝 河沙如來同共證</l>
+          <l n="51" corresp="urn:locus:shared-interior-shared-ay">我今解此如意珠 信受之者皆相應</l>
+        </lg>
+      </div>
+    </body>
+    <back>
+      <div type="apparatus_note" xml:id="apparatus-summary">
+        <head>Apparatus Summary</head>
+        <p>The machine-readable apparatus is stored separately in <ref target="apparatus.json">apparatus.json</ref>. It is a selective poem-level apparatus recording only the material grouped judgments accepted into this release; it does not pretend to be a full witness-by-witness collation.</p>
+      </div>
+      <div type="commentary_note" xml:id="commentary-secondary-note">
+        <head>Secondary Controls</head>
+        <p>Commentary-bearing, derivative anthology, and blocked witnesses remain preserved as secondary controls for witness ecology, boundary support, and later research. They do not form part of the main edited poem text.</p>
+      </div>
+    </back>
+  </text>
+</TEI>
