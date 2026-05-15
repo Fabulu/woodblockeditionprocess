@@ -352,6 +352,12 @@
             "date": "2026-05-14",
             "type": "machine_readable_apparatus_opened",
             "summary": "Opened the first non-empty machine-readable selective apparatus layer in xml-open/ce/song-of-enlightenment/apparatus.json by promoting the already stabilized grouped poem-level judgments out of markdown-only status. The new layer records the mixed opening boundary, the early and main clean shared exact basis, the poem-band-filtered late receipt cluster, the late-span closure controls from the newly OCR-complete first-tier field, the copy-text closing watchpoint at YJG-W22 page-0063, the commentary-bearing witness-class status of YJG-W2/YJG-W4F, and the blocked source-format state of YJG-W21."
+        },
+        {
+            "event_id": "YJG-059",
+            "date": "2026-05-15",
+            "type": "post_ocr_editorial_pass_completed",
+            "summary": "Completed the first explicit post-OCR editorial pass over the newly OCR-complete first-tier field. The pass found no further poem-level intervention strong enough to alter the stabilized reading text: YJG-W2, YJG-W4C, YJG-W4F, YJG-W4G, YJG-W8, and YJG-W9 now stand as stronger boundary, closure, and witness-class controls, while YJG-W21 remains honestly blocked by source-format failure."
         }
     ]
 }

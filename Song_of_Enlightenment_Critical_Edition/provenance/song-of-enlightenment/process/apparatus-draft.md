@@ -163,6 +163,20 @@
 - Note:
   `YJG-W21` was reprobed at the end of the remaining first-tier OCR tranche and remains blocked because the held local PDF still opens as `PDF 1.4` while exposing `0` renderable pages. This is recorded as a source-format failure, not as a suppressed witness or an implicit editorial rejection.
 
+## Entry 10: post-OCR editorial pass yields no further adopted text change
+
+- Locus basis:
+  - `post_ocr_editorial_pass_remaining_first_tier_field`
+- Witness basis:
+  - `YJG-W2`
+  - `YJG-W4C`
+  - `YJG-W4F`
+  - `YJG-W4G`
+  - `YJG-W8`
+  - `YJG-W9`
+- Note:
+  A fresh editorial pass over the newly OCR-complete first-tier field found no additional poem-level intervention strong enough to alter the currently stabilized reading text. The real gain of that tranche is evidentiary reinforcement: stronger late-span closure control, stronger packaging classification, and a firmer basis for saying that the present poem text does not need another silent round of correction from those witnesses.
+
 ## Current limits
 
 - This draft does not yet attempt full variant collation.

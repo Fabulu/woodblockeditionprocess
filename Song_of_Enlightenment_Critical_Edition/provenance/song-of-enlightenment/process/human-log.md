@@ -170,3 +170,9 @@
 - This did not suddenly make the edition fully collated. The machine-readable apparatus stays grouped and poem-level, exactly because `YJG-W2` and `YJG-W4F` are still commentary-bearing surfaces, `YJG-W4C` is still a short tranche, and `YJG-W21` is still blocked by source format rather than editorial will.
 
 - The practical gain is still real. The package now has one place where a frontend, later TEI build, or final publication pass can read the current editorial judgments without re-mining the process prose every time.
+
+- The next editorial question was whether the newly OCR-complete first-tier field still hid one more poem correction. The answer is now explicitly no.
+
+- That is not a failure. It is the correct philological result of the pass: those witnesses now matter more securely as closure and witness-class controls than as a source of another last-minute adopted reading.
+
+- Writing that down matters because otherwise the package keeps an unhealthy ambiguity, as if more silent text change were still waiting inside `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, or `YJG-W9`. After this pass, that ambiguity is gone.

@@ -360,3 +360,9 @@
 
 - Reason: the newly completed first-tier OCR field materially strengthens witness-class and closure judgments, so the apparatus should no longer live only in markdown. But the package still does not have a warrant for full line-by-line or character-tier extraction from commentary-bearing, short-tranche, or blocked witnesses.
 
+## D-043 `2026-05-15`
+
+- Decision: close the first post-OCR editorial pass by recording explicitly that the newly OCR-complete first-tier field yields no further adopted text change.
+
+- Reason: the remaining first-tier OCR tranche did materially improve the evidentiary posture of the edition, but only at the level of boundary, closure, and witness-class reinforcement. Leaving that result implicit would invite later overreading of those witnesses as if a silent extra correction layer were still pending.
+

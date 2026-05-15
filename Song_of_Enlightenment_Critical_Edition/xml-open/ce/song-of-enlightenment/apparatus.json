@@ -102,6 +102,21 @@
         "YJG-W21"
       ],
       "note": "The held PDF still opens locally as PDF 1.4 with zero renderable pages. This witness is blocked by source-format failure rather than excluded by editorial choice."
+    },
+    {
+      "id": "app-009",
+      "locus": "post_ocr_editorial_pass_remaining_first_tier_field",
+      "kind": "no_new_text_change",
+      "edited_reading": "The newly OCR-complete first-tier field strengthens boundary, closure, and witness-class judgments, but does not justify any additional adopted text change in the stabilized poem.",
+      "supporting_witnesses": [
+        "YJG-W2",
+        "YJG-W4C",
+        "YJG-W4F",
+        "YJG-W4G",
+        "YJG-W8",
+        "YJG-W9"
+      ],
+      "note": "A fresh editorial pass over the completed first-tier OCR field found no new poem-level intervention strong enough to alter the accepted reading text. The gain is evidentiary reinforcement and sharper witness classification, not a further corrected line."
     }
   ]
 }

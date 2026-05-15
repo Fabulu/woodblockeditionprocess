@@ -6,13 +6,13 @@
 
 - Date: `2026-05-14`
 
-- Phase: `machine-readable-apparatus-opened`
+- Phase: `editorial-pass-completed`
 
-- Current slice: `post_ocr_editorial_consolidation_after_machine_readable_apparatus_opening`
+- Current slice: `post_ocr_editorial_pass_no_new_text_change`
 
-- Last completed slice: `post_ocr_editorial_consolidation_after_machine_readable_apparatus_opening`
+- Last completed slice: `post_ocr_editorial_pass_no_new_text_change`
 
-- Next required action: preserve the package honestly at the post-OCR apparatus frontier. The render-prepared held first-tier OCR tranche is complete for `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9`, `YJG-W21` remains honestly blocked because the held PDF still opens as PDF `1.4` with `0` renderable pages locally, and the selective apparatus now exists in both markdown and machine-readable form. The next necessary local work is no longer OCR completion but further editorial consolidation such as TEI build, additional selective apparatus judgment only where genuinely new, or the later inter-edition comparison gate
+- Next required action: preserve the package honestly after the first explicit post-OCR editorial pass. The newly OCR-complete first-tier field has now been reviewed and recorded as reinforcement rather than as a source of further adopted text change: `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9` strengthen boundary, closure, and witness-class judgments, while `YJG-W21` remains honestly blocked because the held PDF still opens as PDF `1.4` with `0` renderable pages locally. The next necessary local work is no longer another ordinary editorial pass but TEI build, final publication-oriented consolidation, or the later inter-edition comparison gate
 
 - Render-preparation result: the queued first-tier PDF tranche is now materially opened for direct local use on `YJG-W2` (`54` pages), `YJG-W4C` (`23`), `YJG-W4F` (`52`), `YJG-W4G` (`67`), `YJG-W8` (`61`), and `YJG-W9` (`61`) via package-local `images/page-####.jpg` outputs at `300` DPI. `YJG-W21` remains an honest source-format blocker inside this same tranche because the held PDF reports as PDF `1.4` but exposes `0` renderable pages under the local renderer
 
@@ -34,13 +34,15 @@
 
 - Machine-readable apparatus opening result: the package now also has a non-empty `xml-open/ce/song-of-enlightenment/apparatus.json` carrying the already stabilized selective poem-level entries. This machine-readable layer now records the mixed opening boundary, the early and main clean shared exact basis, the poem-band-filtered late receipt cluster, the late-span closure controls from the newly OCR-complete first-tier field, the copy-text closing watchpoint at `YJG-W22 page-0063`, the commentary-bearing witness-class status of `YJG-W2` / `YJG-W4F`, and the honest blocked state of `YJG-W21`
 
+- Editorial pass result: a fresh post-OCR editorial pass over the newly completed first-tier field found no further poem-level intervention strong enough to alter the accepted text. The package now records this explicitly: the gain of `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9` at this stage is reinforcement of boundary, closure, and witness-class judgments rather than a new corrected reading
+
 - Translation opening result: the package has now left the exhausted ordinary-apparatus gate and opened live translation sync in the existing translation surfaces. English renderings are now present for the stabilized opening, the first clean early-interior continuation, and the adjacent clean interior continuation through `決定說 表真僧 有人不肯任情徵`
 
 - Main clean translation continuation result: the translation surfaces now also carry first-pass English renderings for the main clean shared interior run from `我心自空罪福無主 觀善惡如空華` through `無量法門咸在目前 咫尺匪遙蹔時岐隔`, with the denser doctrinal choices logged in `translation-reasoning-log.md`
 
 - Late receipt translation continuation result: the translation surfaces now also carry first-pass English renderings for the poem-band-filtered late receipt cluster from `師子吼 無畏說` through `我今解此如意珠 信受之者皆相應`
 
-- Next required slice: `post_ocr_editorial_consolidation_after_machine_readable_apparatus_opening`
+- Next required slice: `tei_build_or_final_publication_consolidation`
 
 - Copy-text status: selected as `YJG-W22`
 

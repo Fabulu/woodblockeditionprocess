@@ -758,6 +758,28 @@
 
 - Updated the package state so the next local work is no longer more OCR or ordinary apparatus continuation, but post-OCR editorial consolidation from this machine-readable apparatus frontier.
 
+- Completed the first explicit post-OCR editorial pass over the newly OCR-complete first-tier field.
+
+- Recorded the negative but important judgment explicitly:
+
+  - `YJG-W2`, `YJG-W4C`, `YJG-W4F`, `YJG-W4G`, `YJG-W8`, and `YJG-W9` now reinforce boundary, closure, and witness-class control
+
+  - they do **not** justify a further adopted poem-text change
+
+- Synchronized that judgment across:
+
+  - `apparatus-draft.md`
+
+  - `apparatus.json`
+
+  - `rejected-readings-log.md`
+
+  - `current-state.md`
+
+  - `process.json`
+
+  - `timeline.json`
+
 
 - Continued the same render-prepared closing-boundary tranche beyond the already stabilized Korean pair rather than fragmenting the work into witness-by-witness micromoves.
 
