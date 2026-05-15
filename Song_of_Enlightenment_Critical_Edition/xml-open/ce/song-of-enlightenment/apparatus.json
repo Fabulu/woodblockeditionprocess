@@ -1,0 +1,107 @@
+{
+  "title": "Song of Enlightenment selective apparatus",
+  "apparatus_type": "selective_poem_level",
+  "base_witness": "YJG-W22",
+  "scope_note": "Selective apparatus recording only material poem-level boundary judgments, witness-class controls, and copy-text-sensitive watchpoints from the currently stabilized Song of Enlightenment critical-edition state.",
+  "selection_principle": "Only grouped poem-level judgments already stabilized in the package are recorded here. OCR-only noise, commentary-only continuation, and blocked witness recovery are excluded.",
+  "witness_ordering": "Active exact image witnesses are listed first, followed by render-prepared first-tier exact controls in siglum order.",
+  "entries": [
+    {
+      "id": "app-001",
+      "locus": "opening-shared-a/opening-shared-b/opening-shared-c",
+      "kind": "boundary_judgment",
+      "edited_reading": "The stabilized poem opening begins on mixed page-0007 in the active exact image witnesses.",
+      "supporting_witnesses": [
+        "YJG-W16",
+        "YJG-W17",
+        "YJG-W22",
+        "YJG-W2",
+        "YJG-W4C",
+        "YJG-W4F",
+        "YJG-W4G",
+        "YJG-W8",
+        "YJG-W9"
+      ],
+      "note": "The active exact image witnesses begin the poem on mixed page-0007. Render-prepared first-tier controls confirm the same boundary class under differing codicological packaging: YJG-W2/YJG-W4F/YJG-W4G begin on mixed page-0005, YJG-W4C on mixed page-0001, and YJG-W8/YJG-W9 on mixed page-0002."
+    },
+    {
+      "id": "app-002",
+      "locus": "early-interior-shared-d-to-f/adjacent-interior-shared-g-to-k",
+      "kind": "clean_shared_exact_basis",
+      "edited_reading": "The first interior continuation through 決定說 表眞僧 有人不肯任情徵 rests on clean shared direct-image agreement in YJG-W16 and YJG-W17.",
+      "supporting_witnesses": [
+        "YJG-W16",
+        "YJG-W17"
+      ],
+      "note": "This early interior tranche was stabilized from the clean Toyo and Berkeley pages rather than by forcing the copy-text interior surface or commentary-bearing controls into line-by-line use."
+    },
+    {
+      "id": "app-003",
+      "locus": "shared-interior-shared-l-to-at",
+      "kind": "clean_shared_exact_basis",
+      "edited_reading": "The main shared interior run through 無量法門咸在目前 咫尺匪遙蹔時岐隔 is a clean direct-image exact-comparison zone.",
+      "supporting_witnesses": [
+        "YJG-W16",
+        "YJG-W17"
+      ],
+      "note": "Across this tranche, YJG-W16 and YJG-W17 provided the stable reading order and OCR remained support evidence only. The entry records a clean shared basis for the adopted poem text, not a finer variant split against YJG-W22."
+    },
+    {
+      "id": "app-004",
+      "locus": "shared-interior-shared-au-to-ay",
+      "kind": "poem_band_filtered_receipt_cluster",
+      "edited_reading": "The late receipt cluster from 師子吼 無畏說 through 我今解此如意珠 信受之者皆相應 required poem-band-filtered support rather than full-page OCR confidence.",
+      "supporting_witnesses": [
+        "YJG-W16",
+        "YJG-W17"
+      ],
+      "note": "This later tranche became stable only after restricting OCR support to the registered poem-band. It therefore remains poem-level rather than character-tier and fixes the honest stop point before later commentary-style prose surfaces."
+    },
+    {
+      "id": "app-005",
+      "locus": "shared-interior-shared-ax/shared-interior-shared-ay",
+      "kind": "late_span_control",
+      "edited_reading": "The main poem-bearing section closes before the later prose or paratext of the render-prepared first-tier controls.",
+      "supporting_witnesses": [
+        "YJG-W2",
+        "YJG-W4C",
+        "YJG-W4F",
+        "YJG-W4G",
+        "YJG-W8",
+        "YJG-W9"
+      ],
+      "note": "Current late-span controls are YJG-W2 mixed page-0048, YJG-W4C mixed page-0021, YJG-W4F mixed page-0048, YJG-W4G mixed page-0058, and YJG-W8/YJG-W9 mixed page-0055. These witnesses now support poem-level closure without forcing full late-line extraction from commentary-bearing or differently packaged surfaces."
+    },
+    {
+      "id": "app-006",
+      "locus": "YJG-W22 page-0063",
+      "kind": "copy_text_watchpoint",
+      "edited_reading": "YJG-W22 remains the copy-text, and page-0063 is fixed as its final poem page before the explicit afterword on page-0064.",
+      "supporting_witnesses": [
+        "YJG-W22"
+      ],
+      "note": "The page boundary is stable, but the internal line-tier geometry on page-0063 remains provisional and should not be over-claimed until a later tighter pass."
+    },
+    {
+      "id": "app-007",
+      "locus": "YJG-W2/YJG-W4F witness class",
+      "kind": "commentary_bearing_control",
+      "edited_reading": "YJG-W2 and YJG-W4F are commentary-bearing or prose-surrounded manifestations, not bare poem-only booklets.",
+      "supporting_witnesses": [
+        "YJG-W2",
+        "YJG-W4F"
+      ],
+      "note": "Even after full four-engine OCR completion, these witnesses remain span and witness-class controls first. Their poem-bearing sections are stabilized at page level, but the package does not yet promote them into full line-by-line apparatus extraction."
+    },
+    {
+      "id": "app-008",
+      "locus": "YJG-W21",
+      "kind": "blocked_witness",
+      "edited_reading": "YJG-W21 remains outside the ordinary completed OCR queue.",
+      "supporting_witnesses": [
+        "YJG-W21"
+      ],
+      "note": "The held PDF still opens locally as PDF 1.4 with zero renderable pages. This witness is blocked by source-format failure rather than excluded by editorial choice."
+    }
+  ]
+}
