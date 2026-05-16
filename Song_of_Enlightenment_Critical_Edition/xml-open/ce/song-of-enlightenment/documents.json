@@ -121,6 +121,16 @@
       "path": "provenance/song-of-enlightenment/edition/commentary-secondary-track.md"
     },
     {
+      "id": "readzen-agent-brief",
+      "title": "ReadZen Agent Brief",
+      "path": "provenance/song-of-enlightenment/edition/readzen-agent-brief.md"
+    },
+    {
+      "id": "send-to-programmer-note",
+      "title": "Send To Programmer Note",
+      "path": "provenance/song-of-enlightenment/edition/send-to-programmer-note.md"
+    },
+    {
       "id": "prior-editions-register",
       "title": "Prior Editions Register",
       "path": "provenance/song-of-enlightenment/process/prior-editions-register.md"

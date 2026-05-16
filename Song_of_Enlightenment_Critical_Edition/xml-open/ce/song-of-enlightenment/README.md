@@ -28,6 +28,8 @@ Current state:
   - `editorial-method.md`
   - `editorial-introduction.md`
   - `commentary-secondary-track.md`
+  - `readzen-agent-brief.md`
+  - `send-to-programmer-note.md`
 - mandatory inter-critical-edition comparison gate closed against `Faith in Mind`
 - current poem-first edition declared complete on the present basis
 
